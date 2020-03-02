@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1"
+        dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="CtHi"
+            url="http://www.chs.org/finding_aides/finding_aids/chinese.html">chinese</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Phyllis Kihn research collection</titleproper>
+                <subtitle encodinganalog="245$b">A Guide to the collection at the Connecticut
+                    Historical Society </subtitle>
+                <author>Compiled by CHS Staff</author>
+
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Connecticut Historical Society</publisher>
+                <address>
+<addressline>1 Elizabeth Street</addressline>
+<addressline>Hartford, CT 06105</addressline>
+</address>
+                <p>Copyright 2012, Connecticut Historical Society</p>
+                <date>2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Created by CHS Staff, <date>August 2012</date>.</creation>
+            <langusage>Finding aid is in English.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+
+        <did>
+            <head>Collection Overview</head>
+            <repository encodinganalog="852$a" label="Repository:"><corpname>Connecticut Historical
+                    Society,
+                </corpname><address>
+    <addressline>Hartford, Connecticut</addressline>
+   </address>
+            </repository>
+            <origination encodinganalog="100" label="Creator :">Kihn, Phyllis</origination>
+            <unittitle encodinganalog="245$a" label="Title :">Phyllis Kihn research
+                collection</unittitle>
+            <unitdate encodinganalog="245$f" label="Dates : ">1870-1998</unitdate>
+            <physdesc encodinganalog="300$a" label="Extent :"><extent>1.5 linear feet (3
+                    boxes)</extent></physdesc>
+
+            <physloc label="Location:" altrender="Location :">Ms 81877</physloc>
+            <langmaterial encodinganalog="546">English</langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Historical Sketch</head>
+            <p>The Educational Mission in Hartford, Connecticut, was the fulfillment of a dream of
+                Yung Wing. He wanted Chinese youth to study American technology to improve China’s
+                engineering and infrastructure. Yung Wing came to the United States in 1847 to study
+                at Monson Academy in Massachusetts and at Yale. It was upon his return to China that
+                he began planning to send Chinese students to America.</p>
+            <p>A group of thirty students ranging in age from ten to fourteen arrived in Hartford in
+                1872. They lived with host families, attended local schools, and in the summer
+                studied Chinese classics at the Mission’s headquarters at 352 Collins Street,
+                Hartford. In 1881 the Chinese government recalled the students because they were
+                becoming too Americanized. </p>
+
+
+        </bioghist>
+        <scopecontent encodinganalog="520$a">
+            <head>Scope and Content</head>
+            <p> The collection was given the accession number of the first gift to the Historical
+                Society, a scrapbook donated by Phyllis Kihn. The other materials were donated at a
+                later time by Kihn and were also gathered when the Historical Society developed an
+                exhibit about the Mission for the Chinese Students Memorial Association in 2001.</p>
+            <p>Box 1 contains photocopies of lists of Chinese students in New England, catalogs from
+                Wesleyan Academy in Massachusetts, research notes, articles by and about the
+                students, and biographical information about them. Box 2 also contains a large
+                number of photocopies of research materials including articles about the founder,
+                Yung Wing, and about the mission in general, Chinese periodicals, letters in Chinese
+                that have not been translated, correspondence about the Historical Society’s
+                research of the mission, and collection finding aids from other repositories. The
+                third box contains a scrapbook of newspaper clippings compiled by Phyllis Kihn. </p>
+
+
+        </scopecontent>
+        <accessrestrict>
+            <head>Access Restrictions</head>
+            <p>There are no restrictions on access to the collection.</p>
+        </accessrestrict>
+
+        <userestrict>
+            <head>Use Restrictions</head>
+            <p>Use of the material requires compliance with the Connecticut Historical Society's
+                Research Center regulations.</p>
+        </userestrict>
+
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Item, Collection Title, Collection number (Box #, Folder #). Connecticut Historical
+                Society, Hartford, Connecticut.</p>
+        </prefercite>
+
+        <processinfo>
+            <head>Processing Details</head>
+            <p>Collection was processed by CHS Staff.</p>
+            <p>EAD Finding Aid created August 2012.</p>
+
+        </processinfo>
+
+        <accruals>
+            <head>Accruals</head>
+            <p>The collection is closed.</p>
+        </accruals>
+
+        <controlaccess>
+            <head>Subject Headings</head>
+
+            <controlaccess>
+                <head>Personal Names</head>
+                <persname encodinganalog="600">Yung, Wing, 1828-1912.</persname>
+
+            </controlaccess>
+
+
+            <controlaccess>
+                <head>Subjects</head>
+                <subject encodinganalog="650">Chinese -- United States.</subject>
+                <subject encodinganalog="650">Chinese Educational Commission.</subject>
+                <subject encodinganalog="650">Scrapbooks.</subject>
+            </controlaccess>
+
+
+        </controlaccess>
+
+
+
+
+        <dsc type="combined">
+            <head>Contents:</head>
+            <c01 level="series">
+                <did>
+                    <unitid>Chinese Educational Mission</unitid>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Lists of Chinese students in Connecticut and New England schools, </unittitle>
+                        <unitdate type="inclusive">1872-1880</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Catalogs, program, lists from Wesleyan Academy</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Articles, Chinese students, Springfield, Mass., </unittitle>
+                        <unitdate type="inclusive">1871-1880</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">4</container>
+                        <unittitle>Photocopies of photographs of the cornerstone laying at South
+                            Church, Springfield, Mass. and of a football team, </unittitle>
+                        <unitdate type="inclusive">1873</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unittitle>Research notes, articles copied from Hartford newspapers by
+                            Phyllis Kahn, </unittitle>
+                        <unitdate type="inclusive">1872-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unittitle>Transcriptions of articles from Hartford newspapers, </unittitle>
+                        <unitdate type="inclusive">1875-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Copies of articles about the Chinese Educational Mission, </unittitle>
+                        <unitdate type="inclusive">1875-1942</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">8</container>
+                        <unittitle>Census record notes, homes of host families, </unittitle>
+                        <unitdate type="inclusive">1880-1888</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">9</container>
+                        <unittitle>Photocopies of photographs of the Hartford homes of Chinese
+                            students</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">10</container>
+                        <unittitle>Copies of articles. A.G. Robinson, The Senior Returned Students,
+                            1932 and E.C. Gardner, An Autobiography, n.d.</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">11</container>
+                        <unittitle>Copy of a book by Thomas E. La Fargue, China’s First Hundred,
+                            1942 and a list of corrections</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">12</container>
+                        <unittitle>Articles. Helen G. Williams, International Living—An Old
+                            Experiment, 1966 and an anonymous article, Jeme Tien Yow: The Man Who
+                            Laid the Tracks from Peiping to Kalgan, </unittitle>
+                        <unitdate type="inclusive">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">13</container>
+                        <unittitle>Biographical Directory, Chinese students, compiled by Phyllis
+                            Kihn (2 volumes), n.d.</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">14</container>
+                        <unittitle>Biographical notes on Chinese students, compiled by Phyllis Kihn, </unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">15</container>
+                        <unittitle>Biographical notes on Chinese students, compiled by Phyllis
+                            Kihn,</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">16</container>
+                        <unittitle>Photocopies of photographs of the Chinese students, </unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">17</container>
+                        <unittitle>Typescripts of Hartford Courant articles, </unittitle>
+                        <unitdate type="inclusive">1891-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Articles about Yung Wing, 1965; Princeton-in-Asia, </unittitle>
+                        <unitdate type="inclusive">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> B.</container>
+                        <unittitle>Scope and content note for Yung Wing papers at Yale University, </unittitle>
+                        <unitdate type="inclusive">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> C.</container>
+                        <unittitle>Genealogy of Jane Kellogg Yung Wing, </unittitle>
+                        <unitdate type="inclusive">1914</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> D.</container>
+                        <unittitle>Copies of autographs, Chinese and English, </unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> E.</container>
+                        <unittitle>Articles about and lists of Chinese students returning to China, </unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> F.</container>
+                        <unittitle>Copies of research materials compiled by Phyllis
+                            Kihn,</unittitle>
+                        <unitdate type="inclusive">1878-1906, 1972</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> G.</container>
+                        <unittitle>Research materials compiled by Phyllis Kihn, </unittitle>
+                        <unitdate type="inclusive">1906-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> H.</container>
+                        <unittitle>Articles from the CHS Bulletin</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> I-IA.</container>
+                        <unittitle>Chinese periodical, four issues, </unittitle>
+                        <unitdate type="inclusive">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> J.</container>
+                        <unittitle>Copies of articles written in Chinese. Timothy Kao, about Jeme
+                            Tien Yow, 1972-1974; Arthur G. Robinson, Pilgrims to the Western Seats
+                            of Learning, 1932; E.C. Gardner, An Autobiography, n.d.</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> K.</container>
+                        <unittitle>Copies of letters written in Chinese. Not translated.</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> L.</container>
+                        <unittitle>Copy of a booklet by J. DeFrancis, Beginning Chinese, </unittitle>
+                        <unitdate type="inclusive">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> M.</container>
+                        <unittitle>Notes on Chinese language</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> N.</container>
+                        <unittitle>Correspondence of Connecticut Historical Society while
+                            researching the mission, </unittitle>
+                        <unitdate type="inclusive">1960-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> O.</container>
+                        <unittitle>Correspondence and notes regarding the Empire Reform Association,
+                            1971</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> P.</container>
+                        <unittitle>Photocopy of photograph of SS City of Peking</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> Q</container>
+                        <unittitle>History of Young Chinese Students in America, 1872-1881: Letters
+                            of the Chinese Educational Commission Students, edited by Timothy
+                            Kao</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> R.</container>
+                        <unittitle>Jeme Tien Yow and the Chinese Railway, by Timothy Kao and H.
+                            Ling</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> S.</container>
+                        <unittitle>Correspondence and miscellaneous materials regarding the Chinese
+                            Students Memorial Society reception at the Historical
+                            Society,</unittitle>
+                        <unitdate type="inclusive">36060</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> T.</container>
+                        <unittitle>Exhibition labels</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">2</container>
+                        <container type="Folder"> U.</container>
+                        <unittitle>Finding aid to Thomas La Fargue papers at Washington State
+                            University, 1987</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder"> A.</container>
+                        <unittitle>Scrapbook of newspaper articles about the Mission, collected and
+                            compiled by Phyllis Kihn.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

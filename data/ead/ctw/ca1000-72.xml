@@ -1,0 +1,3244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-72::John Cage Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ca1000-72.html">ca1000-72</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John Cage Papers,
+		<lb/><date normal="1937/1992">1937 - 1992</date>
+		</titleproper>
+        <author>Processed by: Leon Hilton; machine-readable finding aid created by: Leon Hilton</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: 2007</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the John Cage Papers, <date type="span">1937 - 1992</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Cage, John.</persname></origination><unittitle label="Title" encodinganalog="245">John Cage Papers, <unitdate normal="1937/1992" type="inclusive">1937 - 1992</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-72</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">14.25 (currently described)</extent></physdesc><physdesc label="Archival Boxes"><extent>29 (currently described)</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">John Cage (1912-1992) was an experimental musician, composer, and writer.</abstract><abstract encodinganalog="520">The John Cage papers described in this document include manuscripts, interviews, fan mail, and ephemera. Other material, including clippings, gallery and exhibition catalogs, a collection of Cage's books and serials, posters, objects, exhibition and literary announcement postcards, and brochures from conferences and other organizations are also part of the Wesleyan Cage collection, and will be described in this finding aid in the future.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], John Cage Papers, Collection #1000-72, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Gifts of John Cage.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed primarily by Leon Julius Hilton (Wesleyan class of 2007), 2007, with help from James Dutcher ('2005), Burke Giordano (’2006), Brian McKenna (’2004), and Jeffrey Makala</p>
+        <p>Encoded by Leon Julius Hilton, 2007</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head/>
+      <p>
+
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The first series, Manuscripts, contains manuscripts and corrected typescripts created by John Cage and used in speeches, performances, and published articles. Most were later collected by Cage for publication in his books. In many instances, both the original text and a later version corrected for publication exist and are housed together. This series is arranged alphabetically by title. In some instances, short pieces as well as individual book titles appear within the arrangement. Therefore, when searching for a particular piece, one should look for it under both its title and the title of the book in which it may have appeared.</p>
+      <p>The collection was arranged by Cage himself before transfer to Wesleyan, and this arrangement has been retained in nearly every instance. Folder titles that appear in quotation marks are Cage’s original folder titles for each piece, in which he also included the title of the book in which it was later published, i.e. <title render="doublequote">Composition (<emph render="italic">Silence</emph>).</title> Cage also noted unpublished pieces, i.e. <title render="doublequote">Listening to Music (unpublished)</title> and this convention has been retained in the finding aid. Many pieces noted as unpublished by Cage have subsequently appeared in print, notably in <title render="doublequote">John Cage, Writer: Previously Uncollected Pieces, Selected and Edited</title> by Richard Kostelanetz. New York: Limelight Editions, 1993. Folder titles not appearing in quotation marks were either not labelled by Cage or are later additions to the manuscripts series and have been added by the archivists.</p>
+      <p>Cage often typed a short note of explanation to accompany each piece that would supply background information, such as original titles or the context of its first appearance in print or when/where it was delivered. He called these notes <emph render="doublequote">headnotes</emph> and they have been noted or transcribed in the finding aid, within quotation marks, where they occur. Some folder titles had been changed by Cage or crossed out; these are also noted in the finding aid.</p>
+      <p>Other items described here are Series 2, Interviews with Cage; Series 3, Fan Mail and Mail Art; and Series 4, Cage Ephemera.</p>
+      <p>This finding aid does not presently include clippings, gallery and exhibition catalogs, a collection of Cage's books and serials, posters, objects, exhibition and literary announcement postcards, and brochures from conferences and other organizations. These are also part of the Wesleyan Cage collection and will be described in additional series.
+</p>
+      <arrangement>
+        <head/>
+        <p>
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <persname source="lcnaf" encodinganalog="600">Cage, John.</persname>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Manuscripts.</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1-5</container>
+            <unittitle>“45’ For a Speaker (Silence)” 
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript (headnote), 3 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 45 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notebook, 1954.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 3 p., 1959. In Italian, dated Milan 1959.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., 1954-55. Draft of letter in Italian concerning concert management.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>“200 Words,” annotated typescript, 1 p., n.d. Essay later published in Art News.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7-8</container>
+            <unittitle>“1000 Words (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 47 p., n.d. Written on the versos of Cage concert posters. Original folder note reads: “Some of this incorporated in Comp. as Process: Communication.”
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., n.d. Titled: “One Thousand Words.” Includes headnote: “This is my article for Journal of Beaux Arts, current issue.”
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9-14</container>
+            <unittitle><title render="italic">Anarchy</title> (lecture and book manuscript)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Contents list and presentation order, typescript, 5 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Introduction, corrected typescripts, 13 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mesostics, corrected typescripts (4 folders), n.d.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>“Art and Technology (Published?),” corrected typescript, 2 p., 1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>“Arts In Dialogue (Kostelanetz),” annotated typescript, 1 p., April 1964. Titled: “Honolulu Academy of Art, April 64.” </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17-19</container>
+            <unittitle>“Audience (AYFM)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Notes for “Diary: Audience 1966.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annotated typescript, 4 p., May 1966. Draft of “Diary: Audience 1966.”
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., 1966. Final draft.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>  “Bruxelles,” annotated photocopy, 6 p., 1954. Pages numbered 79-84, document and annotations both in French. On final page: “Benedicte Pesle, Dominique De Ménil / Bk XIV Pt II Sect 
+VII ¶ 3.”
+
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>  “Cartridge Music (Kostelanetz),” annotated typescript, 3 p. 1962. Sections appear in <title render="italic">Silence.</title>
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle> Chapters on Music (Music in Context with Other Goings On), steno notebook, after 1973.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4-6</container>
+            <unittitle> “Commitment (AYFM)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>28 typed index cards with annotations, February 21, 1961. Written for Beta Symposium, Wesleyan University, Middletown, CT, Feb. 23, 1961. The lecture is to be given by shuffling cards at random to determine order, content, and duration. 
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 5 p., February 21, 1961. Typed version of lecture. Includes headnote. Original folder reads: “This has been given to an editor of an anthology (as yet unpublished).”
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Note to printers describing basic layout of the text.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>  “A Composer’s Confessions (Unpublished),” corrected typescript, 31 p., February 28, 1948. Address given at the National Inter-Collegiate Arts Conference, Vassar College, February 28, 1948.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8-9</container>
+            <unittitle>  “Composition (Silence)” </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 2 p., n.d. Titled: “To Describe the Process of Retitled Four Musicians At Work.” Includes annotated headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 3 p., 1952. Printed article appearing as “Four Musicians at Work” in trans/formation Vol.1, #3, 1952. Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10-12</container>
+            <unittitle>“Composition As Process and Communication (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Typescript, 13 p., n.d. Includes headnote. Includes printer’s corrections.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 6 p., n.d. Titled: “Rutgers Original.” Includes small attached note: “From Rutgers version of Composition as Process – III, Communication.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 1 p., n.d. Titled: “Communication.”
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13-14</container>
+            <unittitle>“Composition As Process and Indeterminacy (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 23 p., n.d. Titled: “Darmstadt II (Indeterminacy).” Includes headnote.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 12 p., May 22, 1961.  Titled: “Replaced by retyped copy 5/22/61.”
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15-17</container>
+            <unittitle> “Composition As Process With Changes (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 22 p., September 1958. Lectures given at Darmstadt, September 1958. The lectures, which are carefully planned out on a timeline, are to be periodically interrupted by <title render="italic">Music of Changes.</title>
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., May 24, 1961. Description of the 3 lectures.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page layout sketches, 3 p., n.d. Titled: “Changes,” “Indeterminacy,” “Thoughts on Experimental Music.”
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>“Cunningham Stories (Kostelanetz),” annotated typescript, 5 p., n.d.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19-23</container>
+            <unittitle>“4 Statements on Dance (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., ca. 1939. Titled: “Goal: New Music, New Dance.” Includes general headnote, a headnote for this section, a magazine clipping in which the article first             appeared (<title render="italic">Dance Observer,</title> 1939), and a page layout sketch.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazines, November 1944. Two copies of Dance Observer (Nov. 1944) in which “Grace and Clarity” appeared. Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 10 p., autumn 1956. Speech written by Cage to be delivered in St. Louis and at Principia College. It later appeared as “In This Day…” in the January 1957 <title render="italic">Dance Observer.</title> Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine clipping, 1 p., January 1957. “In This Day…”, <title render="italic">Dance Observer</title> (Jan. 1957).</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, 1957.Titled: “2 Pages, 122 Words On Music and    Dance.” <title render="italic">Dance Magazine </title>(Nov. 1957) in which the article appeared. Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">24</container>
+            <unittitle> “Defense of Satie (Kostelanetz),” corrected typescript, 11 p., 1951. Given at the first Satie festival, 1951.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">25-26</container>
+            <unittitle> “To Describe the Process of Composition Used in ‘Music for Piano 21-52’ (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 5 p., n.d. Includes headnote by Cage.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annotated article, 1959. A copy <title render="italic">die Reihe, No. 3</title>, in which the essay was published.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27-47</container>
+            <unittitle>“Diary (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 7 p., n.d. Titled: “…included in <title render="italic">Document #5 Comprehensive Design Strategy.</title>”
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. 
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 19 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. 
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 7 p., n.d. Story written on back of dry cleaning lists.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 18 p., 1967. Final draft of “Diary…1967.”  Includes headnote and coversheet.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page proofs, 9 p., 1967. From Something Else Press, Great Bear Pamphlet series edition of “Diary…1967.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 5 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 3 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 3 p., n.d. Titled: “Intentions for Pt. II.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., 1966. First page of “Diary...1966.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed, 1 p., August 25, 1966. To Cage from Jose de la Torre Bueno, Editor of the Wesleyan University Press, discussing ideas for <title render="italic">A Year From Monday.</title>  Notes by Cage on verso.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., 1966. On back of envelope postmarked August 26, 1966.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 2 p., 1967. Outline for “Diary…1967.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad diary, 1966.  Labeled: “A.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>  Steno pad diary, 1966.  Labeled: “B.”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Steno pad diary, 1967.  Labeled: “1.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Steno pad diary, n.d.  Labeled: “III.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Steno pad diary, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Steno pad diary, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Steno pad diary, 1966-67.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Steno pad diary, 1967.  Labeled: “2.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Steno pad diary, 1965.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Photocopy of annotated typescript, 1 p., n.d. Titled: “Headnote: How to Improve I.”  
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: How to Improve II.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: How to Improve III.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Corrected typescript, 19 p., early September 1966. Final draft of  “Diary…1966.” Includes headnote and coversheet.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Note to Ray Grimaila.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Corrected typescript, 3 p., 1966. Final draft of “Diary…Audience 1966.” Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Corrected typescript, 1 p., n.d. Headnote by Cage on   “Diary…1965”.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Corrected typescript, 16 p., November-December 1965. Draft of “Diary: How to Improve the World (You Will Only Make Matters Worse) 1965,” with title page.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Corrected typescript, 1 p., n.d. Labeled: “This is example.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Sample mockup of final printed copy.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Typescript, 15 p., n.d. Final draft of “Diary…1965.”  
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 15 p., n.d. Corrected photocopy of previous document.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">20-27</container>
+            <unittitle>“Diary (M)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 24 p., n.d. “Diary…1969.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Notes for “Diary…1970-71.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript photocopy, 13 p., May 1971.“Diary…1970-71.”    Includes notes to printer.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page proofs photocopy, 14 p., 1971. “Diary…1970-71.” </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., n.d.  Titled: “RE and Not RE Fuller and       Mao.” </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph letter signed, 1 p., February 11, 1971. Signed: “Dick.”  Used in “Diary…1970-71.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Steno pad, n.d. Titled: “Diary V, Spring/Thanksgiving.”  Labeled: “I.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Steno pad, n.d. Titled: “Diary V.”  Labeled “I.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Steno pad, n.d. Notes for “RE and Not RE Fuller and Mao.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Steno pad, 1971-72. Titled: “VII, 1971-72.” Labeled: “1.” Inside cover contains rough outline of Diary as a whole.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Steno pad, n.d. Titled: “Black Elk Speaks.”  Labeled: “2.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Steno pad, n.d. Labeled: “I.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Steno pad, n.d. Labeled: “II.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Steno pad, n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Steno pad diary, 1970-71.  Original folder reads: “Also fragments of ________ re M.C. / Foreword to M.”
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Typed letter signed, 1 p., October 15, 1969. To Cage from John Russell, writer for Art News. Notes by Cage on front and back.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">11-15</container>
+            <unittitle>“26 Statements Re Duchamp (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Notebook, 9 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., n.d. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 2 p., n.d. Includes attached note to printer.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine article, 2 p., n.d. “These Verses are Music.” Includes 36   mesostics.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, 1963. Complete copy of <title render="italic">Mizue: A Monthly Review of the Fine Arts </title>(Tokyo), September 1963, in which “26 Statements Re Duchamp” was printed.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">16-17</container>
+            <unittitle>  “Electronic Souls (Kostelanetz)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed, 1 p., January 12, 1966. Letter to the <title render="italic">Village Voice</title> regarding an article Cage had enjoyed.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newspaper clipping, 1 p., January 20, 1966. <title render="italic">Village Voice </title>clipping in which the above letter was printed.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">18-23</container>
+            <unittitle>“Emma Lake (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 20 p., 1965. Notes for “Diary: Emma Lake Music Workshop 1965.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 13 p., 1965. Notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 9 p., August 15-21, 1965. Early draft.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 7 p., n.d. Final draft of essay. Includes headnote and attached note to printer. Original folder reads: “appearing soon in <title render="italic">Canadian Art.</title>”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">1-7</container>
+            <unittitle>
+              <title render="italic">Empty Words</title>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>  Dedication, manuscript, 1 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Headnotes, corrected typescripts, 14 p., ca. 1979</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> “The Future of Music” 
+</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Manuscript (fragment), 13 p., n.d.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Corrected typescript, 20 p., n.d.</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> “How the Piano Came to be Prepared”
+</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>  Typescript, 5 p., n.d.
+</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Corrected typescript, 5 p., n.d.
+</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan University Press Correspondence, 1977-1979
+</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle> Incoming correspondence regarding the production process, permissions, and corrections to the manuscript (approx. 75 pieces), with some copies of outgoing correspondence and annotations by Cage. Includes copy of original book contract.
+</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">8</container>
+            <unittitle>  “Experimental Music (Silence),” corrected typescript, 10 p., Winter 1957. Address given to the convention of the Music Teachers National Association in Chicago in the winter of 1957.  Includes headnote by Cage.
+
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">9-10</container>
+            <unittitle> “Experimental Music: Doctrine (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., n.d. Titled: “The Material of Music and Actions Relevant to Its Nature.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, 1955. Includes headnote by Cage and complete copy of <title render="italic">The Score and I.M.A. Magazine</title>, June 1955, in which the article appeared.
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">11</container>
+            <unittitle>“On Film,” manuscript, 10 p., 1956. Address to Creative Film Foundation, April 6, 1956.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">12</container>
+            <unittitle>Forerunners of Modern Music (Silence),” magazine, 1949. Includes headnote by Cage and complete copy of The <title render="italic">Tiger’s Eye </title>7(1), March 1949</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">13</container>
+            <unittitle> “The Future of Music: Credo (Silence),” corrected typescript, 3 p., 1939. Includes headnote by Cage.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">14-25</container>
+            <unittitle>“Series Re Morris Graves” </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle> Corrected photocopy, 24 p., 1973. Titled: “Series Re Morris Graves.” Includes printer’s instructions and headnote by Cage.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., 1973. Rough draft of coversheet for “Series Re Morris Graves.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., 1973. Coversheet, signed.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 1 p., 1973. Coversheet.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., 1973. Titled: “Directions for Printing Series Re Morris Graves.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Diary entries.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 27 p., 1973. 
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1973. Labeled: “Series Re (Morris) Graves I.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1973. Labeled: “Morris Graves II.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1973. Labeled: “Morris Graves III.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1973.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1973.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">1</container>
+            <unittitle> Steno pad, 1973.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Steno pad, 1973. Includes envelope with additional notes.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle> “Morris Graves (Kostelanetz),” typescript, 2 p., 1957. “Museum of Art of  Ogunquit / Fifth Annual Exhibition / June 29 – September 9, 1957.”
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4-8</container>
+            <unittitle>“Happy New Ears (AYFM)” 
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>  Typescript, 2 p., n.d. Titled: “Headnote With Title for Two Japanese Texts.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 3 p., 1963. Short address given on Japanese radio in December 1963.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., n.d.  Final draft of essay.  Includes two-page headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 1 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9-10</container>
+            <unittitle>“On the History of Experimental Music In the United States (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 15 p., ca. 1959. Includes headnote by Cage.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Spiral-bound notebook, n.d. Includes five pages of additional notes.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11-17</container>
+            <unittitle>“How to Pass, Kick, Fall, and Run (AYFM)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: How to Pass, Kick, Fall, and Run.” Headnote by Cage describing his role in the dance by Merce Cunningham of the same title.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 7 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript,  2 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annotated typescript, 71 p., n.d.  Collection of anecdotes Cage used when performing the piece, some of which were published in <title render="italic">A Year From Monday.</title> Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pocket notepad, n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pocket notepad, n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pocket notepad, n.d.
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>“Indeterminacy (Stories) (Silence)” 
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, n.d. Over 150 pages.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">1-3</container>
+              <unittitle>Corrected typescript, 68 p.,  ca. 1959. Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 8 p., n.d. French translation of selected stories.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 8 p., n.d. Labeled “(Histoires diverses à utiliser en bas de pages, etc.)” French translation of selected stories.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">7</container>
+            <container type="Folder">4</container>
+            <unittitle>“Interview (Iona),” corrected magazine clipping, 10 p.,1969. Titled “Things To Do,” <title render="italic">North American Review</title>, Winter 1969.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-6</container>
+            <unittitle> “Interview by Larry Austin Re HPSCHD”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle> Corrected photocopy, 9 p., June 19, 1968. Interview transcript. Original folder reads: “Published in <title render="italic">Source Magazine.</title>”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 11 p., n.d. Interview transcript.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7-8</container>
+            <unittitle>  “Interview with Mimaroglu”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed, 1 p., May 25, 1965. To Cage from Ìlhan Mimaroglu regarding their interview.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 9 p., n.d. Titled: “John Cage Interview.” Transcription of Cage interview.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9-23</container>
+            <unittitle>“Two Statements on Ives (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 6 p., n.d. Draft.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: Two Statements on Ives.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Titled: “Headnote: Two Statements on Ives.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: Two Statements on Ives.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. Titled: “Headnote: Two Statements on Ives.” Published version.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter, 1 p., September 13, 1965. Letter to Irving Glick from Cage requesting a transcript of remarks Cage made about Ives.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed, 1 p., September 24, 1965. Response to Cage’s transcript request from Irving Glick.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 3 p., 1965. Copy of transcript requested from  Irving Glick with Cage’s additions.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter, 1 p., September 27,1965. Letter to Irving Glick from Cage thanking him for sending the transcript.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 10 p., n.d. Copy of the transcript written in blue and red ink by Cage. Includes breath and pause notation.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 2 p., n.d. Copy of transcript including breath and pause notation. Nearly identical to version reproduced in <title render="italic">A Year From Monday.</title> Sheets measure 11” x 17”.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph letter signed, 2 p., April 7, 1964. To Michael Zahn from Cage. Reproduced in <title render="italic">A Year From Monday.</title> (p. 37-40).
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph letter signed, 4 p., April 8, 1964. To Zahn from Cage.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed , 1 p., September 29, 1965. To Cage from  Michael Zahn.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letter signed, 1 p., January 12, 1967. To Michael Zahn from Cage with Zahn’s response (January 14, 1967).
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">24-44</container>
+            <unittitle> “Johns (AYFM)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Index cards in French and English, 30 cards, n.d. Includes quotes from published sources about Jasper Johns.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>11”x23” poster, 1 p. with 1 p. supplement, 1963.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clippings, 3 p., 1959, 1964.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 4 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected magazine article, 1 p., March 1963. Article about Johns in <title render="italic">Arts and Architecture</title> with highlighting by Cage</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., Jan. 20, 1958. Press release about Johns by Leo Castelli.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 1 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 2 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 2 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Booklet, 8 p., Sept. 1961. French, English, German and Spanish translations of brief biography of Johns by Piere Restany.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 81 p., n.d. Notes in prose and mathematical calculations. Includes preliminary text for “Jasper Johns: Stories and Ideas.” Pages organized in groupings assembled by Cage in their original folder. 
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 4 p., n.d. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 5 p., n.d. Interview transcript with Jasper Johns. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 9 p., n.d.  Early drafts.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Early draft.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 5 p., n.d. Notes, drafts, and calculations.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 19 p., 1964. Final draft of essay. Includes two-page headnote, coversheet, and attached note to printer.
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">8</container>
+            <container type="Folder">1-4</container>
+            <unittitle>“Julliard Lecture (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., n.d. Headnote.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 46 p., n.d. Lecture text written on the versos of posters from The Living Theater of concerts featuring Cage’s “Music of Changes.”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. “David Tudor’s program at piano.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 2 p., n.d. Lecture text.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 29 p., 1952. Final draft, with headnote and note to printer.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle> “Ladies and Gentlemen,” corrected typescript, 6 p., 1960. Includes rough and final drafts of a lecture given by Cage at the Wesleyan University Center for Advanced Studies.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6-16</container>
+            <unittitle> Jack Lenor Larsen, Inc.
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Documents reflecting Cage’s employment as art director for the Jack Lenor Larsen textile firm, including examples of advertisements he created.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Correspondence, 6 pieces, 1956-58.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Catalog proofs, 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Christmas card, 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Drapery advertisement, 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Naugahyde advertisement, 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Private Opening invitation, 1957
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> Stationery, ca. 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Telegram advertisement, 1957.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Ticket stub advertisement, 1957.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Woolweaves advertisement, 1957.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> Merce Cunningham Dance Company Program, ca. 1950s. Designed by Cage.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>Last Evening with Marcel Duchamp, by Robert Lebel, corrected typescript, 4 p., n.d. </unittitle>
+          </did>
+          <scopecontent>
+            <p>English translation of the article <title render="doublequote">Dernier soiree avec Marcel Duchamp,</title> <title render="italic">L'Oeil</title> 167 (November 1968), p. 18-21. Corrections not in Cage’s hand.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18-20</container>
+            <unittitle>“Richard Lippold”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad and small plastic Batman figurine, n.d. 
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d. Draft of “Grand St. and Monroe (for RL Twenty Years Later).”
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Exhibition program, April 17-May 12, 1973. Programs for Richard Lippold Show at the Willard Gallery, New York featuring Cage’s poem.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">21</container>
+            <unittitle> “Listening to Music (Unpublished),” typescript, 7 p., 1937.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">22</container>
+            <unittitle>“Looking at Painting from a Musical Point of View (Unpublished),” autograph manuscript, 6 p., n.d.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23-25</container>
+            <unittitle>
+              <title render="italic">M</title>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>  Corrected typescript and accompanying Wesleyan University Press correspondence, 1973-74.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jacket art and corrected page mockup drawings, n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected printer’s proofs (blues), 1973.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">26-29</container>
+            <unittitle>“<title render="italic">M</title> Foreword”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 13 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 20 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., n.d. 
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annotated typescript, 8 p., n.d.  Final draft.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Typescript, 8 p., n.d. Final draft.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 1 p., n.d. 
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">3-4</container>
+            <unittitle> “<title render="italic">M</title> Front and Back Master” 
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Dust jackets, 5 copies.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-6</container>
+            <unittitle>“<title render="italic">M</title> Mesostics re and not re Duchamp”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 1 p., n.d. Dummy from Vogue (UK) with notes on verso.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy, 1 p., after 1970. Notes and instructions for printer.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7-11</container>
+            <unittitle> “<title render="italic">M</title> Mesostics re Merce Cunningham”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Notebook, 12 p., March 1971. Contains 62 draft mesostics.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notebook, 13 p., n.d. Notebook of mesostics and one loose page. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 39 p., n.d. Notes and calculations.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected printouts, 25 p., n.d. Notes, mesostic drafts and calculations added to I Ching-based computer printouts.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., March 1971. Complete proof sheet with added numerical codes.
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">12</container>
+            <unittitle>  “M Press Reviews,” correspondence, clippings, and magazine issues, 1971-73.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">13</container>
+            <unittitle>“M Six Mesostics,” corrected typescripts, 3 p., n.d.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder"/>
+            <unittitle/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle> “Jackson MacLow (Something Else Press),” autograph and corrected typescripts, 2 p., n.d. Original folder reads “used for Stanzas for Iris Lezac.”
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">15-16</container>
+            <unittitle>“Manifestos and Dedication (Silence)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Printer’s instructions for <title render="italic">Silence</title>’s dedication page. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected theater program, 16 p., March 2-May 18, 1951-52. Program for performances at The Living Theater. Includes “Manifesto” later included in <title render="italic">Silence.
+</title>
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">17</container>
+            <unittitle> “McLuhan’s Influence,” corrected typescript, 2 p., Jan. 11, 1967.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>“Mesostics (Miscellaneous),” autograph manuscripts and corrected typescripts, 11 p., 1970-73.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19-22</container>
+            <unittitle>“Miró (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>2 notebooks, 12 p. each, n.d. 
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscripts, 3 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 5 p., n.d. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., September 1966. Final draft. Includes headnote.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23</container>
+            <unittitle>“Misc. Notes on Music and Dance (Unpublished),” Corrected typescripts and autograph manuscripts, 8 p., n.d. Drafts.
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">24-29</container>
+            <unittitle> “Mosaic (AYFM)”
+</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 17 p., n.d. Early draft.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., Sept. 1966. Draft of headnote.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 12 p., April 21, 1965. Includes a copy of  “Mosaic” and a submission letter to David Madden, <title render="italic">The Kenyon Review.
+</title>
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes, 12 p., n.d. Notes and calculations.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notebooks, 2 steno pads, n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 10 p., n.d. Final draft of essay. Includes headnote.
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">30-32</container>
+            <unittitle>“Mureau”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 60 p., n.d.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 21 p., Nov. 1970.
+
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, 33 p., after April 1971. Copy of Misc [n.d.] in which “Mureau” appears.
+
+</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <container type="Folder">1-4</container>
+            <unittitle> “Mushroom Book (M)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscripts, 18 p., n.d. 12 pages are laminated.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscripts and corrected typescripts, 6 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 6 p., n.d. Photocopy of “Re and not re Fuller and Mao.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, 1972.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-6</container>
+            <unittitle> “Music and Films”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescripts, 3 p., after Jan. 1951. Draft of “A Few Ideas About Music and Films,” with notes to printer.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, Jan. 1951. Issue of <title render="italic">Film Music Notes</title>, including a    corrected copy of  “A Few Ideas About Music and Films.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>“A Music Lover’s Field Companion (Silence),” corrected typescript, 3 p.,  n.d. Includes headnote.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8-11</container>
+            <unittitle>“Nam June Paik (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Notebook,  n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., Oct. 1965. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., 1965.  Final draft of essay. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Exhibition catalog, 8 p., November 23 – December 11, 1965. Catalog for Nam June Paik show, Galeria Bonino, NY, in which “Nam June Paik: A Diary” was printed.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12-17</container>
+            <unittitle>“Not Wanting to Say Anything About Marcel (8 Plexigrams, 2 Lithographs)” 6 steno notebooks, n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <container type="Folder">18-20</container>
+            <unittitle>“Notations (Dustwrapper)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Catalog, 78 p., 1973-74. <title render="italic">Artist Books,</title> Moore College of Art  exhibition, March-April 1973, including Cage’s “Diary: How to Improve the World” and “Notations.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., n.d.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">21</container>
+            <unittitle>Notebook, 1980. Pocket notebook includes annotated schedule to “Word of Mouth” lecture series, January 1980.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Audiocassette">22</container>
+            <unittitle>  “Lecture on Nothing (Silence)”  Corrected typescript, 50 p., n.d. Includes headnote and afternote.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23</container>
+            <unittitle>  “Other People Think (Kostelanetz),” Corrected typescript, 4 p., n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">24</container>
+            <unittitle> “René Pomerleau,” notes, 3 p., n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">25</container>
+            <unittitle>“Problem (maybe published in Japan),” corrected typescript, 6 p., n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">26-30</container>
+            <unittitle>“Program Notes (not published in a book)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., n.d. Labeled “#A.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Labeled “#B,” “omit in favor of  #A.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., n.d. Labeled “#C.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 3 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine clipping, n.d. Notes on verso.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <container type="Folder">31</container>
+            <unittitle>“Rauschenberg (Kostelanetz),” autograph manuscript, 1 p., n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">32</container>
+            <unittitle>“Rauschenberg (Silence),” corrected typescript, 16 p., Feb., 1961. Includes headnote.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">33-37</container>
+            <unittitle>  “Remarks before a Recital (Unpublished)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Notebook, n.d. Includes notes and drafts.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 5 p., n.d. Draft of remarks for a recital of David Tudor’s piano works.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript,  6 p., n.d. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected program, 2 p., March 19, 1959. “David Tudor,” La  Maison Francaise at New York University.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">11</container>
+            <container type="Folder">1</container>
+            <unittitle> “Remarks before a visit to Japan (Published in Sogetsu Program, Tokyo),” photocopied article, 1 p., Sept. 14, 1962.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2-3</container>
+            <unittitle>“Remarks on Winslow’s Music (Published in <title render="italic">Wesleyan Cardinal</title>)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 9 p., Nov. 1960.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>orrected typescript, 7 p., Nov. 1960. Includes note cards, one reading: “Do not use—too localized.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4-5</container>
+            <unittitle> “A Response to Lithgow’s Remarks (Unpublished)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>   Autograph manuscript, 2 p., Oct. 1961. Prepared for a panel discussion on “Art and Responsive Action,” Princeton NJ.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typed letters signed, 2 p.,  October 7 and 9, 1961. Arrangements for speakers on panel.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6-7</container>
+            <unittitle> “Rhythm Etc. (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscripts and corrected typescripts, approximately 100 p., n.d. Notes and drafts.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 21 p., April 1962. Final draft of essay. Includes headnote and attached notes. Original folder reads: “To be published soon in G. Kere’s volume “Module” in series <title render="italic">Vision + Value.</title>”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8-10</container>
+            <unittitle>  “Richards, M.C.”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescripts, 9 p., n.d. Book review.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Uncorrected proofs, 2 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Cpy of published book review in <title render="italic">Voice Literary Supplement</title>, Dec. 27, 1973.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11-12</container>
+            <unittitle> “Erik Satie (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Page layout sketch, 1 p., 1958.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., 1958. Includes headnote.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>  “Satie Controversy (Kostelanetz),” typed letter from Cage to Cecil Smith, 2 p.,  Nov. 22, 1950.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Scores, 9 p., n.d. 9 typeset scores (1st page of each only) on newsprint with accompanying description of the piece. Includes: “Construction in Metal,” “Music for Carillon I,” “Concerto for  Piano and Orchestra,” “Quartet: Twelve Tom Toms,” “Imaginary Landscape No. 1,” “Solo with Obbligato to the Accompaniment of 2 Voices in Canon,” “The Wonderful Widow of Eighteen Springs,” “Williams Mix,” and “She is Asleep.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15-16</container>
+            <unittitle> “Seriously Comma (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 20 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 5 p., September 1965. Final draft of essay. Includes headnote and note to printer. Original folder note: “To be published in French in a magazine.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17-22</container>
+            <unittitle>“Silence”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Correspondence, 3 items, Sept.-Nov., 1961. Letters of congratulations on <title render="italic">Silence</title>’s publication.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Correspondence, 5 items, Sept.-Oct., 1961. Correspondence with Wesleyan University Press, including contract for <title render="italic">Silence</title>.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Correspondence, 2 pieces, 1961, 1967. Correspondence with M.I.T. Press and Andre Deutsch Limited. Includes 1967 M.I.T. Press sales figures.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Documents, 28 pieces, 1961-64. Copyright assignments and permissions granted to reproduce Cage’s essays in <title render="italic">Silence</title>.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Catalogs and book announcements, 7 items, 1961-67.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Catalogs and book announcements, 7 items, 1961-67.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Documents, approximately 100 p., ca. 1961-67. Reviews and announcements, clippings, 1961-67.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">11</container>
+            <container type="Folder">23-24</container>
+            <unittitle>“Silence (Foreword)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 8 p., n.d. Titled: “Notes for Recording (Folkways).”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d. Final draft.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">25</container>
+            <unittitle> “Silence (Front Material),” 35 p., n.d. Layout designs and corrected proofs.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">26</container>
+            <unittitle><title render="doublequote">Six Arts and Technology,</title> corrected typescript, 3 p., n.d.</unittitle>
+          </did>
+          <scopecontent>
+            <p><title render="italic">John Cage, writer: previously uncollected pieces,</title> selected and introduced by Richard Kostelanetz. (New York: Limelight Editions, 1993).</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27-28</container>
+            <unittitle>“Sixty Replies to 30 Questions”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>60 typed index cards, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Offprint, 1968. “Soixanté Résponses à Trente Questions de Daniel Charles” from <title render="italic">Revue d’esthétique</title> containing article.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">29-32</container>
+            <unittitle>“Lecture on Something (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autogragh manuscript, 15 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 29 p., n.d. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 8 p., n.d. Titled: “Title “Lecture on Something.” Performance copy.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., n.d. Performance copy on versos of  Merce Cunningham Summer Course flyers.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <container type="Folder">1</container>
+            <unittitle>“Songs (Song Books: Peters),” corrected typescript, 7 p., n.d.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle> “Stories,” corrected typescripts and correspondence, 31 p., ca. 1966-67.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>  Original folder note: “There are many duplicates here but I think they aren’t the stories in <title render="italic">Silence</title>.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3-4</container>
+            <unittitle> “Talk I (AYFM)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., n.d. Notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 7 p., September 1965. Final draft of text. Includes headnote.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-10</container>
+            <unittitle>“Tape Music (Unpublished)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., n.d. Titled: “Music for Magnetic Tape: Relation to the Field of Music.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., n.d. Titled: “Music for Magnetic Tape: History.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 2 p., n.d. Titled: “Music for Magnetic Tape: History.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 11 p., n.d. Titled: “Dartmouth Spring 1955.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11-12</container>
+            <unittitle>“These Days (Kostelanetz)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected photocopy of previous typescript, 4 p., 1968.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13-14</container>
+            <unittitle/>
+          </did>
+          <c03>
+            <did>
+              <unittitle>  Typed letter, 1 p., January 26, 1972. To Ms. Elga Duval from Mimi Johnson, secretary to John Cage. Short note re:  submission of  a manuscript.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 1 p., January 1972. Recollection of Dylan Thomas.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15-16</container>
+            <unittitle>“Thomson (Original)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 185 p., spring 1956. Titled: “The Works of Virgil Thomson / A Study by John Cage.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 5 p., n.d. Notes.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>“Music of Virgil Thomson,” corrected typescript, 251 p., n.d. Later draft of “The Works of Virgil Thomson.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>“Tobey (Published in Barol Catalog),” typescript, 2 p., n.d. Recollections of Mark Tobey.“Tobey (Published in Barol Catalog),” typescript, 2 p., n.d. Recollections of Mark Tobey.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>“University in Motion (Unpublished),” corrected typescript, 3 p., n.d. Titled: “University in Motion: Matrix for the Arts.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">20</container>
+            <unittitle>“Edgard Varèse (Silence),” corrected typescript, 3 p., September 23, 1958. Published in <title render="italic">Nutida Musik</title> (Stockholm), Fall 1958. Includes headnote.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">21</container>
+            <unittitle>Varèse, corrected typescript, 2 p., after 1972. Book review by Cage of  Louise Varèse, <title render="italic">Varèse</title>, W. W. Norton, 1972.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">22</container>
+            <unittitle>Variations III (Unpublished),” corrected typescript, 1 p., n.d. Original folder note: “Written during Berlin performance.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23-26</container>
+            <unittitle>“Wesleyan Papers (Misc., Unpublished)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 4 p., n.d. Titled: “Statement on Fellowship in the Wesleyan  Center for Advanced Studies (1960-1961).”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Cage’s fellowship report.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., n.d. Titled: “Gentlemen of the Wesleyan Glee Club.” Address to the Wesleyan Glee Club.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 6 p., summer 1963. Proposal by Cage and David Tudor for Wesleyan to establish a Center for Experimental Music.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27-29</container>
+            <unittitle>“What Are We Eating?”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Titled: “What Are We Eating?  And What Are We Eating? (38 Variations on a Theme by Alison Knowles).”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.  Labeled: “I.” Includes four loose sheets of notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.  Labeled: “II.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <container type="Folder">1-6</container>
+            <unittitle>“Where Are We Going?  and What [Are We Doing?] (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Photocopied letter, 2 p., n.d. From Cage to Wesleyan University Press commenting on “Where Are We Going?  and What Are We Doing?”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Labeled: “I / Blue / 933.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Labeled: “II / Green / 926.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Labeled: “III / Red / 848.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d. Labeled: “IV / Orange / 914.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7-10</container>
+            <unittitle>“Where Are We Going? etc. (Silence)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 3 p., n.d. Draft of headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 1 p., n.d. Notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Autograph manuscript, 2 p., n.d. Notes.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 90 p., April 26, 1961. Complete draft of  “Where Are We Going?  and What Are We Doing?” with   headnote.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11-14</container>
+            <unittitle>“Where Do We Go From Here? (A Year From Monday)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 12 p., n.d. Originally titled “From a Starting Point.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Typescript, 8 p., n.d. Final draft. Includes headnote.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 9 p., 1963. Final draft of essay. Includes headnote, notes to printer, and printer’s corrections.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magazine, 1963. Copy of <title render="italic">Dance Perspectives 16</title> in which the essay was published.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15-16</container>
+            <unittitle>“A Year From Monday”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Book production documents, 6 items, 1966-68. Includes: original contract for <title render="italic">A Year From Monday</title>, July 18, 1966; letter to from J.R. de la Torre Bueno [Wesleyan University Press] regarding recent copyright assignments, February 21, 1968; three copyright assignments from various magazines; and press release from Wesleyan University Press.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Book reviews, approximately 50 items, 1966-68.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17-18</container>
+            <unittitle>“Year From Monday (Afterword)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 22 p., n.d. Drafts.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <container type="Folder">1-3</container>
+            <unittitle>Corrected typescript, 7 p., n.d.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 6 p., n.d. Later draft.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected proofs, 2 p., n.d.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <container type="Folder">4-5</container>
+            <unittitle> “Year From Monday (Foreward)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 3 p., October 1966.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <container type="Folder">6-11</container>
+            <unittitle>“Year From Monday (Headnotes)”</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Steno pad, n.d.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., spring 1966. Titled: “Materials by John Cage submitted spring 1966 for next book.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., August 15, 1966. Titled: “Contents.” Proposed table of contents for AYFM.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Titled: “Headnote: Talk I.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Titled: “Headnote: Emma Lake.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., n.d. Titled: “Headnote: Emma Lake.”</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrected typescript, 1 p., December 15, 1966. Titled: “Contents and Status, as of 12/15/66.”</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Memberships and Correspondence (3 pieces), 1980, 1991-92</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Interviews with Cage.</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <container type="Folder">1</container>
+            <unittitle>Barbarber 51 Amsterdam, <title render="doublequote">Een interview met John Cage Door Michael Kirby en Richard 
+Schechner,</title> March 1967 (Dutch)
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Revue d'Esthetique, "Soixante réponses à trente questions de Daniel Charles" (Sixty 
+Answers to thirty questions of Daniel Charles), 1968 (French)	
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>North American Review, <title render="doublequote">Things to Do: An Interview with John Cage,</title> winter 1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Coast FM and Fine Arts, <title render="doublequote">John Cage: Dean of the Musical Avant-Garde,</title> by Genevieve 
+Marcus, March 1970
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Royal Albert Hall Concert Program and Interview, <title render="doublequote">John Cage and David Tudor</title>
+22 May 1972
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Prolog vol. 19/20 Zagreb, <title render="doublequote">Razgovor sa Johnom Cageom: zivot koji postaje umtjetnost,</title> 
+1974 (Serbo-Croatian)
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>New York Arts Journal, <title render="doublequote">John Cage on his music</title> May 1976</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>View, Interviews with Robin White, Vol. 1 1978-1979</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Community Arts Newsletter, <title render="doublequote">John Cage: Interview,</title> by Joshua Harrison, February 1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Performance, No. 7, <title render="doublequote">John Cage and Merce Cunningham in London,</title> 1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Conversation without Feldman (Cage and Geoffrey Barnard), Black Ram Books, 1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Musicworks, No. 17, <title render="doublequote">A Conversation with John Cage,</title> Fall 1981</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Res 6, <title render="doublequote">Cage: Conversation with Morton Feldman,</title> Autumn 1983</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Issues Monthley, <title render="doublequote">Music Without Bars: An Interview with John Cage,</title> by Olivia 
+Birkelund and Alex Sichel, November 1984
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Pratt Journal of Architecture, <title render="doublequote">Architecture and Abstraction, An Interview with John 
+Cage,</title> Fall 1985
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Res 10, <title render="doublequote">Cage: On Collaboration in Art, a conversation with David Shapiro,</title> Autumn 
+1985
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Minneapolis City Pages, <title render="doublequote">Interview: New Music Pioneer John Cage on art, politics and 
+mushrooms,</title> by Steve A. Kvaal October 23, 1985
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Il Gionale della Musica, <title render="doublequote">John Cage si racconta,</title> September 1987 (Italian)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Art Meets Science and Spirituality in a Changing Economy (conference); John Cage 
+Interview, 7 September 1989, San Francisco
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Print Collector's Newsletter, <title render="doublequote">John Cage: An Interview,</title> by Vincent Katz, Vol XX 
+No. 6, January-February 1990
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tricycle: The Buddhist Review, <title render="doublequote">Taking Chances: Laurie Anderson Talks with John 
+Cage,</title> Summer 1992 (Laurie Anderson and Cage)
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>CONNECTION (ND)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Cage/Hans G. Helms (ND, German and English)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Irving Sandler and Cage (ND, transcript with corrections)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Cage Interview, Cage/(Larry?) Austin (ND)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Conversations with John Cage/Christian Wolff, Hans G. Helms (ND, German and English)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Fan Mail and Mail Art.</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">16</container>
+            <unittitle>3A. Fan Mail Without Enclosures</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">17-23</container>
+            <unittitle>3B. Fan Mail With Enclosures</unittitle>
+          </did>
+          <scopecontent>
+            <p>The fan mail with enclosures is not currently arranged in a particular order, but some highlights are noted below.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">17</container>
+            <container type="Folder">15</container>
+            <unittitle>Dick Higgins (Poetry Project) <title render="doublequote">Expressionist Manifesto</title> MS</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">18</container>
+            <container type="Folder">2</container>
+            <unittitle>Invitation to Andy Warhol Memorial Service</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Portuguese Composer Augusto de Campos, <title render="doublequote">Poetamenos</title> (Songs)
+dedicated to Cage, 1973
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Delhi and New Delhi Guide, road map of India, 1964
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">6</container>
+            <unittitle>Assorted print materials associated with Buckminster
+Fuller projects
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">1</container>
+            <unittitle>Assorted print materials by literary scholar Ihab
+Hassin with notes from Author to Cage
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Marshall McLuhan, "The Future of Film in Canada" MS, 1964</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Living Theater Press Folder w/ note from founder Judith Molina to
+Cage, 1989</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">21</container>
+            <container type="Folder">5</container>
+            <unittitle>Letter from Dick Higgins [Fluxus pioneer and poet]
+with poems, 1960
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="doublequote">Portrait of John Cage,</title> assemblage by Mary Francis Judge, 1972</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from James Turrell and photos of Roden Crater Project, 1984</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="doublequote">Grinning Idiot Salutes Modern Dance,</title>; article on William de Kooning and Black Mountain College with notes, 1984
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Fletcher Copp National Poetry Week "Poem a Day" envelope
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">22</container>
+            <container type="Folder">1</container>
+            <unittitle><title render="doublequote">Bad News</title> comics periodical featuring
+<title render="doublequote">Indeterminacy,</title> a comic featuring Cage as title character
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>"What I am Trying to Do" by
+Buckminster Fuller, MS addressed to Cage by author along side several
+other print articles signed by Fuller to Cage</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Gallery guide to "Nam
+June Paik: Electronic Art," Galeria Bonino, New York City, 1965</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="italic">Saturday Review</title> 1 April 1967 cover article "Is Man Changing the
+Climate of the Earth?," cover photo of Fuller, with signed dedication
+from Fuller to Cage
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Material regarding NEA funding controversy of early 1990s
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <container type="Folder">4</container>
+            <unittitle>Photograph proofs of a Cage lecture, 1987
+</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 4. Cage Ephemera.</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">24</container>
+            <unittitle>Events, Programs, Brochures</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">25-26</container>
+            <unittitle>Books or Parts of Books about Cage</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">27-28</container>
+            <unittitle>Dedications, Honors, Related Items</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">29</container>
+            <unittitle>Books about Cage</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Art Exhibition Catalogs including Work by Cage</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Publisher's Catalogs</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

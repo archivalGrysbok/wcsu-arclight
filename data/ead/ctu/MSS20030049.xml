@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20030049</eadid>
+
+<filedesc>
+
+        <titlestmt>
+            <titleproper>Phil Samponaro Papers</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Betsy Pittman.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2003  University of Connecticut</publisher>
+            <date type="publication">April 2003</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in
+April 2003.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20030049 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>
+         </repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Samponaro, Philip, Jr.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Phil Samponaro Papers.</unittitle>
+         <unitdate label="Dates:">1992-2000</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">.5 linear feet </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">Phil Samponaro graduated from the University of Connecticut with degrees in History (M.A. 1994, Ph.D. 2003).  During his graduate career at the University he worked with several professors in the History Department as a Teaching Assistant.  The collection contains syllabi, typed class notes, handouts, memoranda and articles pertaining to the classes in which Dr. Samponaro was enrolled or a Teaching Assistant (TA).</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS20030049</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography</head>
+         <p>
+            <persname>Phil Samponaro</persname> received his undergraduate degree from <corpname>Washington &#x0026; Lee University</corpname> (B.A. 1992) and graduated from the <corpname>University of Connecticut</corpname> with degrees in History (M.A. 1994, Ph.D. 2003).  During his graduate career at  the University he worked with several professors in the History Department as a Teaching  Assistant.  He also taught U.S. History since 1877 through popular music (2000-2003) as an instructor.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Contents</head>
+         <p>The collection contains syllabi, typed class notes, handouts, memoranda and articles pertaining to the classes Dr. Samponaro took or taught at the <corpname>University of Connecticut</corpname> (Storrs campus).</p>
+      </scopecontent>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+      	<head>Related Material</head>
+      	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to the University, its history, administration, faculty, staff and students.  See especially, the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Morico/MSS19970076.html">Larry Morico</extref> Papers and the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Memorabilia/MSS19880026.html">University Memorabilia</extref> Collection.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+         
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The collection is arranged according to course number.</p>
+      </arrangement>
+
+
+<!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Samponaro, Philip, Jr.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">University of Connecticut. Dept. of History.</subject>
+            <subject encodinganalog="650" source="local">History--Study and teaching (Higher)--Connecticut.</subject>
+            <subject encodinganalog="650" source="local">History--Outlines, syllabi, etc.</subject>
+            <subject encodinganalog="650" source="local">College teaching--United States.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+            <genreform encodinganalog="655" source="local">Photocopies.</genreform>
+            <genreform encodinganalog="655" source="local">Notes.</genreform>
+            <genreform encodinganalog="655" source="local">Examinations.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Functions:</head>
+            <function encodinganalog="657" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Titles:</head>
+            <title encodinganalog="630" source="local"/>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #], Phil Samponaro Papers.  Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center, University of Connecticut Libraries.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The collection was donated by Dr. Samponaro in 2003.</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description/Box and Folder Listing</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I:  Course Materials, <unitdate>1992-2000</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>English 340-01 (<persname>Michael Meyer</persname>), <unitdate>Spring 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>History 101</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">1:2</container>
+                     <unittitle>(<persname>Marvin Cox</persname>), <unitdate>Fall 1997</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">1:3</container>
+                     <unittitle>(<persname>Marvin Cox</persname>), <unitdate>Spring 1998</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">1:4</container>
+                     <unittitle>(<persname>Marvin Cox</persname>), <unitdate>Fall 1999</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">1:5</container>
+                     <unittitle>(<persname>Marvin Cox</persname>), <unitdate>Spring 2000</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>History/Womens Studies 202 (<persname>Susan Porter Benson</persname>), <unitdate>Fall 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>History 209 (<persname>Irene Brown</persname>), <unitdate>Fall 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>History 227 (<persname>Christopher Collier</persname>), <unitdate>Fall 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>History 246 (<persname>John Bracey</persname>), <unitdate>Spring 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>History 256 (<persname>Peter Bergmann</persname>), <unitdate>Spring 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>History 279 (<persname>Marvin Cox</persname>), <unitdate>Spring 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>History 300 (<persname>Karen Kupperman</persname>), <unitdate>Spring 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>History 330 (<persname>Christopher Collier</persname>), <unitdate>Spring 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>History 330 (<persname>Christopher Collier</persname>), <unitdate>Fall 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>History 334 (<persname>Karen Kupperman</persname>), <unitdate>Fall 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>History 336 (<persname>Bruce Stave</persname>), <unitdate>Fall 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>History 337 (<persname>Richard Brown</persname>), <unitdate>Spring 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>History 338 (<persname>Kent Newmyer</persname>), <unitdate>Fall 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>History 342 (<persname>Peter Bergmann</persname>), <unitdate>Fall 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>History 347 (<persname>A. W. Hoglund</persname>), <unitdate>Fall 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:21</container>
+                  <unittitle>History 356 (<persname>Peter Bergmann</persname>), <unitdate>Spring 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:22</container>
+                  <unittitle>History 401 (<persname>Thomas G. Paterson</persname>), <unitdate>Fall 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

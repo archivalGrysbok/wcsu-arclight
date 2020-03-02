@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-125::Navy V-5 and V-12 Training Units Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/na1000-125.html">na1000-125</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Navy V-5 and V-12 Training Units Collection,
+		<lb/><date normal="1941/1944">1941 - 1944</date>
+		</titleproper>
+        <author>Processed by: Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: August 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Navy V-5 and V-12 Training Units Collection, <date type="span">1941 - 1944</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Navy V-5 and V-12 Training Units Collection, <unitdate normal="1941/1944" type="inclusive">1941 - 1944</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-125</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">1.0</extent></physdesc><physdesc label="Archival Boxes"><extent>2</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Wesleyan University hosted both V-5 and V-12 Naval Training Units on its campus during World War II.</abstract><abstract encodinganalog="520">The Navy V-5 and V-12 Training Units Collection features information about both naval training units, including information about their curricula, as well as publications used in the courses.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Navy V-5 and V-12 Training Units Collection, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Transferred from John Spaeth and others prior to 1985.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Valerie Gillispie, August 2006</p>
+        <p>Encoded by Valerie Gillispie, August 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Wesleyan University hosted both V-5 and V-12 Naval Training Units on its campus during World War II. The V-5 Unit was also called the Navy Flight Preparatory School, and stayed at Wesleyan from January 1943 until August 1944. Coursework focused on aerology and naval science. The V-12 Unit, also known as the Navy College Training Program, began in July 1943 and included coursework more akin to Wesleyan's traditional liberal arts curriculum. The program continued until the end of World War II in August 1945. </p>
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The first series, V-5 Training Unit, includes information on the syllabi, curricula, and exams used in the program. It also includes regulations, directives, and newspaper and magazine articles about the program. There is a single photograph of some of the cadets during wintertime. The second series, V-12 Training Unit, includes letters, clippings, handbooks, and course-related materials. It also features a variety of photographs of the students and staff of the V-12 Training Unit. The third series, Publications, includes materials related to the curriculum in the V-5 and V-12 programs. These are general publications about flight and weather, most of which were used by John Spaeth, a V-5 instructor and professor of classics.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy Dept. V-12 Program--History. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy.--History--World War, 1939-1945. </corpname>
+      <subject source="lcsh" encodinganalog="650">Naval education--United States. </subject>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy Dept. V-5 Program--History. </corpname>
+      <persname source="lcnaf" encodinganalog="600">Wesleyan University (Middletown, Conn.)--History. </persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students--History. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Curricula. </corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Henry Curtis Herge Papers, Special Collections &amp; Archives, Wesleyan University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unitid>Series 1.</unitid>
+          <unittitle>V-5 Training Unit, <unitdate type="inclusive">1943-1944</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The V-5 Training Unit series includes information on the syllabi, curricula, and exams used in the program. It also includes regulations, directives, and newspaper and magazine articles about the program. There is a single photograph of some of the cadets during wintertime.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Aerology: general directions and uniform achievement exams, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Cadet regulations, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Directives Number 3 and 4, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>English: Memoranda, program, and papers, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Human Factors in Flight: curriculum, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Navigation: Syllabus and curriculum, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Newspaper and magazine articles, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Photograph, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Platoon Muster Sheets, 1943-1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Priciples of Flying: quizzes and final exam review, undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 2.</unitid>
+          <unittitle>V-12 Training Unit, <unitdate type="inclusive">1943-1944</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The V-12 Training Unit series includes letters, clippings, handbooks, and course-related materials. It also features a variety of photographs of the students and staff of the V-12 Training Unit.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Miscellaneous items</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">Note: </emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Photographs, circa 1943-1944</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 3.</unitid>
+          <unittitle>Publications, <unitdate type="inclusive">1941-1944</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Publications series includes materials related to the curriculum in the V-5 and V-12 programs. These are general publications about flight and weather, most of which were used by John Spaeth, a V-5 instructor and professor of classics.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle><title render="italic">Aerology for Pilots</title>, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle><title render="italic">Aircraft Navigation Manual</title>, 1941</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle><title render="italic">Air Masses and Fronts</title>, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle><title render="italic">Air Navigation,</title> Part 1: Introduction to Earth, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle><title render="italic">Air Navigation,</title> Part 2: Introduction to Navigation, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle><title render="italic">Air Navigation,</title> Part 3: Dead Reckoning and Lines of Position, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle><title render="italic">Air Navigation,</title> Part 5: Relative Movement, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle><title render="italic">Airway Aids</title>, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle><title render="doublequote">Maps . . . and how to understand them,</title> 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle><title render="italic">Mathematics for Pilots</title>, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle><title render="italic">Meet the N2S</title>, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle><title render="italic">Physics Manual for Pilots</title>, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle><title render="italic">Thunderstorms</title>, undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

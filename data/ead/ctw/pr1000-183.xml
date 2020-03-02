@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-125::Wesleyan Programs Collection)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/na1000-125.html">na1000-125</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Wesleyan Programs Collection,
+		<lb/><date normal="1833/1976">1833 - 1976</date>
+		</titleproper>
+        <author>Processed by: Anna Martin; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2009" encodinganalog="date">© 2009</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: October 2009</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Wesleyan Programs Collection, <date type="span">1833 - 1976</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Wesleyan Programs Collection, <unitdate normal="1833/1976" type="inclusive">1833 - 1976</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-183</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">1.0</extent></physdesc><physdesc label="Archival Boxes"><extent>2</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+    <abstract label="Abstract" encodinganalog="545">Wesleyan University was founded in 1831 in Middletown, Connecticut.</abstract><abstract encodinganalog="520">The Wesleyan Programs collection contains a variety of programs from 19th and 20th century Wesleyan events, including exhibitions by members of various classes and convocation, matriculation, and graduation ceremonies.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Wesleyan Programs Collection, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Collected by University Archives staff.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Anna Martin (class of 2009), May 2009</p>
+        <p>Encoded by Valerie Gillispie, October 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Wesleyan University was founded in 1831 in Middletown, Connecticut. </p>
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Wesleyan Programs collection contains a variety of programs from 19th and 20th century Wesleyan events, including exhibitions by members of various classes and convocation, matriculation, and graduation ceremonies.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <genreform encodinganalog="655" source="aat">Programs.</genreform>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p><extref href="http://www.wesleyan.edu/libr/schome/FAs/cl1000-143.html">Class Day Programs</extref>, Special Collections &amp; Archives, Wesleyan University</p>
+      <p><extref href="http://www.wesleyan.edu/libr/schome/FAs/wa1000-181.html">Washington's Birthday Programs</extref>, Special Collections &amp; Archives, Wesleyan University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unittitle/>
+        </did>
+        <scopecontent>
+          <p/>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Annual Dinner, 1860-1920</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Annual Exercises, 1855-1884</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Annual Exercises, 1885-1905</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Convocation, 1972-1976</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Cremation, 1868-1910</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Matriculation Services, 1911-1949</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Matriculation Services, 1950-1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Freshman Jubilee, 1854-1855</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Sophomore Exhibtions, 1858-1872</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Junior Exhibtions, 1835-1866</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Junior Exhibtions, 1867-1874</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Junior Exhibtions, 1876-1893</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Junior Exhibtions, 1894-1925</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Junior Week, 1907-1916</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Senior Exhibtions, 1834-1851</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Exhibition: Temperance, 1833</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

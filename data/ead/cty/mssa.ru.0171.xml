@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0171">mssa.ru.0171</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Commons, Yale University, Records
+ </titleproper>
+            <titleproper type="filing">Commons, Yale University, Records</titleproper>
+            <author>compiled by Staff of Manuscripts and Archives</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>October 2004</date>
+            <num>RU 171</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 08:01</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Commons, Yale University, records</unittitle>
+         <unitid>RU 171</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.25</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1883/1927">1883-1927</unitdate>
+         
+         <abstract id="aspace_4757f073af018f225de7d42ca2b22369">The records consist of financial files documenting the Commons, a Yale dining hall.</abstract>
+         <origination label="creator">
+            <corpname source="local">
+               Yale University Dining Halls
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_e52d0cb4b4a9f67e9985d8609c96d3f9">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 5-F (YRG 5-F), Records documenting operations and administrative services at Yale University.</p>  
+      </odd>
+      <prefercite id="aspace_39a837b8005e123b53a9552bf463673e">
+         <head>Preferred Citation</head>
+         <p>Commons, Yale University, Records (RU 171). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <arrangement id="aspace_618e98769f5d648abb58fc5a2b5006f6">
+         <head>Arrangement</head>
+         <p>The records are arranged chronologically.</p>  
+      </arrangement>
+      <scopecontent id="aspace_f5c771f5d81b9a4c651657bab4158b8a">
+         <head>Scope and Contents</head>
+         <p>The records consist of financial files documenting the Commons, a Yale dining hall.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141123"
+                  source="lcsh">
+            Universities and colleges -- Food service
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Finance
+         </corpname>
+         <corpname source="local">
+            Yale University Dining Halls
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref7" level="series">
+            <did>
+               <unittitle>Commons financial files</unittitle>
+               <unitid>Accession 1936-A-005</unitid>
+               <unitdate type="inclusive">1883-1927</unitdate>
+            </did>
+            <c id="ref8" level="file">
+               <did>
+                  <unittitle>Payroll</unittitle>
+                  <unitdate type="inclusive">1883, 1884</unitdate>
+                  <container label="Mixed Materials (39002042699208)"
+                             altrender="archive legal"
+                             id="aspace_c8378108f89ee6e510219fad3e6b2a17"
+                             type="box">1</container>
+                  <container id="aspace_3d386e3759584efa95ebc49951d7dd44"
+                             type="folder"
+                             parent="aspace_c8378108f89ee6e510219fad3e6b2a17">1</container>
+               </did>
+            </c>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Payroll</unittitle>
+                  <unitdate type="inclusive">1899 October-1900 June</unitdate>
+                  <container label="Mixed Materials (39002042699208)"
+                             altrender="archive legal"
+                             id="aspace_86f08ec6246e4e2c7a67ef0775513fec"
+                             type="box">1</container>
+                  <container id="aspace_4700db6b3e9b863331a4a8ef67a23a9a"
+                             type="folder"
+                             parent="aspace_86f08ec6246e4e2c7a67ef0775513fec">2 - 10</container>
+               </did>
+            </c>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Daily Provisions Book</unittitle>
+                  <unitdate type="inclusive">1916 March-1918 September</unitdate>
+                  <container label="Mixed Materials (39002042699208)"
+                             altrender="archive legal"
+                             id="aspace_9a9ccbeb0cd18a1c35671c87747b2a73"
+                             type="box">1</container>
+                  <container id="aspace_2528086fb4f68ea674d23c4db69f0179"
+                             type="folder"
+                             parent="aspace_9a9ccbeb0cd18a1c35671c87747b2a73">11</container>
+               </did>
+            </c>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>Cash Receipts Ledger</unittitle>
+                  <unitdate type="inclusive">1919 September-1920 June</unitdate>
+                  <container label="Mixed Materials (39002042699216)"
+                             altrender="flat box (12d 3h 15w)"
+                             id="aspace_f177b8fcdeb2afe81e22704a33e6c853"
+                             type="box">2</container>
+                  <container id="aspace_b206a0156e8f4b9500504418d023fa6b"
+                             type="folder"
+                             parent="aspace_f177b8fcdeb2afe81e22704a33e6c853">12</container>
+               </did>
+            </c>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Charge Ledger</unittitle>
+                  <unitdate type="inclusive">1919 September-1920 June</unitdate>
+                  <container label="Mixed Materials (39002042699216)"
+                             altrender="flat box (12d 3h 15w)"
+                             id="aspace_800b2a5fdbb57730dc267924484bde21"
+                             type="box">2</container>
+                  <container id="aspace_557b8d9073826dcfda9d8d1ee03a8e8f"
+                             type="folder"
+                             parent="aspace_800b2a5fdbb57730dc267924484bde21">13</container>
+               </did>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Provisions &amp; Supplies Ledger</unittitle>
+                  <unitdate type="inclusive">1919 September-1920 June</unitdate>
+                  <container label="Mixed Materials (39002042699216)"
+                             altrender="flat box (12d 3h 15w)"
+                             id="aspace_1e3413a449007ff7ea5a68ea83046a07"
+                             type="box">2</container>
+                  <container id="aspace_04b799d0b0cb413141da37a3d0ce7b0c"
+                             type="folder"
+                             parent="aspace_1e3413a449007ff7ea5a68ea83046a07">14</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Stock Book</unittitle>
+                  <unitdate type="inclusive">1919-1920</unitdate>
+                  <container label="Mixed Materials (39002042699216)"
+                             altrender="flat box (12d 3h 15w)"
+                             id="aspace_bb7a2d47564700860c21cc056675b163"
+                             type="box">2</container>
+                  <container id="aspace_4092db82183e312e06b15ae4c46353a1"
+                             type="folder"
+                             parent="aspace_bb7a2d47564700860c21cc056675b163">15</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Correspondence related to closing of Dining Hall</unittitle>
+                  <unitdate type="inclusive">1920-1921</unitdate>
+                  <container label="Mixed Materials (39002042699224)"
+                             altrender="archive legal"
+                             id="aspace_f7ec5329380513823f30d8068f40d844"
+                             type="box">3</container>
+                  <container id="aspace_fa39ef121763406672f59636646f7498"
+                             type="folder"
+                             parent="aspace_f7ec5329380513823f30d8068f40d844">16</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Inventories at closing</unittitle>
+                  <unitdate type="inclusive">1920-1921</unitdate>
+                  <container label="Mixed Materials (39002042699224)"
+                             altrender="archive legal"
+                             id="aspace_41fe7eaae82f8b811c8449c6b366286e"
+                             type="box">3</container>
+                  <container id="aspace_8dce6784416d5318d6ddeb0abac0f70c"
+                             type="folder"
+                             parent="aspace_41fe7eaae82f8b811c8449c6b366286e">17</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>The Kellogg Service, Inc. (1922-23)</unittitle>
+               </did>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Contracts with Yale</unittitle>
+                     <unitdate type="inclusive">1923</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_ab02b96eb23ec4c7845c0b50c51c7b6d"
+                                type="box">3</container>
+                     <container id="aspace_eb5ad936cefa8536dcd3df42f00e941f"
+                                type="folder"
+                                parent="aspace_ab02b96eb23ec4c7845c0b50c51c7b6d">18</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Correspondence with Treasurer's Office</unittitle>
+                     <unitdate type="inclusive">1923</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_cba9ce35eb7c26f4bd72cc4d0ef08595"
+                                type="box">3</container>
+                     <container id="aspace_a1f04a62486cdd7ec6632e9a748fa089"
+                                type="folder"
+                                parent="aspace_cba9ce35eb7c26f4bd72cc4d0ef08595">19</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Financial Records &amp; Inventories</unittitle>
+                     <unitdate type="inclusive">1922 June-1922 December</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_820741add3685905b42a74688e0518e9"
+                                type="box">3</container>
+                     <container id="aspace_b53476d8a8b511946419d74ef5f57d85"
+                                type="folder"
+                                parent="aspace_820741add3685905b42a74688e0518e9">20</container>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Financial Records &amp; Biweekly Reports</unittitle>
+                     <unitdate type="inclusive">1922 September-1922 December</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_532319d1c30f08c084b339d6136c1341"
+                                type="box">3</container>
+                     <container id="aspace_73bc680aa2f5c4c395d257a8577965b1"
+                                type="folder"
+                                parent="aspace_532319d1c30f08c084b339d6136c1341">21</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Financial Records</unittitle>
+                     <unitdate type="inclusive">1923 January-1923 June</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_668b88b85bc3add6079791a16ce545bb"
+                                type="box">3</container>
+                     <container id="aspace_d29af84ae6b2612a74c8e762c8a221c6"
+                                type="folder"
+                                parent="aspace_668b88b85bc3add6079791a16ce545bb">22 - 23</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Repair &amp; Replacement Bills</unittitle>
+                     <unitdate type="inclusive">1922-1923</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_0c1f5d77e1649701e619d9f13af488c6"
+                                type="box">3</container>
+                     <container id="aspace_8c5f8cc2bbe45dd792402821bb415504"
+                                type="folder"
+                                parent="aspace_0c1f5d77e1649701e619d9f13af488c6">24</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Miscellaneous &amp; Unclassified</unittitle>
+                     <unitdate type="inclusive">1923?</unitdate>
+                     <container label="Mixed Materials (39002042699224)"
+                                altrender="archive legal"
+                                id="aspace_412037ad7765fbe5ca5888c8aef4d104"
+                                type="box">3</container>
+                     <container id="aspace_721d621c7ab27bfb0d1a3e033bff8f29"
+                                type="folder"
+                                parent="aspace_412037ad7765fbe5ca5888c8aef4d104">25</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Accounts Payable</unittitle>
+                  <unitdate type="inclusive">1925 September-1927 June</unitdate>
+                  <container label="Mixed Materials (39002042699224)"
+                             altrender="archive legal"
+                             id="aspace_578ebab472bb36aad469b6a52c794e24"
+                             type="box">3</container>
+                  <container id="aspace_af3da3b17fc757151b5ba927ffe879ae"
+                             type="folder"
+                             parent="aspace_578ebab472bb36aad469b6a52c794e24">26 - 27</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Payroll</unittitle>
+                  <unitdate type="inclusive">1925 September-1926 December</unitdate>
+                  <container label="Mixed Materials (39002042699224)"
+                             altrender="archive legal"
+                             id="aspace_0ef87e17b3c93ed80d0640e51c8f0d86"
+                             type="box">3</container>
+                  <container id="aspace_1ac4516569215c43a9b05189ae460c18"
+                             type="folder"
+                             parent="aspace_0ef87e17b3c93ed80d0640e51c8f0d86">28 - 32</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>Payroll</unittitle>
+                  <unitdate type="inclusive">1927 January-1927 June</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_3e35aa4b40eff14d6fe30201d6790e7b"
+                             type="box">4</container>
+                  <container id="aspace_b6cebd45041f67c0d54d3f64f9871171"
+                             type="folder"
+                             parent="aspace_3e35aa4b40eff14d6fe30201d6790e7b">33 - 34</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Petty Cash Expenditures</unittitle>
+                  <unitdate type="inclusive">1925 October-1927 June</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_8d9f9c6e32c2fa212f0aacfa91f80dae"
+                             type="box">4</container>
+                  <container id="aspace_1d68660d000edd4e970884c8a34487ec"
+                             type="folder"
+                             parent="aspace_8d9f9c6e32c2fa212f0aacfa91f80dae">35 - 36</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>Resumes</unittitle>
+                  <unitdate type="inclusive">1926 September-1927 January</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_87e6df148d276e0025b1ea5cb76ed1f9"
+                             type="box">4</container>
+                  <container id="aspace_2c76802d52a9ae4192afb6eec822ed1f"
+                             type="folder"
+                             parent="aspace_87e6df148d276e0025b1ea5cb76ed1f9">37</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Supplies Inventories</unittitle>
+                  <unitdate type="inclusive">1925 October-1926 June</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_ef4bd2f231d8019074fa503c6344b285"
+                             type="box">4</container>
+                  <container id="aspace_0a802f758b4247bfae0b5abcf0b251b5"
+                             type="folder"
+                             parent="aspace_ef4bd2f231d8019074fa503c6344b285">38</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Supplies Inventories</unittitle>
+                  <unitdate type="inclusive">1926 October-1927 June</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_e01e6400b3c0c9b810c3df2c80828dd0"
+                             type="box">4</container>
+                  <container id="aspace_e2c93a656b47444fca3206c0b1618a08"
+                             type="folder"
+                             parent="aspace_e01e6400b3c0c9b810c3df2c80828dd0">39</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>Miscellaneous &amp; Unclassified</unittitle>
+                  <unitdate type="inclusive">1925-1927</unitdate>
+                  <container label="Mixed Materials (39002042699232)"
+                             altrender="archive half legal"
+                             id="aspace_a353251a150acefcb205dfe7dbbe7f1c"
+                             type="box">4</container>
+                  <container id="aspace_9440c11654e493d136332a80b25cc38f"
+                             type="folder"
+                             parent="aspace_a353251a150acefcb205dfe7dbbe7f1c">40</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Yale Theater Lunch Room</unittitle>
+               </did>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Accounts Payable</unittitle>
+                     <unitdate type="inclusive">1926 October-1927 May</unitdate>
+                     <container label="Mixed Materials (39002042699232)"
+                                altrender="archive half legal"
+                                id="aspace_7ea7d56700c7274100a349d1c34eb885"
+                                type="box">4</container>
+                     <container id="aspace_241bcf81927c781967d8e87d290553cd"
+                                type="folder"
+                                parent="aspace_7ea7d56700c7274100a349d1c34eb885">41</container>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Payroll</unittitle>
+                     <unitdate type="inclusive">1926 October-1927 February</unitdate>
+                     <container label="Mixed Materials (39002042699232)"
+                                altrender="archive half legal"
+                                id="aspace_287bd8019d7f88858a99e1fe76846648"
+                                type="box">4</container>
+                     <container id="aspace_d4dfe73bcd591c32223d4f997ac38a78"
+                                type="folder"
+                                parent="aspace_287bd8019d7f88858a99e1fe76846648">42</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Payroll</unittitle>
+                     <unitdate type="inclusive">1926 March-1927 June</unitdate>
+                     <container label="Mixed Materials (39002042699232)"
+                                altrender="archive half legal"
+                                id="aspace_c06deccd03df6856599dd3a010a6b27b"
+                                type="box">4</container>
+                     <container id="aspace_50b025ea21ef32ad67d580c9617be621"
+                                type="folder"
+                                parent="aspace_c06deccd03df6856599dd3a010a6b27b">43</container>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Resumes &amp; Miscellaneous</unittitle>
+                     <unitdate type="inclusive">1926-1927</unitdate>
+                     <container label="Mixed Materials (39002042699232)"
+                                altrender="archive half legal"
+                                id="aspace_98c7d9c8e48049872829fb0eff9aea6d"
+                                type="box">4</container>
+                     <container id="aspace_ff38ef41df82f03f61816b176ba57351"
+                                type="folder"
+                                parent="aspace_98c7d9c8e48049872829fb0eff9aea6d">44</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

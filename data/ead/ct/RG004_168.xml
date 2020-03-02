@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004_168.html" countrycode="us">RG004_168</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:168, Woodbury Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">April 02, 2013</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2013</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>April 02, 2013</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (Woodbury District)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Woodbury Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1719/1949">1719-1949</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">72.25 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Record books, 1719-1944; Probate files, 1720-1949.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_168</unitid>
+	<unitid label="Accession: ">1915-026, 2011-104, T003295</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Woodbury, Litchfield County, Town named May 1673
+</p>
+<p>
+The Woodbury Probate District was constituted October 1719 from the Fairfield, Hartford and New Haven Probate Districts. It also served the following municipalities at various times: 
+Bethlehem, May 1787 - January 4, 2011; New Milford, October 1719 - May 1787; Roxbury, October 1796 - June 4, 1842; Southbury, May 1787 - January 3, 1967; Washington, January 1770 - May 21, 1832 (covered Judea Society, i.e. the parts of town taken
+from Woodbury and New Milford). The Woodbury Probate District merged with the Oxford, Roxbury, Southbury, and Washington Probate Districts on January 5, 2011 to create the Region # 22 Probate District which serves the municipalities of Bethlehem, Oxford, Roxbury, Southbury, Washington, Watertown, and Woodbury.
+</p>
+<p>
+Town of Woodbury, Probate District chronology:
+</p>
+<p>
+Before 1698, Colonial Jurisdiction<lb/>
+1698 - October 1719 Fairfield District<lb/>
+October 1719 - January 4, 2011, Woodbury District<lb/>
+
+January 5, 2011 - Present, Region # 22 District
+</p>
+
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+
+	<p>Probate record books, vol. 1-57, 1719-1944. There is also a supplement to volume 3, an index to volume 1, and index to volumes 2-3, and a typed index covering circa 1719-1860. Contact the probate court to access original record books numbered after 57. See Alternative Form Available note below. </p>
+
+	<p>Probate files, 1720-1949, Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. See Alternative Form Available note below.</p> 
+
+	<p>Inventory control book, 1720-1943 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+
+</scopecontent> 
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Record books in accession 2011-104 are numbered 1-57. There are two volumes numbered 3.</p>
+	<p>Probate files in accessions 1915-026 and T003295 are arranged alphabetically.</p>
+</arrangement>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+<p>Record Books: Index cards for the record books have been scanned. Ask History and Genealogy staff for assistance.</p>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in Accession 1915-026 are represented in this index.
+</p>
+
+</otherfindaid>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Bethlehem</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- New Milford</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Roxbury</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Southbury</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Washington</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Woodbury</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Bethlehem (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">New Milford (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Roxbury (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Southbury (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Washington(Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Woodbury (Conn.)</geogname>
+	</controlaccess>
+	
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+	<p>Accession 2011-104, Record books, 1719-1944, is stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+	<p>Probate files from 1921-1946 are <emph render="bold">RESTRICTED</emph> as they may contain confidential documents. Tax returns (succession, transfer and estate tax returns and all attachments) from January 1, 1921 and later are confidential per Connecticut General Statutes §12-15. 
+Adoptions (all documents) from January 1, 1944 and later are confidential per Connecticut General Statutes §45a-754. Contact State Archives staff for assistance.</p>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, vol. 1-23, 25-28, 30, 32, 34, 36, 38, 40, 42-43, 46-47, 49-50, 52-54, 56, 1719-1916; probate files, 1720-1880; and inventory control book were microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>
+The probate files in accession 1915-026 were transferred to the Connecticut State Library on the following dates (with date span of files): September 9, 1915 (1720-1910); July 8, 1941 (1873-1922); September 9, 1942 (1749-1943); 
+March 23, 1943 (1749-1943); September 24, 1943 (1749-1943); June 14, 1944 (1749-1943). They were interfiled into one alphabetic sequence.
+</p>
+<p>
+It is not known when the probate files in accession T003295 were transferred to the Connecticut State Library.
+</p>
+<p>
+The record books in accession 2011-104 were transferred to the Connecticut State Library on January 20, 2011.
+</p>
+</acqinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Record books</unittitle>
+	<unitdate datechar="creation" normal="1719/1944">1719-1944</unitdate>
+	<physdesc><extent>24 cubic feet (60 volumes + 1 item)</extent></physdesc>
+	<unitid label="Accessison: ">2011-104</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">unnumbered</container>
+	<unittitle>Index covering circa 1718-1860</unittitle>
+	<physdesc><extent>1 item</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">unnumbered </container>
+	<unittitle>Index vol 1</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">unnumbered </container>
+	<unittitle>Index vol 2,3</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">1</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1719-1933</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">2</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1733-1748</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1749-1754</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3 </container>
+	<unittitle>Records, supplement</unittitle>
+	<unitdate>1754-1760</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">4</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1757-1760</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">5</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1760-1766, 1772, 1783, 1785</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1766-1773, 1785</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">7</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1773-1778, 1786, 1787</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">8</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1779-1786</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">9</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1786-1798</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">10</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1798-1814</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">11</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1807-1816</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">12</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1813-1818</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">13</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1820-1825</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">14</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1824-1829</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">15</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1826-1830</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">16</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1828-1833</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">17</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1731-1838</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">18</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1835-1843</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">19</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1840-1843</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">20</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1843-1849</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">21</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1849-1858</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">22</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1856-1862</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">23</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1862-1865</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">24</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1864-1872</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">25</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1865-1869</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">26</container>
+	<unittitle>Guardians</unittitle>
+	<unitdate>1824-1866</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">27</container>
+	<unittitle>Guardians</unittitle>
+	<unitdate>1866-1900</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">28</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1869-1874</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">29</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1872-1877</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">30</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1874-1877</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">31</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1877-1880</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">32</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1874-1880</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">33</container>
+	<unittitle>Orders nad decrees</unittitle>
+	<unitdate>1880-1884</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">34</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1880-1883</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">35</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate>1881-1896</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">36</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1883-1887</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">37</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1884-1887</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">38</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1887-1889</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">39</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1887-1892</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">40</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1890-1892</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">41</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1892-1896</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">42</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1890-1894</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">43</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1894-1896</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">44</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate>1896-1922</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">45</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1896-1901</unitdate>
+ </did>	
+	<note><p>on spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">46</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1897-1900</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">47</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1899-1902</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">48</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1901-1906</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">49</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1902-1905</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">50</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1904-1909</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">51</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1907</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">52</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1908-1910</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">53</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1910-1915</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">54</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1912-1913</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">55</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate>1914, 1941-1944</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">56</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1912-1917</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">57</container>
+	<unittitle>Records</unittitle>
+	<unitdate>1916-1923</unitdate>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1720/1943">1720-1943</unitdate>
+	<physdesc><extent>36.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1915-026</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry>Drawer</entry>
+ <entry></entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Drawer">1-109</container>
+	<unittitle>A - Z; Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1720-1943</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the six accessions of probate files now merged into accession 1915-026</p></note> 
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1910/1949">circa 1910-1949</unitdate>
+	<physdesc><extent>12 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">T003295</unitid>
+ </did>
+	<note><p>There is no index for this accession.</p></note>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Drawer</entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Abraham - Ames</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Anderson - Ayres</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Baron - Baldwin, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Baldwin, E. - Bell</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Benedict - Brown</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unittitle>Brundage - Cam</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unittitle>Candee - Champoli</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unittitle>Churchill - Curtis</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unittitle>Dakin - Dayton</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Dearborn - Evans</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">11</container>
+	<unittitle>Eyre - Fortt</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unittitle>Fowler - Griswold</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">13</container>
+	<unittitle>Gruber - Hawley</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">14</container>
+	<unittitle>Hayes - Hirsch</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Hitchcock - Huntington</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Isham - Keil</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">17</container>
+	<unittitle>Kenway - Larson</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">18</container>
+	<unittitle>Le Comte - Magee</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">19</container>
+	<unittitle>Maier - Marvin</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">20</container>
+	<unittitle>Mazaika - Morris</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">21</container>
+	<unittitle>Mosevege - Norton</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>O'Brien - Peck</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">23</container>
+	<unittitle>Percy - Pinkerton</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Platt - Quick</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">25</container>
+	<unittitle>Rainey - Richards</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">26</container>
+	<unittitle>Robinson - St. Pierre</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">27</container>
+	<unittitle>Salmon - Senkus</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">28</container>
+	<unittitle>Shea - Steiglitz</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">29</container>
+	<unittitle>Stiles - Sturges</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">30</container>
+	<unittitle>Sullivan - Thompson</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">31</container>
+	<unittitle>Thomson - Tomlinson</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">32</container>
+	<unittitle>Traub - Urbaties</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">33</container>
+	<unittitle>Valentini - Ward</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">34</container>
+	<unittitle>Warner - Werner</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">35</container>
+	<unittitle>Wheeler - Wood</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">36</container>
+	<unittitle>Woodward - Zepp; &amp; Probate Index Lists</unittitle>
+ </did>	
+</c02>
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

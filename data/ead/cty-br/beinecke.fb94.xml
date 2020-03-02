@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.fb94">beinecke.fb94</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Civil War, Collection of Letters and Papers
+ </titleproper>
+            <titleproper type="filing">Civil War Collection of Letters and Papers</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>August 2005</date>
+            <num>OSBORN FB94</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 30, 2019 at 03:02</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Civil War. Collection of letters and state papers, apparently from the papers of John Pym</unittitle>
+         <unitid>OSBORN FB94</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.15</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 volume)</physdesc>
+         
+            <unitdate type="inclusive" normal="1584/1643">1584-1643</unitdate>
+         
+         <abstract id="aspace_0d28a3cdc2d3e45fc512d781358c946c">Collection of 28 letters and other documents, many written to John Pym and all concerned with military activities of the Parliamentary army during the English Civil War. Numerous writers request financial assistance, food, clothing, and arms for their soldiers, including Alexander Carew, who asks for money and arms to combat an uprising in Cornwall; Sir William Balfour, who requests back pay for his services as commissary and captain of a troop in Ireland and requests two months' advance for his soldiers, or else they will be unable to subsist; and William Jephson, who begs Pym to be as active for him in Parliament as his soldiers have been on the field, and who are now in rags without enough food to eat. Other letters report on threats of armed uprisings and on the movements of King Charles I as well as the movements of Queen Henrietta Maria at The Hague.</abstract>
+    
+      </did>
+      <acqinfo id="aspace_e11b5573c804016816d2ece5c32d50dd">
+         <head>Immediate Source of Acquisition</head>
+         <p>For provenance information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <userestrict id="aspace_50f32468bceee761d6c56816e970b891">
+         <head>Conditions Governing Use</head>
+         <p>Osborn fb94 is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_a5483e6b17bf6751bc7e82c7d9a02c37">
+         <head>Preferred Citation</head>
+         <p>Civil War, Collection of Letters and Papers. James Marshall and Marie-Louise Osborn Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_4dcd5eb1a7695f61b28cc169a2703451">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_70bfba6a8e2ee30c3fd6cc25345a2aa0">
+         <head>Processing Information</head>
+         <p>This finding aid was produced from a previously existing list or card set. All pertinent bibliographical information has been retained; the volume may contain additional unlisted material.</p>  
+      </processinfo>
+      <scopecontent id="aspace_f10432708d64653844ee0ed6eade475c">
+         <head>Scope and Contents</head>
+         <p>The following finding aid is a complete inventory of the contents of <ref xlink:actuate="onRequest" xlink:show="replace" target="ref9">Osborn fb94</ref>. This list was reformatted from previously existing cataloging.</p>  
+      </scopecontent>
+      <controlaccess>
+         <geogname source="local">
+            England -- Foreign relations -- Scotland
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85056793"
+                   source="lcsh">
+            Great Britain -- History -- Civil War, 1642-1649 -- Campaigns
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85056792"
+                   source="lcsh">
+            Great Britain -- History -- Civil War, 1642-1649
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85056892"
+                   source="lcsh">
+            Great Britain -- Politics and government -- 1625-1649
+         </geogname>
+         <geogname source="local">
+            Scotland -- Foreign relations -- England
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300026877" source="aat">
+            Correspondence 
+         </genreform>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79132433"
+                   source="naf">
+            Charles, King of England, I, 1600-1649
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50037308"
+                   source="naf">
+            Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85053538"
+                   rules="aacr"
+                   source="naf">
+            Bedford, William Russell, Duke of, 1613-1700
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84233086"
+                   source="naf">
+            Essex, Robert Devereux, Earl of, 1591-1646
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85010422"
+                   rules="aacr"
+                   source="naf">
+            Manchester, Edward Montagu, Earl of, 1602-1671
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85053779"
+                   rules="aacr"
+                   source="naf">
+            Nicholas, Edward, Sir, 1593-1669
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85088547"
+                   rules="aacr"
+                   source="naf">
+            Northumberland, Algernon Percy, Earl of, 1602-1668
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50049360"
+                   rules="aacr"
+                   source="naf">
+            Pym, John, 1584-1643
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85029959"
+                   source="naf">
+            Strickland, Walter, -1670
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79063282"
+                   source="naf">
+            Great Britain. Army
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79017964"
+                   source="naf">
+            Great Britain. Parliament
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Osborn fb94</unittitle>
+            </did>
+            <c id="ref10" level="subseries">
+               <did>
+                  <unittitle>BALFOUR, SIR WILLIAM, D. 1660.</unittitle>
+               </did>
+               <c id="ref11" level="file">
+                  <did>
+                     <unittitle>LS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1641 Dec 6</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_9dec99a7e0b76f39f0791095390f2d05"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_ac16c830e787dcc4577b2ce2950b01da">
+                     <head>Scope and Contents</head>
+                     <p>n.p. <lb/> 1 p.; 30 x 18 cm. <lb/> "Sir Give me leave to arreast your <lb/> noble promise of endeavor on my <lb/> behalfe..." Includes list of <lb/> payments and expenses due to <lb/> Balfour. <lb/> folder 1.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>MANCHESTER, EDWARD MONTAGU, 2ND EARL OF, 1602-71</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">[1642] Oct 7</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_bea454902cc39bf4d5ca79df271046f5"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_4058402653270db2e259e3fa4ea5b5ab">
+                     <head>Scope and Contents</head>
+                     <p>Worcester. <lb/> 1 p.; 30 x 20 cm. <lb/> "Sir I received your letter this <lb/> afternoon and I fully agree with <lb/> your way..." Discussion of military <lb/> situation near Worcester. <lb/> folder 2.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref16" level="subseries">
+               <did>
+                  <unittitle>JENNINGS, GABRIEL.</unittitle>
+               </did>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1641 Oct 5</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_9dd53c6ec1ef6e75d295aafe63ab9bc9"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_b953d6b7c62319ed3ac4c3fe7a14ed3b">
+                     <head>Scope and Contents</head>
+                     <p>Marshalsea of the Four Courts in <lb/> Dublin. <lb/> 2 p.; 29 x 19 cm. <lb/> "After 3 years Strong oppression, I <lb/> am now in Ireland..." Complains <lb/> about his imprisonment. <lb/> folder 3.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref19" level="subseries">
+               <did>
+                  <unittitle>NORTHUMBERLAND, ALGERNON PERCY, EARL OF, 1602-68</unittitle>
+               </did>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>LS to unnamed recipient.</unittitle>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_298e1a88731f3c9a9a4d7c5b8607743c"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_dd491d52111f41657efec363aca47ca0">
+                     <head>Scope and Contents</head>
+                     <p>Derby House. <lb/> 1 p; 31 x 20 cm. <lb/> Countersigned by John Campbell, 1st <lb/> Earl of Loudoun (1598-1663). Draft of <lb/> reply on the same page. "Sir, The <lb/> King being now marched with all his <lb/> forces..." Reply: "According to your <lb/> Lordships commands..." <lb/> folder 4.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref22" level="subseries">
+               <did>
+                  <unittitle>BEDFORD, WILLIAM RUSSELL, 1ST DUKE OF, 1616-1700</unittitle>
+               </did>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>LS to the Committee of Safety.</unittitle>
+                     <unitdate type="inclusive">1642 Oct 18</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_a210082dc1087acb6824142b70e47230"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_e1f4e7318c23845161c15418b368be79">
+                     <head>Scope and Contents</head>
+                     <p>Worcester. <lb/> 1 p.; 32 x 22 cm. <lb/> "My Lords &amp; Gentlemen, In obedience <lb/> to the commands of the Houses..." <lb/> Discusses the King's refusal to <lb/> receive a petition. Also signed by <lb/> Viscount Mandeville; Denzil Holles, <lb/> 1st Baron Holles of Ifield <lb/> (1599-1680); Philip Wharton, 4th <lb/> Baron Wharton (1613-96); Robert <lb/> Greville, 2nd Baron Brooke (1608-43); <lb/> Francis Willoughby, 5th Baron <lb/> Willoughby of Parham (1613?-66); <lb/> Arthur Goodwin (1593?-1643) and one <lb/> other. <lb/> Great Britain. Committee of Safety; <lb/> Charles I, 1600-49. <lb/> folder 5.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref25" level="subseries">
+               <did>
+                  <unittitle>JEPHSON, WILLIAM, 1615?-59?</unittitle>
+               </did>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Oct 15</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_d7395896194c33061a0e175ce3084814"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_688926d854ba6ba51bcdfffab2d1e1af">
+                     <head>Scope and Contents</head>
+                     <p>Cork. <lb/> 1 p.; 33 x 22 cm. <lb/> "Noble Cousin, Wee are now brought <lb/> to the last Pynche of beinge able to <lb/> subsist..." A plea for supplies for <lb/> the troops around Cork. <lb/> folder 6.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref28" level="subseries">
+               <did>
+                  <unittitle>PEYTON, SIR THOMAS</unittitle>
+               </did>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>ALS to Robert Hales.</unittitle>
+                     <unitdate type="inclusive">1641 Apr 29</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_bb1ea527275873ead300b220f6073e12"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_0443bd7d688fba32e76d18e6d24dad8b">
+                     <head>Scope and Contents</head>
+                     <p>n.p. <lb/> 1 p.; 19 x 15 cm. <lb/> "Good Cousin, The Lord Petition for <lb/> the expedition of justice..." Also <lb/> discusses a tax plan for raising <lb/> money. <lb/> Taxes -- Great Britain. <lb/> folder 7.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref31" level="subseries">
+               <did>
+                  <unittitle>NICHOLAS, SIR EDWARD, 1593-1669</unittitle>
+               </did>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>LS to Sir William Boswell (d. 1650).</unittitle>
+                     <unitdate type="inclusive">1642 Sep 21</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_d09424d4e6954d3d46be6c8fc7ec59a0"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_656894b59358beddcf6ac01313eb29c1">
+                     <head>Scope and Contents</head>
+                     <p>Shrewsbury. <lb/> 2 p.; 29 x 20 cm. <lb/> "Sir, His Majesty arrived here <lb/> yesternight..." With nine line <lb/> autograph postscript stating that <lb/> he would rather die in the King's <lb/> cause, "than prosper by taking arms <lb/> against God's annoynted." <lb/> folder 8.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref34" level="subseries">
+               <did>
+                  <unittitle>ESSEX, ROBERT DEVEREUX, 3RD EARL OF, 1591-1646</unittitle>
+               </did>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>ALS to the Committee of Safety.</unittitle>
+                     <unitdate type="inclusive">1642 Oct 18</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_579e88b27fbdbd2c065bdcc9fcaf298f"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_56e9be212d753d0a1c6a128b486672f2">
+                     <head>Scope and Contents</head>
+                     <p>Worcester. <lb/> 1 p.; 29 x 19 cm. <lb/> "My Lords and Gentlemen, In obedience <lb/> to your commands..." Concerns a <lb/> petition sent to Charles I. <lb/> Great Britain -- Committee of Safety. <lb/> folder 9.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref37" level="subseries">
+               <did>
+                  <unittitle>BERKER, JOHN</unittitle>
+               </did>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>ALS to Robert Devereux, 3rd Earl of Essex (1591-1646).</unittitle>
+                     <unitdate type="inclusive">1643 Mar 14</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_ad959711500c7f4ef56b4db1d5a2f4a6"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_16b051c77b5058b605ac9a08015a0eed">
+                     <head>Scope and Contents</head>
+                     <p>Coventry. <lb/> 1 p.; 30 x 19 cm. <lb/> "May it please your excellency, We <lb/> received youres expressing your care <lb/> by diversion..." Discusses military <lb/> situation around Coventry. <lb/> Also signed by H. Mackworth, William <lb/> Purefoy (1580?-1659) and George <lb/> Abbott. <lb/> folder 11.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref40" level="subseries">
+               <did>
+                  <unittitle>CHOLMELEY, SIR HUGH, 1600-57</unittitle>
+               </did>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 3</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_844c4a59de948ebf3153f0ee51a11bae"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_14114364c046a9878c89176499f075d6">
+                     <head>Scope and Contents</head>
+                     <p>Stamford Bridge. <lb/> 2 p.; 30 x 21 cm. <lb/> "Sir, I am this day come to Stamford <lb/> Brigge..." Detailed description of <lb/> military situation in his area. <lb/> folder 12.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref43" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670.</unittitle>
+               </did>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>[Memorial to the States General of the United Netherlands]</unittitle>
+                     <unitdate type="inclusive">1642</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_4ed37468103c79669c9ac53539ffc1c3"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_7e0805750f9a16b6873cb0104be774b4">
+                     <head>Scope and Contents</head>
+                     <p>1 p.; 30 x 20 cm. <lb/> Manuscript in French. <lb/> An appeal to refrain from helping Charles I. Accompanied by the Declaration of the States General (in Dutch), to remain neutral in the English Civil War, 1642 Oct 18. Netherlands (Unites provinces, 1581-1795). Staaten Generaal. <lb/> folder 13.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref46" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_812d451ff9818cb4608da33bc94ae02a"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_82f43169ab22e374394ea541bb776e1d">
+                     <head>Scope and Contents</head>
+                     <p>1642 Oct 31-Nov 10 <lb/> The Hague. <lb/> 1 p., 33 x 21 cm. <lb/> "The Queen hath demanded ships and <lb/> appointed the 17th of this month to <lb/> depart from hence..." Discussion of <lb/> affairs at the Hague including a note <lb/> about plans to raise money by pawning <lb/> jewels. <lb/> folder 14.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref49" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 1</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_0a603741af291b98626cc0ed7b0d6869"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_f43fbab0f6f82b3be15d370ed0757ecf">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 1 p., 31 x 22 cm. <lb/> "Sir, This gentleman Mr. Knight is <lb/> soe well known to Mr. Lawrence and <lb/> Serjeant Major Skipham..." Discloses <lb/> Queen Henrietta Maria's plans to <lb/> visit England. <lb/> folder 15.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref52" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 19</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_4822d5abf1ba54d582aaa8c567dd7b46"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_8bae8373e365c2e15c71737b93d6717b">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 2 p., 31 x 21 cm. <lb/> "Sir, I have formerly informed you <lb/> haw there were designes upon Harwich <lb/> and Yarmouth Hull and Portsmouth..." <lb/> Discussion of naval matters, and the <lb/> fleets of Parliament and the Queen. <lb/> folder 16.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref55" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>LS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 3</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_c58cffd1631092d446cf11c7c0e9ed9b"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_ca904985ab1bad06b19c47cc7bd1ea90">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 2 p., 30 x 19 cm. <lb/> "Sir, ...I received the 30th your <lb/> stile, and am very glad affaires of <lb/> your Kingdom are in so good a <lb/> condition..." Discussion of the <lb/> situation in Holland. <lb/> folder 17.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref58" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">[1642] Nov 13</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_b25e9821e5994c8a6fd0b9868403d55e"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_c93e71dcf8ac0e055d2adaa3747310de">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 1 p., 32 x 21 cm. <lb/> "Sir, Since I writ my packet I heare <lb/> Sir Fredericke Cornwallis..." Short <lb/> discussion about the situation <lb/> around the Hague. <lb/> folder 18.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref61" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 19</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_fb7d221c2f71fe77002b3e479086ecc8"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_71fbbd295706d3e1b042948c95cb7a55">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 3 p., 30 x 20 cm. <lb/> "Sir, Yours of the 28 of Octob I <lb/> received in wch..." Appeal for help <lb/> in Parliament concerning the <lb/> Prince-elect, also news about the <lb/> Queen's naval plans. <lb/> folder 19.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref64" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>LS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 19</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_b40fa08ac6fde5275d488f6453a6d565"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_03ce2f03566e8287a6fa1c44411ec36a">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 1 p., 32 x 21 cm. <lb/> "Sir, Yours of the 28 of October I <lb/> received..." Concerning the "Ralph" <lb/> of Newcastle and the projects of the <lb/> Queen. <lb/> folder 20.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref67" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>LS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 20</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_afa6ad6d583baff6051ed300330712bd"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_770497d4fe5c0f8c49f1fb238c774f2f">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 2 p., 30 x 19 cm. <lb/> "Sir, The Lords of the States <lb/> Generall have laterly received a <lb/> letter from a Lady in England, the <lb/> Countess of Darby..." <lb/> folder 21.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref70" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 20</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_71dd8a2ac7ccc97d73cb0f1e3e729906"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_cb7c1388bac765fb881795b87df359b9">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 2 p., 20 x 15 cm. <lb/> "Sir, I am informed there is one Mr. <lb/> Clarke, a gentleman who lives neare <lb/> Charing Cross..." Exposes several <lb/> threats to the safety of several <lb/> supporters of the parliament's cause. <lb/> folder 22.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref73" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, D. 1670</unittitle>
+               </did>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>LS to [John Pym].</unittitle>
+                     <unitdate type="inclusive">1642 Nov 28</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_f92897bc38b98051cf7115ab0f8a6154"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_d1eb56628f2bc79d329282642c19f00b">
+                     <head>Scope and Contents</head>
+                     <p>The Hague. <lb/> 4 p., 31 x 20 cm. <lb/> "Sir, Yours of the 17th of Octob: I <lb/> received..." Discussion of situation <lb/> in Holland and an appeal for <lb/> Parliamentary reinforcement of his <lb/> diplomatic position. <lb/> folder 23.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref76" level="subseries">
+               <did>
+                  <unittitle>STRICKLAND, WALTER, 1670</unittitle>
+               </did>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>[Protest to the States General of the United Netherlands]</unittitle>
+                     <unitdate type="inclusive">1642 Dec 2</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_51e5a8a2f9c4761b52ab82d7669ddeb5"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_be3fd0ae43ee8c21b00a4dc82ace20a5">
+                     <head>Scope and Contents</head>
+                     <p>2 p., 33 x 21 cm. <lb/> Manuscript in French, signed, with <lb/> autograph postscript in English. <lb/> Protest concerning the breaches of <lb/> the order of the States General <lb/> against the transport of soldiers <lb/> and arms to England. <lb/> Netherlands (United provinces, <lb/> 1581-1795) Staaten generaal. <lb/> folder 24.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref79" level="subseries">
+               <did>
+                  <unittitle>BUTTON, JOHN</unittitle>
+               </did>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">1642 Nov, 4</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_1dfde228fa24c60fdf44b3f379701582"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_c7ce504ad6b1e519e499bc8bccb7b7da">
+                     <head>Scope and Contents</head>
+                     <p>Southampton. <lb/> 1 p., 30 x 20 cm. <lb/> "Sir, In obedience unto your <lb/> letters..." Report on the situation <lb/> in Southampton. Also signed by <lb/> Edward Hooper. <lb/> folder 25.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref82" level="subseries">
+               <did>
+                  <unittitle>CAREW, SIR ALEXANDER, 1609-44</unittitle>
+               </did>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>LS to John Pym and the Committee of Safety.</unittitle>
+                     <unitdate type="inclusive">1642 Nov 11</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_61991e1d28467782b9dca36ab06d8d62"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_d68c1053056103614716216b99f6aa66">
+                     <head>Scope and Contents</head>
+                     <p>Plymouth. <lb/> 1 p., 30 x 20 cm. <lb/> "Sir, Wee have not word either by <lb/> this nor last poste..." Renewing an <lb/> appeal for immediate support and <lb/> supplies. Also signed by Francis <lb/> Butler, J. Elliot, John St. Aubyn, <lb/> John Trefusis, John Carter, Francis <lb/> Godolphin, Richard Erisey and T. <lb/> Arundell. <lb/> folder 26.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref85" level="subseries">
+               <did>
+                  <unittitle>WARWICK, ROBERT RICH, 2ND EARL OF, 1587-1658</unittitle>
+               </did>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>ALS to John Pym.</unittitle>
+                     <unitdate type="inclusive">[1642]</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_7cfa88ca2f1957972111baa42e9b3a46"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_6a20dbbb641cf063802b779b4186a412">
+                     <head>Scope and Contents</head>
+                     <p>n.p. <lb/> 4 p., 27 x 18 cm. <lb/> "Mr. Pimme, I received your letter <lb/> on Saturday last..." Tells of the <lb/> needs for supplies for the merchant <lb/> men, a piracy against some English <lb/> ships, and the foul actions of a <lb/> Captain Ketelby. <lb/> folder 27.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref88" level="subseries">
+               <did>
+                  <unittitle>LONDON. CITIZENS.</unittitle>
+               </did>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>[Petition to both Houses of Parliament]</unittitle>
+                     <unitdate type="inclusive">[1642]</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_72893f4b553bd45e573da760fc2baa10"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_d0361340b656488483856c0cd80e0b9e">
+                     <head>Scope and Contents</head>
+                     <p>1 p., 31 x 20 cm. <lb/> Contemporary MS copy. <lb/> Request that a voluntary levy be <lb/> raised for the defense of the <lb/> country. <lb/> Great Britain -- Parliament. <lb/> folder 28.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref91" level="subseries">
+               <did>
+                  <unittitle>SACKETT, JOHN</unittitle>
+               </did>
+               <c id="ref92" level="file">
+                  <did>
+                     <unittitle>ALS to Robert Hales.</unittitle>
+                     <unitdate type="inclusive">1648 Aug 11</unitdate>
+                     <container label="Mixed Materials (39002093925361)"
+                                id="aspace_b6714ee7e7b2e27e200d800fc4b5399d"
+                                type="box">1</container>
+                  </did>
+                  <scopecontent id="aspace_400766fa077a0dc525cb893a338c39db">
+                     <head>Scope and Contents</head>
+                     <p>Mungebarn. <lb/> 1 p., 31 x 20 cm. <lb/> "Sir, The last night about nine of <lb/> Clocke I was warned to send a light <lb/> horse..." Discussion about the <lb/> burden of maintaining a troop of <lb/> horse. Hales was Captain of the <lb/> troop of horse for the Lath of St. <lb/> Augustine (Co. Kent). <lb/> folder 29.</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

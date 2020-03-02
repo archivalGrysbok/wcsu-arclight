@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::::Ray P. Holland, 1884-1973; Papers on Enforcement of the Migratory Bird Treaty)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ho1000-188.html">ho1000-188</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the Ray P. Holland Papers on Enforcement of the Migratory Bird Treaty,
+      <lb/><date normal="1872/1974">1872 - 1974</date>
+    </titleproper>
+        <author>Processed by: Richard Estabrook; machine-readable finding aid created by: Andrea
+     Benefiel</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2010" encodinganalog="date">©
+      2010</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+    <date>Date of source: March, 2010</date>
+   </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+   </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Ray P. Holland Papers on Enforcement of the Migratory Bird Treaty,
+     <date type="span">1872 - 1974</date>
+   </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp; Archives<lb/>Wesleyan
+    University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2010">© 2010</date> Wesleyan University. All Rights Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">Special Collections &amp; Archives, Wesleyan
+    University</repository>
+      <origination label="Creator">
+        <persname encodinganalog="100">Holland, Ray P. (Ray Prunty), 1884-1973.</persname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Ray P. Holland Papers on Enforcement of the
+    Migratory Bird Treaty, <unitdate normal="1872/1970" type="inclusive">1872 -
+    1974</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-188</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">11</extent>
+      </physdesc>
+      <physdesc label="Archival Boxes">
+        <extent>25</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials, please
+    consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">Born in Atchison, Kansas, Ray P. Holland was
+    interested in the outdoors beginning in his youth. He became a noted sportsman and writer, was
+    dedicated to the management of wildlife and, as a United States Game Warden during World War I,
+    became a key figure in the Supreme Court case of Missouri v. Holland, decided in 1920, a
+    landmark case in constitutional and conservation law. Active in conservation groups such as the
+    American Game Protective Association and the International Association of Game, Fish and
+    Conservation Commissioners, Holland was editor of the magazine <title render="italic">Field
+     &amp; Stream</title> during its heyday in the 1920s and 1930s. </abstract>
+      <abstract encodinganalog="520">The bulk of the collection contains manuscripts, field diaries,
+    publications, reports, and silent films related to wildlife conservation and game protection in
+    the United States, from 1903-1970. It also contains a small amount of diaries, scrapbooks,
+    correspondence and personal family items spanning 1872-1970. </abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions. </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright
+     is retained by the authors of items in these papers, or their descendants, as stipulated by
+     United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Ray P. Holland Papers on Enforcement of the Migratory Bird Treaty,
+     Collection #1000-188, Special Collections &amp; Archives, Wesleyan University, Middletown,
+     CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>The papers of Ray P. Holland (1884-1973) were donated to Wesleyan University in 1973 by his
+     widow, Mrs. Ray P. Holland. His sons Robert, Ray, Jr., and Dan cooperated in making
+     arrangements for this gift. These papers came to Wesleyan from Quechee, Vermont in two
+     installments, in June and August, 1973.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Clement E. Vose and Richard Estabrook, 1975</p>
+        <p>Encoded by Andrea Benefiel, March 2010</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Born in Atchison, Kansas, Ray P. Holland was interested in the outdoors from an early age. He
+    became a noted sportsman and writer, was dedicated to the management of wildlife and, as a
+    United States Game Warden during World War I, became a key figure in the Supreme Court case of
+    Missouri v. Holland, decided in 1920, a landmark case in constitutional and conservation law.
+    Active in conservation groups such as the American Game Protective Association and the
+    International Association of Game, Fish, and Conservation Commissioners, Holland was editor of
+    the magazine <title render="italic">Field &amp; Stream</title> during its heyday in the
+    1920s and 1930s. </p>
+      <chronlist>
+        <head>Chronology List</head>
+        <chronitem>
+          <date>1884</date>
+          <event>Born, August 20, Atchison, Kansas, Raymond Prunty Holland, known throughout life as Ray
+      P. Holland. Father, Dr. Daniel J. Holland, a physician, died in 1890. Mother, Mary E. Prunty
+      Holland later remarried, to A. J. Hawri. Uncle, Dr. William J. Holland, a prominent
+      entomologist, was director of the Carnegie Museum in Pittsburgh for many years. </event>
+        </chronitem>
+        <chronitem>
+          <date>1893-1919 </date>
+          <event>HUNTING AND FISHING ON THE MISSOURI RIVER. Settled in 1854, Atchison was an important
+      stop for wagon trains, a railroad terminal, and a booming river city when Holland was a child.
+      Holland was entranced with the Missouri River which was navigable far north from Atchison
+      along the Nebraska border, across South Dakota and North Dakota to Montana and south from
+      Atchison across Missouri to join the Mississippi River above St. Louis. He knew the river
+      boats, the pleasures of fishing and lived in a boyhood style reminiscent of <title render="italic">The Adventures of Huckleberry Finn</title> which Mark Twain published in
+      1883. Holland was also a hunter who "shot his first duck, a greenwing teal, with a
+      muzzle-loading shotgun in October of 1893. He was 9 years old." [Ted Trueblood, "Ray P.
+      Holland," <title render="italic">Field &amp; Stream</title>, June 1970, pp. 195-l96.]
+      There are four great, distinguishable flyways taken by migratory birds in their spring flights
+      to breeding grounds in Canada and their fall return south: the Atlantic, Mississippi, Central
+      and Pacific flyways. Holland was an avid duck hunter and came easily to identify all of the
+      birds on the great Mississippi flyway. He has written that he owned one of the first
+      motorboats on the river at Atchison and traveled widely with it, probably before 1910.
+      [Holland, "It Was Mostly Luck," unpub. MSS., Holland Papers, container 10, p. xi-7.] With
+      friends, Holland was out hunting or fishing in season through all the years he resided in
+      Atchison until he moved East to New York in 1919. </event>
+        </chronitem>
+        <chronitem>
+          <date>1893-1903 </date>
+          <event>EDUCATION. After passing through grammar school, Holland attended Atchison High School,
+      the College Preparatory School at Atchison, from 1899 to 1902 and then, for one year, was a
+      student at the Lawrenceville School in New Jersey. He abandoned an intention to enter
+      Princeton University in 1903. </event>
+        </chronitem>
+        <chronitem>
+          <date>1903-1912</date>
+          <eventgrp>
+            <event>EARLY OCCUPATIONS. A paper carrier for the <title render="italic">Atchison
+        Globe</title> when quite young, Holland listed himself later as an accountant and held a
+       series of jobs in Atchison during the decade after finishing his formal education. He worked
+       in a lumber yard, was cashier of the Atchison Railway, Light and Power Company, ran the
+       office of a small foundry and, finally, as order and price clerk was in charge of the
+       Atchison Saddlery.</event>
+            <event>MARRIAGE AND FAMILY. Holland married Ruth Marie Perkins, October 16, 1907. They took a
+       river steamboat from Atchison to New Orleans for a wedding trip during which they made visits
+       of several days each in St. Louis, Cape Giradeau, Memphis, Vicksburg and, of course, New
+       Orleans, returning by train. Their children were three: Robert Perkins, Raymond Prunty, Jr.,
+       and Daniel John. </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1903-1919</date>
+          <eventgrp>
+            <event>FREE-LANCE WRITER OF THE OUTDOORS. Engrossment with the pleasures of camping, hunting
+       and fishing began to payoff in dollars as Holland's stories and articles poured forth. He
+       sent a story done for a class at Lawrenceville School to the magazine <title render="italic">Sports Afield</title> and got back a check. By 1912 he was a serious writer, committed
+       enough and successful enough to give up other work and become a full-time free lance. This
+       permitted him even more time in the field, more time to observe and indulge in hunting and
+       fishing and, thereby, become a more authoritative writer. In the winter of 1913, and at other
+       times later, he and his family spent the winter at Balboa Beach, near Newport Bay, south of
+       Los Angeles where, as he later wrote, "I could beat a typewriter one day and hunt and fish
+       the next." [Holland, "It Was Mostly Luck," container 10, p. xiii-1. ] Among his early
+       writings were "A Goose That Was a Goose," <title render="italic">Recreation</title>, March
+       1912, pp. 132-133; "How Fast Can a Duck Fly?," <title render="italic">Outing</title>,
+       September 1913, pp. 748-753; "Calling California Ducks," <title render="italic">Outing</title>, November 1913, pp. 139-145; "Geese and More Geese," Field and Stream,
+       December 1913, pp. 814-820; and "Do Birds Return to Their Own Nests?," <title render="italic">Outdoor World &amp; Recreation</title>, July 1914, pp. 19-20. </event>
+            <event>WILDLIFE PHOTOGRAPHY. Holland's publications were commonly run with photographs he
+       snapped and developed. Perhaps his first published photograph was of a beehive in Atchison
+       which appeared over the caption, "A Boy Whom Bees Do Not Sting," in <title render="italic">Leslie's Weekly</title>, September 24, 1913. As Holland's views about the place of hunting
+       matured and his belief in conservation ripened he spoke out in favor of the camera instead of
+       the gun for out-of-season pleasure, urging "all you old duck-hunters try my way of spring
+       shooting." He went on: "And when you get the same old restlessness in the spring, when the
+       ducks and geese start north, you can go and hunt as long as you please. There is no limit. I
+       have shot thousands and thousands and thousands in a day, and my conscience never hurt me one
+       whit. Then, again, you can always take these pictures out and hunt these same hunts over and
+       over again. If you are the least bit inclined to play with a kodak try this duck game some
+       day and you will undoubtedly get the fever." [Holland, "The Gun for Spring Shooting," <title render="italic">Outdoor World &amp; Recreation</title>, July 1913, p. 33. For a
+       remarkable photograph of a duck blind, the original of which is in container 13, see Holland,
+       "The Top Notch of Outdoor Photography," <title render="italic">Outing</title>, May 1914, pp.
+       192-201.] </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1914</date>
+          <event>LOBBYIST FOR NATIONAL LIMIT ON SPRING SHOOTING. Through wide reading and observation,
+      Holland became an advocate of the Weeks-McLean bill which passed Congress as the Migratory
+      Bird Protection Act of March 3, 1913 [37 Stat. 847]. He and Gene Howe, son of Ed Howe who was
+      editor of the <title render="italic">Atchison Globe</title>, "decided to join the anti-spring
+      shooting crowd" in seeking appropriations to enforce the new law. They sent numerous telegrams
+      to Congressmen in Washington to this end. [Holland, "It Was Mostly Luck," container 10, p.
+      xiii-3.] </event>
+        </chronitem>
+        <chronitem>
+          <date>1914-1919</date>
+          <eventgrp>
+            <event>UNITED STATES GAME WARDEN. Having taken a civil service examination at Leavenworth, in
+       August 1914, Holland was appointed District Inspector and United States Game Warden in the
+       Biological Survey of the U.S. Department of Agriculture with the specific duty of enforcing
+       the new Migratory Bird Protection Act in seven midwestern states. He continued to live in
+       Atchison, Kansas and was regarded by some hunters in other states not to have jurisdiction
+       over them. He took both an educational approach and an enforcement approach to the law. Thus
+       he arranged to speak to groups of hunters in duck clubs throughout the region to persuade
+       them that limits were needed on shooting to preserve waterfowl and that bag limits and
+       seasonal limits would be effective to protect their interests as sportsmen. Holland's
+       interest was to stop the "game hogs" and the market hunters who were depleting the supply of
+       game by wholesale slaughter. </event>
+            <event>UNCONSTITUTIONALITY OF THE MIGRATORY BIRD PROTECTION ACT OF 1913. Opponents of the new
+       act stood on the ground of state's rights, arguing that the commerce clause of the United
+       States Constitution was not a valid basis for national regulation of waterfowl shooting. The
+       opposition tested the act successfully by finding a judge in Jonesboro, Arkansas who held the
+       Federal law unconstitutional. [United States v. Shauver, 214 Fed. 154 (1914).] Warden Holland
+       hoped to counter this by bringing a test case of his own in that he hoped would be the more
+       hospitable United States Court in Kansas City, Kansas but this, too, failed. [United States
+       v. McCullagh, 221 Fed. 288 (1915).] Holland continued in his position while sportsmen,
+       conservationists and the lawyers considered in Washington what course to take.</event>
+            <event>CANADA-UNITED STATES MIGRATORY BIRD TREATY. Many favorable to the 1913 act feared that
+       it had an insufficient constitutional basis at the time and urged that authority for national
+       regulation be based on the treaty power. One of these was Elihu Root who made the argument as
+       early as 1913. The idea was in the air from then on and was fed by the judicial set backs in
+       the Midwest. It was decided to negotiate a treaty with Great Britain to protect migratory
+       birds in both Canada and the United States. At the same time the appeal of the Shauver and
+       McCullagh cases was delayed and then abandoned by the Department of Justice; the Supreme
+       Court never revisited those rulings. A treaty was signed and promulgated in 1916.</event>
+            <event>MIGRATORY BIRD TREATY ACT. The bilateral treaty between Canada and the United States
+       was implemented to provide penalties for violations and appropriations for enforcement by the
+       Migratory Bird Treaty Act of July 3, 1918 [40 Stat. 755].</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919-1920</date>
+          <event>MISSOURI V. HOLLAND. In the spring of 1919. United States Game Warden Ray P. Holland
+      made arrests for shooting ducks out of season, arrests that led directly to testing the
+      constitutional reach of the treaty power as a basis for protecting migratory birds. Those
+      arrested at a club near Neosho, Missouri were two bankers and an insurance executive from
+      Kansas City, the Democratic committeeman from Missouri and the attorney general of the State
+      of Missouri. Frank W. McAllister. Immediately upon arraignment before the U.S. Commissioner in
+      Clinton, Missouri, the local sheriff, under the direction of McAllister, turned the tables and
+      had Holland arrested for having wild ducks in his possession without a Missouri hunting
+      license. This charge was dropped but soon the State of Missouri brought suit in the Federal
+      district court at Kansas City, claiming that Holland had acted unconstitutionally in enforcing
+      the Migratory Bird Treaty Act. The Act was upheld in this case in June, 1919 and Missouri
+      appealed to the United States Supreme Court. On April 19, 1920 the Court ruled, in an opinion
+      by Mr. Justice Oliver Wendell Holmes, Jr., that the Migratory Bird Treaty of 1916 and the
+      Migratory Bird Treaty Act of 1918 were constitutional. As constitutional doctrine, the
+      importance of this case has rested on its broad reading of the treaty power as against the
+      claim of a state. But this case of Missouri v. Holland, 252 U.S. 416 (1920), is also
+      significant in conservation law, as can be seen in the following passage from the opinion by
+      Holmes: "To put the claim of the State upon title is to lean against a slender reed. Wild
+      birds are not in the possession of anyone; and possession is the beginning of ownership. The
+      whole foundation of the states' rights is the presence within their jurisdiction of birds that
+      yesterday had not arrived, tomorrow may be in another state and in a week a thousand miles
+      away." </event>
+        </chronitem>
+        <chronitem>
+          <date>1919-1924</date>
+          <eventgrp>
+            <event>AMERICAN GAME PROTECTIVE ASSOCIATION. Holland's writing, which he had continued while a
+       U.S. Game Warden in the Midwest --chiefly under the nom de plume of "Bob White" --and now his
+       prominence in the test case of the Migratory Bird Treaty Act, led one of the leading
+       sportsmen's advocates of the day, John E. Burnham, to invite him to New York City to edit the
+        <title render="italic">Bulletin of the American Game Protective Association</title>. Holland
+       moved his family East, briefly to White Plains and then to Scarsdale, to accept this
+       position. His office was on the 22nd floor of the Woolworth Building and his duties were to
+       edit the monthly <title render="italic">Bulletin </title>as well as to prepare a special
+       newsletter of the Association that several prominently known outdoor magazines published in
+       their columns. Founded in 1911, the full name of the organization was the American Game
+       Protective and Propagation Association. Support was plentiful, coming on the one hand from
+       arms and ammunition makers who were "farsighted" and, on the other, from men of means
+       interested in game refuges and in sport. </event>
+            <event>Holland's views and those of others in the American Game Protective Association were in
+       harmony. "The basic idea of this organization is 'Sport for Sport's Sake.' We want to
+       increase game by setting aside sanctuaries where game birds may breed undisturbed at all
+       times, through the establishment of state game farms by means of which public covers may be
+       stocked." [<title render="italic">Bulletin of the American Game Protective
+        Association</title>, January 1919, p. 12.] Every new member was sent a copy of "The American
+       Sportsman's Creed" composed by Zane Grey (1875-1939) and first published in 1918, a statement
+       that pledged prudence and fair play in hunting, scientific study, and game preservation.
+        [<title render="italic">Bulletin</title>, July 1918, p. 3.]</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919-1934</date>
+          <eventgrp>
+            <event>GAME REFUGES, PUBLIC SHOOTING GROUNDS, AND A FEDERAL DUCK STAMP. The gnarled story of
+       the origins of the Federal Duck Stamp to support game refuges is difficult to spell out, but,
+       while Holland's importance is often not credited in published accounts, it is clear that his
+       role was significant.</event>
+            <event>Holland published the first known statement of the idea of a duck stamp in the <title render="italic">Bulletin </title>he edited, thus spreading the notion that a migratory bird
+       protective fund be created by imposing a Federal hunting license upon those wishing to hunt
+       migratory fowl. This is a part of the idea, as originally set forth: "During the war the
+       government established a method of issuing war savings stamps through the post offices of the
+       country, and this agency for distribution was very successful in reaching those who were
+       desirous of buying the stamps. The same machinery can be used for selling hunting licenses,
+       the licenses being evidenced by a stamp to be affixed to the applicant's state hunting
+       license and cancelled." [A. S. Houghton, "A Federal Hunting License," <title render="italic">Bulletin</title>, April 1920, p. 15.] This was advanced in detail by Holland in the July
+       1920 issue of <title render="italic">Field and Stream</title>. There would be a 50 cent duck
+       stamp issued annually by the Department of Agriculture, the revenue from which would be for
+       the special purpose of acquiring, developing and maintaining Federal waterfowl refuges. This
+       idea originated with three people: George Lawyer, Chief Harden under the Biological Survey,
+       John Burnham and Holland. </event>
+            <event>For several years beginning around 1922, Holland was joined by Dr. Edward H. Nelson of
+       the Biological Survey as the chief advocates of a program that combined refuge maintenance
+       with hunting, all financed by a Federal licensing stamp. Opposition emerged among sportsmen
+       and conservationists, in part perhaps because of the plain-spoken name given to the bill in
+       Congress where the Nelson-Holland proposal was officially styled as "The Public Shooting
+       Grounds Bill." A friend of the measure has described the controversy in the 1920s as follows:
+       "Strong opposition was led by Dr. [William T.] Hornaday and was initially supported by <title render="italic">Outdoor Life</title>, the infant Izaac Walton League, the Camp-Fire Club,
+       Aldo Leopold, Fiorello La Guardia, and others who feared the refuges would turn into
+       federally maintained shooting preserves which would produce no surplus of birds. Advocates of
+       the Nelson-Holland proposal included the Boone and Crockett Club and the National Association
+       of Audubon Societies. Dr. Nelson maintained that because of food scarcity on the wintering
+       grounds, a great increase in the waterfowl population was not then desirable, and that the
+       birds would benefit most from state-regulated shooting combined with federally regulated game
+       management on refuges. He was seconded in an Audubon bulletin by Charles Sheldon, who was
+       also an influential member of the Boone and Crockett Club. Though the bill was defeated, the
+       Camp-Fire Club, the Izaac Walton League, and <title render="italic">Outdoor Life</title>
+       eventually saw the light of reason--in the form of sport-supported refuges which eventually
+       materialized in the acquisition program authorized by the 1929 Migratory Bird Conservation
+       Act." [Robert Elman, <title render="italic">The Atlantic Flyway </title>(New York:
+       Winchester' Press, 1972), pp. 170-171. Also, see Migratory Bird Conservation Act, Feb. 18,
+       1929, 45 Stat. 1222, 16 U.S.C. sec. 715.]</event>
+            <event>While the 1929 Act authorized land purchases and the Bureau of Biological Survey
+       surveyed for places suitable for waterfowl and for purchase, appropriations were insufficient
+       to go far. The drought of the early 1930s reduced breeding grounds for ducks while the kill
+       by man rose sharply. This disastrous trend was reversed with enactment of the Migratory Bird
+       Hunting Stamp Act of 1934. Popularly known as the Duck Stamp Act, this led Henry Wallace,
+       Secretary of Agriculture, to name Jay N. "Ding" Darling to be Chief of a reorganized Bureau
+       of Biological Survey which included a new Refuge Division. Labor from the WPA and CCC, along
+       with "creation and sale of duck stamps-which by 1970 had realized over 175 million dollars
+       for migratory waterfowl refuges--was an important part of their plan." [Jene C. Gilmore,
+        <title render="italic">Art for conservation: The Federal Duck Stamps</title> (Barre, Mass.:
+       Barre Publishers, 1971), p. 15. Also, see the Migratory Bird Hunting Stamp Act, March 16,
+       1934, 48 Stat. 451, 16 U. S. C. sec. 718.] The first stamp, for 1934-1935, was designed by
+       Darling, and sold for $1.00 beginning August 14, 1934. Ray Holland and the other originators
+       of the duck stamp idea are not mentioned in the book on the subject, cited above. </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1919-1970</date>
+          <event>INTERNATIONAL ASSOCIATION OF GAME, FISH AND CONSERVATION COMMISSIONERS. Holland became
+      active in the International Association of Game, Fish and Conservation Commissioners (founded
+      in 1902) while serving as U.S. Game Warden. He was elected its secretary at the meeting in
+      Ottawa, Canada in 1920. He served in this position, and as treasurer as well, for 22 years,
+      later being elected to be an honorary life member. Work on legislation and the cooperative
+      efforts of the several states and provinces here and in Canada was greatly aided by this
+      organization. </event>
+        </chronitem>
+        <chronitem>
+          <date>1924-1941</date>
+          <event>FIELD &amp; STREAM. Holland served as editor of <title render="italic">Field
+       &amp; Stream</title> from 1924 to 1941. Founded in 1895, its circulation grew rapidly
+      during the 1920s and 1930s. A member of the staff today has recalled that, during Holland's
+      editorship, "<title render="italic">Field &amp; Stream</title> published the works of some
+      of the best writers and artists of the era--John Taintor Foote, Irvin S. Cobb, Havilah
+      Babcock, David M. Hewell, Clarke Venable, Harold Titus, Archibald Rutledge, Ray Mullholland,
+      Gordon MacQuarrie, Corey Ford, Edison Marshall, Albert Bigelow Paine, Bob Davis, Erle Stanley
+      Gardner, Frank Dufresne, C. E. Gillham--plus everyone who amounted to anything in the outdoor
+      writing field during this period. " [Trueblood, "Ray P. Holland," <title render="italic">Field
+       &amp; Stream</title>, June 1970, p. 198.] As an editorial advocate, Holland used his
+      position to work for waterfowl and other national legislation described above. But Holland and
+      his audience of sportsmen also opposed gun control of every sort, perhaps most notably in the
+      form of criticism in the late 1930s of the Sullivan Law in New York State that required
+      registration of handguns. </event>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <event>Served G. &amp; C. Merriam Co. as special editor on the subjects of hunting and
+      field sports for Webster's New International Dictionary of the English Language, Second
+      Edition, Unabridged. </event>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <event>Resigned editorship of <title render="italic">Field &amp; Stream</title>.</event>
+        </chronitem>
+        <chronitem>
+          <date>1941-1973 </date>
+          <eventgrp>
+            <event>ACTIVITIES IN LATER YEARS. Holland continued to combine much outdoor life with further
+       free-lance writing. He had hunted for 14 consecutive years in Saskatchewan. Now he began
+       spending winters in Naples, Florida and, after the war, for ten years spent up to three
+       months each winter in Cuba. In the late 1940s he moved to Quechee, Vermont for the summer
+       months. When Castro came to power in Cuba, Holland spent the winter months in Roswell, New
+       Mexico. In addition to the many books listed in the bibliography at page 10 of this register,
+       he wrote articles and stories for many magazines in the postwar period, <title render="italic">The Saturday Evening Post</title>, <title render="italic">Liberty</title>,
+        <title render="italic">Collier's</title>, <title render="italic">Nation's Business</title>,
+        <title render="italic">True,</title> and <title render="italic">American Legion</title>
+       among them. His last published story was "Desert Tragedy," <title render="italic">Field
+        &amp; Stream</title>, September 1966.</event>
+            <event>Not politically active apart from conservation issues, Holland did question the growth
+       of national power during his later years. He approved of the effort, manifested by the
+       so-called "Bricker Amendment," aimed at reducing the President's authority to make Executive
+       Agreements and at limiting the treaty power's effect on domestic matters. The rule of
+       Missouri v. Holland was a target and he joined in aiming at it. Holland's sentiments were
+       conveyed to a national columnist who described them well. [See Raymond Moley, "Perspective:
+       Behind Holland v. Missouri [sic]," <title render="italic">Newsweek</title>, October 19, 1953.
+       p. 124. Clipping in container 4, folder 11, Holland Papers.] </event>
+            <event>The American Game Protection Association had been in virtual hibernation after 1924,
+       and Holland and a group of others revived the organization in 1958. He became President, and
+       the Association endowed and established many game refuges in midwestern states during the
+       next decade. Finally a merger was decided upon and Holland retired from this activity upon
+       the formation of the consolidated organization known as the "New York Conservation Council
+       and the American Game Association Foundation, Inc." in 1969. </event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1973</date>
+          <event>Died February 20, 1973 at age 88 in Roswell, New Mexico. Survived by his widow and three
+      sons. He was buried in the family plot in Atchison, Kansas. [Ted Trueblood, "Ray P. Hol1and,
+      1884-1973," <title render="italic">Field &amp; Stream</title>, May 1973, p. 96.] </event>
+        </chronitem>
+      </chronlist>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>There is no comprehensive collection of materials pertaining to and arising out of Holland's
+    rich life. However, the materials described here and held at Wesleyan University do touch, in
+    some measure, nearly every part of his long career. The bulk of the collection contains
+    manuscripts, field diaries, publications, reports, silent films, artworks, and books related to
+    wildlife conservation and game protection in the United States, from 1903 to 1970. It also
+    contains a small amount of diaries, scrapbooks, correspondence and personal family items
+    spanning 1872 to 1970. </p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Richard Estabrook of the class of 1974 assisted in the organization and description of the
+     Holland papers. The collection is organized into ten series: Family Materials, 1872-1974;
+     Holland Writings, 1903-1965; Wildlife Photographs, 1910-1965; Migratory Bird Conservation,
+     1913-1937; American Game Protective Association, 1911-1969; International Association of Game,
+     Fish and Conservation Commissioners, 1912-1970; <title render="italic">Field &amp;
+      Stream</title> Motion Pictures of Hunting and Fishing, 1924-1931; Wildlife Art, 1939-1944;
+      <title render="italic">Field &amp; Stream</title>, 1939-1944; and Books, 1929-1962. </p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <persname source="lcnaf" encodinganalog="600">Holland, Ray P. (Ray Prunty), 1884-1973.</persname>
+      <genre source="aat" encodinganalog="655">Diaries.</genre>
+      <genre source="aat" encodinganalog="655">Appointment books.</genre>
+      <genre source="aat" encodinganalog="655">Photographs.</genre>
+      <genre source="aat" encodinganalog="655">Scrapbooks.</genre>
+      <genre source="aat" encodinganalog="655">Silent films.</genre>
+      <genre source="aat" encodinganalog="655">Drawings (visual works)</genre>
+      <subject source="lcsh" encodinganalog="650">Wildlife conservation.</subject>
+      <subject source="lcsh" encodinganalog="650">Game protection--United States.</subject>
+      <subject source="lcsh" encodinganalog="650">Game wardens--United States.</subject>
+      <corpname source="lcsh" encodinganalog="650">American Game Protective Association.</corpname>
+      <corpname source="lcsh" encodinganalog="650">International Association of Game, Fish, and
+    Conservation Commissioners.</corpname>
+      <title source="lcsh" encodinganalog="630">Field &amp; stream.</title>
+      <subject source="lcsh" encodinganalog="650">Migratory birds--Conservation.</subject>
+      <subject source="lcsh" encodinganalog="650">Migratory Bird Treaty Act. 1918.</subject>
+      <subject source="lcsh" encodinganalog="650">Migratory animal conservation.</subject>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Family Materials, </unittitle>
+          <unitdate type="inclusive">1872-1974</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Diary, </unittitle>
+            <unitdate type="inclusive">1872 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Register of calls, </unittitle>
+            <unitdate type="inclusive">1888 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Address books, </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Autograph book, </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Scrapbook, </unittitle>
+            <unitdate type="inclusive">1872-1925</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Photographs, </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Correspondence with mother, Mrs. A. J. Harwi, </unittitle>
+            <unitdate type="inclusive">1921-1926 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <unittitle>Letters received: </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>when named editor-in-chief, <title render="italic">Field &amp; Stream</title>, </unittitle>
+              <unitdate type="inclusive">1924 </unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>concerning publications, </unittitle>
+              <unitdate type="inclusive">1926-1938</unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>about book, <title render="italic">My Gun Dogs</title>, </unittitle>
+              <unitdate type="inclusive">1929 </unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>about book, <title render="italic">Nip and Tuck</title>, </unittitle>
+              <unitdate type="inclusive">1938-1943</unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>upon retirement as editor-in-chief, <title render="italic">Field &amp;
+         Stream</title>, </unittitle>
+              <unitdate type="inclusive">1941 </unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <unittitle>concerning publications, </unittitle>
+              <unitdate type="inclusive">1942-1946 </unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Scientific bulletins, </unittitle>
+            <unitdate type="inclusive">1950, undated </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Correspondence on public issues, </unittitle>
+            <unitdate type="inclusive">1938-1969 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Correspondence and documents, personal matters, </unittitle>
+            <unitdate type="inclusive">ca. 1965</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Biographical materials about Holland, </unittitle>
+            <unitdate type="inclusive">1953-1967</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Advertisements of Holland publications, </unittitle>
+            <unitdate type="inclusive">1942, undated </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Cassette tape recordings of Holland bird calls and reminiscences. With letter from
+       Dan Holland to C. Vose, </unittitle>
+            <unitdate type="inclusive">1969, September 1974 </unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Holland Writings, </unittitle>
+          <unitdate type="inclusive">1903-1965</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <unittitle>Typescripts of approximately 35 stories</unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Typescripts of stories (2 folders)</unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Typescript carbons of stories </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Typescripts of stories, </unittitle>
+            <unitdate type="inclusive">1925-1945</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">8</container>
+            <unittitle>Typescripts of stories (5 folders) </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <unittitle>Typescript of unpublished autobiography of wife, Ruth Perkins Holland, entitled
+       "Seventh Daughter," 126 pp., (drafts, more than one copy), </unittitle>
+            <unitdate type="inclusive">ca. 1955 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <unittitle>Typescript of unpublished autobiography of Holland, entitled "It Was Mostly Luck,"
+       about 600 pp., (drafts, more than one copy), </unittitle>
+            <unitdate type="inclusive">ca. 1957 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <unittitle>Letter received declining publication of autobiography, </unittitle>
+            <unitdate type="inclusive">1957 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <unittitle>Typescripts of "It Was Mostly Luck" (additional copies) </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <unittitle>Tearsheets of published articles by Holland from numerous magazines, (approximately
+       100 articles), </unittitle>
+            <unitdate type="inclusive">1912-1960</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">11</container>
+            <unittitle>Magazines containing stories and articles by Holland. (17 magazines, including some
+       duplicates, such as <title render="italic">Leslie's Weekly</title>, <title render="italic">Recreation</title>, <title render="italic">Outing</title>, <title render="italic">Outer's
+        Book</title>, <title render="italic">Field and Stream</title>, and <title render="italic">Outdoor Life</title>), </unittitle>
+            <unitdate type="inclusive">1911-1917</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <unittitle>Magazines containing stories, articles and editorials by Holland under his own name
+       and the pseudonym "Bob White." (18 copies of various issues of <title render="italic">Field
+        and Stream</title> - the ampersand came into use in 1923 - and of <title render="italic">Field &amp; Stream</title>, and a single issue of <title render="italic">The American
+        Magazine</title>, Feb. 1924) </unittitle>
+            <unitdate type="inclusive">1921-1928</unitdate>
+          </did>
+          <accessrestrict>
+            <p>[Missing as of January 1999.]</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Wildlife Photographs, </unittitle>
+          <unitdate type="inclusive">1910-1965</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Black and white, including duck blinds, later published, </unittitle>
+            <unitdate type="inclusive">1910-1929</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Kodiak bear, hunting dogs in car, others, </unittitle>
+            <unitdate type="inclusive">1929-1938</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Hunting scenes in Cuba, snakes and other wildlife, </unittitle>
+            <unitdate type="inclusive">1939-1949</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Color print of Hungarian Partridge in Alberta Province, with dedication to Holland, </unittitle>
+            <unitdate type="inclusive">1939 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Hunting dogs, </unittitle>
+            <unitdate type="inclusive">ca. 1946</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <unittitle>Photos for book, <title render="italic">Nip and Tuck</title>
+      </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <unittitle>Hunting dogs (2 folders)</unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <unittitle>Color portfolio of birds with identities by Canadian National Parks service </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <unittitle>Camping and hunting scenes with Holland family members pictured in Cuba and various
+       places in the United States, </unittitle>
+            <unitdate type="inclusive">1946-1959 </unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Migratory Bird Conservation, </unittitle>
+          <unitdate type="inclusive">1913-1937</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Field diaries kept by Holland during service as U.S. Game Warden, Biological
+       Survey, Department of Agriculture, (13 diaries), </unittitle>
+            <unitdate type="inclusive">1913-1919 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Coded enforcement booklets (5 booklets), </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Expense book, </unittitle>
+            <unitdate type="inclusive">March 1918-June 1919 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Correspondence about case of Missouri v. Holland, </unittitle>
+            <unitdate type="inclusive">1918-1920 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle/>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Documents of Missouri v. Holland, </unittitle>
+            <unitdate type="inclusive">1919-1920</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>News clippings about Missouri v. Holland, </unittitle>
+            <unitdate type="inclusive">1919-1953 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Bulletin on migratory bird patterns by Wells W. Cooke, </unittitle>
+            <unitdate type="inclusive">1906 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Congressional Record, dealing with appropriations bill (H.R. 13679) to protect
+       migratory birds, </unittitle>
+            <unitdate type="inclusive">May 12, 1914 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Materials on bills for "public shooting grounds and bird refuges" </unittitle>
+            <unitdate type="inclusive">1921-1924</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Correspondence from and publications of William T. Hornaday, </unittitle>
+            <unitdate type="inclusive">1925-1930 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Correspondence concerning identity of large Canadian goose, </unittitle>
+            <unitdate type="inclusive">1930-1937 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Letter, Dan Holland to C. E. Vose, explaining above, </unittitle>
+            <unitdate type="inclusive">Sept. 26, 1973</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>American Game Protective Association, </unittitle>
+          <unitdate type="inclusive">1911-1969</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">17</container>
+            <unittitle>Bulletin of American Game Protective Association, bound in two volumes, </unittitle>
+            <unitdate type="inclusive">1913-1918, 1919-1923</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">17</container>
+            <unittitle>Typescript and mimeograph copies of AGPA bulletins prepared by Holland for outdoor
+       magazines (arranged in six folders by year), </unittitle>
+            <unitdate type="inclusive">1919-1924 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">18</container>
+            <unittitle>Financial Reports (2 folders), </unittitle>
+            <unitdate type="inclusive">1958-1968</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">18</container>
+            <unittitle>Minutes and correspondence, </unittitle>
+            <unitdate type="inclusive">1961-1965 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">18</container>
+            <unittitle>Materials (4 folders), </unittitle>
+            <unitdate type="inclusive">1960-1966 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">19</container>
+            <unittitle>Materials (2 folders), </unittitle>
+            <unitdate type="inclusive">1960-1966</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">19</container>
+            <unittitle>Game Refuges supported by American Game Protective Association, </unittitle>
+            <unitdate type="inclusive">1963-1969</unitdate>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Bronze markers</unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Colorado </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Idaho </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Iowa </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Minnesota </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Montana</unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Nebraska </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>North Dakota </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>South Dakota (3 folders) </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">20</container>
+              <unittitle>Utah </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">20</container>
+              <unittitle>Wisconsin</unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">20</container>
+              <unittitle>Wyoming </unittitle>
+              <unitdate type="inclusive"/>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Tax exemption as charitable organization in New York State </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>New Mexico litigation over deer killed in National Park </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Correspondence with Seth Gordon, some concerning activities of International
+       Association of Game, Fish and Conservation Commissioners </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Ducks Unlimited, Inc.</unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Correspondence and legal papers concerning merger and formation of new,
+       consolidated organization to be known as the "New York Conservation Council and the American
+       Game Association Foundation, Inc.," </unittitle>
+            <unitdate type="inclusive">1969 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">20</container>
+            <unittitle>Scientific bulletins on fish and game subjects </unittitle>
+            <unitdate type="inclusive"/>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>International Association of Game, Fish and Conservation Commissioners, </unittitle>
+          <unitdate type="inclusive">1912-1942</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">21</container>
+            <unittitle> Proceedings of Annual Meetings (some missing, 23 volumes), </unittitle>
+            <unitdate type="inclusive">1912-1946 </unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">22</container>
+            <unittitle>Proceedings of Annual Meetings (1953 missing, 23 volumes), </unittitle>
+            <unitdate type="inclusive">1947-1970</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle><title render="italic">Field &amp; Stream</title> Motion Pictures of Hunting and
+      Fishing, </unittitle>
+          <unitdate type="inclusive">1924-1931</unitdate>
+        </did>
+        <scopecontent>
+          <p>Positive prints of 16 mm., silent, black and white, documentary motion pictures of field
+      sports taken during editorship of Field &amp;Stream magazine by Holland in 1920s. The
+      films are each held in metal cannisters. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">'Battery' Shooting on Currituck Sound,</title> (F &amp;S film shot at Currituck
+       Sound, North Carolina, directed by Holland and photographed by Harold McCracken. 13:15 min.
+       running time) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Canoe Trails Through Goose Land,</title> (Produced by the Canadian Government Motion
+       Picture Bureau, Ottawa, Canada. 11:40 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Goose Hunting at Chesapeake City,</title> (F &amp;S film shot at Carpenter estate
+       near Chesapeake City, Md. and Carpenter's Dilwyne Kennels near Montchanin, Del., directed and
+       edited by R. R. M. Carpenter and Eltinge F. Warner. 15 :05 min.)</unittitle>
+          </did>
+          <scopecontent>
+            <p>DVD master and viewing copy available, created July 2010.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Gun Dogs,</title> (F &amp;S film shot at Rowcliffe Game Farm, Millbrook, N.Y.,
+       directed and edited by Warner and Holland. 15:00 min.)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Hunting the Hun,</title> (F &amp; S film of hunting Hungarian partridges in
+       Saskatchewan province, Canada, directed and photographed by Holland. 14:20 min.) 5A. Second
+       copy; 5B, same except for title, <title render="doublequote">On the Northern Prairies.</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Rocky Mountain Rainbows,</title> (F &amp;S film shot in Rocky Mountains but with no
+       information about direction. 16:00 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">A Mooseback in the Miramachi,</title> (F &amp;S film shot at the Miramachi River in
+       New Brunswick province, Canada, photographed by John Alexander, edited and titled by Terry
+       Ramsaye and directed by B. E. Norrish. 11:00 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Mountain Meadow Trout,</title> (F &amp;S film at Jack Creek in the Tobacco Root
+       Mountains, Montana, photographed by Dan Holland and Henry Deremus. 13:15 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">The 'Irishman' Does His Stuff,</title> (F &amp;S film shot at Remington Gun Club
+       grounds, Lordship, Connecticut. No information about direction. 13:40 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Hunting Prairie Chickens in Saskatchewan,</title> (F &amp;S film shot in Saskatchewan
+       province, Canada, photographed by Harold McCracken of Ray Holland. 14:00 min) 3 prints, 10A,
+       10B, and 10C.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">Saskatchewan Ducks,</title> (F &amp;S film shot in Saskatchewan province, Canada,
+       photographed by Harold McCracken of Ray Holland, George Lidster and Harry Shedd. 15:05 min.)
+      </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">The Square Tails of Drowning River,</title> (F &amp;S film shot north of Nipigon,
+       northern Ontario province, Canada, directed by S. E. "Canuck" Sangster, photographed and
+       edited by Harold McCracken. 15:55 min.) </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">23</container>
+            <unittitle><title render="doublequote">The Silver Rainbow,</title> (F &amp; S film shot at Sun Valley Idaho, directed and
+       edited by Holland, editor, and Dan Holland, fishing editor, Field &amp; Stream. 13:45
+       min. )</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Wildlife Art, </unittitle>
+          <unitdate type="inclusive">1939-1944</unitdate>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">25</container>
+            <unittitle><title render="doublequote">Green-Wing Teal</title> by Lynn Bogue Hunt. Framed pencil sketch of a male and female
+       teal standing at a marsh edge, with five teal in the background descending for a landing.
+       This was used as the central design for the 1939-1940 Migratory Bird Hunting Stamp, issued by
+       the U.S. Department of the Interior. </unittitle>
+          </did>
+          <accessrestrict>
+            <p>[Missing as of January 1999.]</p>
+          </accessrestrict>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">25</container>
+            <unittitle><title render="doublequote">Game Birds of America,</title> a portfolio of 12 paintings by Lynn Bogue Hunt, with
+       descriptive text by Holland. <title render="italic">Field &amp; Stream</title> Publishing
+       Co., </unittitle>
+            <unitdate type="inclusive">1944</unitdate>
+          </did>
+          <accessrestrict>
+            <p>[Missing as of January 1999.]</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle><title render="italic">Field &amp; Stream</title>, </unittitle>
+          <unitdate type="inclusive">1924-1944</unitdate>
+        </did>
+        <c02>
+          <did>
+            <unittitle><title render="italic">Field &amp; Stream</title> magazine, published monthly.
+       34 bound volumes, complete for Holland editorship. </unittitle>
+            <unitdate type="inclusive">1924-1941 </unitdate>
+          </did>
+          <accessrestrict>
+            <p>[Missing as of January 1999.]</p>
+          </accessrestrict>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

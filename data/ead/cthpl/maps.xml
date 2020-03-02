@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1"
+        dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="cthpl"
+            url="http://hhc2.hplct.org/maps.html">maps</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Map Collection</titleproper>
+                <subtitle encodinganalog="245$b">A Guide to the collection at the Hartford History
+                    Center</subtitle>
+                <author>Kathy Foulke</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hartford History Center, Hartford Public Library</publisher>
+                <address>
+          <addressline>500 Main Street</addressline>
+          <addressline>Hartford, CT 06103</addressline>
+        </address>
+                <p>Copyright 2017, Hartford Public Library</p>
+                <date>December 2017</date>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Collection Overview</head>
+            <repository encodinganalog="852$a" label="Repository:">
+                <corpname>Hartford History Center, Hartford Public Library </corpname>
+                <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+            </repository>
+            <origination encodinganalog="110" label="Creator :">various</origination>
+            <unittitle encodinganalog="245$a" label="Title :">Map Collection</unittitle>
+            <unitdate encodinganalog="245$f" label="Dates : ">1838-2004</unitdate>
+            <physdesc encodinganalog="300$a" label="Extent :">
+                <extent>about 180 maps and atlases (about 72 cubic feet)</extent>
+            </physdesc>
+            <abstract encodinganalog="520$a" label="Abstract :">Maps tracing the development of the city of Hartford from the 1600s to the 2000s.
+            </abstract>
+            <physloc label="Location:" altrender="Location :">Hartford History Center, Map Cases 1 and 2</physloc>
+            <langmaterial encodinganalog="546">English</langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>Maps in the Hartford History Center Collection cover the period from the seventeenth-century through the 2000s.  Seventeenth-century maps are all later recreations.  Most are based on research and surveys done by William S. Porter in 1838. Porter’s map of Hartford in 1640 was frequently reprinted and republished well into the twentieth century.  Important nineteenth century maps include Marcus Smith’s 1850 Map of the City of Hartford and city atlases published by Baker &amp; Tilden in 1869, by G. M. Hopkins in 1880, and by L. J. Richards in 1896.  Twentieth-century maps include additional city atlases and maps produced by the City of Hartford Department of Engineering and the Metropolitan District Commission.
+
+            </p>
+        </bioghist>
+
+        <scopecontent encodinganalog="520$a">
+            <head>Scope and Content</head>
+            <p>The collection includes maps by many local surveyors and mapmakers, including Nathaniel Goodwin, Seth E. Marsh, William S. Porter, and Albert L. Washburn.  The work of at least two women, Katherine C. Bartholomew and Ruth Goldie, is represented. The collection is arranged chronologically, based on date depicted, not on date published.
+            </p>
+        </scopecontent>
+        <accessrestrict>
+            <head>Access Restrictions</head>
+            <p>The records are stored in a restricted area and therefore may not be available on a
+                same-day basis. </p>
+        </accessrestrict>
+        <userestrict>
+            <head>Use Restrictions</head>
+            <p>See Hartford History Center’s Collection Use policy. Permission to publish from the Hartford Maps
+                Collection must be obtained in writing from the Executive Director of the Hartford History Center, and a copy of
+                the published work may be requested by the Hartford History Center. The Hartford History Center
+                reserves the right to refuse permission to publish, etc. to those who have not complied with its
+                policies. Use of the collections will normally not be permitted for the purpose of promotion of
+                commercial products and services or political campaigns. Hartford History Center at Hartford Public
+                Library reserves the right to limit the number of photographic prints/captures and to restrict the
+                use or reproduction of rare, fragile, or valuable objects.
+            </p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Item, Collection Title, Collection number (Drawer #, Folder #). Hartford History Center,
+                Hartford Public Library, Hartford, Connecticut.</p>
+        </prefercite>
+        <processinfo>
+            <head>Processing Details</head>
+            <p>Collection was processed in 2009.</p>
+            <p>EAD Finding Aid created in 2017.</p>
+        </processinfo>
+        <controlaccess>
+            <head>Subject Headings</head>
+            <controlaccess>
+                <head>Personal Names</head>
+                <persname encodinganalog="600">Bartholomew, Katherine C., 1907-1992</persname>
+                <persname encodinganalog="600">Ellis, Arthur J., d. 1921</persname>
+                <persname encodinganalog="600">Goldie, James</persname>
+                <persname encodinganalog="600">Goldie, Ruth</persname>
+                <persname encodinganalog="600">Goodwin, Nathaniel, 1782-1855</persname>
+                <persname encodinganalog="600">Loomis, Frank W.</persname>
+                <persname encodinganalog="600">Marsh, Seth E., about 1823-1878</persname>
+                <persname encodinganalog="600">McClunie, Thomas</persname>
+                <persname encodinganalog="600">Porter, William S.</persname>
+                <persname encodinganalog="600">Richards, L. C.</persname>
+                <persname encodinganalog="600">Smith, Marcus</persname>
+                <persname encodinganalog="600">Spalding, D. G.</persname>
+                <persname encodinganalog="600">Washburn, Albert L., 1857-1948</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Corporate Names</head>
+                <corpname encodinganalog="610">Abrams Aerial Survey Corporation)
+                </corpname>
+                <corpname encodinganalog="610">Aetna Casualty and Surety Company
+                </corpname>
+                <corpname encodinganalog="610">Baker &amp; Tilden
+                </corpname>
+                <corpname encodinganalog="610">G. F. Warfield &amp; Co.
+                </corpname>
+                <corpname encodinganalog="610">Hartford (Conn.). Department of Engineering
+                </corpname>
+                <corpname encodinganalog="610">Hartford (Conn.). Department of Housing and Community Development
+                </corpname>
+                <corpname encodinganalog="610">Kellogg &amp; Bulkeley
+                </corpname>
+                <corpname encodinganalog="610">Metropolitan District Commission
+                </corpname>
+                <corpname encodinganalog="610">Price &amp; Lee Co.
+                </corpname>
+                <corpname encodinganalog="610">Richards Map Company
+                </corpname>
+                <corpname encodinganalog="610">Sanborn Map &amp; Publishing Co.
+                </corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subjects</head>
+                <subject encodinganalog="650" >Cemeteries
+                </subject>
+                <subject encodinganalog="650" >Election districts
+                </subject>
+                <subject encodinganalog="650" >Highways
+                </subject>
+                <subject encodinganalog="650" >Historic sites
+                </subject>
+                <subject encodinganalog="650" >Maps
+                </subject>
+                <subject encodinganalog="650" >Parks
+                </subject>
+                <subject encodinganalog="650" >Reservoirs
+                </subject>
+                <subject encodinganalog="650" >Zoning
+                </subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Geographic names</head>
+                <subject encodinganalog="651">Hartford (Conn.)</subject>
+                <subject encodinganalog="651">United States—History—Colonial period, ca. 1600-1775</subject>
+            </controlaccess>
+            <controlaccess>
+                    <head>Genre Terms</head>
+                    <subject encodinganalog="655">Maps</subject>
+                    <subject encodinganalog="655">Topographc maps</subject>
+                </controlaccess>
+            </controlaccess>
+          <dsc type="combined">
+            <head>Contents:</head>
+            <c01 level="series">
+                <did>
+                    <unitid>Cabinet 1</unitid>
+                </did>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>The Map of Pioneer Hartford, Showing Early Landmarks and the Locations of Historical Events, pictorial map by James and Ruth Goldie,<unitdate>1927, </unitdate></unittitle>
+                        <physdesc><dimensions>18.5 x 25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>The Map of Pioneer Hartford, Showing Early Landmarks and the Locations of Historical Events, pictorial map by James and Ruth Goldie,<unitdate>1927 [another copy, colored], </unitdate></unittitle>
+                        <physdesc><dimensions>18.5 x 25 in., </dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Hartford in 1640, arranged in 1838 from the old records and drawn by Wm. S. Porter,<unitdate>probably 1838, </unitdate></unittitle>
+                        <physdesc><dimensions>14 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Hartford, Conn. 1639-1898, based upon Survey of Nat. Goodwin, City Surveyor, 1824,<unitdate>n.d., </unitdate></unittitle>
+                        <physdesc><dimensions>16.5 x 13.25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>1635 Colonial Hartford and the Travelers, <unitdate>probably 1935, </unitdate></unittitle>
+                        <physdesc><dimensions>12 x 18 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Hartford, Conn. 1639-1907, A.L. Washburn Del., Based upon Survey of Nat. Goodwin, City Surveyor, 1824, <unitdate>n.d., </unitdate></unittitle>
+                        <physdesc><dimensions>16.75 x 13 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>[Map of Hartford in 1600s], <unitdate>n.d., </unitdate></unittitle>
+                        <physdesc><genreform>blueprint, poor condition</genreform></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Historic Spots of Old Hartford, Based upon Survey of Nat. Goodwin, City Surveyor, 1824, <imprint>Hartford : Polygon Press, <date>1930</date></imprint></unittitle>
+                        <physdesc><dimensions>14.25 x 11 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>City of Hartford. Map of 4th Ward, From actual surveys under the direction of Seth E. Marsh, <unitdate>1869, </unitdate></unittitle>
+                        <physdesc><dimensions>21.5 x 16 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>North Part, City of Hartford, Page 39 of a volume, <unitdate>1893, </unitdate></unittitle>
+                        <physdesc><dimensions>19.25 x 29.25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Map of the City of Hartford, Surveyed by Marcus Smith, <imprint>New York : M. Dripps, </imprint><date>1850, </date></unittitle>
+                        <physdesc><dimensions>23 x 17.75 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>[Southwest Hartford], </unittitle>
+                        <physdesc><dimensions>23 x 17.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>[Central and North Hartford], </unittitle>
+                        <physdesc><dimensions>23 x 17.75 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Index Map of the City of Hartford, Connecticut. <imprint><geogname>Springfield :</geogname> <publisher>L.J. Richards &amp; Co.,</publisher> <date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>22 x 32 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Copy of a Map of the City of Hartford. Surveyed and Drawn by Marcus Smith, 1850, <unitdate>1902, </unitdate></unittitle>
+                        <physdesc><dimensions>21 x 26.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Plan of the City of Hartford Embodying topographical Surveys During Winter. <unitdate>1892-1893, </unitdate></unittitle>
+                        <physdesc><dimensions>29 x 17 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Map of Building Lots Property of J.C. Pratt, Esq., Hartford, Conn., by Thos. McClunie, <unitdate>1897, </unitdate></unittitle>
+                        <physdesc><dimensions>21 x 29 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                            <container type="Drawer">2</container>
+                            <container type="Folder">1</container>
+                            <unittitle>Atlas of Hartford City and County with a Map of Connecticut from Actual Survey, <imprint><publisher>Baker &amp; Tilden,</publisher> <date>1869, </date></imprint></unittitle>
+                            <physdesc><dimensions>18 x 14.75 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">2</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Atlas of Hartford City and County with a Map of Connecticut from Actual Survey [Copy 2], <imprint><publisher>Baker &amp; Tilden,</publisher> <date>1869, </date></imprint></unittitle>
+                        <physdesc><dimensions>18 x 14.75 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">3</container>
+                        <container type="Folder">1</container>
+                        <unittitle>City Atlas of Hartford, Conn. Compiled and Published from Actual Surveys. <imprint><geogname>Philadelphia : </geogname> <publisher>G. M. Hopkins, </publisher> <date>1880, </date></imprint></unittitle>
+                        <physdesc><dimensions>17.75 x 14 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">3</container>
+                        <container type="Folder">2</container>
+                        <unittitle>City Atlas of Hartford, Conn. Compiled and Published from Actual Surveys [Copy2]. <imprint><geogname>Philadelphia : </geogname> <publisher>G. M. Hopkins, </publisher> <date>1880, </date></imprint></unittitle>
+                        <physdesc><dimensions>17.75 x 14 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">4</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Atlas of the City of Hartford, Connecticut Including, also, the Town of West Hartford <imprint><publisher>L.J. Richards &amp;, Co.,</publisher> <date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>22.5 x 17.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">4</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Atlas of the City of Hartford, Connecticut Including, also, the Town of West Hartford [Copy 2], <imprint><publisher>L.J. Richards &amp;, Co.,</publisher> <date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>22.5 x 17.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Atlas of the City of Hartford and Town of West Hartford, Conn., <imprint><publisher>L.J. Richards &amp;, Co., </publisher> <date>1909, </date></imprint></unittitle>
+                        <physdesc><dimensions>22.5 x 17 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Part of Ward 8, City of Hartford, Plate 15, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Part of Ward 3, City of Hartford, Plate 25, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">4</container>
+                        <unittitle>Part of Ward 6 &amp; 9, City of Hartford, Plate 7, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">5</container>
+                        <unittitle>Part of Ward 10, City of Hartford, Plate 18, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">6</container>
+                        <unittitle>Part of Ward 3, City of Hartford, Plate 23, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Part of Ward 7 &amp; 8, City of Hartford, Plate 13, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">8</container>
+                        <unittitle>Part of Ward 4, 5 &amp; 9, City of Hartford, Plate 3, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">9</container>
+                        <unittitle>Part of Ward 8 &amp; 10, City of Hartford, Plate 16, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">10</container>
+                        <unittitle>Part of Ward 7, City of Hartford, Plate 9, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">11</container>
+                        <unittitle>Part of Ward 2 &amp; 3, City of Hartford, Plate 26, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">12</container>
+                        <unittitle>Part of Ward 1, 2 &amp; 6, City of Hartford, Plate 1, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">13</container>
+                        <unittitle>Part of Ward 10, City of Hartford, Plate 6, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">14</container>
+                        <unittitle>Part of Ward 8 &amp; 10, City of Hartford, Plate 17, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">15</container>
+                        <unittitle>Part of Ward 9, City of Hartford, Plate 5, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">16</container>
+                        <unittitle>Part of Ward 7, City of Hartford, Plate 10, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">17</container>
+                        <unittitle>Part of Ward 8, City of Hartford, Plate 12, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">18</container>
+                        <unittitle>Part of Ward 2, 3 &amp; 4, City of Hartford, Plate 22, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">19</container>
+                        <unittitle>Part of Ward 1, 6 &amp; 9, City of Hartford, Plate 8, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">20</container>
+                        <unittitle>Part of Ward 5 &amp; 6, City of Hartford, Plate 4, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">21</container>
+                        <unittitle>Part of Ward 7, City of Hartford, Plate 11, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">22</container>
+                        <unittitle>Part of Ward 5, City of Hartford, Plate 24, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">23</container>
+                        <unittitle>Part of Ward 4 &amp; 10, City of Hartford, Plate 20, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">24</container>
+                        <unittitle>Part of Ward 4 &amp; 10, City of Hartford, Plate 19, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">5</container>
+                        <container type="Folder">25</container>
+                        <unittitle>Part of Ward 3 &amp; 4, City of Hartford, Plate 21, <imprint><publisher>L.J. Richards &amp;, Co., </publisher><date>1896, </date></imprint></unittitle>
+                        <physdesc><dimensions>32.5 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">6</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Atlas of the City of Hartford and West Hartford, Connecticut from Actual Surveys and City Records. <imprint><geogname>New York : </geogname> <publisher>Sanborn Map Company, </publisher><date>1917, </date></imprint></unittitle>
+                        <physdesc><dimensions>24.5 x 20 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">7</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Map of Zion Hill Cemetery. <imprint><publisher>Frank W. Loomis, </publisher><date>[n.d.], </date></imprint></unittitle>
+                        <physdesc><dimensions>26.5 x 19.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">7</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Atlas of the City of Hartford and West Hartford, Connecticut from Actual Surveys and City Records. <imprint><geogname>New York : </geogname> <publisher>Sanborn Map Company, </publisher><date>1921, </date></imprint></unittitle>
+                        <physdesc><dimensions>24.5 x 20 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Map of Hartford Area, Connecticut, Showing rock outcrops, wooded areas, and ground-water conditions. <imprint><publisher>A.J. Ellis, </publisher><date>1917, </date></imprint></unittitle>
+                        <physdesc><dimensions>24.75 x 21 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Map of the City of Hartford. <imprint><publisher>Hartford Department of Engineering, </publisher><date>[n.d.], </date></imprint></unittitle>
+                        <physdesc><dimensions>28 x 42 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Map of the City of Hartford. <imprint><publisher>Hartford Department of Engineering, </publisher><date>1929, </date></imprint></unittitle>
+                        <physdesc><dimensions>26 x 38 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Richards Standard Map of the City of Hartford, Connecticut. <imprint><geogname>Springfield, Mass. : </geogname><publisher>Richards Map Company, </publisher><date>1912, </date></imprint></unittitle>
+                        <physdesc><dimensions>22.5 x 32.25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Elihu Geer Sons' New Map of the City of Hartford, Connecticut [has historical sites added in manuscript]. <imprint><geogname>Hartford : </geogname><publisher>Hartford Printing Co., </publisher><date>1926, </date></imprint></unittitle>
+                        <physdesc><dimensions>16 x 25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Map of the city of Hartford. <imprint><publisher>Regional Planning commission of the Metropolitan District, </publisher><date>1937, </date></imprint></unittitle>
+                        <physdesc><dimensions>25 x 34 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1934, </date></imprint></unittitle>
+                        <physdesc><dimensions>26 x 26 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1939, </date></imprint></unittitle>
+                        <physdesc><dimensions>26 x 26 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Plan of the City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1932, </date></imprint></unittitle>
+                        <physdesc><dimensions>29.5 x 42.5 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Map of the City of Hartford Showing Wards and Precincts. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1939, </date></imprint></unittitle>
+                        <physdesc><dimensions>24.5 x 34 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>A Cultural and Historical Map of Hartford. <imprint><geogname>[Hartford] : </geogname><publisher>Kellogg &amp; Bulkeley, </publisher><date>1933, </date></imprint></unittitle>
+                        <physdesc><dimensions>27.75 x 22 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Map of Connecticut…Issued in Commemoration of the State's Tercentenary. On verso: Historical Sketches of Connecticut's Seventeen Original Towns and A Few of Connecticut's Many Historical Landmarks <imprint><geogname>[Hartford] : </geogname><publisher>Aetna Casualty &amp; Surety Company, </publisher><date>1935, </date></imprint></unittitle>
+                        <physdesc><dimensions>18.25 x 32 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">8</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Map of Hartford Connecticut Prepared by the Federal Writers Project<imprint><publisher>Works Progress Administration, </publisher><date>1938, </date></imprint></unittitle>
+                        <physdesc><dimensions>71 x 41 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">10</container>
+                        <container type="Folder">1</container>
+                        <unittitle>[Contour Map of Hartford Area], <unitdate>n.d., </unitdate></unittitle>
+                        <physdesc><dimensions>31 x 41 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">10</container>
+                        <container type="Folder">1</container>
+                        <unittitle>City of Hartford. <imprint><publisher>Department of Engineering, </publisher><date>[n.d.], </date></imprint></unittitle>
+                        <physdesc><dimensions>27 x 37 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">10</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Hartford, Conn. C.S. Hammond &amp; Co.; from Hammond's Ambassador Atlas Index Section. <imprint><geogname>New York : </geogname><publisher>C.S. Hammond &amp; Co., </publisher><date>[1961], </date></imprint></unittitle>
+                        <physdesc><dimensions>16.5 x 10.25 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Drawer">10</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Latest Map of Hartford, Connecticut [cover only]. <imprint><geogname>Hartford : </geogname><publisher>G.F. Warfield &amp; Co., </publisher><date>n.d., </date></imprint></unittitle>
+                        <physdesc><dimensions>19 x 33.75 in.</dimensions></physdesc>
+                    </did>
+                </c02>
+              </c01>
+              <c01 level="series">
+                  <did>
+                      <unitid>Cabinet 2</unitid>
+                  </did>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of Business District, Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Central Maps Co., </publisher><date>1941, </date></imprint></unittitle>
+                          <physdesc><dimensions>19 x 33.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of Business District, Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Central Maps Co., </publisher><date>1945, </date></imprint></unittitle>
+                          <physdesc><dimensions>19 x 33.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of Business District, Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Central Maps Co., </publisher><date>1948, </date></imprint></unittitle>
+                          <physdesc><dimensions>25 x 36 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Zoning Map of City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1945, </date></imprint></unittitle>
+                          <physdesc><dimensions>25.75 x 33.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of the City of Hartford Showing Wards and Precincts. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1948, </date></imprint></unittitle>
+                          <physdesc><dimensions>24.5 x 33.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1946, </date></imprint></unittitle>
+                          <physdesc><dimensions>24.5 x 33.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                          <did>
+                              <container type="Drawer">1</container>
+                              <container type="Folder">1</container>
+                              <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee, </publisher><date>[1940], </date></imprint></unittitle>
+                              <physdesc><dimensions>28 x 26.5 in.</dimensions></physdesc>
+                          </did>
+
+                  </c02>
+                  <c02>
+                         <did>
+                             <container type="Drawer">1</container>
+                             <container type="Folder">1</container>
+                             <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee, </publisher><date>[1941], </date></imprint></unittitle>
+                             <physdesc><dimensions>28 x 26.5 in.</dimensions></physdesc>
+                  </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee, </publisher><date>[1948], </date></imprint></unittitle>
+                          <physdesc><dimensions>28 x 26.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee, </publisher><date>[1949], </date></imprint></unittitle>
+                          <physdesc><dimensions>28 x 26.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee, </publisher><date>[n.d.], </date></imprint></unittitle>
+                          <physdesc><dimensions>28 x 26.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1953, </date></imprint></unittitle>
+                          <physdesc><dimensions>22.25 x 31 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>1954, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Department of Engineering, </publisher><date>[1955], </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of Business District, Hartford, Conn.. <imprint><geogname>Hartford : </geogname><publisher>Central Maps Co., </publisher><date>1954, </date></imprint></unittitle>
+                          <physdesc><dimensions>25.5 x 36 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>[1950], </date></imprint></unittitle>
+                          <physdesc><dimensions>28 x 27 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1951-1952, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1952, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1953, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1954, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1955, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1956, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1957, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1958, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>The Price &amp; Lee Co., </publisher><date>1959, </date></imprint></unittitle>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the Metropolitan District and Environs. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>36.5 x 54 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 17. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 38. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 67. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 34. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 66. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">1</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Geodetic and Topographical Survey. Sheet 35. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1956, </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/West Hartford. January 1966. Sheet 13. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/West Hartford. January 1966. Sheet 14. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/West Hartford. January 1966. Sheet 15. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/West Hartford. January 1966. Sheet 16. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/West Hartford. January 1966. Sheet 30. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, April 1964. Sheet 36. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/Bloomfield. April 1961. Sheet 56. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1961, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/Windsor/Bloomfield. January 1960. Sheet 57. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1960, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, April, 1964. Sheet 58. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1962. Sheet 59. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1962, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1962. Sheet 60. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1962, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1966. Sheet 61. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, April, 1964. Sheet 63. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1964. Sheet 64. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/Westhersfield. April, 1961. Sheet 65. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1961, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1967. Sheet 93. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1967, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford, December, 1967. Sheet 94. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1967, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/East Hartford, Jan. 1966. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>East Hartford/Hartford, Jan., 1966. Sheet 96. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/East Hartford, Dec. 1962. Sheet 97. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1962, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford. March, 1965. Sheet 98. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford. March, 1965. Sheet 99. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/Wethersfield. March, 1965. Sheet 100. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/Wethersfield/South Windsor. Jan., 1960. Sheet 135. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1960, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>East Hartford/Hartford. Jan., 1966. Sheet 138. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1966, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/East Hartford. March, 1965. Sheet 140. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/East Hartford. March, 1965. Sheet 141. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Hartford/East Hartford. April, 1960. Sheet 142. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1960, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Wethersfield/Hartford/East Hartford/Glastonbury. April, 1964. Sheet 143. <imprint><publisher>Abrams Aerial Survey Corporation, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1960, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1961, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1962, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1963, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1965, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>1967, </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. On verso: New Map of East Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Price &amp; Lee Co., </publisher><date>[1968], </date></imprint></unittitle>
+                          <physdesc><dimensions>27.75 x 27.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1969, </date></imprint></unittitle>
+                          <physdesc><dimensions>33 x 30 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the Metropolitan District and Environs. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1969, </date></imprint></unittitle>
+                          <physdesc><dimensions>40.5 x 58.25 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Map of the Metropolitan District and Environs. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1961, </date></imprint></unittitle>
+                          <physdesc><dimensions>36.5 x 56 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">2</container>
+                          <container type="Folder">2</container>
+                          <unittitle>The Capitol Region. <imprint><publisher>Capitol Region Planning Agency, </publisher><date>1964, </date></imprint></unittitle>
+                          <physdesc><dimensions>31 x 40 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Urban Atlas: Tract Data for Standard Metropolitan Statistical Areas. <imprint><geogname>Washington, D.C. : </geogname><publisher>United States Department of Commerce, </publisher><date>1974, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 22 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Map of the City of Hartford. <imprint><geogname>[Hartford] : </geogname><publisher>Metropolitan District, </publisher><date>1970, </date></imprint></unittitle>
+                          <physdesc><dimensions>16.5 x 15 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1974, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 16 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1975, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 16 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1976, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 17.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1978, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 17.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1979, </date></imprint></unittitle>
+                          <physdesc><dimensions>17 x 18 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>New Haven : </geogname><publisher>Price &amp; Lee Co., </publisher><date>[1970], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 17 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>New Haven : </geogname><publisher>Price &amp; Lee Co., </publisher><date>[1971], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 17 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>New Map of Hartford and West Hartford, Conn. <imprint><geogname>New Haven : </geogname><publisher>Price &amp; Lee Co., </publisher><date>[n.d.], </date></imprint></unittitle>
+                          <physdesc><dimensions>21 x 17.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Voting Districts/City of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973, </date></imprint></unittitle>
+                          <physdesc><dimensions>23 x 32 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>The Metropolitan District and Environs. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1975, </date></imprint></unittitle>
+                          <physdesc><dimensions>58.5 x 40.25 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>The Metropolitan District and Environs. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1978, </date></imprint></unittitle>
+                          <physdesc><dimensions>58.5 x 40.25 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Geodetic and Topographical Maps. Sheet 17. <imprint><geogname>[Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                         <container type="Drawer">3</container>
+                         <container type="Folder">1</container>
+                         <unittitle>Geodetic and Topographical Maps. Sheets 34-38. <imprint><geogname>[Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973], </date></imprint></unittitle>
+                         <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Geodetic and Topographical Maps. Sheets 60-61. <imprint><geogname>[Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Geodetic and Topographical Maps. Sheets 66-67. <imprint><geogname>[Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Geodetic and Topographical Maps. Sheets 95-97. <imprint><geogname>[Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1973], </date></imprint></unittitle>
+                          <physdesc><dimensions>22 x 28 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>City of Hartford/Hartford Zoning Ordinance District Map. <imprint><publisher>Commission on the City Plan, </publisher><date>1985, </date></imprint></unittitle>
+                          <physdesc><dimensions>38 x 27.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>City of Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1980, </date></imprint></unittitle>
+                          <physdesc><dimensions>17.5 x 18 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>City of Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1981, </date></imprint></unittitle>
+                          <physdesc><dimensions>33 x 29.25 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>City of Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1982, </date></imprint></unittitle>
+                          <physdesc><dimensions>24 x 18 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>City of Hartford, Conn. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1985, </date></imprint></unittitle>
+                          <physdesc><dimensions>58.25 x 40.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                   <c02>
+                       <did>
+                           <container type="Drawer">3</container>
+                           <container type="Folder">2</container>
+                           <unittitle>Future Land Use/Plan of Development. <imprint><geogname>Hartford : </geogname><publisher>Commission on the City Plan, </publisher><date>1985, </date></imprint></unittitle>
+                           <physdesc><dimensions>29.75 x 22.75 in.</dimensions></physdesc>
+                       </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>A View of Downtown Hartford. <imprint><geogname>Hartford : </geogname><publisher>The Hartford Courant, </publisher><date>1983, </date></imprint></unittitle>
+                          <physdesc><dimensions>31.75 x 23.75 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>A View of Hartford. <imprint><geogname>Hartford : </geogname><publisher>The Hartford Courant, </publisher><date>[n.d.], </date></imprint></unittitle>
+                          <physdesc><dimensions>35.75 x 24 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">3</container>
+                          <container type="Folder">2</container>
+                          <unittitle>Greater Hartford. <imprint><geogname>Toronto : </geogname><publisher>Archar, Inc., </publisher><date>1980, </date></imprint></unittitle>
+                          <physdesc><dimensions>28.25 x 38.5 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>Welcome to Hartford. <imprint><geogname>Hartford : </geogname><publisher>Convention and Visitors Bureau, </publisher><date>1998, </date></imprint></unittitle>
+                          <physdesc><dimensions>11 x 26 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford, Connecticut. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1993, </date></imprint></unittitle>
+                          <physdesc><dimensions>32.5 x 29 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>City of Hartford, Connecticut. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1995, </date></imprint></unittitle>
+                          <physdesc><dimensions>32.5 x 29 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>1992 Voting Districts of Hartford. <imprint><geogname>Hartford : </geogname><publisher>Metropolitan District, </publisher><date>1992, </date></imprint></unittitle>
+                          <physdesc><dimensions>38 x 24 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>June 2002 City of Hartford Senatorial, Assembly and Voting Districts. City of Hartford Department of Housing and Community Development. <imprint><geogname>Hartford : </geogname><publisher>City of Hartford, </publisher><date>2002, </date></imprint></unittitle>
+                          <physdesc><dimensions>29.5 x 22 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+                  <c02>
+                      <did>
+                          <container type="Drawer">4</container>
+                          <container type="Folder">1</container>
+                          <unittitle>17 Hartford Neighborhoods. City of Hartford Department Development Services, Planning Division. <imprint><geogname>Hartford : </geogname><publisher>City of Hartford, </publisher><date>2004, </date></imprint></unittitle>
+                          <physdesc><dimensions>34 x 24 in.</dimensions></physdesc>
+                      </did>
+                  </c02>
+              </c01>
+
+        </dsc>
+    </archdesc>
+</ead>

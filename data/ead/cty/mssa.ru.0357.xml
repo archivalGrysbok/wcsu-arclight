@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0357">mssa.ru.0357</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Office of Facilities, Yale University, Survey of Buildings
+ </titleproper>
+            <titleproper type="filing">Office of Facilities, Yale University, Survey of Buildings</titleproper>
+            <author>compiled by Christine Connolly</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>June 2006</date>
+            <num>RU 357</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 08:40</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Office of Facilities, Yale University, survey of buildings</unittitle>
+         <unitid>RU 357</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(2 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1968/1968">1968-1968</unitdate>
+         
+         <abstract id="aspace_80f86b2d21100580980d6e14c11e6b98">The records consist of textual and photographic documentation from the Yale Facilities Office concerning a 1968 survey of Yale campus buildings.</abstract>
+         <origination label="creator">
+            <corpname source="local">
+               Yale University. Office of Facilities
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_777bdad7c7d7f90dc0eb1314dc0c856a">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 46-A (YRG 46-A), Records and materials broadly documenting Yale buildings, facilities, and grounds.</p>  
+      </odd>
+      <prefercite id="aspace_605e67025d470c8baed19bc8c8c4b906">
+         <head>Preferred Citation</head>
+         <p>Office of Facilities, Yale University, Survey of Buildings (RU 357). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <arrangement id="aspace_4d3bf1fdfc1373c51f997068ad5f93c7">
+         <head>Arrangement</head>
+         <p>Arranged by region.</p>  
+      </arrangement>
+      <scopecontent id="aspace_ac86cc2cf4167068964e38fbcb34e220">
+         <head>Scope and Contents</head>
+         <p>The records consist of textual and photographic documentation from the Yale Facilities Office concerning a 1968 survey of Yale campus buildings.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141097"
+                  source="lcsh">
+            College buildings
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Buildings
+         </corpname>
+         <corpname source="local">
+            Yale University. Office of Facilities
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref7" level="series">
+            <did>
+               <unittitle>Survey of Yale buildings</unittitle>
+               <unitid>Accession 1994-A-073</unitid>
+               <unitdate type="inclusive">1968</unitdate>
+            </did>
+            <c id="ref8" level="file">
+               <did>
+                  <unittitle>Yale University Planner's Office buildings survey</unittitle>
+                  <unitdate type="inclusive">1968</unitdate>
+                  <container label="Mixed Materials (39002046619327)"
+                             altrender="archive half letter"
+                             id="aspace_f6e5b5cdf3b1fe50e55bbcdb50631766"
+                             type="box">1</container>
+               </did>
+               <accessrestrict id="aspace_e00ad9f1bc1e98fee117021da36621bf">
+                  <head>Conditions Governing Access</head>
+                  <p>The original records are restricted due to fragility. Researchers must use copies.</p>
+               </accessrestrict>
+            </c>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Yale University Planner's Office buildings survey copy</unittitle>
+                  <container label="Mixed Materials (39002075236126)"
+                             altrender="archive half legal"
+                             id="aspace_0ab934d6c800d58424b0f7445460cbd0"
+                             type="box">2</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

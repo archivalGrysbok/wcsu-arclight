@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG123_001.html" countrycode="us">RG123_001</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 123:001, Daughters of the American Revolution, Ruth Wyllys Chapter (Hartford, Conn.)</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">September 19, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>September 19, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Daughters of the American Revolution. Ruth Wyllys Chapter (Hartford, Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Daughters of the American Revolution, Ruth Wyllys Chapter records</unittitle>
+
+	<unitdate label="Creation Dates:" datechar="creation" type="inclusive" encodinganalog="245$f" normal="1778/1989">1778-1989</unitdate>
+	<unitdate label="Creation Dates:" datechar="creation" type="bulk" encodinganalog="245$g" normal="1892/1989">bulk 1892-1989</unitdate>
+	<unitdate label="Accumulation Dates:" datechar="accumulation" normal="1983/1984">1892-1989</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">6 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Ruth Wyllys Chapter of Hartford, Connecticut, was organized November 18, 1892, and chartered January 6, 1893. Its members named it for Ruth Wyllys representing George, Samuel, Hezekiah and John Palsgrave Wyllys, statesmen and Revolutionary War officers.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG123_001</unitid>
+		<unitid label="Accession: ">Multiple</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The Daughters of the American Revolution (DAR) is a patriotic organization whose objects are perpetuating the memory and spirit of the patriots of the American Revolution and teaching the ideals of American institutions and the duties of the American citizenship to the upcoming generation.</p>
+	<p>The Ruth Wyllys Chapter of Hartford, Connecticut, was organized November 18, 1892, and chartered January 6, 1893. Its members named it for Ruth Wyllys representing George, Samuel, Hezekiah and John Palsgrave Wyllys, statesmen and Revolutionary War officers.</p>
+</bioghist><scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The records include annual reports, applications for membership, historical papers, minutes of meetings, scrapbooks, and treasurer’s records.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+
+ <p><extptr linktype="simple" href="http://www.ctstatelibrary.org/RG123.html" show="replace" actuate="onrequest" title="RG 123, Daughters of the American Revolution, 1940-1959"/>, Connecticut State Library.</p>
+ <p><extptr linktype="simple" href="http://www.ctstatelibrary.org/RG123_002.html" show="replace" actuate="onrequest" title="RG 123:002, Penelope Terry Abbey Chapter (Enfield, Conn.), 1922-1932"/>, Connecticut State Library.</p>
+ <p><extptr linktype="simple" href="http://www.ctstatelibrary.org/RG074_044.html" show="replace" actuate="onrequest" title="RG 074:044, Daughters of the American Revolution, Connecticut Chapters, Family Records, 1957-1998"/>, Connecticut State Library.</p>
+
+</relatedmaterial>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" source="dacs">Daughters of the American Revolution. Ruth Wyllys Chapter (Hartford, Conn.)</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="dacs">Daughters of the American Revolution. Ruth Wyllys Chapter (Hartford, Conn.) -- Records and correspondence</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut -- Genealogy</subject>
+
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Application forms</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Essays</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Pamphlets</genreform>
+			<genreform encodinganalog="655" source="aat">Reports</genreform>
+
+	</controlaccess>
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>Various officers deposited original and photostat records with the Connecticut State Library.</p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1778/1989">1778, 1869-1989</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1940-004</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<unittitle>1. Minutes</unittitle>
+	<unitdate datechar="creation">1892-1960; 1966-1989</unitdate>
+	<physdesc><extent>18 volumes</extent></physdesc>
+ </did>	
+<scopecontent><p>The volume(s) for 1960-1966 is not present.</p></scopecontent>
+<scopecontent><p>Volumes include list of members and also consist of by-laws and constitution. General and Executive minutes are interspersed except for volume 1.</p></scopecontent>
+<note><p>Volumes numbered on title page.</p></note>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 1</unittitle>
+	<unitdate datechar="creation">1892 November 18-1896 October 31</unitdate>
+ </did>	
+<scopecontent><p>Book in reverse: minutes of Executive meeting, 1892 December 8-1896 October 31.</p></scopecontent>
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Volume 2 &amp; 3</unittitle>
+	<unitdate datechar="creation">1896 December 7-1900 April 27</unitdate>
+ </did>
+<scopecontent><p>Volume 2, 1896 December 7-1899 October 31; volume 3, 1899 December 12-1900 April 27.</p></scopecontent>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 4</unittitle>
+	<unitdate datechar="creation">1900 May 19-1903 April 27</unitdate>
+	<physdesc><extent>2 copies</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 5</unittitle>
+	<unitdate datechar="creation">1903 June 11-1906 April 27</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 6</unittitle>
+	<unitdate datechar="creation">1906 may 17-1909 April 27</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 7</unittitle>
+	<unitdate datechar="creation">1909 May 28-1912 April 27</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 8</unittitle>
+	<unitdate datechar="creation">1912 June 13-1915 April 27</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 9</unittitle>
+	<unitdate datechar="creation">1915 May 18-1917 November 17</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 10</unittitle>
+	<unitdate datechar="creation">1917 November 17-1918 April 27</unitdate>
+ </did>
+<note><p>Page in front of title page states volume 3.</p></note>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 11</unittitle>
+	<unitdate datechar="creation">1918 May 29-1921 April 27</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 12</unittitle>
+	<unitdate datechar="creation">1921 May 26-1924 October 23</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 13</unittitle>
+	<unitdate datechar="creation">1924 October 31-1927 June 9</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 14</unittitle>
+	<unitdate datechar="creation">1927 October 4-1932 May 12</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 15</unittitle>
+	<unitdate datechar="creation">1932 September 27-1940 October 31</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Volume 16</unittitle>
+	<unitdate datechar="creation">1940 December 6-1949 April 28</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Volume 17</unittitle>
+	<unitdate datechar="creation">1949 May 12-1960 May 25</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Volume 18</unittitle>
+	<unitdate datechar="creation">1966 December 1-1976 June 9</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Volume 19</unittitle>
+	<unitdate datechar="creation">1976 September 8-1989 September 21</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>2. Membership roll</unittitle>
+	<unitdate datechar="creation">1901 September</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+<note><p>With changes to 1905.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>3. Collector's accounts</unittitle>
+	<unitdate datechar="creation">1911-1914</unitdate>
+	<physdesc><extent>3 volumes</extent></physdesc>
+ </did>	
+<scopecontent><p>2 volumes cover 1911-1914, 1 volume covers 1911-1912.</p></scopecontent>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>4. Treasurer's accounts</unittitle>
+	<unitdate datechar="creation">1892-1914</unitdate>
+	<physdesc><extent>6 volumes</extent></physdesc>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1892-1899</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1900-1905</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1905-1907</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1908-1911</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1911-1913</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1913-1914</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>5. Correspondence and lists</unittitle>
+	<unitdate datechar="creation">1901-1902</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>6. Annual reports</unittitle>
+	<unitdate datechar="creation">1936-1940</unitdate>
+ </did>
+<scopecontent><p>Includes programs, pamphlets, photos, etc.</p></scopecontent>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>7. Historical sketches</unittitle>
+	<unitdate datechar="creation">1894-1938, undated</unitdate>
+ </did>	
+<bioghist><p>Prepared for the History Study Group.</p></bioghist>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Scrapbook of conference of state chapters</unittitle>
+	<unitdate datechar="creation">1894 May 16</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Fanny Olmstead manuscripts</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Reports of the 45<emph render="super">th</emph> and 46<emph render="super">th</emph> Continental Congress</unittitle>
+	<unitdate datechar="creation">1937-1938</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Reports of the 10<emph render="super">th</emph>, 11<emph render="super">th</emph>, and 12<emph render="super">th</emph> Congress</unittitle>
+	<unitdate datechar="creation">1901-1903</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Daughters of the American Revolution, Ruth Wyllys Chapter</unittitle>
+	<unitdate datechar="creation">1894</unitdate>
+	<physdesc><extent>1 pamphlet</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Some incidents in the Early History of New London / by Augustus Brandegee</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>In memoriam Sara Thompson Kinney</unittitle>
+	<unitdate datechar="creation">1923</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Souvenir of the Connecticut State Building at the Louisiana Purchase Exposition at St. Louis</unittitle>
+	<unitdate datechar="creation">1904</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>How Washington makes us think of the church ... A supplement to George Washington: Christian / by the Rev. John S. Littell</unittitle>
+	<unitdate datechar="creation">1916</unitdate>
+	<note><p>A copy is available at <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=2552546" show="replace" actuate="onrequest" title="[CSL call number StLib Stacks E312.17 .L5 ]"/></p></note>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Wyllys Family crest, photos, flag</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Ruth Wyllys Chapter Daughters of the American Revolution Historical Party</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Farewell Dinner to Mrs. Sara T. Kinney (program)</unittitle>
+	<unitdate datechar="creation">1909 June 23</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>The Old Glebe House at Woodbury and its historic background / by George T. Linsley</unittitle>
+	<unitdate datechar="creation">1926 October</unitdate>
+ </did>	
+	<note><p>A copy is available at <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=21532672" show="replace" actuate="onrequest" title="[CSL call number StLib Stacks F104.88 L56 1933 ]"/></p></note>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Charter of the Colony of Connecticut 1662 / printed by Case, Lockwood &amp; Brainard Company</unittitle>
+	<unitdate datechar="creation">1900</unitdate>
+ </did>	
+	<note><p>A copy is available at <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=485942" show="replace" actuate="onrequest" title="[CSL call number StLib Law Vault KFC4000.5 1662 .A44 1900 ]"/></p></note>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>The episcopate of Bishop Seabury : his ecclesiastical statesmanship, his doctrinal leadership, his liturgical scholarship / by George T. Linsley</unittitle>
+	<unitdate datechar="creation">1925 September</unitdate>
+ </did>	
+	<note><p>A copy is available at <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=2076452" show="replace" actuate="onrequest" title="[CSL call number StLib Stacks BX5935 .E6 ]"/></p></note>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Work of the Connecticut Daughters of the American Revolution / by Mrs. Charles H. Bissel, State Regent</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Ruth Wyllys Chapter, D.A.R. in World War I / by Miss Florence Marcy Crofut</unittitle>
+	<physdesc><extent>1 envelope</extent></physdesc>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>D.A.R. Service Records World War, 1914-1919, Ruth Wyllys Chapter Daughters of the American Revolution Connecticut Chapter, No. 3</unittitle>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Presentation of Volume of World War Service Records to Ruth Wyllys Chapter, Daughters of the American Revolution</unittitle>
+	<unitdate datechar="creation">1925 October 31</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Papers compiled and read by members of the History Study Group of Ruth Wyllys Chapter during seasons 1939-1940 &amp; 1940-1941, Mrs. William Maltbie Historian</unittitle>
+	<physdesc><extent>1 envelope</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box"></container>
+	<unittitle>8. Registrar's records</unittitle>
+	<unitdate datechar="creation">1892-1967</unitdate>
+	<physdesc><extent>13 volumes</extent></physdesc>
+ </did>
+<scopecontent><p>Applications for membership.</p></scopecontent>
+<arrangement><p>By application number.</p></arrangement>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 1</container>
+	<unittitle>1-100</unittitle>
+	<unitdate datechar="creation">1892-1893</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 2</container>
+	<unittitle>101-200</unittitle>
+	<unitdate datechar="creation">1893-1896</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 3</container>
+	<unittitle>201-300</unittitle>
+	<unitdate datechar="creation">1896-1903</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 4</container>
+	<unittitle>301-400</unittitle>
+	<unitdate datechar="creation">1903-1910</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 5</container>
+	<unittitle>401-500</unittitle>
+	<unitdate datechar="creation">1910-1914</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 6</container>
+	<unittitle>501-600</unittitle>
+	<unitdate datechar="creation">1914-1917</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 7</container>
+	<unittitle>601-700</unittitle>
+	<unitdate datechar="creation">1917-1920</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 8</container>
+	<unittitle>701-800</unittitle>
+	<unitdate datechar="creation">1920-1923</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 9</container>
+	<unittitle>801-900</unittitle>
+	<unitdate datechar="creation">1924-1927</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 10</container>
+	<unittitle>901-1000</unittitle>
+	<unitdate datechar="creation">1927-1936</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 11</container>
+	<unittitle>1001-1100</unittitle>
+	<unitdate datechar="creation">1936-1948</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 12</container>
+	<unittitle>1101-1200</unittitle>
+	<unitdate datechar="creation">1948-1954</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 13</container>
+	<unittitle>1201-1300</unittitle>
+	<unitdate datechar="creation">1955-1967</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Oversize">Oversize item</container>
+	<unittitle>9. Col. Samuel Webb's Regiment</unittitle>
+	<unitdate datechar="creation">1778 October</unitdate>
+	<physdesc><physfacet>negative photostat</physfacet></physdesc>
+ </did>	
+<scopecontent><p>Payroll of Capt. Charles Whiting Co.</p></scopecontent>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box"></container>
+	<unittitle>10. Scrapbooks</unittitle>
+	<unitdate datechar="creation">1911-1934</unitdate>
+	<physdesc><extent>2 volumes</extent></physdesc>
+ </did>
+<scopecontent><p>Newspaper clippings on D.A.R. activities.</p></scopecontent>
+<c04 level="item">
+ <did>
+	<container type="Box">Item</container>
+	<unitdate datechar="creation">1911-1921</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">Item</container>
+	<unitdate datechar="creation">1921-1934</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">SL154647</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">Item</container>
+	<unittitle>Scrapbook</unittitle>
+	<unitdate datechar="creation">1869-1899</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1992-044</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">Shared box</container>
+	<unittitle>War Service Records, 1914-1921, Connecticut Daughters of the American Revolution</unittitle>
+ </did>
+<scopecontent><p>Indexes to questionnaires</p></scopecontent>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1993-058</unitid>
+ </did>
+<c03 level="file">
+ <did>
+	<container type="Box">Shared box</container>
+	<unittitle>War Service Records World War 1914-1919, Ruth Wyllys Chapter Daughters of American Revolution No. 3</unittitle>
+ </did>	
+<note><p>Copy is in box 3 of accession 1940-004</p></note>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2002-061</unitid>
+ </did>
+<c03 level="item">
+ <did>
+	<container type="Box">Item</container>
+	<unittitle>War Service Records World War I, 1914-1919, Ruth Wyllys Chapter Daughters of the American Revolution</unittitle>
+	<physdesc><extent>1 volume, </extent><physfacet>negative photostat</physfacet></physdesc>
+ </did>	
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2002-062</unitid>
+ </did>
+<c03 level="item">
+ <did>
+	<container type="Box">Item</container>
+	<unittitle>War Service Records World War II, 1939-1945, Ruth Wyllys Chapter Daughters of the American Revolution</unittitle>
+	<physdesc><extent>1 volume, </extent><physfacet>negative photostat</physfacet></physdesc>
+ </did>	
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2004-032</unitid>
+ </did>
+<c03 level="item">
+ <did>
+	<container type="Box">Shared box</container>
+	<unittitle>Regents notebook</unittitle>
+	<unitdate datechar="creation">1949-1952</unitdate>
+ </did>	
+</c03>
+</c02>
+</c01>	
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

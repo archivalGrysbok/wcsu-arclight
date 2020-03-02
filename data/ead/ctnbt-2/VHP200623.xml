@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200623.xml">VHP200623</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John J. Donovan, Jr. Papers
+                    <num>VHP2006/23</num>
+                </titleproper>
+                <subtitle>An Inventory of John J. Donovan, Jr. at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Witt Meesangnil</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>207 DiLoreto Hall</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                    <addressline>860-832-2976</addressline>
+                    <addressline>hursteim@ccsu.edu, meesangnilwit@ccsu.edu</addressline>
+                </address>
+                <date>9/13/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-01-04T16:46-0500</date>
+            </creation>
+            <langusage>eng</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John J. Donovan, Jr. Papers</unittitle>
+            <unitid>VHP2006/23</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Digital objects</extent>
+                <extent>1 Interview DVD</extent>
+            </physdesc>
+            <unitdate normal="2006/2006">2006</unitdate>
+            <abstract id="ref1" label="Abstract">This collection details experience of John J. Donovan as he served in U.S. Coast Guard during World War II. The collection includes video oral history interview and synopsis.</abstract>
+            <physloc id="ref7" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Donovan, John J., Jr., 1921 -</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>John J. Donovan lived in the Frog Hollow neighborhood of Hartford, CT when he decided to join the military. He joined the Coast Guard and went to Sheepshead Bay, NY for basic training. After graduating from the Coast Guard Academy, he went to Guantanamo Bay, Cuba to train on battleships. He sailed on the USCG Mendota, and the USS General Richardson. His main duties while in the Coast Guard were to protect the borders of the United States along the east coast from German submarines, and from the infiltration of German spies. They were also responsible for civilian rescues. He also applied for sea duty, which entailed sailing in convoys to bring soldiers to Europe. During these troop transports, Donovan worked as a cook. He was discharged in February of 1946, and returned to Connecticut where he became a police officer with the Hartford Police Department. He also joined the VFW post that the police department had established. He has been a member for over 50 years, serving as both commander and district commander at different times.</p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <altformavail id="ref6">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=983">project's website</extref></p>
+        </altformavail>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>"John J. Donovan, Jr. Papers. VHP2006/23." Veterans History Project; Central Connecticut State University, Center for Public Policy and Social Research</p>
+        </prefercite>
+        <phystech id="ref12">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Technical metadata of digital objects are extracted and encoded in PREMIS preservation metadata format 
+                <lb/>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="PREMIS" ns2:href="admin/premis/">Preservation Metadata</extref></p>
+        </phystech>
+        <controlaccess>
+            <corpname rules="dacs" source="naf">United States. Coast Guard.</corpname>
+            <corpname rules="local" source="local">USS General W. P. Richardson (AP-118).</corpname>
+            <geogname source="lcsh">Casablanca (Morocco)</geogname>
+            <geogname source="lcsh">Guantánamo Bay (Cuba)</geogname>
+            <geogname source="lcsh">Iran</geogname>
+            <geogname source="lcsh">Italy</geogname>
+            <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
+            <subject source="lcsh">World War II - - Personal Narrative, American</subject>
+            <subject source="lcsh">World War, 1939-1945</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Interview synopsis</unittitle>
+                    <unitid>VHP2006/23.1</unitid>
+                    <unitdate normal="2005/2005">Nov. 24, 2005</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Oral history interview with John J. Donovan, Jr.</unittitle>
+                    <unitid>VHP2006/23.2</unitid>
+                    <container id="cid67002" type="Disk" label="Moving Images">DVD VHP2006/23</container>
+                    <container parent="cid67002" type="Box">VHP Interview 2006</container>
+                    <unitdate normal="2005/2005">Nov. 24, 2005</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local" role="Interviewer (ivr)">Bloom, Bret J.</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

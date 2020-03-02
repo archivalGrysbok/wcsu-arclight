@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/findaids/Haymarket/MSS19950021.html" mainagencycode="US-CtU" countrycode="US">MSS19950021</eadid>
+
+<filedesc>
+
+         <titlestmt>
+            <titleproper>Haymarket People's Fund Records</titleproper>
+          
+            <author>Finding aid prepared by Lauren Smith.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2004  University of Connecticut</publisher>
+            <date type="publication" era="ce" calendar="gregorian">April 2004</date>
+            <address>
+               <addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline>
+               <addressline>405 Babbidge Road, Unit 1205</addressline>
+               <addressline>Storrs, Connecticut  06269-1205</addressline>
+            <addressline>URL http://doddcenter.uconn.edu</addressline></address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in April 2004.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS19950021 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Records</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.</repository>
+         <origination label="Creator:">
+            <corpname encodinganalog="110">Haymarket People's Fund</corpname>.</origination>
+         <unittitle label="Title:" encodinganalog="245$a">Haymarket People's Fund Records</unittitle>
+         <unitdate label="Dates:" era="ce" calendar="gregorian">undated, 1971-1983.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">1 linear foot. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The Haymarket People's Fund is an activist-controlled foundation committed to radical social change.  It gives grants to grassroots groups throughout New England, which fight violence, poverty, and injustice, in an effort to empower oppressed communities.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS19950021</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- COLLECTION METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>History</head>
+         <p>The <corpname>Haymarket People's Fund</corpname> is an activist-controlled foundation  committed to radical social change.  It gives grants to grassroots groups throughout <geogname>New England</geogname>, which fight violence, poverty, and injustice, in an effort to empower oppressed communities.  It was co-founded by <persname>George Pillsbury</persname> in <date era="ce" calendar="gregorian">1974</date> in <geogname>Boston, Massachusetts</geogname>.  The Fund seeks to help  workers, people of color, women, tenants, people with disabilities, students, the elderly, gay  men and lesbians, environmentalists, veterans, and welfare recipients.  The Fund operates  through tax-deductible contributions, which are then distributed to qualified groups who apply  for grant assistance.  The Haymarket cannot fund social service of advocacy projects; groups  with budgets of more than $100,000; groups that receive large government or corporate grants;  alternative businesses or institutions such as food co-ops or alternatives schools; groups with no fundraising plans other than Haymarket; or groups that have existed for less than one year.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The <corpname>Haymarket People's Fund</corpname> Records consist of the organization's files on its <geogname>Connecticut</geogname> activities from 1974 - 1983 [bulk, 1974-1981], primarily in Hartford and Southern Connecticut (New Haven area).  Files contain applications and background information on organizations requesting grants in each specified district.</p>
+      </scopecontent>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives &amp; Special Collections has a substantial collection of materials pertaining to civic, activist or alternative organizations that operate in Connecticut.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=9">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>
+            <emph render="bold">Series I: Hartford Files</emph> (<date era="ce" calendar="gregorian">undated, 1974-1983</date>)</p>
+         <p>
+            <emph render="bold">Series II: Southern Connecticut</emph> (<date era="ce" calendar="gregorian">undated, 1971-1982</date>)</p>
+
+      </arrangement><!-- END COLLECTION METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Pillsbury, George.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local">haymarket People's Fund (Boston, Mass.)</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local">Hartford (Conn.)--Societies, etc.</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">Social change--Connecticut.</subject>
+      <subject encodinganalog="650" source="local">Social action--Connecticut.</subject>
+ <subject encodinganalog="650" source="local">Social service--Connecticut.</subject>
+ <subject encodinganalog="650" source="local">Social advocacy--Connecticut.</subject>
+    
+</controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+            <genreform encodinganalog="655" source="local">Financial Records.</genreform>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item description, #:#], <corpname>Haymarket People's Fund</corpname> Records.  <corpname>Archives &amp; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>
+         </p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The Haymarket People's Fund Records were donated by the organization to the <corpname>University of Connecticut</corpname> in <date era="ce" calendar="gregorian">1990</date>, as part of a program to  deposit files in an archival repository in each state served by the <corpname>Haymarket People's Fund</corpname>.
+</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I: Hartford Files, <unitdate era="ce" calendar="gregorian">undated, 1974-1983</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>
+                     <corpname>Association of Puerto Rican Farm Workers</corpname>, <unitdate era="ce" calendar="gregorian">1974</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>
+                     <corpname>Blue Hills Citizen Action Group</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>
+                     <corpname>Committee to End Sterilization Abuse</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>
+                     <corpname>Citizens Research Education Network</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>
+                     <corpname>Coalition for Basic Human Rights</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>
+                     <corpname>Connecticut Anti-Apartheid Committee</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>
+                     <corpname>Connecticut Artjobs</corpname>, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>
+                     <corpname>Connecticut's Citizen's Research Education</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>
+                     <corpname>Connecticut Women Against Sexual Harassment</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>
+                     <corpname>Connecticut Women's Educational and Legal Fund</corpname>, <unitdate era="ce" calendar="gregorian">1983</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>
+                     <corpname>Connecticut Solidarity Committee</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>Construction Workers, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>
+                     <corpname>Generacion Boricua</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>
+                     <corpname>Eggplant Media Productions</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>
+                     <corpname>Greater Hartford Community/Labor Alliance</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>
+                     <corpname>Greater Hartford Lesbian/Gay Task Force</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>
+                     <corpname>Greater Hartford Utilities Coalition</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>
+                     <corpname>Hartford Coalition for Justice in El Salvador</corpname>, <unitdate era="ce" calendar="gregorian">1981-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>
+                     <corpname>Hartford Food Systems</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>
+                     <corpname>Hartford Interval House</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:21</container>
+                  <unittitle>
+                     <corpname>Infant Formula Action Coalition</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:22</container>
+                  <unittitle>
+                     <corpname>Hartford Man's Collective</corpname>, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:23</container>
+                  <unittitle>
+                     <corpname>Hartford's Peoples Bicentennial Commission</corpname>, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:24</container>
+                  <unittitle>Hartford Regional Board Minutes, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:25</container>
+                  <unittitle>
+                     <corpname>Hartford Woman's Center</corpname>, <unitdate era="ce" calendar="gregorian">1978, 1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:26</container>
+                  <unittitle>
+                     <corpname>Hartford Office Workers</corpname>, <unitdate era="ce" calendar="gregorian">1977-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:27</container>
+                  <unittitle>
+                     <corpname>Hartford Women's Collective</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:28</container>
+                  <unittitle>
+                     <corpname>Hartford Women's Health Collective</corpname>, <unitdate era="ce" calendar="gregorian">1976-1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:29</container>
+                  <unittitle>
+                     <corpname>Labor Alliance Against Racist and Political Repression</corpname>, <unitdate era="ce" calendar="gregorian">1977-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:30</container>
+                  <unittitle>
+                     <corpname>Neighborhood Women against Rape</corpname>, <unitdate era="ce" calendar="gregorian">1978-1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:31</container>
+                  <unittitle>
+                     <corpname>The New Britain Citizen/Labor Energy Coalition</corpname>, <unitdate era="ce" calendar="gregorian">1978-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:32</container>
+                  <unittitle>
+                     <corpname>New England Regional Conference of National Organization of Legal Service Workers</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:33</container>
+                  <unittitle>
+                     <corpname>Northeast Coalition for the Liberation of Southern Africa</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:34</container>
+                  <unittitle>Politics and Education, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:35</container>
+                  <unittitle>
+                     <corpname>Real Art Ways</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:36</container>
+                  <unittitle>
+                     <corpname>Student Educating for World Peace</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:37</container>
+                  <unittitle>
+                     <corpname>Trade Unionists for Progressive Action</corpname>, <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:38</container>
+                  <unittitle>
+                     <corpname>Urban Feminist Organization</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:39</container>
+                  <unittitle>
+                     <corpname>Vieques Support Committee</corpname>, <unitdate era="ce" calendar="gregorian">1979-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:40</container>
+                  <unittitle>
+                     <corpname>Women for Racial and Economic Equality</corpname>, <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:41</container>
+                  <unittitle>The Work Project, <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Southern Connecticut Files, <unitdate era="ce" calendar="gregorian">undated, 1971-1982</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:42</container>
+                  <unittitle>
+                     <corpname>African Famine Relief Organization Main World Research</corpname>, New Haven, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:43</container>
+                  <unittitle>
+                     <corpname>The American Independent Movement</corpname>, <unitdate era="ce" calendar="gregorian">1975</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:44</container>
+                  <unittitle>Angola Media Project, <unitdate era="ce" calendar="gregorian">1976, 1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:45</container>
+                  <unittitle>
+                     <corpname>Association of Religious Communities</corpname>, <unitdate era="ce" calendar="gregorian">1977-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:46</container>
+                  <unittitle>
+                     <corpname>New Haven Teachers Study Group</corpname>, <unitdate era="ce" calendar="gregorian">1976-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:47</container>
+                  <unittitle>Bella Vista Tenants, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:48</container>
+                  <unittitle>
+                     <corpname>Center for the Study of Education and Politics</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:49</container>
+                  <unittitle>
+                     <corpname>Centro San Jose</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:50</container>
+                  <unittitle>
+                     <corpname>Community for Non-Violent Action</corpname>, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:51</container>
+                  <unittitle>
+                     <corpname>Connecticut Committee Against Inflation and Unemployment</corpname>, <unitdate era="ce" calendar="gregorian">1975</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:52</container>
+                  <unittitle>
+                     <corpname>Concerned Citizens for the Environment</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:53</container>
+                  <unittitle>Connecticut Task Force on Abused Women, <unitdate era="ce" calendar="gregorian">1979-1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:54</container>
+                  <unittitle>
+                     <corpname>Connecticut Women's Educational and Legal Fund</corpname>, <unitdate era="ce" calendar="gregorian">1980-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:55</container>
+                  <unittitle>
+                     <corpname>Crisis Information/Action Center</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1978-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:56</container>
+                  <unittitle>
+                     <corpname>Dixwell Community House</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:57</container>
+                  <unittitle>
+                     <corpname>East Haven Shore Line Association</corpname>, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:58</container>
+                  <unittitle>Emergency grants/miscellaneous data, New Haven, <unitdate era="ce" calendar="gregorian">1976-1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:59</container>
+                  <unittitle>
+                     <corpname>Feminist Union of New Haven</corpname>, <unitdate era="ce" calendar="gregorian">1979-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:60</container>
+                  <unittitle>
+                     <corpname>Gay Alliance at Yale/ Connecticut Gay Task Force</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:61</container>
+                  <unittitle>
+                     <corpname>Getting Action in Neighborhoods of New Haven</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:62</container>
+                  <unittitle>
+                     <corpname>Inner City Co-op Farm New Haven</corpname>, <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:63</container>
+                  <unittitle>
+                     <corpname>Men Against Domestic Violence</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:64</container>
+                  <unittitle>Middlesex Community Paper, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:65</container>
+                  <unittitle>
+                     <corpname>MULANEH</corpname>- Latin American Women of New Haven, <unitdate era="ce" calendar="gregorian">1979-1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:66</container>
+                  <unittitle>
+                     <corpname>New Haven Law Collective</corpname>, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:67</container>
+                  <unittitle>
+                     <corpname>New Haven Peoples Center</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:68</container>
+                  <unittitle>New Haven Public Power Project, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:69</container>
+                  <unittitle>
+                     <corpname>New Haven Street and Children's Theatre</corpname>, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:70</container>
+                  <unittitle>
+                     <corpname>New Haven's Women's Center</corpname>/ Ad Hoc Coalition to Fight the Family Protection Act, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:71</container>
+                  <unittitle>
+                     <corpname>New Haven Rape Crisis Center</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:72</container>
+                  <unittitle>New Haven Regional Board, <unitdate era="ce" calendar="gregorian">1981-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:73</container>
+                  <unittitle>
+                     <corpname>Office Worker's of New Haven</corpname>, <unitdate era="ce" calendar="gregorian">1977-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:74</container>
+                  <unittitle>
+                     <corpname>Peace, Education and Action Center</corpname>/Wider City Parish, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:75</container>
+                  <unittitle>
+                     <corpname>People Acting for Change</corpname>, <unitdate era="ce" calendar="gregorian">1971-1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:76</container>
+                  <unittitle>
+                     <corpname>People's Defense League</corpname>, <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:77</container>
+                  <unittitle>
+                     <corpname>Puerto Rican Coalition</corpname>/Action for Bridgeport Community Development, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:78</container>
+                  <unittitle>
+                     <corpname>Puerto Rican Solidarity Committee</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1976-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:79</container>
+                  <unittitle>Trident/Conversion Campaign, <unitdate era="ce" calendar="gregorian">1978-1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:80</container>
+                  <unittitle>
+                     <corpname>Progressive Education and Research Association, Inc.</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1981-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:81</container>
+                  <unittitle>
+                     <corpname>Research Associates for Policy Action</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:82</container>
+                  <unittitle>Reproductive Freedom Task Force, <unitdate era="ce" calendar="gregorian">1979</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:83</container>
+                  <unittitle>
+                     <corpname>Save Our Schools</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:84</container>
+                  <unittitle>Sexual Harassment Case: <corpname>Yale University</corpname>, <unitdate era="ce" calendar="gregorian">1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:85</container>
+                  <unittitle>
+                     <corpname>STAND</corpname> Community Radio Proposal, <unitdate era="ce" calendar="gregorian">1975-1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:86</container>
+                  <unittitle>Tenants Representative Council, <unitdate era="ce" calendar="gregorian">1977</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:87</container>
+                  <unittitle>
+                     <corpname>Theatre of Light and Sound</corpname>, <unitdate era="ce" calendar="gregorian">1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:88</container>
+                  <unittitle>
+                     <corpname>Teachers' Center</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1977-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:89</container>
+                  <unittitle>Umoja Extended Family, <unitdate era="ce" calendar="gregorian">1977-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:90</container>
+                  <unittitle>
+                     <corpname>United Farm Workers</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1977-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:91</container>
+                  <unittitle>
+                     <corpname>United Theater of the Americas</corpname>, <unitdate era="ce" calendar="gregorian">1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:92</container>
+                  <unittitle>
+                     <corpname>Valley Woman's Center</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:93</container>
+                  <unittitle>
+                     <corpname>Women's Employment Resource Center</corpname>, <unitdate era="ce" calendar="gregorian">1979-1981</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:94</container>
+                  <unittitle>Women's Health Organizing Project, <unitdate era="ce" calendar="gregorian">1983</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:95</container>
+                  <unittitle>
+                     <corpname>Women's Health Services</corpname>- New Haven, <unitdate era="ce" calendar="gregorian">1976</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:96</container>
+                  <unittitle>
+                     <corpname>Women's Transit Authority</corpname>, <unitdate era="ce" calendar="gregorian">1980</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+   </archdesc>
+</ead>

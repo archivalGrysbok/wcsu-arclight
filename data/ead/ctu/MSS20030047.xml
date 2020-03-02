@@ -1,0 +1,2325 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+    
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20030047</eadid>   
+      <filedesc>
+         <titlestmt>
+            <titleproper>Impact Visuals Photograph Collection</titleproper>
+             <author>Finding aid prepared by Elizabeth Watts.</author>
+         </titlestmt>
+         <publicationstmt>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+            <publisher>&#x00A9; 2003  University of Connecticut</publisher>
+            <date type="publication" era="ce" calendar="gregorian">June 2003</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Elizabeth Watts in June 2003.
+</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20030047 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Records</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+         </repository>
+         <origination label="Creator:">
+            <corpname encodinganalog="110">Impact Visuals.</corpname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Impact Visuals Photograph Collection.</unittitle>
+         <unitdate label="Dates:" era="ce" calendar="gregorian">undated, 1964-2000 [bulk 1983-1999].</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">6.5 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">Photographs, slides and negatives primarily of South Africa and the anti-apartheid movement.  Some supporting material on photo cooperatives and the shooting death of Abdul Shariff, one of the photographers represented in the collection.</abstract>
+         <unitid encodinganalog="090" label="Identification:" countrycode="US" repositorycode="UCW">MSS20030047</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- COLLECTION METADATA GO HERE: -->
+      <bioghist altrender="history" encodinganalog="545" id="a2">
+         <head>History</head>
+         <p>
+            <corpname>Impact Visuals</corpname> was a <geogname>New York City</geogname>-based cooperative photo agency dedicated to social documentary photography.  Founded by <persname>Michael Kaufman</persname>, <corpname>Impact Visuals</corpname> operated for 15 years until shutting down in 2001.  Most of the images in this collection were obtained when <corpname>Impact Visuals</corpname> acquired defunct South African cooperative <corpname>Afrapix</corpname>'s material.  <corpname>Afrapix</corpname> was a collective, self-funded group of freelance photographers in <geogname>South Africa</geogname> operating between 1982-1992.  A few additional images came from <corpname>Southlight Photographic Agency</corpname>.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The collection consists of photographs, slides, and negatives, as well as a limited amount of supporting materials and publications.  The vast majority of the material relates to <geogname>South Africa</geogname>.  Other <geogname>Africa</geogname>n nations, <geogname>Holland</geogname>, <geogname>Palestine</geogname>, <geogname>Yugoslovia</geogname>, and even <geogname>New Jersey</geogname> in the USA are also pictured.  <geogname>South Africa</geogname>'s first interracial elections in April 1994 are particularly well represented in the collection, as are the <corpname>African National Congress</corpname> (ANC), <persname>Nelson Mandela</persname> and <persname>Winnie Mandela</persname>, and <corpname>National Party</corpname> President <persname>F.W. De Klerk</persname>.  Subjects other than politics include the environment, labor, economics, health, poverty, and cultural life.</p>
+         <p>
+            <persname>Abdul Shariff</persname>, one of the photographers who worked for <corpname>Afrapix</corpname> and later <corpname>Impact Visuals</corpname>, was killed while documenting an ANC event in January 1994.  Shariff's curriculum vitae, contract with <corpname>Impact Visuals</corpname>, and correspondence with fellow photographer <persname>Ansell Horn</persname> document the working relationships of a South African photographer.</p>
+      </scopecontent>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>Supporting material is located first, then all photographs are separated by photographer.  Photographs are arranged chronologically with only general subject listings.  The collection is not processed to the item level.  Individual photographs have been captioned by the photographer.</p>
+      </arrangement>
+      <arrangement encodinganalog="351$a" id="a4">
+         <head>Organization</head>
+         <p>Series I: Supporting Material, undated and 1994.</p>
+         <p>Series II: <persname>Abdul Shariff</persname>, 1990-1994</p>
+         <p>Series III: <persname>Ansell Horn</persname>, 1973-1996</p>
+         <p>Series IV: <persname>Eric Miller</persname>, 1983-2000</p>
+         <p>Series V: <persname>Rodger Bosch</persname>, 1988-1999</p>
+         <p>Series VI: Other Photographers in Alphabetical Order, 1964-1995</p>
+      </arrangement>
+      <separatedmaterial encodinganalog="544 0" id="a7">
+         <head>Separated Material</head>
+         <p>
+            <title render="italic" linktype="simple">Shaken Roots: The Bushmen of Namibia.</title>  Text by Megan Biesele.  Photography by Paul Weinberg.  EAD Publications: Marshalltown, South Africa, 1990.  Dodd A4951</p>
+      </separatedmaterial>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>The <corpname>University of Connecticut</corpname> has an ongoing cooperative relationship with the <corpname>African National Congress</corpname> and <corpname>University of Fort Hare</corpname> to document the history of the ANC.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=5">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial><!-- END COLLECTION METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local"></persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local"></corpname>
+         </controlaccess>
+          <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local"></geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local"></subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Publications.</genreform>
+            <genreform encodinganalog="655" source="local">Photographs.</genreform>
+            <genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+            <genreform encodinganalog="655" source="local">Photocopies.</genreform>
+            <genreform encodinganalog="655" source="local">Books.</genreform>
+            <genreform encodinganalog="655" source="local">Contracts.</genreform>
+            <genreform encodinganalog="655" source="local">Newspapers.</genreform>
+            <genreform encodinganalog="655" source="local">Color slides.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">Photographer.</occupation>
+         </controlaccess>
+         </controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #],  Impact Visuals Photograph Collection.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut</corpname> Libraries.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The material in this collection was purchased from the photographers after the dissolution of <corpname>Impact Visuals</corpname> in 2001.</p>
+      </acqinfo>
+      <odd encodinganalog="500" id="a11">
+         <head>Abbreviations</head>
+         <p>ANC = <corpname>African National Congress</corpname>
+         </p>
+         <p>AWB = <corpname>Afrikaner Resistance Movement</corpname>
+         </p>
+         <p>Cape = <geogname>Cape Town</geogname>
+         </p>
+         <p>COSATU = <corpname>Congress of South African Trade Unions</corpname>
+         </p>
+         <p>Jo'burg = <geogname>Johannesburg</geogname>
+         </p>
+         <p>MK = <corpname>Mkhonto weSizwe</corpname> ("Spear of the Nation"--ANC's armed wing)</p>
+         <p>NP = <corpname>National Party</corpname>
+         </p>
+         <p>PAC = <corpname>Pan African Congress</corpname>
+         </p>
+         <p>PAGAD = <corpname>People Against Gangsterism And Drugs</corpname>
+         </p>
+         <p>SADTU = <corpname>South African Democratic Teachers Union</corpname>
+         </p>
+         <p>SAF = <geogname>South Africa</geogname>
+         </p>
+         <p>SPLA = <corpname>Sudanese Peoples Liberation Army</corpname>
+         </p>
+         <p>SWAPO = <corpname>South West African People's Party</corpname>
+         </p>
+         <p>TEC = <corpname>Transitional Executive Council</corpname>
+         </p>
+         <p>UN = <corpname>United Nations</corpname>
+         </p>
+         <p>WTC = World Trade Center, NYC</p>
+      </odd>
+
+<!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I: Supporting Material, <unitdate era="ce" calendar="gregorian">undated, 1964-1994</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>
+                     <corpname>Impact Visuals</corpname> annual reports and labor brochures, <unitdate era="ce" calendar="gregorian">1993-1996</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>
+                     <corpname>Southlight Photographic Agency</corpname>, <unitdate era="ce" calendar="gregorian"/>undated</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>Correspondence between <persname>Abdul Shariff</persname> and <persname>Ansell Horn</persname>, <unitdate era="ce" calendar="gregorian">1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>Shariff's work for <corpname>Impact Visuals</corpname>, <unitdate era="ce" calendar="gregorian">1991-1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>
+                     <corpname>Impact Visuals</corpname> publications on Shariff's death, <unitdate era="ce" calendar="gregorian">1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>Newspaper clippings on Shariff's death,<unitdate era="ce" calendar="gregorian">1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>Photographs of Shariff by <corpname>Rutgers</corpname> and <persname>Ansell Horn</persname>, <unitdate era="ce" calendar="gregorian">1993-1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Abdul Shariff,<unitdate era="ce" calendar="gregorian"> 1990-1994</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>Positives Color,<unitdate era="ce" calendar="gregorian">1990-1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>Negatives B&#x0026;W and Contact Sheets, <unitdate era="ce" calendar="gregorian">1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>Negatives B&#x0026;W,<unitdate era="ce" calendar="gregorian">1991-1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>Negatives Color,<unitdate era="ce" calendar="gregorian">undated, 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>Negatives Color and Contact Sheet,<unitdate era="ce" calendar="gregorian"> 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>Prints Color 8x10,<unitdate era="ce" calendar="gregorian"> 1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>SAF Violence: Shariff's last roll of film<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>Prints Color Oversize,<unitdate era="ce" calendar="gregorian">1992</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>SAF Labor and Refugees<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1991</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.-Jun.:  SAF Political opposition &#x0026; leadership</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul.-Oct.:  SAF Poverty, hostels, townships</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nov. 4:  SAF Jo'burg, Labor: COSATU strike</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Dec.:  SAF Poverty: homeless, unemployment</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Dec. 20: SAF Politics: 1st Codesa meeting-DeKlerk, Mandela</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1992</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.-Feb.: SAF Violence, Labor: Inkatha<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar. 21: SAF commemorate 1960 Sharpville massacre<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar.-Apr.: SAF Labor, Violence, Refugees in hostels<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May 15: SAF Codesa II: ANC and S.A. Gov't<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar. 21: SAF commemorate 1960 Sharpville massacre<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May-Jun.: SAF prostitutes, squatters<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun. 18: SAF Boipatong: day after Inkatha massacre kills 39<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul.-Dec.: SAF political demonstrations<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.-Jun.: SAF Right wing protestors<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul. 14: SAF <geogname>Soweto</geogname>, Jo'burg: voter education<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nov.: <geogname>Mozambique</geogname>, Refugees<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nov. 17: SAF Personalities at WTC endorse new constitution<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III: Ansell Horn,<unitdate era="ce" calendar="gregorian">1973-1996</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:21</container>
+                  <unittitle>Prints Color 8x10,<unitdate era="ce" calendar="gregorian">1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:22</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1973-1988</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'73: SAF <geogname>Soweto</geogname>  township children<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'85-88:SAF Jo'burg white/black, Jewish; education, labor, economy<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:23</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1988-1991</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.'89: SAF Education: University students strike, alternative schools<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Dec.'91: SAF Jo'burg suburbs, Labor, Economy: black/white<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Dec.'91: SAF Jo'burg New Nation Writer's Conference at <corpname>Wits University</corpname> with <persname>Nadine Gordimer</persname> (Nobel Prize)<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:24</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1992-1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>'92-93: SAF Jo'burg suburbs, Economy: domestics, security<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar.'93: SAF Jo'burg downtown, Education: black schools<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.'94: SAF Elections: Indian township rallies / SWAPO squatters<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:25</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">Apr. 1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr. 22-25: SAF Elections: rallies, politicians, registering<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr. 25: SAF <geogname>Bhambayi</geogname> (once Indian) squatter camp<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:26</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">Apr.-May 1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr. 26-28: SAF Elections: ballots, voting<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May 1-2: SAF Elections: celebrations<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May: SAF Orange Farm squatters Economy: sewing, building, schools<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:27</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">Jan. 1996</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.: SAF Cape Government: Apartheid paintings to be removed<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan. 16: SAF <geogname>Soweto</geogname> Health: hospital, med. students, AIDS<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan. 17: SAF Venterspost clinic: 1 nurse to ~100 patients<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:28</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1996</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan. 17: SAF <geogname>Gauteng</geogname> Labor: building clinic for rural poor<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan. 19: SAF Cape High School: formerly all-white<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:29</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:30</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series IV: Eric Miller,<unitdate era="ce" calendar="gregorian">1983-2000</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:31</container>
+                  <unittitle>Publications,<unitdate era="ce" calendar="gregorian">undated, 2000</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:32</container>
+                  <unittitle>Negatives Color,<unitdate era="ce" calendar="gregorian">Apr. 1990</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>SAF Persons: Pres. DeKlerk with <corpname>Inkatha</corpname>'s <persname>Gatsha Buthelezi</persname>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:33</container>
+                  <unittitle>Captions and Prints Color 5x7,<unitdate era="ce" calendar="gregorian">Apr. 1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 12-14  SAF Cape, Funeral, Violence: riots after <persname>Chris Hani</persname>'s murder</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:34</container>
+                  <unittitle>Prints Color 8x10,<unitdate era="ce" calendar="gregorian">1992-1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.-Feb.'92: SAF Cape, Politics: ANC "People's Parliament"<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar.'92: SAF Cape, De Klerk whites only referendum campaign<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul. 15: SAF Cape, Politics: ANC Mass Action Campaign<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Aug. 3: SAF Cape, Nyanga township: ANC General Strike, day 1<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'93: South Sudan, Kongor, Famine: children, UN relief supplies<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul. 26,'93: SAF Cape, Violence: St. James Church attack survivors<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:35</container>
+                  <unittitle>Prints Color 6x9,<unitdate era="ce" calendar="gregorian">undated, 1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>undated: <geogname>Rwanda</geogname> UN soldiers in Kigali, Red Cross aid, SAF Farming<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>1993: SAF Cape, Personalities: <persname>Winnie Mandela</persname>, Buthelezi<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>May 2-3: SAF East London, Violence: white response to armed blacks attack in bar that killed 5 white men<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun.: <geogname>South Sudan</geogname>, <geogname>Kongor</geogname>, Famine &#x0026; Violence: orphans, SPLA war<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun. 9-12: SAF Cape, Elections: voter education<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jul. 26: SAF Cape, Violence: St. James Church after grenade explosion<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Sep.: SAF/<geogname>Namibia</geogname>, Walvis Bay Harbour, Fishing: changing hands in '94<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Cape: Gay pride march<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Cape, Gov't: transition from all-white Parliament<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:36</container>
+                  <unittitle>Prints Color 6x9,<unitdate era="ce" calendar="gregorian">1994-1998</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Apr.'94: SAF, Politics, Elections: ANC and <corpname>Inkatha</corpname> in township<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jul.'94: SAF &#x0026; other African nations, Personalities <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct.'96: SAF-<geogname>Mozambique</geogname> border militarized<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>May '96: <geogname>Uganda</geogname> Politics, Economy, Labor: security forces parade, pre-election rally, safe-sex posters<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Sep.'98: SAF Cape, <persname>Nelson Mandela</persname> with <geogname>Cuba</geogname>'s <persname>Fidel Castro</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:37</container>
+                  <unittitle>Prints Color 5x8,<unitdate era="ce" calendar="gregorian">1992</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Jul. 1: SAF Cape, Demonstration / Violence: COSATU protest march<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jul. 25: SAF Cape, Demonstration<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Aug. 4-5: SAF Cape: ANC Mass action campaign<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Sep.: SAF Cape, Violence: memorial after 29 ANC marchers killed<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:38</container>
+                  <unittitle>Prints Color 5x8,<unitdate era="ce" calendar="gregorian">Jan.-Oct. 1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Jan.: <geogname>Namibia</geogname>, Environment<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb.: SAF <geogname>Durban</geogname> Beachfront<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar.: SAF <geogname>Natal Midlands</geogname>, <corpname>Inkatha</corpname>: ANC impi rally for <persname>Nelson Mandela</persname>, funerals for children slain in bus attack<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar. 19: SAF Cape, Demo: Muslims mark <geogname>Jerusalem</geogname> day<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 12-14: SAF <geogname>Guguletu</geogname> township, Funeral: looting after <persname>Chris Hani</persname>'s murder<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun.: <geogname>South Sudan</geogname>, Health, War<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Aug. 26: SAF <geogname>Gugulethu</geogname> township, day after murder of <persname>Amy Biehl</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Sep. 4: SAF <geogname>Gugulethu</geogname> township, peace marchers after Amy's death<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct.'93: SAF <geogname>Stellenbosch</geogname>, <persname>De Klerk</persname> at NP Cape congress<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct. 10: SAF <geogname>Gugulethu</geogname> township, Amy's memorial service with family<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct. 13: SAF <corpname>University of the Western Cape</corpname> event to honor Amy<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:39</container>
+                  <unittitle>Prints Color 5x8,<unitdate era="ce" calendar="gregorian">Nov. 1993-Feb. 1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Nov.'93: SAF Cape, PAC supporters protest trials<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov.'93: SAF Cape, Person: <persname>Wilhelm Verwoerd</persname>, grandson of "architect of apartheid," campaigns for ANC<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov.'93: SAF Western Cape, Right-wing military training camp<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.'93: SAF Cape, Elections: TEC Chief negotiator, <persname>Roelf Meyer</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.'93: SAF Cape, <persname>F.W. De Klerk</persname>: returns from receiving Nobel peace prize with <persname>Nelson Mandela</persname> to election rally<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jan. 15,'94: <geogname>Namibia</geogname>, Environment: rhinos, transportation<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb.'94: SAF Hillview, Southern Cape, Housing: planning squatting<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb.'94: SAF Cape, Elections: Mandela and De Klerk campaigning<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:40</container>
+                  <unittitle>Prints Color 5x8,<unitdate era="ce" calendar="gregorian">Mar.-Jun. 1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Mar.: SAF <geogname>Kraaifontein</geogname>, Cape, Right: <corpname>Neo-Nazi</corpname> leader <persname>TerreBlanche</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar.: SAF Cape, Coeberg Training Center: new <corpname>National Peacekeeping Force</corpname> (NPKF) training<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar. 30: SAF <geogname>Durban</geogname>, <geogname>Bhambayi</geogname> township, Violence: attack by <corpname>Inkatha</corpname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 1: SAF <geogname>Durban</geogname>, Bhambayi township, Demo for peace<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 2: SAF <geogname>Natal</geogname>, Funeral: <corpname>Inkatha</corpname> and ANC areas<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 30: SAF near <geogname>Durban</geogname>, Refugees: Indian area community center<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun.: <geogname>Rwanda</geogname>, Kigali, Violence: <corpname>Red Cross</corpname> hospital, young girl shot<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:41</container>
+                  <unittitle>Prints Color 5x8,<unitdate era="ce" calendar="gregorian">Jul. 1994-Apr. 1997</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Jul./Sep.'94: SAF Personalities: government ministers<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jan.'95: SAF, <geogname>Argentina</geogname>, <geogname>Tunisia</geogname>, Personalities<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar./Jul.'95: SAF Parliament<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov.'95: SAF Cape: U.S. Vice Pres. <persname>Al Gore</persname> visits<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>1996: SAF Cape, <geogname>Guguletu</geogname> Township: soccer clinic for kids<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>1997: SAF Cape, Sports &#x0026; tourism: Olympic bid for 2004<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar.'97: SAF Cape, <persname>Hilary  Clinton</persname> &#x0026; Chelsea with Mandela in former prison<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr.'97: SAF Free State Province, Native traditional Basotho village<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr.'97: <geogname>Zaire</geogname> (<geogname>Congo</geogname>), Kisangani: Refugees, children, women<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 20,'97: <geogname>Zaire</geogname>, Kasese refugee camp, Violence: <geogname>Rwanda</geogname>n Hutu refugees one day before camp sealed off and 50-60,000 "disappeared"<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:42</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">undated, 1983-1988</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>undated: SAF <geogname>Rustenburg</geogname> &#x0026; <geogname>Stellenbosch</geogname>, Cape, Farmers<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>undated: SAF Bushman, Soldiers<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov. 2,'83: SAF Elections: Right-wingers<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jul.'86: SAF Jo'burg, Military Parade SAF Defense Force 75th b-day<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Aug.-Dec.'86: SAF Jo'burg, Protest: imprisonment of children<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb.'87: SAF Jo'burg, Military draft: compulsory service for white male<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb.-Aug.'87: SAF Labor: unions &#x0026; strikes, protests<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun. 12,'87:SAF Jo'burg, member of <corpname>Black Sash</corpname> (women's civil rights) pickets anniversary of State of Emergency<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun. 25,'87: SAF Mozambican refugees<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jul. 16-18,'88: SAF <persname>Nelson Mendela</persname>'s 70th birthday celebrated by those calling for the ANC leader's release from prison<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:43</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1989</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Feb. 3,'89: SAF opening of Parliament with newly elected <persname>F.w. De Klerk</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Feb. 14: SAF Cape, Archbishop <persname>Desmond Tutu</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar. 9,'89: SAF Cape Prisons, protesting non-trial<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 12-13: <geogname>Namibia</geogname>, Oshikango, War: SWAPO vs. <corpname>Untag</corpname> soldiers<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct. 1: SAF Transkei Sabota funeral<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct. 10: SAF Personalities: ANC leaders released from prison<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:44</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>May 2-4,'90: SAF Cape, ANC negotiation with SAF gov't<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.'90: <geogname>Palestine</geogname>, <geogname>Ramalah</geogname> &#x0026; <geogname>Jerusalem</geogname>, Violence: <geogname>Israel</geogname>i soldiers, Palestinian protest<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Sep.'91: <geogname>Yugoslavia</geogname>, War: at the Hague in <geogname>Holland</geogname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov.'91: <geogname>Holland</geogname>, racist graffiti and signs<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:45</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1992</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>1992: SAF farming<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jan. 24: SAF Cape, PAC protest Parliament<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar.: SAF Cape, <geogname>Khayelitsha</geogname> township, Health: child at clinic<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar.: Apr.-SAF Cape, Education<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 11: SAF Cape, <persname>F.W. De Klerk</persname> visits "colored" township in his "first electioneering type foray outside usual white constituency"<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct.: SAF Cape, <geogname>Guguletu</geogname> township: Women: Adult literacy class<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Nov.: SAF <geogname>Durban</geogname> Township, Poverty: homeless youths<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Cape, Health: Prof. <persname>Chris Barnard</persname>, 1st heart transplant '67<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Cape, Gay/Lesbian: Miss Gay Cape competition<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:46</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1993</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>1993: SAF Whites, Political Demonstrations<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>May 17: SAF <geogname>Grabouw</geogname>, Western Cape, Farming: apples<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jun.: SAF Squatters camp<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Oct.: SAF Women Demonstration, reclaiming streets<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Gov't, first sitting of TEC<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Dec.: SAF Elections, "People's Forum" ANC campaign<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:47</container>
+                  <unittitle>Prints B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 20,'94: SAF Elections, <persname>F.W. De Klerk</persname> campaign poster defaced<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 22,'94: SAF Cape, Political speech with time constraints<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 23,'94: SAF Cape, Elections: NP Rally<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 26,'94: SAF Cape, Elections: voting for disabled<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Apr. 27,'94: SAF Cape, Elections: voting in townships and squatters<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>1995: SAF Gov't, Labor<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Jan.'95: SAF Cape, Funeral for <persname>Joe Slovo</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <unittitle>Mar. 19,'95: SAF Cape, Ruyterwacht: Whites protest against black school<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:48</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:49</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:50</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:51</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:52</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:53</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:54</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:55</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:56</container>
+                  <unittitle>Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series V: Rodger Bosch,<unitdate era="ce" calendar="gregorian">1988-1999</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">2:57</container>
+                  <unittitle>Color Trannies,<unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>SAF / Swaziland, Inkatha: Mangosutho Buthelezi<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May '93: SAF Environment, Scenic<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:58</container>
+                  <unittitle>B&#x0026;W Trannies w/ Captions--Portfolio,<unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:59</container>
+                  <unittitle>Text &#x0026; Computer prints,<unitdate era="ce" calendar="gregorian"> 1997-1998</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Aug.'97-Jul.'98: SAF Cultural, African ballet program "Dance for All"<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:60</container>
+                  <unittitle>Color 8x10,<unitdate era="ce" calendar="gregorian">May 1996</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>SAF Human Rights: Truth Finding commission<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:61</container>
+                  <unittitle>Color 5x7,<unitdate era="ce" calendar="gregorian">1993-1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul. 26,'93: SAF Kenilworth, Cape, Violence: St. James Church day after massacre<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.'94: SAF Person: Mandela pledges "Never Again" for prison<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.'94: SAF Elections: NP rally with DeKlerk<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:62</container>
+                  <unittitle>Color 5x7,<unitdate era="ce" calendar="gregorian">1994-1996</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.'94: SAF Elections: NP rally with DeKlerk<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.'96: SAF Cape, Culture: <persname>Luciano Pavarotti</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.-May '96: SAF Cape, Human Rights: Truth and Reconciliation Commission, Archbishop <persname>Desimond Tutu</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May 29,'96: SAF Cape, Elections: municiple<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Sep. 28,'96: SAF Cape, Drugs: Muslim group PAGAD marches<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:63</container>
+                  <unittitle>Color 6x8,<unitdate era="ce" calendar="gregorian">1997-1999</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.-Mar.'97: SAF Poverty: homeless children, prostitutes<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.'97: SAF Cape, Person: <persname>Nelson Mandela</persname> &#x0026; <persname>Hillary Clinton</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'97: <geogname>Zaire</geogname>, leader of new Congo, <persname>Laurent Kabila</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'97: SAF Cape, Person: new leader of NP, <persname>Marthinus Van Schalkwyk</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.-May '99: SAF Violence, Gangs, Drugs<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'99: <geogname>Libya</geogname> leader <persname>Muhammar Gadaffi</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun. 2,'99: SAF Elections<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul.'99: SAF Cape, Parliament: new President, <persname>Thabo Mbelei</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:64</container>
+                  <unittitle>B&#x0026;W 8x10 / 5x7,<unitdate era="ce" calendar="gregorian">1988-1991</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jun.'88: SAF Jo'burg, <geogname>Alexandria</geogname> township, Children<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Aug.-Oct.'99: SAF Violence, Protests Inkatha<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Dec.'90: SAF white Afrikaner commemoration of victory over Zulu<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>1991: SAF Violence, Education, Person: <persname>Nelson Mandela</persname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:65</container>
+                  <unittitle>B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1993-1994</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan.: SAF Personalities<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Mar. 10,'93: SAF, Protests: against NP, <geogname>Israel</geogname>
+                        <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr. 14,'93: SAF Cape Memorial / Riots after <persname>Chris Hani</persname>'s death<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May 7,'93: SAF Teachers Union, SADTU<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul.'93: SAF Election practice<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Sep.'93: SAF Family<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jan. 15,'94: SAF Person: <persname>Winnie Mandela</persname> supporting ANC's armed wing (MK)<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.'94: SAF Elections<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May-Dec.'94: SAF Persons in Parliament<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:66</container>
+                  <unittitle>B&#x0026;W 8x10,<unitdate era="ce" calendar="gregorian">1995-1998</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>May-Jul.'95: SAF Protests: unions, "born again" Christians, children, Muslims, AWB<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Feb.'96: SAF Cape Person: <persname>Stebe Tswete</persname>, Minister of Sport<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Jul.'96: SAF Cape, Human Rights: Truth and Reconciliation Commission hearings<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Aug. 10,'96: SAF Cape, Drugs: Muslim group PAGAD marches<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Apr.'97: SAF Education: children<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nov.'97: SAF Mental Health: patients and workers protest closing hospital<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>1998: SAF Cape <geogname>Gugulethu township</geogname>, Culture: African ballet project "Dance for All"<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series VI: Other Photographers in Alphabetical Order,<unitdate era="ce" calendar="gregorian">1964-1995</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">3:67</container>
+                  <unittitle>Misc. Photographers (1 print each),<unitdate era="ce" calendar="gregorian">undated, 1985-1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:68</container>
+                  <unittitle>Unknown Photographers B&#x0026;W 8x10 Prints,<unitdate era="ce" calendar="gregorian">undated, 1964-1989</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:69</container>
+                  <unittitle>Unknown Photographers Slides Color<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:70</container>
+                  <unittitle>Unknown Negatives and Copy/Publication,<unitdate era="ce" calendar="gregorian">undated, 1985-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Auf der Heyde, Peter</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Bannister, Andrew</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Bernstein, Suzy</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Bradlow, Adil</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Bronstein, Paula</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Day, Anna</persname>
+                     <unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>de Vlieg, Gill</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Eliason, Orde</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Elmendorp, Ellen</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Eloff, Brett</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Gool, Benny</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Grendon, Paul</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Hartman, Dave</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Hilton-Barber, Steven</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Hutchins, Mike</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Kralj, Sasa</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Kramer, Sue</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Lawson, Lesley</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Ledochowski, Chris</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Lemon, T.J.</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Liebenberg, John</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Magwaza, Pax</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Mayet, Rafs</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Meintjes, Roger</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Mofokeng, Santu</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Moodliar, Deseni</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Nunn, Cedric</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Parker, Warren</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Patzer, Marek</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Sholk, Justin</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Smit, Sandy</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <corpname>Southlight</corpname> Collective Land Essay</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>
+                     <persname>Storkend, Sally</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Tillim, Guy</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Uzi, Avigail</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>van Der Merwe, Chris</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Velasco, Paul</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>von Lohuzen, Kadir</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Weinberg, Paul</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Williams, Graeme</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Wulfsohn, Gisele</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>
+                     <persname>Zietminski, Anna</persname>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Unsorted Slides<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Unsorted Slides<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Oversized Material <unitdate era="ce" calendar="gregorian"/>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Eric Miller's Portfolio,<unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Caption Listing,<unitdate era="ce" calendar="gregorian">undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Prints Color 11x16,
+ <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                     </unittitle>
+                  </did>
+                  <c04>
+                     <did>
+                        <container type="Box"/>
+                        <unittitle>SAF Agriculture: Picture Story in Afrikaner village<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Prints B&#x0026;W 11x16,<unitdate era="ce" calendar="gregorian">1988-1989</unitdate>
+                     </unittitle>
+                  </did>
+                  <c04>
+                     <did>
+                        <container type="Box"/>
+                        <unittitle>SAF Anti-Apartheid Protest, Eviction<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Magazine: Ilford (SAF) winning entry,<unitdate era="ce" calendar="gregorian">1989</unitdate>
+                     </unittitle>
+                  </did>
+                  <c04>
+                     <did>
+                        <container type="Box"/>
+                        <unittitle>SAF Environ.: Picture Story "Saving the White Rhino"<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Magazine (Tearsheet) spread,<unitdate era="ce" calendar="gregorian">undated</unitdate>
+                     </unittitle>
+                  </did>
+                  <c04>
+                     <did>
+                        <container type="Box"/>
+                        <unittitle>SAF Swaziland, Culture: concert<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+      </dsc><!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+   </archdesc>
+</ead>

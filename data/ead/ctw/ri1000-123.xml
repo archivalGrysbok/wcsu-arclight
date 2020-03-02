@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::654::William North Rice Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ri100-123.html">ri100-123</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William North Rice Papers,
+		<date normal="1861/1955">1861 - 1955</date> (bulk 1861 - 1928)
+		</titleproper>
+        <author>Processed by: Staff; Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>
+
+		&hdrsca;
+	</publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: 2000</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the William North Rice Papers, <lb/><date type="span">1861 - 1955 (bulk 1861-1928)</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Rice, William North, 1845-1928.</persname></origination><unittitle label="Title" encodinganalog="245">William North Rice Papers, <unitdate normal="1861/1928" type="inclusive">1861 - 1955 (bulk 1861 - 1928)</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-123</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">4.5</extent></physdesc><physdesc label="Archival Boxes"><extent>10</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives, Wesleyan University.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">William North Rice (1845-1928) was a graduate and long-time faculty member and administrator at Wesleyan University. As a student, he was a member of Phi Nu Theta. He was known as a scientist, minister, and educational expert.</abstract><abstract encodinganalog="520">The William North Rice Papers contain diaries, correspondence, account books, teaching materials, writings, lectures, and sermons related to Rice's interests in Wesleyan University, science, religion, and education in general. Specific topics include coeducation at Wesleyan University, campus politics and activities, and issues related to students, faculty, and trustees. Rice's interests in geology, botany, mineralogy, crystallography, and zoology are represented, as is his interest in the relationship between science and religion.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], William North Rice Papers, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Donated by William Abbott Rice in December 1960.</p>
+      </acqinfo>
+      <otherfindaid>
+        <head>Alternate Finding Aids</head>
+        <p>An older, printed finding aid is also available for use in Special Collections &amp; Archives.</p>
+      </otherfindaid>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Marjorie A. Biafore, 1979; Elizabeth A. Swaim and University Archives Staff, 1981; Sabena Leake, 1988; Diana Perron, 1989; Valerie Gillispie, 2006</p>
+        <p>Encoded by Valerie Gillispie, 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Born in 1845, William North Rice, of Springfield, Massachusetts, entered Wesleyan University in August 1861 at the age of fifteen. He graduated in 1865 as the valedictorian of his class, and went on to the Sheffield Scientific School at Yale University to receive the first Ph.D. awarded in the United States in geology in 1867. After further study in Europe, he returned to Wesleyan to teach natural science courses, a very new field in the existing academic world of Greek and Latin literature and mathematics.</p>
+      <p>He served as Professor of Geology and Natural History, 1868-1884; G.I. Seney Professor of Geology, 1884-1918; G.I. Seney Professor of Geology Emeritus, 1918-1928; and as acting president of the university, 1907, 1908-1909, and 1918. He died 13 November 1928, after a 67-year association with Wesleyan. </p>
+      <p>Rice was distinguished not only for his knowledge of geological formations throughout the mountains of Connecticut and Massachusetts, but also for his many publications and sermons as a Methodist minister.</p>
+      <p>In addition, Rice was a prolific writer. Along with several books, he wrote dozens of sermons and lectures which were published in newspapers and journals. He was a frequent contributor to <title render="italic">Zion's Herald</title>, a religious publication of the Boston Wesleyan Assocation, as well as to other religious and secular newspapers. His writings often dealt with the conflict many people experienced, in the first half-century after the publictaion of Darwin's <title render="italic">Origin of the Species</title>, between new scientific thought and Biblical tradition. Other lectures and sermons were strictly theological in nature.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The William North Rice Papers contain diaries, correspondence, account books, teaching materials, writings, lectures, and sermons related to Rice's interests in Wesleyan University, science, religion, and education in general. The Diaries and Correspondence series includes personal diaries and account books kept by William North Rice during his time as a Wesleyan University student, and correspondence from family members, friends, colleagues, and fellow alumni from throughout his life. The subject of many of the diary entries and letters is Wesleyan University, and these writings contain information about academics, social life, campus groups, co-education, trustee maters, campus politics, selection of presidents, alumni affairs, coeducation, student discipline, and faculty recruitment.</p>
+      <p>The Teaching and Education series includes record books, lecture notes, examination questions, and tributes and memorials. The record books record student grades for the courses taught by Rice. His lecture notes cover subjects including botany, geology, mineralogy and crystallography, zoology and <emph render="doublequote">science and religion.</emph> The examination questions include those used by Rice in his own teaching, as well as entrance examination questions for Wesleyan University and other New England colleges and universities. The tributes and memorials to Rice, as well as obituaries, offer information about Rice's teaching and scholarly career. Also included in this series is a hand-drawn sketch of Rice made by Mrs. Calvin Sears Harrington.</p>
+      <p>The Publications, Addresses, and Sermons series contains materials created by Rice on the topics of Wesleyan University, education, geology and science, and religion. An index of sermons and publications can be found at the beginning of the series. </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <persname source="lcnaf" encodinganalog="600">Rice, William North, 1845-1928. </persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --Administration. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --Alumni and alumnae. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --Students. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --Faculty. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --Greek letter societies. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.) --History. </corpname>
+      <subject source="lcsh" encodinganalog="650">Religion and science. </subject>
+      <subject source="lcsh" encodinganalog="650">Christianity. </subject>
+      <subject source="lcsh" encodinganalog="650">Geology. </subject>
+      <subject source="lcsh" encodinganalog="650">Mineralogy. </subject>
+      <subject source="lcsh" encodinganalog="650">Crystallography. </subject>
+      <subject source="lcsh" encodinganalog="655">Diaries. </subject>
+      <subject source="lcsh" encodinganalog="650">Botany. </subject>
+      <subject source="lcsh" encodinganalog="650">Zoology. </subject>
+      <subject source="lcsh" encodinganalog="650">Coeducation --United States. </subject>
+      <subject source="lcsh" encodinganalog="650">Education, Higher. </subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Related material can be found in the Special Collections &amp; Archives Vertical Files and in other archival collections. Please contact Special Collections &amp; Archives for more information.</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Diaries and Correspondence, <unitdate type="inclusive">1861-1927</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Diaries and Correspondence series includes personal diaries and account books kept by William North Rice during his time as a Wesleyan University student, and correspondence from family members, friends, colleagues, and fellow alumni from throughout his life.</p>
+          <p>Diaries date from Rice's years as a student at Wesleyan, and include information about academics, social life, campus groups, and other Wesleyan-related observations. Some transcripts, made by Rice's grandson, are available in this collection as well. The "Letters Home from Wesleyan" were mainly written to Rice's father, William Rice, who served on the Wesleyan Board of Trustees. Some of these letters also include paragraphs separately addressed to other family members. Other letters were specifically addressed to other family members. Other correspondence addresses the issue of coeducation at Wesleyan during its first phase of admitting female students. There is also congratulatory correspondence regarding Rice's 50th anniversary of graduation from Wesleyan and his 80th birthday. Rice also corresponded frequently with his son about Wesleyan topics.</p>
+          <p>The final part of this series consists of letters arranged by the last name of the correspondent. Most of these writers were Wesleyan alumni, and most only wrote one or two letters. Topics include opinions on trustee matters, campus politics, selection of presidents, alumni affairs, coeducation, student discipline, and faculty recruitment.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Volume">1</container>
+            <unittitle>Diary, January 1861-January 1863</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Volume">2</container>
+            <unittitle>Diary, January 1864-February 1865</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Diary, 1865</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Account book, August 1861-December 1862</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Account book, January 1864-July 1867</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Letters home from Wesleyan, 23 August-29 December 1861</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Letters home from Wesleyan, 5 January-28 May 1862</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Letters home from Wesleyan, 2 June-28 December 1862</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Letters home from Wesleyan, 4 January-30 May 1863</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Letters home from Wesleyan, 9 June-19 December 1863</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Letters home from Wesleyan, 4 January-25 June 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Letters home from Wesleyan, 6 July-31 December 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Letters home from Wesleyan, 21 January-13 July 1865</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Letters from WNR to various persons, 1862-1925</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Letters to WNR from his father, 1868-1897</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Letters to WNR from relatives, 1870-1918</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Elizabeth W. C. Rice letters, 1882, 1905</unittitle>
+          </did>
+          <scopecontent>
+            <p>1882 letter contains news and anecdotes about members of the Wesleyan community in 1882, male and female, old and young.</p>
+            <p>This file was transferred from Special Collections &amp; Archives Vertical Files in 2006.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Correspondence regarding co-education, 1909</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Correspondence regarding co-education and other Wesleyan topics, 1868-1910</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder of letters was separated from the rest of the William North Rice collection until 2006. Researchers using the collection prior to 2006 would not have seen these letters.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>Letters to WNR on 50th anniversary of graduation from Wesleyan, 1915</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>Letters to WNR on his 80th birthday, 1925</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1-7</container>
+            <unittitle>Letters to son E. L. Rice, 1896-1927</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Transcripts of diaries and letters, 1861-1862</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Transcripts of diaries and letters, 1862-1863</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Transcripts of diaries and letters, 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Transcripts of diaries and letters, 1864-1865</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Transcripts of writings on Phi Nu Theta</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence to WNR</unittitle>
+          </did>
+          <scopecontent>
+            <p>These letters contain important information and opinions on trustee matters, campus politics, selection of presidents, alumni affairs, coeducation, student discipline, and faculty recruitment. Most of the correspondents were Wesleyan alumni, and almost all wrote fewer than ten letters. Most wrote only one or two. The correspondents who wrote ten or more letters are: W. O. Atwater, J. Beech, J. Cunnings, L. Magee, J. Mudge, F. M. North, S. H. Olin, H. L. Osborn, and B. P. Raymond.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Box">4</container>
+              <unittitle>Abbott, J. E., 1872</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Albro, A. B., 1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Anderson, W. H., 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Allison, D., 1873</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Andrews, E. G., 1869, 1897-1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Armstrong, A. C., 1904-1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Atwater, C. W., 1922</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Atwater, W. O., 1872-1891, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bacheller, A. L., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bagnall, W. R., 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bailey, M. A., 1920</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Barnhart, J. H., 1893-1895</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Beattys, F. D., 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Beattys, H. H., 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Beattys, F. D., 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Beech, J., 1902-1927, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Berry, W. F., 1888-1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bisbee, R. E., 1881-1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bowdish, W. W., 1869</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Brodhead, G., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Brundage, W. M., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Buckley, J. M., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Burke, J. C., 1883-1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Burnes, H. E., 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Burnett, W. A., 1865-1866</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chadbourne, G. S., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chanter, W. G., 1919</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chase, A. F., 1881-1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chase, John L., 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chattaway, S. M., 1881</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clark, J. C., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clarke, F. W., 1870</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Coffin, S. V., 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Conklin, E. G., 1922</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Cooper, R. W., 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Cramer, N. L., 1875</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Crawford, J., 1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Crawford, M. B., 1877-1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Crittenden, A. R., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Crowell, L., 1884-1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Crowell, S. F., 1912</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Cunnings, J., 1840</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Curtice, S. O., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Dallinger, L., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Davenport, F. M., 1897-1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Davis, C. E., 1882, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Davis, C. H., 1905-1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Davis, H. L., 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Davis, W. B., 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Dennis, A. P., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Develin, J. A., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Dickinson, J., 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Downey, D., 1903-1916</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Dutcher, G. M., 1922</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Eckfeldt, T. H., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Edgerton, F. D., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Eggleston, A. C., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Eustis, J. E., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Farrand, Max, 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Faulkner, J. A., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Faulks, J. B., 1889-1902</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fearon, R. N., 1869</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fisk, H. F., 1865-1873</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Foss, C. D., 1878-1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Foye, W. G., 1925</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Furber, D. B., 1877-1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Garrison, S., 1895</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gilbert, L., 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gill, B., 1890, 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gilman, B. A., 1882, 1902</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Godard, G. S., 1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Goode, G. B., 1872-1896, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gordy, J. P., 1886-1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gowdy, J., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Graham, J. C., 1893-1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Graves, A. S., 1865</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Guss, R. W., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Haley, J. F., 1878</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hall, G. A., 1873</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hall, Mary, 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Harriman, D. G., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Harriman, H. I., 1920</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Harris, A. W., 1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Haven, E. O., 1872</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Haven, G., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hewitt, J. W., 1908</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hoagland, M. L., 1866, 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hibbard, R. G., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hotchkiss, A., 1892</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Howland, C. P., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hoyt, F. S., 1879-1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hubbard, C. D., 1874-1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hubbard, W. P., 1870-1908</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hunt, A. S., 1887-1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hutchison, H. C., 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hyde, A. B. 1872-1882</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Ingraham, H. C. M., 1874-1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>James, W. J., 1891-1898</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, A. K., 1869-1880</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, J., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, Mrs. J., 1866</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, M. M., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, W. A., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Judd, O., 1871-1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Judkin, C. O., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Kelley, W. V., 1903-1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Kent, S. W., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Knapp, M. A., 1886-1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Kynett, A. G., 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Landon, T. H., 1885-1902</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Larkin, G. R., 1923</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Leavenworth, C., 1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Lindsay, T. B., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Lippit, C., 1864</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Littlefield, C., 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Loper, S. W., 1890-1898</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Loveland, A. E., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Lyon, Asa, 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">5</container>
+              <unittitle>MacMullen, W., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Magee, L., 1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mains, G. P., 1878-1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mallalieu, W. F., 1870, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mann, A., 1895</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mansfield, John H., 1869</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mansfield, Joseph H., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manship, W. S., 1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Marcy, C. D., 1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Marcy, O., 1866</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Marsh, T. P., 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>McConaughy, J. L., 1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>McCormick, C. W., 1891-1892</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Merrill, E. T., 1886-1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Millard, C. W., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Monroe, H. K., 1903-1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Morse, J. L., 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mudge, J., 1870-1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Munson, J. O., 1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Neumann, G. B., 1923-1925</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newhall, F. N., 1881, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newton, C. L., 1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newton, H. G., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newton, L., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newton, W. M., 1916</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Nicols, H., 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Nicolson, F., 1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Niles, W., 1870</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>North, C. J., 1882-1898</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>North, C. R., 1872</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>North, E., 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>North, F. M., 1872</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Norton, L. L., 1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Olin, S. H., 1871-1925, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Opdyke, L. A., 1890-1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Osborn, H. L., 1879-1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Osborne, W. F., 1876-1882</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Parker, F. H., 1898,1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Parker, R. C., 1908</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pease, C., 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Peck, E. J., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pettee, J., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Phillips, W., 1865</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pickard, H., 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Platt, S. H., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Plimpton, G. L., 1899-1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Pullman, J., 1877-1899, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Raymond, B. P., 1888-1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rand, J. C., 1870-1881, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Reynolds, F., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Reynolds, G. G., 1906-1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rice, W. M., 1889-1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rich, H. L., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Richard, E. M., 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Richard, W. A., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Richards, T., 1917</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Roe, A. S., 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rosa, E. B., 1887-1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Round, G. C., 1900, 1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rust, R. S., 1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sanborn, J. E., 1887</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sanford, A. B., 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sanford, E. B., 1869-1926</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Scofield, W. E., 1909-1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Scudder, M. L., 1874</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Shanklin, W. A., 1908-1912</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sharpe, B. F., 1887</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Shonk, G. W., 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Shute, W. G., 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sleeper, J., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smiley, C. W., 1882</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, A. L., 1923</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, E. M., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, F. H., 1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, O., 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, S. K., 1885, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, W. B., 1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Smith, W. W., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Starkes, H. A., 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steele, D., 1882-1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Steele, G., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Stiles, S. M., 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Strout, E. C., 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sutherland, A. E., 1918</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sutton, H. C., 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Taft, M. L., 1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Taylor, S. N., 1921</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Thorndike, E. L., 1913, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tillett, W. F., 1908</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tilton, J. L., 1894, 1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tinkler, C. P., 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trafton, G. H., 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Underhill, A. S., 1898-1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Upham, F. B., 1899-1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>VanBenschoten, J. C., 1884-1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Van Dusen, W. W., 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Van Vleck, E. B, 1911, 1925</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Van Vleck, J. M., 1877-1912</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Waldo, C. A., 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Warren, H. W., 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Warren, H. M., 1880</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Warren, W. F., 1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Welch, H., 1897-1925, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Westgate, G. L., 1870-1880, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Westgate, L. G., 1893-1907, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whedon, D. A., 1874-1879, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whedon, D. D., 1866-1877</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whedon, J. S., 1869, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>White, H. S., 1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>White, L., 1895</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whitney, D. D., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whitney, H. C., 1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Williams, H. C., 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wing, J. E., 1915</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wood, T. B., 1891-1908</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Woods, W. C., undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wood, J. R., 1877</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Woodruff, W. E., 1887-1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Yager, G., 1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Yard, J. M., 1927</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Teaching and Education, 1869-1928</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Teaching and Education series includes record books, lecture notes, examination questions, and tributes and memorials. The record books document student grades for the courses taught by Rice. His lecture notes cover subjects including botony, geology, mineralogy and crystallography, zoology, and <emph render="doublequote">science and religion.</emph> The examination questions include those used by Rice in his own teaching, as well as entrance examination questions for Wesleyan University and other New England colleges and universities. The tributes and memorials to Rice, as well as obituaries, offer information about Rice's teaching and scholarly career. Also included in this series is a hand-drawn sketch of Rice made by Mrs. Calvin Sears Harrington.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">1-7</container>
+            <unittitle>Class record books, 1869-1918</unittitle>
+          </did>
+          <scopecontent>
+            <p>These 7 folders contain 32 class record books.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">7</container>
+            <container type="Folder">1</container>
+            <unittitle>Class record books, 1869-1918</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains 4 class record books.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Lecture notes, 1879-1918</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">2-4</container>
+              <unittitle>Botany, 1879-1882 and undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Classification of minerals, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6-7</container>
+              <unittitle>Crystallography, 1887-1893 and undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8-9</container>
+              <unittitle>Crystallography and Optical Mineralogy, 1884-1885 and undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10-13</container>
+              <unittitle>Descriptive Mineralogy, 1885-1899 and undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14-18</container>
+              <unittitle>Geology, 1881-1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">8</container>
+              <container type="Folder">1-3</container>
+              <unittitle>Geology, 1899-1918</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Geology - Bibliographical references</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Historical Geology, 1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6-7</container>
+              <unittitle>Optical Mineralogy, 1887-1894</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8-9</container>
+              <unittitle>Physiology, 1881-1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Science and Religion, 1896-1898</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Vertebrata, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12-14</container>
+              <unittitle>Zoology, 1880-1885 and undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Miscellaneous lecture and laboratory notes</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Examination Questions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>1873-1888</unittitle>
+            </did>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Yearly entrance examinations and prize examinations for the New England colleges, 1866-1894</unittitle>
+            </did>
+            <scopecontent>
+              <p>These are entrance examinations for various New England Colleges: Harvard, Tufts, Amherst, Williams, Dartmouth, Boston University, University of the State of New York, Cornell, and Wesleyan; there are also various examinations for special prizes (Phi Beta Kappa, etc.).</p>
+            </scopecontent>
+            <c04>
+              <did>
+                <container type="Folder">17-18</container>
+                <unittitle>Entrance and prize examinations, 1866-1894</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">1-3</container>
+                <unittitle>Entrance and prize examinations, 1866-1894</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Request by students for address, 1873</unittitle>
+          </did>
+          <scopecontent>
+            <p>This file was transferred from Special Collections &amp; Archives Vertical Files in 2006.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Election to Connecticut Academy of Arts and Sciences, 1871</unittitle>
+          </did>
+          <scopecontent>
+            <p>This file was transferred from Special Collections &amp; Archives Vertical Files in 2006.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">6-7</container>
+            <unittitle>Testimonials, Obituaries, and Memorial Resolutions, 1924-1928</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Sketch of William North Rice by Mrs. Calvin Sears Harrington, undated</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Publications, Addresses, and Sermons, 1867-1955 (bulk 1867-1927)</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Publications, Addresses, and Sermons series contains materials created by Rice. An index of sermons and publications can be found at the beginning of the series. Following the index, Rice's writings are divided into the following topics: Wesleyan University, Education, Geology and Science, and Religion. The religion section includes sermons as well as other writings on the topic of religion. Within each topic, writings are arranged chronologically.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Index of sermons and publications</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Wesleyan University</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle><title render="italic">Personal History of the Class of 1865, Wesleyan University, July 1865-July 1867</title>, 27 pages, William N. Rice, Editor, Brooklyn, 1867</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Inauguration of President Cyrus D. Foss, including address by William N. Rice, <title render="italic">Hartford Daily Times</title>, 27 October 1875</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Wesleyan University,</title><title render="italic">Scribner's Monthly</title>, Vol. XII, No. 5, September 1876</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">In Memoriam: Prof. John Johnston,</title><title render="italic">College Argus</title>, 8 December 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Wesleyan University,</title><title render="italic">Daily Christian Advocate</title>, 12 May 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Chapter LXVII: Wesleyan University,</title> in <title render="italic">The New England States</title>, circa 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Draft of paper on co-education, later revised for pamphlet titled <title render="doublequote">Papers on the Relation of Wesleyan University to the Higher Education of Women,</title> 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Papers on the Relation of Wesleyan University to the Higher Education of Women,</title> 1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle><title render="doublequote">The Wesley Bicentennial,</title><title render="italic">North American Review</title>, Vol. 176, No. 6, June 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Curriculum of Wesleyan University,</title><title render="italic">Wesleyan Literary Monthly</title>, June 1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The History and Work of Wesleyan University,</title> address by William N. Rice, from <title render="italic">Celebration of the Seventy-Fifth Anniversary of the Founding of Wesleyan University</title>, 1907</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The History and Work of Wesleyan University, an Address delivered by Professor William North Rice, Ph. D., LL.D., at Middletown, Conn., Sunday June 17, 1906, in Commemoration of the Seventy-Fifth Anniversary of the Founding of the University,</title> Part I, <title render="italic">Christian Advocate</title>, Vol. LXXXI, No. 27, 5 July 1906</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The History and Work of Wesleyan University, an Address delivered by Professor William North Rice, Ph. D., LL.D., at Middletown, Conn., Sunday June 17, 1906, in Commemoration of the Seventy-Fifth Anniversary of the Founding of the University,</title> Part II, <title render="italic">Christian Advocate</title>, Vol. LXXXI, No. 28, 12 July 1906</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">History and Work of Wesleyan University,</title><title render="italic">Zion's Herald</title>, 4 July 1906</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">1</container>
+              <unittitle>News clippings regarding coeducation at Wesleyan, baccalaureate address, installation of President Shanklin, 1908-1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sentence conferring degree of Doctor of laws on Frank B. Weeks, June 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>The Van Vleck Observatory: dedication booklet, <title render="doublequote">Address at the Ground-Breaking,</title> and prayer at the dedication, June 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Address of Professor Rice, President Raymond's Memorial Service,</title><title render="italic">Wesleyan Literary Monthly</title>, vol. 24, March 1916</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Through Darkness to Dawn,</title><title render="italic">Cardinal</title>, Spring 1955</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The History of Wesleyan University,</title> Lecture VIII, <title render="italic">Course in Fundamentals of Student Life</title>, 28 September 1917</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Address on Woodrow Wilson,</title><title render="italic">Wesleyan University Alumnus</title>, <unitdate type="inclusive">May 1924</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>
+                <title render="doublequote">Historical Sketch of Wesleyan University,</title>
+                <unitdate type="inclusive">1926</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Our Half Century,</title> Middletown Scientific Association adddress, 8 March 1927</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Education</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle><title render="doublequote">Shall I Go to College?</title>, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Claims of the Educational Institutions of Methodism,</title><title render="italic">Proceedings of the Methodist Convention of the State of Connecticut</title>, 1869</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Educational Work of Methodism,</title><title render="italic">Baltimore Centennial Daily</title>, 18 December 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Natural Science as a Branch of Education,</title><title render="italic">College Argus</title>, 1 February 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Science Teaching in the Schools,</title><title render="italic">American Naturalist</title>, September-October 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle><title render="doublequote">Plea for more adequate preparation in the secondary schools for the study of natural science in the colleges,</title> New England Association of Colleges and Preparatory Schools, <title render="italic">Addresses and Proceedings at the Fourth Annual Meeting</title>, 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Science-Teaching in the Schools</title>,  an address delivered before the American Society of Naturalists, 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report of the Committee of the American Society of Naturalists on Science Teaching in the Schools, 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Speech on Natural Science as a Requirement for Admission to College, The New England Association of Colleges and Preparatory Schools: <title render="italic">Addresses and Proceedings of the Sixth Annual Meeting</title>, 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The High School and its Relation to Other Educational Institutions,</title><title render="italic">Special Report of the Board of Education of the Middletown City School District</title>, 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report of the dedicatory exercises at the opening of the new high school of the Middletown City School District, 26 March 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Education in Middletown,</title> speech listed on the agenda of the <title render="italic">Celebration of the Two-Hundred and Fiftieth Anniversary of the Settlement of Middletown, Connecticut</title>, 10-11 October 1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Wesleyan University, Meeting of the Connecticut Association of Classical and High School Teachers, 16 February 1901</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Proper Scope of Geological Teaching in the High School and Academy,</title> a paper read at the meeting of the National Educational Association at Boston, MA, July 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Sciences</title> speech, Connecticut Association of Classical and High School Teachers, 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Pastoral Opportunity of the College Professor,</title><title render="italic">Christian Student</title>, Vol. VI, No. 1, February 1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">State Universities and the Church,</title><title render="italic">Christian Student</title>, Vol. VI, No. 4, November 1905</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">A Danger Arising from the Popularization of the College,</title><title render="italic">Science</title>, Vol. XXXIX, No. 749, 5 March 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle><title render="doublequote">The College Course,</title><title render="italic">Christian Student</title>, Vol. XI, No. 1, February 1910</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Call to Teach,</title><title render="italic">Christian Education</title>, Vol. V, No. 9, June 1922</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Science Teaching in the Schools,</title><title render="italic">American Naturalist</title>, September-October 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Newspaper articles, 1898-1910 and undated</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Geology and Science</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle><title render="doublequote">Introduction to Natural Science,</title> course outline, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Geological Notes of the Senior Excursion,</title><title render="italic">College Argus</title>, 24 November 1869</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">On the Effects of Certain Poisons on Mollusks,</title> from<title render="italic">Proceedings of the American Association for the Advancement of Science</title>, Portland Meeting, August 1873</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Geology of Middlesex County,</title> from <title render="italic">History of Middlesex County</title>, 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Geology of Bermuda,</title> from <title render="italic">Bulletin No. 25</title>, U.S. National Museum, 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">On the Trap and Sandstone in the Gorge of the Farmington River at Tariffville, Conn.,</title><title render="italic">American Journal of Science</title>, Vol. XXXII, December 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Discovery of Rutile in North Guilford,</title><title render="italic">Observer</title>, January 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle><title render="doublequote">The Degree of Probability of Scientific Beliefs,</title><title render="italic">New Englander and Yale Review</title>, January 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Twenty-Five Years of Scientific Progress,</title><title render="italic">Bibliotheca Sacra</title>, Vol. L, January 1893</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Remarks on the Petrographic Excursion,</title><title render="italic">Bulletin of the Geological Society of America</title>, vol. 8, 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Review of <title render="italic">The Principles of Museum Administration</title> by G. Brown Goode, in <title render="italic">Science</title>, 22 May 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">American Association for the Advancement of Science, Section E, Geology and Geography,</title><title render="italic">Science</title>, 18 September 1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Geology and Mineralogy,</title><title render="italic">The Smithsonian Institution, 1846-1896, the History of its First Half-Century</title>, 1897</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Glacial Period,</title><title render="italic">Popular Science</title>, March 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Scientific Thought in the Nineteenth Century,</title><title render="italic">Science</title>, Vol. X, No. 261, 29 December 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Scientific Thought in the Nineteenth Century,</title> an address delivered at the centennial anniversary of the Academy, <title render="italic">Transactions of the Academy</title>, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Proper Scope of Geological Teaching in the High School and Academy,</title><title render="italic">Proceedings</title> of the National Education Association, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Physical Geography and Geology of Connecticut,</title><title render="italic">Report of Connecticut Board of Agriculture</title>, 1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle><title render="doublequote">Convocation Week,</title><title render="italic">Science</title>, Vol. XIX, No. 483, 1 April 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">On the Use of the Words Synclinorium and Anticlinorium,</title><title render="italic">Science</title>, Vol. XXIII, 23 February 1906</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Contributions of America to Geology,</title><title render="italic">Proceedings of the American Association for the Advancement of Science</title>, Vol. XXXI, April-May 1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Dana, the Man,</title><title render="italic">Bulletin of the Geological Society of America</title>, Vol. 24, 1912</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">James Dwight Dana,</title><title render="italic">Yale Alumni Weekly</title>, 3 January 1913</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Yakutat Bay,</title><title render="italic">Wesleyan Liberary Monthly</title>, February 1914</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Peat in Connecticut,</title><title render="italic">Guide to Nature</title>, Vol. XIV, No. 4, September 1921</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The New Geology,</title><title render="italic">Methodist Review</title>, July-August 1924</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Religion and Theology</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Sermons, circa 1880-1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Sermons, circa 1880-1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle><title render="doublequote">Can a Good Catholic be a Darwinian?</title> proof with corrections, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Address in <title render="doublequote">Installation Services of Reverend John L. R. Trask as Pastor of Memorial Church</title>, 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">A <emph render="doublequote">Symposium</emph> Upon the Advisability of a Normal Department in Theological Seminaries,</title> by W. N. Rice et al, <title render="italic">The Old and New Testament Student</title>, Vol. XI, No. 2, August 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Credibility of the Resurrection of Jesus,</title><title render="italic">Methodist Review</title>, March-April 1895</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Paleontology and Evolution</title> (November 10) and <title render="doublequote">The Credibility of Miracle</title> (November 17) in <title render="italic">University Extension Lectures</title>, 1898-1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Recent Phases of Thought in Apologetics,</title><title render="italic">Methodist Review</title>, January-February 1899</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Return to Faith,</title><title render="italic">Wesleyan Argus</title>, 4 April 1900</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The YMCA and the Churches,</title><title render="italic">Middletown Men</title>, pamphlet of YMCA of Middletown, May 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Baccalaureate Sermon,</title><title render="italic">Wesleyan Argus</title>, 7 July 1909</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Professor Rice Reviews Epoch Marking Book,</title> (<title render="italic">Origin and History of the Federal Council of the Churches of Christ in America,</title> by Elias B. Sanford), <title render="italic">The Wesleyan Alumnus</title>, July 1917</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Several articles in <title render="italic">Minutes of the New York East Annual Conference</title>, April 1919</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Through Doubt to Faith,</title><title render="italic">Wesleyan University Alumnus</title>, May 1923</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4-10</container>
+              <unittitle>Religious newspaper articles, 1867-1925</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Religious certificates, 1864-1872</unittitle>
+            </did>
+            <scopecontent>
+              <p>This file was transferred from Special Collections &amp; Archives Vertical Files in 2006.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Miscellaneous clippings</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes articles on temperence, politics, and obituaries</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

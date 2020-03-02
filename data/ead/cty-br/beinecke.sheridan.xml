@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.sheridan">beinecke.sheridan</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Richard Brinsley Sheridan Collection
+ </titleproper>
+            <titleproper type="filing">Sheridan (Richard Brinsley) Collection</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>July 1997</date>
+            <num>GEN MSS 284</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday April 24, 2019 at 03:00</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Richard Brinsley Sheridan collection</unittitle>
+         <unitid>GEN MSS 284</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1769/1814">1769-1814</unitdate>
+         
+         <abstract id="aspace_11154ad3d83ea68b004c6384641794c8">The collection contains letters by, to and concerning Sheridan, including letters by Sheridan to Robert Barclay, the Duke of Bedford, and Samuel Whitehead; and writings by Sheridan, including four manuscript copies of the School for Scandal, one with annotations and corrections in Sheridan's hand; a holograph draft of a comic opera, The Foresters; and notes for Affectation, a projected comedy.</abstract>
+         <physdesc id="aspace_d4c8d1eef3cc09a4ce64931f1cbb4189">Other Storage Formats: 9 volumes</physdesc>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n79089813"
+                      source="naf">
+               Sheridan, Richard Brinsley, 1751-1816
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_c1ef6a9db957f31427c057a1d9655ac2">
+         <head>Immediate Source of Acquisition</head>
+         <p>Ongoing collection of documents acquired by gift and purchase from various sources. Type of accession (gift or purchase) and date of acquisition is noted in the box-and-folder list. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <userestrict id="aspace_8b1a360a603b7477b45cc58fca7ba0d3">
+         <head>Conditions Governing Use</head>
+         <p>The Richard Brinsley Sheridan Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_7e76995bf49ce6333db23fcd5849a139">
+         <head>Preferred Citation</head>
+         <p>Richard Brinsley Sheridan Collection. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_eb5d20fc14d5b5476b2c14e1c3053e8a">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_7b2496753e3f1c20e892b63586e95345">
+         <head>Processing Information</head>
+         <p>This finding aid was produced from previously existing cards in the Manuscripts Catalog, or from another inventory. All pertinent bibliographical information has been retained. If the collection also contains unlisted or unsorted material, it has been noted in the box-and-folder list. This finding aid will be updated periodically to account for new materials that may be added to the collection. The date of the most recent update is noted on the title page. For information on material that may have been added since the last update, please consult the Public Service Desk.</p>  
+      </processinfo>
+      <scopecontent id="aspace_6bdfa0e8b371c505a243f69411031efc">
+         <head>Scope and Contents</head>
+         <p>This finding aid encompasses accessions of single manuscripts and small groups of manuscripts and other papers, by or pertaining to Richard Brinsley Sheridan, which the library has chosen to group and list as an artificial collection. Materials incorporated into the collection prior to July 1997 have been organized into three series: Correspondence, Writings, and Other Papers.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            Dramatists, English -- 18th century
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85043343"
+                  source="lcsh">
+            English drama -- 18th century
+         </subject>
+         <persname source="local">
+            Barclay, Robert, 1833-1876
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88138968"
+                   source="naf">
+            Bedford, Francis Russell, Duke of, 1765-1802
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79089813"
+                   source="naf">
+            Sheridan, Richard Brinsley, 1751-1816
+         </persname>
+         <persname rules="aacr" source="local">
+            Whitehead, Samuel
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="ref12" level="subseries">
+               <did>
+                  <unittitle>BANNISTER, JOHN</unittitle>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>ALS to Samuel Cartwright</unittitle>
+                     <unitdate type="inclusive">1830 Feb 18</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_6d51877db89f3c52717a3cec5b19d18e"
+                                type="box">1</container>
+                     <container id="aspace_9a108c12674f1d1fc5d967522a1b4fef"
+                                type="folder"
+                                parent="aspace_6d51877db89f3c52717a3cec5b19d18e">1</container>
+                  </did>
+                  <scopecontent id="aspace_31904c9605d047c7886a39125f7fa1b8">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref15" level="subseries">
+               <did>
+                  <unittitle>GRAHAM, J.</unittitle>
+               </did>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>ALS to an unidentified recipient, London</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_6452eaa4b0ebec572b8bb4d5309ea746"
+                                type="box">1</container>
+                     <container id="aspace_462b77aaca5cf73d59482b69cc2b8b5b"
+                                type="folder"
+                                parent="aspace_6452eaa4b0ebec572b8bb4d5309ea746">2</container>
+                  </did>
+                  <scopecontent id="aspace_31179b24e4dad35b7a6e5f80ca422b24">
+                     <head>Scope and Contents</head>
+                     <p>1 p. with endorsement. <lb/> 22 cm. <lb/> With a note by Richard Brinsley <lb/> Sheridan. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref18" level="subseries">
+               <did>
+                  <unittitle>NICHOLLS, SARAH</unittitle>
+               </did>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>ALS to Richard Brinsley Sheridan, London</unittitle>
+                     <unitdate type="inclusive">1810 May 2</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_9204b314db075d583498ff582e613ce1"
+                                type="box">1</container>
+                     <container id="aspace_314e84083be61d348687e8ad91aba1ed"
+                                type="folder"
+                                parent="aspace_9204b314db075d583498ff582e613ce1">3</container>
+                  </did>
+                  <scopecontent id="aspace_419071aed0fc75638fdef138a8036e2a">
+                     <head>Scope and Contents</head>
+                     <p>1 p. with address, 20 cm. <lb/> Sheridan's maidservant writes to <lb/> ask for money on which to live <lb/> while he is away from London. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref21" level="subseries">
+               <did>
+                  <unittitle>PALMER, ROBERT</unittitle>
+               </did>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>ALS to the management of Drury Lane [Richard Brinsley Sheridan], London</unittitle>
+                     <unitdate type="inclusive">1815 Jul 3</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_1df8bbfd7ca4c06168b5691b4459bd73"
+                                type="box">1</container>
+                     <container id="aspace_b7850fa62bedc6d8260014f9eb006677"
+                                type="folder"
+                                parent="aspace_1df8bbfd7ca4c06168b5691b4459bd73">4</container>
+                  </did>
+                  <scopecontent id="aspace_801cab259e045fa42300ad0969078976">
+                     <head>Scope and Contents</head>
+                     <p>1 p. 21 cm. <lb/> Requesting continuance of his <lb/> employment at the theatre.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref24" level="subseries">
+               <did>
+                  <unittitle>SHERIDAN, ELIZABETH (LINLEY)</unittitle>
+               </did>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>3 ALS and 1 AL (in the third person) to Richard Peake</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_fe5fc0c91735e11d0d0b596a6e84468a"
+                                type="box">1</container>
+                     <container id="aspace_6b20f8bfdf74a5f9a3252ac5f63a10b1"
+                                type="folder"
+                                parent="aspace_fe5fc0c91735e11d0d0b596a6e84468a">5</container>
+                  </did>
+                  <scopecontent id="aspace_26030ddc57641994832d7f2160d837ae">
+                     <head>Scope and Contents</head>
+                     <p>4 p. with addresses. 18-19 cm. <lb/> Concerning personal financial <lb/> matters. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref27" level="subseries">
+               <did>
+                  <unittitle>SHERIDAN, RICHARD BRINSLEY BUTLER</unittitle>
+               </did>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>ALS to Robert Barclay, London</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_55c6359dd6eed00112c13d897b1efad2"
+                                type="box">1</container>
+                     <container id="aspace_b941c478884d8479dd0c4617555f894f"
+                                type="folder"
+                                parent="aspace_55c6359dd6eed00112c13d897b1efad2">6</container>
+                  </did>
+                  <scopecontent id="aspace_000fb93d075196ec410a259eb5ac6984">
+                     <head>Scope and Contents</head>
+                     <p>1 p. with address, 24 cm. <lb/> Paper watermarked 1805. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Franked piece of paper addressed to "Miss Beddyke, 10 Grosvenor Place", London</unittitle>
+                     <unitdate type="inclusive">1810 Jun 21</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_85e4214cdc6b7fce60a5dceafd36769d"
+                                type="box">1</container>
+                     <container id="aspace_d42340f6610f15b2ee356dba6fa4f2f9"
+                                type="folder"
+                                parent="aspace_85e4214cdc6b7fce60a5dceafd36769d">7</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>ALS to Francis Russell, Duke of Bedford (the Marquis of Tavistock)</unittitle>
+                     <unitdate type="inclusive">1808 Aug 19</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_c0d659cecb9b773ef2bb728be36ccf61"
+                                type="box">1</container>
+                     <container id="aspace_dc281729378d602d9e11c27805142c7d"
+                                type="folder"
+                                parent="aspace_c0d659cecb9b773ef2bb728be36ccf61">8</container>
+                  </did>
+                  <scopecontent id="aspace_b101eff264aefd58de10dc4faceba946">
+                     <head>Scope and Contents</head>
+                     <p>1 p. with envelope. <lb/> Gift, 1948.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>2 ALS to Mr. Burgess, Farnham</unittitle>
+                     <unitdate type="inclusive">[1814? Nov]</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_2a329caba55cafec75641c435eef4a58"
+                                type="box">1</container>
+                     <container id="aspace_7cd580759678e30c452599019ec08f66"
+                                type="folder"
+                                parent="aspace_2a329caba55cafec75641c435eef4a58">9</container>
+                  </did>
+                  <scopecontent id="aspace_4394c296a8c54154438b6559f2e01bd5">
+                     <head>Scope and Contents</head>
+                     <p>Both letters with address. Paper of <lb/> first letter watermarked 1813. <lb/> Engraving of a portrait of R.B. <lb/> Sheridan laid in folder. <lb/> Gift, 1937.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>ALS to "Dear Burgess"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_a4da2d48f02af6f30437268b11f72935"
+                                type="box">1</container>
+                     <container id="aspace_fb1b0c8944ed43358af91cb221180a3b"
+                                type="folder"
+                                parent="aspace_a4da2d48f02af6f30437268b11f72935">10</container>
+                  </did>
+                  <scopecontent id="aspace_85ccbd55e3502c74969aa05e62493782">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1964.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>ALS to Thomas Holloway, [London]</unittitle>
+                     <unitdate type="inclusive">[1807] Nov 13</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_a5431529cb97051eaf9b1a21974e6ee6"
+                                type="box">1</container>
+                     <container id="aspace_e7ed657a49b92aa185210ff763571e34"
+                                type="folder"
+                                parent="aspace_a5431529cb97051eaf9b1a21974e6ee6">11</container>
+                  </did>
+                  <scopecontent id="aspace_1e1e003a8ae8f84b5e17b0df02db40fe">
+                     <head>Scope and Contents</head>
+                     <p>1 p. with address, 23 cm. <lb/> Draft of Holloway's reply on p. [3] <lb/> Concerning the debts of Mr. Shaw, <lb/> orchestra conductor at Drury Lane <lb/> Theatre. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>ALS to [Richard Peake?]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_8cefc69ee702744e46a9dfa319df6955"
+                                type="box">1</container>
+                     <container id="aspace_e4bd280309ef12a350a98e00df6ddc26"
+                                type="folder"
+                                parent="aspace_8cefc69ee702744e46a9dfa319df6955">12</container>
+                  </did>
+                  <scopecontent id="aspace_6271f555988119863ff613af12a04402">
+                     <head>Scope and Contents</head>
+                     <p>1 p. 24 cm. <lb/> Gift.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>ALS to Mr. Peake (?), Winchester</unittitle>
+                     <unitdate type="inclusive">1797 Jun 18</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_3b25e0a1e35dd56dcaeafd88c1be566b"
+                                type="box">1</container>
+                     <container id="aspace_165237b5ced92c0a19d8146fb547fc40"
+                                type="folder"
+                                parent="aspace_3b25e0a1e35dd56dcaeafd88c1be566b">13</container>
+                  </did>
+                  <scopecontent id="aspace_8e4db284661b3eb4408834e501994cb2">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1964.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>ALS to Mr. Shaw, Chancery Lane</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_5fe42d966aef18365eaa75549716d2f4"
+                                type="box">1</container>
+                     <container id="aspace_aaa7104191e3fa53e92c2ee444cacd42"
+                                type="folder"
+                                parent="aspace_5fe42d966aef18365eaa75549716d2f4">13a</container>
+                  </did>
+                  <scopecontent id="aspace_36e67230df4b9426222c7c1066680d42">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1964.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_fafa2e10df2a8d6c12ba934a05844c9d" level="file">
+                  <did>
+                     <unittitle>2 ALS to Hester (Ogle) Sheridan, London</unittitle>
+                     <unitdate type="inclusive">1800, 1804</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_c843f7c160dc1f024d04d91b4edfa0af"
+                                type="box">1</container>
+                     <container id="aspace_65991fd87e837b6a7c3528458b3ba595"
+                                type="folder"
+                                parent="aspace_c843f7c160dc1f024d04d91b4edfa0af">13b</container>
+                  </did>
+                  <scopecontent id="aspace_8ebb3ed798cd73f9a7ae58b9ce3155e1">
+                     <head>Scope and Contents</head>
+                     <p>Letters to his wife dated 1800 September 5 and "seven 1804." Accompanied by letter from Clare Sheridan, 1937 December 18 to George Nettleton, Yale College Office of the Dean, and reply from Nettleton (copy) dated 1938 January 3.
+Gift, 1937.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>ALS to Charles Ward</unittitle>
+                     <unitdate type="inclusive">1814 Sep 21</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_10462858604c3cd8d87814edd6bc9686"
+                                type="box">1</container>
+                     <container id="aspace_e9d37e396d8f19697a995ca10f046289"
+                                type="folder"
+                                parent="aspace_10462858604c3cd8d87814edd6bc9686">14</container>
+                  </did>
+                  <scopecontent id="aspace_6a96cfe0ccb0b92a351c7730c707d375">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1962.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>ADft. of letter to Samuel Whitehead</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_d35f1529f4512566a6f02ece0ae2a904"
+                                type="box">1</container>
+                     <container id="aspace_bbe877a3d1fd76e754b53b9252b5d983"
+                                type="folder"
+                                parent="aspace_d35f1529f4512566a6f02ece0ae2a904">15</container>
+                  </did>
+                  <scopecontent id="aspace_e3abd024b4c1965cf0955a04fae9db9c">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1959.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>ALS to an unidentified recipient</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_24b1b1b426bed0e2c37a5e56fb2c900a"
+                                type="box">1</container>
+                     <container id="aspace_63469b633778aaba1e7028c608cdb4bd"
+                                type="folder"
+                                parent="aspace_24b1b1b426bed0e2c37a5e56fb2c900a">16</container>
+                  </did>
+                  <scopecontent id="aspace_2c45662190acdc047b423c7c49323956">
+                     <head>Scope and Contents</head>
+                     <p>1 p. <lb/> Gift, 1944.</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c id="ref51" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <c id="ref52" level="subseries">
+               <did>
+                  <unittitle>SHERIDAN, RICHARD BRINSLEY BUTLER</unittitle>
+               </did>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>AFFECTATION: autograph manuscript notes for a projected comedy, written on 28 pages and the endpapers of a small, leather-bound memorandum book.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_abe55a0db4f54f42e129721d3d5a912c"
+                                type="box">1</container>
+                     <container id="aspace_9ed497b8203fbff91df7113a1b299bc5"
+                                type="folder"
+                                parent="aspace_abe55a0db4f54f42e129721d3d5a912c">17</container>
+                  </did>
+                  <scopecontent id="aspace_318a9e1ea2b3fbb7e51636c809fab42c">
+                     <head>Scope and Contents</head>
+                     <p>11.5 x 18 cm. In a red cloth slip <lb/> case.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>THE CARAVAN: manuscript play in an unidentified hand with alterations in the hand of Sheridan.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_5c626262c96d6bf81af1489d9392ab9d">
+                     <head>Scope and Contents</head>
+                     <p>40 p. 15 x 23.5 cm. Bound in three- <lb/> quarter green leather. <lb/> Autograph of J.W. Connolly, Oct. 12, <lb/> 1858. <lb/> Gift, 1947.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_a268aa23ee0c32c13a9a9039b2374320">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref89">See: Volume 1</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>THE CRITIC, OR A TRAGEDY REHEARS'D: manuscript prompt copy in an unidentified hand, with a few manuscript corrections by Sheridan.</unittitle>
+                     <unitdate type="inclusive">[1781?]</unitdate>
+                  </did>
+                  <scopecontent id="aspace_c9967f84e790f57d7a9bdec28a778006">
+                     <head>Scope and Contents</head>
+                     <p>124 p. 23 cm. <lb/> Presentation inscription from <lb/> Sheridan to Mrs. Crewe; bookplate <lb/> of Sophie Hall-Walker. <lb/> Bound in 3/4 green morocco. <lb/> Purchase, 1954.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_1fe13344f2e1246e723458a4d093839b">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref91">See: Volume 2</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>THE FORESTERS: autograph manuscript draft of a comic opera</unittitle>
+                     <unitdate type="inclusive">[1781-1795]</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_9c0a63d54ee8ce6d5c34c1089a61c7fc"
+                                type="box">1</container>
+                     <container id="aspace_4f3619cc3fa097e1f1a4ff64c87c7516"
+                                type="folder"
+                                parent="aspace_9c0a63d54ee8ce6d5c34c1089a61c7fc">18</container>
+                  </did>
+                  <scopecontent id="aspace_9b60882418109aa003bf110623e5c02f">
+                     <head>Scope and Contents</head>
+                     <p>9 leaves, inlaid. 18-24 cm. <lb/> The play was never produced. <lb/> Gift, 1954.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref63" level="file">
+                  <did>
+                     <unittitle>PISCATORY PARTY. IN COMMEMORATION OF ISAAC WALTON. Autograph manuscript, signed, of the rules and regulations drawn up by Sheridan and presented to the Walton &amp; Cotton Club. Probably compiled sometime before 1803.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_844ea3da4c4be17968ece8d878533bb9">
+                     <head>Scope and Contents</head>
+                     <p>10 p. <lb/> Accompanied by an autograph note <lb/> stating the authenticity of the <lb/> manuscript and signed by W[illiam] <lb/> Dunn, 22 Charlotte Street, Bedford <lb/> Square, May 9, 1814. <lb/> Bound by Sangorski and Sutcliffe in <lb/> full green morocco with special <lb/> title-page, transcript, and extract <lb/> of a description of the manuscript <lb/> which appeared in The Field, Sept. <lb/> 28, 1907. <lb/> Gift, 1947.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_729301c5602fa5e13999cf980f91d6fd">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref93">See: Volume 3</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>THE SCHOOL FOR SCANDAL: manuscript made by four copyists with numerous corrections in Sheridan's hand and a note signed by him, submitting the play for licensing to William Chetwynd early in 1777.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_d15c482309f440b335874b2cef71473e">
+                     <head>Scope and Contents</head>
+                     <p>140 p. 19 x 24 cm. <lb/> With David Garrick's Prologue, and <lb/> George Colman's Epilogue. <lb/> AN signed George Chetwynd, on fly- <lb/> leaf. Grandon Hall, [England] Sept. <lb/> 10, 1834. <lb/> This manuscript was damaged by fire <lb/> in the bookbinding establishment of <lb/> Fairburn, on February 26, 1834; the <lb/> leaves of the ms were subsequently <lb/> inlaid and bound in blind tooled <lb/> russia with the arms of Sir George <lb/> Chetwynd stamped on front and back <lb/> covers. <lb/> Three engraved portraits (2 of <lb/> Sheridan and 1 of Mrs. Frances <lb/> Abington) and several contemporary <lb/> newspaper clippings bound in as <lb/> preliminary leaves. <lb/> Autographs of Wm. Chetwynd and <lb/> Frances Brookes; bookplates of Sir <lb/> George Chetwynd, Robert J. Collier, <lb/> and Augustin Daly. <lb/> Gift, 1947.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_16678238193b6d467092b3c018e7928f">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref95">See: Volume 4</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>"THE SCHOOL FOR SCANDAL: A Comedy. As perform'd at the Theatre Royal Drury Lane...1777" Manuscript copy in an unidentified handwriting, probably used as a promptbook. The notes of authorship at the head of the "Prologue" and of the "Epilogue" are in Sheridan's autograph. Formerly the property of Albinia Bertie Hobart, Countess of Buckinghamshire, with her signature, "Albinia Buckinghamshire".</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_f353da6db29362dc4b0636fbcd27c09f">
+                     <head>Scope and Contents</head>
+                     <p>Bound in three-quarter red morocco. <lb/> p. i-iv; 1-215; [i-ii]. <lb/> Purchase, 1936.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_6afeb7c94ddad29a4afa34feb893ca5a">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref97">See: Volume 5</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>THE SCHOOL FOR SCANDAL: manuscript copy in a contemporary unidentified hand.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_1437041fb763d091227a15f53bd3cff0">
+                     <head>Scope and Contents</head>
+                     <p>199 ff. 22.5 cm. <lb/> With David Garrick's Prologue and <lb/> George Colman's Epilogue. <lb/> The name of the former owner, <lb/> Charles Laurence, is lettered in a <lb/> Gothic hand on flyleaf. <lb/> Bound in polished calf. <lb/> Gift, 1951.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_9ca905745b0c2b68137b7ff24ceba130">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref99">See: Volume 6</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>THE SCHOOL FOR SCANDAL: Manuscript copy, written in a contemporary hand.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_7bda20b9b9b86fbaa47c4d68a4ee3a8b">
+                     <head>Scope and Contents</head>
+                     <p>141 folio l. written on one side of <lb/> the paper. <lb/> The paper is watermarked 1795. <lb/> Gift, 1932.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_429d8405c538c92cc4247532f03d71b0">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref101">See: Volume 7</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+            </c>
+         </c>
+         <c id="ref78" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <c id="ref79" level="subseries">
+               <did>
+                  <unittitle>SHERIDAN, RICHARD BRINSLEY BUTLER</unittitle>
+               </did>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>ALGEBRA 1769: autograph manuscript <lb/> notebook kept by Sheridan while a <lb/> student at Harrow.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_07b1030d2abec6fba30fd12d3b124442">
+                     <head>Scope and Contents</head>
+                     <p>146 p. 16 x 19.5 cm. Bound in <lb/> contemporary vellum. Lettered on <lb/> spine: Alg. Vol I. R. B. S. <lb/> "Charles Brinsley, the son of <lb/> Sheridan by his second marriage, <lb/> has recorded that his father left <lb/> behind him 'six copybooks each <lb/> filled with notes and references to <lb/> mathematics, carefully written by <lb/> Mr. S. at an early age'..." <lb/> Gift, 1947.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_beb8b615ec3c51bba79fecdf377977d0">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref103">See: Volume 8</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>MEMORANDUM FOR THE PRIVATE BOXES AT DRURY LANE THEATRE: autograph manuscript.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_9cb0d5855a27bbc21f57d87fe48b78e8">
+                     <head>Scope and Contents</head>
+                     <p>1 p. <lb/> Note on verso of second leaf, in an <lb/> unidentified hand: "Mr. Sheridans <lb/> memorandum...made at Hommenley in <lb/> Janry 1797" <lb/> Accompanied by two floor plans, <lb/> entitled "Design for an additional <lb/> private box and setting back the <lb/> boxes" and "Plan of the orchestra <lb/> boxes." <lb/> Gift, 1951.</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_20f2616ef476818643d4b7b3538cf5ea">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref105">See: Volume 9</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>Notes for a speech on the Volunteers, made before the House of Commons: autograph manuscript, [London]</unittitle>
+                     <unitdate type="inclusive">[1803 Aug 10]</unitdate>
+                     <container label="Mixed Materials (39002099287584)"
+                                id="aspace_1645c57006cec968c45c42c06745d211"
+                                type="box">1</container>
+                     <container id="aspace_84dfe56124e6f8cded7d2966f1d964e2"
+                                type="folder"
+                                parent="aspace_1645c57006cec968c45c42c06745d211">19</container>
+                  </did>
+                  <scopecontent id="aspace_31ce4be215adf9cda74489ef6e138e13">
+                     <head>Scope and Contents</head>
+                     <p>3 p. 9-12 cm. <lb/> Speech published in Speeches of <lb/> Sheridan, London, Patrick Martin, <lb/> 1816; V, 240. <lb/> Purchase, 1955.</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c id="ref88" level="series">
+            <did>
+               <unittitle>Volumes</unittitle>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref89" level="file">
+               <did>
+                  <unittitle>THE CARAVAN: manuscript play in an unidentified hand with alterations in the hand of Sheridan.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287592)"
+                             id="aspace_abf3b1d22dfeb21f1046ae977d1bb90e"
+                             type="box">Volume 1</container>
+               </did>
+               <scopecontent id="aspace_8bbbba0c8ee28c93b2bc87b20cbcec21">
+                  <head>Scope and Contents</head>
+                  <p>40 p. 15 x 23.5 cm. Bound in three- <lb/> quarter green leather. <lb/> Autograph of J.W. Connolly, Oct. 12, <lb/> 1858. <lb/> Gift, 1947.</p>
+               </scopecontent>
+            </c>
+            <c id="ref91" level="file">
+               <did>
+                  <unittitle>THE CRITIC, OR A TRAGEDY REHEARS'D: manuscript prompt copy in an unidentified hand, with a few manuscript corrections by Sheridan.</unittitle>
+                  <unitdate type="inclusive">[1781?]</unitdate>
+                  <container label="Mixed Materials (39002099287600)"
+                             id="aspace_63400bfe815d57d390a11a9b56104d3f"
+                             type="box">Volume 2</container>
+               </did>
+               <scopecontent id="aspace_59b69976ca773abe9ea402a93e34c8ec">
+                  <head>Scope and Contents</head>
+                  <p>124 p. 23 cm. <lb/> Presentation inscription from <lb/> Sheridan to Mrs. Crewe; bookplate <lb/> of Sophie Hall-Walker. <lb/> Bound in 3/4 green morocco. <lb/> Purchase, 1954.</p>
+               </scopecontent>
+            </c>
+            <c id="ref93" level="file">
+               <did>
+                  <unittitle>PISCATORY PARTY. IN COMMEMORATION OF ISAAC WALTON. Autograph manuscript, signed, of the rules and regulations drawn up by Sheridan and presented to the Walton &amp; Cotton Club. Probably compiled sometime before 1803.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287618)"
+                             id="aspace_5dcf8dbf65a45dc2c845fc0676775778"
+                             type="box">Volume 3</container>
+               </did>
+               <scopecontent id="aspace_53382aa0f26a77fba36bef0efe85534a">
+                  <head>Scope and Contents</head>
+                  <p>10 p. <lb/> Accompanied by an autograph note <lb/> stating the authenticity of the <lb/> manuscript and signed by W[illiam] <lb/> Dunn, 22 Charlotte Street, Bedford <lb/> Square, May 9, 1814. <lb/> Bound by Sangorski and Sutcliffe in <lb/> full green morocco with special <lb/> title-page, transcript, and extract <lb/> of a description of the manuscript <lb/> which appeared in The Field, Sept. <lb/> 28, 1907. <lb/> Gift, 1947.</p>
+               </scopecontent>
+            </c>
+            <c id="ref95" level="file">
+               <did>
+                  <unittitle>THE SCHOOL FOR SCANDAL: manuscript made by four copyists with numerous corrections in Sheridan's hand and a note signed by him, submitting the play for licensing to William Chetwynd early in 1777.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287626)"
+                             id="aspace_9eedd520647739fea438cd0a6a89c608"
+                             type="box">Volume 4</container>
+               </did>
+               <scopecontent id="aspace_7845c6e6afa0f1525b87d43591e88e8b">
+                  <head>Scope and Contents</head>
+                  <p>140 p. 19 x 24 cm. <lb/> With David Garrick's Prologue, and <lb/> George Colman's Epilogue. <lb/> AN signed George Chetwynd, on fly- <lb/> leaf. Grandon Hall, [England] Sept. <lb/> 10, 1834. <lb/> This manuscript was damaged by fire <lb/> in the bookbinding establishment of <lb/> Fairburn, on February 26, 1834; the <lb/> leaves of the ms were subsequently <lb/> inlaid and bound in blind tooled <lb/> russia with the arms of Sir George <lb/> Chetwynd stamped on front and back <lb/> covers. <lb/> Three engraved portraits (2 of <lb/> Sheridan and 1 of Mrs. Frances <lb/> Abington) and several contemporary <lb/> newspaper clippings bound in as <lb/> preliminary leaves. <lb/> Autographs of Wm. Chetwynd and <lb/> Frances Brookes; bookplates of Sir <lb/> George Chetwynd, Robert J. Collier, <lb/> and Augustin Daly. <lb/> Gift, 1947.</p>
+               </scopecontent>
+            </c>
+            <c id="ref97" level="file">
+               <did>
+                  <unittitle>"THE SCHOOL FOR SCANDAL: A Comedy. As perform'd at the Theatre Royal Drury Lane...1777" Manuscript copy in an unidentified handwriting, probably used as a promptbook. The notes of authorship at the head of the "Prologue" and of the "Epilogue" are in Sheridan's autograph. Formerly the property of Albinia Bertie Hobart, Countess of Buckinghamshire, with her signature, "Albinia Buckinghamshire".</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287634)"
+                             id="aspace_e65f20b401ba131cc336cce70eac17a9"
+                             type="box">Volume 5</container>
+               </did>
+               <scopecontent id="aspace_0bb105def21459c2c1e48380d8b7cc0c">
+                  <head>Scope and Contents</head>
+                  <p>Bound in three-quarter red morocco. <lb/> p. i-iv; 1-215; [i-ii]. <lb/> Purchase, 1936.</p>
+               </scopecontent>
+            </c>
+            <c id="ref99" level="file">
+               <did>
+                  <unittitle>THE SCHOOL FOR SCANDAL: manuscript copy in a contemporary unidentified hand.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287642)"
+                             id="aspace_5ccb4479d3bb97c5ec83327875bdcb87"
+                             type="box">Volume 6</container>
+               </did>
+               <scopecontent id="aspace_dfd9e8aa6acc51c29326e6381d7af869">
+                  <head>Scope and Contents</head>
+                  <p>199 ff. 22.5 cm. <lb/> With David Garrick's Prologue and <lb/> George Colman's Epilogue. <lb/> The name of the former owner, <lb/> Charles Laurence, is lettered in a <lb/> Gothic hand on flyleaf. <lb/> Bound in polished calf. <lb/> Gift, 1951.</p>
+               </scopecontent>
+            </c>
+            <c id="ref101" level="file">
+               <did>
+                  <unittitle>THE SCHOOL FOR SCANDAL: Manuscript copy, written in a contemporary hand.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099289077)"
+                             id="aspace_bca469905600c86250b7ac0993f54ff8"
+                             type="box">Volume 7</container>
+               </did>
+               <scopecontent id="aspace_3f88e660bcc77cf7def3eb9087da8fd8">
+                  <head>Scope and Contents</head>
+                  <p>141 folio l. written on one side of <lb/> the paper. <lb/> The paper is watermarked 1795. <lb/> Gift, 1932.</p>
+               </scopecontent>
+            </c>
+            <c id="ref103" level="file">
+               <did>
+                  <unittitle>ALGEBRA 1769: autograph manuscript notebook kept by Sheridan while a student at Harrow.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099287659)"
+                             id="aspace_417e8b215afcb95fd3d28b3e68080e81"
+                             type="box">Volume 8</container>
+               </did>
+               <scopecontent id="aspace_06688227c8809ec32d93ceb6effbdb26">
+                  <head>Scope and Contents</head>
+                  <p>146 p. 16 x 19.5 cm. Bound in <lb/> contemporary vellum. Lettered on <lb/> spine: Alg. Vol I. R. B. S. <lb/> "Charles Brinsley, the son of <lb/> Sheridan by his second marriage, <lb/> has recorded that his father left <lb/> behind him 'six copybooks each <lb/> filled with notes and references to <lb/> mathematics, carefully written by <lb/> Mr. S. at an early age'..." <lb/> Gift, 1947.</p>
+               </scopecontent>
+            </c>
+            <c id="ref105" level="file">
+               <did>
+                  <unittitle>MEMORANDUM FOR THE PRIVATE BOXES AT DRURY LANE THEATRE: autograph manuscript.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099289085)"
+                             id="aspace_75f8b817e11aebc38aec2e64932f3e5c"
+                             type="box">Volume 9</container>
+               </did>
+               <scopecontent id="aspace_566ddc550fc71e05b5ebc807f97c1a44">
+                  <head>Scope and Contents</head>
+                  <p>1 p. <lb/> Note on verso of second leaf, in an <lb/> unidentified hand: "Mr. Sheridans <lb/> memorandum...made at Hommenley in <lb/> Janry 1797" <lb/> Accompanied by two floor plans, <lb/> entitled "Design for an additional <lb/> private box and setting back the <lb/> boxes" and "Plan of the orchestra <lb/> boxes." <lb/> Gift, 1951.</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

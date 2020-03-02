@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+   <eadid url="http://doddcenter.uconn.edu/asc/findaids/Thermos/MSS19890098.html" mainagencycode="US-CtU" countrycode="US">MSS19890098</eadid>
+<filedesc>
+  <titlestmt>
+            <titleproper>Thermos Company Collection</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Tima Smith.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2002  University of Connecticut</publisher>
+            <date type="publication">June 18, 2002</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in June 2002.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS19890098 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Records</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>
+         </repository>
+         <origination label="Creator:">
+            <corpname encodinganalog="110">Thermos Company Employees.</corpname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Thermos Company Collection.</unittitle>
+         <unitdate label="Dates:">1918-1987.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">10 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">In 1906, William Walker, an American businessman,visiting Germany, learned of the invention of the vacuum bottle.  He immediately began to import and market the new product in the United States.  The following year, Walker created the American Thermos Bottle Company and began producing vacuum bottles in a Brooklyn, New York, factory.  The product met with such success that the expanded New York plant proved inadequate within the first five years.  Walker moved the Thermos Company to Norwich, Connecticut, in 1913.  Five years later, the company had nearly doubled its size, and after World War II a second plant was opened in Norwich's Taftville section.  The Thermos Company became Norwich's largest employer, with more than 1000 workers.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS19890098</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- COLLECTION METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>History:</head>
+         <p>In 1906, <persname>William Walker</persname>, an American businessman visiting <geogname>Germany</geogname>, learned of the invention of the vacuum bottle.  He immediately began to import and market the new product in the United States.  The following year, Walker created the <corpname>American Thermos Bottle Company</corpname> and began producing vacuum bottles in a <geogname>Brooklyn, New York</geogname>, factory.  The product met with such success that the expanded New York plant proved inadequate within the first five years.  Walker moved the <corpname>Thermos Company</corpname> to <geogname>Norwich, Connecticut</geogname>, in 1913.  Five years later, the company had  nearly doubled its size, and after World War II a second plant was opened in Norwich's  Taftville section.  The Thermos Company became Norwich's largest employer, with more than  1000 workers.</p>
+         <p>In 1969, the Thermos Company was sold to <corpname>Household International, Inc.</corpname>, and in 1984, warehousing and manufacturing at the original plant in the  Laurel Hill section of Norwich was consolidated into the Taftville location.  In 1986,  Household International announced that its Thermos division would be relocated to <geogname>Freeport, Illinois</geogname>.  Thermos production in Norwich ended in 1988.</p>
+         <chronlist>
+            <head>Chronology:</head>
+            <listhead>
+               <head01>Date</head01>
+               <head02>Event</head02>
+            </listhead>
+            <chronitem>
+               <date>1643</date>
+               <event>First vacuum created by Italian physicist, Torricelli, while experimenting.</event>
+            </chronitem>
+            <chronitem>
+               <date>1892</date>
+               <event>First use of vacuum as means of temperature retention by James Dewar, English scientist who used vacuum flasks in laboratory.</event>
+            </chronitem>
+            <chronitem>
+               <date>1903</date>
+               <event>"Dewar Flask" idea patented for domestic use by two Germans.</event>
+            </chronitem>
+            <chronitem>
+               <date>1904</date>
+               <event>Contest conducted by German newspapers to name vacuum bottle.  Named "Thermos" (from Greek work therme meaning heat) by Munich resident.</event>
+            </chronitem>
+            <chronitem>
+               <date>1906</date>
+               <event>William B. Walker secured patent rights and trademark from "Thermos" vacuum bottles, imported them from Germany and sold them in the United States.</event>
+            </chronitem>
+            <chronitem>
+               <date>1907</date>
+               <event>The American Thermos Bottle Company incorporated in Portland, Maine (1/31/07).</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>"Thermos" vacuum bottles first produced in United States in Brooklyn, New York.</event>
+            </chronitem>
+            <chronitem>
+               <date>1908</date>
+               <event>The American Thermos Bottle Company of New York organized (9/23/08).</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>National advertising begun in The Saturday Evening Post and widespread national publicity popularized "Thermos" vacuum bottles.</event>
+            </chronitem>
+            <chronitem>
+               <date>1912</date>
+               <event>Thermos negotiates to move to city of Norwich, Connecticut, and production begins in early 1913.</event>
+            </chronitem>
+            <chronitem>
+               <date>1919</date>
+               <event>King-Seeley Corporation formed.</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>Plants opened in Japan and Huntington, West Virginia.</event>
+            </chronitem>
+            <chronitem>
+               <date>1920</date>
+               <event>Thermos Limited of London purchased.</event>
+            </chronitem>
+            <chronitem>
+               <date>1923</date>
+               <event>Company reorganized and new era of expansion begun.</event>
+            </chronitem>
+            <chronitem>
+               <date>1925</date>
+               <event>Thermos merges with <corpname>Icy-Hot Bottle Company</corpname> of <geogname>Cincinnati, Ohio</geogname>.</event>
+            </chronitem>
+            <chronitem>
+               <date>1933</date>
+               <event>Automation and mass production methods begun.</event>
+            </chronitem>
+            <chronitem>
+               <date>1942</date>
+               <event>98 percent of production tables for military usage during World War II.</event>
+            </chronitem>
+            <chronitem>
+               <date>1946</date>
+               <event>Taftville (<geogname>Norwich, Connecticut</geogname>) plant begins operation.</event>
+            </chronitem>
+            <chronitem>
+               <date>1952</date>
+               <event>Thermos acquires <corpname>Plastene Corporation</corpname>.</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>First character school lunch kits produced.</event>
+            </chronitem>
+            <chronitem>
+               <date>1955</date>
+               <event>Thermos merges with <corpname>Hemp &#x0026; Company</corpname> which produces jug and chest lines.</event>
+            </chronitem>
+            <chronitem>
+               <date>1956</date>
+               <event>Name changed to "<corpname>The American Thermos Products Company</corpname>."</event>
+            </chronitem>
+            <chronitem>
+               <date>1958</date>
+               <event>
+                  <geogname>Anaheim, California</geogname>, plant begins operation.</event>
+            </chronitem>
+            <chronitem>
+               <date>1960</date>
+               <event>Thermos merges with <corpname>King-Seeley Corporation</corpname> and enters tent,  camp stove and lantern field.  Company adopts name of "Thermos Division of King-Seeley  Thermos Company." (12/9/60)</event>
+            </chronitem>
+            <chronitem>
+               <date>1962</date>
+               <event>Thermos Division sells off <corpname>Plastene Corporation</corpname>.</event>
+            </chronitem>
+            <chronitem>
+               <date>1968</date>
+               <event>
+                  <corpname>King-Seeley Thermos Company</corpname> becomes part of <corpname>Household Finance Corporation</corpname>.</event>
+            </chronitem>
+            <chronitem>
+               <date>1970</date>
+               <event>Dinex insulated ware and institutional market acquired.</event>
+            </chronitem>
+            <chronitem>
+               <date>1971</date>
+               <event>Metallized Products Division of the <corpname>Norton Company</corpname> acquired by <corpname>King-Seeley Thermos Company</corpname>.</event>
+            </chronitem>
+            <chronitem>
+               <date>1977</date>
+               <event>Tent orders no longer accepted (2/1/77).</event>
+            </chronitem>
+            <chronitem>
+               <date>1981</date>
+               <event>
+                  <corpname>Household International, Inc.</corpname>, became the holding company for the diversified interests of <corpname>Household Finance Corporation</corpname> (6/26/81).
+</event>
+            </chronitem>
+            <chronitem>
+               <date>1982</date>
+               <event>
+                  <corpname>Household Manufacturing</corpname> was established to consolidate the management structures of <corpname>King-Seeley Thermos Company</corpname>, acquired in 1968, and <corpname>Wallace Murray Corporation</corpname>, acquired in 1981.</event>
+            </chronitem>
+            <chronitem>
+               <date>1984</date>
+               <event>Anaheim plant sold (4/84).</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>Macomb closed (5/84).</event>
+            </chronitem>
+            <chronitem>
+               <date/>
+               <event>Glass manufacturing ceased at Laurel Hill (Norwich, Connecticut) (9/28/84).</event>
+            </chronitem>
+            <chronitem>
+               <date>1985</date>
+               <event>Institutional Dinex business line sold to <corpname>Dinex International, Inc.</corpname>-B.M. Taintor (7/30/85).
+</event>
+            </chronitem>
+            <chronitem>
+               <date>1986</date>
+               <event>Announcement of merger of Thermos and Structo operations to be headquartered in <geogname>Freeport, Illinois</geogname> (11/18/86).</event>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content:</head>
+         <p>The records in the collection consist of materials gathered by former employees of the <corpname>Thermos Company</corpname> in an effort to document the history of the company after its closed in 1988.  It consists, in large part, of employee photographs, company newsletters and annual reports, and memorabilia.</p>
+      </scopecontent>
+      <arrangement encodinganalog="351$a" id="a4">
+         <head>Organization:</head>
+         <p>
+            <emph render="bold">Series I: </emph>Annual Reports (1928-1955) contains reports, with some gaps, arranged chronologically.</p>
+         <p>
+            <emph render="bold">Series II: </emph>Newsletters (1943-1987) contains various Thermos Company publications arranged chronologically.</p>
+         <p>
+            <emph render="bold">Series III: </emph>Company History (undated, 1984) contains materials such as a history of the company, maps, newspaper clippings, and publicity city Richard Byrd's use of Thermos Company products on his arctic expedition.  Pieces of memorabilia, such as visitor pins, employee service pins, and a sample of glass from the last batch produced at the Norwich plant, are included in this series.  The materials are arranged alphabetically.</p>
+         <p>
+            <emph render="bold">Series IV: </emph>Catalogs/Price Lists (1918-1940) contains catalogs and price lists arranged chronologically.</p>
+         <p>
+            <emph render="bold">Series V: </emph>Photographs (undated, 1946-1969) consists of photographs taken by the Thermos Company photographer of the Thermos plant, its facilities, and employees, as well as informal snapshots of Thermos outings.  The photographs have been arranged by subject under such headings as Awards/Presentations, Employee Outings, Employees, Machinery, Production, Products, and Tours.  Also included in this series are oversize photographs of the Thermos plant and employees, a display letter from Richard Byrd, as well as a videotape of an oral history project conducted by the Thermos Company.  Except for the oversize materials, the series is arranged alphabetically.</p>
+         <p>
+            <emph render="bold">Series VI: </emph>Negatives (undated, 1950-1970) contains packages of negatives, many of them identified.</p>
+      </arrangement>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material:</head>
+         <p>Archives and Special Collections has a substantial collection of materials pertaining to Connecticut businesses.  See especially, Slater Company Records for Norwich area businesses.  For detailed information on these collections please contact the <extref href="http://doddcenter.uconn.edu/asc/dodda2z/curatorinfo.cfm?curatorinfo=4">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial><!-- END COLLECTION METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">xxx</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local">American Thermos Company.</corpname>
+            <corpname encodinganalog="710" source="local">American Thermos Products Company.</corpname>
+            <corpname encodinganalog="710" source="local">Household International, Inc.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">Manufactures--Connecticut.</subject>
+            <subject encodinganalog="650" source="local">Thermos bottles.</subject>
+            <subject encodinganalog="650" source="local">Connecticut--Business, industry and trades--Thermos bottles.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Photographs.</genreform>
+            <genreform encodinganalog="655" source="local">Negatives.</genreform>
+            <genreform encodinganalog="655" source="local">News releases.</genreform>
+            <genreform encodinganalog="655" source="local">Ephemera.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">Manufacturing.</occupation>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access:</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use:</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information:</head>
+         <p>The materials in the collection were donated to the University of
+Connecticut Libraries in 1989/1990 by former employees of the Thermos 
+Company in order to insure that some of the history of the company would be preserved in Connecticut.  The carafe was donated in June 2007 by Ms. <persname>Andrea Colwell</persname> of <geogname>Manistique, Michigan</geogname>.</p>
+      </acqinfo>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation:</head>
+         <p>[Item, Folder #], Thermos Company Collection.  Archives and Special
+Collections at the Thomas J. Dodd Research Center, University of 
+Connecticut Libraries.</p>
+      </prefercite><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description/Box and Folder Listing</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I:  Annual Reports,<unitdate>1928-1955</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>
+                     <unitdate>1928</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>
+                     <unitdate>1930</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>
+                     <unitdate>1931</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>
+                     <unitdate>1933</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>
+                     <unitdate>1934</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>
+                     <unitdate>1935</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>
+                     <unitdate>1937</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>
+                     <unitdate>1938</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>
+                     <unitdate>1940</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>
+                     <unitdate>1941</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>
+                     <unitdate>1942</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>
+                     <unitdate>1943</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>
+                     <unitdate>1945</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>
+                     <unitdate>1946</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>
+                     <unitdate>1947</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>
+                     <unitdate>1950</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>
+                     <unitdate>1951</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>
+                     <unitdate>1952</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>
+                     <unitdate>1953</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>
+                     <unitdate>1954</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle/>
+            </did>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Newsletters,<unitdate>1943-1987</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="italic">The Thermos News</emph>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">2:21</container>
+                     <unittitle>
+                        <unitdate>1943 May - 1945 March</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:22</container>
+                     <unittitle>
+                        <unitdate>1945 April - 1946 March</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:23</container>
+                     <unittitle>
+                        <unitdate>1946 April - 1950 January</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:24</container>
+                     <unittitle>
+                        <unitdate>1950 February - 1952 December</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:25</container>
+                     <unittitle>
+                        <unitdate>1953 January - 1956 December</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:26</container>
+                     <unittitle>
+                        <unitdate>1957 January - 1961 December</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:27</container>
+                     <unittitle>
+                        <unitdate>1962 January - 1965 December</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:28</container>
+                     <unittitle>
+                        <unitdate>1966 March - 1970 April</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="italic">Thermos Reflections</emph>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">2:29</container>
+                     <unittitle>
+                        <unitdate>1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:30</container>
+                     <unittitle>
+                        <unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:31</container>
+                     <unittitle>
+                        <unitdate>1978</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:32</container>
+                     <unittitle>
+                        <unitdate>1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:33</container>
+                     <unittitle>
+                        <unitdate>1981</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:34</container>
+                     <unittitle>
+                        <unitdate>1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:35</container>
+                     <unittitle>
+                        <unitdate>1983</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:36</container>
+                     <unittitle>
+                        <unitdate>1984</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:37</container>
+                     <unittitle>
+                        <unitdate>1985</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">2:38</container>
+                     <unittitle>
+                        <unitdate>1986</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="italic">Spotlight</emph>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">2:39</container>
+                     <unittitle>
+                        <unitdate>1987 January</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:40-41</container>
+                  <unittitle>Newsletter layouts, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III:  Company History, <unitdate>undated, 1984</unitdate> [undated except where indicated]</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">3:42</container>
+                  <unittitle>Blueprint</unittitle>
+               </did>
+            </c02>
+<c02 level="file">
+   <did>
+	<container type="Box">14</container>
+	<container type="Folder"></container>
+	<unittitle>Carafe manufactured at Norwich, Connecticut, plant, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+
+            <c02>
+               <did>
+                  <container type="Box">3:43</container>
+                  <unittitle>Employee notices</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:44</container>
+                  <unittitle>Equipment agreement</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:45</container>
+                  <unittitle>History of the company</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:46</container>
+                  <unittitle>Letterhead</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:47</container>
+                  <unittitle>Mailing envelopes</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:48</container>
+                  <unittitle>Map</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:49</container>
+                  <unittitle>Memorabilia</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:50</container>
+                  <unittitle>National Register of Historic Places application</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:51</container>
+                  <unittitle>Newspaper clippings, <unitdate>1984</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:52</container>
+                  <unittitle>Publicity-Byrd Arctic Expedition</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:53</container>
+                  <unittitle>Quarter Century Club</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:54</container>
+                  <unittitle>Season's Greetings</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:55</container>
+                  <unittitle>Special announcement</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4</container>
+                  <unittitle>Glass from last batch produced at Norwich plant</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">5:56</container>
+                  <unittitle>Employee service pins</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">5:57</container>
+                  <unittitle>Hotel nameplates</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">5:58</container>
+                  <unittitle>Thermos shopping bag</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">5:59</container>
+                  <unittitle>Visitor pins</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series IV:  Catalogs/Price Lists, <unitdate>1918-1940</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>Catalogs</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">6:60</container>
+                     <unittitle>
+                        <unitdate>1918-1920</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:61</container>
+                     <unittitle>
+                        <unitdate>1920</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:62</container>
+                     <unittitle>
+                        <unitdate>1924</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:63</container>
+                     <unittitle>
+                        <unitdate>1926</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:64</container>
+                     <unittitle>
+                        <unitdate>1927</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:65</container>
+                     <unittitle>
+                        <unitdate>1930</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:66</container>
+                     <unittitle>
+                        <unitdate>1930-1940</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:67</container>
+                     <unittitle>
+                        <unitdate>1933</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:68</container>
+                     <unittitle>
+                        <unitdate>1936</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">6:69</container>
+                     <unittitle>
+                        <unitdate>1938-1939</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Price lists</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">6:70</container>
+                     <unittitle>
+                        <unitdate>1924-1940</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series V: Photographs, <unitdate>undated, 1946-1969</unitdate> [undated except where indicated]</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">7:71</container>
+                  <unittitle>Album</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">7:72</container>
+                  <unittitle>Awards/Presentations</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">7:73</container>
+                  <unittitle>Cafeteria</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Employee activities</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">7:74</container>
+                     <unittitle>Bingo</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">7:75</container>
+                     <unittitle>Dinner dances</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">7:76</container>
+                     <unittitle>Military</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">7:77</container>
+                     <unittitle>Outings-Christmas</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">7:78-82</container>
+                     <unittitle>Outings-Summer</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">7:83</container>
+                     <unittitle>Variety shows</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">7:84</container>
+                  <unittitle>Employees</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:85</container>
+                  <unittitle>Employees</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:86</container>
+                  <unittitle>Executives</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Facility</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">8:87</container>
+                     <unittitle>Exterior</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">8:88</container>
+                     <unittitle>Interior</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:89</container>
+                  <unittitle>Flood</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:90</container>
+                  <unittitle>Glass tank cold repair, <unitdate>1964</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:91</container>
+                  <unittitle>Glass tank rebuild, <unitdate>1961</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:92</container>
+                  <unittitle>Glass tank rebuild, <unitdate>1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:93</container>
+                  <unittitle>Infirmary/Red Cross</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:94</container>
+                  <unittitle>Machinery</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:95</container>
+                  <unittitle>Meetings</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:96</container>
+                  <unittitle>Unidentified</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:97</container>
+                  <unittitle>Mounted prints</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:98</container>
+                  <unittitle>Office</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:99</container>
+                  <unittitle>Oral history project (video tape recording)</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">8:100-102</container>
+                  <unittitle>Production</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">9:103-107</container>
+                  <unittitle>Production</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">9:108</container>
+                  <unittitle>Production show</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">9:109</container>
+                  <unittitle>Products</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">9:110</container>
+                  <unittitle>Products</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">10:111</container>
+                  <unittitle>Sales conference, <unitdate>1946</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">10:112</container>
+                  <unittitle>Show (slides)</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">10:113</container>
+                  <unittitle>Tours</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">10:114</container>
+                  <unittitle>Warehouse</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>Oversize items</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box">11:115</container>
+                     <unittitle>Letter from Admiral Richard Byrd</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box">11:116</container>
+                     <unittitle>Photographs</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series VI:  Negatives, <unitdate>undated, 1950-1970</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">12</container>
+                  <unittitle>Negatives, <unitdate>1950-1970</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">13</container>
+                  <unittitle>Negatives, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+   </archdesc>
+</ead>

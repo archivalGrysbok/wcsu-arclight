@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.barney">beinecke.barney</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Danford Barney Papers
+ </titleproper>
+            <titleproper type="filing">Barney (Danford) Papers</titleproper>
+            <author>by Beinecke staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2011</date>
+            <num>YCAL MSS 466</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday January 23, 2019 at 04:42</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Danford Barney papers</unittitle>
+         <unitid>YCAL MSS 466</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">3.13</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(9 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1877/1953">1877-1953</unitdate>
+         
+         <abstract id="aspace_45138614e11740455661eecd46c8dd24">The Danford Barney papers contains correspondence, drafts of writings, photographs, and other material relating to poet and photographer Danford Barney. Correspondence in the collection contains letters from many Yale-affiliated faculty, authors, and collaborators, including Stephen Vincent Benét, William Rose Benét, Henry Seidel Canby, John Farrar, Brian Hooker, Benjamin R. C. Low, William Lyon Phelps, and Thornton Wilder, as well as authors who commented on Barney's work, such as John Hall Wheelock, and authors whose work interested him, such as A. E. Housman and E. A. Robinson. Writings contains drafts and fragments for several manuscripts, including the original autograph drafts, corrected, of the early poems published as Dust of Stars (1916), as well as typescript fair copies of later, unpublished collections of poems, "Silly Sagas of the Sea" and "Songs of Sorts." Other materials include photographic prints by Barney, identification papers, biographical and genealogical information, and clippings and printed ephemera.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/nr98040414"
+                      rules="aacr"
+                      source="naf">
+               Barney, Danford, 1892-1952
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_22e1e5ea36264e0272d955d77c83070f">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Mrs. Danford Barney, 1953, and bequest of Francis Hyde Bangs, 1964.</p>  
+      </acqinfo>
+      <custodhist id="aspace_39c06c08ab1416ffd61d88721fde7bc2">
+         <head>Custodial History</head>
+         <p>The photographs by Danford Barney housed in Oversize storage (boxes 4-8) were acquired by the library at the bequest of Francis Hyde Bangs in 1964. Following Barney's death in 1952, Dorothy Barney married long-time friend Francis Hyde Bangs. They remained married until her death in 1961. The photographs, presumably in their custody since 1952, were donated to the library along with Bangs's personal papers following his death.</p>  
+      </custodhist>
+      <accessrestrict id="aspace_ce2324a27409263b12faa47269383cca">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>Box 9 (nitrate negatives): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_515d334542ff40c9efd7f526323d0a41">
+         <head>Conditions Governing Use</head>
+         <p>The Danford Barney Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_335602114ef6dc372a6fcabc83872084">
+         <head>Preferred Citation</head>
+         <p>Danford Barney Papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <processinfo id="aspace_eaecc289202bac44e2a8938fd7a8f6ad">
+         <head>Processing Information</head>
+         <p>The collection received preliminary processing at the time of acquisition in 1953 and 1964. Further organization, rehousing, and description was carried out in 2011.</p>
+         <p>Formerly classed as Za Barney.</p>  
+      </processinfo>
+      <relatedmaterial id="aspace_bff6f5931981aedb534d11c4f0f7f8e1">
+         <head>Associated Materials</head>
+         <p>Additional photographic prints by Danford Barney can be found in the Bangs Family Papers (YCAL MSS 47).</p>  
+      </relatedmaterial>
+      <bioghist id="aspace_64b89403ea396a7917aaeecf9f1bf2a9">
+         <head>Danford Barney (1892-1952)</head>
+         <p>In the 1920s Danford Barney was associated with a group of young Yale poets that included Stephen Vincent Benét, Archibald MacLeish, Phelps Putnam, and John Farrar. Early in the decade, Barney published a literary magazine, <title type="simple" render="italic">
+               Parabalou
+            </title>, containing original poems by members of the group. Between 1916, when he graduated from Yale, and 1945, he published six volumes of his own poetry, including <title type="simple" render="italic">
+               Dust of Stars
+            </title>(1916), <title type="simple" render="italic">
+               Chords of Albireo
+            </title> (1920), <title type="simple" render="italic">
+               In the Comet's Hair
+            </title> (1921), <title type="simple" render="italic">
+               Sardonyx
+            </title>(1926), <title type="simple" render="italic">
+               Selected Poems Old and New
+            </title> (1942), and <title type="simple" render="italic">
+               Songs Not for Brides
+            </title>(1945).</p>
+         <p>In the First World War, Barney served with the Yale Mobile Hospital Unit, which was attached to American armies in the battles of Saint-Mihiel and Meuse-Argonne. From 1922 until 1930 Barney maintained a photographic studio in New York, where he made a series of portraits of authors and artists. He was twice married, first to Gertrude Wells, with whom he had three daughters, and later to Dorothy Bartlett.</p>
+         <p>Biographical information on Danford Barney taken from "DANFORD BARNEY JR., I CONNECTICUT POET, 59I." <title type="simple" render="italic">
+               New York Times (1923-Current file)
+            </title> 22 May 1952, ProQuest Historical Newspapers The New York Times (1851-2007), ProQuest. Web. (accessed 18 May 2011). Additional biographical information on Barney can be found in the essay by Francis Hyde Bang, "Danford Barney: Poet," <title type="simple" render="italic">
+               The Yale University Library Gazette
+            </title> 27, 4 (April 1953): 131-148.</p>  
+      </bioghist>
+      <scopecontent id="aspace_404e02c27901286cf70b444786a33fdf">
+         <head>Scope and Contents</head>
+         <p>The Danford Barney papers contains correspondence, drafts of writings, photographs, and other material relating to poet and photographer Danford Barney. Correspondence in the collection contains letters from many Yale-affiliated faculty, authors, and collaborators, including Stephen Vincent Benét, William Rose Benét, Henry Seidel Canby, John Farrar, Brian Hooker, Benjamin R. C. Low, William Lyon Phelps, and Thornton Wilder, as well as authors who commented on Barney's work, such as John Hall Wheelock, and authors whose work interested him, such as A. E. Housman and E. A. Robinson. Writings contains drafts and fragments for several manuscripts, including the original autograph drafts, corrected, of the early poems published as <title type="simple" render="italic">
+               Dust of Stars
+            </title> (1916), as well as fair typescript copies of later, unpublished collections of poems, "Silly Sagas of the Sea" and "Songs of Sorts." Other materials include photographic prints by Barney, identification papers, biographical and genealogical information, and clippings and printed ephemera.</p>  
+      </scopecontent>
+      <arrangement id="aspace_c3e0907da9c48011e0e63073768cc1eb">
+         <head>Arrangement</head>
+         <p>Organized into four series: I. Correspondence, 1877-1952. II. Writings, 1916-1953. III. Photographs, undated. IV. Other Material, 1896-1950.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85004341"
+                  source="lcsh">
+            American literature -- 20th Century
+         </subject>
+         <subject source="local">
+            Authors, American -- 20th Century -- Archives
+         </subject>
+         <subject source="local">
+            Poets, American -- 20th Century -- Archives
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300127104" source="aat">
+            Photographic prints
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101179"
+                  source="lcsh">
+            Photographers
+         </subject>
+         <occupation source="local">
+            Poets
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr98040414"
+                   rules="aacr"
+                   source="naf">
+            Barney, Danford, 1892-1952
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50007691"
+                   source="naf">
+            Benét, Stephen Vincent, 1898-1943
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50008106"
+                   rules="aacr"
+                   source="naf">
+            Benét, William Rose, 1886-1950
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50051945"
+                   source="naf">
+            Canby, Henry Seidel, 1878-1961
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86839418"
+                   source="naf">
+            Hooker, Brian, 1880-1946
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79141239"
+                   source="naf">
+            Housman, A. E. (Alfred Edward), 1859-1936
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81047608"
+                   rules="aacr"
+                   source="naf">
+            Low, Benjamin Robbins Curtis, 1880-1941
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50047693"
+                   rules="aacr"
+                   source="naf">
+            Phelps, William Lyon, 1865-1943
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80008798"
+                   rules="aacr"
+                   source="naf">
+            Robinson, Edwin Arlington, 1869-1935
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79077255"
+                   source="naf">
+            Wheelock, John Hall, 1886-1978
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79062874"
+                   source="naf">
+            Wilder, Thornton, 1897-1975
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref13" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1877-1952</unitdate>
+            </did>
+            <arrangement id="aspace_2c59dd93d8c6dca1324a74d203fe0ea2">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by last name.</p>
+            </arrangement>
+            <scopecontent id="aspace_7e8e3bfa0dd63a81ca823913d80f22ed">
+               <head>Scope and Contents</head>
+               <p>Series I. Correspondence consists chiefly of letters to Danford Barney from others. Correspondents include many Yale-affiliated faculty, authors, and collaborators, including Stephen Vincent Benét, his brother William Rose Benét, Henry Seidel Canby, John Farrar, Brian Hooker, Benjamin R. C. Low, William Lyons Phelps, and Thornton Wilder, as well as authors who either commented on Barney's work, such as John Hall Wheelock, or whose work interested him, such as A. E. Housman and E. A. Robinson.</p>
+            </scopecontent>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>List of letters addressed to Danford Barney</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_c2ea1a4ffa28beb4ce72a027cd04f2bf"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Adams, H. S.</unittitle>
+                  <unitdate type="inclusive">1923 February 21</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_373c90bd8d8281547a2bf8a619b18b0d"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Angell, James R.</unittitle>
+                  <unitdate type="inclusive">1924 May 15</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_288e771b389986bafdeee792df1ea267"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>Bates, Katharine Lee</unittitle>
+                  <unitdate type="inclusive">1925 July 11</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_84deac239bb7cfa2f3eda4c85ecffb9b"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Benét, Stephen Vincent</unittitle>
+                  <unitdate type="inclusive">[1920 September 13]</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_36e80d9aaccd062f422a2a3dc9f69a46"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Benét, William Rose</unittitle>
+                  <unitdate type="inclusive">1916, 1925</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_6047dd16e6ff7af7392655bade600de6"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Blashfield, Edwin Howland</unittitle>
+                  <unitdate type="inclusive">1923 April 19</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_b425faf07313148c75150c05d3cba875"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Brush, George de Forest</unittitle>
+                  <unitdate type="inclusive">1923 July 1</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_ce02897d69a7b2271b5020fd0bb756b2"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Bynner, Witter</unittitle>
+                  <unitdate type="inclusive">1942 October 29</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_364f56f6b8ebe1505361406cb071feb4"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Canby, Henry Seidel</unittitle>
+                  <unitdate type="inclusive">1924-1925</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_ed7e2f3f7dedf4586e650c1459caed98"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Chase, Joseph Cummings</unittitle>
+                  <unitdate type="inclusive">1942 May 27</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_90d925f32261199115f24e1153a6d694"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Cortissoz, Royal</unittitle>
+                  <unitdate type="inclusive">1923 April</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_cddf85e0dc1d37920032c4acec0caab2"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>Dodd, Lee Wilson</unittitle>
+                  <unitdate type="inclusive">1923 May 1</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_59791c4625e0ed86d4ef1b70bc8ef85e"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Drinkwater, John</unittitle>
+                  <unitdate type="inclusive">1925 July 25</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_98b9ee530a7b9c15323551f432a8e12f"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>Farrar, John</unittitle>
+                  <unitdate type="inclusive">1925 July 13</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_099ac9df26d7c8c309a2728c219048d0"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Frost, Robert</unittitle>
+                  <unitdate type="inclusive">1925 July 27</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_a7a769056330bc10c8b9658d5c4f1537"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Garland, Hamlin</unittitle>
+                  <unitdate type="inclusive">1924</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_16a94bdeb82907cc06ad2734b35958e5"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>George H. Doran Company</unittitle>
+                  <unitdate type="inclusive">1923 December 12</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_bec5bdd0419446e57442dba8134f3aeb"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Greenslet, Ferris</unittitle>
+                  <unitdate type="inclusive">1923 August 28</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_62b11b69ff1e0735b41e3065637f8829"
+                             type="box">1</container>
+               </did>
+               <scopecontent id="aspace_7f2a4fc670af0e1cd9c681c01a2365f0">
+                  <head>Scope and Contents</head>
+                  <p>Third-party letter to John Hall Wheelock</p>
+               </scopecontent>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>Hardy, Florence Emily</unittitle>
+                  <unitdate type="inclusive">1925 July 30</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_4a6f762cbd1a16378fd04d5e326fef54"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Hillyer, Robert</unittitle>
+                  <unitdate type="inclusive">[19]25 July 13</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_184d7318aba14fb1274211434170b45f"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>Hooker, Brian</unittitle>
+                  <unitdate type="inclusive">1919, 1941</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_2ac8c28d7d3f074421615e8915803819"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>Housman, A. E.</unittitle>
+                  <unitdate type="inclusive">1925 July 21</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_e072820e155fd51d31da3e261362ffcd"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Kilmer, Joyce</unittitle>
+                  <unitdate type="inclusive">1917 June 6</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_2cfd15d11a8939254f03b3e24ad6003e"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>Kirby, Rollin</unittitle>
+                  <unitdate type="inclusive">[19]41 January 17</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_d55d356918e207d090dbacf24bcc12a0"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>Low, Benjamin Robbins Curtis</unittitle>
+                  <unitdate type="inclusive">1916 May 11</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_f1ff3b325e5b83414adc8425044a5254"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>"M" general</unittitle>
+                  <unitdate type="inclusive">1919, 1922</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_80140b1ff3cdfa9b986b047fbe595686"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Martin, Edward S.</unittitle>
+                  <unitdate type="inclusive">1923 September 26</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_c35397d15ea360373f6ada3438fd4663"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Masefield, John</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_bf7e62dbde2d2c1dff472d96798fc51d"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>Morton, David</unittitle>
+                  <unitdate type="inclusive">1925 June 17</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_6f57f3fd0cee23c281c34b567c21967c"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>Mountbatten of Burman, Edwina Ashley Mountbatten</unittitle>
+                  <unitdate type="inclusive">[19]22 November 27</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_bdff2b93ad82872c9583c9df8885abd2"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Percy, William Alexander</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_6070439f0903d6a731b0d9f9db8dad5d"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Phelps, William Lyon</unittitle>
+                  <unitdate type="inclusive">1942 November 26</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_24a6804762517a2434366849e4e52afb"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>Robinson, E. A. (Edwin Arlington)</unittitle>
+                  <unitdate type="inclusive">1925 July 29</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_569b1ef979cb80f9a3321918cb0327ba"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Steele, Frederic Dorr</unittitle>
+                  <unitdate type="inclusive">1942 April 1</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_3798de951726a1edfcc6289d757699ed"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref51" level="file">
+               <did>
+                  <unittitle>Stokes, Anson Phelps</unittitle>
+                  <unitdate type="inclusive">1914 March 21</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_ab408dfbc93072c2fd15da090c3ec7b2"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Teasdale, Sara</unittitle>
+                  <unitdate type="inclusive">1925 July 29</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_012fb811336357063cba021c94db3119"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>[Tilton], Freeman</unittitle>
+                  <unitdate type="inclusive">1945, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_0c385dadef9d67892fc46c67bb1cdbef"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Vogue Company</unittitle>
+                  <unitdate type="inclusive">1922 November 25</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_f8ce8d0ea08c89e8794ce86f84664b7c"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Wagstaff, Blanche Shoemaker</unittitle>
+                  <unitdate type="inclusive">1914-1916, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_bf5891e5bbcbdb8804bf03f2b2522f04"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>Wheelock, John Hall</unittitle>
+                  <unitdate type="inclusive">1914-1945</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_0a7ef70754b9cc92dfc4589d76d4e5b2"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Wilder, Thornton</unittitle>
+                  <unitdate type="inclusive">1928, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_f55bcb2941bbc84427eec0d55e79a0a8"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Williams, Jesse Lynch</unittitle>
+                  <unitdate type="inclusive">1923 March 27</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_b8b4a6f047069f75f02cf88437d79db7"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Yale Alumni Weekly
+                     </title>
+                  </unittitle>
+                  <unitdate type="inclusive">1913 July 29</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_24f1ac1dd5929939d8f514ca0baa0054"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Young, Art</unittitle>
+                  <unitdate type="inclusive">n.y. January 13</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_d23ee6ef01fa080490789b28e9c8dddf"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Unidentified</unittitle>
+                  <unitdate type="inclusive">1925 August 8</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_92ddaa9a4ad4f406d5306c8129a7efed"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Unsorted correspondence</unittitle>
+                  <physdesc>
+                     <extent unit="folders">2</extent>
+                  </physdesc>
+                  <unitdate type="inclusive">1877-1952, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_325b2186267939203342c02b4f297e76"
+                             type="box">1</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref66" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1916-1953</unitdate>
+            </did>
+            <arrangement id="aspace_62b1ff2bf8f071255ac7ff685b7bfe4f">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by title.</p>
+            </arrangement>
+            <scopecontent id="aspace_3dec748896887dc3796567b3b29054ba">
+               <head>Scope and Contents</head>
+               <p>Series II. Writings contains drafts and fragments for several manuscripts and features the original autograph drafts, most corrected, of the early poems published as <title type="simple" render="italic">
+                     Dust of Stars
+                  </title> (1916) and fair typescript drafts for what appear to be later, unpublished compilations of poems, "Silly Sagas of the Sea" and "Songs of Sorts."</p>
+            </scopecontent>
+            <c id="ref68" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Dust of Stars
+                     </title>, drafts</unittitle>
+                  <unitdate type="inclusive">1916, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_24661529bd028edaa274541afed4231d"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>"A Minor Operation," draft</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_05a92964d777d4ab0f5931d57f0ef933"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref70" level="file">
+               <did>
+                  <unittitle>"Neo Platonism," notebook</unittitle>
+                  <unitdate type="inclusive">1920, undated</unitdate>
+                  <container label="Mixed Materials (39002091488339)"
+                             id="aspace_c20e5c5b79b539dc3a24fc643f579c99"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="ref71" level="file">
+               <did>
+                  <unittitle>"Round Robin"</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_b1606dae41812324b902f896279dcda0"
+                             type="box">2</container>
+               </did>
+               <scopecontent id="aspace_25f9fd074000bdbb027900f64c990680">
+                  <head>Scope and Contents</head>
+                  <p>Includes illustrations</p>
+               </scopecontent>
+            </c>
+            <c id="ref73" level="file">
+               <did>
+                  <unittitle>"Silly Sagas of the Sea," drafts</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_9aac5671d9d134f6333556103956dc45"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref74" level="file">
+               <did>
+                  <unittitle>"Songs of Sorts," drafts</unittitle>
+                  <unitdate type="inclusive">1937, undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_ae2d20c2c5f82240834f2fb994a818a1"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref75" level="file">
+               <did>
+                  <unittitle>"Spring," draft</unittitle>
+                  <unitdate type="inclusive">1927</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_65ca2a753a732411fd259147ac6a6374"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref76" level="file">
+               <did>
+                  <unittitle>Unsorted manuscript material</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_afc355615bc0b9c58a074443f441503d"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>"Danford Barney: Poet" by Francis H. Bangs, draft and printed version</unittitle>
+                  <unitdate type="inclusive">1953, undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_f2083c47bae95a12c0f00af256f65688"
+                             type="box">2</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref80" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">undated</unitdate>
+               <physdesc id="aspace_09aee4453bd9fea6193220b76defe83a">(3 folders)</physdesc>
+            </did>
+            <scopecontent id="aspace_0b5a919ba202a3a13e10090afb0e9a4e">
+               <head>Scope and Contents</head>
+               <p>Series III. Photographs contains photographic prints made by Barney of various people and places.</p>
+            </scopecontent>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>Negatives</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <physloc id="aspace_0b7f79d02f20c0e8cbc9d0efad76072a">Also stored in: Box 9 (Cold storage)</physloc>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_ed3fd76bc4877d8f4cd260ed0ff2bdfd"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_e7a3e4623078e66060dbaac83c1f746d">2 folders</physdesc>
+                  <physloc id="aspace_81a8c508d8b2de0a1e8845d89e736abc">Also stored in Oversize: Boxes 4-8</physloc>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_3052802a337c1e4e6331aa261bbd76ea"
+                             type="box">2</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref87" level="series">
+            <did>
+               <unittitle>Other Material</unittitle>
+               <unitid>Series IV</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1896-1950</unitdate>
+            </did>
+            <arrangement id="aspace_24b8bb148419121a0ea13bb4e2bdef3b">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by material type.</p>
+            </arrangement>
+            <scopecontent id="aspace_21f42cedc82d4918fe3c582a933ee8ba">
+               <head>Scope and Contents</head>
+               <p>Series IV. Other Material contains identification papers, including a birth certificate and passport, biographical and genealogical material in family papers, and clippings and printed ephemera relating to Barney.</p>
+            </scopecontent>
+            <c id="ref89" level="file">
+               <did>
+                  <unittitle>Certificate of Birth (copy)</unittitle>
+                  <unitdate type="inclusive">1927 May 25</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_367a863f554771254f747837e00f6a0b"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref90" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+                  <unitdate type="inclusive">1931-1947</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_c38a2b2eeb376311cdbefadc9df57a6a"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref91" level="file">
+               <did>
+                  <unittitle>"Comments + Reviews of DNB as Poet"</unittitle>
+                  <unitdate type="inclusive">1942-1945, undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_35fb9ab497f4d587675fc84919516473"
+                             type="box">2</container>
+               </did>
+               <scopecontent id="aspace_15d9391b63d9d869cb8b09d40887159c">
+                  <head>Scope and Contents</head>
+                  <p>Includes correspondence and clippings</p>
+               </scopecontent>
+            </c>
+            <c id="ref93" level="file">
+               <did>
+                  <unittitle>Empty envelope</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_e2521c2cbb668626f418abc17e4e021c"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref94" level="file">
+               <did>
+                  <unittitle>Family papers</unittitle>
+                  <unitdate type="inclusive">1896, undated</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_01b69c95bb73b29a0855bc75418f8bc5"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref95" level="file">
+               <did>
+                  <unittitle>Passport</unittitle>
+                  <unitdate type="inclusive">1950 May 11</unitdate>
+                  <container label="Mixed Materials (39002091488347)"
+                             id="aspace_546d9848da9d1ff05016197cb5e2a616"
+                             type="box">2</container>
+               </did>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Printed ephemera</unittitle>
+                  <physdesc>
+                     <extent unit="folders">4</extent>
+                  </physdesc>
+                  <unitdate type="inclusive">[circa 1929-1947]</unitdate>
+                  <container label="Mixed Materials (39002091488354)"
+                             id="aspace_2f27a2efbfbc7e8346e8c935d6b76197"
+                             type="box">3</container>
+               </did>
+            </c>
+            <c id="ref98" level="file">
+               <did>
+                  <unittitle>Scrapbook</unittitle>
+                  <unitdate type="inclusive">1917-1919</unitdate>
+                  <container label="Mixed Materials (39002091488354)"
+                             id="aspace_41f6aeb167d4a81c89036215da203190"
+                             type="box">3</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref101" level="file">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <unitdate type="inclusive">1950, undated</unitdate>
+               <physdesc id="aspace_951323ea2d3d49d8fbb5c679c65bf022">1.46 linear feet (5 boxes)</physdesc>
+            </did>
+            <c id="ref103" level="file">
+               <did>
+                  <unittitle>Photographs (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098954226)"
+                             id="aspace_00b5bfecfd6fb95ba500401556b445cf"
+                             type="box">4 (Oversize)</container>
+               </did>
+            </c>
+            <c id="ref104" level="file">
+               <did>
+                  <unittitle>Photographs (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098954234)"
+                             id="aspace_fa5b9f2924d0c9fe8c84493faed54afb"
+                             type="box">5 (Oversize)</container>
+               </did>
+            </c>
+            <c id="ref105" level="file">
+               <did>
+                  <unittitle>Photographs (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098954242)"
+                             id="aspace_bb9d5e155af23c2857edcfea686bda06"
+                             type="box">6 (Oversize)</container>
+               </did>
+            </c>
+            <c id="ref106" level="file">
+               <did>
+                  <unittitle>Photographs (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098954259)"
+                             id="aspace_3d42f16c73c3e03f0f4630a9b85af3ab"
+                             type="box">7 (Oversize)</container>
+               </did>
+            </c>
+            <c id="ref107" level="file">
+               <did>
+                  <unittitle>Photographs (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098954267)"
+                             id="aspace_141575985dc46a76dcae11ca518721a5"
+                             type="box">8 (Oversize)</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref108" level="file">
+            <did>
+               <unittitle>Cold Storage</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">undated</unitdate>
+            </did>
+            <c id="ref109" level="file">
+               <did>
+                  <unittitle>Nitrate negatives (In Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002104677811)"
+                             id="aspace_f5be37339f1417dc3e502db79395a658"
+                             type="box">9 (cold storage)</container>
+               </did>
+               <accessrestrict id="aspace_fd85dcc70b1f6e390a287b8a37045cf0">
+                  <head>Conditions Governing Access</head>
+                  <p>Box 9 (nitrate negatives): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.</p>
+               </accessrestrict>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

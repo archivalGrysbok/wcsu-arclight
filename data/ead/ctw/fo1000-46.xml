@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-46::Football Programs Collection)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/fo1000-46.html">fo1000-46</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Football Programs Collection, <lb/><date normal="1891/2005">1891 - 2005</date>
+                </titleproper>
+        <author>Processed by: Jeffrey Makala, Valerie Gillispie; machine-readable finding
+                    aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">©
+                        2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: August 2006</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Football Programs Collection, <date type="span">1891 -
+                    2005</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2006">© 2006</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">
+        <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+      </repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Football Programs Collection, <unitdate normal="1891/2005" type="inclusive">1891 - 2005</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-46</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">1.25</extent>
+      </physdesc>
+      <physdesc label="Archival Boxes">
+        <extent>3</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">The Wesleyan football team has been in
+                existence since 1883.</abstract>
+      <abstract encodinganalog="520">The Football Programs Collection contains programs for
+                Wesleyan home and away games from 1891 through 2005. The collection is not complete
+                for all years.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Football Programs Collection, Collection #1000-46, Special Collections
+                    &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Assembled by the Wesleyan University Archives</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Jeffrey Makala, Valerie Gillispie, August 2006</p>
+        <p>Encoded by Valerie Gillispie, August 2006</p>
+      </processinfo>
+      <accruals>
+        <head>Accrual Information</head>
+        <p>Regular additions to this collection are expected.</p>
+      </accruals>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The Wesleyan football team has been in existence since 1883.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Football Programs Collection contains programs for Wesleyan home and away games
+                from 1891 through 2005. The collection is not complete for all years. </p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>The programs are arranged in chronological order. </p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online
+                catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)
+                --Football. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)
+                --Sports. </corpname>
+      <subject source="lcsh" encodinganalog="650">Athletics--Connecticut--Middletown--20th
+                century. </subject>
+      <subject source="lcsh" encodinganalog="650">Athletics--Connecticut--Middletown--19th
+                century. </subject>
+      <subject source="lcsh" encodinganalog="650">College sports.</subject>
+    </controlaccess>
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Athletic Teams’ Records, Wesleyan University Special Collections &amp;
+                Archives</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>November 3, 1891, at Harvard </unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note: </emph>Score card only.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 24, 1892, at Penn</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 9, 1894, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>November 14, 1903, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 29, 1904, Dartmouth</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 11, 1905, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 9, 1907, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 7, 1908, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 6, 1909, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 28, 1910, at Yale</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Score card only.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 8, 1910, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 15, 1910, Norwich</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 29, 1910, Trinity </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 5, 1910, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 12, 1910, NYU</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>November 9, 1912, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 16, 1912, Trinity</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note: </emph>Includes official game souvenir.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 25, 1913, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 8, 1913, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 15, 1913, at NYU</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 7, 1914, at Willliams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 14, 1914, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1915 Columbia season program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 6, 1915, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 1, 1919, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>November 19, 1921, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 18, 1924, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 31, 1925, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 29, 1928, Bates</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 20, 1928, Rochester</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 2, 1929, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 9, 1929, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>October 10, 1931, Columbia</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 30, 1933, Union</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 11, 1933, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 10, 1934, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 26, 1935, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 31, 1936, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 7, 1936, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 16, 1937, Haverford</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 30, 1937, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 22, 1938, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 29, 1938, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 5, 1938, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 30, 1939, at Rutgers</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 7, 1939, UConn</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 4, 1939, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 11, 1939, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 18, 1939, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 26, 1940, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 16, 1940, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>October 18, 1941, Haverford</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 11, 1941, University of Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 25, 1941, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 1, 1941, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 8, 1941, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 15, 1941, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>December 29, 1941, at Rutgers</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 10, 1942, at University of Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 17, 1942, Swarthmore</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 24, 1942, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 14, 1942, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 6, 1945, at W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>October 12, 1946, University of Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 18, 1946, at Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 26, 1946, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 2, 1946, Haverford</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 9, 1946, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 16, 1946, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 4, 1947, W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 11, 1947, at University of Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 18, 1947, Swarthmore</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 25, 1947, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 1, 1947, at Haverford</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 8, 1947, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 15, 1947, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 9, 1948, at Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 16, 1948, at Swarthmore</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 23, 1948, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 12, 1949, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>September 29, 1951, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 7, 1953, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 25, 1954, at Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 2, 1954, at Tufts</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 8, 1955, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 22, 1955, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 13, 1956, Haverford</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 28, 1957, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 15, 1958, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 26, 1959, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 10, 1959, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 7, 1959, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 8, 1960, at Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 5, 1960, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>September 30, 1961, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 21, 1961, at W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 28, 1963, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 5, 1963, at Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 12, 1963, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 2, 1963, Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 9, 1963, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 3, 1964, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 24, 1964, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 14, 1964, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 25, 1965, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 30, 1965 Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 6, 1965, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 13, 1965, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>October 1, 1966, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 22, 1966, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 12, 1966, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 14, 1967, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 21, 1967, at W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 28, 1967, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 11, 1967, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 5, 1968, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 12, 1968, at Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 19, 1968, W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 26, 1968, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 2, 1968, at Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 9, 1968, at Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 16, 1968, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>November 1, 1969, Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 8, 1969, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 10, 1970, at Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 17, 1970, W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 24, 1970, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 14, 1970, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 25, 1971, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 9, 1971, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 23, 1971, at Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 30, 1971, Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 6, 1971, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>October 7, 1972, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 21, 1972, W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 28, 1972, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 18, 1972, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 22, 1973, Southern Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 29, 1973, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 13, 1973, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 10, 1973, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 28, 1974, at Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 5, 1974, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 19, 1974, W.P.I.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 26, 1974, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 16, 1974, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>September 20, 1975, Southern Connecticut</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 27, 1975, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 11, 1975, Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 8, 1975, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 15, 1975, at Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 9, 1976, at Coast Guard</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>November 7, 1981, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 25, 1986, at Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>September 28, 1996, Hamilton</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 31, 1998, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 21, 2000, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 28, 2000, Bowdoin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>November 3, 2001, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 19, 2002, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>September 20, 2003, Middlebury</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 1, 2003, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 23, 2004, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 13, 2004, Trinity</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>September 24, 2005, Tufts</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 8, 2005, Colby</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 15, 2005, Bates</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>October 22, 2005, Amherst</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>November 5, 2005, Williams</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>September 30, 2006, Hamilton</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

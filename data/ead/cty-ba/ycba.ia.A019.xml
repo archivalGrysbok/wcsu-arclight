@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BA"
+             url="http://hdl.handle.net/10079/fa/ycba.ia.A019">ycba.ia.A019</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Yale Center for British Art Imaging Services Department records </titleproper>
+            <titleproper type="filing">Yale Center for British Art Imaging Services Department records</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Center for British Art, Institutional Archives</publisher>
+            <address>
+               <addressline>Institutional Archives</addressline>
+               <addressline>1080 Chapel Street</addressline>
+               <addressline>P. O. Box 208280</addressline>
+               <addressline>New Haven, CT 06520-8280</addressline>
+               <addressline altrender="email">ycba.institutionalarchives@yale.edu</addressline>
+            </address>
+            <num>A019</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 16, 2019 at 21:02</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Yale Center for British Art Imaging Services Department records</unittitle>
+         <unitid>A019</unitid>
+         <repository>
+            <corpname>
+               Yale Center for British Art, Institutional Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">136</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(136 boxes)</physdesc>
+         <physdesc>
+            <extent unit="Gigabytes">0.0852</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1970/2017">1970-2017</unitdate>
+         
+         <origination label="creator">
+            <corpname rules="rda" source="local_ycba_ia">
+               Yale Center for British Art. Imaging Services Department
+            </corpname>
+         </origination>
+      </did>
+      <scopecontent id="aspace_e569c2c85016173a41fbaa865348c470">
+         <head>Scope and Contents</head>
+         <p>This collection contains administrative files and transparencies and photographs of artwork belonging to the Yale Center for British Art.</p>  
+      </scopecontent>
+      <bioghist id="aspace_4d56c6891dff522fcae3420cbdf486a1">
+         <head>Biographical / Historical</head>
+         <p>The Imaging Services department is responsible for the creation, digitization, and management of new and existing photography of the Center's collections, architecture, and selected events. Imaging Services works to document the Center's collections, and to maintain image and rights-related information in both the Center's collections management database and the digital asset management system. The department also handles technical photography for the Center's Conservation department, including infrared and ultraviolet digital imaging. Imaging Services staff members serve as a resource for the Center and the University in the areas of digital photography, fine art reproduction, copyright, and digital asset management.</p>  
+      </bioghist>
+      <accessrestrict id="aspace_180953489d09de1db92ad7e58142973c">
+         <head>Conditions Governing Access</head>
+         <p>This collection is unprocessed and may not be available for immediate access.</p>  
+      </accessrestrict>
+  
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008108083"
+                  source="lcsh">
+            Museums -- Management
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007500"
+                  source="lcsh">
+            Art -- Reproduction
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2009005400"
+                  source="lcsh">
+            Museums and the Internet
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n77005277"
+                   source="naf">
+            Yale Center for British Art
+         </corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

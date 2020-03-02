@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG182.html" countrycode="us">RG182</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 182, State Board of Accountancy</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">February 02, 2012</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2012</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Connecticut State Library staff on
+<date>February 02, 2012</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. State Board of Accountancy</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">State Board of Accountancy records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1907/2007">1907-2007</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">26 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Board of Accountancy protects the users of services rendered by Connecticut licensed accountants by regulating the authorized practice of public accountancy by certified public accountants (CPA) and public accountants as well as the unauthorized practice of public accountancy by unlicensed individuals and firms.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG182</unitid>
+	<unitid label="Accession: ">2006-005 and 2008-036</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+<p>
+
+The State Board of Accountancy was established in 1907 per Public Acts, Chpt. 202. It was terminated in 1979 by P.A. 77-614, 
+s. 573(d)(6), reestablished as a component of the Dept. of Consumer Protection, per P.A. 77-614, s. 209. It was transferred to the Office
+of the Secretaty of the State in 1985 per P.A. 85-504. It was terminated in 1992 by P.A. 92-212 and reestablished as a separate entity.
+P.A. 11-48 placed the State Board of Accountancy within the Office of the Secretary of the State effective July 1, 2011.
+</p>
+<p>See also the brief description of the <extptr linktype="simple" href="http://www.ctstatelibrary.org/agencies/AccountancyBoard.htm" show="replace" actuate="onrequest" title="Board of Accountancy"/>.</p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Contents</head>
+	<p>Minutes, 1907-2007; Attendance record, 1981-1986; Public Accountants program files including intentions to practice and authority to practice, 1955-1958. Both intentions to practice and authority to practice contain the application but the latter includes the letter granting such authority.
+An applicant's file will be in one or the other of these.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Minutes are arranged chronologically in volumes.</p>
+	<p>Public Accountants Program files are arranged in two subseries, intentions to practice and authority to practice. Files are alphabetical within these subseries.</p>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess>
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">Connecticut. State Board of Accountancy</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Connecticut. State Board of Accountancy -- Records and correspondence</subject>
+			<subject encodinganalog="650" source="lcsh">Accountants -- Certification -- Connecticut</subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Application forms</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+	</controlaccess>
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+	<p>Attendance record, 1981-1986, is restricted because the sheet attached to the inside front cover contains social security numbers. Contact State Archives staff for assistance.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>Accession 2006-005 was transferred to the Connecticut State Library on September 22, 2005.</p>
+	<p>Accession 2008-036 was transferred to the Connecticut State Library on April 1, 2008.</p>
+</acqinfo>
+
+<processinfo encodinganalog="583" id="a20">
+	<head>Processing Information</head>
+<p>
+The boxes for Accession 2005-006 were originally numbered 295-314 and have been renumbered 1-20. The log book and card file have been placed in boxes 21 and 22.
+</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 1. Minutes</unittitle>
+	<unitdate datechar="creation" normal="1907/2007">1907-2007</unitdate>
+	<unitid label="Accession: ">2008-036</unitid>
+ </did>	
+	<note><p>Volumes 16-28 were transferred with no volume number assigned. Numbering was continued by State Archives staff.</p></note>
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">1</container>
+	<unitdate datechar="creation">1907 June 13 - 1932 November 17</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">2</container>
+	<unitdate datechar="creation">1933 January 17 - 1949 August 1</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">3</container>
+	<unitdate datechar="creation">1949 November 16 - 1957 July 9</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">4</container>
+	<unitdate datechar="creation">1957 August 28 - 1960 July 14</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">5</container>
+	<unitdate datechar="creation">1960 July 26 - 1964 June 16</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">6</container>
+	<unitdate datechar="creation">1966 July 13 - 1973 February 28</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">7</container>
+	<unitdate datechar="creation">1973 March 30 - 1977 May 24</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">8</container>
+	<unitdate datechar="creation">1977 June 6 - 1980 May 19</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">9</container>
+	<unitdate datechar="creation">1980 June 11 - 1982 December 8</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">10</container>
+	<unitdate datechar="creation">1983 January 12 - 1986 February 12</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">11</container>
+	<unitdate datechar="creation">1986 March 12 - 1989 July 11</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">12</container>
+	<unitdate datechar="creation">1989 July 18 - 1991 February 19</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">13</container>
+	<unitdate datechar="creation">1991 March 16 - 1992 April 7</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">14</container>
+	<unitdate datechar="creation">1992 April 28 - November 24</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">15</container>
+	<unitdate datechar="creation">1993 January 5 - September 14</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">16</container>
+	<unitdate datechar="creation">1993 October 19 - 1994 August 2</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">17</container>
+	<unitdate datechar="creation">1994 September 13 - 1996 January 17</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">18</container>
+	<unitdate datechar="creation">1996 February - 1997 January</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">19</container>
+	<unitdate datechar="creation">1997 February - 1998 March</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">20</container>
+	<unitdate datechar="creation">1998 April - 1999 July</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">21</container>
+	<unitdate datechar="creation">1999 August - 2000 September</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">22</container>
+	<unitdate datechar="creation">2000 October - 2001 March</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">23</container>
+	<unitdate datechar="creation">2001 April - 2002 March</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">24</container>
+	<unitdate datechar="creation">2002 April - 2003 March</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder">25</container>
+	<unitdate datechar="creation">2003 April - 2004 May</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder">26</container>
+	<unitdate datechar="creation">2004 June - 2005 July</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder">27</container>
+	<unitdate datechar="creation">2005 August - 2006 December</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder">28</container>
+	<unitdate datechar="creation">2007 January - December</unitdate>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 2. Attendance Record</unittitle>
+	<unitdate datechar="creation" normal="1981/1986">1981-1986</unitdate>
+	<unitid label="Accession: ">2008-036</unitid>
+ </did>	
+<c02 level="file">
+ <did>
+	<container type="Box">Item 5</container>
+	<unitdate datechar="creation">1981-1986</unitdate>
+ </did>	
+ 	<accessrestrict><p>RESTRICTED</p></accessrestrict>
+</c02>
+
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Series 3. Public Accountants Program Files</unittitle>
+	<unitdate datechar="creation">1955-1958</unitdate>
+	<unitid label="Accession: ">2005-006</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry> </entry>
+ </row>
+ </thead>	
+<c02 level="subseries">
+ <did>
+	<unittitle>Intentions to Practice</unittitle>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Ableski - Carlton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Case - Fanelli</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Fappiano - Hoffman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Hogan - Lyons</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Macary - Peters</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unittitle>Petrillo - Stuselitas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unittitle>Stuchy - Zulkoski</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="subseries">
+ <did>
+	<unittitle>Authority to Practice</unittitle>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unittitle>Abbott - Bloom, J.</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unittitle>Bloom, L. - Clyne</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Cobb - Dolan, V.</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">11</container>
+	<unittitle>Dolan, W. - Frost</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unittitle>Fulco - Henault</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">13</container>
+	<unittitle>Hendel - Keeler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">14</container>
+	<unittitle>Keeley - Luft</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Lukesiewicz - Mulville</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Murenia - Plant</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<unittitle>Plumb - Ryle</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<unittitle>Sabo - Staiano</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<unittitle>Stankiewicz - Wheeler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">20</container>
+	<unittitle>Whinston - Zoppo</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">21</container>
+	<unittitle>Log book</unittitle>
+	<unitdate datechar="creation">1955-1958</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">21-22</container>
+	<unittitle>Card file</unittitle>
+ </did>	
+</c02>
+
+</c01>
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

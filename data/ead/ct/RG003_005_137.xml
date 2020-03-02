@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="czl" countrycode="us">RG003_005_137</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Stonington Justice of the Peace Records</titleproper>
+		<subtitle>State Archives Record Group No. 003:137</subtitle>
+		<author>Finding aid prepared by Juliane L. Silver.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">May 15, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Juliane L. Silver on
+<date>May 15, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Connecticut. Justice of the Peace (Stonington)</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Stonington justice of the peace records</unittitle>
+
+	<unitdate label="Dates:">1745-1869</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">4 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The records of Stonington justices of the peace and Probate Court, housed in 4 boxes, comprise an extensive, although incomplete, collection of papers that provide documentation on civil and criminal actions in Stongington from before the American Revolution to the middle of the 19th century. etc.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="czl">RG003_005_137</unitid>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+			<head>History</head>
+			<p>The records of Stonington justices of the peace and Probate Court, housed in 4 boxes, comprise a collection of papers that provide documentation on civil and criminal actions in Stonington from before the American Revolution to the middle of the 19th century. It is difficult to determine how complete or incomplete these records are even for years that appear to be well represented, in part because not all justices of the peace from Stonington appear to be represented in the collection and in part also because it is impossible to determine how complete the records are for those justices found in the collection. In addition, few court cases exist prior to 1767, little for the years 1769, 1776, 1778-1780, 1802, only scattered material for the years 1809-1826, and nothing between 1826-1850. The bulk of the papers consist of records of justices of the peace of the town of Stonington, not records of the Probate Court.</p>
+			<p>Justices of the peace served as the base of Connecticut's judicial system, the one that was closest to ordinary inhabitants of Stonington. Justices of the peace tried small claims cases and heard presentments from grand jurors in major criminal cases. If the evidence presented was deemed sufficient, the offending parties were bound over the county or superior court.</p>
+		</bioghist>
+
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.</p>
+	<controlaccess>
+		<head>Persons:</head>
+			<persname encodinganalog="700" source="local">999</persname>
+	</controlaccess>
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">Connecticut. justice of the peace (Stonington)</corpname>	
+	</controlaccess>
+</controlaccess>
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>The records are unrestricted, but many of the documents are fragile and care must be taken in handling them.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+
+
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+<c01 level="series">
+ <did>
+	<unittitle>Dockets</unittitle>
+	<unitdate datechar="creation" normal="9999/9999">1766-1794</unitdate>
+ </did>	
+<thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">1-26</container>
+	<unittitle></unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c02>
+</c01>
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

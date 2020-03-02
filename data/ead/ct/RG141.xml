@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG141.html" countrycode="us">RG141</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 141, Hartford Dental Society</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 30, 2010</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2010</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>July 30, 2010</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Hartford Dental Society</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Hartford Dental Society records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1897/1968">1897-1968</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Established in 1897, the Hartford Dental Society (HDS) is a professional association whose members are dentists in the Greater Hartford area.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG141</unitid>
+
+	<unitid label="Accession: ">1928-026</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Established in 1897, the Hartford Dental Society (HDS) is a professional association whose members are dentists in the Greater Hartford area. According to their website, "The mission of the Hartford Dental Society is to cultivate the science and art of dentistry and all its collateral branches; to elevate and sustain the professional character of its members and to disseminate knowledge pertaining to the advancement of health."</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The records contain minutes of meetings, which also include some minutes for the executive committee and officers of the Society, notices of meetings, treasurer’s records, and stenographic notes of a 1932 post graduate course on oral diagnosis.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p><extptr linktype="simple" href="http://www.ctstatelibrary.org/RG092.html" show="replace" actuate="onrequest" title="RG 092, Dental Commission, 1893-1950"/></p>
+	<p><extptr linktype="simple" href="http://www.ctstatelibrary.org/RG140.html" show="replace" actuate="onrequest" title="RG 140, Connecticut State Dental Association, 1864-1965"/></p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="650" source="lcnaf">Hartford Dental Society</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Hartford Dental Society -- Records and correspondence</subject>
+			<subject encodinganalog="650" source="lcsh">Dentistry -- Connecticut -- Societies, etc</subject>
+			<subject encodinganalog="650" source="lcsh">Dentists -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Hartford (Conn.) -- History -- Sources</subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Checkbooks</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Proceedings</genreform>
+	</controlaccess>
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>On February 28, 1928, Volume 2 of minutes of the Hartford Dental Society was deposited in the Connecticut State Library by Dr. Edward Eberle. Volume 1 of minutes of the Society was deposited in the Connecticut State Library at an earlier time, but the exact date is unknown.</p>
+	<p>On May 4, 1932, Stenographic Notes of Post Graduate Course in Oral Diagnosis was deposited in the Connecticut State Library by Dr. S.L. Beckwith-Ewell.</p>
+	<p>On June 15, 1933, four volumes of Treasurer's account books were deposited in the Connecticut State Library by Dr. S.L. Beckwith-Ewell.</p>
+	<p>On July 17, 1934, Volume 3 of minutes of the Hartford Dental Society was deposited in the Connecticut State Library by Dr. Eugene M. Clifford, Secretary of the Society.</p>
+	<p>On June 27, 1935, check stub register (1933-1935) was deposited in the Connecticut State Library by Dr. S.L. Beckwith-Ewell.</p>
+	<p>In 1936, one volume of minutes of the Hartford Dental Society, for the time frame of June 11, 1934-May 9-1938, was deposited in the Connecticut State Library by Dr. William F. O'Meara, Secretary of the Society. </p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1897/1968">1897-1968</unitdate>
+ </did>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>1. Minutes</unittitle>
+	<unitdate>1897 February 13-1968 April 8</unitdate>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 1</unittitle>
+	<unitdate>1897 February 13-1908 September 14</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 2</unittitle>
+	<unitdate>1908 October 12-1923 May 14</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Volume 3</unittitle>
+	<unitdate>1923 September 10-1934 May 14</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>
+<scopecontent><p>Also contains an insert of the constitution of the Society that was adopted January 8, 1934.</p></scopecontent>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate>1934 June 11-1938 May 9</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate>1938 June 7-1956 May 14</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate>1956 May 22-1958 April 13</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unitdate>1958 May 22-1964 April 13</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1964 May 11-1966 April 11</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1966 May 9-1968 April 8</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>2. Notices of meetings</unittitle>
+	<unitdate>1941-1947</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>3. Proceedings of 50<emph render="super">th</emph> anniversary program</unittitle>
+	<unitdate>1947</unitdate>
+	<physdesc><extent>1 envelope</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>4. Treasurer's records</unittitle>
+	<unitdate>1897-1935</unitdate>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Treasurer's account books</unittitle>
+	<unitdate>1897 February 5-1921 May 7</unitdate>
+	<physdesc><extent>4 volumes</extent></physdesc>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1897 February 5-1910 June 12</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1910 May 11-1915 June 7</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1911 September 18-1916 May 1</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unitdate>1915 May 10-1921 May 7</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Checkbook</unittitle>
+	<unitdate>1931 January 20-1933 May 22</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Check stub register</unittitle>
+	<unitdate>1933-1935</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Bank statements and checks</unittitle>
+	<unitdate>1933-1935</unitdate>
+	<physdesc><extent>1 envelope</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Bank statements and receipts pertaining to Child Dental Week</unittitle>
+	<unitdate>1933</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>5. Stenographic notes of post graduate course in oral diagnosis</unittitle>
+	<unitdate>1932</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+<note><p>This volume was given under the auspices of Hartford Dental Society in cooperation with Trinity College and by instructors furnished by Harvard Dental School.</p></note>
+</c02>
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

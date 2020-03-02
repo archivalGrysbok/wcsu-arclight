@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::2000-27::Wesleyan Museum Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/mu2000-27.html">mu2000-27</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Wesleyan Museum Records,
+		<lb/><date normal="1836/1985">1836 - 1985</date>
+		</titleproper>
+        <author>Processed by: Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2007" encodinganalog="date">© 2007</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: June 2007</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Wesleyan Museum Records, <date type="span">1836 - 1985</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2007">© 2007</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Wesleyan Museum Records, <unitdate normal="1836/1985" type="inclusive">1836 - 1985</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">2000-27</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">9.25</extent></physdesc><physdesc label="Archival Boxes"><extent>12</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The Wesleyan Museum was created in 1871 to supplement the science curriculum at Wesleyan University. Its collections of natural history materials as well as enthnographic artifacts made it popular with students and faculty in the late 19th century. It became less important to the university as new methods of studying supplanted the museum, and it was closed in 1957.</abstract><abstract encodinganalog="520">The Wesleyan Museum Records contains annual reports, correspondence, invoices, inventories, catalogues, accession books, photos, and other materials related to the operations and collections of the museum.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions. Some of the bound albums are fragile and should be handled with care.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Wesleyan Museum Records, Collection #2000-27, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Materials were transferred from the Geology Department in August 1984.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Valerie Gillispie, June 2007</p>
+        <p>Encoded by Valerie Gillispie, June 2007</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The Wesleyan Museum (1871-1957) was an integral part of the science curriculum at Wesleyan University. Materials collected by faculty, students, and other donors were intended to help students study the natural world. Materials collected included shells, rocks, fossils, wood specimens, mineral specimens, birds, fish, animals, insects, and dried plants. In addition, American Indian artifacts, coins, certain artworks, and a mummy also found a home in the museum. Wesleyan closely followed the 19th century <emph render="doublequote">curiosity cabinet</emph> model of natural history museums.</p>
+      <p>The Museum opened on the third and fourth floors of Judd Hall in 1871. By the end of the decade, a number of students and faculty members were using the museum's materials in their research. It later expanded into some rooms on the second floor of the building in 1886. In the late 1880s, the museum added a focus on ethnological collections, related to humans.</p>
+      <p>Towards the end of the 1890s, the institution's interest in the museum lessened, with less funding alotted. The museum moved out of the second floor of Judd Hall. New faculty preferred laboratory work to studying museum specimens, and the museum became less relevant to the curriculum. The Museum remained open but largely unused in the curriculum.</p>
+      <p>In 1938, the museum had an offical re-opening to signify renewed interest in the museum. Funds were alocated for repairs and remodeling. School groups regularly toured the museum, and were perhaps its primary visitors until the Museum closed in 1957.</p>
+      <p>When the Wesleyan Museum closed, there were thousands of specimens to disperse. Many went to the Smithsonian Institution; others were donated or put on loan to Connecticut institutions. Some of the materials were divided up among science departments at Wesleyan. Other materials were dispersed to storage locations across campus, often without a record of the transfer.</p>
+      <p>In the 1970s, some faculty took an interest in cataloging the materials within their own departments, especially archaeological and anthropological materials. The museum's mummy came to national prominence in the late 1970s when it was unwrapped and studied by Professor Stephen Dyson.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Wesleyan Museum Records contains annual reports, correspondence, invoices, inventories, catalogues, accession books, photos, and other materials. It is organized into four series.</p>
+      <p>Series 1 contains Annual Reports of the museum. Series 2 contains Administrative materials, such as correspondence, used in the daily operations of the museum. Series 3, the largest series, is Accessions, Catalogues and Inventories. These materials reflect the museum's natural history focus, with many bird, fish, mammal and insect specimens. There are also detailed lists of shells, minerals, wood samples, coins, marbles, and even a detailed description of the museum's mummy. There are also catalogs of some of the curiosities donated to the museum by collectors or groups. Series 4 is Images, a small collection of photographs and negatives.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Curricula.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <subject source="lcsh" encodinganalog="650">Museum exhibits--History.</subject>
+      <subject source="lcsh" encodinganalog="650">Museum techniques--History.</subject>
+      <subject source="lcsh" encodinganalog="650">Anthropological museums and collections--History.</subject>
+      <subject source="lcsh" encodinganalog="650">Museums--Acquisitions.</subject>
+      <subject source="lcsh" encodinganalog="650"> Museums and schools.</subject>
+      <subject source="lcsh" encodinganalog="650">Museums--Connecticut--Middletown--History.</subject>
+      <subject source="lcsh" encodinganalog="650">Natural history museums--History.</subject>
+      <subject source="aat" encodinganalog="655">Photographs.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Vertical Files, Special Collections &amp; Archives, Wesleyan University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Annual Reports, 1877-1973</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Annual Reports contain summaries of changes in administration or procedure, major acquisitions, number of visitors, and any other notable happenings. The reports from the 1970s relate to the anthropology and archaeology collections, some of which came from the original Wesleyan Museum.</p>
+          <p>In most cases, the photocopies of the 1877-1892 annual reports should be used to prevent wear and tear on the originals.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Original reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Complete set in book box, 1877-1892</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">1</container>
+              <unittitle>Fifth and Sixth Annual Reports, including a history of the museum from its formation, 1877</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Eighth Annual Report, 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Ninth Annual Report, 1880</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Tenth Annual Report, 1881</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Eleventh Annual Report, 1882</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Twelfth Annual Report, 1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Thirteenth Annual Report, 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Fourteenth Annual Report, 1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Fifteenth Annual Report, 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Seventeenth Annual Report, 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Eighteenth Annual Report, 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Nineteenth Annual Report, 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Twentieth Annual Report, 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Twenty-First Annual Report, 1892</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">1</container>
+              <unittitle>Annual Report, 1931</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Annual Report, 1938</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Annual Report, 1948</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Annual Report, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Annual Report, 1970-1971</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Annual Report, February 1972</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Annual Report, 1972-1973</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photocopies of reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Fifth and Sixth Annual Reports, including a history of the museum from its formation, 1877</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Seventh Annual Report, 1878</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Eighth Annual Report, 1879</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Ninth Annual Report, 1880</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Tenth Annual Report, 1881</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Eleventh Annual Report, 1882</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Twelfth Annual Report, 1883</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Thirteenth Annual Report, 1884</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Fourteenth Annual Report, 1885</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Fifteenth Annual Report, 1886</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Sixteenth Annual Report, 1887</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Seventeenth Annual Report, 1888</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Eighteenth Annual Report, 1889</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Nineteenth Annual Report, 1890</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Twentieth Annual Report, 1891</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Twenty-First Annual Report, 1892</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Administrative, 1836-1985</unittitle>
+        </did>
+        <scopecontent>
+          <p>Administrative materials include correspondence, reports, forms, registers of visitors, and other documents used in the administration of museum operations.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence and administrative documents</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">1</container>
+              <unittitle>1836-1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>1911-1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>1930-1956</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>1957-1985</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Undated</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Exhibit and item labels</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Loans</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Scrapbook</unittitle>
+          </did>
+          <scopecontent>
+            <p>This item is fragile and must be handled with care. It contains correspondence and invoices dating from 1876 to 1896.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="italic">The Archaeological Collection of the United States National Museum, in Charge of the Smithsonian Institution, Washington D.C.</title>, by Charles Rau</unittitle>
+          </did>
+          <scopecontent>
+            <p>This volume has a hole drilled through its upper lefthand corner and a chain threaded through the hole. The book was possibly used as a reference book for the employees or visitors of the Wesleyan Museum.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Supply catalogs</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Registers of Visitors</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">1</container>
+              <unittitle>1874-1896</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>1896-1929</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>1938-1952</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Accessions, Catalogues, and Inventories</unittitle>
+        </did>
+        <scopecontent>
+          <p>New accessions to the museum, organized by genre, were carefully recorded by hand in bound volumes or notebooks. Each accession was assigned a number.</p>
+          <p>Catalogues are inventories of particular collections, usually assembled by a single collector or small group of collectors.</p>
+          <p>Inventories are lists or descriptions of items in the museum.</p>
+          <p>These materials reflect the museum's natural history focus, with many bird, fish, mammal and insect specimens. There are also detailed lists of shells, minerals, wood samples, coins, marbles, and even a detailed description of the museum's mummy. There are also catalogs of some of the curiosities donated to the museum by collectors or groups; for example, the Missionary Lyceum, an 19th century Wesleyan student group, recorded African, Indian, and South American materials in their <title render="doublequote">Catalogue of Curiosities</title>.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Accessions</unittitle>
+          </did>
+          <c03 level="subseries">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">1</container>
+              <unittitle>Articulata: Crustacean Vermes</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-720</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 721-760</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Articulata: Insects and Arachnids</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, No. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, No. 361-720</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 4, No. 1081-1440 (2 copies)</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 5, No. 1441-1800</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 6, No. 1801-2160</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 7, No. 2161-2219</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Birds</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-720</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 721-1080</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 4, no. 1081-1440</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 5, no. 1441-1770</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 6, no. 1771-2130</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 7, no. 2131-2422</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Birds: nests and eggs</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-479</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Discarded book 2, no. 361-</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Botany</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-689</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 691-782</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Fishes</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-720</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 721-1090</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">1</container>
+              <unittitle>Insecta [Rhopalocera] and heterocera</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-210</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 211-342</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Mammalia</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-690</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-646 (copied)</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Mollusca</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="Box">8</container>
+                <unittitle>Bound catalogue, no. 1-3570</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Bound catalogue, no. 3571-7190</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">3</container>
+                <unittitle>Book 1, no. 7191-7550</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 7191-7550 (copied)</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>No. 7191-7786, Plants no. 398-458 (copied)</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 7551-7854</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Protozoa</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Radiata</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+              <scopecontent>
+                <p>Book 1 only goes to number 280. 80 numbers not filled.</p>
+              </scopecontent>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-600</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 601-811</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Reptilia and amphibia</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, no. 1-360</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 2, no. 361-720</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Book 3, no. 721-783</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Vertebrata</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Book 1, Recatalogued</unittitle>
+              </did>
+              <scopecontent>
+                <p>
+                  <emph render="doublequote">These specimens have been re-catalogued in the special Catalogues of Mammals, Birds, Reptiles and Amphibia, and Fishes.</emph>
+                </p>
+              </scopecontent>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Loose page, unidentified</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">1</container>
+              <unittitle>Deaccessions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Catalogues</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Barratt Cabinet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Curiosities belonging to the Missionary Lyceum, June 1848</unittitle>
+            </did>
+            <scopecontent>
+              <p>Made by Benjamin T. Roberts, Frank O. Blair, Ralza M. Manly, and Henry S. Noyes.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Cuvicarian Cabinet, March 24, 1838</unittitle>
+            </did>
+            <scopecontent>
+              <p>Arranged by A. Bigelow, S. Martindale, Jr. and S. Fitch, Jr., Committee.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Frankfort Cabinet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Minerals, Wesleyan University</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Minerals, Wesleyan University, May 1838</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Minerals from Prescott Cabinets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Collection of woods from the Charles H. Neff collection</unittitle>
+            </did>
+            <scopecontent>
+              <p>Woods found growing about Portland, Conn., or vicinity.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">1</container>
+              <unittitle>Local collection of Charles H. Neff</unittitle>
+            </did>
+            <scopecontent>
+              <p>All Indian relics recorded in this book were found about Portland, Conn., and in the neighboring towns within a radius of a few miles.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Sea shell collection of Charles H. Neff, Portland, Conn.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>A complete list of stuffed birds and mammals in collection of Charles H. Neff</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">1</container>
+              <unittitle>Field notes of Charles H. Neff, 1874-1910</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Inventory</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Birds of Connecticut</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Coin collections</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Marbles</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Mummy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Old artifact lists</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Items sent to National Museum</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 4. Images</unittitle>
+        </did>
+        <scopecontent>
+          <p>The photographs include images from a dig in Tennessee, shrunken heads, and a person dressed in an Inuit costume, as well as images of the museum and some of its items. These appear to be from the early 20th century. There are also several photographs from the 1970s of a mortar the was uncovered in Portland, Connecticut.</p>
+          <p>The negatives include images of pottery and Brazilian, Polynesian, and Egyptian materials.</p>
+          <p>The series also contains X-rays of the Wesleyan museum mummy.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">9-11</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Negatives</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <unittitle>Oversize Photographs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>X-rays</unittitle>
+          </did>
+          <scopecontent>
+            <p>The x-rays appear to be images of the museum mummy from 1978.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

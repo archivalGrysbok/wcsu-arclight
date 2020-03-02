@@ -1,0 +1,2937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.080">divinity.080</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Raymond Philip Morris Papers </titleproper>
+            <titleproper type="filing">Morris (Raymond Philip) Papers</titleproper>
+            <author>Compiled by Brad C. Pohlman and Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>1994, 2002</date>
+            <num>RG 80</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday March 26, 2019 at 22:24</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Raymond Philip Morris Papers</unittitle>
+         <unitid>RG 80</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">7.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(16 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1923/1994">1923-1994</unitdate>
+         
+         <abstract id="aspace_c097992ed30b4da856a5db6e10c690e1">The papers document Morris's long professional career as head librarian of the Yale Divinity School Library and prominent leader in the field of theological librarianship. Raymond Philip Morris (1904-1990) was head librarian of the Yale Divinity School Library from1932 to 1972.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n94024621"
+                      rules="aacr"
+                      source="naf">
+               Morris, Raymond P.
+            </persname>
+         </origination>
+    
+      </did>
+      <accessrestrict id="aspace_15147ce362b7b92fe1297930d0f3850b">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_f08c029c061ab3bd4b81e08c72e1c834">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of the Morris family.</p>  
+      </acqinfo>
+      <prefercite id="aspace_e3a729f1c6c294a14dd06b3a88fd4c30">
+         <head>Preferred Citation</head>
+         <p>Raymond Philip Morris Papers (RG 80), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_b815c722f8b20e7a1b1da4cb1cb28884">
+         <head>Biographical / Historical</head>
+         <chronlist>
+            <chronitem>
+               <date>1904 Mar 16</date>
+               
+                  <event>Born in Garnett, Kansas to Charles Elmer and Margaret Ann (Riley) Morris</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1926</date>
+               
+                  <event>B.A. Baker University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1928</date>
+               
+                  <event>Married Jean Louise Kelly (Children: Thelma Jean, Marcia Louise, Raymond Philip)</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1929</date>
+               
+                  <event>B.D. Garrett Biblical Institute</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1930</date>
+               
+                  <event>B.S. Columbia University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1931-1932</date>
+               
+                  <event>Librarian, Garrett Biblical Institute</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1932</date>
+               
+                  <event>M.S. Columbia University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1932-1934</date>
+               
+                  <event>Assistant Librarian, Yale Divinity School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1934-1972</date>
+               
+                  <event>Librarian, Yale Divinity School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1941-1949</date>
+               
+                  <event>Assistant Professor of Religious Literature, Yale Divinity School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1949-1951</date>
+               
+                  <event>Associate Professor, Yale Divinity School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1951</date>
+               
+                  <event>M.A. (honorary) Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1951-1972</date>
+               
+                  <event>Professor, Yale Divinity School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1952</date>
+               
+                  <event>D.Litt. Baker University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1965</date>
+               
+                  <event>D.D. Drake University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1990 Oct 21</date>
+               
+                  <event>Died</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_d0c78d45066e01794ca850988aa6f1bf">
+         <head>Scope and Contents</head>
+         <p>These papers date primarily from 1955 to 1975 and document Morris's long professional career</p>
+         <p>career as head librarian of the Yale Divinity School Library and prominent leader in the field of theological librarianship. The materials in this collection were selected for inclusion by Morris.</p>
+         <p>Series I, Correspondence, includes five folders of family correspondence. The remainder is general correspondence with librarians, faculty members, funding agencies, and church leaders. Morris was a widely known advisor for theological libraries and this role is reflected in the correspondence. Additional correspondence related to specific projects and committees is contained in Series III.</p>
+         <p>Series II, Writings, contains articles, papers, sermons, and addresses by Morris. Most of Morris's writings dealt with theological education and libraries. Though not ordained, Morris was an active member of the Methodist Church and frequently gave sermons in area churches. Also of interest are the various tributes to Yale Divinity School faculty that Morris delivered at memorial services for them.</p>
+         <p>Series III includes representative documentation of Morris's involvement in various facets of theological education and librarianship. Documentation of Morris's work with the American Theological Library Association is supplemented by YDSL Record Group No. 81, Records of the ATLA Library Development Project. Documentation related to the China Records Project and the Yale Divinity School Library is supplemented by YDSL Record Group No. 92, Archives of the Yale Divinity School Library. Files relating to the Divinity School are complemented by records in YDSL Record Group No. 53, Yale Divinity School Memorabilia. Materials on the Mott Biography Project are related to documentation of biographer C. Howard Hopkins in the John R. Mott Papers, YDSL Record Group No. 45.</p>
+         <p>Series IV, Biographical Material, provides a small glimpse into the personal life and warm personality of Raymond P. Morris. Of particular interest are five audio cassette tapes, which include reminiscences of Jean Morris. Circular letters from the Morrises, found in Series I, also provide biographical documentation.</p>  
+      </scopecontent>
+      <arrangement id="aspace_cfcba854716a04376aa95062b32e603c">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Correspondence</item>
+            <item>II. Writings</item>
+            <item>III. Professional Activities/Committees/Projects</item>
+            <item>IV. Biographical Material</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Theological libraries -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076491"
+                  source="lcsh">
+            Librarians
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n94024621"
+                   rules="aacr"
+                   source="naf">
+            Morris, Raymond P.
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79053683"
+                   source="naf">
+            American Theological Library Association
+         </corpname>
+         <corpname source="local">
+            Yale University. Divinity School. Library -- History
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>A - D</unittitle>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_e70739d7cdaac170dcd3c419ca5903d7"
+                             type="box">1</container>
+                  <container id="aspace_2c8b4da3ed384561c14f652d1e334a39"
+                             type="folder"
+                             parent="aspace_e70739d7cdaac170dcd3c419ca5903d7">1</container>
+               </did>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Allen, Yorke Jr.</unittitle>
+                  <unitdate type="inclusive">1959-1984</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_93e5fa569e387a310e7367bf6d808b9e"
+                             type="box">1</container>
+                  <container id="aspace_5d6fdda7bf2ab548f1936fd4dc9e94a9"
+                             type="folder"
+                             parent="aspace_93e5fa569e387a310e7367bf6d808b9e">2</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Bailey, J. Russell</unittitle>
+                  <unitdate type="inclusive">1968-1969</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_cd6eb492e25b69eaed7961dc79ee737f"
+                             type="box">1</container>
+                  <container id="aspace_2f24187a3f541ffa04cd026da57cef9e"
+                             type="folder"
+                             parent="aspace_cd6eb492e25b69eaed7961dc79ee737f">3</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Bainton, Roland - re. beginning position as Librarian at YDS</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_c14bf008173de3ddb1fdc856b9ff8b44"
+                             type="box">15</container>
+                  <container id="aspace_1ab9687f3d31be763abc1345d1e5e17b"
+                             type="folder"
+                             parent="aspace_c14bf008173de3ddb1fdc856b9ff8b44">204</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Baker University</unittitle>
+                  <unitdate type="inclusive">1967-1982</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_3a3468bf300f71fc12334343f59894be"
+                             type="box">1</container>
+                  <container id="aspace_0c102335be2740f2849e86d84230a054"
+                             type="folder"
+                             parent="aspace_3a3468bf300f71fc12334343f59894be">4</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Beach, Robert F.</unittitle>
+                  <unitdate type="inclusive">1971-1972</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_4a2ab4a4ee80987275735df6feadcd88"
+                             type="box">1</container>
+                  <container id="aspace_4446f8c7a93a92c7875be4f0c04e7a25"
+                             type="folder"
+                             parent="aspace_4a2ab4a4ee80987275735df6feadcd88">5</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>Cohen, George</unittitle>
+                  <unitdate type="inclusive">1968</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_dde551fb25c1b48a2a502cae986172a3"
+                             type="box">1</container>
+                  <container id="aspace_edb03a42eecbfc5df31ffc2c51a62be7"
+                             type="folder"
+                             parent="aspace_dde551fb25c1b48a2a502cae986172a3">6</container>
+               </did>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Diehl, Katherine S.</unittitle>
+                  <unitdate type="inclusive">1960-1962</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_f775ce58ca037432ea8d9a239a272d31"
+                             type="box">1</container>
+                  <container id="aspace_29ac2ada14e314e2bd56beb6e5820cf8"
+                             type="folder"
+                             parent="aspace_f775ce58ca037432ea8d9a239a272d31">7</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Drake University (re: honorary degree)</unittitle>
+                  <unitdate type="inclusive">1964-1965</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_d8ac3fe0c0579465d6ea685c4efc807e"
+                             type="box">1</container>
+                  <container id="aspace_7c3e6464711964b963af4e72d90f3035"
+                             type="folder"
+                             parent="aspace_d8ac3fe0c0579465d6ea685c4efc807e">8</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Eiselen, Dr. Frederick Carl</unittitle>
+                  <unitdate type="inclusive">1932-1933</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_dcec5adfcb447f4089d54e24738cf0e8"
+                             type="box">1</container>
+                  <container id="aspace_6bdce37d37c1c288f5be401efb9b1200"
+                             type="folder"
+                             parent="aspace_dcec5adfcb447f4089d54e24738cf0e8">9</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>English, Dr. John</unittitle>
+                  <unitdate type="inclusive">1973-1977</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_0a14df5fd3d147af80eb60740ee67d72"
+                             type="box">1</container>
+                  <container id="aspace_fcc3c453948441f55108114a24b376b6"
+                             type="folder"
+                             parent="aspace_0a14df5fd3d147af80eb60740ee67d72">10</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>F - L</unittitle>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_ac087f9c01848b6a4b85b44049d24a5c"
+                             type="box">1</container>
+                  <container id="aspace_eabefdd83f534389df0dbc5d779ce624"
+                             type="folder"
+                             parent="aspace_ac087f9c01848b6a4b85b44049d24a5c">11</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Kelly, Beulah</unittitle>
+                  <unitdate type="inclusive">1959-1960</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_0d224759c8df5f17afed2fb9a230cfda"
+                             type="box">1</container>
+                  <container id="aspace_b78a26bbaddb4a806507cb399eec14e1"
+                             type="folder"
+                             parent="aspace_0d224759c8df5f17afed2fb9a230cfda">12</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Keogh, Andrew</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_0f69f36aeccc259978f394dd0ca8dd87"
+                             type="box">15</container>
+                  <container id="aspace_bf1cd6041c517b11e09424cfe5414431"
+                             type="folder"
+                             parent="aspace_0f69f36aeccc259978f394dd0ca8dd87">205</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>King, Dr. Rachel</unittitle>
+                  <unitdate type="inclusive">1970-1971</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_9e7357800c324835644811d4e2c4b990"
+                             type="box">1</container>
+                  <container id="aspace_75c514a1a3cebf8142e362deab375250"
+                             type="folder"
+                             parent="aspace_9e7357800c324835644811d4e2c4b990">13</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>M - P (includes Paul Minear and Liston Pope)</unittitle>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_ec89baff7832be8ebfe08a371941c094"
+                             type="box">1</container>
+                  <container id="aspace_ee11f41340af8f76c0baab8e25b83ecb"
+                             type="folder"
+                             parent="aspace_ec89baff7832be8ebfe08a371941c094">14</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>May, Mark (letter from RPM re. taking position at YDS)</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_37444eed8defc01c071d69c6edfdf021"
+                             type="box">15</container>
+                  <container id="aspace_8bfed896d7ea476f7807bf6321241c45"
+                             type="folder"
+                             parent="aspace_37444eed8defc01c071d69c6edfdf021">205</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>McCord, James I.</unittitle>
+                  <unitdate type="inclusive">1966,1976</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_38b9335117f4ef0e77ebc9be69a59fa3"
+                             type="box">1</container>
+                  <container id="aspace_765124421aaaef1feff274421bd5e027"
+                             type="folder"
+                             parent="aspace_38b9335117f4ef0e77ebc9be69a59fa3">15</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Michaelson, Robert (includes letter to Mrs. H. Richard Niebuhr)</unittitle>
+                  <unitdate type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_e2baeba5a46a0e7090c48e163f8d797d"
+                             type="box">1</container>
+                  <container id="aspace_5478ce23fd158ddf546beef3fead9c31"
+                             type="folder"
+                             parent="aspace_e2baeba5a46a0e7090c48e163f8d797d">16</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Morris, Jean and Marcia to RPM</unittitle>
+                  <unitdate type="inclusive">1959</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_561a0a8602b1655dcbf11794ce799720"
+                             type="box">1</container>
+                  <container id="aspace_55983f73f2b3005fa42dd3310f93c13e"
+                             type="folder"
+                             parent="aspace_561a0a8602b1655dcbf11794ce799720">17</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>Morris, RP to Jean and family</unittitle>
+                  <unitdate type="inclusive">1956</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_66021fd1e34621bfb00a82da7a56d448"
+                             type="box">1</container>
+                  <container id="aspace_7cf0dfa56560544ea9946f296c5de0d3"
+                             type="folder"
+                             parent="aspace_66021fd1e34621bfb00a82da7a56d448">18</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Morris, RP to Jean and family</unittitle>
+                  <unitdate type="inclusive">1959</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_c87ab6b94913ed7b42a9aa94945abdc2"
+                             type="box">1</container>
+                  <container id="aspace_de4cd509658cee5b8da020afdb4b5103"
+                             type="folder"
+                             parent="aspace_c87ab6b94913ed7b42a9aa94945abdc2">19</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Morris, Thelma</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_a47b40a4c3c834bfc1c531ac10ec0bca"
+                             type="box">1</container>
+                  <container id="aspace_8512b053f021b775fcd83fc4799cc7c1"
+                             type="folder"
+                             parent="aspace_a47b40a4c3c834bfc1c531ac10ec0bca">20</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>Morris, Thelma - letters to family re. events honoring RPM and reminiscences re ATLA Board of Microtext</unittitle>
+                  <unitdate type="inclusive">1982</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_6262bdf5a154dece9bd826e88df35cff"
+                             type="box">15</container>
+                  <container id="aspace_a08e801b4390ec11d09c4e5e92a948a0"
+                             type="folder"
+                             parent="aspace_6262bdf5a154dece9bd826e88df35cff">203</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Morris - various extended family</unittitle>
+                  <unitdate type="inclusive">1960-1969,1982</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_f231f57c8e8e1689fe1e09f56a70a76a"
+                             type="box">1</container>
+                  <container id="aspace_430c5aae669e59a507c39ae89f60dd2e"
+                             type="folder"
+                             parent="aspace_f231f57c8e8e1689fe1e09f56a70a76a">21</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>Morris - circular letters</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_8f1bae1c39ad9bc18669b4c8a03f9b4c"
+                             type="box">1</container>
+                  <container id="aspace_0766cbef3e287f6e46df8abeb05704be"
+                             type="folder"
+                             parent="aspace_8f1bae1c39ad9bc18669b4c8a03f9b4c">22</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>Myers, Rev. Charles D.</unittitle>
+                  <unitdate type="inclusive">1977</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_2f2bbf87dafae80164f676e8c1ef5363"
+                             type="box">1</container>
+                  <container id="aspace_f92abff9a02178494c129391c94c4569"
+                             type="folder"
+                             parent="aspace_2f2bbf87dafae80164f676e8c1ef5363">23</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Newhall, Dr. Jannette E.</unittitle>
+                  <unitdate type="inclusive">1958-1968</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_6cd230731e19375dad6426f589eec4c2"
+                             type="box">1</container>
+                  <container id="aspace_911f87b0ec9df6f0317731c04c05de7c"
+                             type="folder"
+                             parent="aspace_6cd230731e19375dad6426f589eec4c2">24</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>Niebuhr, Richard R.</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_1cd4ba3a178f34dc9bb39b77d2a395af"
+                             type="box">1</container>
+                  <container id="aspace_29a2594fb4e7f8abd4b5bdd8d1bacaaf"
+                             type="folder"
+                             parent="aspace_1cd4ba3a178f34dc9bb39b77d2a395af">25</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>Peterson, Stephen L.</unittitle>
+                  <unitdate type="inclusive">1970-1982</unitdate>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_911b6a0e591373f7240eaa1afaeb3a88"
+                             type="box">1</container>
+                  <container id="aspace_084c43e13d52e9110f40532c2434da95"
+                             type="folder"
+                             parent="aspace_911b6a0e591373f7240eaa1afaeb3a88">26</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>R - S</unittitle>
+                  <container label="Mixed Materials (39002038277381)"
+                             id="aspace_8a4ea06672729911c6ed148890c08444"
+                             type="box">1</container>
+                  <container id="aspace_6ae31e46492a457414d0e72b7787433a"
+                             type="folder"
+                             parent="aspace_8a4ea06672729911c6ed148890c08444">27</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Sarah Marquis Travel Service</unittitle>
+                  <unitdate type="inclusive">1958-1959</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_5b242ea4cfefd6ac5017029e9839de72"
+                             type="box">2</container>
+                  <container id="aspace_1d8f99aeebb61533119d86c680ff1779"
+                             type="folder"
+                             parent="aspace_5b242ea4cfefd6ac5017029e9839de72">28</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Schubert, Dorothy (re: Schubert book collection)</unittitle>
+                  <unitdate type="inclusive">1971-1972</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_4331bc0c62a63bc1d0a7b17fa3704316"
+                             type="box">2</container>
+                  <container id="aspace_afd35b7cfe4b55688c9e1a1d8eef648d"
+                             type="folder"
+                             parent="aspace_4331bc0c62a63bc1d0a7b17fa3704316">29</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>Songco, Socorro</unittitle>
+                  <unitdate type="inclusive">1961-1962</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_9c9639b9f08c5dd23cc619c5cd5292a9"
+                             type="box">2</container>
+                  <container id="aspace_b03b15b1d252cdbd361b09ff3dfbf490"
+                             type="folder"
+                             parent="aspace_9c9639b9f08c5dd23cc619c5cd5292a9">30</container>
+               </did>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>T - V</unittitle>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_ed39b15b807e7ffa20fa374a7cb7b607"
+                             type="box">2</container>
+                  <container id="aspace_ffcee2b409944759ea537da3fa345b44"
+                             type="folder"
+                             parent="aspace_ed39b15b807e7ffa20fa374a7cb7b607">31</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Union Theological Seminary (while RPM was in the Philippines)</unittitle>
+                  <unitdate type="inclusive">1964-1965</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_698efc97eabd525b99971a8017617764"
+                             type="box">2</container>
+                  <container id="aspace_f2aa475bf09bda1a2dc48497e3f77675"
+                             type="folder"
+                             parent="aspace_698efc97eabd525b99971a8017617764">32</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Union Theological Seminary</unittitle>
+                  <unitdate type="inclusive">1950, 1971</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_88795e6c7fb92ee5e29ad960c2b3df48"
+                             type="box">2</container>
+                  <container id="aspace_a91600422acaf7f4d5330a5f84e2af13"
+                             type="folder"
+                             parent="aspace_88795e6c7fb92ee5e29ad960c2b3df48">33</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>University of Notre Dame (Includes: Albert L. Schlitzer and James T. Burtchaell)</unittitle>
+                  <unitdate type="inclusive">1965-1969</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_578af180f9f0a3158e7c93bc9277e228"
+                             type="box">2</container>
+                  <container id="aspace_08769152d0b21134b4e9f8455033efee"
+                             type="folder"
+                             parent="aspace_578af180f9f0a3158e7c93bc9277e228">34</container>
+               </did>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Vieth, Paul and Verna</unittitle>
+                  <unitdate type="inclusive">1977-1978</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_1239f1a2eb8fe8597402826858c00ca5"
+                             type="box">2</container>
+                  <container id="aspace_91c177e15571789e36a165bce44f471a"
+                             type="folder"
+                             parent="aspace_1239f1a2eb8fe8597402826858c00ca5">35</container>
+               </did>
+            </c>
+            <c id="ref51" level="file">
+               <did>
+                  <unittitle>W - Y</unittitle>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_b49bd3cbaf2230560c2ce458fc06d247"
+                             type="box">2</container>
+                  <container id="aspace_384f149f4659036a22f3f5bafd86176e"
+                             type="folder"
+                             parent="aspace_b49bd3cbaf2230560c2ce458fc06d247">36</container>
+               </did>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Weigle, Luther ( re. position as Librarian at Yale Divinity School)</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_d8062c696276fdb3536190a339ed15e6"
+                             type="box">15</container>
+                  <container id="aspace_22463b2728bf74d6b87ef79c985ee4eb"
+                             type="folder"
+                             parent="aspace_d8062c696276fdb3536190a339ed15e6">202</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library staff</unittitle>
+                  <unitdate type="inclusive">1959</unitdate>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_43d96bd953041850ab985a34fd342b83"
+                             type="box">2</container>
+                  <container id="aspace_1bb80146d6d038719e5ec5276f592562"
+                             type="folder"
+                             parent="aspace_43d96bd953041850ab985a34fd342b83">37</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>first name only</unittitle>
+                  <container label="Mixed Materials (39002038277399)"
+                             id="aspace_7cbd26d7482546c53b24d3ee27bb2a8c"
+                             type="box">2</container>
+                  <container id="aspace_2bbb7c6b1823b21e9e6c62767406d7ba"
+                             type="folder"
+                             parent="aspace_7cbd26d7482546c53b24d3ee27bb2a8c">38</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref55" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <c id="ref56" level="subseries">
+               <did>
+                  <unittitle>Articles/ Papers/ Books</unittitle>
+               </did>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>"Christian Inalienable Rights"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_0d6646b1048cf3af5a703eda5735e1ca"
+                                type="box">3</container>
+                     <container id="aspace_0c877fe7895d54efe3aba5b23700e719"
+                                type="folder"
+                                parent="aspace_0d6646b1048cf3af5a703eda5735e1ca">39</container>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>"Church, Its Orders and Sacraments according to the Anglicanism of John Wesley"</unittitle>
+                     <unitdate type="inclusive">after 1962</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_c3a64ea2d07f38317ab9843edb2fd6e9"
+                                type="box">3</container>
+                     <container id="aspace_c50cfc577c0eb597b6e67369fda0dfba"
+                                type="folder"
+                                parent="aspace_c3a64ea2d07f38317ab9843edb2fd6e9">39</container>
+                  </did>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>"Current trends in Religious Thought and Literature" for ALA Round Table.</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_6a437d659f25188f127c87ba3fbde49b"
+                                type="box">3</container>
+                     <container id="aspace_268cd952b3ba6cfa49cc27a57aa51da3"
+                                type="folder"
+                                parent="aspace_6a437d659f25188f127c87ba3fbde49b">40</container>
+                  </did>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>"The Good Book in Religion"</unittitle>
+                     <unitdate type="inclusive">1953</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_768558f1f640f5e8dab6117e984302c1"
+                                type="box">3</container>
+                     <container id="aspace_7a28e398cab27656cd5f3097955c95f6"
+                                type="folder"
+                                parent="aspace_768558f1f640f5e8dab6117e984302c1">40</container>
+                  </did>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>"Implications for the Renewal of the Church for Theological Libraries: A Protestant Appraisal."</unittitle>
+                     <unitdate type="inclusive">1967</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_ba405df4d24f5701a4bf505af03d0814"
+                                type="box">3</container>
+                     <container id="aspace_4e9a77ad67c688fbe14a1ee1b3faca09"
+                                type="folder"
+                                parent="aspace_ba405df4d24f5701a4bf505af03d0814">40</container>
+                  </did>
+               </c>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>Memories of Roland Bainton</unittitle>
+                     <unitdate type="inclusive">1984</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_e337f4466dc60f02fdae2fbef96736b2"
+                                type="box">3</container>
+                     <container id="aspace_22cdb272ee6afecd0e8c78e98c10a764"
+                                type="folder"
+                                parent="aspace_e337f4466dc60f02fdae2fbef96736b2">40</container>
+                  </did>
+               </c>
+               <c id="ref63" level="file">
+                  <did>
+                     <unittitle>"Library Standards for Graduate Theological Work"-draft</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_b8c8360a21436b10997ae4d6606d4da9"
+                                type="box">3</container>
+                     <container id="aspace_08ec6097798c6a2595f8237efb9719f6"
+                                type="folder"
+                                parent="aspace_b8c8360a21436b10997ae4d6606d4da9">41</container>
+                  </did>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Council for Theological Education - draft manuscript</unittitle>
+                     <unitdate type="inclusive">1964</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_3eb847c8a4f76e7358b8ac4d4877980f"
+                                type="box">3</container>
+                     <container id="aspace_c19948d0f0785b8c87b5f533b921e861"
+                                type="folder"
+                                parent="aspace_3eb847c8a4f76e7358b8ac4d4877980f">41</container>
+                  </did>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>"Of Books and Learning"</unittitle>
+                     <unitdate type="inclusive">ca. 1955</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_68df8d13e8c92a16fdf9004f5f2c0710"
+                                type="box">3</container>
+                     <container id="aspace_40e03c0dfb2a6bf804bf1fe0471891cf"
+                                type="folder"
+                                parent="aspace_68df8d13e8c92a16fdf9004f5f2c0710">41</container>
+                  </did>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           A Preliminary and Tentative listing of Books of Christian Theological Institutions in South-East Asia
+                        </title> compiled by RPM</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_c1f51d8b00b6725e8a0ed7bc13d712b2"
+                                type="box">3</container>
+                     <container id="aspace_cfcddb3115e64032eca66a05d400d057"
+                                type="folder"
+                                parent="aspace_c1f51d8b00b6725e8a0ed7bc13d712b2">42</container>
+                  </did>
+               </c>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>"Renovations in a Crowded Cloister" in <title type="simple" render="italic">
+                           The Pioneer
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1955</unitdate>
+                     <container label="Mixed Materials (39002090834897)"
+                                id="aspace_0ebd489dae36a4cd2cedcddc6a3365b3"
+                                type="box">15</container>
+                     <container id="aspace_5042ab6fc95afa9d23dade077d87be9e"
+                                type="folder"
+                                parent="aspace_0ebd489dae36a4cd2cedcddc6a3365b3">200</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>"Revised Standard Version of the New Testament"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_8993d777de3a525d861c7fe334d4ece7"
+                                type="box">3</container>
+                     <container id="aspace_f8118c9874a293dd2bfe441b0b6ee7f1"
+                                type="folder"
+                                parent="aspace_8993d777de3a525d861c7fe334d4ece7">43</container>
+                  </did>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>"Some Impressions of the Libraries in Protestant Theological Institutions in Southeast Asia and their implications for the Christian Church."</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_ebebbf9647ede75d6e314428de3adaa2"
+                                type="box">3</container>
+                     <container id="aspace_5143d985fc322bde53d04efe9f05607d"
+                                type="folder"
+                                parent="aspace_ebebbf9647ede75d6e314428de3adaa2">43</container>
+                  </did>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>"Study of the Library facilities of the Boston University School of Theology."</unittitle>
+                     <unitdate type="inclusive">1932</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_3624232ce88fa2eeab936b13911412e7"
+                                type="box">3</container>
+                     <container id="aspace_d3c95fc9ccb9847c92e0f136f0bb18c2"
+                                type="folder"
+                                parent="aspace_3624232ce88fa2eeab936b13911412e7">44</container>
+                  </did>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>"Theological Librarianship as a Ministry" in <title type="simple" render="italic">
+                           Yale Divinity News
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1954</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_332114e691aa365749bacaa13a55aa95"
+                                type="box">3</container>
+                     <container id="aspace_8014a3732e2952333141ce63b07b2ddd"
+                                type="folder"
+                                parent="aspace_332114e691aa365749bacaa13a55aa95">44</container>
+                  </did>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>"Theology: in Transition, in Interlude"</unittitle>
+                     <unitdate type="inclusive">1966</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_222a5099037aa6ae95f323f726b650f6"
+                                type="box">3</container>
+                     <container id="aspace_87194ca882d2324eadc6be14bc91b7f0"
+                                type="folder"
+                                parent="aspace_222a5099037aa6ae95f323f726b650f6">44</container>
+                  </did>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           A Theological Book List
+                        </title> by RPM</unittitle>
+                     <unitdate type="inclusive">1960</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_fc63cf8f27d82f22e9abeafc56b4a533"
+                                type="box">3</container>
+                     <container id="aspace_a33836e689fe26bbebd2393efc91e7ad"
+                                type="folder"
+                                parent="aspace_fc63cf8f27d82f22e9abeafc56b4a533">45</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           A Theological Book List
+                        </title> - "An exact reprint of the 1960 text with a revised and enlarged index" - Published for The Theological Education Fund</unittitle>
+                     <unitdate type="inclusive">1971</unitdate>
+                     <container label="Mixed Materials (39002090834897)"
+                                id="aspace_92d2334ade8bef62601f3a31af714587"
+                                type="box">15</container>
+                     <container id="aspace_2c5ccf7a2a04124f4963aa0fbd5b5e32"
+                                type="folder"
+                                parent="aspace_92d2334ade8bef62601f3a31af714587">198</container>
+                  </did>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>"Why Dominie Doesn't Read"</unittitle>
+                     <unitdate type="inclusive">1965</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_8bce4c5a2133cb4126989f1519f8f44d"
+                                type="box">3</container>
+                     <container id="aspace_b22e71181e2826522ee84ed0ae72edaa"
+                                type="folder"
+                                parent="aspace_8bce4c5a2133cb4126989f1519f8f44d">46</container>
+                  </did>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>"Yale and the English Bible"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_fafd28d25f04b1f3b6b1c6239d1eedb0"
+                                type="box">3</container>
+                     <container id="aspace_39230dc8822e5006bb9f08f115541dc7"
+                                type="folder"
+                                parent="aspace_fafd28d25f04b1f3b6b1c6239d1eedb0">46</container>
+                  </did>
+               </c>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>Review: Fellowship of Saints by T. Kepler</unittitle>
+                     <unitdate type="inclusive">1948</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_4b3ff823049f2ba1bfa43b0c10f89e15"
+                                type="box">3</container>
+                     <container id="aspace_d60d624c22faa7733c9ea9a938e6c305"
+                                type="folder"
+                                parent="aspace_4b3ff823049f2ba1bfa43b0c10f89e15">47</container>
+                  </did>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>Review: Name of God by P. Crawford</unittitle>
+                     <unitdate type="inclusive">1972</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_f47cdcc5e7e093b9de5f709aba439200"
+                                type="box">3</container>
+                     <container id="aspace_5d9efd7bc17b9b2de0bcff220d31bc93"
+                                type="folder"
+                                parent="aspace_f47cdcc5e7e093b9de5f709aba439200">47</container>
+                  </did>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>Review: Dr. William's Library by Dr. Williams</unittitle>
+                     <unitdate type="inclusive">1955</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_3eb46feed4dab86366e23831e212dbdb"
+                                type="box">3</container>
+                     <container id="aspace_1941608df104979a459ceca1b4466fd1"
+                                type="folder"
+                                parent="aspace_3eb46feed4dab86366e23831e212dbdb">47</container>
+                  </did>
+               </c>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>unidentified review</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_bfcd4ab6068b370fdbee6efb59d705c9"
+                                type="box">3</container>
+                     <container id="aspace_6afcab0d09a16c6bb51eedd65db96c9b"
+                                type="folder"
+                                parent="aspace_bfcd4ab6068b370fdbee6efb59d705c9">47</container>
+                  </did>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>miscellaneous manuscripts; untitled</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_86ac44fe46ee872e2dc848f8334da4d4"
+                                type="box">3</container>
+                     <container id="aspace_e9c13123487fea9fc747d9cb4a59096a"
+                                type="folder"
+                                parent="aspace_86ac44fe46ee872e2dc848f8334da4d4">48</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref82" level="subseries">
+               <did>
+                  <unittitle>Sermons/ Addresses</unittitle>
+               </did>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>Sermons</unittitle>
+                     <unitdate type="inclusive">1944-1953</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_973a5253dea36f47a1842cce4b7a3496"
+                                type="box">3</container>
+                     <container id="aspace_fbc65f617320d75a4e87dd3c03643510"
+                                type="folder"
+                                parent="aspace_973a5253dea36f47a1842cce4b7a3496">49</container>
+                  </did>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>Sermons</unittitle>
+                     <unitdate type="inclusive">1954-1960</unitdate>
+                     <container label="Mixed Materials (39002038277407)"
+                                id="aspace_3a3945ec9f2dd9470e784edaadacea16"
+                                type="box">3</container>
+                     <container id="aspace_086ce357280bde62398397dfb2370ba2"
+                                type="folder"
+                                parent="aspace_3a3945ec9f2dd9470e784edaadacea16">50</container>
+                  </did>
+               </c>
+               <c id="ref85" level="file">
+                  <did>
+                     <unittitle>Sermons</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_b42ef9e89812ad7cfcabd57e95ea38c5"
+                                type="box">4</container>
+                     <container id="aspace_ba712457003e7f82da883aa2ddd0a54f"
+                                type="folder"
+                                parent="aspace_b42ef9e89812ad7cfcabd57e95ea38c5">51</container>
+                  </did>
+               </c>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>Sermons</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_5888ddf187c8c3ceec0f8db42f5d0810"
+                                type="box">4</container>
+                     <container id="aspace_598f5b6721a486a2940fea8687bd7358"
+                                type="folder"
+                                parent="aspace_5888ddf187c8c3ceec0f8db42f5d0810">52</container>
+                  </did>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>Sermons</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_c647dcd521167f802036fe3fee5bbc1d"
+                                type="box">4</container>
+                     <container id="aspace_7e6e0f7962e33a81a029a040990b013f"
+                                type="folder"
+                                parent="aspace_c647dcd521167f802036fe3fee5bbc1d">53</container>
+                  </did>
+               </c>
+               <c id="ref88" level="file">
+                  <did>
+                     <unittitle>Sermon fragments and miscellaneous sermon material</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_94a5b33219244a534f6a561cf4e62666"
+                                type="box">4</container>
+                     <container id="aspace_c67ccc2668d6ea4c497651781f39c845"
+                                type="folder"
+                                parent="aspace_94a5b33219244a534f6a561cf4e62666">54</container>
+                  </did>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>Worship service bulletins</unittitle>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_2767bff70698217726560ab4d52433d5"
+                                type="box">4</container>
+                     <container id="aspace_9817dbd4d0ab734f8b25f42984837da7"
+                                type="folder"
+                                parent="aspace_2767bff70698217726560ab4d52433d5">55</container>
+                  </did>
+               </c>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Prayers</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_d1ae9c33b7bdab917be48cb27ad3cdeb"
+                                type="box">4</container>
+                     <container id="aspace_b033b4cf989213602d371ced3119a017"
+                                type="folder"
+                                parent="aspace_d1ae9c33b7bdab917be48cb27ad3cdeb">56</container>
+                  </did>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>Luther Weigle memorial address</unittitle>
+                     <unitdate type="inclusive">1976 Sep 9</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_0a290523571625150bf75e031f0d1d0b"
+                                type="box">4</container>
+                     <container id="aspace_1802274225f0b7c3e726b4863519b687"
+                                type="folder"
+                                parent="aspace_0a290523571625150bf75e031f0d1d0b">57</container>
+                  </did>
+               </c>
+               <c id="ref92" level="file">
+                  <did>
+                     <unittitle>L. Weigle honorary degree by Standard Bible Committee</unittitle>
+                     <unitdate type="inclusive">1966 Feb 1</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_e6c79babdd3eb946734e2aa4f240f95a"
+                                type="box">4</container>
+                     <container id="aspace_7b26f3318539c702ef33825071a9b1af"
+                                type="folder"
+                                parent="aspace_e6c79babdd3eb946734e2aa4f240f95a">57</container>
+                  </did>
+               </c>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>Clarence Shedd memorial service</unittitle>
+                     <unitdate type="inclusive">1973 Dec 1</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_09518e3533d697cd315ac785d4056c7d"
+                                type="box">4</container>
+                     <container id="aspace_4b6a73bfc4d5c0b58d4db9ac2a7f1593"
+                                type="folder"
+                                parent="aspace_09518e3533d697cd315ac785d4056c7d">58</container>
+                  </did>
+               </c>
+               <c id="ref94" level="file">
+                  <did>
+                     <unittitle>Biblical Seminary in New York</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_e1500f9be67ea5b98a2eeeb31af703e8"
+                                type="box">4</container>
+                     <container id="aspace_2fbf21ecb0a37c0ef611f61db50cf9e5"
+                                type="folder"
+                                parent="aspace_e1500f9be67ea5b98a2eeeb31af703e8">59</container>
+                  </did>
+               </c>
+               <c id="ref95" level="file">
+                  <did>
+                     <unittitle>Episcopal Theological Seminary in the Southwest - commencement address</unittitle>
+                     <unitdate type="inclusive">1964 May 19</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_7d21aa9ee89e3874df2a84b483231381"
+                                type="box">4</container>
+                     <container id="aspace_accb0ddf683a6116f82bd584ad595152"
+                                type="folder"
+                                parent="aspace_7d21aa9ee89e3874df2a84b483231381">60</container>
+                  </did>
+               </c>
+               <c id="ref96" level="file">
+                  <did>
+                     <unittitle>Episcopal Theological School, Massachusetts - convocation address</unittitle>
+                     <unitdate type="inclusive">1966 Oct</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_81a0504f752123eeaffb466ae3e2206a"
+                                type="box">4</container>
+                     <container id="aspace_2fc47f9fc4a1b6b612ee3e3839919de0"
+                                type="folder"
+                                parent="aspace_81a0504f752123eeaffb466ae3e2206a">61</container>
+                  </did>
+               </c>
+               <c id="ref97" level="file">
+                  <did>
+                     <unittitle>Silliman College, Philippines - Honors Day address and 'Librarianship as Ministry' talk</unittitle>
+                     <unitdate type="inclusive">1959</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_af49c3f97a0f490f6bc46675f4ca62e4"
+                                type="box">4</container>
+                     <container id="aspace_b33c0974eddbf2e85e179ddc01602bc0"
+                                type="folder"
+                                parent="aspace_af49c3f97a0f490f6bc46675f4ca62e4">62</container>
+                  </did>
+               </c>
+               <c id="ref98" level="file">
+                  <did>
+                     <unittitle>Paul Minear: Yale Divinity School Shaffer Lectures - introduction</unittitle>
+                     <unitdate type="inclusive">1974 Feb</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_c35d2626fcc45c438532116a6f88ce7a"
+                                type="box">4</container>
+                     <container id="aspace_b49b8e9cc72ee206ae08efa8d16214af"
+                                type="folder"
+                                parent="aspace_c35d2626fcc45c438532116a6f88ce7a">63</container>
+                  </did>
+               </c>
+               <c id="ref99" level="file">
+                  <did>
+                     <unittitle>Douglas Clyde Macintosh - reflections on the life of</unittitle>
+                     <unitdate type="inclusive">1980 Feb 13</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_ed90b643fb2e2f7acff452521d23cfdb"
+                                type="box">4</container>
+                     <container id="aspace_b60b46c56e86f30c00abc9de16b7b24a"
+                                type="folder"
+                                parent="aspace_ed90b643fb2e2f7acff452521d23cfdb">64</container>
+                  </did>
+               </c>
+               <c id="ref100" level="file">
+                  <did>
+                     <unittitle>Ruth Bainton memorial service</unittitle>
+                     <unitdate type="inclusive">1966 May 15</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_32b75b5bed40892bcdb092197d445200"
+                                type="box">4</container>
+                     <container id="aspace_d62635e6a7d0777e133ca8ddabfb5b48"
+                                type="folder"
+                                parent="aspace_32b75b5bed40892bcdb092197d445200">65</container>
+                  </did>
+               </c>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>Robert Calhoun memorial service</unittitle>
+                     <unitdate type="inclusive">1983 Sep 28</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_974f4e5ccec8fdf293e6ce07f2b0dc1b"
+                                type="box">4</container>
+                     <container id="aspace_9c9648755ed7e1036c560f9868aadd5f"
+                                type="folder"
+                                parent="aspace_974f4e5ccec8fdf293e6ce07f2b0dc1b">66</container>
+                  </did>
+               </c>
+               <c id="ref102" level="file">
+                  <did>
+                     <unittitle>Liston Pope memorial service</unittitle>
+                     <unitdate type="inclusive">1974</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_219ffee7c4c939866214eab3f144e798"
+                                type="box">4</container>
+                     <container id="aspace_a2102b7480b7da7e0237413309eacb6e"
+                                type="folder"
+                                parent="aspace_219ffee7c4c939866214eab3f144e798">67</container>
+                  </did>
+               </c>
+               <c id="ref103" level="file">
+                  <did>
+                     <unittitle>Miscellaneous addresses</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038277415)"
+                                id="aspace_d91975f7c0b8b64d22876618a03bb86e"
+                                type="box">4</container>
+                     <container id="aspace_a2366690289e1f34d0811947fe474d47"
+                                type="folder"
+                                parent="aspace_d91975f7c0b8b64d22876618a03bb86e">68</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref104" level="subseries">
+               <did>
+                  <unittitle>Unpublished writings</unittitle>
+               </did>
+               <c id="ref105" level="file">
+                  <did>
+                     <unittitle>"A Study of the Library Facilities of a Group of Representative Protestant Theological Seminaries in the United States and Canada" - submitted in partial fulfillment of the requirements for the degree of Master of Science in the School of Library Service, Columbia University</unittitle>
+                     <unitdate type="inclusive">1932</unitdate>
+                     <container label="Mixed Materials (39002090834897)"
+                                id="aspace_c6c8802f2d1bc3981973527f49033c34"
+                                type="box">15</container>
+                     <container id="aspace_ddd89a7ea2f5c9ca8933ef5b047b55f7"
+                                type="folder"
+                                parent="aspace_c6c8802f2d1bc3981973527f49033c34">196</container>
+                  </did>
+               </c>
+               <c id="ref106" level="file">
+                  <did>
+                     <unittitle>"A Preliminary and Tentative Listing of Books for the Libraries of Christian Theological Education in Southeastern Asia" - compiled for The Nanking Board of Founders</unittitle>
+                     <unitdate type="inclusive">1958++</unitdate>
+                     <container label="Mixed Materials (39002090834897)"
+                                id="aspace_83a0cac8ed44b0e15f2dd3b92690161e"
+                                type="box">15</container>
+                     <container id="aspace_4ce11ba2b902311939d5ba18b3a1564e"
+                                type="folder"
+                                parent="aspace_83a0cac8ed44b0e15f2dd3b92690161e">197</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref107" level="series">
+            <did>
+               <unittitle>Professional Activities, Committees Projects</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <c id="ref108" level="file">
+               <did>
+                  <unittitle>American Association of Theological Schools - accreditation information</unittitle>
+                  <unitdate type="inclusive">1965-1966</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_7ebdbe4377b333eafafc49cdf6b5eead"
+                             type="box">5</container>
+                  <container id="aspace_f6e64f599db587b37aebb98cd8fb83d6"
+                             type="folder"
+                             parent="aspace_7ebdbe4377b333eafafc49cdf6b5eead">69</container>
+               </did>
+            </c>
+            <c id="ref109" level="file">
+               <did>
+                  <unittitle>American Association of Theological Schools - G. W. Webber committee and proposal</unittitle>
+                  <unitdate type="inclusive">1967</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_ad10fff03ebae04489c710ad2883251b"
+                             type="box">5</container>
+                  <container id="aspace_0feac36c45ab6d483aeba17c6cfea1e6"
+                             type="folder"
+                             parent="aspace_ad10fff03ebae04489c710ad2883251b">70</container>
+               </did>
+            </c>
+            <c id="ref110" level="file">
+               <did>
+                  <unittitle>American Association of Theological Schools - collected material</unittitle>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_73c8473ef6dc24df6145bfbca2494978"
+                             type="box">5</container>
+                  <container id="aspace_ded1c9951980787bf3e63ba7d4469862"
+                             type="folder"
+                             parent="aspace_73c8473ef6dc24df6145bfbca2494978">71</container>
+               </did>
+            </c>
+            <c id="ref111" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -"A Summary 1961-1966" report by RPM</unittitle>
+                  <unitdate type="inclusive">1967 Jun</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_c2ab618129a3c879bc5c4bb58764c783"
+                             type="box">5</container>
+                  <container id="aspace_22f927a41324960d5f7f567d00077944"
+                             type="folder"
+                             parent="aspace_c2ab618129a3c879bc5c4bb58764c783">72</container>
+               </did>
+            </c>
+            <c id="ref112" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Board of Microtext</unittitle>
+                  <unitdate type="inclusive">1959, 1969-1974</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_91a7d9facaba264256e28f54e9c717bd"
+                             type="box">5</container>
+                  <container id="aspace_e4269f2a57ceeb0827629359cfd83bba"
+                             type="folder"
+                             parent="aspace_91a7d9facaba264256e28f54e9c717bd">73</container>
+               </did>
+            </c>
+            <c id="ref113" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Committee on Financial Assistance from Foundations</unittitle>
+                  <unitdate type="inclusive">1965-1972</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_9f831f89e7a1ddfbd6070302f0aa7917"
+                             type="box">5</container>
+                  <container id="aspace_dabb8a4b7fdb44bd31a850b5bf9601fa"
+                             type="folder"
+                             parent="aspace_9f831f89e7a1ddfbd6070302f0aa7917">74</container>
+               </did>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Accreditation for Earlham School of Religion</unittitle>
+                  <unitdate type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_5cb760f6934f3c097412273e072af6e7"
+                             type="box">5</container>
+                  <container id="aspace_1429406c021d446a4f0aa94d65075814"
+                             type="folder"
+                             parent="aspace_5cb760f6934f3c097412273e072af6e7">75</container>
+               </did>
+            </c>
+            <c id="ref115" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Conference in Toronto</unittitle>
+                  <unitdate type="inclusive">1982</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_6abdd7f7d440e161ff22c28557fe4fa9"
+                             type="box">5</container>
+                  <container id="aspace_81e1d415d30a63ba12ffa7b732874d06"
+                             type="folder"
+                             parent="aspace_6abdd7f7d440e161ff22c28557fe4fa9">76</container>
+               </did>
+            </c>
+            <c id="ref116" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Correspondence to Catholic Seminary Librarians meeting</unittitle>
+                  <unitdate type="inclusive">1966-1967</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_cba8afa756fc1690cc95894cf2c25a03"
+                             type="box">5</container>
+                  <container id="aspace_65f0d80ac691ff67b9756cc78dcbfca3"
+                             type="folder"
+                             parent="aspace_cba8afa756fc1690cc95894cf2c25a03">77</container>
+               </did>
+            </c>
+            <c id="ref117" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Correspondence to theological schools: Austin Presbyterian to Wesley Theological Seminary</unittitle>
+                  <unitdate type="inclusive">1962</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_37800044e58b13d07091c7bc56511fa8"
+                             type="box">5</container>
+                  <container id="aspace_d7bc4202ca991e51a28da4e0961468b2"
+                             type="folder"
+                             parent="aspace_37800044e58b13d07091c7bc56511fa8">78</container>
+               </did>
+            </c>
+            <c id="ref118" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Correspondence to Dr. Jesse H. Ziegler at AATS</unittitle>
+                  <unitdate type="inclusive">1961, 1968</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_e55005d335f08617c4df4f64fd31bf3c"
+                             type="box">5</container>
+                  <container id="aspace_a610504b480c45e720b0a40504a40639"
+                             type="folder"
+                             parent="aspace_e55005d335f08617c4df4f64fd31bf3c">79</container>
+               </did>
+            </c>
+            <c id="ref119" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Correspondence to Elmer J. O'Brien at AATS</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_79d92d3d3ffe124f5769b0ace50d6422"
+                             type="box">5</container>
+                  <container id="aspace_86e45df90877972b05c42af74bdee14d"
+                             type="folder"
+                             parent="aspace_79d92d3d3ffe124f5769b0ace50d6422">80</container>
+               </did>
+            </c>
+            <c id="ref120" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Correspondence to United Theological College, Bangalore, India</unittitle>
+                  <unitdate type="inclusive">1970</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_b2251927f309abf86fc4fb64708562be"
+                             type="box">5</container>
+                  <container id="aspace_ac313133199b50862197ed38dd872540"
+                             type="folder"
+                             parent="aspace_b2251927f309abf86fc4fb64708562be">81</container>
+               </did>
+            </c>
+            <c id="ref121" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Funding from Sealantic Inc. (includes correspondence with Yorke Allen.)</unittitle>
+                  <unitdate type="inclusive">1958-1960</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_b6a134c4736648e2f49d43a1c2702820"
+                             type="box">5</container>
+                  <container id="aspace_f729b30e4b8947445cd396563f92b1c5"
+                             type="folder"
+                             parent="aspace_b6a134c4736648e2f49d43a1c2702820">82</container>
+               </did>
+            </c>
+            <c id="ref122" level="file">
+               <did>
+                  <unittitle>American Theological Library Association-Funding from Sealantic Inc.</unittitle>
+                  <unitdate type="inclusive">1961-1976</unitdate>
+                  <container label="Mixed Materials (39002038277423)"
+                             id="aspace_e537460b43f9094dffe8337bd35e259f"
+                             type="box">5</container>
+                  <container id="aspace_49ae93cfb963166e4c665e2e4437be49"
+                             type="folder"
+                             parent="aspace_e537460b43f9094dffe8337bd35e259f">83</container>
+               </did>
+            </c>
+            <c id="ref123" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Negro Theological Education, Interdenominational Theological Center in Atlanta. Includes letter to H. Richard Niebuhr</unittitle>
+                  <unitdate type="inclusive">1961-1962</unitdate>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_46fe17a5ca9b3d5319a16ae0bf2b3a77"
+                             type="box">6</container>
+                  <container id="aspace_5d6ecab6f7d93637aa806dc69cfb5a85"
+                             type="folder"
+                             parent="aspace_46fe17a5ca9b3d5319a16ae0bf2b3a77">84</container>
+               </did>
+            </c>
+            <c id="ref124" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Records and Payments to Institutions</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_cd9b875cd57fe6a04599d126b3c48bb1"
+                             type="box">6</container>
+                  <container id="aspace_45b945f1d7c4b6407ff1820dda4dcf3c"
+                             type="folder"
+                             parent="aspace_cd9b875cd57fe6a04599d126b3c48bb1">85</container>
+               </did>
+            </c>
+            <c id="ref125" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Library consultation program</unittitle>
+                  <unitdate type="inclusive">1972-1973</unitdate>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_8bdcbec5375831d6481a619d04e697d4"
+                             type="box">6</container>
+                  <container id="aspace_f34ac847eeceea041910c124d704bd65"
+                             type="folder"
+                             parent="aspace_8bdcbec5375831d6481a619d04e697d4">86</container>
+               </did>
+            </c>
+            <c id="ref126" level="file">
+               <did>
+                  <unittitle>American Association of Theological Schools -Proposals and Reports</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_98ef3c475dd94028203b2822dc20d868"
+                             type="box">6</container>
+                  <container id="aspace_c0d01b3f72e552e38222713e8f3652d3"
+                             type="folder"
+                             parent="aspace_98ef3c475dd94028203b2822dc20d868">87</container>
+               </did>
+            </c>
+            <c id="ref127" level="file">
+               <did>
+                  <unittitle>American Theological Library Association -Published aids</unittitle>
+                  <unitdate type="inclusive">1965-1972</unitdate>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_7a7599d85edfa0942ef9d38ffcb5372e"
+                             type="box">6</container>
+                  <container id="aspace_7ff9e77b6937cdd99c2132568fc822be"
+                             type="folder"
+                             parent="aspace_7a7599d85edfa0942ef9d38ffcb5372e">88</container>
+               </did>
+            </c>
+            <c id="ref128" level="file">
+               <did>
+                  <unittitle>American Theological Library Association Library Development Program - "Aids to a Theological Library - Selected Basic Reference Books and Periodicals"</unittitle>
+                  <unitdate type="inclusive">1969</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_8e0452827c291c95e9f122804aa33429"
+                             type="box">15</container>
+                  <container id="aspace_853606b4d2f5d51c80b45e5c08ed45a0"
+                             type="folder"
+                             parent="aspace_8e0452827c291c95e9f122804aa33429">199</container>
+               </did>
+            </c>
+            <c id="ref129" level="file">
+               <did>
+                  <unittitle>China Records Project: Addresses</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_0bbf1f82385c51bf02ae7247a1c16353"
+                             type="box">6</container>
+                  <container id="aspace_948bf549f9d669a8d6f04e9b843fe6b6"
+                             type="folder"
+                             parent="aspace_0bbf1f82385c51bf02ae7247a1c16353">89</container>
+               </did>
+            </c>
+            <c id="ref130" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - A</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_04e7767be8d4204938d60f4723610701"
+                             type="box">6</container>
+                  <container id="aspace_3df9f3ef7ed19f617c81c3ad9f6802bb"
+                             type="folder"
+                             parent="aspace_04e7767be8d4204938d60f4723610701">90</container>
+               </did>
+            </c>
+            <c id="ref131" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - B</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_090106943d6f0b65fa9072f3da262af4"
+                             type="box">6</container>
+                  <container id="aspace_654d6e8844fdfac70133082bb0752cb8"
+                             type="folder"
+                             parent="aspace_090106943d6f0b65fa9072f3da262af4">91</container>
+               </did>
+            </c>
+            <c id="ref132" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - C</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_0fb9ed90c791c31adae28e539e09ee9f"
+                             type="box">6</container>
+                  <container id="aspace_d4626cdc14a7b967940a230b6c897e53"
+                             type="folder"
+                             parent="aspace_0fb9ed90c791c31adae28e539e09ee9f">92</container>
+               </did>
+            </c>
+            <c id="ref133" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - D - E</unittitle>
+                  <container label="Mixed Materials (39002038277449)"
+                             id="aspace_0f49b4f101d5046f43d5b8f85b5c6134"
+                             type="box">6</container>
+                  <container id="aspace_d5b4346199a458cf81c8a7af968805f5"
+                             type="folder"
+                             parent="aspace_0f49b4f101d5046f43d5b8f85b5c6134">93</container>
+               </did>
+            </c>
+            <c id="ref134" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - Erickson, Mrs. C. Telford</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_21a453a37934428a175ed79bb1009635"
+                             type="box">7</container>
+                  <container id="aspace_c68406319ecaf83ec52235890ad86b71"
+                             type="folder"
+                             parent="aspace_21a453a37934428a175ed79bb1009635">102</container>
+               </did>
+            </c>
+            <c id="ref135" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - F - G</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_48a355fb66c8e66a71b9725119c5c503"
+                             type="box">7</container>
+                  <container id="aspace_ff21c227f4462487fe3ab55a2199d54d"
+                             type="folder"
+                             parent="aspace_48a355fb66c8e66a71b9725119c5c503">94</container>
+               </did>
+            </c>
+            <c id="ref136" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - H</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_73add588f092850d841706df78c8e493"
+                             type="box">7</container>
+                  <container id="aspace_7f298ff3a083aa85cb9970c121dfc14f"
+                             type="folder"
+                             parent="aspace_73add588f092850d841706df78c8e493">95</container>
+               </did>
+            </c>
+            <c id="ref137" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - I - K</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_b85eba59c2431654f2e22f781d23efa7"
+                             type="box">7</container>
+                  <container id="aspace_f5a8198c74647d286ed760d8461e33ec"
+                             type="folder"
+                             parent="aspace_b85eba59c2431654f2e22f781d23efa7">96</container>
+               </did>
+            </c>
+            <c id="ref138" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - L</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_54063d07b45ea2e453238c3cfdbbac63"
+                             type="box">7</container>
+                  <container id="aspace_b9a1c7fceb31fa9255e9e5d030c66319"
+                             type="folder"
+                             parent="aspace_54063d07b45ea2e453238c3cfdbbac63">97</container>
+               </did>
+            </c>
+            <c id="ref139" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - M - N</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_d27c3df79bd7e0bda1606fd333195f37"
+                             type="box">7</container>
+                  <container id="aspace_919585627156bd1129367bfef32541fc"
+                             type="folder"
+                             parent="aspace_d27c3df79bd7e0bda1606fd333195f37">98</container>
+               </did>
+            </c>
+            <c id="ref140" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - O</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_85fed386f17dbb8a310bc2bafca58b89"
+                             type="box">7</container>
+                  <container id="aspace_baff5dcbdf1bc783ac451329a9fed426"
+                             type="folder"
+                             parent="aspace_85fed386f17dbb8a310bc2bafca58b89">99</container>
+               </did>
+            </c>
+            <c id="ref141" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - P - R</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_8201be367fa4129d4405822465b40796"
+                             type="box">7</container>
+                  <container id="aspace_7c82d51ba4438028d58da7813b044b8d"
+                             type="folder"
+                             parent="aspace_8201be367fa4129d4405822465b40796">100</container>
+               </did>
+            </c>
+            <c id="ref142" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - S</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_2c29b8664871176599f0ece93384998f"
+                             type="box">7</container>
+                  <container id="aspace_08109a888604b7da60507f7f5e802611"
+                             type="folder"
+                             parent="aspace_2c29b8664871176599f0ece93384998f">101</container>
+               </did>
+            </c>
+            <c id="ref143" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - T - V</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_c2a7eaabfc5076ea27c4476e4f69be45"
+                             type="box">7</container>
+                  <container id="aspace_6d90212deea11fb3553eaab06fb087d1"
+                             type="folder"
+                             parent="aspace_c2a7eaabfc5076ea27c4476e4f69be45">103</container>
+               </did>
+            </c>
+            <c id="ref144" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - W</unittitle>
+                  <container label="Mixed Materials (39002038277456)"
+                             id="aspace_97891e9c58e51e143489edf71a3cf88f"
+                             type="box">7</container>
+                  <container id="aspace_1ab8b2581d41087798cb70c2ef084ee0"
+                             type="folder"
+                             parent="aspace_97891e9c58e51e143489edf71a3cf88f">104</container>
+               </did>
+            </c>
+            <c id="ref145" level="file">
+               <did>
+                  <unittitle>China Records Project: Correspondence - X - Z</unittitle>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_d0649edfc6597fb064d22f5e77f77075"
+                             type="box">8</container>
+                  <container id="aspace_ef618313c85f9312ee959a5e9384af0c"
+                             type="folder"
+                             parent="aspace_d0649edfc6597fb064d22f5e77f77075">105</container>
+               </did>
+            </c>
+            <c id="ref146" level="file">
+               <did>
+                  <unittitle>Collected quotations</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_1a909277aa20b8d5f737c8bd40ffbc9d"
+                             type="box">8</container>
+                  <container id="aspace_7ed3772a055789dbbf82715b53a3c2ac"
+                             type="folder"
+                             parent="aspace_1a909277aa20b8d5f737c8bd40ffbc9d">106</container>
+               </did>
+            </c>
+            <c id="ref147" level="file">
+               <did>
+                  <unittitle>Ecumenical Library Project, Evangelical Seminary of Puerto Rico</unittitle>
+                  <unitdate type="inclusive">1962-1968</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_302620774ac5fbf077fbc2c33d447570"
+                             type="box">8</container>
+                  <container id="aspace_8a5f6e2363b8121f95e23e5bc8e0713d"
+                             type="folder"
+                             parent="aspace_302620774ac5fbf077fbc2c33d447570">107</container>
+               </did>
+            </c>
+            <c id="ref148" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Board of Directors meetings</unittitle>
+                  <unitdate type="inclusive">1969-1972</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_06535f8c9b6f538faffb490236754b41"
+                             type="box">8</container>
+                  <container id="aspace_1c3c4cab87a7099c99f0737698731b8f"
+                             type="folder"
+                             parent="aspace_06535f8c9b6f538faffb490236754b41">108</container>
+               </did>
+            </c>
+            <c id="ref149" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Board of Directors meetings</unittitle>
+                  <unitdate type="inclusive">1971 Jun</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_296880b07e5bc563cdfd219fb20427d9"
+                             type="box">8</container>
+                  <container id="aspace_67b74735f924429cd28bd69686e71341"
+                             type="folder"
+                             parent="aspace_296880b07e5bc563cdfd219fb20427d9">109</container>
+               </did>
+            </c>
+            <c id="ref150" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Board of Directors meetings</unittitle>
+                  <unitdate type="inclusive">1972 Jun</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_f1d224fc1ed389357e83ff47fceeba6f"
+                             type="box">8</container>
+                  <container id="aspace_e206fe40a2d171a1c7aa9acdb755ea97"
+                             type="folder"
+                             parent="aspace_f1d224fc1ed389357e83ff47fceeba6f">110</container>
+               </did>
+            </c>
+            <c id="ref151" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Board of Directors meetings</unittitle>
+                  <unitdate type="inclusive">1974 Oct</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_3295caf19abf577a8d57daea051ddcad"
+                             type="box">8</container>
+                  <container id="aspace_4ba649c70ae75066e1b6017fc8328627"
+                             type="folder"
+                             parent="aspace_3295caf19abf577a8d57daea051ddcad">111</container>
+               </did>
+            </c>
+            <c id="ref152" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Board of Directors meetings</unittitle>
+                  <unitdate type="inclusive">1976</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_2b5c4081203bc5a296d9eb0f2ea49c80"
+                             type="box">8</container>
+                  <container id="aspace_980ad020f6c933b7f507d42405419212"
+                             type="folder"
+                             parent="aspace_2b5c4081203bc5a296d9eb0f2ea49c80">112</container>
+               </did>
+            </c>
+            <c id="ref153" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Budgets and finance reports</unittitle>
+                  <unitdate type="inclusive">1968-1976</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_9524b1b110dbe4068d900d7a67a46329"
+                             type="box">8</container>
+                  <container id="aspace_61956d6d9c039233fd4fac4de1941a16"
+                             type="folder"
+                             parent="aspace_9524b1b110dbe4068d900d7a67a46329">113</container>
+               </did>
+            </c>
+            <c id="ref154" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Charles Grace Award</unittitle>
+                  <unitdate type="inclusive">1971</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_d2cf0c2359b54aa3feda91a458fdaa74"
+                             type="box">8</container>
+                  <container id="aspace_bef79f1b058bbad611ab2b3be74278e5"
+                             type="folder"
+                             parent="aspace_d2cf0c2359b54aa3feda91a458fdaa74">114</container>
+               </did>
+            </c>
+            <c id="ref155" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research-Conference on the formation and transmission of values in society</unittitle>
+                  <unitdate type="inclusive">1972</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_2cd00f3ca1f5f573db34ac5fdb53fcbb"
+                             type="box">8</container>
+                  <container id="aspace_02cee058dc7a1e182eb1cd269b6cd2dc"
+                             type="folder"
+                             parent="aspace_2cd00f3ca1f5f573db34ac5fdb53fcbb">115</container>
+               </did>
+            </c>
+            <c id="ref156" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Constitutions and bylaws</unittitle>
+                  <unitdate type="inclusive">1971</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_a175bafb05bc5d1ffe365f7116ecf558"
+                             type="box">8</container>
+                  <container id="aspace_69e70cecda23a267cb2058d83de53b1e"
+                             type="folder"
+                             parent="aspace_a175bafb05bc5d1ffe365f7116ecf558">116</container>
+               </did>
+            </c>
+            <c id="ref157" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1969-1971 Aug</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_ec5cde2bfb6c1d0f426d32d46c25444e"
+                             type="box">8</container>
+                  <container id="aspace_23a2d892df3f4fb1c2cec110ae49ead5"
+                             type="folder"
+                             parent="aspace_ec5cde2bfb6c1d0f426d32d46c25444e">117</container>
+               </did>
+            </c>
+            <c id="ref158" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1971 Sep - 1972 Jan</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_8fd5d510bac4bb048d0a60b9069ad3e1"
+                             type="box">8</container>
+                  <container id="aspace_1d0e0d943a3682cd9a9f1026f93b2050"
+                             type="folder"
+                             parent="aspace_8fd5d510bac4bb048d0a60b9069ad3e1">118</container>
+               </did>
+            </c>
+            <c id="ref159" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1972 Feb - Jul</unitdate>
+                  <container label="Mixed Materials (39002038277464)"
+                             id="aspace_5f3803f7d7288a000c71b3c8c8b776fc"
+                             type="box">8</container>
+                  <container id="aspace_f727a69dcf8d1f68aab6c0fffbd60dd8"
+                             type="folder"
+                             parent="aspace_5f3803f7d7288a000c71b3c8c8b776fc">119</container>
+               </did>
+            </c>
+            <c id="ref160" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1972 Aug - Oct</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_1eee52da6763190c190210a2d4df2de7"
+                             type="box">9</container>
+                  <container id="aspace_a96abcf5976b3953541943ece4c896da"
+                             type="folder"
+                             parent="aspace_1eee52da6763190c190210a2d4df2de7">120</container>
+               </did>
+            </c>
+            <c id="ref161" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1972 Nov - 1973 Aug</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_08ef1b71049c5a524f1a09b7e3134a5e"
+                             type="box">9</container>
+                  <container id="aspace_76a8bafd741bf15db2bcefaccebd0c54"
+                             type="folder"
+                             parent="aspace_08ef1b71049c5a524f1a09b7e3134a5e">121</container>
+               </did>
+            </c>
+            <c id="ref162" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Correspondence</unittitle>
+                  <unitdate type="inclusive">1973 Oct - 1976</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_85429d2bd20347a497fd91a027f9f10c"
+                             type="box">9</container>
+                  <container id="aspace_dd2c3a5cbd34956ced982afb17105072"
+                             type="folder"
+                             parent="aspace_85429d2bd20347a497fd91a027f9f10c">122</container>
+               </did>
+            </c>
+            <c id="ref163" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Executive committee meeting</unittitle>
+                  <unitdate type="inclusive">1969 Oct</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_93aeec3c3797a0cfabdf32d1f9f764c2"
+                             type="box">9</container>
+                  <container id="aspace_8f9c7753c66c90db274313c7f5633384"
+                             type="folder"
+                             parent="aspace_93aeec3c3797a0cfabdf32d1f9f764c2">123</container>
+               </did>
+            </c>
+            <c id="ref164" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Executive committee minutes. (includes report by RPM)</unittitle>
+                  <unitdate type="inclusive">1970-1972</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_c3125bec99119798dda846af8d8d650f"
+                             type="box">9</container>
+                  <container id="aspace_a5a1f62057aca1477d8f7daeba3ed80d"
+                             type="folder"
+                             parent="aspace_c3125bec99119798dda846af8d8d650f">124</container>
+               </did>
+            </c>
+            <c id="ref165" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Executive committee meeting</unittitle>
+                  <unitdate type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_c3f2b76b35e7188b4e460c6a57d30b07"
+                             type="box">9</container>
+                  <container id="aspace_5e4bd3dccb5fbceb6b19afa27632d0dd"
+                             type="folder"
+                             parent="aspace_c3f2b76b35e7188b4e460c6a57d30b07">125</container>
+               </did>
+            </c>
+            <c id="ref166" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Historical materials sent to RPM relating to personnel problems</unittitle>
+                  <unitdate type="inclusive">1971 Nov</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_076046d40ade6272caffdc3527639f68"
+                             type="box">9</container>
+                  <container id="aspace_d16a4b3f85d6669b2c88409e71c1d137"
+                             type="folder"
+                             parent="aspace_076046d40ade6272caffdc3527639f68">126</container>
+               </did>
+            </c>
+            <c id="ref167" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Newsletters, occasional papers and miscellaneous documentation</unittitle>
+                  <unitdate type="inclusive">1970-1979</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_02ee61a6a61fe772d73b49185154f9d9"
+                             type="box">9</container>
+                  <container id="aspace_df637066ded6725ac7e37b4147bbffcf"
+                             type="folder"
+                             parent="aspace_02ee61a6a61fe772d73b49185154f9d9">127</container>
+               </did>
+            </c>
+            <c id="ref168" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Petition to Lilly Endowment</unittitle>
+                  <unitdate type="inclusive">1970</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_0a4e28125667ef9144acde11dcdfc260"
+                             type="box">9</container>
+                  <container id="aspace_05888eed22e8aedb4e2d0896530a805d"
+                             type="folder"
+                             parent="aspace_0a4e28125667ef9144acde11dcdfc260">128</container>
+               </did>
+            </c>
+            <c id="ref169" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Report to libraries of St. Benedict and St. John, Minnesota</unittitle>
+                  <unitdate type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_96c4757b10bdc2b30698f6e358a097f6"
+                             type="box">9</container>
+                  <container id="aspace_b4cd14c15e9c73c19392de09af54dc9a"
+                             type="folder"
+                             parent="aspace_96c4757b10bdc2b30698f6e358a097f6">129</container>
+               </did>
+            </c>
+            <c id="ref170" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -Search committee for Executive director</unittitle>
+                  <unitdate type="inclusive">1973-1974</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_414f89819c9dbf7b07c2265759c77b68"
+                             type="box">9</container>
+                  <container id="aspace_c4209dbf923f3934b3b562c40a3228ca"
+                             type="folder"
+                             parent="aspace_414f89819c9dbf7b07c2265759c77b68">130</container>
+               </did>
+            </c>
+            <c id="ref171" level="file">
+               <did>
+                  <unittitle>Institute for Ecumenical and Cultural Research -miscellaneous material</unittitle>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_e6f0eb1c358203a17303628516bc6909"
+                             type="box">9</container>
+                  <container id="aspace_a0c0e34714621e2e2b99e5a1f1a1638a"
+                             type="folder"
+                             parent="aspace_e6f0eb1c358203a17303628516bc6909">131</container>
+               </did>
+            </c>
+            <c id="ref172" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -general correspondence</unittitle>
+                  <unitdate type="inclusive">1963-1966</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_c9df58333e098a434fc48e8d65c739b6"
+                             type="box">9</container>
+                  <container id="aspace_4c42a6c56b6ca88deb57adbc1623024e"
+                             type="folder"
+                             parent="aspace_c9df58333e098a434fc48e8d65c739b6">132</container>
+               </did>
+            </c>
+            <c id="ref173" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -consulting manual from Library Management and Building Consultants, Inc. Evanston, Illinois</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_2b409b7c766d9d0d4938e388aecfac3a"
+                             type="box">9</container>
+                  <container id="aspace_53bb0c9c63b846525ab05bec4ce4d53d"
+                             type="folder"
+                             parent="aspace_2b409b7c766d9d0d4938e388aecfac3a">133</container>
+               </did>
+            </c>
+            <c id="ref174" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Andover Newton Theological School, Massachusetts</unittitle>
+                  <unitdate type="inclusive">1962-1963 Oct</unitdate>
+                  <container label="Mixed Materials (39002038277472)"
+                             id="aspace_e8db84c32da3a3516f8427be6f3aabbd"
+                             type="box">9</container>
+                  <container id="aspace_0798460343d5fe77e33c91d26d430271"
+                             type="folder"
+                             parent="aspace_e8db84c32da3a3516f8427be6f3aabbd">134</container>
+               </did>
+            </c>
+            <c id="ref175" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Andover Newton Theological School, Massachusetts</unittitle>
+                  <unitdate type="inclusive">1963 Oct - 1966</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_c4817ada6d0810fb0b1dc27b47447887"
+                             type="box">10</container>
+                  <container id="aspace_281d4fc6391c0824865ef9f54a135456"
+                             type="folder"
+                             parent="aspace_c4817ada6d0810fb0b1dc27b47447887">135</container>
+               </did>
+            </c>
+            <c id="ref176" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Bishop Tucker College, Mukono, Uganda</unittitle>
+                  <unitdate type="inclusive">1967</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_1b0daadad4f1c8449e2bd5c493f0dbde"
+                             type="box">10</container>
+                  <container id="aspace_df58c962e273d22511952f171e6b62ed"
+                             type="folder"
+                             parent="aspace_1b0daadad4f1c8449e2bd5c493f0dbde">136</container>
+               </did>
+            </c>
+            <c id="ref177" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Christian Theological Seminary, Indiana</unittitle>
+                  <unitdate type="inclusive">1961-1962</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_360cfc6b92503402dfe24a2065a71e93"
+                             type="box">10</container>
+                  <container id="aspace_96ee1cb7eff69c433aa6e1e8a65907f4"
+                             type="folder"
+                             parent="aspace_360cfc6b92503402dfe24a2065a71e93">137</container>
+               </did>
+            </c>
+            <c id="ref178" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Eden Theological Seminary, Missouri</unittitle>
+                  <unitdate type="inclusive">1963-1965</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_0597c63d2d3be67ae6463c7a32d89b4a"
+                             type="box">10</container>
+                  <container id="aspace_d84a49b4efac62697aec4db6b66dff5a"
+                             type="folder"
+                             parent="aspace_0597c63d2d3be67ae6463c7a32d89b4a">138</container>
+               </did>
+            </c>
+            <c id="ref179" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Episcopal Theological Seminary of the Caribbean</unittitle>
+                  <unitdate type="inclusive">1965-1966</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_fe2e143dece4379e7ca5d05b8ab0da85"
+                             type="box">10</container>
+                  <container id="aspace_bdb6adb625e607585bcbaa7801c06665"
+                             type="folder"
+                             parent="aspace_fe2e143dece4379e7ca5d05b8ab0da85">139</container>
+               </did>
+            </c>
+            <c id="ref180" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Evangelical Seminary of Puerto Rico</unittitle>
+                  <unitdate type="inclusive">1962-1970</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_0688795498bffeac753c9de6766c3fd1"
+                             type="box">10</container>
+                  <container id="aspace_6437afc2feb144c3b20cb57598100486"
+                             type="folder"
+                             parent="aspace_0688795498bffeac753c9de6766c3fd1">140</container>
+               </did>
+            </c>
+            <c id="ref181" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Lancaster Theological Seminary, Pennsylvania</unittitle>
+                  <unitdate type="inclusive">1962-1963</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_e1c3aa6a97d74183521f9b7444268e13"
+                             type="box">10</container>
+                  <container id="aspace_baa375e1ee3395038cad1b517a2e81cf"
+                             type="folder"
+                             parent="aspace_e1c3aa6a97d74183521f9b7444268e13">141</container>
+               </did>
+            </c>
+            <c id="ref182" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Lutheran School of Theology, Chicago</unittitle>
+                  <unitdate type="inclusive">1964-1965</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_3595b8e8af7228733b5416da7a85545b"
+                             type="box">10</container>
+                  <container id="aspace_6f1c8fe8bebeaeccb76465a9dd00bb3f"
+                             type="folder"
+                             parent="aspace_3595b8e8af7228733b5416da7a85545b">142</container>
+               </did>
+            </c>
+            <c id="ref183" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -St. Patricks College and Seminary, Hartsdale, NY</unittitle>
+                  <unitdate type="inclusive">1963</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_ea88e2e8492916587f1c07025b0c3873"
+                             type="box">10</container>
+                  <container id="aspace_c81f208b60e3b1a70e579e9fe008929e"
+                             type="folder"
+                             parent="aspace_ea88e2e8492916587f1c07025b0c3873">143</container>
+               </did>
+            </c>
+            <c id="ref184" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -Union Theological Seminary</unittitle>
+                  <unitdate type="inclusive">1971-1972</unitdate>
+                  <container label="Mixed Materials (39002038277480)"
+                             id="aspace_a1cec7df764a1e3c047064937068c77f"
+                             type="box">10</container>
+                  <container id="aspace_5f1679034b3e5ccd9b6f43b6f73df866"
+                             type="folder"
+                             parent="aspace_a1cec7df764a1e3c047064937068c77f">144</container>
+               </did>
+            </c>
+            <c id="ref185" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -United Missionary Library, Interchurch Center, NY</unittitle>
+                  <unitdate type="inclusive">1977-1978</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_b6786ceb6ff696996fb38b20bc1fc9cf"
+                             type="box">11</container>
+                  <container id="aspace_d93628177649ba51558d01d83c116335"
+                             type="folder"
+                             parent="aspace_b6786ceb6ff696996fb38b20bc1fc9cf">145</container>
+               </did>
+            </c>
+            <c id="ref186" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -White House Library</unittitle>
+                  <unitdate type="inclusive">1963</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_1d6b09cac8ba04346b1b4123553a0cb8"
+                             type="box">11</container>
+                  <container id="aspace_d8baef049525323e1d0dfc74e85032da"
+                             type="folder"
+                             parent="aspace_1d6b09cac8ba04346b1b4123553a0cb8">146</container>
+               </did>
+            </c>
+            <c id="ref187" level="file">
+               <did>
+                  <unittitle>Library Consulting Projects -World Council of Churches Library</unittitle>
+                  <unitdate type="inclusive">1962</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_1ba6099f2ba2b20c32b214408243fc51"
+                             type="box">11</container>
+                  <container id="aspace_3bcd9e0d5c50fb01d1b9d9aa398f6d84"
+                             type="folder"
+                             parent="aspace_1ba6099f2ba2b20c32b214408243fc51">147</container>
+               </did>
+            </c>
+            <c id="ref188" level="file">
+               <did>
+                  <unittitle>Missionary Research Library proposal</unittitle>
+                  <unitdate type="inclusive">1964-1966 Aug</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_cf3ffb954c1473e084e7464ade61df04"
+                             type="box">11</container>
+                  <container id="aspace_ca76c3b1b85221512d48d35db7352712"
+                             type="folder"
+                             parent="aspace_cf3ffb954c1473e084e7464ade61df04">148</container>
+               </did>
+            </c>
+            <c id="ref189" level="file">
+               <did>
+                  <unittitle>Missionary Research Library proposal</unittitle>
+                  <unitdate type="inclusive">1966 Sep-1967</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_3e500569453505761e8dd178cf7c76ec"
+                             type="box">11</container>
+                  <container id="aspace_de166044ac91a5b3f51f29fbf1c817a7"
+                             type="folder"
+                             parent="aspace_3e500569453505761e8dd178cf7c76ec">149</container>
+               </did>
+            </c>
+            <c id="ref190" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1964-1965</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_d56692f12cd500e60afc8279714d0917"
+                             type="box">11</container>
+                  <container id="aspace_7a3fde52b4a075ced68de0dc20daaef0"
+                             type="folder"
+                             parent="aspace_d56692f12cd500e60afc8279714d0917">150</container>
+               </did>
+            </c>
+            <c id="ref191" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1966</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_bb866a05ff5f4e2c3cd0cb6465f732f7"
+                             type="box">11</container>
+                  <container id="aspace_70e0196ce232ee35e3930dab502db8ff"
+                             type="folder"
+                             parent="aspace_bb866a05ff5f4e2c3cd0cb6465f732f7">151</container>
+               </did>
+            </c>
+            <c id="ref192" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1967</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_0ebe9002584002408f088a367383c7f0"
+                             type="box">11</container>
+                  <container id="aspace_e50a72b46580dff1eaa6c804141dbd6b"
+                             type="folder"
+                             parent="aspace_0ebe9002584002408f088a367383c7f0">152</container>
+               </did>
+            </c>
+            <c id="ref193" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1968-1969</unitdate>
+                  <container label="Mixed Materials (39002038277498)"
+                             id="aspace_b6a44be35238683525759c91cbeff8bf"
+                             type="box">11</container>
+                  <container id="aspace_51bfeb310f82e9c30dd19e477736bbdb"
+                             type="folder"
+                             parent="aspace_b6a44be35238683525759c91cbeff8bf">153</container>
+               </did>
+            </c>
+            <c id="ref194" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1970-1972</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_14aa56380599073e315c14cca414860f"
+                             type="box">12</container>
+                  <container id="aspace_f0687bb5941688bb423a0956825ed853"
+                             type="folder"
+                             parent="aspace_14aa56380599073e315c14cca414860f">154</container>
+               </did>
+            </c>
+            <c id="ref195" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1973-1976</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_4ee796470e5a562f262f2a2e2528c40d"
+                             type="box">12</container>
+                  <container id="aspace_93640cc4503fa729f7f876e6b2300e3c"
+                             type="folder"
+                             parent="aspace_4ee796470e5a562f262f2a2e2528c40d">155</container>
+               </did>
+            </c>
+            <c id="ref196" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1977</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_878d02c1105da081897564b3e8bae320"
+                             type="box">12</container>
+                  <container id="aspace_4059fd93ea0bcb1191a140547152ef48"
+                             type="folder"
+                             parent="aspace_878d02c1105da081897564b3e8bae320">156</container>
+               </did>
+            </c>
+            <c id="ref197" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_2d23b70e3df1d0838e06a349db275cfc"
+                             type="box">12</container>
+                  <container id="aspace_9614bbad1e62f0b3fbb1d4bcb5b68144"
+                             type="folder"
+                             parent="aspace_2d23b70e3df1d0838e06a349db275cfc">157</container>
+               </did>
+            </c>
+            <c id="ref198" level="file">
+               <did>
+                  <unittitle>Mott Biography Project - Correspondence</unittitle>
+                  <unitdate type="inclusive">1979</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_be60867806ff0f7a5fe62ae0db3c6f64"
+                             type="box">12</container>
+                  <container id="aspace_f715a118d1fb0c11faa5a9104f996640"
+                             type="folder"
+                             parent="aspace_be60867806ff0f7a5fe62ae0db3c6f64">158</container>
+               </did>
+            </c>
+            <c id="ref199" level="file">
+               <did>
+                  <unittitle>National Endowment for the Humanities: consulting work</unittitle>
+                  <unitdate type="inclusive">1974-1977</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_e67ee41876acd71dff8c28b0d63242b3"
+                             type="box">12</container>
+                  <container id="aspace_e2aa27e0aa22bad30af5791025700cf5"
+                             type="folder"
+                             parent="aspace_e67ee41876acd71dff8c28b0d63242b3">159</container>
+               </did>
+            </c>
+            <c id="ref200" level="file">
+               <did>
+                  <unittitle>National Endowment for the Humanities: consulting work</unittitle>
+                  <unitdate type="inclusive">1978</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_012a0006f36111af2dc2bef0eb53fbc7"
+                             type="box">12</container>
+                  <container id="aspace_e308f7ed170b569882363a15867f21a9"
+                             type="folder"
+                             parent="aspace_012a0006f36111af2dc2bef0eb53fbc7">160</container>
+               </did>
+            </c>
+            <c id="ref201" level="file">
+               <did>
+                  <unittitle>Yale University: Alumni fund</unittitle>
+                  <unitdate type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_9f8c7c1cf5886f85a1236468cc2fc12e"
+                             type="box">12</container>
+                  <container id="aspace_ae1d78ff75cd161d8cd453f1677002c1"
+                             type="folder"
+                             parent="aspace_9f8c7c1cf5886f85a1236468cc2fc12e">161</container>
+               </did>
+            </c>
+            <c id="ref202" level="file">
+               <did>
+                  <unittitle>Yale University: University Librarian Search</unittitle>
+                  <unitdate type="inclusive">1963-1967</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_8da96f9362d2f1ab85055183c10d06c3"
+                             type="box">12</container>
+                  <container id="aspace_348c777a8e555cebb44b69820f98f3e2"
+                             type="folder"
+                             parent="aspace_8da96f9362d2f1ab85055183c10d06c3">162</container>
+               </did>
+            </c>
+            <c id="ref203" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Berkeley Divinity School merger</unittitle>
+                  <unitdate type="inclusive">1970-1972</unitdate>
+                  <container label="Mixed Materials (39002038277506)"
+                             id="aspace_385531b462206e36992b7989bffb214b"
+                             type="box">12</container>
+                  <container id="aspace_383306e29e0f57b3950967ac82b1d800"
+                             type="folder"
+                             parent="aspace_385531b462206e36992b7989bffb214b">163</container>
+               </did>
+            </c>
+            <c id="ref204" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Deanship search commitee</unittitle>
+                  <unitdate type="inclusive">1962-1963</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_c4fa0b0379554a906d4386df33201b2b"
+                             type="box">13</container>
+                  <container id="aspace_d9cff000455dd10daf28262fe03c5dde"
+                             type="folder"
+                             parent="aspace_c4fa0b0379554a906d4386df33201b2b">164</container>
+               </did>
+            </c>
+            <c id="ref205" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Deanship search commitee</unittitle>
+                  <unitdate type="inclusive">1968-1969</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_ec221daa10a7c08d565ad664a2d18105"
+                             type="box">13</container>
+                  <container id="aspace_e0d4b851286dba6f79e5b57b33ed68c0"
+                             type="folder"
+                             parent="aspace_ec221daa10a7c08d565ad664a2d18105">165</container>
+               </did>
+            </c>
+            <c id="ref206" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Liston Pope memorial <title type="simple" render="italic">
+                        Reflection
+                     </title> articles</unittitle>
+                  <unitdate type="inclusive">1972-1973</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_9838f26c8ac65dc4f0a3b68e279643db"
+                             type="box">13</container>
+                  <container id="aspace_cb883fe39a53cacb57a631d183ebe706"
+                             type="folder"
+                             parent="aspace_9838f26c8ac65dc4f0a3b68e279643db">166</container>
+               </did>
+            </c>
+            <c id="ref207" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Ruth Bainton Memorial Fund</unittitle>
+                  <unitdate type="inclusive">1967-1970</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_74566e2d4f8fce8e5a09986f46863f8a"
+                             type="box">13</container>
+                  <container id="aspace_c9415605be0f25b144339f91fe9629b5"
+                             type="folder"
+                             parent="aspace_74566e2d4f8fce8e5a09986f46863f8a">167</container>
+               </did>
+            </c>
+            <c id="ref208" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -Calhoun Festschrift</unittitle>
+                  <unitdate type="inclusive">1962-1964</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_8c371e0631465edbdd7ef9a1094a0aec"
+                             type="box">13</container>
+                  <container id="aspace_d31f8071f8e070ca5a013fe7a0d284c0"
+                             type="folder"
+                             parent="aspace_8c371e0631465edbdd7ef9a1094a0aec">168</container>
+               </did>
+            </c>
+            <c id="ref209" level="file">
+               <did>
+                  <unittitle>Yale Divinity School -YDS / Woodstock College proposal</unittitle>
+                  <unitdate type="inclusive">1965-1967</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_3d7c559776b366c61deb5a280407b79b"
+                             type="box">13</container>
+                  <container id="aspace_741b75b5eaeea01a375867ac802ba3a1"
+                             type="folder"
+                             parent="aspace_3d7c559776b366c61deb5a280407b79b">169</container>
+               </did>
+            </c>
+            <c id="ref210" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Annual Reports</unittitle>
+                  <unitdate type="inclusive">1966-1972</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_23387a06793739ead19c0461cc817dbe"
+                             type="box">13</container>
+                  <container id="aspace_dd89bd197c7fa93350c3237d2d0941d9"
+                             type="folder"
+                             parent="aspace_23387a06793739ead19c0461cc817dbe">170</container>
+               </did>
+            </c>
+            <c id="ref211" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Berkeley Divinity School and library</unittitle>
+                  <unitdate type="inclusive">1973</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_61c4285090dcb5f10671c907e3b827ba"
+                             type="box">13</container>
+                  <container id="aspace_ed9d0dcfd74f1f4c8d4b6cb4c70c0ee4"
+                             type="folder"
+                             parent="aspace_61c4285090dcb5f10671c907e3b827ba">171</container>
+               </did>
+            </c>
+            <c id="ref212" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Budgets</unittitle>
+                  <unitdate type="inclusive">1961-1964</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_6b079a0e9e06c7800ab0518c44a483c0"
+                             type="box">13</container>
+                  <container id="aspace_86cd2ccc6a7736493e55bb3fa0f266aa"
+                             type="folder"
+                             parent="aspace_6b079a0e9e06c7800ab0518c44a483c0">172</container>
+               </did>
+            </c>
+            <c id="ref213" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -meetings with Harvard, Union and Princeton librarians</unittitle>
+                  <unitdate type="inclusive">1969-1970</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_2c4bfa14098241f7afc49b58f7aabe3c"
+                             type="box">13</container>
+                  <container id="aspace_555c556f1606670ee809038fbc531bd5"
+                             type="folder"
+                             parent="aspace_2c4bfa14098241f7afc49b58f7aabe3c">173</container>
+               </did>
+            </c>
+            <c id="ref214" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Letters of recommendation, Job openings</unittitle>
+                  <unitdate type="inclusive">1963-1967</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_397bebffdfb20e9c6ac03fd34dceb730"
+                             type="box">13</container>
+                  <container id="aspace_e04b85d049715841dbb4dca8944b1a32"
+                             type="folder"
+                             parent="aspace_397bebffdfb20e9c6ac03fd34dceb730">174</container>
+               </did>
+            </c>
+            <c id="ref215" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Letters of recommendation, Job openings</unittitle>
+                  <unitdate type="inclusive">1968-1980</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_48bd1407b587bce6295d2c9cac8b95ac"
+                             type="box">13</container>
+                  <container id="aspace_85721b0a0f5ea67acc0ce8f33cf1e3af"
+                             type="folder"
+                             parent="aspace_48bd1407b587bce6295d2c9cac8b95ac">175</container>
+               </did>
+            </c>
+            <c id="ref216" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Report: Comparative study of resources</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_3e518c5bfd4a5ccd681b283b23443f61"
+                             type="box">13</container>
+                  <container id="aspace_0e7ad5442aa5ad1c666a21df27ea9c95"
+                             type="folder"
+                             parent="aspace_3e518c5bfd4a5ccd681b283b23443f61">176</container>
+               </did>
+            </c>
+            <c id="ref217" level="file">
+               <did>
+                  <unittitle>Yale Divinity School Library -Ronald E. Diener proposals and projects</unittitle>
+                  <unitdate type="inclusive">1969-1971</unitdate>
+                  <container label="Mixed Materials (39002038277514)"
+                             id="aspace_8141e65931ed6b4bb39bf6ea75809a3f"
+                             type="box">13</container>
+                  <container id="aspace_5d135250eda83168fb1c385decee018e"
+                             type="folder"
+                             parent="aspace_8141e65931ed6b4bb39bf6ea75809a3f">177</container>
+               </did>
+            </c>
+            <c id="ref218" level="file">
+               <did>
+                  <unittitle>World Council of Churches library consulting work</unittitle>
+                  <unitdate type="inclusive">1955-1956</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_a786425cf76d9e8c5c93f88de06915a3"
+                             type="box">14</container>
+                  <container id="aspace_6e10827b170d4215161f55ab94872aac"
+                             type="folder"
+                             parent="aspace_a786425cf76d9e8c5c93f88de06915a3">178</container>
+               </did>
+            </c>
+            <c id="ref219" level="file">
+               <did>
+                  <unittitle>Nanking Theological Seminary Board of Founders project on theological libraries in Asia -Trip by RPM to Asia, including SE Asia Theological Seminary Librarians Workshop in the Philippines</unittitle>
+                  <unitdate type="inclusive">19581-1961</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_40c8a2222e0a485e732b284fb8aa30cd"
+                             type="box">14</container>
+                  <container id="aspace_70d00593220ad0b972ea9a7e2815af0c"
+                             type="folder"
+                             parent="aspace_40c8a2222e0a485e732b284fb8aa30cd">179</container>
+               </did>
+            </c>
+            <c id="ref220" level="file">
+               <did>
+                  <unittitle>Nanking Theological Seminary Board of Founders project on theological libraries in Asia -Trip by RPM to Asia, including SE Asia Theological Seminary Librarians Workshop in the Philippines</unittitle>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_30b4542eb551925360e015235052b4b0"
+                             type="box">14</container>
+                  <container id="aspace_7e73996a191491fafeb3c2ca0dc250f7"
+                             type="folder"
+                             parent="aspace_30b4542eb551925360e015235052b4b0">180</container>
+               </did>
+            </c>
+            <c id="ref221" level="file">
+               <did>
+                  <unittitle>Nanking Theological Seminary Board of Founders project on theological libraries in Asia -Trip by RPM to Asia, including SE Asia Theological Seminary Librarians Workshop in the Philippines</unittitle>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_20c85b50f1963890805c10d758de9019"
+                             type="box">14</container>
+                  <container id="aspace_65764b95d3b5debbfa3a4b16008442bd"
+                             type="folder"
+                             parent="aspace_20c85b50f1963890805c10d758de9019">181</container>
+               </did>
+            </c>
+            <c id="ref222" level="file">
+               <did>
+                  <unittitle>YMCA-National Council Committee on History and Library (includes Mott Biography material)</unittitle>
+                  <unitdate type="inclusive">1963-1970</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_20ef6c8bedd7a7b30c283bbd3921ae88"
+                             type="box">14</container>
+                  <container id="aspace_dbaef8670d84fa9f85528010b930639c"
+                             type="folder"
+                             parent="aspace_20ef6c8bedd7a7b30c283bbd3921ae88">182</container>
+               </did>
+            </c>
+            <c id="ref223" level="file">
+               <did>
+                  <unittitle>YMCA -National Council Committee on History and Library</unittitle>
+                  <unitdate type="inclusive">1971-1975</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_5f029094853289cd9d76f42901b06161"
+                             type="box">14</container>
+                  <container id="aspace_03b88a21b7af5fbcdbb3b0e08af2efd1"
+                             type="folder"
+                             parent="aspace_5f029094853289cd9d76f42901b06161">183</container>
+               </did>
+            </c>
+            <c id="ref224" level="file">
+               <did>
+                  <unittitle>Wesley Foundation at Yale</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_0510966daa1b06c00a2e4da5d84eed89"
+                             type="box">14</container>
+                  <container id="aspace_c1d5a707f7461a33b23ec484e30659c7"
+                             type="folder"
+                             parent="aspace_0510966daa1b06c00a2e4da5d84eed89">184</container>
+               </did>
+            </c>
+            <c id="ref225" level="file">
+               <did>
+                  <unittitle>Miscellaneous collected material</unittitle>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_f406cf5b6cfa7a989c4e2bb33b0ff939"
+                             type="box">14</container>
+                  <container id="aspace_d226312459cf6da37d64b61b477db3c8"
+                             type="folder"
+                             parent="aspace_f406cf5b6cfa7a989c4e2bb33b0ff939">185</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref226" level="series">
+            <did>
+               <unittitle>Biographical Material</unittitle>
+               <unitid>Series IV</unitid>
+            </did>
+            <c id="ref227" level="file">
+               <did>
+                  <unittitle>Graduation photo and letter</unittitle>
+                  <unitdate type="inclusive">1923</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_a1dbfb3ff14ca2331d79c3e1d6630c77"
+                             type="box">14</container>
+                  <container id="aspace_0332fe1ac6449ddd9a6a386bbfdc34a1"
+                             type="folder"
+                             parent="aspace_a1dbfb3ff14ca2331d79c3e1d6630c77">186</container>
+               </did>
+            </c>
+            <c id="ref228" level="file">
+               <did>
+                  <unittitle>Photo of Eva Kelly, mother of Jean Kelly Morris</unittitle>
+                  <unitdate type="inclusive">1935</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_02aa6e4a27551d30c7d287ff1cb57cc3"
+                             type="box">14</container>
+                  <container id="aspace_2cd2733068b4ccc1a4bf23f7c43af378"
+                             type="folder"
+                             parent="aspace_02aa6e4a27551d30c7d287ff1cb57cc3">187</container>
+               </did>
+            </c>
+            <c id="ref229" level="file">
+               <did>
+                  <unittitle>Advertisement for home talent play - RPM actor</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_5058e26d62e68554154f0f0d3bb16eaa"
+                             type="box">14</container>
+                  <container id="aspace_0fb82defbda0330ec9ac299fb6bdf897"
+                             type="folder"
+                             parent="aspace_5058e26d62e68554154f0f0d3bb16eaa">187</container>
+               </did>
+            </c>
+            <c id="ref230" level="file">
+               <did>
+                  <unittitle>Photos of RPM. Also sketch of RPM by R. Bainton</unittitle>
+                  <unitdate type="inclusive">1952</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_591a39c7c5d5a9caa29b6fa82fdb693b"
+                             type="box">14</container>
+                  <container id="aspace_470ca28b45a107f2fbe32c0213d7ebe0"
+                             type="folder"
+                             parent="aspace_591a39c7c5d5a9caa29b6fa82fdb693b">188</container>
+               </did>
+            </c>
+            <c id="ref231" level="file">
+               <did>
+                  <unittitle>Photos of RPM in groups</unittitle>
+                  <unitdate type="inclusive">1965-1967, n.d.</unitdate>
+                  <container label="Mixed Materials (39002090834897)"
+                             id="aspace_acd41f72f1aa1dda4ea47d6d1e567935"
+                             type="box">15</container>
+                  <container id="aspace_94d9b620a8fd9c1fc84b88af755a93fd"
+                             type="folder"
+                             parent="aspace_acd41f72f1aa1dda4ea47d6d1e567935">201</container>
+               </did>
+            </c>
+            <c id="ref232" level="file">
+               <did>
+                  <unittitle>Baker University commencement and alumni pamphlets</unittitle>
+                  <unitdate type="inclusive">1952-1976</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_6c6e5df73af7e7e63cb3c190930aa3f0"
+                             type="box">14</container>
+                  <container id="aspace_59a5440e4f07c95b88950599eb9e0518"
+                             type="folder"
+                             parent="aspace_6c6e5df73af7e7e63cb3c190930aa3f0">189</container>
+               </did>
+            </c>
+            <c id="ref233" level="file">
+               <did>
+                  <unittitle>Clyde Morris will, letters, and photo. Also, newsclipping of Gussie L. Morris</unittitle>
+                  <unitdate type="inclusive">1953-1967</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_de3dcf98f7010522e5a62a14f22fa242"
+                             type="box">14</container>
+                  <container id="aspace_bf82b5fbd7079b400487719e9ab1c2d0"
+                             type="folder"
+                             parent="aspace_de3dcf98f7010522e5a62a14f22fa242">190</container>
+               </did>
+            </c>
+            <c id="ref234" level="file">
+               <did>
+                  <unittitle>Travel plans and itineraries. (includes unidentified photos)</unittitle>
+                  <unitdate type="inclusive">1958-1961</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_51d47d166f3bfbae34c28d9799ac4a8c"
+                             type="box">14</container>
+                  <container id="aspace_2dc9c1b4ed6d34230fd4eee7219c9687"
+                             type="folder"
+                             parent="aspace_51d47d166f3bfbae34c28d9799ac4a8c">191</container>
+               </did>
+            </c>
+            <c id="ref235" level="file">
+               <did>
+                  <unittitle>Newsclippings and biographical sketches of RPM</unittitle>
+                  <unitdate type="inclusive">1965-1972</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_0f8fda4c1b6ff5144ffcfb9f2bc0e6cf"
+                             type="box">14</container>
+                  <container id="aspace_87f3cbf1948ccac896c6c2ea267d838c"
+                             type="folder"
+                             parent="aspace_0f8fda4c1b6ff5144ffcfb9f2bc0e6cf">192</container>
+               </did>
+            </c>
+            <c id="ref236" level="file">
+               <did>
+                  <unittitle>Commission on Arts in Connecticut - letters by Jean Morris to various CT and U.S. legislators</unittitle>
+                  <unitdate type="inclusive">1977-1983</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_c93cfb7b1625860efb7107763687ae2f"
+                             type="box">14</container>
+                  <container id="aspace_a5e9e45e506f3976e9fdd2d0343745ee"
+                             type="folder"
+                             parent="aspace_c93cfb7b1625860efb7107763687ae2f">193</container>
+               </did>
+            </c>
+            <c id="ref237" level="file">
+               <did>
+                  <unittitle>Service of remembrance at YDS and obituary from Yale Library Staff Newsletter</unittitle>
+                  <unitdate type="inclusive">1990</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_e2898d38af36da344b1e0b206406264e"
+                             type="box">14</container>
+                  <container id="aspace_8c860e8ba186e736eb94b8e97a2bc69a"
+                             type="folder"
+                             parent="aspace_e2898d38af36da344b1e0b206406264e">194</container>
+               </did>
+            </c>
+            <c id="ref238" level="file">
+               <did>
+                  <unittitle>Five audio cassette tapes including reminiscences of Jean Morris</unittitle>
+                  <unitdate type="inclusive">1994</unitdate>
+                  <container label="Mixed Materials (39002038277522)"
+                             id="aspace_4e340cb618ae039849a4dbd7c08fb77c"
+                             type="box">14</container>
+                  <container id="aspace_b4051493a14277d6301c6346a9cca6cb"
+                             type="folder"
+                             parent="aspace_4e340cb618ae039849a4dbd7c08fb77c">195</container>
+               </did>
+            </c>
+            <c id="ref239" level="file">
+               <did>
+                  <unittitle>Scrapbook : Library staff past and present, presented May 19, 1972 to Raymond P. Morris, Librarian, Yale Divinity School, 1932-1972.</unittitle>
+                  <unitdate type="inclusive">1972</unitdate>
+                  <container label="Mixed Materials (39002131203680)"
+                             id="aspace_260085929223c22d30bdc69c5474b439"
+                             type="box">OV1</container>
+               </did>
+            </c>
+            <c id="ref240" level="file">
+               <did>
+                  <unittitle>Letterbook : A salute to Jean and Raymond P. Morris from members and friends of the American Theological Library Association, June 1972.</unittitle>
+                  <unitdate type="inclusive">1972</unitdate>
+                  <container label="Mixed Materials (39002131203698)"
+                             id="aspace_3556b9fde923d4bdfd77ad5c6f11a6b2"
+                             type="box">OV2</container>
+               </did>
+            </c>
+            <c id="ref241" level="file">
+               <did>
+                  <unittitle>Letterbook : A tribute to Raymond P. Morris, presented to Raymond P. Morris by the Alumni Council of the Yale Divinity School, April 19, 1972.</unittitle>
+                  <unitdate type="inclusive">1972</unitdate>
+                  <container label="Mixed Materials (39002131203698)"
+                             id="aspace_662599434b4028cd0651e1dfe073d0a4"
+                             type="box">OV2</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

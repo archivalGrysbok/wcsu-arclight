@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG053.html" countrycode="us">RG053</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 053, Commission to Investigate &amp; Report on a Civil Administration Code, 1919-1921</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">October 19, 2007</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2007</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>October 19, 2007</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Connecticut. Commission to Investigate &amp; Report on a Civil Administration Code</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Commission to Investigate &amp; Report on a Civil Administration Code records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1915/1921">1915-1921</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Commission was created in 1919 "to investigate and report on a civil administration code." It collected data on state government organization and expenditures, took testimony from government officials and others, held public hearings between April and May 1920, and drafted its final report.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG053</unitid>
+	<unitid label="Accession:">T002713</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>In 1919, the General Assembly created this Commission “to investigate and report on a civil administration code.” Five members were appointed, of whom James R. Mead was elected chairman and Frank E. Morgan secretary. The first meeting was held in June 1919. The Commission collected data on state government organization and expenditures, took testimony from government officials and others, held public hearings between April and May 1920, and drafted its final report. The report was agreed upon in September 1920 and the General Assembly received the report in the 1921 session and formed a new joint committee on the matter. Legislators recommitted the bill reported out in May 1921, and the legislation never passed.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The record group contains minutes of meetings, reports and bills from the legislature, printed reports of state agencies and administration codes of other states, working papers and drafts, organizational charts, drafts of the final report, and the report itself.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>None.</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess>
+<head>Index Terms</head>
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" source="lcnaf">Connecticut. Commission to Investigate &amp; Report on a Civil Administration Code</corpname>			
+	</controlaccess>
+
+	<controlaccess>
+		<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Mead, James R</persname>
+			<persname encodinganalog="700" source="local">Morgan, Frank E</persname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Connecticut. Commission to Investigate &amp; Report on a Civil Administration Code -- Records and correspondence</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut -- Politics and government</subject>
+			<subject encodinganalog="650" source="lcsh">State governments</subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Organizational charts</genreform>
+			<genreform encodinganalog="655" source="aat">Reports</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+	</controlaccess>
+</controlaccess>
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>The Commission's records were found early in 1972 in the State Library's Oak Street building; they were in extreme disorder and are incomplete.</p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1915/1921">1915-1921</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>1. Drafts and published copies of the report and the proposed statute</unittitle>
+	<unitdate datechar="creation">1919-1921</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>2. General file</unittitle>
+	<unitdate datechar="creation">1919-1921</unitdate>
+ </did>	
+<scopecontent><p>Correspondence, drafts and working papers. The file marked, "Mr. Morgan," contains minutes of meetings and other significant papers.</p></scopecontent>
+<arrangement><p>Arranged partly by subject and partly by name of Commission member.</p></arrangement>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>A-P</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>R-Z</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>3. Reports and bills from General Assembly files</unittitle>
+	<unitdate datechar="creation">1921</unitdate>
+ </did>
+<scopecontent><p>Official file copies with clerks' notations of action.</p></scopecontent>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>4. Reference materials</unittitle>
+	<unitdate datechar="creation">1915-1921</unitdate>
+ </did>	
+<scopecontent><p>Printed reports of several state government offices and of administration codes of other states.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>5. Working papers and preliminary drafts</unittitle>
+	<unitdate datechar="creation">1919-1921</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>6. Organization charts</unittitle>
+ </did>	
+<scopecontent><p>Drafts and blueprints of existing and proposed structure of the state government.</p></scopecontent>
+</c02>
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

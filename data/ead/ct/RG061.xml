@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" 	dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+	<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG061.html" countrycode="us">RG061</eadid>
+
+	<filedesc>
+		<titlestmt>
+			<titleproper encodinganalog="title">RG 061, County Government</titleproper>
+ 	 <titleproper encodinganalog="filing" altrender="nodisplay">County Government, Records of</titleproper>
+			<subtitle>Inventory of Records</subtitle>
+			<author>Finding aid prepared by Paul E. Baran.</author>
+		</titlestmt>
+
+		<publicationstmt>
+			<publisher>Connecticut State Library</publisher>
+			<date type="publication">June 12, 2006</date>
+			<address>
+			<addressline>231 Capitol Avenue</addressline>
+			<addressline>Hartford, Connecticut 06106-1537</addressline>
+			</address>
+ <p>Copyright © <date>2007</date> by the Connecticut State Library</p>
+		</publicationstmt>
+	</filedesc>
+
+	<profiledesc>
+		<creation>Finding aid encoded by Connecticut State Archives staff on
+			<date>June 12, 2006</date>
+		</creation>
+		<langusage><language></language></langusage>
+	</profiledesc>
+
+</eadheader>
+
+<archdesc level="recordgrp" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address>
+		<addressline></addressline>
+		<addressline></addressline>
+		</address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110" source="lcnaf" role="creator">Fairfield, Hartford, Litchfield, Middlesex, New Haven, New London, Tolland, and Windham Counties (Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">County government records</unittitle>
+
+	<unitdate label="Dates:" type="inclusive" datechar="creation" encodinganalog="245$f" normal="1792/1961">1792-1961</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a"><extent>53.5 cubic feet</extent></physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">
+ Commissioner, Jail, Termporary Home, and Treasurer records from the eight Connecticut counties. 
+	</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG061</unitid>
+	<unitid label="Accession:">Multiple</unitid>
+	
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>	County government began in Connecticut in 1666 with the creation of four counties: Fairfield, Hartford, New Haven, and New London for the purpose of operating courts and jails. Eventually four additional counties were formed: Windham (1726), Litchfield (1751), Middlesex (1785), and Tolland (1785). Due to the importance of town government in Connecticut, however, the counties never acquired the significance that they did in other parts of the nation.</p>
+
+	<p>Originally, two commissioners and their assistant handled all court matters, including maintenance of the courthouse and jail. Changes to the county courts began shortly after their formation and in 1838 legal matters were separated from business operations. Under this change, only one of the three county officials was appointed judge of the county count instead of all three, as in the past. The other two officials were given the responsibility of managing the county affairs and property. A complete separation of the county's judicial and administrative activities was made in 1841, and all three county officials, now called commissioners and appointed by the General Assembly, devoted their full time to county matters.</p>
+
+	<p>Administration of the jails was turned over to the sheriff in 1799, an office that antedated the establishment of the counties. Originally the General Court appointed marshals, but after the formation of the first four counties, each county court appointed its own marshal, beginning in 1687. The title was changed to sheriff in 1724 and appointment was transferred to the governor, and later to the General Assembly after the adoption of the 1818 Constitution. A constitutional amendment in 1886 made the office elective. Still, the commissioners were required to supervise management of the jail, audit its accounts, control some of the expenditures, and prescribe general regulations.</p>
+
+	<p>The office of Treasurer was established in 1703 to keep an account of all fines and penalties issued by the county courts. Eventually the treasurer was appointed by the commissioners and kept accounts of the county's receipts and expenditures. The commissioners also appointed a sealer of weights and measures, who had broad inspecting duties, a clerk, courthouse employees, and approved the sheriff's appointment of deputy jailers.</p>
+
+	<p>The powers of the counties changed over the years. When the first four counties were formed in 1666, they were permitted to issue licenses for the sale of wines and liquors. In 1838, town authorities were authorized to nominate persons as tavern keepers, although the actual granting of licenses was made by the county courts. The county commissioners received the power to issue liquor licenses in 1854. In 1872, the procedure for handling licenses changed again and the county commissioners were given sole responsibility for granting the licenses. The counties also acquired two welfare functions. In 1883, counties began to operate temporary homes for neglected and uncared-for children. Prior to this, these children were kept in town almshouses, placed with pauper families, or placed in institutions. In 1919 the counties began to administer the Widow's Aid program financed by the state to provide financial assistance to widows with dependant children under sixteen.</p>
+
+	<p>A number of factors contributed to the demise of county government. New state agencies took over functions performed by the counties. After the repeal of Prohibition, the state's Liquor Control Commission began to grant liquor licenses, and in 1941 the state's Aid to Dependent Children program replaced the Widows' Aid program. The trend to place children in foster homes, coupled with changes in welfare laws in 1953 and disturbances in various county temporary homes paved the way for the closing of the homes in 1955. At that time all children under county care were placed under state jurisdiction. The operation of the jails, the last remaining major function of county government, came under criticism for the age of the structures, treatment of prisoners, and administration. Calls for reforms led to the abolition of county government effective October 1, 1960.</p>
+
+	<p>Source: <bibref><persname role="author">Rosaline Levensen, </persname><title><emph render="italic">County Government in Connecticut, Its History and Demise, </emph></title><imprint>(<geogname>Storrs, Conn: </geogname><publisher>Institute of Public Service, Extended and Continuing Education, University of Connecticut, </publisher><date type="publication">1966</date>), </imprint> especially chapters 5 - 8.</bibref></p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>	The records of county government are arranged alphabetically by county. Within each county, four possible subseries may be found: Commissioners, Jail, Temporary Home, and Treasurer.
+</p>
+
+<p>Commissioner records may contain bills and receipts, correspondence, minutes, personnel records, and reports. Records of particular interest are: municipal building cornerstone contents, 1892-94 from Middlesex County; records related to county wards placed in foster care, 1941-55, and the temporary home sale, 1955-60, from New Haven County; and bonds and applications for liquor licenses, 1881-95, from Tolland County.
+</p>
+
+
+<p>Jail records include account books, bills and recepits, day books, journals, ledger books, prisoner board records, commitments and discharges, returns, and sheriff's logs.
+</p>
+
+<p>Temporary Home records include admissions and discharges, bills and recepits, records of children, and records of visitors.
+</p>
+
+<p>Treasurer records include bills and receipts, bonds, and cancelled checks.
+</p>
+
+<p>The records of the County Courts are part of Record Group 003 and are not included here.</p>
+
+</scopecontent>
+
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+ <p>
+	Series 1. Fairfield County (1942-1960) includes records of the Commissioners and the Temporary Home.
+	</p>
+	<p>
+	Series 2. Hartford County (1792-1959) includes records of the Commissioners, the Jail, and the Temporary Home.
+	</p>
+	<p>
+	Series 3. Litchfield County (1895-1960) includes records of the Jail.
+	</p>
+	<p>
+	Series 4. Middlesex County (1790-1960) includes records of the Commissioners and the the Jail.
+	</p>
+	<p>
+	Series 5. New Haven County (1892-1961) includes records of the Commissioners and the Temporary Home.
+	</p>
+	<p>
+	Series 6. New London County (1841-1960) includes records of the Commissioners and the Jail.
+	</p>
+	<p>
+	Series 7. Tolland County (1795-1939) includes records of the Commissioners and the Treasurer.
+	</p>
+	<p>
+	Series 8. Windham County (1874-1955) includes records of the Commissioners, the Jail, the Temporary Home, and the Treasurer.
+	</p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+
+<p>Related materials can be found in other record groups. Beginning in 1886 county commissioners were required to issue reports relating to the debts, receipts, and expenditures for each county. From 1886 to 1937, these reports, known as the Returns of County Commissioners, had to be made to the Secretary of State, and might be found in Record Group 006. After 1937, the reports were submitted to the State Commissioner of Welfare and then to both the Welfare and Tax Commissioners. These might be found in Record Group 019. The records of the Department of Education, Record Group 010, contains Temporary Home records, 1913-1915 consisting of 2 volumes of report forms concerning orphans' placements and their school attendance. Finally, the records of the Judicial Department, Record Group 003, may contain items related to the counties. 
+</p>
+</relatedmaterial>
+
+ 
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">County government--Connecticut</subject>
+		 	<subject encodinganalog="650" source="lcsh">Jails--Connecticut--Hartford County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Jails--Connecticut--Litchfield County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Jails--Connecticut--Middlesex County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Jails--Connecticut--New London County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Jails--Connecticut--Windham County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Children--Institutional care--Connecticut--Fairfield County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Children--Institutional care--Connecticut--New Haven County </subject>
+		 	<subject encodinganalog="650" source="lcsh">Children--Institutional care--Connecticut--Windham County </subject>
+ 
+	</controlaccess>
+	<controlaccess>
+		<head>Places:</head>
+		 <geogname encodinganalog="651" source="lcsh">Fairfield County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">Hartford County (Conn.)</geogname>			 
+		 <geogname encodinganalog="651" source="lcsh">Litchfield County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">Middlsex County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">New Haven County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">New London County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">Tolland County (Conn.)</geogname>
+		 <geogname encodinganalog="651" source="lcsh">Windham County (Conn.)</geogname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Occupations:</head>
+			<occupation encodinganalog="656" source="lcsh">County officials and employees				</occupation>		
+	</controlaccess>
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Administrative records</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Personnel records</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Some of the County Government records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<acqinfo encodinganalog="561" id="a16">
+	<head>Provenance</head>
+	<p>	After the abolition of county government effective October 1, 1960, various units of state and town government took over many of the functions performed at the county level. The Budget Division of the Department of Finance and Control liquidated any records not taken over by successor agencies and turned many records over to the State Library in 1961. Unfortunately, a large quantity of material was approved for destruction. A list of materials destroyed at that time is available in the Archives office.</p>
+
+<p>Under administrative and professional practices at that time, the State Library catalogued much of the materials and placed them in the manuscript collection. Materials received by the State Archives after 1961 became part of Record Group 061.	
+</p>
+</acqinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined">
+<head>Container List</head>
+<c01 level="series">
+ <did>
+	<unittitle>Series 1. Fairfield County</unittitle>
+	<unitdate datechar="creation" normal="1942/1960">1942-1960</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+	<p><emph render="italic">Manuscript Collection 974.51 F15.</emph>
+	<lb/>Remonstrance against removal of county buildings from Danbury to Bridgeport, <date type="creation" normal="1867">1867</date>. 1 document.
+	</p>
+ 
+	<p><emph render="italic">Manuscript Collection 974.51 F15co.</emph>
+	<lb/>Commissioners, Child welfare check register, <date type="creation" normal="1953/1955">1953-1955</date>, 1 volume; Daybook, <date type="creation" normal="1881/1887">1881-1887</date>. 1 volume; New Haven &amp; Fairfield County Joint Bridge Account Book, <date type="creation" normal="1895/1920">1895-1920</date>, 1 volume.
+	<lb/>Temporary Home, Child welfare accounts, <date type="creation" normal="1931/1944">1931-1944</date>, 2 boxes; Detail of board, <date type="creation" normal="1944/1955">1944-1955</date>, 1 box; Temporary Home, Ledger book, <date type="creation" normal="1896/1936">1896-1936</date>, 1 volume.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+ 
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1942-1960</unitdate>
+	<unitid label="Accession: ">T002729</unitid>
+	<physdesc><extent>2.75 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Personnel records</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Payroll</unittitle>
+	<unitdate datechar="creation">1956-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Severance pay</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Social Security</unittitle>
+	<unitdate datechar="creation">1956-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Tax returns</unittitle>
+	<unitdate datechar="creation">1942-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Time returns</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unitdate datechar="creation">1956-1959</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Wage earner records</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1952-1954</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unitdate datechar="creation">1955-1956, 1958</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unitdate datechar="creation">1955-1956</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Withholding statements (W-2), Withholding exemption certificates (W-4), and Connnecticut medical service cards</unittitle>
+	<unitdate datechar="creation">1942-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unittitle>Yearly earnings records</unittitle>
+	<unitdate datechar="creation">1943-1949</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+ <did>
+	<unittitle>Temporary Home</unittitle>
+	<unitdate datechar="creation">1943-1955</unitdate>
+	<unitid label="Accession: ">T002729</unitid>
+	<physdesc><extent>0.25 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unittitle>Expense accounts</unittitle>
+	<unitdate datechar="creation">1943-1947</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unittitle>Savings account cards</unittitle>
+	<unitdate datechar="creation">1954-1955</unitdate>
+ </did>	
+</c03>
+</c02>
+
+</c01>
+
+<c01 level="series" id="series2">
+ <did>
+	<unittitle>Series 2. Hartford County</unittitle>
+	<unitdate datechar="creation" normal="1925/1959">1792-1959</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+ 	<p><emph render="italic">Manuscript Collection 974.61 fH25tr.</emph>
+	<lb/>Treasurer, Account books, <date type="creation" normal="1873/1893">1873-1893</date>, 2 volumes.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 H25co r.</emph>
+	<lb/>Commissioners, Orders for Highways, Bridges, Telegraph, Telephone &amp; Electric Poles, <date type="creation" normal="1892/1892">1891-1892</date>, 1 volume; Court House ledger book, <date type="creation" normal="1882/1885">1882-1885</date>, 1 volume; Data related to the Hurricane of <date type="creation" normal="1938">1938</date>, 1 folder.
+	<lb/>Temporary Home, Account book, <date type="creation" normal="1891/1923">1891-1923</date>, 1 volume; Admissions and discharges, <date type="creation" normal="1883/1933">1883-1933</date>, 5 volumes; Journal, <date type="creation" normal="1883/1887">1883-1887</date>, 1 volume; Record book, <date type="creation" normal="1891/1906">1891-1906</date>, 1 volume.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1925-1959</unitdate>
+	<unitid label="Accession: ">T002730</unitid>
+	<physdesc><extent>2.5 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Bills and receipts</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unitdate datechar="creation">1955</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1958 January-June</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unitdate datechar="creation">1958 July-September</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Personnel records</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Employee lists</unittitle>
+	<unitdate datechar="creation">1945, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Payroll</unittitle>
+	<unitdate datechar="creation">1954-1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Retirement fund</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>History cards</unittitle>
+	<unitdate datechar="creation">1946-1954</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Payroll</unittitle>
+	<unitdate datechar="creation">1953-1955</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Payroll changes</unittitle>
+	<unitdate datechar="creation">1946-1950</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Refunds</unittitle>
+	<unitdate datechar="creation">1947-1954</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Resolutions</unittitle>
+	<unitdate datechar="creation">1945</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Subscriptions</unittitle>
+	<unitdate datechar="creation">1946</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Salary approvals</unittitle>
+	<unitdate datechar="creation">1925-1953</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Social Security</unittitle>
+	<unitdate datechar="creation">1945-1954</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Tax returns</unittitle>
+	<unitdate datechar="creation">1943-1951</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Wage earner records</unittitle>
+	<unitdate datechar="creation">1956-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Yearly earning records</unittitle>
+	<unitdate datechar="creation">1955-1959</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Physical inventories, Jail</unittitle>
+	<unitdate datechar="creation">1959, undated</unitdate>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Jail</unittitle>
+	<unitdate datechar="creation">1792-1902</unitdate>
+	<unitid label="Accession: ">T002730</unitid>
+	<physdesc><extent>3.5 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Commitment warrants</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unitdate datechar="creation">1792, 1817-1830</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unitdate datechar="creation">1831-1832</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unitdate datechar="creation">1833-1834</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unitdate datechar="creation">1835-1839</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unitdate datechar="creation">1840-1858</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">11</container>
+	<unitdate datechar="creation">1860-1873</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unitdate datechar="creation">1901-1902</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1870, undated</unitdate>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Temporary Home</unittitle>
+	<unitdate datechar="creation">1883-1934</unitdate>
+	<unitid label="Accession: ">2004-020</unitid>
+	<physdesc><extent>2.5 cubic feet (8 volumes)</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Records of children</unittitle>
+	<unitdate datechar="creation">1883-1934</unitdate>
+	<physdesc><extent>8 volumes</extent></physdesc>
+ </did>	
+</c03>
+
+</c02>
+
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 3. Litchfield County</unittitle>
+	<unitdate datechar="creation" normal="1895/1960">1895-1960</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+	<p><emph render="italic">Manuscript Collection 974.61 L71P.</emph>
+	<lb/>"220 piecies", 1 box.
+	<lb/>Commissioners, Agreements, <date type="creation" normal="1851/1854">1851-1854</date>.
+	<lb/>Treasurer, Bills and recipts, <date type="creation" normal="1843/1857">1843-1857</date>; Leases, <date type="creation" normal="1843/1853">1843-1853</date>.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 L71tr.</emph>
+	<lb/>Treasurer, Acount book, <date type="creation" normal="1830/1852">1830-1852</date>, 1 volume. (Also contains Building Committee Accounts, <date type="creation" normal="1811">1811</date>.); Day book, <date type="creation" normal="1784/1830">1784-1830</date>, 1 volume; Ledger book, <date type="creation" normal="1755/1792">1755-1792</date>, 1 volume; Record and account book, <date type="creation" normal="1752/1755">1752-1755</date>, 1 volume.
+	</p>
+ </separatedmaterial>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Jail</unittitle>
+	<unitdate datechar="creation">1895-1960</unitdate>
+	<physdesc><extent>3 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="otherlevel" otherlevel="accession">
+ <did> 	
+	<unitid label="Accession: ">T002738</unitid>
+	<physdesc><extent>0.25 cubic feet</extent></physdesc>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Board of prisoners</unittitle>
+	<unitdate datechar="creation">1960, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1957</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Physical inventories</unittitle>
+	<unitdate datechar="creation">1942-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Reports</unittitle>
+	<unitdate datechar="creation">1944</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<unittitle>Commitments and discharges</unittitle>
+	<unitdate datechar="creation">1895-1926</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<unittitle>Prisoner board records</unittitle>
+	<unitdate datechar="creation">1918-1935</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002739</unitid>
+	<physdesc><extent>2.5 cubic feet</extent></physdesc>
+ </did>
+<c04 level="item">
+ <did>
+	<unittitle>Day books</unittitle>
+	<unitdate datechar="creation">1926-1944</unitdate>
+	<physdesc><extent>12 volumes</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<unittitle>Commitments and discharges</unittitle>
+	<unitdate datechar="creation">1951-1963</unitdate>
+	<physdesc><extent>2 volumes</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1983-025</unitid>
+	<physdesc><extent>0.25 cubic feet</extent></physdesc>
+ </did>
+<c04 level="item">
+ <did>
+	<unittitle>Sherriff's log books</unittitle>
+	<unitdate datechar="creation">1928-1932</unitdate>
+	<physdesc><extent>5 volumes</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+
+</c02>
+<c02 level="item">
+ <did>
+	<unittitle><bibref><title render="italic">A Statistical Acocunt of Several Towns in the County of Litchfield</title></bibref></unittitle>
+	<unitdate datechar="publication">1810</unitdate>
+	<unitid label="Accession: ">1993-068</unitid>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 4. Middlesex County</unittitle>
+	<unitdate datechar="creation" normal="1790/1960">1790-1960</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+ 	<p><emph render="italic">Manuscript Collection 974.61 M58co r.</emph>
+	<lb/>Commissioners, Correspondence, <date type="creation" normal="1893/1896">1893-1896</date>, 3 boxes; Letter book, <date type="creation" normal="1893/1896">1893-1896</date>, 1 volume.
+ 	<lb/>Temporary Home, Petitions for committment to county care, <date type="creation" normal="1903/1955">1903-1955</date>, 2 boxes; Record book, <date type="creation" normal="1910/1912">1910-1912</date>, 1 volume; Records of children, <date type="creation" normal="1883/1955">1883-1955</date>, 3 volumes.
+	<lb/>Treasurer, Account book, <date type="creation" normal="1829/1887">1829-1887</date>, 2 volumes; Day book, <date type="creation" normal="1887/1905">1887-1905</date>, 1 volume.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1892-1960</unitdate>
+	<unitid label="Accession: ">T002731</unitid>
+	<physdesc><extent>1.5 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Audit report</unittitle>
+	<unitdate datechar="creation">1959</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Municipal Building cornerstone</unittitle>
+	<unitdate datechar="creation">1892-1894, 1948, undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Personnel records</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1908-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Employee records</unittitle>
+	<unitdate datechar="creation">1952-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Municipal Building Board of Control Payments</unittitle>
+	<unitdate datechar="creation">1956-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Payroll</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Payroll employee Cards</unittitle>
+	<unitdate datechar="creation">1943-1951</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Quarterly wage reports</unittitle>
+	<unitdate datechar="creation">1951-1957</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Salary approvals</unittitle>
+	<unitdate datechar="creation">1893-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Social Security</unittitle>
+	<unitdate datechar="creation">1950-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Tax guide</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Tax returns</unittitle>
+	<unitdate datechar="creation">1939-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Temporary Home</unittitle>
+	<unitdate datechar="creation">1911-1958</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+ <did>
+	<unittitle>Jail</unittitle>
+	<unitdate datechar="creation">1790</unitdate>
+	<unitid label="Accession: ">T002731</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Committment warrants</unittitle>
+	<unitdate datechar="creation">1790</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 5. New Haven County</unittitle>
+	<unitdate datechar="creation" normal="1892/1961">1892-1961</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+	<p><emph render="italic">Manuscript Collection 974.61 N42co.</emph>
+	<lb/>Commissioners, Account book, <date type="creation" normal="1899/1910">1899-1910</date>, 1 volume.
+	<lb/>Temporary Home, Admissions and discharges, <date type="creation" normal="1937/1945">1937-1945</date>, 2 volumes; Ledger book, <date type="creation" normal="1895/1896">1895-1896</date>, 1 volume.
+	<lb/>Treasurer, Account book, <date type="creation" normal="1750/1904">1750-1904</date>, 2 volumes; Tax record book, <date type="creation" normal="1895/1928">1895-1928</date>, 1 volume.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1919-1961</unitdate>
+	<physdesc><extent>12.75 cubic feet</extent></physdesc>
+ </did>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002732</unitid>
+	<physdesc><extent>3.25 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>County wards</unittitle>
+	<unitdate datechar="creation">1941-1955</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Hospital committments</unittitle>
+	<unitdate datechar="creation">1956</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Personnel records</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Medical plan invoices</unittitle>
+	<unitdate datechar="creation">1951-1955</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Payroll accounts</unittitle>
+	<unitdate datechar="creation">1954-1960</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Payroll check registers</unittitle>
+	<unitdate datechar="creation">1958-1959</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Retirement fund contributions</unittitle>
+	<unitdate datechar="creation">1956-1957</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Retirement fund enrollments</unittitle>
+	<unitdate datechar="creation">1946</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Salary approvals</unittitle>
+	<unitdate datechar="creation">1919, 1936-1955</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Tax returns</unittitle>
+	<unitdate datechar="creation">1955-1956</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>W-2 Lists</unittitle>
+	<unitdate datechar="creation">1944-1949</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Withholding exemption certificates (W-4)</unittitle>
+ </did>	
+<c06 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unitdate datechar="creation">1943-1944</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unitdate datechar="creation">1944-1958</unitdate>
+ </did>	
+</c06>
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unittitle>Payroll, Jail</unittitle>
+	<unitdate datechar="creation">1955-1958</unitdate>
+ </did>	
+</c05>
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002734</unitid>
+ <physdesc><extent>8 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<unittitle>Personnel records</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<unittitle>Employee earning cards</unittitle>
+ </did>	
+<c06 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unitdate datechar="creation">1943-1946</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unitdate datechar="creation">1947-1949</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unitdate datechar="creation">1950-1951</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unitdate datechar="creation">1952-1953</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">11</container>
+	<unitdate datechar="creation">1954-1955</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unitdate datechar="creation">1956-1957</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">13</container>
+	<unitdate datechar="creation">1958-1960</unitdate>
+ </did>	
+</c06>
+</c05>
+<c05 level="file">
+ <did>
+	<unittitle>Payroll</unittitle>
+ </did>	
+<c06 level="file">
+ <did>
+	<container type="Box">14</container>
+	<unitdate datechar="creation">1950-1952</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unitdate datechar="creation">1953-1955</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unitdate datechar="creation">1956-1958</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">17</container>
+	<unitdate datechar="creation">1959-1960</unitdate>
+ </did>	
+</c06>
+</c05>
+<c05 level="file">
+ <did>
+	<unittitle>Payroll analysis sheets</unittitle>
+ </did>	
+<c06 level="file">
+ <did>
+	<container type="Box">18</container>
+	<unitdate datechar="creation">1948-1951</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">19</container>
+	<unitdate datechar="creation">1951-1954</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">20</container>
+	<unitdate datechar="creation">1954-1957</unitdate>
+ </did>	
+</c06>
+<c06 level="file">
+ <did>
+	<container type="Box">21</container>
+	<unitdate datechar="creation">1957-1960</unitdate>
+ </did>	
+</c06>
+</c05>
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2001-027</unitid>
+	<physdesc><extent>1.5 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Annual Report of County of New Haven</unittitle>
+	<unitdate datechar="creation">1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Calls to county meetings</unittitle>
+	<unitdate datechar="creation">1958-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1951-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Correspondence, Jail</unittitle>
+	<unitdate datechar="creation">1958-1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Decisions of county meeting</unittitle>
+	<unitdate datechar="creation">1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Financial statements</unittitle>
+	<unitdate datechar="creation">1958-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Legal case records</unittitle>
+	<unitdate datechar="creation">1958-1961</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unittitle>Minutes</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">22</container>
+	<unitdate datechar="creation">1958</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">23</container>
+	<unitdate datechar="creation">1959-1960</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">23</container>
+	<unittitle>Minutes, Budget hearing</unittitle>
+	<unitdate datechar="creation">1955</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">23</container>
+	<unittitle>Minutes, County meeting</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">23</container>
+ 	<unitdate datechar="creation">1955, 1959</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c05>
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Minutes, Temporary Home Board</unittitle>
+	<unitdate datechar="creation">1954</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Newspaper clippings</unittitle>
+	<unitdate datechar="creation">1956-1959, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Report of Treasurer, New Haven County Law Library Association</unittitle>
+	<unitdate datechar="creation">1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Temporary Home Sale</unittitle>
+ </did>	
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Building exits code</unittitle>
+	<unitdate datechar="creation">1957</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Closing documents</unittitle>
+	<unitdate datechar="creation">1958-1960, undated</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1955-1960</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Legislative acts</unittitle>
+	<unitdate datechar="creation">1959</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Marketing brochures</unittitle>
+	<unitdate>undated</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Minutes</unittitle>
+	<unitdate>undated</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Purchase agreement</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Purchase offers</unittitle>
+	<unitdate datechar="creation">1959-1960</unitdate>
+ </did>	
+</c05>
+<c05 level="file">
+ <did>
+	<container type="Box">24</container>
+	<unittitle>Valuations</unittitle>
+	<unitdate datechar="creation">1955-1959</unitdate>
+ </did>	
+</c05>
+</c04>
+</c03>
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Temporary Home</unittitle>
+	<unitdate datechar="creation">1892-1955</unitdate>
+	<unitid label="Accession: ">1986-013</unitid>
+	<physdesc><extent>7.75 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="item">
+ <did>
+	<unittitle>Admissions and discharges</unittitle>
+	<unitdate datechar="creation">1884-1899</unitdate>
+	<physdesc><extent>26 volumes</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Lists of children boarding</unittitle>
+	<unitdate datechar="creation">1892-1923</unitdate>
+	<physdesc><extent>4 volumes</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Records of children</unittitle>
+	<unitdate datechar="creation">1892-1955</unitdate>
+	<physdesc><extent>11 volumes</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 6. New London County</unittitle>
+	<unitdate datechar="creation" normal="1841/1960">1841-1960</unitdate>
+ </did>
+ <separatedmaterial>
+ <head>Separated material</head>
+	<p><emph render="italic">Manuscript Collection 974.61 N44co.</emph>
+ 	<lb/>Commissioners, Correspondence, <date type="creation" normal="1901/1908">1901-1908</date>, 2 boxes.
+	<lb/>Temporary Home, Admissions and discharges, <date type="creation" normal="1883/1892">1883-1892</date>, 1 volume; Children's expense record book, <date type="creation" normal="1953/1955">1953-1955</date>, 2 volumes.
+	<lb/>Treasurer, Records of children, <date type="creation" normal="1883/1933">1883-1933</date>, 4 volumes; Records of child placements, <date type="creation" normal="1884/1932">1884-1932</date>, 3 volumes.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1841-1960</unitdate>
+	<physdesc><extent>2.5 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002743</unitid>
+	<physdesc><extent>1 cubic foot</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Equipment catalogs</unittitle>
+	<unitdate datechar="creation">1957, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Expenses paid</unittitle>
+	<unitdate datechar="creation">1956-1957</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Jail construction</unittitle>
+	<unitdate datechar="creation">1948-1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Personnel records including correspondence</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Lists</unittitle>
+	<unitdate datechar="creation">1960, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Payroll</unittitle>
+	<unitdate datechar="creation">1956-1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Physical inventories</unittitle>
+	<unitdate datechar="creation">1960</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Taxes on towns</unittitle>
+	<unitdate datechar="creation">1958-1959</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Truck bids</unittitle>
+	<unitdate datechar="creation">1956</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Cash book</unittitle>
+	<unitdate datechar="creation">1956-1960</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002735</unitid>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Record book</unittitle>
+	<unitdate datechar="creation">1841-1873</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">No accession number</unitid>	
+	<physdesc><extent>1.5 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Expenses</unittitle>
+	<unitdate datechar="creation">1955-1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Expenses, Temporary Home</unittitle>
+	<unitdate datechar="creation">1954-1956</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Newspaper clippings, Temporary Home sale</unittitle>
+	<unitdate datechar="creation">1956</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2002-098</unitid>
+	<physdesc><extent>.25 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Admission to the bar, Edwin W. Higgins</unittitle>
+	<unitdate datechar="creation">1897 September 24</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1928-1956</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Executions on Compensation Commission awards</unittitle>
+	<unitdate datechar="creation">1949-1961</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Grievance Committee matters</unittitle>
+	<unitdate datechar="creation">1925-1949</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Legislators' meetings</unittitle>
+	<unitdate datechar="creation">1943-1952</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>New London county Law Library Association accounts and reports</unittitle>
+	<unitdate datechar="creation">1942-1958</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Resignations, discharges, and leaves of absence</unittitle>
+	<unitdate datechar="creation">1915-1968</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Statements of William Lewis as county investigator</unittitle>
+	<unitdate datechar="creation">1924-1925</unitdate>
+ </did>	
+</c04>
+</c03>
+
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Jail</unittitle>
+	<unitdate datechar="creation">1845-1884, </unitdate>
+	<unitid label="Accession: ">T002736</unitid>
+	<physdesc><extent>2.75 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="item">
+ <did>
+	<unittitle>Account books</unittitle>
+	<unitdate datechar="creation">1865-1881</unitdate>
+	<physdesc><extent>2 volumes</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Day books</unittitle>
+	<unitdate datechar="creation">1861-1881</unitdate>
+	<physdesc><extent>2 volumes</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1875-1878</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Ledger book</unittitle>
+	<unitdate datechar="creation">1875-1878</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Record books</unittitle>
+	<unitdate datechar="creation">1845-1878</unitdate>
+	<physdesc><extent>3 volumes</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<unittitle>Returns</unittitle>
+	<unitdate datechar="creation">1862-1881</unitdate>
+	<physdesc><extent>3 volumes</extent></physdesc>
+ </did>	
+</c03>
+</c02>	
+</c01>
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 7. Tolland County</unittitle>
+	<unitdate datechar="creation" normal="1795/1939">1795-1939</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+ 	<p><emph render="italic">Manuscript Collection 974.61 T57.</emph>
+<lb/>Specifications for Court House building, <date type="creation" normal="1836">1836</date>, 1 document.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 T58to r.</emph>
+	<lb/>Temporary Home, Record book, <date type="creation" normal="1884/1891">1884-1891</date>, 1 volume.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 T58tr r.</emph>
+	<lb/>Treasurer, Check books, <date type="creation" normal="1885/1894">1885-1894</date>, 3 volumes.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1878-1917</unitdate>
+	<unitid label="Accession: ">T002733</unitid>
+	<physdesc><extent>1.5 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Certificates of inspection</unittitle>
+	<unitdate datechar="creation">1896-1897</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Contracts</unittitle>
+	<unitdate datechar="creation">1878-1898</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Insurance policies</unittitle>
+	<unitdate datechar="creation">1879-1885</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>License bonds and applications</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unitdate datechar="creation">1881-1887</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1888-1891</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unitdate datechar="creation">1892-1895, undated</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unitdate datechar="creation">1907-1916</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Minutes of Senators and Representatives</unittitle>
+	<unitdate datechar="creation">1909-1917</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Physical inventories</unittitle>
+	<unitdate datechar="creation">1885, 1891</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="subseries">
+ <did>
+	<unittitle>Treasurer</unittitle>
+	<unitdate datechar="creation">1795-1939</unitdate>
+	<unitid label="Accession: ">T002733</unitid>
+	<physdesc><extent>7 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Bills and receipts</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unitdate datechar="creation">1795-1796, 1822-1874</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unitdate datechar="creation">1875-1880</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unitdate datechar="creation">1881-1888</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unitdate datechar="creation">1889-1890</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unitdate datechar="creation">1891-1892</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unitdate datechar="creation">1893-1894</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unitdate datechar="creation">1895-1896, 1908, 1913-1918</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<unittitle>Bills and receipts, Court</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">11 </container>
+	<unitdate datechar="creation">1814-1832</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unitdate datechar="creation">1833-1851</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<unittitle>Bills and receipts, Temporary Home</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">13</container>
+	<unitdate datechar="creation">1884-1890</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">14</container>
+	<unitdate datechar="creation">1891-1894</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Blank account forms</unittitle>
+	<unitdate>undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Bonds of bank directors</unittitle>
+	<unitdate datechar="creation">1828</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Bonds of conservators</unittitle>
+	<unitdate datechar="creation">1821-1829</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Bonds of jailers</unittitle>
+	<unitdate datechar="creation">1887-1911</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Bond of law library association treasurer</unittitle>
+	<unitdate datechar="creation">1892</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Check books</unittitle>
+	<unitdate datechar="creation">1881, 1884-1885</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Insurance policies</unittitle>
+	<unitdate datechar="creation">1830-1835</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>List of names</unittitle>
+	<unitdate>undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Notes</unittitle>
+	<unitdate datechar="creation">1805-1828</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Pension claim</unittitle>
+	<unitdate datechar="creation">1901</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Reports of commissioners</unittitle>
+	<unitdate datechar="creation">1878-1883</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<unittitle>Returns for jail</unittitle>
+	<unitdate datechar="creation">1871-1917</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Salary payments to commissioners</unittitle>
+	<unitdate datechar="creation">1902-1903</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Statement of undertaker</unittitle>
+	<unitdate datechar="creation">1895</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Taxes on towns</unittitle>
+	<unitdate datechar="creation">1820-1939</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<unittitle>Warrantee deeds</unittitle>
+	<unitdate datechar="creation">1887, 1895, 1899</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<unittitle>Cancelled checks</unittitle>
+	<unitdate datechar="creation">1885-1897, 1903</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<unittitle>Cancelled checks, Temporary Home</unittitle>
+	<unitdate datechar="creation">1892-1906</unitdate>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 8. Windham County</unittitle>
+	<unitdate datechar="creation" normal="1874/1955">1874-1955</unitdate>
+ </did>	
+ <separatedmaterial>
+ <head>Separated material</head>
+	<p><emph render="italic">Manuscript Collection 974.61 W72co.</emph>
+	<lb/>Commissioners, Expenses of children in foster homes, <date type="creation" normal="1930/1932">1930-1932</date>, 1 volume.
+	<lb/>Jail, Visitor book, <date type="creation" normal="1897/1904">1897-1904</date>, 1 volume.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 W72t.</emph>
+	<lb/>Tax assessment list of all dwelling houses not exceeding two acres, <date type="creation" normal="1798">1798</date>, 1 document.
+	</p>
+	<p><emph render="italic">Manuscript Collection 974.61 W72tr.</emph>
+	<lb/>Treasurer, Account book, <date type="creation" normal="1771/1823">1771-1823</date>, 1 volume.
+	</p>
+ </separatedmaterial>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Commissioners</unittitle>
+	<unitdate datechar="creation">1896</unitdate>
+	<unitid label="Accession: ">T002744</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Good road orders</unittitle>
+	<unitdate datechar="creation">1896</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Jail</unittitle>
+	<unitdate datechar="creation">1874-1898</unitdate>
+	<unitid label="Accession: ">T002744</unitid>
+	<physdesc><extent>1.25 cubic feet</extent></physdesc>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Bills and receipts</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unitdate datechar="creation">1895-1896</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1897-1898, undated</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1895, 1897</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Discharges</unittitle>
+	<unitdate datechar="creation">1876-1893, undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Notes of prisoners</unittitle>
+	<unitdate datechar="creation">1874-1894, undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Prisoner correspondence</unittitle>
+	<unitdate datechar="creation">1898</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Prisoner writings</unittitle>
+	<unitdate datechar="creation">1898</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Telephone service contract</unittitle>
+ 	<unitdate datechar="creation">1897</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="subseries">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Temporary Home</unittitle>
+	<unitdate datechar="creation">1883-1955</unitdate>
+ </did>	
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002742</unitid>
+	<physdesc><extent>1.25 cubic feet</extent></physdesc>	
+ </did>
+<c04 level="item">
+ <did>
+	<unittitle>Records of children</unittitle>
+	<unitdate datechar="creation">1883-1919</unitdate>
+	<physdesc><extent>2 volumes</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<unittitle>Records of visitors</unittitle>
+	<unitdate datechar="creation">1891-1955</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002744</unitid>
+	<physdesc><extent>0.5 cubic feet</extent></physdesc>	
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Bills and receipts</unittitle>
+	<unitdate datechar="creation">1895-1897</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Physical inventory</unittitle>
+	<unitdate datechar="creation">1894</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2011-121</unitid>
+	<physdesc><extent>.25 cubic feet</extent></physdesc>	
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Card file</unittitle>
+	<unitdate datechar="creation">circa 1937-1955</unitdate>
+ </did>	
+	<arrangement><p>Arranged first into 3 groups and therein alphabetically: Boarding children, circa 1937-1939; wage homes, circa 1937-1939; self boarding homes, circa 1948-1955.</p></arrangement>
+</c04>
+</c03>
+</c02>
+
+<c02 level="subseries">
+ <did>
+	<unittitle>Treasurer</unittitle>
+	<unitdate datechar="creation">1914-1943</unitdate>
+ </did>	
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002740</unitid>
+ </did>
+<c04 level="item">
+ <did>
+	<unittitle>Receipts and expenditures</unittitle>
+	<unitdate datechar="creation">1914-1943</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T002744</unitid>
+	<physdesc><extent>0.5 cubic feet</extent></physdesc>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Cancelled checks</unittitle>
+	<unitdate datechar="creation">1893-1898</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+</c01>
+
+</dsc>
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

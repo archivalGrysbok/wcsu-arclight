@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-100::Science Center Planning Files)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/sc1000-100.html">sc1000-100</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Science Center Planning Files,
+		<lb/><date normal="1962/1971">1962 - 1971</date>
+		</titleproper>
+        <author>Processed by: Stephen Padilla; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: April 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Science Center Planning Files, <date type="span">1962 - 1971</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.).</corpname></origination><unittitle label="Title" encodinganalog="245">Science Center Planning Files, <unitdate normal="1962/1971" type="inclusive">1962 - 1971</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-100</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.5</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">This collection concerns the planning and construction of Phase II of the Science Center, completed in 1970. The building is now known as the Exley Science Center.</abstract><abstract encodinganalog="520">The Science Center Planning materials include correspondence, memoranda, meeting minutes, plans, drawings and other items related to the design, planning, space allocation, HVAC system, and construction of the Science Center and Science Library. Smith Haines Lundberg &amp; Waehler, the E&amp;F Construction Company, and Dolores Miller and Associates. were major companies involved in this project. Chair of the Building Committee John Sease and University Librarian Wyman W. Parker are major correspondents in the collection. </abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Science Center Planning Files, Collection #1000-100, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Transferred to the University Archives in the 1970s.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Stephen Padilla, April 2008</p>
+        <p>Encoded by Valerie Gillispie, April 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>This collection concerns Phase II of the Science Center. Phase I was the construction of Hall-Atwater Laboratory, which was completed in 1967, preceding the rest of the center. The project began when Victor Butterfield was President. In the mid-1960s, the student population of the University was augmented by 510, approaching the population of the 1990s-2000s. Wesleyan had to meet the need to accommodate more students than the previous Hall Laboratory could, as well as meet competitive standards in the fields of science. These two factors justified the cost of the new Science Center, which in the end was approximately 18 million dollars. Phase II was completed in 1970 and the Science Library switched from the Cutter classification system to the Library of Congress classification system. In 2002 the Science Center was dedicated to Charles E. Exley, Jr., class of 1951, for his generous contributions to the University. 
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This collection is organized into ten folders. The first folder has various types of documents pertaining to the overall project and the planning process involved. The second folder deals specifically with the issue of space allocation, and how the Building Committee had to work with the various science departments to plan out exactly how much space would be needed and how it could be distributed. The third folder contains documents and correspondence about the difficult issue of air conditioning in the Science Center. Folders 4 and 5 are both meeting minutes from the Smith Haines Lundberg and Waehler architecture firm. The sixth folder is similar, but from the E &amp; F Construction Company. Folder 7 is the research and planning behind the Science Library. There was much discussion and research into what would be the final product. Folder 8 contains the documents reflecting the actual construction and furnishing of the library, installing bookstacks, and finding a good spatial layout. There was much correspondence sent between people involved in the process of creating the Science Library, most prominently university librarian Wyman Parker, and these are contained in folder 9. Finally, folder 10 contains documents, memos, and notes that did not fit with any of the categories above, or could not be deciphered. 
+</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>The materials are arranged into the following groupings: Design and Planning; Space Allocation; Air Conditioning; Smith Haines Lundberg &amp; Waehler Meeting Minutes; The E&amp;F Construction Company Meeting Minutes; Science Library Research and Planning; Science Library Construction; Science Library Correspondence; and Miscellaneous Documents.
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Sease, John W.</persname>
+      <persname source="lcnaf" encodinganalog="600">Parker, Wyman W.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Buildings.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History--20th century.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Smith, Haines, Lundberg &amp; Waehler</corpname>
+      <subject source="lcsh" encodinganalog="650"> Academic libraries.</subject>
+      <subject source="lcsh" encodinganalog="650">College buildings--United States--Planning.</subject>
+      <subject source="lcsh" encodinganalog="650">College buildings--United States--Design and construction.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Design and Planning, 1963-1970</unittitle>
+          </did>
+          <scopecontent>
+            <p>This Folder contains documents dated between 1963 and 1970 that reflect the planning process behind the construction of the Science Center. It includes various architectural drawings, charts and occupancy plans, as well as correspondence and progress reports. </p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Undated drawing entitled <emph render="doublequote">Possible Clustering in New Science Center</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Building Committee Agenda, November 6, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John W. Sease to nine faculty members, January 14, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes attached list of classrooms, utilization chart, and architect's design studies.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Floor plans and occupancy layout drawings for prospective science center by Smith Haines Lundberg &amp; Waehler, May 13, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Undated drawing of Science Center layout</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John Sease rejecting architect's layouts, July 24, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached drawings with improvements made.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Exploratory Design Estimate for Science Center, July 30, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from John Sease, August 1, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Hand-drawn proposed layouts attached.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report to the Education Committee of the Trustees of the Wesleyan Science Center: submitted by Rosenbaum, August 6, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Proposed occupancy plan drawings, September 26, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>14-page packet of drawings of occupancy plan and space allocation with estimates, late 1964.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from John Sease to John S. Fountain (architect) concerning details of the occupancy plan, October 3, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum slip from John Sease to several members of the faculty, January 8, 1965 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached six-page occupancy plan for the chemistry and biology departments. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Handwritten letter from John Sease to faculty member, November 3, 1965</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached six pages of Proposal #1 and Proposal #2 for renovation of Hall laboratory. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Response from Wyman W. Parker, Librarian, to John Sease over the November 3 proposal of Hall laboratory, November 10, 1965</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Handwritten letter, February 7, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached drawing of Proposal #3 by John Sease to renovate the Hall Laboratory.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>July 29, 1966 Letter from John Martin of Middletown to John Sease </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached amateur drawing of possible Science Center layout and design.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo slip from Wyman Parker to John Sease concerning problem with architect's space estimates, October 7, 1966</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo to building committee, January 3, 1967 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached copy of Architect's minutes of meeting. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Three floor plan drawings by Smith Haines Lundberg &amp; Waehler </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached memo slip dated 1/30/1967</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Proposed Project budget estimating cost and space needs, February 24, 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John Sease expressing serious concern over the aesthetics of the building, June 16, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum from Rosenbaum announcing site visit, July 10, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>October 11, 1967 memo from Ross A. Gortner to several faculty members announcing <emph render="doublequote">Meeting of Architects, Science Center Building Committee, Facilities Planners and other administrators concerned with Phase II of the Science Center.</emph> To have taken place on October 16, 1967.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Change Order No. 3 by Smith Haines Lundberg &amp; Waehler detailing revisions to the layout and design of the Science Center, December 1, 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Document entitled Present Schedule of Moves, detailing each department's progress of moving into new building, November 9, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Progress Schedule, October 6, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Miller Associates. Subject: Furniture installation in tower, December 8, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Undated document entitled <title render="doublequote">Wesleyan University Science Center Phase II Room Numbering system.</title></unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached memo from Rosenbaum. </p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Space Allocation</unittitle>
+          </did>
+          <scopecontent>
+            <p>This file contains a number of documents, primarily tables of space estimate needs for the various science departments, between 1963 and 1967.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Summary of Space Estimates for Astronomy: 10 page document with table detailing all of the estimated space and library needs for the astronomy department, November 6, 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John Sease to all science departments concerning meeting with architects to discuss space allocations, November 11, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Summary of Space Estimates for Chemistry, December 11, 1963 </unittitle>
+            </did>
+            <scopecontent>
+              <p>3 page document issued as a correction to a previous document of November 6, 1963 that is not in the collection.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan Science Center Space Allocation, April 20, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Comprehensive 13 page document with space allocation estimates for each science department meant to use the science center.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan Science Center Space Allocation, June 10, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>3 page document with comprehensive estimates for all departments in the science center and science library.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tabulation of Areas Based on Scheme R., July 11, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>3 page document issued by Smith Haines Lundberg &amp; Waehler.Space estimates for different categories of use.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan Science Center Space Allocation, July 25, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>Comprehensive estimates for certain departments: office space, astronomy, geology, computer center, class rooms, and service areas.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Spaces and Distribution-Science Center II, August 2, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>Two-page document with 8 different tables of spaces estimates based on floor. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum from John Sease to Science Center Building Committee concerning space allocation charts that had been distributed, August 12, 1966. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum from John Sease to faculty members about space allocation, August 20, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Space Allocation Drawing 3171-16 by Smith Haines Lundberg and Waehler, September 12, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>Architectural drawing with total cumulative space estimates for Science Center.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Corrections for Space Allocation Drawing 3171-16, October 3, 1966 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Issued by John Sease, two-page document with corrections for architectural drawing.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mathematical estimates of space needs, circa 1966</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>23 page document with very detailed summary of space needs for astronomy, biology, chemistry, geology, mathematics, physics, lecture halls, computer center, offices, service facilities, and science library.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Space Needs in New Science Center, undated</unittitle>
+            </did>
+            <scopecontent>
+              <p>Summary of needs for each department.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Summaries of all space needs for science center, May 5, 1967</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached memo from John Sease to Wyman Parker proposing enclosed estimates to be final.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Air Conditioning</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains miscellaneous documents concerning the installation of an air conditioning system in the Science Center.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Memorandum from John Sease to Wyman Parker proposing air conditioning in the whole science library, November 26, 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John Sease to building committee concerning acoustics and air conditioning in new science center, November 20, 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>10 Page document with occupancy averages for each department during both day and night, median areas for air conditioned areas, and minimum level of air conditioning in certain areas for each department, December 27, 1963</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached letter from John Sease.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from John Sease to Building committee concerning projected costs for air conditioning and ventilation systems, February 4, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>memo from John Sease to Building Committee concerning distinct air conditioning options and their prospective costs, February 27, 1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Ross Gortner to Department heads in science center, subject Air conditioning requirements, October 12, 1970</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached response from Wyman Parker, October 19, 1970</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Smith Haines Lundberg &amp; Waehler Meeting Minutes, 1966-1970</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains the meeting minutes from the architects that designed the science center.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">4</container>
+              <unittitle>18 documents dated between July 22, 1966 and December 5, 1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">5</container>
+              <unittitle>26 documents dated between January 17, 1969 and July 20, 1970</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>The E&amp;F Construction Company Meeting Minutes</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains the meeting minutes from the construction company hired by Wesleyan to build the Science Center.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>24 documents dated between June 30, 1970 and January 22, 1971.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Science Library Research and Planning, 1960-1967</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains a mix of documents reflecting the planning and design process of the Science Library. It contains many documents with information about other libraries.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>3 page document entitled <title render="doublequote">Library Planning Committee</title> with list of information: <emph render="doublequote">Points to look at in the new library.</emph> Undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Undated handwritten chart with present holdings, to be transferred, and number of volumes to be accommodated in Science Library with respective numbers for each science department. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Background Information,</title> 3 pages by the National Research Council of Canada describing the construction of a Nation Science Library in Ottawa.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Individual Departmental Libraries vs. Consolidated Science Libraries,</title><title render="italic">Physics Today</title>, May 1961</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annual Report of the Librarian from Swarthmore College Library, 1960/1961</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Haverford College Bulletin Library Reports, 1962-1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Rosenbaum from Mr. Randall of IBM Research Library promoting new library technologies, December 23, 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The New Library at Homewood,</title> Vol. XVIII, No. 2, Ex Libris Leaflet from John Hopkins University, issued by the Friends of the Library, December 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Short letter to Wyman Parker from Lieberfield, March 6, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached copy of library seating survey.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum to Wyman Parker from Helen Dodero, March 23, 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached 7 completed forms for the Library Seating Survey.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Small ten-page pamphlet entitled <title render="doublequote">Friends of the Niels Bohr Library Annual,</title> October, 30 1964</unittitle>
+            </did>
+            <scopecontent>
+              <p> In this first annual summary report to the Friends of the Niels Bohr Library of the History of Physics, the background and growth of the library during the past year is briefly reviewed and some plans for the future are indicated.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Copy of August 1938 issue of a <title render="italic">Discovery</title> magazine article about physics for <emph render="doublequote">History of Science</emph> room in new science library</unittitle>
+            </did>
+            <scopecontent>
+              <p>Three attached letters concerning it between Wyman Parker, John Sease, and Mr. Harry Lewis from the Institute of Paper Technology dated November 24 and December 10, 1964.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Sketches of library, October 3, 1966</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from secretary of mathematics department with survey of Mathematics Library usage.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>One page article entitled <title render="doublequote">Science Library for Brown,</title> undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>11-page pamphlet of Brown's new science library with drawings and layouts, December 1966</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">J. Henry Meyer Memorial Library Stanford University Fact Sheet,</title> 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>4 copies of a survey by Wyman Parker</unittitle>
+            </did>
+            <scopecontent>
+              <p>Given to Science Building Committee Representatives to catalog their preferences for two different design plans for the library. There is one original copy and three that have been filled out. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Smith Haines Lundberg &amp; Waehler to William Dix, May 22, 1967</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached architectural layouts. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Essay about Hawthorne College's library, November 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>About 8 pages of undated floor plan layouts by Smith Haines Lundberg and Waehler for the science library.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Science Library construction</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains documents of the Science Library's construction and completion. It contains many documents from Miller &amp; Associates, the company hired to design the interior. </p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Science Center Phase II Interior Design Program: Proposed Agenda and itinerary for Dolores Miller and Associates Meeting,</title> undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Professional Resume of Robert L. Balliot, reporting as Science Library to Wesleyan as of September 1, 1967. </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Michal Durkan to Holman Lee, May 14, 1969 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached document of his personal assessment of library needs for graduate programs. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Minutes from meeting between Dolores Miller and Associates and Wesleyan University, March 9, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Minutes from meeting with Miller &amp; Associates and Wesleyan, March 17, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>letter from Walter Miller of Miller &amp; Associates to Robert Wilson, March 25, 1970</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached 3 page scheduling chart for furnishing of science center.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Meeting minutes for Miller &amp; Associates and Wesleyan, April 7, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Lorry Schwartz, purchasing director at Wesleyan, from Remington Rand Library Bureau subject: Science Tower Steel Bookstack, May 20, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Miller &amp; Associates to Robert Wilson, subject RE: Bookstack Specifications, May 25, 1970  </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached ten-page document with specifications.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Miller Associates to Lorry Schwartz, May 26, 1970  </unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached <title render="doublequote">Ridder's List Bookstacks.</title></p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Meeting minutes for meeting between Miller &amp; Associates and Wesleyan, July 15, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Meeting minutes for Wesleyan and Miller &amp; Associates, December 21, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Science Library Moves: Tentative Refined Schedule, December 28, 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Robert Rosenbaum to the Class of 1971 recognizing graduating seniors who contributed to the new Science Library, 	June 1, 1971 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>2 page worksheet entitled <title render="doublequote">American Library Association Library Administration Division Building Data Sheet,</title> undated</unittitle>
+            </did>
+            <scopecontent>
+              <p>The form is mostly filled out.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Patt Snyder, Science Librarian, to Ruth Frame of the American Library Association, with additional information about the science library requested by the association, April 12, 1972 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>3 black and white photographs of the Science Library interiors, stacks, and study furniture. </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Science Library correspondence</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains correspondence between those involved in the process of creating the Science Library. </p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Memo to Earl Hanson from Wyman W. Parker concerning an article on the Dartmouth College Library, July 30, 1962 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Bob Rosenbaum to John Sease about library storage and microcards, October 14, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>John Sease's response to Bob Rosenbaum, October 15, 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wyman Parker's response to Bob Rosenbaum, October 22, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to John Sease from Wyman Parker about space concerns in new library, October 24, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Wyman Parker from John Sease about library space and rare book room, December 2, 1963 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum to Chairmen of Departments and Programs from Provost J.C. Palamountain concerning the hiring of consultant Lawrence Lieberfield for space utilization, February 5, 1964 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to John Sease from Wyman Parker discussing space estimates for new library, March 19, 1964 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from John W. Spaeth, Jr. to several members of faculty including Bob Rosenbaum concerning Harry Lewis' proposal, November 27, 1965</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorandum from Wyman Parker to Science department representatives concerning proposed library specifications, August 18, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Handwritten memo from John Sease to Wyman Parker, August 20, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Wyman Parker from William Dix, Librarian for Princeton University, concerning science library design, September 6, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to J. Gomez-Ibanez, September 8, 1966</unittitle>
+            </did>
+            <scopecontent>
+              <p>Attached September 6 letter about periodical displays in the library. </p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from W. Parker to M. Durkan about catalogue cards, September 9, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to David Jonah, Librarian of the Rockefeller Library, October 4, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Stapled letters between George Kidder of the biology department and Wyman Parker, October 7, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Princeton Librarian from Wyman Parker, October 7, 1966 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to David Jonah, Librarian at Brown, concerning design of the library at Brown's science library, November 7, 1966  </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to a Mr. Robert Balliot in response to the attached letter concerning the design plans of the library, February 22, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Mr. Haines, architect, from Howard Matthres, Vice President and Treasurer of Wesleyan, concerning final space estimates for the new library and technological advances, May 5, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to Robert Balliot, then Librarian for the University of Illinois, May 19, 1967 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Requests that he look over and make comments upon the architects' final plans for the library.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Wyman Parker to William S. Dix of Princeton University, May 19, 1967 </unittitle>
+            </did>
+            <scopecontent>
+              <p>Requests that he look over and make comments upon the architects' final plans for the library.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Response from Robert Balliot to Library plans, May 25, 1967  </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Response from William Dix of Princeton, May 29, 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Robert Balliot to Wyman Parker concerning library office design plans, July 7, 1967  </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Response from Wyman Parker to Balliot's July 7 letter, July 11, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo slip from Balliot to Ross Gortner concerning the key system to be used for the library, October 24, 1967 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo <emph render="doublequote">1/2 mill to keep hall…cheaper and more efficient to build new math-tear down hall build new library,</emph> dated November 9, circa 1967-1969</unittitle>
+            </did>
+            <scopecontent>
+              <p>Only mention in collection of the decision to tear down the Hall Laboratory.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from W. Parker to Bob Wilson rejecting leaving the basement unused, February 11, 1969 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo to Wyman from Bob Balliot about space use and student carrels in the new library, February 25, 1969 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Robert Wilson to Wyman Parker <emph render="doublequote">IN RE: Interior Design Consultant for Science Library,</emph> September 8, 1969 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Robert Wilson to Edward Hecht of Miller &amp; Associates, subject <emph render="doublequote">Science Center Interiors,</emph> January 27, 1970 "</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Wilson to Parker concerning book stacks, March 16, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Wilson to Parker concerning display cases, March 24, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Earl Johnson, University Engineer, to Miller &amp; Associates, subject: <emph render="doublequote">Wesleyan University, Science Center Phase II Bookstack Specifications,</emph> June 5, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Parker to Earl Johnson, subject <emph render="doublequote">Telephone services to new Science Library,</emph> June 10, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Miller &amp; Associates to Earl Johnson, Re: Bookstack Specifications, June 12, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo from Parker to Rogers, subject RE: Micro equipment for Science Library, July 14, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Miller &amp; Associates to Christopher Williams, of the Facilities Planning Office, Re: Science Center Phase II-Library Wing, August 28, 1970 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo, October 26, 1970  </unittitle>
+            </did>
+            <scopecontent>
+              <p>No names. Tentative schedule for moving into science center.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Earl Johnson from E&amp;P Construction Company with the total price for glass enclosed shelving, February 25, 1971 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Haines Lundberg &amp; Waehler to Library Administration Division, October 6, 1971 </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Miscellaneous memos and notes</unittitle>
+          </did>
+          <scopecontent>
+            <p>This folder contains mostly handwritten notes and memos, some of which are cryptic. Some are dated between 1963 and 1971, but most are not dated. </p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

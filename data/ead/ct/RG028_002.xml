@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG028_002.html" countrycode="us">RG028_002</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 028:002, Commission on the Reorganization of State Departments, 1935-1937</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 12, 2007</date>
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2007</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. baran on
+<date>July 12, 2007</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Commission on the Reogranization of State Departments</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Commission on the Reorganization of State Departments records</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f" normal="1935/1937">1935-1937</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">11 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Commission made recommendations and proposed legislation to streamline State government that at the time consisted of 160 agencies among the three branches.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG028_002</unitid>
+ <unitid label="Accession: ">Multiple</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The Commission on the Reorganization of State Departments was established pursuant to Special Act No. 242 of 1935, which provided for appointment by the Governor, with the advice and consent of the General Assembly, of a five-member commission to make studies and prepare recommendations and proposed legislation. Governor Wilbur Cross called the first meeting in his office on June 21, 1935, at which Col. Thomas Hewes was elected chairman. Benjamin P. Whitaker was appointed Research Director on July 1, 1935 and he was assisted by a small staff and by a number of expert consultants (as listed in the Report). The report was submitted to the Governor dated January 25, 1937, but a new Act extended the life of the Commission to March 30, 1937. The last meeting minutes bear that date, but the members and the Research Director continued for some months to provide advice and assistance to the Governor and the General Assembly. </p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>This subgroup consists of the commission's agendas and minutes, reports and study files for each agency, consultants special reports, draft chapters for its report to the General Assembly as outlined in its authorizing legislation, press releases, correspondence, records relating to proposed legislation, and subject files consisting of working papers including correspondence and reference materials.</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+<p>
+RG 028:001, Commission to Investigate the Advisability of COnsolidating Certain State Boards and Commission and to Investigate the Public Health Laws, 1915.
+</p>
+<p>
+RG 028:003, Commission to study the Integration of the State Judicial System, 1943-1945.
+</p>
+<p>
+RG 028:004, Commission on State Government Organization, 1949-1950.
+</p>
+<p>
+RG 028:005, Commission on Services and Expenditures (Etherington Commission), 1971.
+</p>
+<p>
+RG 028:006, Committee on the Structure of State Government (Filer Committee), 1975-1977.
+</p>
+<p>
+RG 028:007, Human Servuces Reorganization Commission, 1977-1979.
+</p>
+<p>
+RG 028:008, Governor's Study Group on Limitation on Expenditures, 1978-1979.
+</p>
+<p>
+RG 028:009, Commission to Study the Management of State Government (Thomas Commission), 1989-1991.
+</p>
+<p>
+RG 028:010, Commission to Effect Government Reorganisation (Hull-Harper Commission), 1991-1992.
+</p>
+</relatedmaterial>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Hewes, Thomas</persname>
+			<persname encodinganalog="700" source="local">Whitaker, Benjamin P</persname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="650" source="lcnaf">Connecticut. Commission on the Reogranization of State Departments</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Administrative agencies -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Executive departments -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut. Commission on the Reogranization of State Departments -- Records and correspondence</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut -- Politics and government</subject>
+			<subject encodinganalog="650" source="lcsh">State governments -- Connecticut</subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Agendas (administrative records)</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Memorandums</genreform>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Pamphlets</genreform>
+			<genreform encodinganalog="655" source="aat">Press releases</genreform>
+			<genreform encodinganalog="655" source="aat">Reports</genreform>
+			<genreform encodinganalog="655" source="aat">Statutes</genreform>
+	</controlaccess>
+</controlaccess>
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The records of the Commission were e vidently kept in the Budget Division of which Mr. Whitaker was Director for a time, and were transferred to the State Library on August 1, 1944. Earlier, on October 23, 1939, the library received a set of the memoranda and an incomplete set of minuts, minutes from the Hon. Kenneth F. Cramer, a member of the commission. These were bound and catalogued into the "D" collection</p>
+</acqinfo>
+ 
+
+<processinfo encodinganalog="583" id="a20">
+	<head>Processing Information</head>
+	<p>State Archivist Robert Claus processed the records into RG 43. In 1994, State Archives staff consolidated the collection with other records of similar commissions in a new RG 28.
+
+</p>
+</processinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1935/1937">1935-1937</unitdate>
+ <unitid label="Accession: ">1940-003 (boxes 4-7); 1945-003 (boxes 1-3, 8-22)</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+ 
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unittitle>1. Meeting minutes</unittitle>
+	<unitdate datechar="creation">1935-1937</unitdate>
+ <physdesc><extent>3 inches</extent></physdesc>
+ </did>	
+ <arrangement><p>Arranged chronologically.</p></arrangement>
+ <note><p>A complete bound set is available in Government Documents: D q St 293 Mi.</p></note>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unittitle>2. Suggested meeting agendas</unittitle>
+	<unitdate datechar="creation">1935-1937</unitdate>
+ <physdesc><extent>1.5 inches</extent></physdesc>
+ </did>	
+ <scopecontent><p>Annotated to indicate action taken. Possibly prepared by the Research Director</p></scopecontent>
+ <arrangement><p>Arranged chronologically.</p></arrangement>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Folder"> </container>
+	<unittitle>3. Memoranda</unittitle>
+	<unitdate datechar="creation">1935-1937</unitdate>
+ <physdesc><extent>4.5 cubic feet</extent></physdesc>
+ </did>	
+ <scopecontent><p>Includes reports and studies file, containing the initial organization study including powers and duties, personnel and expenditures for each agency as well as consultant's special reports and chapter drafts for the final report. Includes a numerical title list and subkect index in first box.</p></scopecontent>
+ <arrangement><p>Arranged numerically.</p></arrangement>
+ <note><p>A complete bound set is available in Government Documents: D q St 293 m.</p></note>
+ <otherfindaid><p>A hard copy numerical list and "functional index" is available at the History &amp; Genealogy reference desk.</p></otherfindaid>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"> </container>
+	<unittitle>1-26</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>27-56</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"> </container>
+	<unittitle>41-87</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"> </container>
+	<unittitle>88-110</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"> </container>
+	<unittitle>111-125</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<container type="Folder"> </container>
+	<unittitle>125A-139</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">8</container>
+	<container type="Folder"> </container>
+	<unittitle>139A-160</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">9</container>
+	<container type="Folder"> </container>
+	<unittitle>160A-164, 166-168, 170-173</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<container type="Folder"> </container>
+	<unittitle>174, 176-177. 179-181</unittitle>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">10</container>
+	<container type="Folder"> </container>
+	<unittitle>4. Press releases</unittitle>
+	<unitdate datechar="creation">1937 January-February</unitdate>
+ <physdesc><extent>1 inch</extent></physdesc>
+ </did>	
+ <scopecontent><p>Mimeographed copies of public release of various parts of the Commission's recommendations.</p></scopecontent>
+ <arrangement><p>Arranged chronologically</p></arrangement>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"> </container>
+	<unittitle>5. Correspondence</unittitle>
+	<unitdate datechar="creation">1935 June-1937 October</unitdate>
+ <physdesc><extent>1.25 cubic feet</extent></physdesc>
+ </did>	
+ <arrangement><p>Arranged alphabetically by name of correspondent; one folder for each letter of the alphabet with additional folders for principal correspondents (members of the Commission, Governor Cross, consultants).</p></arrangement>
+<c03 level="file">
+ <did>
+	<container type="Box">11</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">A-C</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">12</container>
+	<container type="Folder"> </container>
+	<unittitle>D-C</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">13</container>
+	<container type="Folder"> </container>
+	<unittitle>M-S</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">14</container>
+	<container type="Folder"> </container>
+	<unittitle>T-Z</unittitle>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">14-15</container>
+	<container type="Folder"> </container>
+	<unittitle>6. Proposed legislation</unittitle>
+	<unitdate datechar="creation">1937</unitdate>
+ <physdesc><extent>8 inches</extent></physdesc>
+ </did>	
+ <scopecontent><p>Drafts, bills, compila6tions, notes and other papers pertaining to legislation proposed by the Commission or growing out of its recommendations.</p></scopecontent>
+ <arrangement><p>Grouped by subject but somewhat disarranged.</p></arrangement>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unittitle>7. Subject file</unittitle>
+	<unitdate datechar="creation">1935-1937</unitdate>
+ <physdesc><extent>2.5 cubic feet</extent></physdesc>
+ </did>	
+ <scopecontent><p>Working papers and reference materials, including correspondence, memoranda, notes, drafts, pamphlets, reports, etc. pertaining to the functions and organization of state government and the administration of the Commission.</p></scopecontent>
+ <arrangement><p>Arranged alphabetically by subject although some folders are not clearly identified.</p></arrangement>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Advisory committees</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Aeronatics</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Agriculture</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Banking</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Budge (of Commission)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Business regulation</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Compensation Commission</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Consultant service</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Corrections in memoranda</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Education</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Executive</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Finance</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Industrial relations</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Judiciary</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Law enforcement</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Legislative council</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Liquor control</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Military</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder"> </container>
+	<unittitle>Payrolls (expenditure vouchers)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder"> </container>
+	<unittitle>Penology</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder"></container>
+	<unittitle>Personnel</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<container type="Folder"> </container>
+	<unittitle>Personnel (continued)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<container type="Folder"> </container>
+	<unittitle>Public health</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<container type="Folder"> </container>
+	<unittitle>Public utilities</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<container type="Folder"> </container>
+	<unittitle>Public welfare</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">20</container>
+	<container type="Folder"> </container>
+	<unittitle>Public works</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">21</container>
+	<container type="Folder"> </container>
+	<unittitle>Purchasing</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">21</container>
+	<container type="Folder"> </container>
+	<unittitle>Social Security</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">21</container>
+	<container type="Folder"> </container>
+	<unittitle>Social trends</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unittitle>State hospitals</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unittitle>Unemployment</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unittitle>Water agencies</unittitle>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unittitle>8. Price study worksheets</unittitle>
+	<unitdate datechar="creation">1935</unitdate>
+ <physdesc><extent>4 inches</extent></physdesc>
+ </did>	
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unittitle>9. Examination of status on bonds of State officials</unittitle>
+	<unitdate datechar="creation">1936 December 3</unitdate>
+ <physdesc><extent>.5 inches</extent></physdesc> 
+ </did>	
+ <scopecontent><p>Carbon copy of 72-page report prepared by D.P. O'Connor and submitted to Edward J. Daly, Attorney General.</p></scopecontent>
+</c02>
+
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

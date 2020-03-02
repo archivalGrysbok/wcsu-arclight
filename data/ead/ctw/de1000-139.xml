@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-139::Deutsche Verein Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/de1000-139.html">de1000-139</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Deutsche Verein Records,
+		<lb/><date normal="1909/1960">1909 - 1960</date>
+		</titleproper>
+        <author>Processed by: Stephen Padilla; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2007" encodinganalog="date">© 2007</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: October 2007</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Deutsche Verein Records, <date type="span">1909 - 1960</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2007">© 2007</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). Deutsche Verein.</corpname></origination><unittitle label="Title" encodinganalog="245">Deutsche Verein Records, <unitdate normal="1909/1960" type="inclusive">1909 - 1960</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-139</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="ger">German</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.25</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Der Deutsche Verein, or The German Club, was a student organization at Wesleyan whose purpose was to promote the learning and application of the German language.</abstract><abstract encodinganalog="520">The collection includes two secretary's books, programs from theater performances, invitations, creative writing, and materials from the Golden Anniversary Celebration in 1960.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Deutsche Verein Records, Collection #1000-139, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Probably acquired circa 1969.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Stephen Padilla (class of 2008), October 2007</p>
+        <p>Encoded by Valerie Gillispie, October 2007</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist><head>Historical Note</head><p>Der Deutsche Verein, or The German Club, was a student organization at Wesleyan whose purpose was to promote the learning and application of the German language. The members were students with a high level of German, generally past the second level or higher. Membership was limited to 25 members at a time, and members were required to be highly active and pay dues. They held elections and elected officers for various posts including president, vice-president, and secretary. They held regular meetings on the first and third Saturday of every month of the school year around 7:00 pm.</p> 
+<p>Their gatherings (Sitzungen) frequently included meals, and very often they were accompanied by faculty and students reading essays, stories, and poems written in German, of all academic subjects, and pertaining to German Studies, such as travels in Germany, and post-war era topics. They also held a yearly Christmas party (Weihnachtsfest) on December 8 with a large feast, gifts, singing, and readings of verses and poetry. 
+</p><!-- use "Chronlist Tags" here if there is a chronology --></bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>Almost the entire collection is in German, except for two documents.</p> 
+<p>The collection contains two secretary's books, covering the years 1909-1920 and 1946-1955, with the minutes and protocols from the meetings, the group's constitution, and various mementos from the given dates. Photos and invitations to the group's theater performance in 1910 are also included. The folder with miscellaneous documents from 1931 to 1938 contains a program for another play put on in 1930, and an invitation to the Christmas party in 1938. Of particular interest is a short story dated 1934 by T.M. Campbell about an American who wakes in the forest to stumble upon the cottage of Goethe, and has a somewhat mystical encounter with him where the famous writer reveals some of his writing genius.</p> 
+<p>Finally, there are two folders dedicated to the Golden Anniversary of the club in 1960. One folder contains the speeches of L.E. Gemeinhardt and Sten Flygt given in English, and almost 80 telegrams and letters from former members on the occasion in both German and English. The guest book from the occasion is also included.</p> 
+
+
+<arrangement><head>Collection Arrangement</head><p>The materials are arranged chronologically.
+</p></arrangement></scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Deutsche Verein.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <subject source="lcsh" encodinganalog="650">German language -- Study and teaching -- United States.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Secretary's Book, 1909-1920</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes all minutes from the meetings during this period, lists of officers and members, protocols, and versions of the group constitution from 1909, 1913, and 1920, respectively.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Dramatische Abend (Dramatic Evening) event, 1910</unittitle>
+          </did>
+          <scopecontent>
+            <p>This event was held in Fayerweather Gymnasium on June 8, 1910 for productions of <title render="italic">Wie es dich gefaellt</title> (<title render="italic">As You Like It</title>) by William Shakespeare and <title render="italic">Die Hochzeitsreise</title> (<title render="italic">The Honeymoon</title>) by Roderich Benedix. </p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Invitation and program</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>1 black-and-white photo of <title render="italic">Wie es dich gefaellt</title></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>1 black and white photo of <title render="italic">Die Hochzeitsreise</title></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Documents, 1931-1938</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Program, May 20, 1930 for <title render="doublequote">Der Deutsche Verein and La Societe Francais present Alexander Wilhemi's <title render="italic">Einer Muss Heiraten</title> and Moliere's <title render="italic">Le Borgeois Gentilhomme</title></title></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Short story by T.M. Campbell, 1934 about encounter with Goethe</unittitle>
+            </did>
+            <scopecontent>
+              <p>About an American who wakes in the forest to stumble upon the cottage of Goethe, and has a somewhat mystical encounter with him where the famous writer reveals some of his writing genius.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Invitation to Christmas Party (Deutscher Verein Weihnachtssitzung) Thursday, December 15, 1938</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Secretary's Book 1946-1955: Das Protokoll und der Kassenbericht</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes minutes and protocols from all the meetings, lists of members and officers, club rules, and poetry by Wesleyan professor of German L. E. Gemeinhardt</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Volume, <title render="doublequote">Letters of Observance on the Golden Anniversary May 7, 1960</title></unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Speech in English by L.E. Gemeinhardt</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Speech in English by guest speaker Sten Flygt (Ph.D. and Wesleyan class of 1932) entitled <title render="doublequote">Foreign Language Study: Satisfactions and Rewards</title></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Approximately 75-80 telegrams, letters, and postcards from former members of the club some written in German and some in English. </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Guestbook from the Golden Anniversary May 7, 1960</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Handwritten summary of Deutsche Verein club records, April 18, 1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Undated poems in German about Wesleyan University  </unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

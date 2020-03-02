@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0091">mssa.ru.0091</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Index of Architectural Drawings of Yale University Buildings by James Gamble Rogers
+ </titleproper>
+            <titleproper type="filing">Index of Architectural Drawings of Yale University Buildings by James Gamble Rogers Papers</titleproper>
+            <author>compiled by Staff of Manuscripts and Archives</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>August 2007</date>
+            <num>RU 91</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 23, 2019 at 07:47</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Index of architectural drawings of Yale University buildings by James Gamble Rogers</unittitle>
+         <unitid>RU 91</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.25</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1904/1934">1904-1934</unitdate>
+         
+         <abstract id="aspace_51b5c346761a866ef91e0b4f1e842faa">The index lists architectural drawings and tracings of Yale University buildings rendered by James Gamble Rogers.</abstract>
+    
+      </did>
+      <odd id="aspace_66617d8d1b969d749352206109cf17ed">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 46-A (YRG 46-A), Records and materials broadly documenting Yale buildings, facilities, and grounds.</p>  
+      </odd>
+      <accessrestrict id="aspace_3c503e2704d2dd385aabf20b122fa34e">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_c4efa2f903a4c0c8cc858c814b2ad3cb">
+         <head>Preferred Citation</head>
+         <p>Index of Architectural Drawings of Yale University Buildings by James Gamble Rogers (RU 91). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <arrangement id="aspace_5e2931abbe71248c1b9d4cf9c24de77b">
+         <head>Arrangement</head>
+         <p>Arranged by accession.</p>  
+      </arrangement>
+      <scopecontent id="aspace_e7b50b3a2a9942197573c4e4fee803d8">
+         <head>Scope and Contents</head>
+         <p>The index lists architectural drawings and tracings of Yale University buildings rendered by James Gamble Rogers.</p>  
+      </scopecontent>
+      <controlaccess>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82057970"
+                   source="naf">
+            Rogers, James Gamble, 1867-1947
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Buildings
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Index for drawings and tracings by James Gamble Rogers, architect</unittitle>
+               <unitid>Accession 1936-A-006</unitid>
+            </did>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Inventory index for drawings and tracings by James Gamble Rogers, architect</unittitle>
+                  <unitdate type="inclusive">1904-1934</unitdate>
+                  <container label="Mixed Materials (39002042745738)"
+                             altrender="flat box (14d 1h 18w)"
+                             id="aspace_1db16f7706f6851ba245552c3b34d17e"
+                             type="box">1</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

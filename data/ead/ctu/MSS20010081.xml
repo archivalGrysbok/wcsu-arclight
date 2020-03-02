@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20010081</eadid>
+
+<filedesc>
+         <titlestmt>
+            <titleproper>Robert Kelly Papers</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Archives &amp; Special Collections Staff.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; University of Connecticut</publisher>
+            <date type="publication">May 2002</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, COnnecticut 06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in May 2002.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20010081 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">George Minkoff.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Robert Kelly Papers.</unittitle>
+         <unitdate label="Dates:">1967-1969.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">.1 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The collection contains correspondence between George Minkoff, Robert Kelly, and "Button," primarily in regard to the publication of a broadside of <emph render="italic">Common Shore, Book 5</emph>.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS20010081</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography</head>
+         <p>Robert Kelly was born 24 September 1935, in Brooklyn, New York, the son of Samuel Jason and Margaret Rose (Kane) Kelly.  He attended City College, now City College of the City University of New York, (A.B., 1955) and Columbia University (1955-1958).  He has been employed as a translator (Continental Translation Service, New York City, 1955-1958), lecturer in English (Wagner College, New York City, 1960-1961) and assistant professor of English (1961-1968) and professor of English (1974-) at Bard College.  He has also been the co-director of the writing program at the Milton Avery Graduate School of the Arts (Annandale-on-Hudson, NY, 1974-). He is a co-founder, with George Economou, of the <title render="italic">Chelsea Review</title> (1957-1960) and <title render="italic">Trobar</title> (1960--); editor of  <title render="italic">Matter</title> (1963--); assistant professor of English (1964) at the State University of New York at Buffalo;  visiting lecturer in modern poetry (1966) at Tufts University; and conducted a fiction workshop at the New York City Writers Conference, Staten Island (summer, 1967). He has been Poet-in-residence at California Institute of Technology, Pasadena (1971-1972), University of Kansas (1975), Dickinson College (1976), and Naropa Institute (1977--).  Kelly has received the <title render="italic">Los Angeles Times</title> First Annual Book Award (1980) for <title render="italic">Kill the Messenger Who Brings Bad News</title> and the American Book Award, Before Columbus Foundation (1991) for <title render="italic">In Time</title>.
+
+</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The collection contains correspondence between George Minkoff, Robert Kelly and "Button", primarily in regard to the publication of a broadside of <title render="italic">Common Shore, Book 5</title>.</p>
+      </scopecontent>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives &#x0026; Special Collections has a substantial collection of literary materials.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=6">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The materials are arranged chronologically.</p>
+      </arrangement>
+      <bibliography id="a10">
+         <head>Bibliography</head>
+         <p>POETRY</p>
+         <p>
+            <bibref>
+               <title render="italic">Armed Descent</title>, <imprint>
+                  <publisher> Hawk's Well Press</publisher>, <date type="publication">1961</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Her Body against Time</title> (English and Spanish editions), <imprint>
+                  <publisher> Ediciones El Corno 
+Emplumado</publisher>, <date type="publication"> 1963</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Tabula</title>, <imprint>
+                  <publisher> Dialogue Press</publisher>, <date type="publication"> 1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Enstasy</title>, <imprint>
+                  <publisher>Matter</publisher>, <date type="publication">1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Matter/Fact/Sheet/1</title>, <imprint>
+                  <publisher>Matter</publisher>, <date type="publication">1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Matter/Fact/Sheet/2</title>, <imprint>
+                  <publisher>Matter</publisher>, <date type="publication">1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Round Dances</title>, illustrated by Josie Rosenfeld, <imprint>
+                  <publisher>Trobar</publisher>, <date type="publication">1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>(With Jerome Rothenberg) <bibref>
+               <title render="italic">Lunes/Sightings</title>, <imprint>
+                  <publisher>Hawk's Well Press</publisher>, <date type="publication">1964</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Lectiones</title>, <imprint>
+                  <publisher>Duende</publisher>, <date type="publication">1965</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Song XXIV</title>, <imprint>
+                  <publisher>Pym-Randall Press</publisher>, <date type="publication">1966</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Weeks</title>, <imprint>
+                  <publisher>Ediciones El Corno Emplumado</publisher>, <date type="publication">1966</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Words in Service</title>, <imprint>
+                  <publisher>Robert Lamberton</publisher>, <date type="publication">1966</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Devotions</title>, <imprint>
+                  <publisher>Salitter</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Twenty Poems</title>, <imprint>
+                  <publisher>Matter</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Axon Dendron Tree (long poem)</title>, <imprint>
+                  <publisher>Matter</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Crooked Bridge Love Society</title>, <imprint>
+                  <publisher>Salitter</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">A Joining: A Sequence for H.D.</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Alpha</title>, <imprint>
+                  <publisher>J. Fisher</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">From the Common Shore, Book V</title>, <imprint>
+                  <publisher>Minkoff</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Songs I-XXX</title>, <imprint>
+                  <publisher>Pym-Randall Press</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Statement</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Sonnets</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Finding the Measure</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Common Shore, Books I-V: A Long Poem about America</title>, <imprint>
+                  <publisher>Black Sparrow
+Press</publisher>, <date type="publication">1969</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">We Are the Arbiters of Beast Desire</title>, <imprint>
+                  <publisher>MBVL</publisher>, <date type="publication">1969</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">A California Journal</title>, <imprint>
+                  <publisher>Big Venus</publisher>, <date type="publication">1969</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Kali Yuga</title>, <imprint>
+                  <publisher>Grossman</publisher>, <date type="publication">1970</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Flesh, Dream, Book</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1971</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Ralegh</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1972</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Pastorals</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1972</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Reading Her Notes</title>, <imprint>
+                  <publisher>Salisbury Press</publisher>, <date type="publication">1972</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Tears of Edmund Burke</title>, <imprint>
+                  <publisher>privately printed</publisher>, <date type="publication">1973</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Mill of Particulars</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1973</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Whaler Frigate Clippership</title>, <imprint>
+                  <publisher>Tansy</publisher>, <date type="publication">1973</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Belt</title>, <imprint>
+                  <publisher>University of Connecticut Library</publisher>, <date type="publication">1974</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Loom</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1975</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Sixteen Odes</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1976</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Lady Of</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1977</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Convections</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1977</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Book of Persephone</title>, <imprint>
+                  <publisher>Treacle Press</publisher>, <date type="publication">1978</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Kill the Messenger Who Brings Bad News</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1979</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Sentence</title>, <imprint>
+                  <publisher>Station Hill Press</publisher>, <date type="publication">1980</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Spiritual Exercises</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1981</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Alchemist to Mercury: An Alternate Opus</title>, edited by Jed Rasula, <imprint>
+                  <publisher>North
+Atlantic</publisher>, <date type="publication">1981</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Mulberry Women</title>, illustrated by Matt Phillips, <imprint>
+                  <publisher>Hiersoux</publisher>, <date type="publication">1982</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Under Words</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1983</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Thor's Thrush</title>, <imprint>
+                  <publisher>Coincidence Press</publisher>, <date type="publication">1984</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Not This Island Music</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1987</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Flowers of Unceasing Coincidence, edited by George Quasha</title>, <imprint>
+                  <publisher>Station Hill
+Press</publisher>, <date type="publication">1988</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Oahu</title>, <imprint>
+                  <publisher>St. Lazaire Press</publisher>, <date type="publication">1988</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Ariadne</title>, <imprint>
+                  <publisher>St. Lazaire Press</publisher>, <date type="publication">1991</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Manifesto for the Next New York School</title>, <imprint>
+                  <publisher>Leave Press</publisher>, <date type="publication">1991</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">A Strange Market</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1992</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Red Actions: Selected Poems, 1960-1993</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1995</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Time of Voice: Poems</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1998</date>.</imprint>
+            </bibref>
+         </p>
+         <p>PROSE</p>
+         <p>
+            <bibref>
+               <title render="italic">The Well wherein a Deer's Head Bleeds</title>, (play; produced in New York, 1964), <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1968</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Scorpions</title>, <imprint>
+                  <publisher>Doubleday</publisher>, <date type="publication">1967</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Eros and Psyche</title>, (play; music by Elie Yarden), <imprint> produced in New York, <date>1971</date>
+               </imprint>.</bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">In Time</title>(essays and manifestos), <imprint>
+                  <publisher>Frontier Press</publisher>, <date type="publication">1971</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Cities</title>, <imprint>
+                  <publisher>Frontier Press</publisher>, <date type="publication">1972</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Sulphur</title>, <imprint>
+                  <publisher>privately printed</publisher>, <date type="publication">1972</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">A Line of Sight</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1974</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Wheres</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1978</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Cruise of the Pnyx</title>, <imprint>
+                  <publisher>Station Hill Press</publisher>, <date type="publication">1979</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">How Do I Make Up My Mind, Lord?: Story Devotions for Boys</title>, illustrated by Tom Maakestad, <imprint>
+                  <publisher>Augsburg</publisher>, <date type="publication">1982</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">A Transparent Tree</title>, <imprint>
+                  <publisher>McPherson</publisher>, <date type="publication">1985</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">The Mail of Mann: The Story of the Isle of Man Post Office</title>, <imprint>
+                  <publisher>Manx Associated
+Publications</publisher>, <date type="publication">1988</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Doctor of Silence</title>, <imprint>
+                  <publisher>McPherson</publisher>, <date type="publication">1988</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Cat Scratch Fever</title>, <imprint>
+                  <publisher>McPherson</publisher>, <date type="publication">1990</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Queen of Terrors</title>, <imprint>
+                  <publisher>McPherson</publisher>, <date type="publication">1994</date>
+               </imprint>
+            </bibref>
+         </p>
+         <p>EDITOR</p>
+         <p>
+            <bibref>(With Paris Leary, and contributor) <title render="italic">A Controversy of Poets: An Anthology of Contemporary American Poetry</title>, <imprint>
+                  <publisher>Doubleday</publisher>, <date type="publication">1965</date>.</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Paul Blackburn, The Journals</title>, <imprint>
+                  <publisher>Black Sparrow Press</publisher>, <date type="publication">1975</date>.</imprint>
+            </bibref>
+         </p>
+         <p>Contributor to a variety of literary magazines, including Chelsea <title render="italic">Review</title>, <title render="italic">Trobar</title>, 
+<title render="italic">Caterpillar</title>, and <title render="italic">Sulfur</title>. 
+</p>
+      </bibliography><!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Minkoff, George Robert.</persname>
+            <persname encodinganalog="700" source="local">Kelly, Robert, 1935-.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local">Bard College.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local">New York (State).</geogname>
+            <geogname encodinganalog="651" source="local">GReat Neck, New York.</geogname>
+            <geogname encodinganalog="651" source="local">New York (N.Y.)</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">Authors and publishers--United States.</subject>
+            <subject encodinganalog="650" source="local">American poetry--20th century.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Poems.</genreform>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Typescripts.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">Publishers and publishing--New York (State).</occupation>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access:</head>
+         <p>There are no restrictions on use of this collection other than those imposed by copyright.</p>
+      </accessrestrict>
+      <custodhist encodinganalog="561" id="a16">
+         <head>Custodial History</head>
+         <p>Unknown, purchase probable.  A collection of Kelly's manuscripts are
+housed at the Lockwood Memorial Library, State University of New York 
+at Buffalo.</p>
+      </custodhist>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #], Robert Kelly Papers.  Archives &#x0026; Special
+Collections at the Thomas J. Dodd Research Center, University of 
+Connecticut Libraries.
+</p>
+      </prefercite><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01>
+            <did>
+               <unittitle>Correspondence,<unitdate>1967-1969</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>Correspondence,<unitdate>1967-1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

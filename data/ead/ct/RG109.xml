@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG109.html" countrycode="us">RG109</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 109, Military Order of Foreign Wars, Connecticut Commandery</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">April 16, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>April 16, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Military Order of Foreign Wars of the United States. Connecticut Commandery</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Military Order of Foreign Wars, Connecticut Commandery records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation:" normal="1901/1921" encodinganalog="245$f">1901-1921</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Military Order of Foreign Wars of the United States, Connecticut Commandery, was organized on February 13, 1896, to honor the names and deeds of military men and for related purposes</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG109</unitid>
+		<unitid label="Accession: ">T001445</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The Military Order of Foreign Wars of the United States is the oldest veterans’ and hereditary association in the nation, with a membership that includes officers and their hereditary descendants from all of the Armed Services. It began as the Military and Naval Order of the United States, organized in December 1894 in New York City. Membership in the Order was originally limited to veterans (and their descendants) of the Revolutionary War, the War of 1812, and the Mexican War. In April 1895, the name of the Order was officially changed to its present name. In 1969, membership was extended to veterans and their descendants who served during a foreign war or expedition and to those who served in an enlisted status and were later commissioned. The Connecticut Commandery was formed in February 1896.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>This collection is comprised only of treasurer's records including account books, cash books, check books, and bank books.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>None.</p>
+</relatedmaterial>
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Organizations:</head>
+ <corpname encodinganalog="710" source="lcnaf">Military Order of Foreign Wars of the United States. Connecticut Commandery</corpname>
+	</controlaccess>
+ 
+	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">Connecticut -- Societies, etc</subject>
+			<subject encodinganalog="650" source="lcsh">Unites States -- History, Military -- Societies, etc</subject>
+ 			<subject encodinganalog="650" source="lcsh">Military Order of Foreign Wars of the United States. Connecticut Commandery -- Records and correspondence</subject>
+	</controlaccess>
+
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Account books</genreform>
+			<genreform encodinganalog="655" source="aat">Cashbooks</genreform>
+			<genreform encodinganalog="655" source="aat">Checkbooks</genreform>
+			<genreform encodinganalog="655" source="aat">Bankbooks</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Treasurer's Records</unittitle>
+	<unitdate datechar="creation" normal="1901/1921">1901-1921</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry> </entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Account books</unittitle>
+	<unitdate datechar="creation">1905-1921</unitdate>
+	<physdesc><extent>3 account books</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Cash books</unittitle>
+	<unitdate datechar="creation">1901-1921</unitdate>
+	<physdesc><extent>2 cash books</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Check books</unittitle>
+	<unitdate datechar="creation">1911-1921</unitdate>
+	<physdesc><extent>2 check books</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Bank books</unittitle>
+	<unitdate datechar="creation">1906-1921</unitdate>
+	<physdesc><extent>2 bank books</extent></physdesc>
+ </did>	
+</c02>
+</c01>
+</dsc>
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

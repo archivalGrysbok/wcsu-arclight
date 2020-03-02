@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20070012</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Daniel W. Talmadge Papers</titleproper>
+		<subtitle></subtitle>
+		<author>Finding aid prepared by Betsy Pittman.</author>
+	
+</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2007  University of Connecticut</publisher>
+	<date type="publication">January 2007</date>
+
+	<address><addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1><addressline2>405 Babbidge Road, Unit 1205</addressline2><addressline3>Storrs, Connecticut  06269-1205</addressline3></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Betsy Pittman in January 2007.</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Talmadge, Daniel W.</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Daniel W. Talmadge Papers.</unittitle>
+
+	<unitdate label="Dates:">undated, 1949-1976.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">.5 linear feet.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The collection contains the research, publications and correspondence of Daniel W. Talmadge, a professor of Poultry Science at the University of Connecticut from 1949 until his retirement in 1979.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-UCW">MSS20070012</unitid>
+
+	<langmaterial><language>English</language>.
+	</langmaterial>
+</did>
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biography</head>
+	<p><persname>Daniel W. Talmadge</persname> was born in <geogname>Cheshire, Connecticut</geogname>, and received his B.S. from the <corpname>University of Maryland</corpname>.  He completed his graduate work at the <corpname>University of Massachusetts</corpname> and <corpname>Pennsylvania State University</corpname>.  Talmadge worked as a research assistant at the <corpname>University of Massachusetts</corpname> (1947-1949) before his employment as an instructor at the <corpname>University of Connecticut</corpname> (1949).  Promoted to Assistant Professor in 1951 and Associate Professor in 1967, Dr. Talmadge specialized in poultry science with a focus on incubation, embryology and hatchability studies.</p>
+
+<p>Dr. Talmadge retired from the <corpname>University of Connecticut</corpname> on 1 October 1979.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Contents</head>
+	<p>The collection contains correspondence, publications and laboratory manuals, all concerning Talmadge's interests in various aspects of poultry science.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>The collection is arranged alphabetically by topic and chronologically therein.</p>
+<p>
+<emph render="bold">Series I: Papers</emph> (<date>undated, 1950-1976</date>) </p>
+</arrangement>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to the University, its history, administration, faculty, staff and students.  See especially, the papers of <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Miles/MSS20000145.html"><persname>Garry A. Miles</persname></extref>.For detailed information on these collections please contact the <extref href=" http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial>
+<separatedmaterial encodinganalog="544 0" id="a7">
+	<head>Separated Material</head>
+	<p>The following materials have been separated from the collection and cataloged:</p>
+<p><title render="italic">Chicken Chatter</title> (1962-1967)  Dodd Periodicals</p>
+
+</separatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Talmadge, Daniel W.</persname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">University of Connecticut. Cooperative Extension Service.</corpname>
+	<corpname encodinganalog="710" source="local">University of Connecticut.</corpname>
+<corpname encodinganalog="710" source="local"></corpname>
+
+		</controlaccess>
+		
+			<controlaccess>
+			<head>Places:</head>
+			<geogname encodinganalog="651" source="local">Storrs (Conn.)</geogname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Poultry--Study and teaching--Connecticut.</subject>
+	<subject encodinganalog="650" source="local">Poultry Research.</subject>
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Publications.</genreform>
+<genreform encodinganalog="655" source="local">Photocopies.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+<genreform encodinganalog="655" source="local">Interviews.</genreform>
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Occupations:</head>
+			<occupation encodinganalog="656" source="local">Educator.</occupation>
+			
+		</controlaccess>
+		</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#], <persname>Daniel W. Talmadge</persname> Papers.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The collection was donated by Dr. Talmadge in January 2007.</p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>Series I: Papers, </unittitle>
+	<unitdate>undated, 1949-1976</unitdate>
+    </did>	
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>4-H</unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">1</container>
+	<unittitle>Chicken-Layer Project and Broiler-Barbeque Project, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">2</container>
+	<unittitle>Laying Flock Management, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">3</container>
+	<unittitle>Poultry Studies Series, "How to Make a still air incubator," </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">4</container>
+	<unittitle>Poultry Tips, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">5</container>
+	<unittitle>Prue Bred Poultry Project (Bantams, Artificial insemination)</unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">6</container>
+	<unittitle>Surgical Capons, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">7</container>
+	<unittitle>Committees, </unittitle>
+	<unitdate>1950-1976</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">8</container>
+	<unittitle>Intercollegiate Poultry Judging Contests, </unittitle>
+	<unitdate>1949-1972</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">9</container>
+	<unittitle>Poultry Extension, </unittitle>
+	<unitdate>1972-1974</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">10</container>
+	<unittitle>Student Activities (Clubs, Counseling, Chick incubation and Embryology institutes), </unittitle>
+	<unitdate>1961-1974</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Laboratory Manuals</unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">11</container>
+	<unittitle>Animal Industries 54 -- Commercial egg production, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">12</container>
+	<unittitle>Animal Industries 209 -- Principles of poultry science, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">13</container>
+	<unittitle>Poultry Science 26 -- Practical poultry breeding, </unittitle>
+	<unitdate>1965</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">14</container>
+	<unittitle>Poultry Science 222 -- Introduction to avian biology, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">15</container>
+	<unittitle>Poultry Science 265 -- Principles of incubation and chick development, </unittitle>
+	<unitdate>1969</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Publications and interviews</unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">16</container>
+	<unittitle>"Brooding and Rearing baby chicks," </unittitle>
+	<unitdate>1966</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">17</container>
+	<unittitle>Radio Interviews, </unittitle>
+	<unitdate>1964-1971</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">18</container>
+	<unittitle>Scientific and applied science publications, </unittitle>
+	<unitdate>undated, 1959-1976</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">19</container>
+	<unittitle>R&#x00E9;sum&#x00E9;, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02>
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

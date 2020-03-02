@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS19940065S12</eadid>
+
+<filedesc>
+       <titlestmt>
+            <titleproper>Thomas J. Dodd Papers</titleproper>
+            <subtitle>Series XII: Audio Visual Materials</subtitle>
+            <author>Finding aid prepared by Jeffrey D. Bass.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#xA9; 2004  University of Connecticut</publisher>
+            <date type="publication">March 2004</date>
+            <address>
+               <addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline>
+               <addressline>405 Babbidge Road, Unit 1205</addressline>
+               <addressline>Storrs, Connecticut  06269-1205</addressline>
+			<addressline> URL: http//doddcenter.uconn.edu </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in March 2004.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS19940065S12 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Dodd, Thomas J.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Thomas J. Dodd Papers.</unittitle>
+         <unitdate label="Dates:">1919-1971.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">220 linear feet.</physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The Thomas J. Dodd Papers illuminate the diverse public life of a self-styled crusader.  The collection consists primarily of material from Dodd's Senate years (1959-1971) and the Nuremberg war crimes trial before the International Military Tribunal from 1945-1946.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS19940065S12</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S1.html">  Series I: Outgoing Correspondence (1959-1970)</extref>
+         </p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S2.html">  Series II: Subject Files (1959-1969)</extref>
+         </p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S3.html">Series III: Administrative and Legislative Files (1949-1971)</extref>.</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S4.html">Series IV: Investigative Files</extref> (1956-1970)</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S5.html">  Series V: Foreign Travel Files</extref> (1954-1969)</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S6.html"> Series VI: Campaign Files</extref> (1949-1970)</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S7.html">Series VII: Nuremberg Trial</extref> (<date>1919-1995</date>) </p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S8.html">Series VIII: Personal Papers</extref> (1920-1971) </p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S9.html">Series IX: Scrapbooks</extref> (1935-1971)</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S10.html">Series X: Photographs</extref> (1920-1970)</p>
+         <p>
+            <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065S11.html">Series XI: Awards and Memorabilia</extref> (1926-1970)</p>
+         <p>
+            <emph render="bold">Series XII: Audiovisual Materials</emph> (1946-1969) consists primarily of sound tape, film, and videotape of Dodd speeches and other public appearances from 1947-1967.  One videotape, "The Crusader From Connecticut" (1964), provides a biographical summary of Dodd's life and career prior to his second Senate term.  This series is arranged in chronological order, except where the different formats of audiovisual items dictated other boxing arrangements.  </p>
+         <p/>
+         <p/>
+         <p>Return to <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065.html">Thomas J. Dodd Papers</extref>.</p>
+      </arrangement><!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: --><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>As a preservation measure, use of film reels requires production of viewing copies.  Original films are stored on cores.  The gauge of the films is 16mm.  Requests to use the materials should be directed to the Curator.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+
+<separatedmaterial encodinganalog="544 0" id="a7">
+	<head>Separated Material</head>
+	<p>The following materials have been separated from the collection and cataloged:</p>
+<p><title render="italic">Kosovo and Beyond</title>  1994-0065.vr1</p>
+
+</separatedmaterial>
+<!-- END ADMINISTRATIVE INFORMATION -->
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series XII: Audio Visual Materials, <unitdate>undated, 1947-1967</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="bold">Subseries A:  Films</emph>, <unitdate>undated, 1959-1969</unitdate>
+                  </unittitle>
+               </did>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp1</container>
+
+	<unittitle>Documentary film on Nuremberg Trial, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>		
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp2</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>John F. Kennedy</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did><note><p>2 reels</p></note>	
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp14</container>
+
+	<unittitle><geogname>Washington, D.C.</geogname> scenes, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp16</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>Paul Douglas</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Sen Dodd Lab #2129</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp17</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and Mr. Symington, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Symington #2128</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp18</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>Hubert Humphrey</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Humphrey #2127</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp20</container>
+
+	<unittitle>T.V. Reudell, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #5988</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp31</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and <persname>Richard Rendell</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #5988 - 4 copies</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp32</container>
+
+	<unittitle><persname>Thomas Dodd</persname> with <persname>Carey Cronan</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #2953</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp33</container>
+
+	<unittitle><persname>Thomas Dodd</persname> with <persname>Don Larabee</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #3012 - 2 copies</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp34</container>
+
+	<unittitle><persname>Thomas Dodd</persname> with <persname>Henry M. Jackson</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #2748 - 2 copies</p></note>
+</c03>	<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp3</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>Lyndon Johnson</persname>, </unittitle>
+	<unitdate>1959 August 12</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #3363</p></note>
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp35</container>
+
+	<unittitle><corpname>WNBC-TV</corpname>, </unittitle>
+	<unitdate>1960 January 24</unitdate>
+    </did>	
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp23</container>
+
+	<unittitle><persname>Thomas Dodd</persname> <emph render="italic">Washington Review</emph> program #6, </unittitle>
+	<unitdate>1961</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>	  
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp30</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and <persname>Carey Cronan</persname>, </unittitle>
+	<unitdate>1961</unitdate>
+    </did><note><p>4 reels, B/W, Sound, Dodd film #5149</p></note>	
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp24</container>
+
+	<unittitle><persname>Thomas Dodd</persname> <emph render="italic">Washington Review</emph> program #4 interview with <persname>Buck Griffin</persname>, </unittitle>
+	<unitdate>1961 March 6</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp13</container>
+
+	<unittitle><persname>Thomas Dodd</persname> <emph render="italic">Washington Review</emph> program, </unittitle>
+	<unitdate>1961 March 26</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp25</container>
+
+	<unittitle><persname>Thomas Dodd</persname> <emph render="italic">Washington Review</emph> program #5 interview with <persname>Abraham Ribicoff</persname>, </unittitle>
+	<unitdate>1961 April 10</unitdate>
+    </did>	<note><p>2 copies, B/W, Sound</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp27</container>
+
+	<unittitle><persname>Thomas Dodd</persname> with <persname>Eugene Zuckert</persname>, </unittitle>
+	<unitdate>1961 May 7</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #5274</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp12</container>
+
+	<unittitle><persname>Thomas Dodd</persname> <emph render="italic">Washington Review</emph> program #9 with <persname>Carey Cronan</persname>, </unittitle>
+	<unitdate>1961 May 22</unitdate>
+    </did>	
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp37</container>
+
+	<unittitle>W.R.  ["<emph render="italic">Washington Review</emph>"?], </unittitle>
+	<unitdate>1961 September 25</unitdate>
+    </did>	
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp15</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>Mike Mansfield</persname>, W.R. Senator Dodd #5, </unittitle>
+	<unitdate>1962 April 2</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp21</container>
+
+	<unittitle><persname>Thomas Dodd</persname>, </unittitle>
+	<unitdate>1962 April 16</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp26</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and Senator <persname>Kenneth Keating</persname>, </unittitle>
+	<unitdate>1962 May</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp22</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Father <persname>Matthew Menger</persname>, </unittitle>
+	<unitdate>1962 May 19</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp4</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with <persname>Sergeant Shriver</persname> (<corpname>Peace Corps</corpname>), </unittitle>
+	<unitdate>1963</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>		
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp6</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Capt. Anderson of <corpname>National Service Corps</corpname>, </unittitle>
+	<unitdate>1963</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #9065</p></note>
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp7</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with <persname>Werner Von Braun</persname>, </unittitle>
+	<unitdate>1963</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #8118/5885</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp5</container>
+
+	<unittitle>"Dodd and Humphrey (Civil Rights)", </unittitle>
+	<unitdate>1963 June 20</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>		
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp8</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with <persname>Chester Bowles</persname>, </unittitle>
+	<unitdate>1963 June 6</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #8665</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp9</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Mr. Burdick concerning nuclear test ban, </unittitle>
+	<unitdate>1963 July 3</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #8660</p></note>
+</c03>                                                   
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp10</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with Senator <persname>Paul Douglas</persname> for Captive Nations Week, </unittitle>
+	<unitdate>1963 July 16</unitdate>
+    </did>	<note><p>2 reels, B/W, Sound, Dodd film #8872</p></note>
+</c03>	 
+
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp11</container>
+
+	<unittitle><persname>Thomas Dodd</persname> civil rights interview with <persname>Hubert Humphrey</persname>, </unittitle>
+	<unitdate>1964 March 25</unitdate>
+    </did>	<note><p>B/W, Sound</p></note>
+</c03>      
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp28</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and <persname>Russell Long</persname>, </unittitle>
+	<unitdate>1966 January 19</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #28786</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp19</container>
+
+	<unittitle><persname>Thomas Dodd</persname> interview with <persname>Alan Boyd</persname>, </unittitle>
+	<unitdate>1966 February 1</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #2889</p></note>
+</c03>	
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp29</container>
+
+	<unittitle><persname>Thomas Dodd</persname> and <persname>Esther Peterson</persname>, </unittitle>
+	<unitdate>1966 March 2</unitdate>
+    </did>	<note><p>B/W, Sound, Dodd film #3053</p></note>
+</c03>	 
+<c03 level="file">
+   <did>
+	<container type="Other">1994-0065.mp36</container>
+
+	<unittitle>W.R.  ["<emph render="italic">Washington Review</emph>"?], </unittitle>
+	<unitdate>1969</unitdate>
+    </did>	
+</c03>	 
+
+<c03 level="file">
+   <did>
+	<container type="Other"></container>
+	<unittitle></unittitle>
+	<unitdate></unitdate>
+    </did><note><p>There are approximately an additional 26 unidentified film reels in the <persname>Thomas J. Dodd</persname> Papers. Some of which contain footage of Senator Dodd at a desk often interviewing certain people or depicting several outdoor miscellaneous scenes. Most of these films do not have dates, however the range of dates appears to be from 1959 to 1969. The majority of these films are 16mm, black &#x0026; white, with sound.  There are a few color films. </p></note>	
+</c03>
+
+</c02>
+
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="bold">Subseries B:  Sound recordings</emph>, <unitdate>undated, 1946-1967</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Unidentified (2 reels), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Hotbed of Hatred" broadcast (3 reels), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Interview with Senators <persname>Eugene McCarthy</persname>, <persname>Mike Mansfield</persname>, <persname>Paul Douglas</persname>, <persname>Joseph Clark</persname>, and <persname>William Proxmire</persname> (reel), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Pep Pills" interview on <persname>Walter Cronkite</persname> show (reel), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview with Senator <persname>Hubert Humphrey</persname> (reel), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> with Congressman <persname>George Meader</persname> (reel), <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nuremberg International Military Tribunal verdicts , <unitdate>1946 Oct 17</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Flexograph" discs of office dictation (7), <unitdate>undated, 1947-1948</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview on "Juke Box Jingles" broadcast (331/3 rpm), <unitdate>1952 December 5</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview on "Cracker Barrel" broadcast(331/3 rpm), <unitdate>1953 Feb 9</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Thomas Dodd campaign songs (78 rpm), <unitdate>1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Nominating speeches at Connecticut Democratic Convention (331/3 rpm; 4 discs), <unitdate>1956 July 7</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> acceptance speech for Democratic nomination to U.S. Senate (331/3 rpm; 2 discs), <unitdate>1956 July 7</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Senators <persname>Stuart Symington</persname>, <persname>John F. Kennedy</persname>, <persname>Hubert Humphrey</persname>, <persname>Paul Douglas</persname>, and <persname>Lyndon Johnson</persname> supporting <persname>Thomas Dodd</persname>'s Senate candidacy, <unitdate>1958 Aug 15</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> speeches (WTIC; 6 reels), <unitdate>1958 October 1 - 29</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview with Senator <persname>Lyndon Johnson</persname> (reel), <unitdate>1959 August 12</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #1 (reel), <unitdate>1960 January 18</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #2 (reel), <unitdate>1960 February 4</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #3 (reel), <unitdate>1960 February 18</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #4 (reel), <unitdate>1960 April 28</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #6 (reel), <unitdate>1960 May 23</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #7 (reel), <unitdate>1960 June 7</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly program #8 ( reel), <unitdate>1960 June 21</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Election 60 Spotlight":  <persname>Thomas Dodd</persname> - <persname>Prescott Bush</persname> debate, <unitdate>1960 October 16</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> "Washington Review" program #1 (reel), <unitdate>1961 January 23</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> "Washington Review" program #2 (reel), <unitdate>1961 February 6</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> "Washington Review" program #3 (reel), <unitdate>1961 February 21</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> "Washington Review" program #4 (reel), <unitdate>1961 March 6</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview with <persname>Werner von Braun</persname> (Edison Voicewriter flexible red disc), <unitdate>1961 August 10</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> appearance on <persname>Mark Evans</persname> show titled "Opinion in the Capital" (reel), <unitdate>1962 August 5</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Capitol Cloakroom" program, <unitdate>1963 September 5</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Hello Lyndon" campaign song (45rpm), <unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> campaign radio commercials (331/3 rpm), <unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Leading Question" program, <unitdate>1964 May 12</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Unidentified (reel), <unitdate>1966 April 1</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Powell Dodd Charge" broadcast (reel), <unitdate>ca. 1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Retractions":  dubbings of <persname>Roy Elwell</persname> and <persname>Thomas Dodd</persname> (reel), <unitdate>1967 June 21, 1967 July 6</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <unittitle>
+                     <emph render="bold">Subseries C:  Video recordings</emph>, <unitdate>undated, 1956-1965</unitdate>
+                  </unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> speech at Connecticut Democratic Convention (VHS), <unitdate>1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Crusader From Connecticut" (2"), <unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Senator <persname>Thomas Dodd</persname> (2"), <unitdate>1964 October 26</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>Senator <persname>Thomas Dodd</persname> (2"), <unitdate>1964 November 2</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Meet the Senators" broadcast (VHS), <unitdate>1959 January 11</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> discussion of German rearmament, civil rights, and other issues (VHS), <unitdate>1959 April</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+<c03>
+                  <did>
+                     <container type="Box">Dodd Video 249</container>
+                     <unittitle>Hon. Senator <persname>Thomas Dodd</persname> and <persname>Victor Borge</persname> [videorecording] : (Washington, D.C., 1965), <unitdate>1965</unitdate>
+                     </unittitle>
+                  </did><scopecontent><p>Senator Dodd introduces <persname>Victor Borge</persname> as an outstanding citizen of <geogname>Connecticut</geogname> and then interviews Borge on his opinions of the <geogname>United States</geogname> and the current  state of the world (circa 5 minutes).</p></scopecontent>
+               </c03>
+
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"VIP - Senator Dodd" broadcast, <unitdate>1959 May 10</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> bi-weekly programs #1-8 (VHS), <unitdate>1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>"Washington Review" programs (VHS), <unitdate>1961 January - April</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle>
+                        <persname>Thomas Dodd</persname> interview with Senator <persname>Paul Douglas</persname> interview for Captive Nations Week (VHS), <unitdate>1963 July 16</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="Box"/>
+                     <unittitle> "Crusader From Connecticut" (VHS), <unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <note>
+                     <p>
+Return to <extref href="http://doddcenter.uconn.edu/findaids/Dodd_Thomas/MSS19940065.html">Thomas J. Dodd Papers</extref>.</p>
+                  </note>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

@@ -1,0 +1,3591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.wolff">beinecke.wolff</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Kurt Wolff Archive
+ </titleproper>
+            <titleproper type="filing">Wolff (Kurt) Archive</titleproper>
+            <author>by Christa Sammons and Heidi L. Eberhardt</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>May 1989</date>
+            <num>YCGL MSS 3</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 23, 2019 at 04:24</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Kurt Wolff archive</unittitle>
+         <unitid>YCGL MSS 3</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="ger">German</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">4.38</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(11 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1907/1938">1907-1938</unitdate>
+         
+         <abstract id="aspace_9478d3ec2fbb5fed8bd2750dfd6ea787">The papers consist of letters, manuscripts, and other documents from the business files of Kurt Wolff Verlag. Chiefly correspondence with authors of the German Expressionist literary movement. Includes contracts, financial statements, and documentary material. Correspondents include Walter Hasenclever, Franz Kafka, and Franz Werfel. Most letters to the Kurt Wolff Verlag are directed to Kurt Wolff himself; others are addressed to persons associated with the Kurt Wolff Verlag, e.g. Georg Heinrich Meyer, Giovanni Mardersteig, Ernst Rowohlt, Kurt Pinthus, Erik Ernst Schwabach, Lothar Mohrenwitz, René Schickele, Annemarie v. Puttkamer, Arthur Seiffhart, and Daniel Brody. Letters from 1907 to 1912 are directed to the Ernst Rowohlt Verlag (which became the Kurt Wolff Verlag on Feb. 15, 1913). Many letters to the Hyperion Verlag and to the Verlag der Weissen Blätter, some to Der neue Geist Verlag, Genius Verlag, and Verlag der Schriften von Karl Kraus, which all were part of the Kurt Wolff Verlag at one time.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85801207"
+                      rules="aacr"
+                      source="naf">
+               Wolff, Kurt, 1887-1963
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_7dac001f98b6c7661fc8a44d9ab1353e">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from Kurt Wolff, 1947.</p>  
+      </acqinfo>
+      <userestrict id="aspace_deb551814b2befebc8bc948a119384e3">
+         <head>Conditions Governing Use</head>
+         <p>The Kurt Wolff Archive is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_06dcc983d547a3b879fa5409fbf54e28">
+         <head>Preferred Citation</head>
+         <p>Kurt Wolff Archive. Yale Collection of German Literature. Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_0290ce37088b99f30b823db68c47faef">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <altformavail id="aspace_c3da0576f49abcc8604881d426bd8cf9">
+         <head>Existence and Location of Copies</head>
+         <p>The collection is also available on microfilm. See <ref xlink:actuate="onRequest"
+                 xlink:show="replace"
+                 target="aspace_575eaefc44f64644dc62d9c510094f0a">Appendix</ref> for details.</p>  
+      </altformavail>
+      <bioghist id="aspace_89a92397bd723d382a505a5ef2e8b34f">
+         <head>KURT WOLFF (1887-1963)</head>
+         <p>In writing about Kurt Wolff shortly after the purchase of his early papers in 1947, Curt von Faber du Faur, curator of the Yale Collection of German Literature, had this to say about his old friend:</p>
+         <blockquote>
+            <p>"Not every literary generation enjoys the privilege and the benefits of being fostered by an ideal type of publisher, who in one person combines great business acumen with broad scholarship and the requisite love of the fine arts; who carries in his heart a great spiritual tradition which enhances his judgment and sharpens his skills to detect the true values in the present and preserve them for the future. In the Germany of recent years this ideal was personified by Kurt Wolff. During the second and third decades of the present century he gathered about himself virtually all the leading spirits of the younger generation of authors. Most of the outstanding names of this period passed through the portals of his publishing house to recognition and fame; or at least felt themselves honored to have gained the renown of his imprint for one or more of their works. There was scarcely an author who failed to correspond with this keen-visioned publisher who so soon gained for himself the reputation of a tried and true sponsor to his literary friends. It is for this reason that the literary archives of the firm Kurt Wolff, recently acquired by the Library, contain in fact the epistolatory heritage of the spiritual center of the Germany of that period."</p>
+            <p>(YULG 23:1, 1948, 25)</p>
+         </blockquote>
+         <p>Kurt Wolff was born in 1887 in Bonn, into a musical household where Brahms was a frequent guest. His first activities as a publisher date from around 1909, when he was studying German literature at Leipzig. There he joined Ernst Rowohlt's fledgling publishing firm, which had been founded the year before. Office space was rented from the Offizin W. Drugulin, well-known for its bibliophile productions. A close relation quickly sprang up between the two firms; the Drugulin Drucke series was in fact overseen by Kurt Wolff.</p>
+         <p>Rowohlt left the firm in 1912; he joined the S. Fischer Verlag and subsequently established his own publishing house after World War I. In 1913 Wolff changed the name of the old Rowohlt Verlag, of which he was now sole proprietor, to the Kurt Wolff Verlag. When Wolff was called up for military service during the war, the operation was capably run by Georg Heinrich Meyer, many of whose letters will be found among the Yale papers. Wolff returned in 1916.</p>
+         <p>These early years of the Kurt Wolff Verlag were marked by rapid expansion, undoubtedly due to Wolff's ability to seek out and attract interesting authors and Meyer's genius for advertising. There were highly successful series, such as Der jüngste Tag, 86 volumes of which appeared between 1913 and 1921. A close connection was established with the Verlag der weissen Bücher, which published the influential literary periodical <title type="simple" render="italic">
+               Die weissen Blätter
+            </title>. In 1917, both the Verlag der weissen Bücher and the Hyperion Verlag were acquired by Wolff. A survey of the author list in this register will demonstrate the truth of Faber's statement, cited above, that Wolff was able during these years to gather to himself the leading spirits of the day. There were Expressionists (Benn, Heym, Toller, Trakl), Dadaists (Ball, Hülsenbeck, Tzara), and, presaging Kurt Wolff's interest in art publishing, a number of artists (Gauguin, Grosz, Klee, Kokoschka, Kollwitz, Kubin, Masereel). Correspondence with numerous prominent literary figures is to be found in Kurt Wolff's files: Gerhart Hauptmann, Hesse, Kafka, Karl Kraus, Else Lasker-Schüler, Heinrich and Thomas Mann, Rilke, Werfel, and Wedekind, to name just a few. Nor is the list strictly German, for the collection contains letters by such writers as Gorky, James Joyce, Rabindranath Tagore, and H. G. Wells.</p>
+         <p>After the war, Kurt Wolff turned more and more toward publishing collected editions rather than new works, toward art publishing, and to the pursuit of his bibliophile interests. In 1920 a close connection with the Ernst Ludwig Presse in Darmstadt was established, and in 1924 Kurt Wolff founded the Pantheon Casa Editrice in Florence, with Hans Mardersteig of the Officina Bodoni as guiding light to the new enterprise.</p>
+         <p>In 1930, in the wake of personal stress (overwork and divorce) and business difficulties, Kurt Wolff withdrew from publishing. Between 1933 and 1935 he lived in Nice, where a son, Christian, was born to him and his second wife, Helen Mosel. In 1935 the family acquired a farm outside Florence, where they began an experiment in self-sufficiency. In 1939 they moved to Paris. Although the ensuing political events split the family temporarily (Kurt Wolff was incarcerated briefly, the child was sent to the safety of a convent school at La Rochelle), they managed to reunite themselves, escape across the Spanish border, and immigrate to the United States in 1940.</p>
+         <p>One of Kurt Wolff's principal advisors and supporters in the United States was the curator of Yale's German Literature Collection, Curt von Faber du Faur. Faber offered Kurt Wolff $7,500 as a kind of matching grant: Wolff was to raise an equal amount in order to establish himself anew in business. This he did: Pantheon Books was founded in 1942, at first on the proverbial shoestring but soon attaining a large measure of success. Kurt Wolff had the good fortune to meet Paul Mellon, for whom he published the well-known Bollingen Series. Best-sellers followed: Anne Morrow Lindbergh's <title type="simple" render="italic">
+               Gift from the Sea
+            </title> and the American edition of Pasternak's <title type="simple" render="italic">
+               Doctor Zhivago
+            </title> (1958), for instance. Books like Broch's <title type="simple" render="italic">
+               The Death of Virgil
+            </title> (1945), while undoubtedly not financial successes, showed Wolff's continuing dedication to what he deemed to be worthwhile and timely literature.</p>
+         <p>In 1959 Helen and Kurt Wolff moved to Locarno. By 1961, however, it proved too difficult to manage the firm from abroad, and they resigned from Pantheon Books, which was acquired by Random House. William Jovanovitch subsequently proposed to the Wolffs that they should oversee a special imprint within Harcourt, Brace, Jovanovitch. The proposal was accepted, but not long after the launching of Helen and Kurt Wolff Books, Kurt Wolff was tragically run down and killed by a truck during a visit to Germany in 1963. Helen Wolff continued with Harcourt, Brace, and Jovanovitch until her retirement, overseeing Helen and Kurt Wolff Books until her death in 1994.</p>  
+      </bioghist>
+      <scopecontent id="aspace_c5c476173a7f9eb55e63872f75748cf4">
+         <head>Scope and Contents</head>
+         <p>The Kurt Wolff papers at Yale consist of about 4,100 letters, telegrams, postcards, documents, and manuscripts from the business files of the Kurt Wolff Verlag, mostly from the period 1910-30. There is no material relating to Kurt Wolff's career as a publisher in the United States. Incoming correspondence from authors is interfiled with copies of letters and other communications by Kurt Wolff and members of the Verlag. Some author files also contain contracts, financial statements, and manuscripts.</p>
+         <p>The largest single correspondence is that between Franz Werfel and the Verlag, which numbers over 900 items including poetry manuscripts and letters by Werfel's wife Alma Mahler Werfel. There are 605 items of correspondence with Walter Hasenclever, a close friend of Wolff from his Leipzig student days. The letters from Franz Kafka (47 items, 1912-20) constitute one of the high points of the collection.</p>
+         <p>Most of the letters in the collection are directed to Kurt Wolff himself, but some are addressed to persons associated with the Kurt Wolff Verlag, including Georg Heinrich Meyer, Hans Mardersteig, Ernst Rowohlt, Kurt Pinthus, Erik Ernst Schwabach, Lothar Mohrenwitz, René Schickele, Annemarie von Puttkamer, Arthur Seiffhart, and Daniel Brody. Letters written between 1907 and 1912 are addressed to the Ernst Rowohlt Verlag. Some letters are directed to the Hyperion Verlag, the Verlag der weissen Bücher, Der neue Geist Verlag, Genius Verlag, and the Verlag der Schriften von Karl Kraus, all of which were part of the Kurt Wolff Verlag at some time.</p>
+         <p>Many of the letters written in German script are provided with typed transcriptions that were made by Yale graduate students under the supervision of Hedwig S. Dejon, librarian of the Yale Collection of German Literature. Soon after its acquisition, the Kurt Wolff Archive was catalogued on cards, with main entries for each of the authors with whom the Kurt Wolff Verlag corresponded. These cards give more detailed information about the material than the following list. They have been retained by the curator of the collection.</p>
+         <p>Many, although by no means all of the letters in the Yale Kurt Wolff Archive were published by Bernhard Zeller and Ellen Otten in <title type="simple" render="italic">
+               Kurt Wolff. Briefwechsel eines Verlegers. 1911-1963
+            </title> (Frankfurt: Heinrich Scheffler, 1966). The photocopies used to compile this volume are still on deposit at the Deutsches Literaturarchiv in Marbach, West Germany, where they can be made available to scholars who apply for Yale's permission to examine the material.</p>
+         <p>Related material will be found in the Helen Wolff papers (Uncat Zg Ms 12), which documents the American phase of Mrs. Wolff's career but also contains some earlier materials.</p>  
+      </scopecontent>
+      <odd id="aspace_575eaefc44f64644dc62d9c510094f0a">
+         <head>Appendix A: Guide to the Microfilm</head>
+         <table>
+            <tgroup cols="5">
+               <thead>
+                  <row>
+                     <entry>Microfilm Call Number</entry>
+                     <entry>Reel</entry>
+                     <entry>Boxes Filmed</entry>
+                     <entry>Folders Filmed</entry>
+                     <entry>Notes</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>Ms Vault Film 2208</entry>
+                     <entry>1</entry>
+                     <entry>1-2</entry>
+                     <entry>1-47</entry>
+                  </row>
+                  <row>
+                     <entry>Ms Vault Film 2176</entry>
+                     <entry>2</entry>
+                     <entry>2</entry>
+                     <entry>48-75</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2295</entry>
+                     <entry>3</entry>
+                     <entry>3-4</entry>
+                     <entry>76-112</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2314</entry>
+                     <entry>4</entry>
+                     <entry>4-5</entry>
+                     <entry>113-161</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2341</entry>
+                     <entry>5</entry>
+                     <entry>5-6</entry>
+                     <entry>162-212</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault film 2296</entry>
+                     <entry>6</entry>
+                     <entry>6-7</entry>
+                     <entry>213-274</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2297</entry>
+                     <entry>7</entry>
+                     <entry>7-8</entry>
+                     <entry>275-332</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2298</entry>
+                     <entry>8</entry>
+                     <entry>8-9</entry>
+                     <entry>333-370</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2342</entry>
+                     <entry>9</entry>
+                     <entry>9-10</entry>
+                     <entry>371-419</entry>
+                  </row>
+                  <row>
+                     <entry>MS Vault Film 2325</entry>
+                     <entry>10</entry>
+                     <entry/>
+                     <entry/>
+                     <entry>Finding aid</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>  
+      </odd>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2009116225"
+                  source="lcsh">
+            Authors and publishers -- Germany
+         </subject>
+         <subject source="local">
+            Authors, German -- Archives
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85035374"
+                  source="lcsh">
+            Dadaism
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85046541"
+                  source="lcsh">
+            Expressionism
+         </subject>
+         <subject source="local">
+            Publishers and publishing -- Germany
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50019958"
+                   source="naf">
+            Ball, Hugo, 1886-1927
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50006246"
+                   source="naf">
+            Becher, Johannes Robert, 1891-1958
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79138809"
+                   rules="aacr"
+                   source="naf">
+            Benn, Gottfried, 1886-1956
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80125567"
+                   source="naf">
+            Blei, Franz, 1871-1942
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84160002"
+                   source="naf">
+            Borchardt, Rudolf, 1877-1945
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50041424"
+                   source="naf">
+            Brod, Max, 1884-1968
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no2011124054"
+                   rules="aacr"
+                   source="naf">
+            Brody, Daniel, 1883-1969
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80033408"
+                   rules="aacr"
+                   source="naf">
+            Dauthendey, Max, 1867-1918
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86004865"
+                   source="local">
+            Edschmid, Kasimir, 1890-1966
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n90702566"
+                   rules="aacr"
+                   source="naf">
+            Eulenberg, Herbert, 1876-1949
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no92029097"
+                   rules="aacr"
+                   source="naf">
+            Gauguin, Pola, 1883-1961
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80126152"
+                   source="naf">
+            Gorky, Maksim, 1868-1936
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50032968"
+                   source="naf">
+            Grosz, George, 1893-1959
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50017503"
+                   rules="aacr"
+                   source="naf">
+            Gundolf, Friedrich, 1880-1931
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83168178"
+                   rules="aacr"
+                   source="naf">
+            Hasenclever, Walter, 1890-1940
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79006698"
+                   source="naf">
+            Hesse, Hermann, 1877-1962
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83058623"
+                   rules="aacr"
+                   source="naf">
+            Heym, Georg, 1887-1912
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82230661"
+                   rules="aacr"
+                   source="naf">
+            Huelsenbeck, Richard, 1892-1974
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79056824"
+                   source="naf">
+            Joyce, James, 1882-1941
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81063091"
+                   source="naf">
+            Kafka, Franz, 1883-1924
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50048850"
+                   source="naf">
+            Kirchner, Ernst Ludwig, 1880-1938
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79093306"
+                   source="naf">
+            Klee, Paul, 1879-1940
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86805856"
+                   rules="aacr"
+                   source="naf">
+            Kolb, Annette, 1870-1967
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50044456"
+                   rules="aacr"
+                   source="naf">
+            Kollwitz, Käthe, 1867-1945
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79108035"
+                   source="naf">
+            Kraus, Karl, 1874-1936
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80032690"
+                   source="naf">
+            Kubin, Alfred, 1877-1959
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84133035"
+                   source="naf">
+            Landauer, Gustav, 1870-1919
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80034059"
+                   source="naf">
+            Lasker-Schüler, Else, 1869-1945
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88662182"
+                   rules="aacr"
+                   source="naf">
+            Lichnowsky, Mechtilde, 1879-1958
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50002491"
+                   source="naf">
+            Mahler, Alma, 1879-1964
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79056484"
+                   source="naf">
+            Mann, Heinrich, 1871-1950
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78095625"
+                   source="naf">
+            Mann, Thomas, 1875-1955
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50075987"
+                   source="naf">
+            Mardersteig, Giovanni, 1892-1977
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50043654"
+                   source="naf">
+            Masereel, Frans, 1889-1972
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80144545"
+                   source="naf">
+            Meidner, Ludwig, 1884-1966
+         </persname>
+         <persname source="local">
+            Meyer, Georg Heinrich
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50046894"
+                   rules="aacr"
+                   source="naf">
+            Meyrink, Gustav, 1868-1932
+         </persname>
+         <persname source="local">
+            Mohrenwitz, Lothar
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50013022"
+                   source="naf">
+            Mühsam, Erich, 1878-1934
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84169433"
+                   source="naf">
+            Pinthus, Kurt, 1886-1975
+         </persname>
+         <persname source="local">
+            Puttkamer, Annemarie v.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79042183"
+                   rules="aacr"
+                   source="naf">
+            Rilke, Rainer Maria, 1875-1926
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79059160"
+                   rules="aacr"
+                   source="naf">
+            Rolland, Romain, 1866-1944
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88017916"
+                   rules="aacr"
+                   source="naf">
+            Rowohlt, Ernst, 1887-1960
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50021616"
+                   rules="aacr"
+                   source="naf">
+            Scheerbart, Paul, 1863-1915
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82066303"
+                   rules="aacr"
+                   source="naf">
+            Schickele, René, 1883-1940
+         </persname>
+         <persname source="local">
+            Schwabach, Erik Ernst
+         </persname>
+         <persname rules="aacr" source="local">
+            Seiffhart, Arthur
+         </persname>
+         <persname rules="aacr" source="local">
+            Sternhelm, Carl, 1878-1942
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80036680"
+                   source="naf">
+            Tagore, Rabindranath, 1861-1941
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78090544"
+                   rules="aacr"
+                   source="naf">
+            Toller, Ernst, 1893-1939
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50014662"
+                   source="naf">
+            Trakl, Georg, 1887-1914
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79111430"
+                   source="naf">
+            Tzara, Tristan, 1896-1963
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81003664"
+                   rules="aacr"
+                   source="naf">
+            Unruh, Fritz von, 1885-1970
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50024511"
+                   source="naf">
+            Walser, Robert, 1878-1956
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81072743"
+                   rules="aacr"
+                   source="naf">
+            Wassermann, Jakob, 1873-1934
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79135578"
+                   source="naf">
+            Wedekind, Frank, 1864-1918
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79063613"
+                   source="naf">
+            Wells, H. G. (Herbert George), 1866-1946
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50002492"
+                   rules="aacr"
+                   source="naf">
+            Werfel, Franz, 1890-1945
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83233353"
+                   rules="aacr"
+                   source="naf">
+            Wolfskehl, Karl, 1869-1948
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81029103"
+                   rules="aacr"
+                   source="naf">
+            Zech, Paul, 1881-1946
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79103896"
+                   source="naf">
+            Zuckmayer, Carl, 1896-1977
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50015933"
+                   source="naf">
+            Zweig, Arnold, 1887-1968
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79138567"
+                   source="naf">
+            Zweig, Stefan, 1881-1942
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nr2001019217"
+                   source="naf">
+            Kurt Wolff Verlag
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref10" level="series">
+            <did>
+               <unittitle>Box and Folder List</unittitle>
+            </did>
+            <scopecontent id="aspace_9aa3b2ce7b71f2fd9cb8c300afda1067">
+               <head>Scope and Contents</head>
+               <p>This archive consists of letters to and from Kurt Wolff, among which literary writings of some correspondents have been interfiled. The correspondence has been alphabetically arranged and all letters have been placed in chronological order within each folder.</p>
+            </scopecontent>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>Albert, Eugen d' [with transcript]</unittitle>
+                  <unitdate type="inclusive">1922 Jun 22</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_ce4a4602681150fd8f9dd8219d48576b"
+                             type="box">1</container>
+                  <container id="aspace_d5a0d9fa9f03d941c9ed36107b17a47b"
+                             type="folder"
+                             parent="aspace_ce4a4602681150fd8f9dd8219d48576b">1</container>
+               </did>
+            </c>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Amann, Paul [with transcript]</unittitle>
+                  <unitdate type="inclusive">1921-22</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_8ac7945264880a532bd52fa69e37dc8e"
+                             type="box">1</container>
+                  <container id="aspace_a681715fca4da596999c6e056f91101a"
+                             type="folder"
+                             parent="aspace_8ac7945264880a532bd52fa69e37dc8e">2</container>
+               </did>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Andersen Nexo, Martin</unittitle>
+                  <unitdate type="inclusive">1921</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_d969571c186785c7f18f29171b537871"
+                             type="box">1</container>
+                  <container id="aspace_236d63bf1c3e867f807ea7525cb12216"
+                             type="folder"
+                             parent="aspace_d969571c186785c7f18f29171b537871">2a</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Andreas-Salomé, Lou</unittitle>
+                  <unitdate type="inclusive">1917-19</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_c0b78274bb0a3e75cea647875883564e"
+                             type="box">1</container>
+                  <container id="aspace_3cfbb442fcf5d97da7eeb8d431003bf9"
+                             type="folder"
+                             parent="aspace_c0b78274bb0a3e75cea647875883564e">3</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Asenijeff, Elsa [with transcript]</unittitle>
+                  <unitdate type="inclusive">1913</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_acb8401956b966f3cf0cf64134046487"
+                             type="box">1</container>
+                  <container id="aspace_47e9d7653f733d297361b50397e0e20d"
+                             type="folder"
+                             parent="aspace_acb8401956b966f3cf0cf64134046487">4</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Bahr, Hermann</unittitle>
+                  <unitdate type="inclusive">1916-22</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_e7cb1907104bbe0f594613a6aead41bd"
+                             type="box">1</container>
+                  <container id="aspace_eeab9823aa6cffa7092609670b1958c5"
+                             type="folder"
+                             parent="aspace_e7cb1907104bbe0f594613a6aead41bd">5</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Bahr-Mildenburg, Anna</unittitle>
+                  <unitdate type="inclusive">1927</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_fc9f688067ee45bde603c1bcca46875d"
+                             type="box">1</container>
+                  <container id="aspace_584d04b0d5f6832513d48c66708aa577"
+                             type="folder"
+                             parent="aspace_fc9f688067ee45bde603c1bcca46875d">6</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>Balázs, Béla</unittitle>
+                  <unitdate type="inclusive">1915</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_bc0e88f43d5e1bbf9d836f1b60c0fc99"
+                             type="box">1</container>
+                  <container id="aspace_343bb7f2a0ca0ec96b0db3e5f6962375"
+                             type="folder"
+                             parent="aspace_bc0e88f43d5e1bbf9d836f1b60c0fc99">7</container>
+               </did>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Ball, Hugo [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1911-15</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_e6a3abbd8848af523ea8fc905170f501"
+                             type="box">1</container>
+                  <container id="aspace_69162226d3a2699a2a48fe37d37db93c"
+                             type="folder"
+                             parent="aspace_e6a3abbd8848af523ea8fc905170f501">8</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Becher, Johannes Robert [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1914-22</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_546610e09618082f384ea5a489252a6a"
+                             type="box">1</container>
+                  <container id="aspace_8f5ade76970468b1b7915092451079ba"
+                             type="folder"
+                             parent="aspace_546610e09618082f384ea5a489252a6a">9</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Becker-Glauch, K.</unittitle>
+                  <unitdate type="inclusive">1917-23</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_e5b37eb0064e42f05a7de936b8839278"
+                             type="box">1</container>
+                  <container id="aspace_06115274835d1684101f34c47660b049"
+                             type="folder"
+                             parent="aspace_e5b37eb0064e42f05a7de936b8839278">9a-b</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Beeh, René [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_9a1f1067bc19af19d232d5ee4a00d62c"
+                             type="box">1</container>
+                  <container id="aspace_2260957974c5e5c75e54b6c905937947"
+                             type="folder"
+                             parent="aspace_9a1f1067bc19af19d232d5ee4a00d62c">10</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Benn, Gottfried [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-17</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_f59c722a1c080d69b92832a9ccfaf875"
+                             type="box">1</container>
+                  <container id="aspace_ce7b11743869bcc2e4cdc8054e610573"
+                             type="folder"
+                             parent="aspace_f59c722a1c080d69b92832a9ccfaf875">11</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Berger, Ludwig [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920-22</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_5d2bb093e210074e3bf74479ff8f3f5b"
+                             type="box">1</container>
+                  <container id="aspace_dcfb6e6117562c9e291bd833562570d0"
+                             type="folder"
+                             parent="aspace_5d2bb093e210074e3bf74479ff8f3f5b">12-14</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Binding, Rudolf Georg [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_f7e6dff7ebd7ffd0cc80b710cadfbb26"
+                             type="box">1</container>
+                  <container id="aspace_5622a3c6a2a4f4f06b69f75cb8dc6d7d"
+                             type="folder"
+                             parent="aspace_f7e6dff7ebd7ffd0cc80b710cadfbb26">15</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Björnsen, Björn</unittitle>
+                  <unitdate type="inclusive">1920-30</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_bc33210a9250aad847ca5fb74c884bae"
+                             type="box">1</container>
+                  <container id="aspace_84d5ce46ee929055f51083f41ed34219"
+                             type="folder"
+                             parent="aspace_bc33210a9250aad847ca5fb74c884bae">16</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>Blass, Ernst [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1915-17</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_a51cd76bdbfc760190620152e6d907c2"
+                             type="box">1</container>
+                  <container id="aspace_3e1ddd92fa9280284ce89e8b3b9803b6"
+                             type="folder"
+                             parent="aspace_a51cd76bdbfc760190620152e6d907c2">17</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Blei, Franz</unittitle>
+                  <unitdate type="inclusive">1913-21</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_c328461559b32ed434f39e0c9fd2b2cc"
+                             type="box">1</container>
+                  <container id="aspace_7986918fedd6a27aab2aad53c09457f5"
+                             type="folder"
+                             parent="aspace_c328461559b32ed434f39e0c9fd2b2cc">18</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>Bloch, Ernst</unittitle>
+                  <unitdate type="inclusive">1921 Dec 19</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_761acf01997009ced36661006b581e73"
+                             type="box">1</container>
+                  <container id="aspace_e8cbaba0a83d69ea7a86d6dc6cc404b2"
+                             type="folder"
+                             parent="aspace_761acf01997009ced36661006b581e73">19</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Bô Yin Râ: letter [with transcript]; document</unittitle>
+                  <unitdate type="inclusive">1920 Jul 9</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_5546756dbe801e81525ba8f0aa9f741e"
+                             type="box">1</container>
+                  <container id="aspace_c84bf95091ea1ead955b7845849c8a34"
+                             type="folder"
+                             parent="aspace_5546756dbe801e81525ba8f0aa9f741e">19a</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Boehn, Max von [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1919-20</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_d3ff14022ba3fb2db6e04b1049434f36"
+                             type="box">1</container>
+                  <container id="aspace_2679f093893f26e4cbccf47327f05b2a"
+                             type="folder"
+                             parent="aspace_d3ff14022ba3fb2db6e04b1049434f36">20</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>Bötticher, Hans (Ringelnatz, pseud.)</unittitle>
+                  <unitdate type="inclusive">1921-23</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_5b8c5c9eea06d2c54dab6ecff01ceb1e"
+                             type="box">1</container>
+                  <container id="aspace_9d08b249755695a0a8537cf1d342e64a"
+                             type="folder"
+                             parent="aspace_5b8c5c9eea06d2c54dab6ecff01ceb1e">21</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Bonsels, Waldemar [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_19d8e619e55b9a253be34b79104a5fe4"
+                             type="box">1</container>
+                  <container id="aspace_8ca60b93d41df8dd3685b47624c2cc01"
+                             type="folder"
+                             parent="aspace_19d8e619e55b9a253be34b79104a5fe4">22</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Borchardt, Rudolf</unittitle>
+               </did>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1916-18</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_70c326efbb13b8f00ca7b786d1577135"
+                                type="box">1</container>
+                     <container id="aspace_728a43760c09d8faa245e12cf7da548b"
+                                type="folder"
+                                parent="aspace_70c326efbb13b8f00ca7b786d1577135">23-24</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>"(Toskanische) Villen" [with fragments]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_8e2dccc78872fb584d20bc3b65e11070"
+                                type="box">1</container>
+                     <container id="aspace_b3280ed08422e76f0db20b76d594352e"
+                                type="folder"
+                                parent="aspace_8e2dccc78872fb584d20bc3b65e11070">25-26</container>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>"Giovanni Pascoli"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_cfc562f43ad06846d790e9529a3e7124"
+                                type="box">1</container>
+                     <container id="aspace_be2ead837526e66bac71c7962708795b"
+                                type="folder"
+                                parent="aspace_cfc562f43ad06846d790e9529a3e7124">27</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>"Tagebuchblatt," "Versuch über Heine," "Zum Tode Carduccis," "Über Hofmannsthals Erzählung": latter with typescript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_943d5d9427aab22d13fbb4c856557ce8"
+                                type="box">1</container>
+                     <container id="aspace_520f9613950c5dbfef08fa4881da10a2"
+                                type="folder"
+                                parent="aspace_943d5d9427aab22d13fbb4c856557ce8">28</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Brod, Max</unittitle>
+               </did>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1914-18</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_d1af85d02477364689aa74f51192324f"
+                                type="box">1</container>
+                     <container id="aspace_247b76d809aa836f41da7351043eea1e"
+                                type="folder"
+                                parent="aspace_d1af85d02477364689aa74f51192324f">29-32</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Financial papers</unittitle>
+                     <unitdate type="inclusive">1912-18</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_42d7812e5d531f9d6300e5f2cf1288f5"
+                                type="box">1</container>
+                     <container id="aspace_cf25c5f1ad5981403dd6807c2d907819"
+                                type="folder"
+                                parent="aspace_42d7812e5d531f9d6300e5f2cf1288f5">33</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>Brust, Alfred</unittitle>
+                  <unitdate type="inclusive">1920-23</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_9018fab08e978d4f3de016f181b616f8"
+                             type="box">1</container>
+                  <container id="aspace_4eac0d975cc34726958ce4a8bd0cfff5"
+                             type="folder"
+                             parent="aspace_9018fab08e978d4f3de016f181b616f8">34-35</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Buber, Martin [with transcript]</unittitle>
+                  <unitdate type="inclusive">1913-14</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_4f4ee43b9b53aeb4a182907e2870e35c"
+                             type="box">1</container>
+                  <container id="aspace_51c3f84c579a247bcf83d83b9fc298fc"
+                             type="folder"
+                             parent="aspace_4f4ee43b9b53aeb4a182907e2870e35c">36</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Carossa, Hans, ms. Fahrt (poem)</unittitle>
+                  <unitdate type="inclusive">1929 Oct 25</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_6d0a35707018586087d6acc271507ce2"
+                             type="box">1</container>
+                  <container id="aspace_2f14302a799b27a65ff93fa22865246b"
+                             type="folder"
+                             parent="aspace_6d0a35707018586087d6acc271507ce2">37</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>Caspar, Karl [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_530a3e8162d806f8fd435b93702eb006"
+                             type="box">1</container>
+                  <container id="aspace_272137e6a8377843895b3c1c9b7853d7"
+                             type="folder"
+                             parent="aspace_530a3e8162d806f8fd435b93702eb006">38</container>
+               </did>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>Coudenhove-Kalergi, Richard Nicolaus, Graf von</unittitle>
+                  <unitdate type="inclusive">1921</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_c0b9b8590e88d6430dd34cff70c36c6e"
+                             type="box">1</container>
+                  <container id="aspace_a26c02f4f750962340168b1bd5238536"
+                             type="folder"
+                             parent="aspace_c0b9b8590e88d6430dd34cff70c36c6e">39</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Dacqué, Edgar</unittitle>
+                  <unitdate type="inclusive">1925-29</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_dbcafb6e873215c5dc5f76d15b5b0a3d"
+                             type="box">1</container>
+                  <container id="aspace_5a83240c1813f4e8eeeb661d49daf80a"
+                             type="folder"
+                             parent="aspace_dbcafb6e873215c5dc5f76d15b5b0a3d">40</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Däubler, Theodor [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-20</unitdate>
+                  <container label="Mixed Materials (39002091570821)"
+                             id="aspace_230b30f227effc2355d3cbc11aedb6ca"
+                             type="box">1</container>
+                  <container id="aspace_6f360b645d89f74ece6527f1d8f2be6e"
+                             type="folder"
+                             parent="aspace_230b30f227effc2355d3cbc11aedb6ca">41</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>Dauthendey, Max</unittitle>
+               </did>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1910-11</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_d58d1fa1f385b80edb1029bedf6fffe5"
+                                type="box">1</container>
+                     <container id="aspace_2412936e793bc9248afa79147e1483ca"
+                                type="folder"
+                                parent="aspace_d58d1fa1f385b80edb1029bedf6fffe5">42</container>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Der Venusinenreim
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1911]</unitdate>
+                     <container label="Mixed Materials (39002091570821)"
+                                id="aspace_7aac371b593b244262892d620765ae52"
+                                type="box">1</container>
+                     <container id="aspace_25b7dabadcd93f6f51a3455c5cc8ffc1"
+                                type="folder"
+                                parent="aspace_7aac371b593b244262892d620765ae52">43-45</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Dehmel, Richard [with transcript]</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_14d79d73f62ad417a196f870a8eea026"
+                             type="box">2</container>
+                  <container id="aspace_112f7b2ce340377b7f911e91aafa397e"
+                             type="folder"
+                             parent="aspace_14d79d73f62ad417a196f870a8eea026">46</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>Dirsztay, Viktor Baron von [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-23</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_7275025faac884994d4295d2298cfc95"
+                             type="box">2</container>
+                  <container id="aspace_55eb3bde5443186070c806afdd90cf8e"
+                             type="folder"
+                             parent="aspace_7275025faac884994d4295d2298cfc95">47</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Döblin, Alfred [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1913-21</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_39571686fe61775c16be8e0770ff7f28"
+                             type="box">2</container>
+                  <container id="aspace_2f3622138455af91c25ef9d4731992fc"
+                             type="folder"
+                             parent="aspace_39571686fe61775c16be8e0770ff7f28">48</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Edschmid, Kasimir</unittitle>
+                  <unitdate type="inclusive">1913-17</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_7d8694123d088e47246a6af6b0b64625"
+                             type="box">2</container>
+                  <container id="aspace_1289356e6e7a3d5beba430e5458dbd7b"
+                             type="folder"
+                             parent="aspace_7d8694123d088e47246a6af6b0b64625">49-50</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>Ehrenstein, Albert</unittitle>
+                  <unitdate type="inclusive">1910-23, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_fd6d3093b873c9af4dce94ad10c7afcb"
+                             type="box">2</container>
+                  <container id="aspace_dc247c7691f93938130eb29f26845861"
+                             type="folder"
+                             parent="aspace_fd6d3093b873c9af4dce94ad10c7afcb">51</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Einstein, Carl</unittitle>
+                  <unitdate type="inclusive">[1910]-23</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_a078d41998fdc25353894989ac513f75"
+                             type="box">2</container>
+                  <container id="aspace_7a760b20b26ed6efccde0c9779f862cb"
+                             type="folder"
+                             parent="aspace_a078d41998fdc25353894989ac513f75">52</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Essig, Hermann</unittitle>
+                  <unitdate type="inclusive">1916-21</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_205f5445c31f7585e755478e23582270"
+                             type="box">2</container>
+                  <container id="aspace_161783210cb47693ea117853cb930665"
+                             type="folder"
+                             parent="aspace_205f5445c31f7585e755478e23582270">53</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>Eulenberg, Herbert</unittitle>
+               </did>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>Correspondence, includes contract</unittitle>
+                     <unitdate type="inclusive">1913-29</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_b2529aa5a45ce5a2a221fc416d544c75"
+                                type="box">2</container>
+                     <container id="aspace_bdab34bf9bb457fa8a3626fc2781539f"
+                                type="folder"
+                                parent="aspace_b2529aa5a45ce5a2a221fc416d544c75">54-55</container>
+                  </did>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Alles um Geld
+                        </title>
+                     </unittitle>
+                  </did>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>Notebook</unittitle>
+                        <unitdate type="inclusive">[1912?]</unitdate>
+                        <container label="Mixed Materials (39002091570839)"
+                                   id="aspace_971b9fce1f539c8fd54603da4bdc3b12"
+                                   type="box">2</container>
+                        <container id="aspace_a1bd73bc9462656d62ddd30f7a19f390"
+                                   type="folder"
+                                   parent="aspace_971b9fce1f539c8fd54603da4bdc3b12">56</container>
+                     </did>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>Printed version with corrections</unittitle>
+                        <unitdate type="inclusive">1911-12</unitdate>
+                        <container label="Mixed Materials (39002091570839)"
+                                   id="aspace_65cbabf1781c2661631f9585934e3071"
+                                   type="box">2</container>
+                        <container id="aspace_4ca3c69cc9685652bf0c17acd679299b"
+                                   type="folder"
+                                   parent="aspace_65cbabf1781c2661631f9585934e3071">57</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Deutsche Sonette
+                        </title>: printed copy</unittitle>
+                     <unitdate type="inclusive">1910</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_f3c3eb86d5e8dfd402b66ad7dc8738a8"
+                                type="box">2</container>
+                     <container id="aspace_51e88a365f5d99eae87edda0679b5edf"
+                                type="folder"
+                                parent="aspace_f3c3eb86d5e8dfd402b66ad7dc8738a8">58</container>
+                  </did>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Drei Einakter
+                        </title>: printed copy</unittitle>
+                     <unitdate type="inclusive">1913</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_d06d7a2d261c2c2f650ef396cb9570da"
+                                type="box">2</container>
+                     <container id="aspace_e6bf78a768c152b1bcaa7539ba13e5ad"
+                                type="folder"
+                                parent="aspace_d06d7a2d261c2c2f650ef396cb9570da">59</container>
+                  </did>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>"Die Geschwister": typescript</unittitle>
+                     <unitdate type="inclusive">[1912]</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_d95c0e2d4274242b9264d645a68ba19c"
+                                type="box">2</container>
+                     <container id="aspace_eb9d7988acfa5c58a3205ae69f927519"
+                                type="folder"
+                                parent="aspace_d95c0e2d4274242b9264d645a68ba19c">60</container>
+                  </did>
+               </c>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>"Moderner Prolog": manuscript</unittitle>
+                     <unitdate type="inclusive">[1912]</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_da08172ffe132e886f442511378c51f6"
+                                type="box">2</container>
+                     <container id="aspace_3578d7f6091585f8eaac34e9fd5ae664"
+                                type="folder"
+                                parent="aspace_da08172ffe132e886f442511378c51f6">61</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Münchhausen
+                        </title>
+                     </unittitle>
+                  </did>
+                  <c id="ref69" level="file">
+                     <did>
+                        <unittitle>Printed copy with corrections</unittitle>
+                        <unitdate type="inclusive">1913</unitdate>
+                        <container label="Mixed Materials (39002091570839)"
+                                   id="aspace_4e84d0b852d42d027e0e304cb9cdff13"
+                                   type="box">2</container>
+                        <container id="aspace_587da1b407ae5526d0a733214265070f"
+                                   type="folder"
+                                   parent="aspace_4e84d0b852d42d027e0e304cb9cdff13">62</container>
+                     </did>
+                  </c>
+                  <c id="ref70" level="file">
+                     <did>
+                        <unittitle>Corrections</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002091570839)"
+                                   id="aspace_f7210ccc9687a4ebd79d0363b2bd6882"
+                                   type="box">2</container>
+                        <container id="aspace_d38c66ca1a4a411a4a695e348cd35857"
+                                   type="folder"
+                                   parent="aspace_f7210ccc9687a4ebd79d0363b2bd6882">63</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Ritter Blaubart
+                        </title>: printed copy</unittitle>
+                     <unitdate type="inclusive">1910</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_18a286e7094f878751e8d662d0ea1fac"
+                                type="box">2</container>
+                     <container id="aspace_c79e75c5a3984e31071983e307e0c278"
+                                type="folder"
+                                parent="aspace_18a286e7094f878751e8d662d0ea1fac">64</container>
+                  </did>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>[23] "Sonette": manuscript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_bf50109a565b25c700ad44ed5cf9f788"
+                                type="box">2</container>
+                     <container id="aspace_c7afbec85fb45e5b21455c322d4c8180"
+                                type="folder"
+                                parent="aspace_bf50109a565b25c700ad44ed5cf9f788">65</container>
+                  </did>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>Two poems: "Tizian" and "Zur geplanten Gesamtausgabe": manuscript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_e8145fc58ffef0568458184aff0f584d"
+                                type="box">2</container>
+                     <container id="aspace_4aeefc730c65a81dfd8b7554ceec1409"
+                                type="folder"
+                                parent="aspace_e8145fc58ffef0568458184aff0f584d">66</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Die Welt will betrogen werden
+                        </title>: typescript</unittitle>
+                     <unitdate type="inclusive">[1912]</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_b333dce3b319531870bde09d512cd952"
+                                type="box">2</container>
+                     <container id="aspace_c801d8a2472e4bfa14beade83bc10ad1"
+                                type="folder"
+                                parent="aspace_b333dce3b319531870bde09d512cd952">67</container>
+                  </did>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Die Wunderkur
+                        </title>: typescript</unittitle>
+                     <unitdate type="inclusive">[1912]</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_f417f2dfe66e6b1eec2242e09bafae80"
+                                type="box">2</container>
+                     <container id="aspace_a70ecee7a7a9c5f3a9a817f38236f6b2"
+                                type="folder"
+                                parent="aspace_f417f2dfe66e6b1eec2242e09bafae80">68</container>
+                  </did>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Zeitwende
+                        </title>: manuscript</unittitle>
+                     <unitdate type="inclusive">ca. 1913</unitdate>
+                     <container label="Mixed Materials (39002091570839)"
+                                id="aspace_c985b8bce684bfd6cac9f72abc4e6a5e"
+                                type="box">2</container>
+                     <container id="aspace_181f86c8b875937e94b30811ab0f044d"
+                                type="folder"
+                                parent="aspace_c985b8bce684bfd6cac9f72abc4e6a5e">69-70</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>Flake, Otto</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_d98ec026df08ddc296ac9fe2a3dd8154"
+                             type="box">2</container>
+                  <container id="aspace_c33016b810fddec25a86f0481b9599d9"
+                             type="folder"
+                             parent="aspace_d98ec026df08ddc296ac9fe2a3dd8154">71</container>
+               </did>
+            </c>
+            <c id="ref78" level="file">
+               <did>
+                  <unittitle>Förster-Nietzsche, Elisabeth [with transcript]</unittitle>
+                  <unitdate type="inclusive">1920 Apr 22</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_eceee0001b99d548a688ac2168eb737d"
+                             type="box">2</container>
+                  <container id="aspace_a3ca4c78b3dc6c4902b23bacaab99eaa"
+                             type="folder"
+                             parent="aspace_eceee0001b99d548a688ac2168eb737d">71a</container>
+               </did>
+            </c>
+            <c id="ref79" level="file">
+               <did>
+                  <unittitle>Fontana, Oskar Maurus</unittitle>
+                  <unitdate type="inclusive">1918-21</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_56f593ee4faf02b784466c18239702d8"
+                             type="box">2</container>
+                  <container id="aspace_178aa2cd1fc56951d1e7e25212b11c86"
+                             type="folder"
+                             parent="aspace_56f593ee4faf02b784466c18239702d8">72</container>
+               </did>
+            </c>
+            <c id="ref80" level="file">
+               <did>
+                  <unittitle>Forschungsinstitut für Kulturmorphologie, München</unittitle>
+                  <unitdate type="inclusive">1922-23</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_49406b495a37ff2bbfde5bfba05992af"
+                             type="box">2</container>
+                  <container id="aspace_c7ee004581bf069170bb017a27789f59"
+                             type="folder"
+                             parent="aspace_49406b495a37ff2bbfde5bfba05992af">73</container>
+               </did>
+            </c>
+            <c id="ref81" level="file">
+               <did>
+                  <unittitle>Frank, Bruno</unittitle>
+                  <unitdate type="inclusive">1913</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_17cc9bff6f309b12f50f5b446e7ef2b9"
+                             type="box">2</container>
+                  <container id="aspace_4b68ea2f156b961f866844e8ab46ca16"
+                             type="folder"
+                             parent="aspace_17cc9bff6f309b12f50f5b446e7ef2b9">74</container>
+               </did>
+            </c>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>Frank, Leonhard [with transcript]</unittitle>
+                  <unitdate type="inclusive">1912-17</unitdate>
+                  <container label="Mixed Materials (39002091570839)"
+                             id="aspace_a32c1ba7f0443eeacdbb317ccfc637f8"
+                             type="box">2</container>
+                  <container id="aspace_3fef930d664416b3f4ba9d91490d30cc"
+                             type="folder"
+                             parent="aspace_a32c1ba7f0443eeacdbb317ccfc637f8">75</container>
+               </did>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>Freeman, John</unittitle>
+                  <unitdate type="inclusive">1918-19</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_83f51031b9c11aceb685a5929de3be98"
+                             type="box">3</container>
+                  <container id="aspace_abe1b03e4fa7541485f8156a068f6a28"
+                             type="folder"
+                             parent="aspace_83f51031b9c11aceb685a5929de3be98">76</container>
+               </did>
+            </c>
+            <c id="ref84" level="file">
+               <did>
+                  <unittitle>Frey, Alexander Moritz [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1921-23</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_41d1bed27f29498c7d396a685bd410f0"
+                             type="box">3</container>
+                  <container id="aspace_47040c28e92c96f12ec68316e63f032c"
+                             type="folder"
+                             parent="aspace_41d1bed27f29498c7d396a685bd410f0">77</container>
+               </did>
+            </c>
+            <c id="ref85" level="file">
+               <did>
+                  <unittitle>Friedländer, Max J.</unittitle>
+                  <unitdate type="inclusive">1920-22</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_1f2310cc137f51eb556554c188aafe46"
+                             type="box">3</container>
+                  <container id="aspace_8ddf0cd42d2c296f33831e8cdcc6f267"
+                             type="folder"
+                             parent="aspace_1f2310cc137f51eb556554c188aafe46">78</container>
+               </did>
+            </c>
+            <c id="ref86" level="file">
+               <did>
+                  <unittitle>Friedländer, Salomo (pseud. Mynona)</unittitle>
+                  <unitdate type="inclusive">1917-22</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_146a834cb67c0aba2abda6f692342ac5"
+                             type="box">3</container>
+                  <container id="aspace_65278999ae5cb12cd76bdb7fca40f145"
+                             type="folder"
+                             parent="aspace_146a834cb67c0aba2abda6f692342ac5">79</container>
+               </did>
+            </c>
+            <c id="ref87" level="file">
+               <did>
+                  <unittitle>Fuchs, Rudolf</unittitle>
+               </did>
+               <c id="ref88" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1914-22</unitdate>
+                     <container label="Mixed Materials (39002091570847)"
+                                id="aspace_228f0a8a4ab1dda13ce358fe7bdd7755"
+                                type="box">3</container>
+                     <container id="aspace_91cd10f28c95efcdcbceef73d764adc2"
+                                type="folder"
+                                parent="aspace_228f0a8a4ab1dda13ce358fe7bdd7755">80</container>
+                  </did>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>Poem: "Letzter Spruch," Translations: "Magische Mitternacht," "Sommersonnenwende," Untitled (poems by Ottokar Brezina)</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570847)"
+                                id="aspace_e3c9ceee6b6d7cd9330cced3944abf36"
+                                type="box">3</container>
+                     <container id="aspace_9607823f75d083f0004a0dcd44e49bdb"
+                                type="folder"
+                                parent="aspace_e3c9ceee6b6d7cd9330cced3944abf36">81</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref90" level="file">
+               <did>
+                  <unittitle>Gauguin, Paul: <title type="simple" render="italic">
+                        Avant et Après
+                     </title>, typescript</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_0a7f052d6103e5f1183dfe332168638c"
+                             type="box">3</container>
+                  <container id="aspace_d648ef95653e94a8a29e78f8ae03ba80"
+                             type="folder"
+                             parent="aspace_0a7f052d6103e5f1183dfe332168638c">82</container>
+               </did>
+            </c>
+            <c id="ref91" level="file">
+               <did>
+                  <unittitle>Gauguin, Pola [with contract]</unittitle>
+                  <unitdate type="inclusive">1913-21</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_4811e37d6ae6e6c733430253ac5241d5"
+                             type="box">3</container>
+                  <container id="aspace_2eacdf0bbad2098106091557a5ebcfd7"
+                             type="folder"
+                             parent="aspace_4811e37d6ae6e6c733430253ac5241d5">83-84</container>
+               </did>
+            </c>
+            <c id="ref92" level="file">
+               <did>
+                  <unittitle>Gerlach, Helmut von</unittitle>
+                  <unitdate type="inclusive">1918-20</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_a3745ff660707c21807a372b1fbf4c04"
+                             type="box">3</container>
+                  <container id="aspace_e5a74386cff3a4a0c6101d42325ee837"
+                             type="folder"
+                             parent="aspace_a3745ff660707c21807a372b1fbf4c04">85</container>
+               </did>
+            </c>
+            <c id="ref93" level="file">
+               <did>
+                  <unittitle>Germain, André</unittitle>
+                  <unitdate type="inclusive">1920-27</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_1e9866dd3bcf66b4ed2caabd9cdbfa41"
+                             type="box">3</container>
+                  <container id="aspace_60f952e6e835d716ca6e3a9a4e028f96"
+                             type="folder"
+                             parent="aspace_1e9866dd3bcf66b4ed2caabd9cdbfa41">86</container>
+               </did>
+            </c>
+            <c id="ref94" level="file">
+               <did>
+                  <unittitle>Godwin, Catherina: "Frau im Kreise," sketch for advertisement [?]</unittitle>
+                  <unitdate type="inclusive">1919-22; n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_5dac91dd9629bd9604c1dc805c36504c"
+                             type="box">3</container>
+                  <container id="aspace_adfa3b8f331a4bb1f64d32535ac21227"
+                             type="folder"
+                             parent="aspace_5dac91dd9629bd9604c1dc805c36504c">87</container>
+               </did>
+            </c>
+            <c id="ref95" level="file">
+               <did>
+                  <unittitle>Goetz, Wolfgang</unittitle>
+                  <unitdate type="inclusive">1920-23</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_119b522e1f0478f3fb18cd59f4f2f769"
+                             type="box">3</container>
+                  <container id="aspace_4b0f15ee1f36541482000586b3ca81c4"
+                             type="folder"
+                             parent="aspace_119b522e1f0478f3fb18cd59f4f2f769">88</container>
+               </did>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Goll, Iwan [with transcript]</unittitle>
+                  <unitdate type="inclusive">1913</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_139d5292eb4fe874f4490b44c4ba9c32"
+                             type="box">3</container>
+                  <container id="aspace_5e6a621f95c9d2b6ccef1c34701eeab3"
+                             type="folder"
+                             parent="aspace_139d5292eb4fe874f4490b44c4ba9c32">89</container>
+               </did>
+            </c>
+            <c id="ref97" level="file">
+               <did>
+                  <unittitle>Gor'kii, Maksim</unittitle>
+                  <unitdate type="inclusive">1922</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_0652467504beb3aa836d61199d898971"
+                             type="box">3</container>
+                  <container id="aspace_99fdee50b464828fd681068f660b6f6a"
+                             type="folder"
+                             parent="aspace_0652467504beb3aa836d61199d898971">90</container>
+               </did>
+            </c>
+            <c id="ref98" level="file">
+               <did>
+                  <unittitle>Gorsleben, Rudolf John</unittitle>
+                  <unitdate type="inclusive">1912-13</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_70aeee76356d888cde184770f82a0014"
+                             type="box">3</container>
+                  <container id="aspace_3ffce561c41c21e09b4a9cac1c27a33c"
+                             type="folder"
+                             parent="aspace_70aeee76356d888cde184770f82a0014">91</container>
+               </did>
+            </c>
+            <c id="ref99" level="file">
+               <did>
+                  <unittitle>Grautoff, Otto [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1910</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_6e4fb3e1a770981fccc5c98cd62c4f8e"
+                             type="box">3</container>
+                  <container id="aspace_dd98bead85b5299d7fe0e1e94a74c678"
+                             type="folder"
+                             parent="aspace_6e4fb3e1a770981fccc5c98cd62c4f8e">92</container>
+               </did>
+            </c>
+            <c id="ref100" level="file">
+               <did>
+                  <unittitle>Grosz, George [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920-21</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_1cbeb3e880b246210cac9fc5636bfe13"
+                             type="box">3</container>
+                  <container id="aspace_bda79f11b67772199d6d153221b35b8b"
+                             type="folder"
+                             parent="aspace_1cbeb3e880b246210cac9fc5636bfe13">93</container>
+               </did>
+            </c>
+            <c id="ref101" level="file">
+               <did>
+                  <unittitle>Gulbransson, Grete and Olaf</unittitle>
+                  <unitdate type="inclusive">1912, 1922</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_0229fc0afaa2aaba077644373aedd75f"
+                             type="box">3</container>
+                  <container id="aspace_62265b982f17cd7329e3a97c53f27363"
+                             type="folder"
+                             parent="aspace_0229fc0afaa2aaba077644373aedd75f">94</container>
+               </did>
+            </c>
+            <c id="ref102" level="file">
+               <did>
+                  <unittitle>Gundolf, Friedrich</unittitle>
+                  <unitdate type="inclusive">1907-30</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_84f00cb94ebbff9d885f3be04169f3a2"
+                             type="box">3</container>
+                  <container id="aspace_1a450ffee34bcdbeb5445680e4a6dbf9"
+                             type="folder"
+                             parent="aspace_84f00cb94ebbff9d885f3be04169f3a2">95</container>
+               </did>
+            </c>
+            <c id="ref103" level="file">
+               <did>
+                  <unittitle>Hardekopf, Ferdinand, includes contract</unittitle>
+                  <unitdate type="inclusive">1921-23</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_8332095537c17970b7ece544e9b9f0ae"
+                             type="box">3</container>
+                  <container id="aspace_7e0ddabab10c7c94cc2a32aba6a35a4a"
+                             type="folder"
+                             parent="aspace_8332095537c17970b7ece544e9b9f0ae">96</container>
+               </did>
+            </c>
+            <c id="ref104" level="file">
+               <did>
+                  <unittitle>Harden, Maximilian</unittitle>
+                  <unitdate type="inclusive">1909-17</unitdate>
+                  <container label="Mixed Materials (39002091570847)"
+                             id="aspace_985c50170805e20304ef4056431b62d4"
+                             type="box">3</container>
+                  <container id="aspace_b125de30d86b58609c49a2566e08d196"
+                             type="folder"
+                             parent="aspace_985c50170805e20304ef4056431b62d4">97</container>
+               </did>
+            </c>
+            <c id="ref105" level="file">
+               <did>
+                  <unittitle>Hasenclever, Walter</unittitle>
+               </did>
+               <c id="ref106" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1911-17</unitdate>
+                     <container label="Mixed Materials (39002091570847)"
+                                id="aspace_8383721d68da5888e3fabc4e52364434"
+                                type="box">3</container>
+                     <container id="aspace_12f7ffcf0930dd4d581f50d7611d43a0"
+                                type="folder"
+                                parent="aspace_8383721d68da5888e3fabc4e52364434">98-109</container>
+                  </did>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1918-34</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_f27ed5ebe3a550022d525eff7ceb6c38"
+                                type="box">4</container>
+                     <container id="aspace_704fc504e0c028f5bc0645e3d35badfb"
+                                type="folder"
+                                parent="aspace_f27ed5ebe3a550022d525eff7ceb6c38">110-30</container>
+                  </did>
+               </c>
+               <c id="ref108" level="file">
+                  <did>
+                     <unittitle>Writings [with transcript]</unittitle>
+                     <unitdate type="inclusive">1911-13, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_4172eab9231a9b28d93658f33d090114"
+                                type="box">4</container>
+                     <container id="aspace_bcb7d5ff08b5bfe78c01f2dafc1aa3eb"
+                                type="folder"
+                                parent="aspace_4172eab9231a9b28d93658f33d090114">131</container>
+                  </did>
+               </c>
+               <c id="ref109" level="file">
+                  <did>
+                     <unittitle>Papers</unittitle>
+                     <unitdate type="inclusive">1916-32, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_7a3b8c88bd1687d133244173598ed733"
+                                type="box">4</container>
+                     <container id="aspace_cc799a8f5b6542689db2a1f325342223"
+                                type="folder"
+                                parent="aspace_7a3b8c88bd1687d133244173598ed733">132-33</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref110" level="file">
+               <did>
+                  <unittitle>Hauptmann, Carl</unittitle>
+               </did>
+               <c id="ref111" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1911-14</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_fa74eb8bb8205f05cb096c324e7b121d"
+                                type="box">4</container>
+                     <container id="aspace_14c278d6cac3b083dfb411ae0b1b9f99"
+                                type="folder"
+                                parent="aspace_fa74eb8bb8205f05cb096c324e7b121d">134-35</container>
+                  </did>
+               </c>
+               <c id="ref112" level="file">
+                  <did>
+                     <unittitle>Poetry:"Zum Rübezahlbuche," "Zu Kriegsszenen"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_2d6a66a86cb4410838976ba54e66404f"
+                                type="box">4</container>
+                     <container id="aspace_72215aeae9f29d02cdea18167f7b7a94"
+                                type="folder"
+                                parent="aspace_2d6a66a86cb4410838976ba54e66404f">136</container>
+                  </did>
+               </c>
+               <c id="ref113" level="file">
+                  <did>
+                     <unittitle>Review: "An Carl Hauptmann nach Lektüre seines 'Krieg' von Max Grube"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_78ec3d6a4ea31ef2c5edd7cfb5cfa40b"
+                                type="box">4</container>
+                     <container id="aspace_a329ec4172bb32e23bb0c2f577cc234d"
+                                type="folder"
+                                parent="aspace_78ec3d6a4ea31ef2c5edd7cfb5cfa40b">136</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>Hauptmann, Gerhart [with some transcripts]</unittitle>
+                  <unitdate type="inclusive">1921-27</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_d6f6ae462683f1a6117aeac83d748b7e"
+                             type="box">4</container>
+                  <container id="aspace_8335e577175262641cc64b91f1c1e2c8"
+                             type="folder"
+                             parent="aspace_d6f6ae462683f1a6117aeac83d748b7e">137-38</container>
+               </did>
+            </c>
+            <c id="ref115" level="file">
+               <did>
+                  <unittitle>Heine, Thomas Theodor</unittitle>
+                  <unitdate type="inclusive">1920, 1923</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_d4996f4bcf16472d45d06c6fc4603f00"
+                             type="box">4</container>
+                  <container id="aspace_4ebc1d7141846d2ab5b631300d80817a"
+                             type="folder"
+                             parent="aspace_d4996f4bcf16472d45d06c6fc4603f00">139</container>
+               </did>
+            </c>
+            <c id="ref116" level="file">
+               <did>
+                  <unittitle>Hellpach, Willy [with transcript]</unittitle>
+                  <unitdate type="inclusive">1927</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_6b18f9179ee38af6dba385376cdf776e"
+                             type="box">4</container>
+                  <container id="aspace_2b7e10452a94a4d01c233db7cb4602b3"
+                             type="folder"
+                             parent="aspace_6b18f9179ee38af6dba385376cdf776e">140</container>
+               </did>
+            </c>
+            <c id="ref117" level="file">
+               <did>
+                  <unittitle>Henschke, Alfred (Klabund, pseud.) [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-18</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_f2f0a81aff37d2cc2e58beb55e2fe385"
+                             type="box">4</container>
+                  <container id="aspace_dd720c4e76fb408bef0287671059d449"
+                             type="folder"
+                             parent="aspace_f2f0a81aff37d2cc2e58beb55e2fe385">141</container>
+               </did>
+            </c>
+            <c id="ref118" level="file">
+               <did>
+                  <unittitle>Hermann-Neisse, Max [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_130187dec51d75cd769c29557fb7b999"
+                             type="box">4</container>
+                  <container id="aspace_37b7f7e22c16eddeb66abb52e2027fad"
+                             type="folder"
+                             parent="aspace_130187dec51d75cd769c29557fb7b999">142</container>
+               </did>
+            </c>
+            <c id="ref119" level="file">
+               <did>
+                  <unittitle>Herzog, Wilhelm</unittitle>
+                  <unitdate type="inclusive">1917 Jan 9</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_e7ab090bb06c7a1706a1edfbbe1a0b01"
+                             type="box">4</container>
+                  <container id="aspace_09dac29d21e3c8d44428ca5fc2d45473"
+                             type="folder"
+                             parent="aspace_e7ab090bb06c7a1706a1edfbbe1a0b01">143</container>
+               </did>
+            </c>
+            <c id="ref120" level="file">
+               <did>
+                  <unittitle>Hesse, Hermann</unittitle>
+                  <unitdate type="inclusive">1916-34</unitdate>
+                  <container label="Mixed Materials (39002091570854)"
+                             id="aspace_ceb952ba8dc519541fae21b7e91db2c0"
+                             type="box">4</container>
+                  <container id="aspace_f6ce16ed8fa228a71fdbcd94ce5d94d6"
+                             type="folder"
+                             parent="aspace_ceb952ba8dc519541fae21b7e91db2c0">144-45</container>
+               </did>
+            </c>
+            <c id="ref121" level="file">
+               <did>
+                  <unittitle>Heym, Georg</unittitle>
+               </did>
+               <c id="ref122" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1910-12</unitdate>
+                     <container label="Mixed Materials (39002091570854)"
+                                id="aspace_6ecdbc774d61f1111a19912bae0d55ab"
+                                type="box">4</container>
+                     <container id="aspace_3c3027ed7a848d052fea312b5fe9535a"
+                                type="folder"
+                                parent="aspace_6ecdbc774d61f1111a19912bae0d55ab">146-49</container>
+                  </did>
+               </c>
+               <c id="ref123" level="file">
+                  <did>
+                     <unittitle>Guttman correspondence</unittitle>
+                     <unitdate type="inclusive">1912</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_67b183b4812f49c1221e5c9ed3a567db"
+                                type="box">5</container>
+                     <container id="aspace_da3cea23098a9de0187ee3bbb26050a0"
+                                type="folder"
+                                parent="aspace_67b183b4812f49c1221e5c9ed3a567db">150</container>
+                  </did>
+               </c>
+               <c id="ref124" level="file">
+                  <did>
+                     <unittitle>Hiller correspondence</unittitle>
+                     <unitdate type="inclusive">1912</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_3cb10e8788963767b920f26fbae155c0"
+                                type="box">5</container>
+                     <container id="aspace_c452e376f7351763460ff8de4f8089cb"
+                                type="folder"
+                                parent="aspace_3cb10e8788963767b920f26fbae155c0">151</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref125" level="file">
+               <did>
+                  <unittitle>Heym, Hermann (father) correspondence [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1912</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_86c9de0026bca7f2a4c5d695705182a1"
+                             type="box">5</container>
+                  <container id="aspace_3717fe643309e5bd630f1efb445957d6"
+                             type="folder"
+                             parent="aspace_86c9de0026bca7f2a4c5d695705182a1">152-53</container>
+               </did>
+            </c>
+            <c id="ref126" level="file">
+               <did>
+                  <unittitle>Heynicke, Kurt [with transcript]</unittitle>
+                  <unitdate type="inclusive">1920 Jul 7</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_ec7d6960b2a64e8cc165ce1d9e0d53a4"
+                             type="box">5</container>
+                  <container id="aspace_37e5e7a30df1ae8a8f87b8e5646d1998"
+                             type="folder"
+                             parent="aspace_ec7d6960b2a64e8cc165ce1d9e0d53a4">154</container>
+               </did>
+            </c>
+            <c id="ref127" level="file">
+               <did>
+                  <unittitle>Hiller, Kurt</unittitle>
+                  <unitdate type="inclusive">1917-18</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_f485b74e18a09a855b4a22d2269f7a82"
+                             type="box">5</container>
+                  <container id="aspace_09637b40a45fc3703d8f07f09af4fd97"
+                             type="folder"
+                             parent="aspace_f485b74e18a09a855b4a22d2269f7a82">155</container>
+               </did>
+            </c>
+            <c id="ref128" level="file">
+               <did>
+                  <unittitle>Hofmannsthal, Hugo von [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1918</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_695e70426ca10e96b1cc6eab4a7cd32f"
+                             type="box">5</container>
+                  <container id="aspace_bb1e52ee974cc1158620fd4a8e7fe210"
+                             type="folder"
+                             parent="aspace_695e70426ca10e96b1cc6eab4a7cd32f">156</container>
+               </did>
+            </c>
+            <c id="ref129" level="file">
+               <did>
+                  <unittitle>Hollander-Lossow, Else v.</unittitle>
+                  <unitdate type="inclusive">1919-20</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_5bc83e6e95949178e51342a5c7f81973"
+                             type="box">5</container>
+                  <container id="aspace_340d9e744d252e2a48f66331bc0b28a7"
+                             type="folder"
+                             parent="aspace_5bc83e6e95949178e51342a5c7f81973">156a</container>
+               </did>
+            </c>
+            <c id="ref130" level="file">
+               <did>
+                  <unittitle>Huch, Ricarda [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1921-22</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_0c8bb8523ea66749e1662dd36402edee"
+                             type="box">5</container>
+                  <container id="aspace_4d981a9b85966dba096c267a8f8b4a16"
+                             type="folder"
+                             parent="aspace_0c8bb8523ea66749e1662dd36402edee">157</container>
+               </did>
+            </c>
+            <c id="ref131" level="file">
+               <did>
+                  <unittitle>Hülsenbeck, Richard</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_661b66689fb39470eea6ada33a72333a"
+                             type="box">5</container>
+                  <container id="aspace_44c9fad632005b2967e1990b8f287f31"
+                             type="folder"
+                             parent="aspace_661b66689fb39470eea6ada33a72333a">158</container>
+               </did>
+            </c>
+            <c id="ref132" level="file">
+               <did>
+                  <unittitle>Jacobsohn, Siegfried</unittitle>
+                  <unitdate type="inclusive">1912-18</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_16b41aaaee806c8e1c185515cc26f93a"
+                             type="box">5</container>
+                  <container id="aspace_d439d138632758aed902520d8a7796e9"
+                             type="folder"
+                             parent="aspace_16b41aaaee806c8e1c185515cc26f93a">159</container>
+               </did>
+            </c>
+            <c id="ref133" level="file">
+               <did>
+                  <unittitle>Jaloux, Edmond</unittitle>
+                  <unitdate type="inclusive">1926-27, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_eee3096afa4f029d2f51043244f6e106"
+                             type="box">5</container>
+                  <container id="aspace_063d58588f50ce0f86aaef52c9afdda5"
+                             type="folder"
+                             parent="aspace_eee3096afa4f029d2f51043244f6e106">160</container>
+               </did>
+            </c>
+            <c id="ref134" level="file">
+               <did>
+                  <unittitle>Janowitz, Franz</unittitle>
+                  <unitdate type="inclusive">1914-21</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_a17f809340d861fc01540e34ce1203cc"
+                             type="box">5</container>
+                  <container id="aspace_2b5d0e6e7bc3f41b8dcd61c52e9a6ac8"
+                             type="folder"
+                             parent="aspace_a17f809340d861fc01540e34ce1203cc">161</container>
+               </did>
+            </c>
+            <c id="ref135" level="file">
+               <did>
+                  <unittitle>Joyce, James [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_721d0b9e5eee3a5240c6e139f6cbc768"
+                             type="box">5</container>
+                  <container id="aspace_c0d2a48b06a8d2148d33d11a8e4d75a8"
+                             type="folder"
+                             parent="aspace_721d0b9e5eee3a5240c6e139f6cbc768">162</container>
+               </did>
+            </c>
+            <c id="ref136" level="file">
+               <did>
+                  <unittitle>Kafka, Franz</unittitle>
+                  <unitdate type="inclusive">1912-23</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_96ce7aa248133034886eca94c73217ab"
+                             type="box">5</container>
+                  <container id="aspace_9ae09219fec6e1a015ba609af9761653"
+                             type="folder"
+                             parent="aspace_96ce7aa248133034886eca94c73217ab">163-65b</container>
+               </did>
+            </c>
+            <c id="ref137" level="file">
+               <did>
+                  <unittitle>Kainer, Ludwig</unittitle>
+                  <unitdate type="inclusive">1914-18</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_9f27fb0df0abff24c23a12b2bfb7935d"
+                             type="box">5</container>
+                  <container id="aspace_89407ab9cc368413ba0eb4b0bc6f4da4"
+                             type="folder"
+                             parent="aspace_9f27fb0df0abff24c23a12b2bfb7935d">166</container>
+               </did>
+            </c>
+            <c id="ref138" level="file">
+               <did>
+                  <unittitle>Kaiser, Georg</unittitle>
+                  <unitdate type="inclusive">1918 Aug 2</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_a6689bb199aa538e40315c732f679300"
+                             type="box">5</container>
+                  <container id="aspace_736aac7d6a46ae944a65d74f2987a54e"
+                             type="folder"
+                             parent="aspace_a6689bb199aa538e40315c732f679300">167</container>
+               </did>
+            </c>
+            <c id="ref139" level="file">
+               <did>
+                  <unittitle>Kerr, Alfred</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_90b9382b62a296b7412d6547a9334250"
+                             type="box">5</container>
+                  <container id="aspace_be592058a076ca453011ab3a6756ebcb"
+                             type="folder"
+                             parent="aspace_90b9382b62a296b7412d6547a9334250">168-69</container>
+               </did>
+            </c>
+            <c id="ref140" level="file">
+               <did>
+                  <unittitle>Keyserling, Hermann</unittitle>
+                  <unitdate type="inclusive">1922 Nov</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_1a1baae85f3a753328eeb0ddd10490fd"
+                             type="box">5</container>
+                  <container id="aspace_e55052ca2ef8f48af49081d9c193fe06"
+                             type="folder"
+                             parent="aspace_1a1baae85f3a753328eeb0ddd10490fd">170</container>
+               </did>
+            </c>
+            <c id="ref141" level="file">
+               <did>
+                  <unittitle>Kirchner, Ernst Ludwig</unittitle>
+               </did>
+               <c id="ref142" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1920-23</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_7efd11888c3868425cb58add0baf8fa5"
+                                type="box">5</container>
+                     <container id="aspace_9b175eb9d28a062f1f86ab9bcf506fef"
+                                type="folder"
+                                parent="aspace_7efd11888c3868425cb58add0baf8fa5">171-74</container>
+                  </did>
+               </c>
+               <c id="ref143" level="file">
+                  <did>
+                     <unittitle>Papers</unittitle>
+                     <unitdate type="inclusive">1920, 1923, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_e7e83185a89f773d6a96e446bc3f83f3"
+                                type="box">5</container>
+                     <container id="aspace_d65266a3840c922612f96ff7e727133e"
+                                type="folder"
+                                parent="aspace_e7e83185a89f773d6a96e446bc3f83f3">175</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref144" level="file">
+               <did>
+                  <unittitle>Klee, Paul</unittitle>
+                  <unitdate type="inclusive">1919-20</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_b9e24452afcf167c87807f9b368c0a85"
+                             type="box">5</container>
+                  <container id="aspace_05cdec63045964852d9caf843dfa12ae"
+                             type="folder"
+                             parent="aspace_b9e24452afcf167c87807f9b368c0a85">176</container>
+               </did>
+            </c>
+            <c id="ref145" level="file">
+               <did>
+                  <unittitle>Klein, Stefan J.</unittitle>
+                  <unitdate type="inclusive">1920, 1923</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_b3739e4df07d81395814b06f56c96b2b"
+                             type="box">5</container>
+                  <container id="aspace_f643ff6e9685199e0e85f7d643712e0f"
+                             type="folder"
+                             parent="aspace_b3739e4df07d81395814b06f56c96b2b">177</container>
+               </did>
+            </c>
+            <c id="ref146" level="file">
+               <did>
+                  <unittitle>Kölwel, Gottfried [with transcripts],</unittitle>
+                  <unitdate type="inclusive">1914-19</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_1850543afb24f1094f38842da6398a4d"
+                             type="box">5</container>
+                  <container id="aspace_80cae5f5b9349b979c2a108b769a78c4"
+                             type="folder"
+                             parent="aspace_1850543afb24f1094f38842da6398a4d">178</container>
+               </did>
+               <scopecontent id="aspace_329919518f380950f19975a941d488f4">
+                  <head>Scope and Contents</head>
+                  <p>includes: "Das weisse Bild" and "Vor dem Schneefall" n.d.</p>
+               </scopecontent>
+            </c>
+            <c id="ref148" level="file">
+               <did>
+                  <unittitle>Kokoschka, Bohuslav</unittitle>
+                  <unitdate type="inclusive">1918-19</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_dc7cf945a13b270c3b7b06b595aa6c80"
+                             type="box">5</container>
+                  <container id="aspace_8b7762e02782550842b40e83dc8dcdb4"
+                             type="folder"
+                             parent="aspace_dc7cf945a13b270c3b7b06b595aa6c80">179</container>
+               </did>
+            </c>
+            <c id="ref149" level="file">
+               <did>
+                  <unittitle>Kokoschka, Oskar [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_977609718b8745c1dd0efdd3cd40bc96"
+                             type="box">5</container>
+                  <container id="aspace_bd84ad78be549e54b2e47690b353a961"
+                             type="folder"
+                             parent="aspace_977609718b8745c1dd0efdd3cd40bc96">180</container>
+               </did>
+            </c>
+            <c id="ref150" level="file">
+               <did>
+                  <unittitle>Kolb, Annette</unittitle>
+                  <unitdate type="inclusive">1913-23</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_edb4c198eabff43ddac600943af8b31b"
+                             type="box">5</container>
+                  <container id="aspace_18c14bdcee3573b5e79c2622865bca6b"
+                             type="folder"
+                             parent="aspace_edb4c198eabff43ddac600943af8b31b">181-84</container>
+               </did>
+            </c>
+            <c id="ref151" level="file">
+               <did>
+                  <unittitle>Kolbe, Georg</unittitle>
+                  <unitdate type="inclusive">1920-22</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_79cca91260f9bd67f35ecb19bf63903c"
+                             type="box">5</container>
+                  <container id="aspace_a09b73428ef9e90174e17db19d4b0efd"
+                             type="folder"
+                             parent="aspace_79cca91260f9bd67f35ecb19bf63903c">185</container>
+               </did>
+            </c>
+            <c id="ref152" level="file">
+               <did>
+                  <unittitle>Kollwitz, Käthe</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_e23f7cf16f075332ec3169e52c2738bb"
+                             type="box">5</container>
+                  <container id="aspace_d3e13f9cf222092c76e63d40f14d9a8e"
+                             type="folder"
+                             parent="aspace_e23f7cf16f075332ec3169e52c2738bb">186</container>
+               </did>
+            </c>
+            <c id="ref153" level="file">
+               <did>
+                  <unittitle>Kraft, Paul</unittitle>
+                  <unitdate type="inclusive">1915, 1920</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_c1d827bed735bdc4e6dab6a1059fb846"
+                             type="box">5</container>
+                  <container id="aspace_9c3ba1b8bec063f25d2fbb65f4f72403"
+                             type="folder"
+                             parent="aspace_c1d827bed735bdc4e6dab6a1059fb846">187</container>
+               </did>
+            </c>
+            <c id="ref154" level="file">
+               <did>
+                  <unittitle>Kraus, Karl</unittitle>
+               </did>
+               <c id="ref155" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1917-21</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_195193a2e629b6c7780125376a8e0186"
+                                type="box">5</container>
+                     <container id="aspace_f102def83369ff2020d21d1fc98af06a"
+                                type="folder"
+                                parent="aspace_195193a2e629b6c7780125376a8e0186">188-90</container>
+                  </did>
+               </c>
+               <c id="ref156" level="file">
+                  <did>
+                     <unittitle>Papers; undated correspondence</unittitle>
+                     <unitdate type="inclusive">[1917?]-21, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570862)"
+                                id="aspace_e3b2431f86df7ea67e9413b4997e6bd1"
+                                type="box">5</container>
+                     <container id="aspace_a26c41eb1422982144bf99deea93c4b7"
+                                type="folder"
+                                parent="aspace_e3b2431f86df7ea67e9413b4997e6bd1">191</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref157" level="file">
+               <did>
+                  <unittitle>Krell, Max</unittitle>
+                  <unitdate type="inclusive">1916, 1919</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_5a46564140f18009184e316603e32f0b"
+                             type="box">5</container>
+                  <container id="aspace_ed33e86d4bb67fd275bac81670e318e2"
+                             type="folder"
+                             parent="aspace_5a46564140f18009184e316603e32f0b">192</container>
+               </did>
+            </c>
+            <c id="ref158" level="file">
+               <did>
+                  <unittitle>Kubin, Alfred [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1918-21</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_22c3c6e3b2485c9070bd4fc6881cfe0b"
+                             type="box">5</container>
+                  <container id="aspace_50737a99d0e9ce0748cc7aaba86dcfb0"
+                             type="folder"
+                             parent="aspace_22c3c6e3b2485c9070bd4fc6881cfe0b">193-94</container>
+               </did>
+            </c>
+            <c id="ref159" level="file">
+               <did>
+                  <unittitle>Landauer, Gustav</unittitle>
+                  <unitdate type="inclusive">1915-19</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_715789644e1324e468cc39b3d232b2a4"
+                             type="box">5</container>
+                  <container id="aspace_36ea940347c9720d062184261a093af6"
+                             type="folder"
+                             parent="aspace_715789644e1324e468cc39b3d232b2a4">195-96</container>
+               </did>
+            </c>
+            <c id="ref160" level="file">
+               <did>
+                  <unittitle>Lasker-Schüler, Else</unittitle>
+                  <unitdate type="inclusive">1911-16</unitdate>
+                  <container label="Mixed Materials (39002091570862)"
+                             id="aspace_55371633c7cedc1c4358aceff5a72985"
+                             type="box">5</container>
+                  <container id="aspace_15a903b25719cf322d3575b4bc07568f"
+                             type="folder"
+                             parent="aspace_55371633c7cedc1c4358aceff5a72985">197-99</container>
+               </did>
+            </c>
+            <c id="ref161" level="file">
+               <did>
+                  <unittitle>Lautensack, Heinrich [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1910-13</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_7afed3bfbb586bcba5b44b25756dfb7a"
+                             type="box">6</container>
+                  <container id="aspace_d69e0e722ef86b9e4ffb982a0f4e77c8"
+                             type="folder"
+                             parent="aspace_7afed3bfbb586bcba5b44b25756dfb7a">200</container>
+               </did>
+            </c>
+            <c id="ref162" level="file">
+               <did>
+                  <unittitle>Leonhard, Rudolf [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1915-23</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_965fdc87b00f2bd22ec8b7cd85e5b63c"
+                             type="box">6</container>
+                  <container id="aspace_32940fdef2fc343d20671bcb65aa8217"
+                             type="folder"
+                             parent="aspace_965fdc87b00f2bd22ec8b7cd85e5b63c">201-02</container>
+               </did>
+            </c>
+            <c id="ref163" level="file">
+               <did>
+                  <unittitle>Lichnowsky, Mechtilde von</unittitle>
+                  <unitdate type="inclusive">1912-23, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_74e11d8835298df59f6e6576dd5841bb"
+                             type="box">6</container>
+                  <container id="aspace_1eacf571ce593ab38ec11dced439b4d3"
+                             type="folder"
+                             parent="aspace_74e11d8835298df59f6e6576dd5841bb">203-07</container>
+               </did>
+            </c>
+            <c id="ref164" level="file">
+               <did>
+                  <unittitle>Liebknecht, Sophie [with transcripts]; contract</unittitle>
+                  <unitdate type="inclusive">1921 Mar; n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_0f8bbf225b4e700a3e39126dba0f739e"
+                             type="box">6</container>
+                  <container id="aspace_c8ed85edd530fbee53edb2a9ffe6ad8c"
+                             type="folder"
+                             parent="aspace_0f8bbf225b4e700a3e39126dba0f739e">208</container>
+               </did>
+            </c>
+            <c id="ref165" level="file">
+               <did>
+                  <unittitle>Lossow, Else (von Hollander-Glawe) von</unittitle>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_bfa8ef0993012f6b5cac0de7311ba32e"
+                             type="box">6</container>
+                  <container id="aspace_d966eb2857965525dbc545c13ed43e36"
+                             type="folder"
+                             parent="aspace_bfa8ef0993012f6b5cac0de7311ba32e">209</container>
+               </did>
+               <scopecontent id="aspace_4232011758fbec04dc59a23a09edfd93">
+                  <head>Scope and Contents</head>
+                  <p>Empty folder</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_34443d94077f5e1a6b832c9eb0fd4dd7">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref129">See: Hollander-Lossow, Else v. Box 5, folder 156a</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref168" level="file">
+               <did>
+                  <unittitle>Madelung, Aage</unittitle>
+                  <unitdate type="inclusive">1917-22</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_43434855371194d5e6c797f48f598a6a"
+                             type="box">6</container>
+                  <container id="aspace_b13b57a69c29c3fe6490075499b9481e"
+                             type="folder"
+                             parent="aspace_43434855371194d5e6c797f48f598a6a">210</container>
+               </did>
+            </c>
+            <c id="ref169" level="file">
+               <did>
+                  <unittitle>Mahler, Alma, includes contract</unittitle>
+                  <unitdate type="inclusive">1917-22, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_67085ffd34336d8c18cdcc1072379648"
+                             type="box">6</container>
+                  <container id="aspace_07fa0b7c3acc4b5c44615e00dde872b0"
+                             type="folder"
+                             parent="aspace_67085ffd34336d8c18cdcc1072379648">210a-c</container>
+               </did>
+            </c>
+            <c id="ref170" level="file">
+               <did>
+                  <unittitle>Mann, Heinrich [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-17</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_6b7b98ad936ac7aedd5f35068ee657e9"
+                             type="box">6</container>
+                  <container id="aspace_b22bce7bac2838a9e51e1e2035808a92"
+                             type="folder"
+                             parent="aspace_6b7b98ad936ac7aedd5f35068ee657e9">211</container>
+               </did>
+            </c>
+            <c id="ref171" level="file">
+               <did>
+                  <unittitle>Mann, Thomas [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1922-36</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_cdd287230903057387794ebfbe98c5e1"
+                             type="box">6</container>
+                  <container id="aspace_7a4b839df231807cbd444fde2cd28c61"
+                             type="folder"
+                             parent="aspace_cdd287230903057387794ebfbe98c5e1">212</container>
+               </did>
+            </c>
+            <c id="ref172" level="file">
+               <did>
+                  <unittitle>Masereel, Frans</unittitle>
+                  <unitdate type="inclusive">1919-35</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_96734221d1ac66ae1227d93860859b9b"
+                             type="box">6</container>
+                  <container id="aspace_3e1ef0a3bafedf21e19825aae1c571ea"
+                             type="folder"
+                             parent="aspace_96734221d1ac66ae1227d93860859b9b">213-15</container>
+               </did>
+            </c>
+            <c id="ref173" level="file">
+               <did>
+                  <unittitle>Matthias, Leo</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_76be09ebbdbbce3b1f89f0be408614e7"
+                             type="box">6</container>
+                  <container id="aspace_126ffba8b5151a58d2c0daa366c3f8c2"
+                             type="folder"
+                             parent="aspace_76be09ebbdbbce3b1f89f0be408614e7">216</container>
+               </did>
+            </c>
+            <c id="ref174" level="file">
+               <did>
+                  <unittitle>Mehring, Walter</unittitle>
+                  <unitdate type="inclusive">1921-22</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_feead67642ecef2cecc89f62de7e34a5"
+                             type="box">6</container>
+                  <container id="aspace_ceb9422c0e47f710ce7d6daa6814f67e"
+                             type="folder"
+                             parent="aspace_feead67642ecef2cecc89f62de7e34a5">217</container>
+               </did>
+            </c>
+            <c id="ref175" level="file">
+               <did>
+                  <unittitle>Meid, Hans</unittitle>
+                  <unitdate type="inclusive">1921-22</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_f86a3f86d407413abb8b5e515cbd5684"
+                             type="box">6</container>
+                  <container id="aspace_b2ed4b94dbc1ed588b0ebcac476edde8"
+                             type="folder"
+                             parent="aspace_f86a3f86d407413abb8b5e515cbd5684">218</container>
+               </did>
+            </c>
+            <c id="ref176" level="file">
+               <did>
+                  <unittitle>Meidner, Ludwig [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1914-20</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_644112c4f7b60cbaf68dfa2c98498f20"
+                             type="box">6</container>
+                  <container id="aspace_60bdbffa754017c96758d3f62383e10f"
+                             type="folder"
+                             parent="aspace_644112c4f7b60cbaf68dfa2c98498f20">219-20</container>
+               </did>
+            </c>
+            <c id="ref177" level="file">
+               <did>
+                  <unittitle>Meyrink, Gustav</unittitle>
+               </did>
+               <c id="ref178" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1911-23</unitdate>
+                     <container label="Mixed Materials (39002091570870)"
+                                id="aspace_c2480f18b06ad287b34494f9335b0910"
+                                type="box">6</container>
+                     <container id="aspace_a69058a5923fd03a07b83877923eb692"
+                                type="folder"
+                                parent="aspace_c2480f18b06ad287b34494f9335b0910">221-24</container>
+                  </did>
+               </c>
+               <c id="ref179" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Der ewige Jude
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1914?]</unitdate>
+                     <container label="Mixed Materials (39002091570870)"
+                                id="aspace_90c7667ce69b66d7530d42d6858ca126"
+                                type="box">6</container>
+                     <container id="aspace_9e84fd98ccda24b27bf4588042fdd76b"
+                                type="folder"
+                                parent="aspace_90c7667ce69b66d7530d42d6858ca126">225</container>
+                  </did>
+               </c>
+               <c id="ref180" level="file">
+                  <did>
+                     <unittitle>Papers</unittitle>
+                     <unitdate type="inclusive">1916-24</unitdate>
+                     <container label="Mixed Materials (39002091570870)"
+                                id="aspace_f8427649f62b7a9ba3b3cea7cc1702e5"
+                                type="box">6</container>
+                     <container id="aspace_dfa1e598c4b4620dcfee64d6205c4e31"
+                                type="folder"
+                                parent="aspace_f8427649f62b7a9ba3b3cea7cc1702e5">226-28</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref181" level="file">
+               <did>
+                  <unittitle>Molo, Walter von</unittitle>
+                  <unitdate type="inclusive">1916</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_57a2b5157e9c653fdf4f0f1f047f1815"
+                             type="box">6</container>
+                  <container id="aspace_7b8c90d51efb01f21ca24dad5dccefaa"
+                             type="folder"
+                             parent="aspace_57a2b5157e9c653fdf4f0f1f047f1815">229</container>
+               </did>
+            </c>
+            <c id="ref182" level="file">
+               <did>
+                  <unittitle>Mühsam, Erich</unittitle>
+                  <unitdate type="inclusive">1916-21</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_943e08fb3ae19d5609512d9d70c31e77"
+                             type="box">6</container>
+                  <container id="aspace_fd0ef38b3efe2d4314f3ce29d770b20a"
+                             type="folder"
+                             parent="aspace_943e08fb3ae19d5609512d9d70c31e77">230</container>
+               </did>
+            </c>
+            <c id="ref183" level="file">
+               <did>
+                  <unittitle>Muncker, Franz [with transcript]</unittitle>
+                  <unitdate type="inclusive">1916 Apr 20</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_fd265394cf46722bf522c33494a1d5a5"
+                             type="box">6</container>
+                  <container id="aspace_31cfb1f96014843f75b108cd1766f608"
+                             type="folder"
+                             parent="aspace_fd265394cf46722bf522c33494a1d5a5">231</container>
+               </did>
+            </c>
+            <c id="ref184" level="file">
+               <did>
+                  <unittitle>Nauen, Heinrich</unittitle>
+                  <unitdate type="inclusive">1920 Apr 20, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_ef33dd8fd7eb53ec1e28f01033c7ef60"
+                             type="box">6</container>
+                  <container id="aspace_c73b1546353fdbefcf5ee17d6274cf9f"
+                             type="folder"
+                             parent="aspace_ef33dd8fd7eb53ec1e28f01033c7ef60">232</container>
+               </did>
+            </c>
+            <c id="ref185" level="file">
+               <did>
+                  <unittitle>Nexo, Martin Andersen</unittitle>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_5a670076cfe174a081415f424ffb04d0"
+                             type="box">6</container>
+                  <container id="aspace_8b483208d67c672399e73655c8eba1b4"
+                             type="folder"
+                             parent="aspace_5a670076cfe174a081415f424ffb04d0">233</container>
+               </did>
+               <scopecontent id="aspace_58fabac0b5c3a13aa1174cc314da9b59">
+                  <head>Scope and Contents</head>
+                  <p>Empty folder</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_22250abd33d65656718e7d4b2f4fe0a5">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref13">See: Andersen Nexo, Martin Box 1, folder 2a</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref188" level="file">
+               <did>
+                  <unittitle>Nietzsche, Elisabeth Förster-</unittitle>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_6c36ae41fdc86b72441caf6b46566b8c"
+                             type="box">6</container>
+                  <container id="aspace_3a3617e22df0eb46d5ddf959492db5da"
+                             type="folder"
+                             parent="aspace_6c36ae41fdc86b72441caf6b46566b8c">234</container>
+               </did>
+               <scopecontent id="aspace_824862d71d937ad1020bd51f6d14b269">
+                  <head>Scope and Contents</head>
+                  <p>Empty folder</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_b387ddac8749ba142224a4a0dfbb68b1">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref78">See: Förster-Nietzsche, Elisabeth Box 2, folder 71a</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref191" level="file">
+               <did>
+                  <unittitle>Nolde, Emil [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1917-20</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_c7dd8c431f61ae8bcb29b72ca8dfdf5c"
+                             type="box">6</container>
+                  <container id="aspace_47973476a7f3a657da23b973832d5c17"
+                             type="folder"
+                             parent="aspace_c7dd8c431f61ae8bcb29b72ca8dfdf5c">235</container>
+               </did>
+            </c>
+            <c id="ref192" level="file">
+               <did>
+                  <unittitle>Oppenheimer, Max</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_1c7351525f8381f515e1317098f81815"
+                             type="box">6</container>
+                  <container id="aspace_a17d413c93fd201aec16a0c31b0da631"
+                             type="folder"
+                             parent="aspace_1c7351525f8381f515e1317098f81815">236</container>
+               </did>
+            </c>
+            <c id="ref193" level="file">
+               <did>
+                  <unittitle>Paquet, Alfons</unittitle>
+                  <unitdate type="inclusive">1919-22, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_2836d7df8ef58e570465444f16f73977"
+                             type="box">6</container>
+                  <container id="aspace_26a7a24b613856cdcff596ad2e93f826"
+                             type="folder"
+                             parent="aspace_2836d7df8ef58e570465444f16f73977">237-38</container>
+               </did>
+            </c>
+            <c id="ref194" level="file">
+               <did>
+                  <unittitle>Perzynski, Friedrich [with transcript]</unittitle>
+                  <unitdate type="inclusive">1919-23, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_979063ad6f3fb46b2bb3a473aa2a5a19"
+                             type="box">6</container>
+                  <container id="aspace_8f29cde5f45bf78d4f0b2013385ca8ae"
+                             type="folder"
+                             parent="aspace_979063ad6f3fb46b2bb3a473aa2a5a19">239-40</container>
+               </did>
+            </c>
+            <c id="ref195" level="file">
+               <did>
+                  <unittitle>Pinder, Wilhelm</unittitle>
+                  <unitdate type="inclusive">1921-29</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_b9c3e887ef3d7dc308b0e175a4d3403c"
+                             type="box">6</container>
+                  <container id="aspace_f3f5a5cfe71e224c6a857b7a09543625"
+                             type="folder"
+                             parent="aspace_b9c3e887ef3d7dc308b0e175a4d3403c">241-42</container>
+               </did>
+            </c>
+            <c id="ref196" level="file">
+               <did>
+                  <unittitle>Polgar, Alfred [with transcript]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_e7e8365f04f4752932819c0d1206020f"
+                             type="box">6</container>
+                  <container id="aspace_64e756836574220981713a77d2d1b9bb"
+                             type="folder"
+                             parent="aspace_e7e8365f04f4752932819c0d1206020f">243</container>
+               </did>
+            </c>
+            <c id="ref197" level="file">
+               <did>
+                  <unittitle>Pulver, Max [with transcript]</unittitle>
+                  <unitdate type="inclusive">1917, 1930, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_ea33f461afe824a628da8a3d1cba57cf"
+                             type="box">6</container>
+                  <container id="aspace_f68b573498ceb7af748b4b736ff671b8"
+                             type="folder"
+                             parent="aspace_ea33f461afe824a628da8a3d1cba57cf">244</container>
+               </did>
+            </c>
+            <c id="ref198" level="file">
+               <did>
+                  <unittitle>Queri, Georg</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_80a868978b88f4088430838840b83442"
+                             type="box">6</container>
+                  <container id="aspace_935cd3aa4d3137a15eedf00c92a88513"
+                             type="folder"
+                             parent="aspace_80a868978b88f4088430838840b83442">245</container>
+               </did>
+            </c>
+            <c id="ref199" level="file">
+               <did>
+                  <unittitle>Reisiger, Hans</unittitle>
+                  <unitdate type="inclusive">1922</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_5c895ef2ef332e4ac9ef2faf20c9044e"
+                             type="box">6</container>
+                  <container id="aspace_8d702c8164d7ab798c9f01393cbd2083"
+                             type="folder"
+                             parent="aspace_5c895ef2ef332e4ac9ef2faf20c9044e">246</container>
+               </did>
+            </c>
+            <c id="ref200" level="file">
+               <did>
+                  <unittitle>Rilke, Rainer Maria</unittitle>
+                  <unitdate type="inclusive">1913-25</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_8771717d208f636e68496b91ae76e19a"
+                             type="box">6</container>
+                  <container id="aspace_59c6e5a4596faf3d06a59a0d6deaa41a"
+                             type="folder"
+                             parent="aspace_8771717d208f636e68496b91ae76e19a">247-48</container>
+               </did>
+            </c>
+            <c id="ref201" level="file">
+               <did>
+                  <unittitle>Roland-Holst, Henriette</unittitle>
+                  <unitdate type="inclusive">1919-21</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_9adb46fcaa37fa094f09c13297b8590d"
+                             type="box">6</container>
+                  <container id="aspace_0a8d7d75820a62c50f4cd12c587f08d9"
+                             type="folder"
+                             parent="aspace_9adb46fcaa37fa094f09c13297b8590d">249</container>
+               </did>
+            </c>
+            <c id="ref202" level="file">
+               <did>
+                  <unittitle>Rolland, Romain</unittitle>
+                  <unitdate type="inclusive">1919-36</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_2a4162e730762a54d7c386171c8f27d5"
+                             type="box">6</container>
+                  <container id="aspace_22db6e01983c68a45023be0e04a30a9f"
+                             type="folder"
+                             parent="aspace_2a4162e730762a54d7c386171c8f27d5">250-51</container>
+               </did>
+            </c>
+            <c id="ref203" level="file">
+               <did>
+                  <unittitle>Rouveyre, André</unittitle>
+                  <unitdate type="inclusive">1914-25</unitdate>
+                  <container label="Mixed Materials (39002091570870)"
+                             id="aspace_11339405bf9feb93ade03d69f77bb2b1"
+                             type="box">6</container>
+                  <container id="aspace_bf7a9c56421f6b7dd92c041522040256"
+                             type="folder"
+                             parent="aspace_11339405bf9feb93ade03d69f77bb2b1">252-54</container>
+               </did>
+            </c>
+            <c id="ref204" level="file">
+               <did>
+                  <unittitle>Sauerlandt, Max</unittitle>
+                  <unitdate type="inclusive">1917-23</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_a3189cbd2ffbe41ab44c21302a840612"
+                             type="box">7</container>
+                  <container id="aspace_6a888374068111c2b23bf8c7cbdfe26b"
+                             type="folder"
+                             parent="aspace_a3189cbd2ffbe41ab44c21302a840612">255</container>
+               </did>
+            </c>
+            <c id="ref205" level="file">
+               <did>
+                  <unittitle>Scheerbart, Paul</unittitle>
+               </did>
+               <c id="ref206" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1908-11</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_75582be39ce7ff3484b0a94a7b7c9ae1"
+                                type="box">7</container>
+                     <container id="aspace_efbb5281555fba1cb106d0fb8b405ddc"
+                                type="folder"
+                                parent="aspace_75582be39ce7ff3484b0a94a7b7c9ae1">256-60</container>
+                  </did>
+               </c>
+               <c id="ref207" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Das Perpetuum mobile
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1908?], 1910</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_57673878bab37bfb040fa55cabf742f7"
+                                type="box">7</container>
+                     <container id="aspace_23b20ea438a4e5b4aca16a63b0aec553"
+                                type="folder"
+                                parent="aspace_57673878bab37bfb040fa55cabf742f7">261-63</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref208" level="file">
+               <did>
+                  <unittitle>Scheler, Max</unittitle>
+                  <unitdate type="inclusive">1916-17, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_d6abc83578685f31be5fd290e89339df"
+                             type="box">7</container>
+                  <container id="aspace_cd84cdee43092ce39ed494d88ba3ffbc"
+                             type="folder"
+                             parent="aspace_d6abc83578685f31be5fd290e89339df">264</container>
+               </did>
+            </c>
+            <c id="ref209" level="file">
+               <did>
+                  <unittitle>Schickele, René</unittitle>
+               </did>
+               <c id="ref210" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1913-35, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_916c0314788ad0c21941a261ff5413c1"
+                                type="box">7</container>
+                     <container id="aspace_115749b13321c26b0b2c5e8c7905373f"
+                                type="folder"
+                                parent="aspace_916c0314788ad0c21941a261ff5413c1">265-71</container>
+                  </did>
+               </c>
+               <c id="ref211" level="file">
+                  <did>
+                     <unittitle>Papers</unittitle>
+                     <unitdate type="inclusive">1915-33, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_ba69e60df2b3c19d9af4c71076788161"
+                                type="box">7</container>
+                     <container id="aspace_d674867e97dad31ad48836c54dd4cc8e"
+                                type="folder"
+                                parent="aspace_ba69e60df2b3c19d9af4c71076788161">272</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref212" level="file">
+               <did>
+                  <unittitle>Schmidtbonn, Wilhelm August</unittitle>
+               </did>
+               <c id="ref213" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1914-22</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_33fae6b52b6f3a0a86dc0639655ca7bf"
+                                type="box">7</container>
+                     <container id="aspace_29c263389f71ea9dc4b5df02f318bcea"
+                                type="folder"
+                                parent="aspace_33fae6b52b6f3a0a86dc0639655ca7bf">273-74</container>
+                  </did>
+               </c>
+               <c id="ref214" level="file">
+                  <did>
+                     <unittitle>Correspondence and papers</unittitle>
+                     <unitdate type="inclusive">1921-23, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570888)"
+                                id="aspace_ff2dc49ab70bead5c95922793db9c026"
+                                type="box">7</container>
+                     <container id="aspace_c54c02b5191ec1ea656e3b388111117e"
+                                type="folder"
+                                parent="aspace_ff2dc49ab70bead5c95922793db9c026">275</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref215" level="file">
+               <did>
+                  <unittitle>Schmidt-Rottluff, Karl [with some transcripts]</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_eb0d52781a5d224e811a2fd2ddb9fec4"
+                             type="box">7</container>
+                  <container id="aspace_db39cd655559079f6c3f42b507c1b49f"
+                             type="folder"
+                             parent="aspace_eb0d52781a5d224e811a2fd2ddb9fec4">276</container>
+               </did>
+            </c>
+            <c id="ref216" level="file">
+               <did>
+                  <unittitle>Schmitz, Hermann Harry [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1911-13</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_219e84db55814d0b3af357c8000b7ed2"
+                             type="box">7</container>
+                  <container id="aspace_2961764ae83cfa37922f40b0173d0edc"
+                             type="folder"
+                             parent="aspace_219e84db55814d0b3af357c8000b7ed2">277</container>
+               </did>
+            </c>
+            <c id="ref217" level="file">
+               <did>
+                  <unittitle>Schneiderfranken, Joseph</unittitle>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_e04f1d571ff67ce0b038fb0d2bb0a4cf"
+                             type="box">7</container>
+                  <container id="aspace_e56109e491fbccaf627930d3b24ff756"
+                             type="folder"
+                             parent="aspace_e04f1d571ff67ce0b038fb0d2bb0a4cf">278</container>
+               </did>
+               <scopecontent id="aspace_df653017dfb20a24dae616d885e0f4c1">
+                  <head>Scope and Contents</head>
+                  <p>Empty folder</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_b0f97e8c0eb5f6b53408ed42c9813a6d">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref30">See: Bô Yin Râ Box 1, folder 19a</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref220" level="file">
+               <did>
+                  <unittitle>Seewald, Richard [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1916-20</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_841d8a270cafc2649ad11e53786943c8"
+                             type="box">7</container>
+                  <container id="aspace_3d4d455c21bbf40a60ec771619648573"
+                             type="folder"
+                             parent="aspace_841d8a270cafc2649ad11e53786943c8">279</container>
+               </did>
+            </c>
+            <c id="ref221" level="file">
+               <did>
+                  <unittitle>Siemsen, Hans [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_519973e73ff179ddb67779f0f50cb968"
+                             type="box">7</container>
+                  <container id="aspace_95f08905ce28ef319e7b3d472f05af4a"
+                             type="folder"
+                             parent="aspace_519973e73ff179ddb67779f0f50cb968">280</container>
+               </did>
+            </c>
+            <c id="ref222" level="file">
+               <did>
+                  <unittitle>Simmel, Georg</unittitle>
+                  <unitdate type="inclusive">1916-17</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_c8c6ffff94f4ac75bf4e349cf2c56d89"
+                             type="box">7</container>
+                  <container id="aspace_9caeb2b6262b91224ec8115483a73aa8"
+                             type="folder"
+                             parent="aspace_c8c6ffff94f4ac75bf4e349cf2c56d89">281</container>
+               </did>
+            </c>
+            <c id="ref223" level="file">
+               <did>
+                  <unittitle>Spengler, Oswald [with transcript]</unittitle>
+                  <unitdate type="inclusive">1917-23</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_cab8d74e616004f3f797fd5d7bdd908b"
+                             type="box">7</container>
+                  <container id="aspace_d9488e2f942ca05a05aa097b666de9e6"
+                             type="folder"
+                             parent="aspace_cab8d74e616004f3f797fd5d7bdd908b">282</container>
+               </did>
+            </c>
+            <c id="ref224" level="file">
+               <did>
+                  <unittitle>Stadler, Ernst [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1913-14</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_f839b59dac2ae6a7403bb4ed32255e0c"
+                             type="box">7</container>
+                  <container id="aspace_c42ec41fab8fe425e4660f7df474e4b6"
+                             type="folder"
+                             parent="aspace_f839b59dac2ae6a7403bb4ed32255e0c">283-84</container>
+               </did>
+            </c>
+            <c id="ref225" level="file">
+               <did>
+                  <unittitle>Starke, Ottomar</unittitle>
+                  <unitdate type="inclusive">1915-20, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_a31151bc0e1337cdb4ad2e6e75d108f4"
+                             type="box">7</container>
+                  <container id="aspace_40b17608d76f26944b80ec1d2ec3542f"
+                             type="folder"
+                             parent="aspace_a31151bc0e1337cdb4ad2e6e75d108f4">285-86</container>
+               </did>
+            </c>
+            <c id="ref226" level="file">
+               <did>
+                  <unittitle>Sternheim, Carl</unittitle>
+                  <unitdate type="inclusive">1911-18</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_a2d7ab458b8500c217089416a766c2d7"
+                             type="box">7</container>
+                  <container id="aspace_153fc8148990d08290f13f050cd0f3a5"
+                             type="folder"
+                             parent="aspace_a2d7ab458b8500c217089416a766c2d7">287-89</container>
+               </did>
+            </c>
+            <c id="ref227" level="file">
+               <did>
+                  <unittitle>Suarès, André</unittitle>
+                  <unitdate type="inclusive">1922</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_d15b27966506dadfbe7b58c5fd83452e"
+                             type="box">7</container>
+                  <container id="aspace_b24d50a126782a0bca50838232629ceb"
+                             type="folder"
+                             parent="aspace_d15b27966506dadfbe7b58c5fd83452e">290</container>
+               </did>
+            </c>
+            <c id="ref228" level="file">
+               <did>
+                  <unittitle>Tagore, Rabindranath</unittitle>
+                  <unitdate type="inclusive">1914-22</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_024ee06768252bc40f878609b6e8db33"
+                             type="box">7</container>
+                  <container id="aspace_ae92740d98f66b3f082c5c7fdbc6a259"
+                             type="folder"
+                             parent="aspace_024ee06768252bc40f878609b6e8db33">290a</container>
+               </did>
+            </c>
+            <c id="ref229" level="file">
+               <did>
+                  <unittitle>Thoma, Hans</unittitle>
+                  <unitdate type="inclusive">1914 May 15</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_4f6e3b0e85f719b2b1482d62c7792ed4"
+                             type="box">7</container>
+                  <container id="aspace_90d9826022822f68354e13134487b50b"
+                             type="folder"
+                             parent="aspace_4f6e3b0e85f719b2b1482d62c7792ed4">291</container>
+               </did>
+            </c>
+            <c id="ref230" level="file">
+               <did>
+                  <unittitle>Toller, Ernst [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1919-23</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_4120ba71eddcc59a2ba788c34de2cf45"
+                             type="box">7</container>
+                  <container id="aspace_e263c472d8a731a2ea655f8772174303"
+                             type="folder"
+                             parent="aspace_4120ba71eddcc59a2ba788c34de2cf45">292-94</container>
+               </did>
+            </c>
+            <c id="ref231" level="file">
+               <did>
+                  <unittitle>Trakl, Georg [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1913-14</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_7cc3a6b81e2ec021f51937cedea4397a"
+                             type="box">7</container>
+                  <container id="aspace_11855a57b92818adc82610401658fd4b"
+                             type="folder"
+                             parent="aspace_7cc3a6b81e2ec021f51937cedea4397a">295-97</container>
+               </did>
+            </c>
+            <c id="ref232" level="file">
+               <did>
+                  <unittitle>Tzara, Tristan</unittitle>
+                  <unitdate type="inclusive">1919-21</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_52d435e6e6e227533596dcecfa6373ad"
+                             type="box">7</container>
+                  <container id="aspace_13fe6522a8f710fa7833eeef913d8090"
+                             type="folder"
+                             parent="aspace_52d435e6e6e227533596dcecfa6373ad">298</container>
+               </did>
+            </c>
+            <c id="ref233" level="file">
+               <did>
+                  <unittitle>Unold, Max [with transcript]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570888)"
+                             id="aspace_01a01e43bea2ad2f4c1bafb9900b6d6b"
+                             type="box">7</container>
+                  <container id="aspace_883ea57a4bf12a8ba113e7884935fe56"
+                             type="folder"
+                             parent="aspace_01a01e43bea2ad2f4c1bafb9900b6d6b">299</container>
+               </did>
+            </c>
+            <c id="ref234" level="file">
+               <did>
+                  <unittitle>Unruh, Fritz von</unittitle>
+               </did>
+               <c id="ref235" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1916-29, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570896)"
+                                id="aspace_f376f307b9882d9f782b8d150df3e973"
+                                type="box">8</container>
+                     <container id="aspace_bd352b17594796f1b220e80396a68225"
+                                type="folder"
+                                parent="aspace_f376f307b9882d9f782b8d150df3e973">300-14</container>
+                  </did>
+               </c>
+               <c id="ref236" level="file">
+                  <did>
+                     <unittitle>Papers and third party correspondence</unittitle>
+                     <unitdate type="inclusive">1916-25, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570896)"
+                                id="aspace_026b0031393d1e8d89c8e14a082eb228"
+                                type="box">8</container>
+                     <container id="aspace_5b69eb44c0240bf043e0a9ee1c8cb833"
+                                type="folder"
+                                parent="aspace_026b0031393d1e8d89c8e14a082eb228">315</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref237" level="file">
+               <did>
+                  <unittitle>Velde, Henry van de</unittitle>
+                  <unitdate type="inclusive">1918-19</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_3ce6e935d3296ea7c0f57cb2b3f0fdbb"
+                             type="box">8</container>
+                  <container id="aspace_178fb99502b9bec43b3cefcc35e8bd2d"
+                             type="folder"
+                             parent="aspace_3ce6e935d3296ea7c0f57cb2b3f0fdbb">316</container>
+               </did>
+            </c>
+            <c id="ref238" level="file">
+               <did>
+                  <unittitle>Vischer, Robert</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_7df12504375b14cf2073429a60799fd9"
+                             type="box">8</container>
+                  <container id="aspace_33b3ddc1282383999c37a75cae6f9b5c"
+                             type="folder"
+                             parent="aspace_7df12504375b14cf2073429a60799fd9">317</container>
+               </did>
+            </c>
+            <c id="ref239" level="file">
+               <did>
+                  <unittitle>Voigt, Hans Henning, Baron von [Alastair, pseud.]</unittitle>
+               </did>
+               <c id="ref240" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1911-30, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570896)"
+                                id="aspace_e3ece99e47049237f97925d6c3e57662"
+                                type="box">8</container>
+                     <container id="aspace_9761d1f0cb03cdf182bd5a45842d4b99"
+                                type="folder"
+                                parent="aspace_e3ece99e47049237f97925d6c3e57662">318-29</container>
+                  </did>
+               </c>
+               <c id="ref241" level="file">
+                  <did>
+                     <unittitle>Letters from Gabrielle Betz; papers</unittitle>
+                     <unitdate type="inclusive">1920-26, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570896)"
+                                id="aspace_5731988507757e8802191a1fe8e1588c"
+                                type="box">8</container>
+                     <container id="aspace_256da824c6a46b14ff26271d9ae8055d"
+                                type="folder"
+                                parent="aspace_5731988507757e8802191a1fe8e1588c">330</container>
+                  </did>
+               </c>
+               <c id="ref242" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Die Schuldlosen
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570896)"
+                                id="aspace_ca9c1a3e5a243c26ec3a9bcdd72bb1d8"
+                                type="box">8</container>
+                     <container id="aspace_aafd67c84889bc32bcef367fb967cbb3"
+                                type="folder"
+                                parent="aspace_ca9c1a3e5a243c26ec3a9bcdd72bb1d8">331-34</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref243" level="file">
+               <did>
+                  <unittitle>Walser, Robert: correspondence and poem: Handharfe am Tag</unittitle>
+                  <unitdate type="inclusive">1912-19, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_9dbb54e5c3f9ff083cda9e45c3df80a3"
+                             type="box">8</container>
+                  <container id="aspace_e71df991ef4825bb0a8b912da71f4466"
+                             type="folder"
+                             parent="aspace_9dbb54e5c3f9ff083cda9e45c3df80a3">335</container>
+               </did>
+            </c>
+            <c id="ref244" level="file">
+               <did>
+                  <unittitle>Wassermann, Jakob</unittitle>
+                  <unitdate type="inclusive">1910-22</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_5a59fd4c1efb22559bd657d60f5ecb38"
+                             type="box">8</container>
+                  <container id="aspace_b477dd7ef54d50ef75e448e619eef168"
+                             type="folder"
+                             parent="aspace_5a59fd4c1efb22559bd657d60f5ecb38">336</container>
+               </did>
+            </c>
+            <c id="ref245" level="file">
+               <did>
+                  <unittitle>Wedekind, Frank</unittitle>
+                  <unitdate type="inclusive">1912-22</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_f0281e601f347f0d492a57af246ce337"
+                             type="box">8</container>
+                  <container id="aspace_768d02faa21bacd5537e7dad3e332d69"
+                             type="folder"
+                             parent="aspace_f0281e601f347f0d492a57af246ce337">337</container>
+               </did>
+            </c>
+            <c id="ref246" level="file">
+               <did>
+                  <unittitle>Weiss, Emil Rudolf [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1911-16</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_b531a3ff496dabddf4dbd34cfc8ddebb"
+                             type="box">8</container>
+                  <container id="aspace_15dfb5f22ef8ec393c7d806aced27764"
+                             type="folder"
+                             parent="aspace_b531a3ff496dabddf4dbd34cfc8ddebb">338</container>
+               </did>
+            </c>
+            <c id="ref247" level="file">
+               <did>
+                  <unittitle>Weiss, Ernst</unittitle>
+                  <unitdate type="inclusive">1920-22</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_346e0a5e6f2d1404a9629a46e59c649c"
+                             type="box">8</container>
+                  <container id="aspace_50384939e77eadf7dc6c99a267ae57fd"
+                             type="folder"
+                             parent="aspace_346e0a5e6f2d1404a9629a46e59c649c">339</container>
+               </did>
+            </c>
+            <c id="ref248" level="file">
+               <did>
+                  <unittitle>Wells, Catherine; Wells, H.G. (Herbert George)</unittitle>
+                  <unitdate type="inclusive">1921-22</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_8d503b0a9455fe005c0d5dc508f8fc89"
+                             type="box">8</container>
+                  <container id="aspace_12a961c0d98033a3679b25d59e3db65e"
+                             type="folder"
+                             parent="aspace_8d503b0a9455fe005c0d5dc508f8fc89">340-41</container>
+               </did>
+            </c>
+            <c id="ref249" level="file">
+               <did>
+                  <unittitle>Wells, H.G. (Herbert George): papers</unittitle>
+                  <unitdate type="inclusive">1922, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_6b6a713b56499d10c54a3561df61ee90"
+                             type="box">8</container>
+                  <container id="aspace_09343942f35577d9db0825a2c89a086e"
+                             type="folder"
+                             parent="aspace_6b6a713b56499d10c54a3561df61ee90">342</container>
+               </did>
+            </c>
+            <c id="ref250" level="file">
+               <did>
+                  <unittitle>Werfel, Alma</unittitle>
+                  <container label="Mixed Materials (39002091570896)"
+                             id="aspace_a2dcc8009a800fc2d5f883af800233f7"
+                             type="box">8</container>
+                  <container id="aspace_e34512363dabd03d8a57ccce7d2d49c2"
+                             type="folder"
+                             parent="aspace_a2dcc8009a800fc2d5f883af800233f7">343-45</container>
+               </did>
+               <scopecontent id="aspace_5bdae24c22da9d566e2aa3eec6c6d5d5">
+                  <head>Scope and Contents</head>
+                  <p>Empty folders</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_3746ddd363d2d967f1852a76e78dc0f9">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref169">See: Mahler, Alma Box 6, folders 210a-c</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref253" level="file">
+               <did>
+                  <unittitle>Werfel, Franz</unittitle>
+               </did>
+               <c id="ref254" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1912-20</unitdate>
+                     <container label="Mixed Materials (39002091570904)"
+                                id="aspace_de95443675fc5a853b75190d36e2f43f"
+                                type="box">9</container>
+                     <container id="aspace_5657fc3f687ecfd64627ecbf6321cc57"
+                                type="folder"
+                                parent="aspace_de95443675fc5a853b75190d36e2f43f">346-82</container>
+                  </did>
+               </c>
+               <c id="ref255" level="file">
+                  <did>
+                     <unittitle>Correspondence [with transcripts]</unittitle>
+                     <unitdate type="inclusive">1920-38</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_0a785ef538b33c98786eebdaa4ad5d63"
+                                type="box">10</container>
+                     <container id="aspace_569bf654a8525c61bb7d61fcf9ec48aa"
+                                type="folder"
+                                parent="aspace_0a785ef538b33c98786eebdaa4ad5d63">383-91</container>
+                  </did>
+               </c>
+               <c id="ref256" level="file">
+                  <did>
+                     <unittitle>Three poems from <title type="simple" render="italic">
+                           Beschwörungen
+                        </title>: "Ballade von den Begleitern," "Angst," and "Schafe"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_d7d3cf2664ba76dd9ca02ab8141a2f1a"
+                                type="box">10</container>
+                     <container id="aspace_a17476e06b03b3c45f33553f52d705a0"
+                                type="folder"
+                                parent="aspace_d7d3cf2664ba76dd9ca02ab8141a2f1a">392</container>
+                  </did>
+               </c>
+               <c id="ref257" level="file">
+                  <did>
+                     <unittitle>Poems from <title type="simple" render="italic">
+                           Gerichtstag
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_71c4e07fd0eb59a2a21266cdfdb50a55"
+                                type="box">10</container>
+                     <container id="aspace_82cbdd986c9d95478d4306aa47c25234"
+                                type="folder"
+                                parent="aspace_71c4e07fd0eb59a2a21266cdfdb50a55">393-95</container>
+                  </did>
+               </c>
+               <c id="ref258" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Der jüngste Tag
+                        </title> [with transcript]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_378e6ccf0348cee907e410980c8384f6"
+                                type="box">10</container>
+                     <container id="aspace_08a1c68d92fa84dc8c7273ed81122275"
+                                type="folder"
+                                parent="aspace_378e6ccf0348cee907e410980c8384f6">396</container>
+                  </did>
+               </c>
+               <c id="ref259" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Die Troerinnen des Euripides
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1914</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_f4b315c3e9ac5d88229ed97b95b0851a"
+                                type="box">10</container>
+                     <container id="aspace_bdb791d76b290f51cbdaf0438b65a805"
+                                type="folder"
+                                parent="aspace_f4b315c3e9ac5d88229ed97b95b0851a">397-98</container>
+                  </did>
+               </c>
+               <c id="ref260" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Wir Sind
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1914?]</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_fc1ab9b1463a33e638a55c40da5f3e68"
+                                type="box">10</container>
+                     <container id="aspace_26529a548f5cbd7a36289444be543b34"
+                                type="folder"
+                                parent="aspace_fc1ab9b1463a33e638a55c40da5f3e68">399-401</container>
+                  </did>
+               </c>
+               <c id="ref261" level="file">
+                  <did>
+                     <unittitle>"Das Opfer" from <title type="simple" render="italic">
+                           Wir Sind
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1914?]</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_39326f5e468d49cb82d4c011efcaff53"
+                                type="box">10</container>
+                     <container id="aspace_d966f7313cb0cd57afd920381d31448d"
+                                type="folder"
+                                parent="aspace_39326f5e468d49cb82d4c011efcaff53">402-03</container>
+                  </did>
+               </c>
+               <c id="ref262" level="file">
+                  <did>
+                     <unittitle>Table of contents and afterword from <title type="simple" render="italic">
+                           Wir Sind
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">[1914?]</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_beae1a75b553048aed78a5fdd2723bc5"
+                                type="box">10</container>
+                     <container id="aspace_77b936494371aa70d3aceb07957771cb"
+                                type="folder"
+                                parent="aspace_beae1a75b553048aed78a5fdd2723bc5">404</container>
+                  </did>
+               </c>
+               <c id="ref263" level="file">
+                  <did>
+                     <unittitle>Three pencil sketches</unittitle>
+                     <unitdate type="inclusive">[1913?], n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_fc8a8c01a024c2e46d714f649ab157ac"
+                                type="box">10</container>
+                     <container id="aspace_a5952b6a3ab7b2f7d10845cb1a2a69f2"
+                                type="folder"
+                                parent="aspace_fc8a8c01a024c2e46d714f649ab157ac">405</container>
+                  </did>
+               </c>
+               <c id="ref264" level="file">
+                  <did>
+                     <unittitle>Papers and printed poems</unittitle>
+                     <unitdate type="inclusive">1912-17, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_8d18447bef2890d23267dd4d6576ea4d"
+                                type="box">10</container>
+                     <container id="aspace_15addeb529706c1530be3e2b8e2a2dff"
+                                type="folder"
+                                parent="aspace_8d18447bef2890d23267dd4d6576ea4d">406-07</container>
+                  </did>
+               </c>
+               <c id="ref265" level="file">
+                  <did>
+                     <unittitle>Third party correspondence</unittitle>
+                     <unitdate type="inclusive">1914-16</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_a8ca8c936837a0851ad715c7db3887d0"
+                                type="box">10</container>
+                     <container id="aspace_43db7a4918e05e0a299a668a5fe01529"
+                                type="folder"
+                                parent="aspace_a8ca8c936837a0851ad715c7db3887d0">408</container>
+                  </did>
+               </c>
+               <c id="ref266" level="file">
+                  <did>
+                     <unittitle>Third party correspondence; envelopes and miscellaneous</unittitle>
+                     <unitdate type="inclusive">1915-19, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091570912)"
+                                id="aspace_a174bed7ae3de70e5e28a456100c67f5"
+                                type="box">10</container>
+                     <container id="aspace_e28b38603755da254cc98cd66d0ee582"
+                                type="folder"
+                                parent="aspace_a174bed7ae3de70e5e28a456100c67f5">409</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref267" level="file">
+               <did>
+                  <unittitle>Wilhelm, Richard [with transcript]</unittitle>
+                  <unitdate type="inclusive">1928 Jun 12</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_a2c0f681a33d1d2b3363b25374cb4121"
+                             type="box">10</container>
+                  <container id="aspace_201c38a18721080d22858ae8e3833ad8"
+                             type="folder"
+                             parent="aspace_a2c0f681a33d1d2b3363b25374cb4121">410</container>
+               </did>
+            </c>
+            <c id="ref268" level="file">
+               <did>
+                  <unittitle>Wölfflin, Heinrich [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1920-21</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_093279e1b11e1233c5a0f2e189fbd44b"
+                             type="box">10</container>
+                  <container id="aspace_324e979d6294f0b82cac30072fe99661"
+                             type="folder"
+                             parent="aspace_093279e1b11e1233c5a0f2e189fbd44b">411</container>
+               </did>
+            </c>
+            <c id="ref269" level="file">
+               <did>
+                  <unittitle>Wolfenstein, Alfred [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1917</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_e96b767c3a486d092e863135e53ee0d6"
+                             type="box">10</container>
+                  <container id="aspace_346da6c795124f9b4b17f5b0d7f070b9"
+                             type="folder"
+                             parent="aspace_e96b767c3a486d092e863135e53ee0d6">412</container>
+               </did>
+            </c>
+            <c id="ref270" level="file">
+               <did>
+                  <unittitle>Wolfskehl, Karl and Renate</unittitle>
+                  <unitdate type="inclusive">1924-35</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_4db43cb6f5754d9206f815de5dcaa2f3"
+                             type="box">10</container>
+                  <container id="aspace_ece9f029ef48f5e49bc8e8ca1c432844"
+                             type="folder"
+                             parent="aspace_4db43cb6f5754d9206f815de5dcaa2f3">413</container>
+               </did>
+            </c>
+            <c id="ref271" level="file">
+               <did>
+                  <unittitle>Wyneken, Gustav [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1915-22</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_cfbace8897dc5a1f296adc56993b5f40"
+                             type="box">10</container>
+                  <container id="aspace_17e57b3dfbc2077b6ba1dfb94593f129"
+                             type="folder"
+                             parent="aspace_cfbace8897dc5a1f296adc56993b5f40">414</container>
+               </did>
+            </c>
+            <c id="ref272" level="file">
+               <did>
+                  <unittitle>Zech, Paul [with transcripts]</unittitle>
+                  <unitdate type="inclusive">1911-23</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_2d13b0d04a2238eaee6cbf9ed3e5de94"
+                             type="box">10</container>
+                  <container id="aspace_f453ae42ffc1ad4f5081808a65f33800"
+                             type="folder"
+                             parent="aspace_2d13b0d04a2238eaee6cbf9ed3e5de94">415</container>
+               </did>
+            </c>
+            <c id="ref273" level="file">
+               <did>
+                  <unittitle>Zuckmayer, Carl</unittitle>
+                  <unitdate type="inclusive">1920-21</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_bad11f1a2e159ba19b124d898310ccb8"
+                             type="box">10</container>
+                  <container id="aspace_2a780556d404eaa633e774d263fe18ed"
+                             type="folder"
+                             parent="aspace_bad11f1a2e159ba19b124d898310ccb8">416</container>
+               </did>
+            </c>
+            <c id="ref274" level="file">
+               <did>
+                  <unittitle>Zur Mühlen, Hermynia von</unittitle>
+                  <unitdate type="inclusive">1919-23</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_638c496c9c5d0b680aaba15b92014ae9"
+                             type="box">10</container>
+                  <container id="aspace_904d835132ee68d482c26b52cb3d1e7f"
+                             type="folder"
+                             parent="aspace_638c496c9c5d0b680aaba15b92014ae9">417</container>
+               </did>
+            </c>
+            <c id="ref275" level="file">
+               <did>
+                  <unittitle>Zweig, Arnold</unittitle>
+                  <unitdate type="inclusive">1912-14</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_a3bcb0785151f59bd758141b21c8ab91"
+                             type="box">10</container>
+                  <container id="aspace_0fb0f9b61a997c7909abfb143e30a9e7"
+                             type="folder"
+                             parent="aspace_a3bcb0785151f59bd758141b21c8ab91">418</container>
+               </did>
+            </c>
+            <c id="ref276" level="file">
+               <did>
+                  <unittitle>Zweig, Stefan</unittitle>
+                  <unitdate type="inclusive">1911-30</unitdate>
+                  <container label="Mixed Materials (39002091570912)"
+                             id="aspace_a068a56b4a9e0d37afb4e3be67fa2d65"
+                             type="box">10</container>
+                  <container id="aspace_75c340a585ae85c3c73c98b4a79d4567"
+                             type="folder"
+                             parent="aspace_a068a56b4a9e0d37afb4e3be67fa2d65">419</container>
+               </did>
+            </c>
+            <c id="ref277" level="file">
+               <did>
+                  <unittitle>Adminstrative File</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570920)"
+                             id="aspace_436eee915b3f92370e9192d20af84480"
+                             type="box">11</container>
+                  <container id="aspace_3d431b69a229d08a3601c9a7b718e3d9"
+                             type="folder"
+                             parent="aspace_436eee915b3f92370e9192d20af84480">420</container>
+               </did>
+            </c>
+            <c id="ref278" level="file">
+               <did>
+                  <unittitle>Hansenclever, Walter Adminstrative File</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091570920)"
+                             id="aspace_097eeb5928e5834cbd8c3ec97d2a4888"
+                             type="box">11</container>
+                  <container id="aspace_24d7690487dbf31d5501f72b9ef3367c"
+                             type="folder"
+                             parent="aspace_097eeb5928e5834cbd8c3ec97d2a4888">421</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

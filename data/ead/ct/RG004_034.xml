@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004_034.html" countrycode="us">RG004_034</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:034, Danbury Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">June 16, 2011</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2011</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>June 16, 2011</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (Danbury)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Danbury Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1756/1891">1756-1891</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">21 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Record books, none; Probate files, 1756-1891.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_034</unitid>
+	<unitid label="Accession: ">1933-003</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Danbury, Fairfield County, Town settled in 1685, named October 1687, City incorporated January 1889
+</p>
+<p>
+The Danbury Probate District was constituted May 1744, from the Fairfield Probate District. The Danbury Probate District serves the municipality of Danbury. At one time it also served the
+towns of Bethel, May 1855 - July 3, 1859; Brookfield, May 1788 - May 1820; New Fairfield, May 1744 - January 6, 1975; Newtown, May 1744 - May 1820; Redding, January 1782 - May 23, 1839; Ridgefield, October 1746 - June 9, 1841.
+</p>
+<p>
+City of Danbury, Probate District chronology:
+</p>
+<p>
+October 1687 - May 1744, Fairfield District<lb/>
+May 1744 - Present, Danbury District
+</p>
+
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+
+	<p>Probate record books, None. Contact the probate court to access original record books. See Alternative Form Available note below. </p>
+
+	<p>Probate files, 1756-1891. Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. See Alternative Form Available note below.</p> 
+
+	<p>Inventory control book, 1756-1891 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+
+</scopecontent> 
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Probate files are arranged alphabetically in one series.</p>
+</arrangement>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in Accession 1933-003 are represented in this index.
+</p>
+</otherfindaid>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Bethel</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Brookfield</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Danbury</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- New Fairfield</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Newtown</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Redding</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Ridgefield</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Bethel (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Brookfield (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Danbury (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">New Fairfield (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Newtown (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Redding (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Ridgefield (Conn.)</geogname>
+	</controlaccess>
+	
+
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, volumes 1-76, 1739-1916, except for volumes 27, 29, 31, 35, 37, 40, 43, 46, 48, 51, 55-56, 58, 60, 62, 64, 67, 70, 72, 75; probate files, 1756-1891, and inventory control book (Godard Digest) were microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>
+The probate files in accession 1933-003 were transferred to the Connecticut State Library on the following dates (with date span of files): November 29, 1933 (1756-1891); January 18, 1934 (1756-1891). They were interfiled into
+one alphabetic sequence. 
+
+</p>
+
+</acqinfo>
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1756/1891">1756-1891</unitdate>
+	<physdesc><extent>21 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1933-003</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Drawer</entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Drawer">1</container>
+	<unittitle>Abbott - Barberry, B.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">2</container>
+	<unittitle>Barberry, C. - Beers, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">3</container>
+	<unittitle>Beers, I. - Botsford, F.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">4</container>
+	<unittitle>Botsford, G. - Cogswell</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">5</container>
+	<unittitle>Cohen - Dibble, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">6</container>
+	<unittitle>Dibble, I. - Gardner</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">7</container>
+	<unittitle>Garrett - Hatch, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">8</container>
+	<unittitle>Hatch, K. - Hubble, Q.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">9</container>
+	<unittitle>Hubble, R. - Keeler, T.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">10</container>
+	<unittitle>Keeler, U. - Mallory, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">11</container>
+	<unittitle>Mallory, E. - Northrop, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">12</container>
+	<unittitle>Northrop, F. - Pierce, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">13</container>
+	<unittitle>Pierce, M. - Sanford, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">14</container>
+	<unittitle>Sanford, K. - Smith, C.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">15</container>
+	<unittitle>Smith, D. - Smith, John</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">16</container>
+	<unittitle>Smith, Jonah - Sparks</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">17</container>
+	<unittitle>Spencer - Starr, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">18</container>
+	<unittitle>Starr, E. - Starr, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">19</container>
+	<unittitle>Starr, N. - Stebbins</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">20</container>
+	<unittitle>Stedman - Stevens, I.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">21</container>
+	<unittitle>Stevens, J. - Stevens, T.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">22</container>
+	<unittitle>Stevens, U. - Stone, T.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">23</container>
+	<unittitle>Stone, U. - Sturges, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">24</container>
+	<unittitle>Sturges, K. - Taylor, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">25</container>
+	<unittitle>Taylor, F. - Taylor, P.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">26</container>
+	<unittitle>Taylor, Q. - Tivenin</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">27</container>
+	<unittitle>Tobias - Turkington</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">28</container>
+	<unittitle>Turner - Viel</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">29</container>
+	<unittitle>Vincent - Washburn, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">30</container>
+	<unittitle>Washburn, E. - Wellman</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">31</container>
+	<unittitle>Wells - White, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">32</container>
+	<unittitle>White, F. - Whitlock, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">33</container>
+	<unittitle>Whitlock, N. - Wildman, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">34</container>
+	<unittitle>Wildman, F. - Wildman, S.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">35</container>
+	<unittitle>Wildman, T. - Wilson, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">36</container>
+	<unittitle>Wilson, F. - Wood, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">37</container>
+	<unittitle>Wood, S. - Zorkowski; Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1756-1891</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the two accessions of probate files now merged into accession 1933-003</p></note> 
+	<note><p>Date span is coverage</p></note>
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

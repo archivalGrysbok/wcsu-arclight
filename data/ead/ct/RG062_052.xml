@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG062_052.html" countrycode="us">RG062_052</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 062:052, Town of Farmington</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">September 04, 2007</date>
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2007</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>September 04, 2007</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Farmington (Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Town of Farmington records</unittitle>
+
+	<unitdate label="Dates:" normal="1722/1940" datechar="creation" encodinganalog="245$f" certainty="approximate">circa 1722-1940</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">29 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Administrative, election, military, tax, school, court, and vital records for the town of Farmington.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG062_052</unitid>
+	<unitid label="Accession: ">T000351</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The town of Farmington was named and incorporated in December 1645. The Town of Farmington, Borough of Unionville and Borough of Farmington were consolidated in 1947.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Administrative, election, military, tax, school, court, and vital records for the town of Farmington.
+</p>
+</scopecontent>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+	
+
+	<controlaccess>
+		<head>Alternate creator:</head>
+			<corpname encodinganalog="710" source="local">Connecticut. Justice of the Peace (Farmington)</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Elections -- Connecticut -- Farmington -- Statistics</subject>
+			<subject encodinganalog="650" source="lcsh">Voting -- Connecticut -- Farmington -- Statistics</subject>
+			<subject encodinganalog="650" source="lcsh">Soldiers -- Connecticut -- Farmington</subject>
+			<subject encodinganalog="650" source="lcsh">Public welfare -- Connecticut -- Farmington</subject>
+			<subject encodinganalog="650" source="lcsh">Tax assessment -- Connecticut -- Farmington -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Taxation -- Connecticut -- Farmington -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Local taxation -- Connecticut -- Farmington -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Property tax -- Connecticut -- Farmington -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Deeds -- Connecticut -- Farmington</subject>
+			<subject encodinganalog="650" source="lcsh">Voting registers -- Connecticut -- Farmington</subject>
+			<subject encodinganalog="650" source="lcsh">School enrollment -- Connecticut -- Farmington -- Statistics</subject>
+			<subject encodinganalog="650" source="lcsh">Justices of the peace -- Connecticut -- Farmington</subject>
+			<subject encodinganalog="650" source="lcsh">Writs -- Connecticut -- Farmington</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Farmington (Conn.) -- Records and correspondence</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Farmington (Conn.) -- Statistics, Vital</geogname>
+	</controlaccess>
+	
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1722/1940" certainty="approximate">circa 1722-1940</unitdate>
+ </did>	
+<c02 level="file">
+ <did>
+	<container type="Box">Box 1</container>
+	<unittitle>Town meeting records, including calls, minutes, petitions, reports, orders to selectmen, votes, elections, broadsides about order of doing business at town meeting</unittitle>
+	<unitdate datechar="creation">1774-1878</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 2</container>
+	<unittitle>Certificates of admissions as electors</unittitle>
+	<unitdate datechar="creation">1841-1870</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 3</container>
+	<unittitle>Oaths and certificates of town officers</unittitle>
+	<unitdate datechar="creation">1868-1892</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 3</container>
+	<unittitle>Overseers' appointments</unittitle>
+	<unitdate datechar="creation">1772-1894</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 3</container>
+	<unittitle>Liquor dealer bonds</unittitle>
+	<unitdate datechar="creation">1815-1823</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 3</container>
+	<unittitle>Liquor and tavern license applications</unittitle>
+	<unitdate datechar="creation">1832-1888</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 3</container>
+	<unittitle>"New Burial Ground" records</unittitle>
+	<unitdate datechar="creation">1835-1844</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 4</container>
+	<unittitle>Transfers of stock, company reports, annual statements of business</unittitle>
+	<unitdate datechar="creation">1833-1888</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 4</container>
+	<unittitle>Military records, including Committee of Supply records, and enrollment</unittitle>
+	<unitdate datechar="creation">1812-1880</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 5</container>
+	<unittitle>Election returns</unittitle>
+	<unitdate datechar="creation">1793-1890</unitdate>
+ </did>
+</c02>	
+<c02 level="file">
+ <did>
+	<container type="Box">Box 6</container>
+	<unittitle>Correspondence regarding care of paupers</unittitle>
+	<unitdate datechar="creation">1811-1869</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 7</container>
+	<unittitle>Indentures and bonds for support of the poor</unittitle>
+	<unitdate datechar="creation">1799-1828</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 8</container>
+	<unittitle>Board of Relief records</unittitle>
+	<unitdate datechar="creation">1840-1896</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 9</container>
+	<unittitle>Grand lists or abstracts of tax returns as sent to the General Assembly or Comptroller</unittitle>
+	<unitdate datechar="creation">1855-1894</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 9</container>
+	<unittitle>Tax Lists</unittitle>
+	<unitdate datechar="creation">1817-1819</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 9</container>
+	<unittitle>Abatements and polls</unittitle>
+	<unitdate datechar="creation">1825-1869</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 10-18</container>
+	<unittitle>Individual tax returns</unittitle>
+	<unitdate datechar="creation">1826-1880</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 19</container>
+	<unittitle>Highway and bridge records, including correspondence, reports, surveys, petitions, writs, deeds</unittitle>
+	<unitdate datechar="creation">1722-1880</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 20-21</container>
+	<unittitle>Bank and insurance company returns</unittitle>
+	<unitdate datechar="creation">1827-1895</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 22</container>
+	<unittitle>Town deeds</unittitle>
+	<unitdate datechar="creation">1748-1783</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 23-25</container>
+	<unittitle>Recorded deeds</unittitle>
+	<unitdate datechar="creation">1753-1894</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>Fire company lists</unittitle>
+	<unitdate datechar="creation">1854-1884</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>Board of Health minutes, reports, correspondence and certificates</unittitle>
+	<unitdate datechar="creation">1887-1893</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>First Ecclesiastical Society Fund records</unittitle>
+	<unitdate datechar="creation">1821-1839</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>Reports of stray animals</unittitle>
+	<unitdate datechar="creation">1804-1830</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>Dog registry</unittitle>
+	<unitdate datechar="creation">1859-1892</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>School Society orders</unittitle>
+	<unitdate datechar="creation">1840-1842</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 26</container>
+	<unittitle>Reports of births, marriages, deaths and burials</unittitle>
+	<unitdate datechar="creation">1851-1896</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 27</container>
+	<unittitle>Register of real estate transfers</unittitle>
+	<unitdate datechar="creation">1871-1895</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 28-29</container>
+ 	<unittitle>Town accounts, statements of income and expenses correspondence, applications, warrants, constable's bond, reports</unittitle>
+	<unitdate datechar="creation">1813-1896</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 28-29</container>
+	<unittitle>Treasurer's account with Park Fund</unittitle>
+	<unitdate datechar="creation">1880</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 28-29</container>
+	<unittitle>Borough Treasurer's account book</unittitle>
+	<unitdate datechar="creation">1901-1937</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 28-29</container>
+	<unittitle>Financial records of Henry Deming, Borough Treasurer</unittitle>
+	<unitdate datechar="creation">1920-1940</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 30</container>
+	<unittitle>Cancelled checks, orders paid</unittitle>
+	<unitdate datechar="creation">1824-1879</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 31-32</container>
+	<unittitle>Bills, receipts, and orders paid</unittitle>
+	<unitdate datechar="creation">1781-1896</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 33-35</container>
+	<unittitle>Registry lists and voting checklists</unittitle>
+	<unitdate datechar="creation">1836-1890</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 36-37</container>
+	<unittitle>School returns, visitors' reports, school district tax lists, Bills, orders, receipts, and instructions to the committee</unittitle>
+	<unitdate datechar="creation">1812-1887</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 36-37</container>
+	<unittitle>Northeast School District register</unittitle>
+	<unitdate datechar="creation">1850-1851</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Box 38</container>
+	<unittitle>Bills, receipts, indentures, crow bounty accounts, grand list, reports, petitions, returns, resolutions, legal records, printed town charter, justice of the peace records, road and highway records, and published annual reports</unittitle>
+	<unitdate datechar="creation">1783-1935</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">Boxes 39a-42</container>
+	<unittitle>Justice Court records, including writs, certificates, Judgments, executions</unittitle>
+	<unitdate datechar="creation">1775-1894</unitdate>
+ </did>	
+</c02>
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

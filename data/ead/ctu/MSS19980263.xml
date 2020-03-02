@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-CtU" countrycode="US">MSS19980263</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>University of Connecticut</titleproper>
+		<subtitle>Committee on Degrees with Distinctions Records</subtitle>
+		<author>Finding aid prepared by Betsy Pittman.</author>
+</titlestmt>
+<publicationstmt>
+	<publisher>&#x00A9; 2004 University of Connecticut</publisher>
+	<date type="publication">November 2004</date>
+
+	<address><addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1><addressline2>405 Babbidge Road, Unit 1205</addressline2><addressline3>Storrs, Connecticut  06269-1205</addressline3></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Betsy Pittman in November 2004.</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center.</corpname>
+		</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">University of Connecticut.</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">University of Connecticut, Committee on Degrees with Distinction Records.</unittitle>
+
+	<unitdate label="Dates:">1930-1948.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.75 linear feet.</physdesc>
+
+		<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="UCW">MSS19980263</unitid>
+
+	<langmaterial><language>English</language>.
+	</langmaterial>
+<abstract encodinganalog="520$a" label="Abstract:">The collection contains memoranda, minutes, examinations and questions pertaining to the development of a comprehensive examination program at the University of Connecticut for undergraduates culminating in the ability of students to graduate with distinction from their degree programs.</abstract>
+
+
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>History</head>
+	<p>In 1931, the faculty of the University of Connecticut voted to offer comprehensive examinations in most degree programs to graduating seniors, and outgrowth of a report to the Committee on the Study of Honors (11/6/1930).  The departments reported the results of the examinations and their recommendations to the Registrar and the Committees on Scholastic Standing and Degrees with Distinction.  Degrees would then be awarded without distinction, with distinction or with highest distinction.</p>
+<p>The program was administered and coordinated by the Registrar's Office in conjunction with the two faculty committees mentioned.  It is unclear as to whether the Committee on Degrees with Distinction was independent or associated with the Provost's Office and/or the Faculty Senate.  The Committee on Scholastic Standing was, and still is,  a permanent committee of the Faculty <extref href="http://senate.uconn.edu/">Senate</extref>.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection contains memoranda, minutes, examinations and questions pertaining to the development of a comprehensive examination program at the University of Connecticut for undergraduates.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p></p>
+<p><emph render="bold">Series I: Committee Records</emph> (<date>1930-1948</date>) includes correspondence, memoranda, minutes, and examinations (all stages) pertaining to the establishment of a mechanism to award degrees within departments and schools that recognized the intellectual quality of the student.  The files are arranged chronologically.</p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to the University, its history, faculty, staff and students. See especially, the George S. Torrey Papers, Registrar's Office Records (portions restricted), and University Senate Records. For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		
+		<controlaccess>
+			<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">University of Connecticut. Administration.</corpname>
+	<corpname encodinganalog="710" source="local">Connecticut State College.</corpname>
+		</controlaccess>
+		
+		
+		<controlaccess>
+			<head>Places:</head>
+			<geogname encodinganalog="651" source="local">Storrs (Conn.)--Education--Universities and colleges.</geogname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Degrees, Academic--Connecticut.</subject>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+<genreform encodinganalog="655" source="local">Memoranda.</genreform>
+<genreform encodinganalog="655" source="local">Minutes.</genreform>
+<genreform encodinganalog="655" source="local">School Records.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+<genreform encodinganalog="655" source="local">Examinations.</genreform>
+		</controlaccess>
+		</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#], University of Connecticut, Committee on Degrees with Distinction Records.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>Unknown.  The possibility exists that these records were transferred to the University Archives as a single unit but associated with any one (or more) of the following collections:  George S. Torrey Papers; University Senate Records, President's Office Records, and/or Registrar's Office Records.</p>
+
+</acqinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+
+<c01 level="series">
+   <did>
+	<unittitle> Series I: Committee Records, </unittitle>
+	<unitdate>1930-1948</unitdate>
+    </did>	
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder"></container>
+	<unittitle></unittitle>
+	<unitdate>1930-1931</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">2</container>
+	<unittitle></unittitle>
+	<unitdate>1931-1932</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">3</container>
+	<unittitle></unittitle>
+	<unitdate>1932-1933</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">4</container>
+	<unittitle></unittitle>
+	<unitdate>1933-1934</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">5</container>
+	<unittitle></unittitle>
+	<unitdate>1934-1935</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">6</container>
+	<unittitle></unittitle>
+	<unitdate>1935-1936</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">7</container>
+	<unittitle></unittitle>
+	<unitdate>1936-1937</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">8</container>
+	<unittitle></unittitle>
+	<unitdate>1937-1938</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">9</container>
+	<unittitle></unittitle>
+	<unitdate>1938-1939</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">10</container>
+	<unittitle></unittitle>
+	<unitdate>1939-1940</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">11</container>
+	<unittitle></unittitle>
+	<unitdate>1940-1941</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">12</container>
+	<unittitle></unittitle>
+	<unitdate>1941-1942</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">13-15</container>
+	<unittitle></unittitle>
+	<unitdate>1942-1943</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">16</container>
+	<unittitle></unittitle>
+	<unitdate>1943-1944</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">17</container>
+	<unittitle></unittitle>
+	<unitdate>1944-1945</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">18</container>
+	<unittitle></unittitle>
+	<unitdate>1945-1946</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">19-21</container>
+	<unittitle></unittitle>
+	<unitdate>1946-1947</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">22</container>
+	<unittitle></unittitle>
+	<unitdate>1947-1948</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">4:</container>
+	<container type="Folder">23-24</container>
+	<unittitle></unittitle>
+	<unitdate>1947-1948</unitdate>
+    </did>	
+</c02>
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-99::Alfred S. Roe Civil War Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ro1000-99.html">ro1000-99</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Alfred S. Roe Civil War Papers,
+		<lb/><date normal="1862/1892">1862 - 1865, 1891-1892</date>
+		</titleproper>
+        <author>Processed by: Linda Hurteau; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: September 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Alfred S. Roe Civil War Papers, <date type="span">1862 - 1865, 1891-1892</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Roe, Alfred S. (Alfred Seelye), 1844-1917.</persname></origination><unittitle label="Title" encodinganalog="245">Alfred S. Roe Civil War Papers, <unitdate normal="1862/1892" type="inclusive">1862 - 1865, 1891-1892</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-99</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.5</extent></physdesc><physdesc label="Archival Boxes"><extent>2</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Alfred S. Roe served with Company A, Ninth New York Heavy Artillery, from January 1864 to June 1865. Roe was captured in the Battle of Monocacy, Maryland, July 9, 1864, and was imprisoned at Danville, Virginia, for nearly eight months. He then attended Wesleyan University, from which he graduated 1870.</abstract><abstract encodinganalog="520">This collection contains a first hand account of a Civil War soldier and prisoner. The manuscript narrative gives details of Alfred S. Roe's experience in the Army and in prison, his travels, fellow soldiers, officers, and their conversations. Included in box 2 are Alfred Roe's letters to his parents, brothers, sister, aunt and uncle, and dear friend. There is also correspondence to Alfred Roe's parents from fellow soldier H. Hill Wheeler when Alfred went missing and again when he (Wheeler) learns Alfred is a prisoner.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Alfred S. Roe Civil War Papers, Collection #1000-99, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Purchased from Cedric L. Robinson Bookseller, Windsor, CT, in 1967. </p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Linda Hurteau, August 2006</p>
+        <p>Encoded by Valerie Gillispie, September 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Alfred S. Roe was a 20-year-old schoolteacher in Middleville, Herkimer Co., New York when he enlisted in the war. He was the son of a Methodist minister. He served with Company A, Ninth New York Heavy Artillery, from January 1864 to June 1865. Roe was captured by Early's troops in the Battle of Monocacy, Maryland, July 9, 1864, and was imprisoned at Danville, Virginia, for nearly eight months. He then attended Wesleyan University, from which he graduated 1870. After graduating from Wesleyan, Alfred Roe went on to be principal of the high schools in Ashland, MA and Worcester, MA. He served as a representative in the Massachusetts Legislature and as a state senator. He also authored <title render="italic">Histories of Rose, N.Y.</title>, <title render="italic">Worcester in the Spanish War</title> and edited <title render="italic">Worcester Light</title> and <title render="italic">Worcester Magazine</title>. He married Nora A. Metcalf of Ashland, MA on June 22, 1874, and they had four children.
+
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This collection contains a first hand account of a Civil War soldier and prisoner. The manuscript narrative gives details of Alfred S. Roe's experience in the Army and in prison, his travels, fellow soldiers, officers, and their conversations. Included in box 2 are Alfred Roe's letters to his parents, brothers, sister, aunt and uncle, and dear friend. There is also correspondence to Alfred Roe's parents from fellow soldier H. Hill Wheeler when Alfred went missing and again when he (Wheeler) learns Alfred is a prisoner.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <persname source="lcnaf" encodinganalog="600">Roe, Alfred S. (Alfred Seelye), 1844-1917. </persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae. </corpname>
+      <corpname source="lcnaf" encodinganalog="651">United States--History--Civil War, 1861-1865.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Danville Prison. </corpname>
+      <geogname source="lcnaf" encodinganalog="651">United States--History--Civil War, 1861-1865--Prisoners and prisons. </geogname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Army. New York Heavy Artillery Regiment, 9th (1862-1865)</corpname>
+      <geogname source="lcnaf" encodinganalog="651">United States--History--Civil War, 1861-1865--Personal narratives. </geogname>
+      <subject source="lcsh" encodinganalog="650">Monocacy, Battle of, Md., 1864. </subject>
+      <subject source="lcsh" encodinganalog="650">Soldiers--New York (State)--Correspondence. </subject>
+      <persname source="lcnaf" encodinganalog="600">Wheeler, H. Hill.</persname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Enlistment Rosters, Rose, New York, 1862</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Manuscript, <title render="italic">Narrative of Service as a Private, Company A, Ninth 
+New York Heavy Artillery</title>, by Alfred Seelye Roe, 1865 June, 248 pgs.
+</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">See transcript in Box 1, Folder 3.</emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Typed Transcription of <title render="italic">Narrative of Service as a Private</title> by Alfred Seelye Roe, given by Kate Thornburg, Class of 2005
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Dr. Dame, Episcopal Rector photograph</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle><title render="doublequote">In a Rebel Prison : Or Experiences in Danville, VA,</title> by Alred S. Roe, Providence; Soldiers' and Sailors' Historical Society of Rhode Island, Personal Narratives: Fourth Series, No. 16, 1891
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle><title render="doublequote">Richmond, Annapolis, and Home,</title> by Alred S. Roe,	Providence; Soldiers' and Sailors' Historical Society of Rhode Island, Personal Narratives: Fourth Series, No. 17, 1892</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Two leters from Alfred S. Roe to his parents, February 9, 1864 and March ?, 1864
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Letter from A.S. Roe to his Aunt &amp; Uncle, March 16, 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Letter from A.S. Roe to his parents, May 11, 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Letter from A.S. Roe to his parents, brothers &amp; sister, July 2, 1864</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">See transcript in Box 2, Folder 11.</emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from A.S. Roe to his Dear Friend Lawrence, July 2, 1864</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">See transcript in Box 2, Folder 12.</emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Letter to A.S. Roe's father from fellow soldier H. Hill Wheeler, Jr., July 12, 1864, saying he was missing
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Letter from A.S. Roe to his parents when he was a prisoner, July 31, 1864
+</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">See transcript in Box 2, Folder 11.</emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Letter from H.H. Wheeler to A.S. Roe's parents, September 8, 1864</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>U.S. Christian Commission, Report on A.S. Roe's Imprisonment to his family, Oct. 23, 1864
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Letter from A.S. Roe to Aunt &amp; Uncle, April 18, 1865</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Three letters from A.S. Roe to his parents, May 1865, June 9, 1865, July 30, 1865
+</unittitle>
+          </did>
+          <scopecontent>
+            <p>
+              <emph render="italic">See transcript of June 9 letter in Box 2, Folder 11.</emph>
+            </p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Three typed transcripts of letters from A.S. Roe to his parents,
+July 2, 1864 (original in Box 2, Folder 4), July 31, 1864 (original in Box 2, Folder 6), June 9, 1865 (original in Box 2, Folder 10)
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Typed transcript letter from A.S. Roe to Dear Friend Lawrence, July  2, 1864 (original in Box 2, Folder 4)
+</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

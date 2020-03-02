@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG074_034.html" countrycode="us">RG074_034</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 074:034, Lawrence Van Alstyne Notebooks on the Ogden Family</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">February 18, 2009</date>
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2009</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>February 18, 2009</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Van Alstyne, Lawrence, 1839-</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Lawrence Val Alstyne notebooks on the Ogden family</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1891/1911">1891-1911</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Genealogical notes on the Ogden Family collected from various sources in Connecticut, New York and New Jersey.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG074_034</unitid>
+	<unitid label="Accession: ">1942-014</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>
+Lawrence Van Alstyne was born in 1839 and lived in Sharon, Conn. He died on November 30, 1923.
+</p>
+<p>
+Van Alstyne authored: <emph render="italic">Born, married and died, in Sharon, Connecticut : a record of births, marriages and deaths, in the town of Sharon, Conn.,from 1721 to 1879. Taken from the ancient land and church records and other authentic sources </emph>(1897); 
+<emph render="italic">Lambert Janse Van Alstyne and some of his descendents </emph>(1897); <emph render="italic">Burying Grounds Of Sharon, Connecticut, Amenia And North East, New York </emph>(1903); <emph render="italic">Diary of an enlisted man </emph>(1910); <emph render="italic">Manufacturing in Sharon </emph>(Orig. 1912); <emph render="italic">Merchants of Sharon : history concerning the merchants of the town of Sharon, Connecticut </emph>(Orig. 1915) and co-edited <emph render="italic">Ogden family in America : Elizabethtown branch and their English ancestry: John Ogden, the Pilgrim, and his descendants, 1640-1906; their history, biography &amp; genealogy </emph>(1907).
+
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content</head>
+<p>
+Genealogical notes on the Ogden Family collected from various sources in Connecticut, New York and New Jersey.
+Included are three indexes: Births and deaths; Marriages; Mentions in notebooks 1 to 25.
+</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>
+Ogden family : History and Genealogy Unit Special Genealogical File, 1949-circa 1999 <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=51051695" show="replace" actuate="onrequest" title="[CSL call number StLib History Reference Spec.Gen.File Ogden]"/>
+</p>
+</relatedmaterial>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+
+ <controlaccess>
+ <head>Persons:</head>
+			<persname encodinganalog="700" source="lcnaf">Van Alstyne, Lawrence, 1839-</persname>
+	</controlaccess>
+
+ <controlaccess>
+ <head>Family Names:</head>
+ <famname encodinganalog="600" source="lcnaf" role="subject">Ogden family</famname>
+ </controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" source="lcsh">Connecticut -- Genealogy</geogname>
+			<geogname encodinganalog="651" source="lcsh">New Jersey -- Genealogy</geogname>
+			<geogname encodinganalog="651" source="lcsh">New York -- Genealogy</geogname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Notebooks</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Notebooks</unittitle>
+	<unitdate datechar="creation" normal="1891-1911">1891-1911</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 2</unittitle>
+	<unitdate datechar="creation">1891 October 10 - 1891 October 20</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 5</unittitle>
+	<unitdate datechar="creation">1891 December 16 - 1892 May 3</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Numbers 6-7</unittitle>
+	<unitdate datechar="creation">1892 January 30 - July 17</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unittitle>Number 8</unittitle>
+	<unitdate datechar="creation">1892 August 1 - December 2</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 9</unittitle>
+	<unitdate datechar="creation">1892 October 26 - 1983 July</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 9 1/2</unittitle>
+	<unitdate datechar="creation">1892 October 10</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unittitle>Number 10</unittitle>
+	<unitdate datechar="creation">1893 February 2 - 1894 February 1</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 11</unittitle>
+	<unitdate datechar="creation">1893 March 3 - 1894 April 2</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Number 12</unittitle>
+	<unitdate datechar="creation">1893 July 6 - 1894 July 25</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Notes from L.V.A.'s note books 1 to 30 copied by R.E.G.</unittitle>
+	<unitdate datechar="creation">1898</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 13</unittitle>
+	<unitdate datechar="creation">1893 July 17 - 1894 March 29</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 14</unittitle>
+	<unitdate datechar="creation">1893 December 12 - 1899 June 9</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 15</unittitle>
+	<unitdate datechar="creation">1894 May 7 - June 12</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 16</unittitle>
+	<unitdate datechar="creation">1894 February 7 - 29</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 17</unittitle>
+	<unitdate datechar="creation">1894 March 2 - 17</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 18</unittitle>
+	<unitdate datechar="creation">1895 November 20 - 1896 January 31</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 19</unittitle>
+	<unitdate datechar="creation">1896 February 6 - 13</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 20</unittitle>
+	<unitdate datechar="creation">1896 February 25-27</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 21</unittitle>
+	<unitdate datechar="creation">1893 September 26 - 1894 February 10</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 22</unittitle>
+	<unitdate datechar="creation">1893 November 21 - 28</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 23</unittitle>
+	<unitdate datechar="creation">1895</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 24</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 25</unittitle>
+	<unitdate datechar="creation">1895 April 9 - 1896 May 29</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 26</unittitle>
+	<unitdate datechar="creation">1895 April 14 - 1900 September 20</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 27</unittitle>
+	<unitdate datechar="creation">1896 September 16 - 1911 June 26</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 29</unittitle>
+	<unitdate datechar="creation">1896 September 16 - 1897 September 22</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Number 30</unittitle>
+	<unitdate datechar="creation">1898 January 7 - May 20</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Indexes</unittitle>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Births and deaths</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Marriages</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Mentions in notebooks 1 to 25</unittitle>
+ </did>	
+</c03>
+
+</c02>
+	
+
+</c01>
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

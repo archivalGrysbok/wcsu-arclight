@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1"
+        dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="cthpl"
+            url="http://hhc2.hplct.org/voter_registration.html">voter_registration</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Hartford Voter Registration Records</titleproper>
+                <subtitle encodinganalog="245$b">A Guide to the collection at the Hartford History
+                    Center</subtitle>
+                <author>Kathy Foulke</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hartford History Center, Hartford Public Library</publisher>
+                <address>
+          <addressline>500 Main Street</addressline>
+          <addressline>Hartford, CT 06103</addressline>
+        </address>
+                <p>Copyright 2018, Hartford Public Library</p>
+                <date>May 2018</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Created by Kathy Foulke, <date>May 2018</date>.</creation>
+            <langusage>Finding aid is in English.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Collection Overview</head>
+            <repository encodinganalog="852$a" label="Repository:">
+                <corpname>Hartford History Center, Hartford Public Library </corpname>
+                <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+            </repository>
+            <origination encodinganalog="110" label="Creator :">Hartford Registrar of Voters</origination>
+            <unittitle encodinganalog="245$a" label="Title :">Hartford voter registration records</unittitle>
+            <unitdate encodinganalog="245$f" label="Dates : ">1840-2009</unitdate>
+            <physdesc encodinganalog="300$a" label="Extent :">
+                <extent>Approx. 342 linear feet</extent>
+            </physdesc>
+            <abstract encodinganalog="520$a" label="Abstract :">Voter Registration Records document voting in Hartford from the 1840s onward and include important genealogical information as well as reflecting changing demographics in the city.</abstract>
+            <physloc label="Location:" altrender="Location :">HHC Closed Stacks, Ranges 22-24</physloc>
+            <langmaterial encodinganalog="546">English</langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>The Office of the Registrar of Voters was established in the early 1860s. The Registrar is an elected position. The office is responsible for registering voters, the voting machines, polling place, and absentee balloting. When voting is complete, the office, in conjunction with a duly appointed moderator, compiles and tallies the votes. Once this has been done, the moderator sends a copy of the results to the Secretary of State and to the Town Clerk. The Hartford Voter Registration Records from the Town Clerk’s office were transferred by the City of Hartford to The Dodd Research Center at the University of Connecticut beginning in 1979. The entire collection was transferred to the Hartford History Center in the Hartford Public Library in April 2010.</p>
+
+        </bioghist>
+
+        <scopecontent encodinganalog="520$a">
+            <head>Scope and Content</head>
+            <p>The voter registration records contain checklists of voters and voter registration cards from the City of Hartford. The cards contain some or all of the following personal information on registered voters: name, residence (including address changes within the city), caucus and party affiliation, ward number, date individual became eligible to vote, place and date of birth, dates of continuous residence, occupation and employer, sex, marital status, and naturalization data.
+            </p>
+        </scopecontent>
+        <accessrestrict>
+            <head>Access Restrictions</head>
+            <p>The records are stored in a restricted area and therefore may not be available on a
+                same-day basis. </p>
+        </accessrestrict>
+        <arrangement><head>Arrangement</head>
+            <p>Records are arranged in two series, both chronologically (Series I) and alphabetically (Series II).</p>
+        </arrangement>
+
+        <userestrict>
+            <head>Use Restrictions</head>
+            <p>See Hartford History Center’s Collection Use policy. Permission to publish from the Richard Welling
+                Collection must be obtained in writing from the Executive Director of the Hartford History Center, and a copy of
+                the published work may be requested by the Hartford History Center. The Hartford History Center
+                reserves the right to refuse permission to publish, etc. to those who have not complied with its
+                policies. Use of the collections will normally not be permitted for the purpose of promotion of
+                commercial products and services or political campaigns. Hartford History Center at Hartford Public
+                Library reserves the right to limit the number of photographic prints/captures and to restrict the
+                use or reproduction of rare, fragile, or valuable objects.
+            </p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Item, Collection Title. Hartford History Center,
+                Hartford Public Library, Hartford, Connecticut.</p>
+        </prefercite>
+        <acqinfo><head>Acquisition Information</head><p>The Hartford Voter Registration Records were transferred from the Town Clerk's Office to the Historical Manuscripts and Archives division (now Archives and Special Collections) as part of the Peoples of Connecticut Ethnic Heritage Project in August 1979. Hartford Voter Registration cards from 1981, 1982, and 1983 were transferred to Historical Manuscripts and Archives in January, 1989; cards from 1984 were transferred in June, 1990. The entire collection was transferred to the Hartford History Center in the Hartford Public Library in April 2010.</p></acqinfo>
+        <processinfo>
+            <head>Processing Details</head>
+            <p>EAD Finding Aid created in 2018.</p>
+        </processinfo>
+        <controlaccess>
+            <head>Subject Headings</head>
+             <controlaccess>
+                <head>Subjects</head>
+                <subject encodinganalog="650" >Naturalization
+                </subject>
+                <subject encodinganalog="650" >Voting registration
+                </subject>
+            </controlaccess>
+            <controlaccess><head>Geographic Terms</head>
+                <geogname>Hartford (Conn.)</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <subject encodinganalog="655">Voting registers</subject>
+            </controlaccess>
+        </controlaccess>
+
+          <dsc type="combined">
+            <head>Contents:</head>
+
+              <c01 level="series">
+                  <did>
+                      <unittitle>Series I: Checklists of Voters, </unittitle>
+                      <unitdate>1840-1951</unitdate>
+                  </did>
+                  <arrangement><p>This series consists of bound volumes organized chronologically by election. Each volume lists the electors eligible to vote in that election. The lists were prepared by the Registrar of Voters and are arranged by ward, precinct, street name (in alphabetical order) and address.</p></arrangement>
+              </c01>
+              <c01 level="series">
+                  <did>
+                      <unittitle>Series II: Hartford Voter Registration Cards, </unittitle>
+                      <unitdate>1902-2009</unitdate>
+                  </did>
+                  <arrangement><p>Cards are arranged in six alphabetical sequences. Series 2.1 dates from 1902-1940.  Series 2.2 dates from 1916-66, with bulk dates of 1922-1934. Series 2.3 dates from 1969-1986. Series 2.4 dates from the 1970s-2002, with bulk dates from 1970-2000. Series 2.5 dates from 2000-2006.  Series 2.6 is undated but consists primarily of later material.  The dates in Series 2.1 are the dates when individuals registered to vote. For Series 2.2-2.6, the dates indicate when individuals became ineligible to vote in Hartford, for example, because they died or moved away. The cards include some or all of the following information: name, residence (including address changes within the city), caucus and party affiliation, ward number, date individual became eligible to vote, place and date of birth, dates of continuous residence, occupation and employer, sex, marital status, and naturalization data.</p></arrangement>
+              </c01>
+
+        </dsc>
+    </archdesc>
+</ead>

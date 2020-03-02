@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ccsu.xsl" type="text/xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN"
+"http://library.ccsu.edu/cpaaead/ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+<eadid mainagencycode="US-ctnbt" url="https://library.ccsu.edu/cpaaead/cpaa9512.xml" identifier="cpaa9512">cpaa9512</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">John M. Budarz Papers
+<lb />
+<date>1948-1989</date>
+<lb />
+<num>CPAA 95-12</num></titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Ewa Wolynska and Renata Vickrey</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University, New Britain</publisher>
+<address>
+<addressline>New Britain, Conn.</addressline>
+</address>
+<date encodinganalog="260$c" normal="2009">2009</date>
+<p>&#169; Central Connecticut State University. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">Finding aid encoded in MSWord
+<date>1997</date></creation>
+<langusage>Finding aid written in 
+<language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+</eadheader>
+<frontmatter id="front">
+<titlepage>
+<publisher>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University</publisher>
+<titleproper>John M. Budarz Papers, 1948-1989</titleproper>
+<subtitle>Finding Aid</subtitle>
+<num>CPAA 95-12</num>
+<author>Finding aid compiled by Renata Vickrey and Ewa Wolynska</author>
+<date>March 2009</date>
+<p>&#169; 2009 Central Connecticut State University. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" relatedencoding="MARC21">
+<did id="main">
+<head>Collection Overview</head>
+<origination label="Creator" encodinganalog="100">
+<persname>John M. Budarz</persname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">John M. Budarz Papers</unittitle>
+<unitdate type="inclusive" normal="1971-1996">1948-1996</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="ctnbt">CPAA 95-12</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">2 boxes</extent>
+<extent encodinganalog="300$a">(1.5 linear ft.)</extent>
+</physdesc>
+<repository label="Location:">
+<corpname>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University</corpname>
+</repository>
+<abstract encodinganalog="520$a">John M. Budarz was one of the founders of the Polish Art League 
+of Pittsburgh and held the presidency of the organization twice. Mr. Budarz was also active in 
+the American Council of Polish Cultural Clubs, an umbrella organization for various cultural 
+clubs on the national level. Material in this collection relates to activities of Polish Arts League 
+of Pittsburgh, information on numerous cultural events, correspondence, and includes publication 
+of their newsletter - Palette.</abstract>
+<langmaterial>
+<language langcode="eng">English.</language>
+</langmaterial>
+</did>
+<bioghist id="bioghist">
+<head>Biographical Note</head>
+<p>John M. Budarz, 1906-1994, born in Windsor, Conn., graduate of Norwich University in Vermont and the Law School of Duquesne University in Pittsburgh. Mr. Budarz was one of the founding members, long time officer, treasurer and twice president of the Polish Arts League of Pittsburgh. He worked in the insurance business and the Consulate of the Republic of Poland (1921-1945). He was active in the American Council of Polish Cultural Clubs, serving as a vice-president, treasurer and chairman of several committees.</p>
+</bioghist>
+<scopecontent id="scope">
+<head>Scope and Contents of the Collection</head>
+<p>The Polish Arts League of Pittsburgh was created in 1948 to promote Polish Culture and 
+tradition and to support Polish and American authors, artists, and performers. It is an affiliate 
+of the American Council of Polish Culture (formerly American Council of Polish Cultural Clubs) 
+and twice was a host of its national convention. Over the years it organized numerous concerts, 
+lectures, performances, exhibitions, festivals, etc.  It established special scholarship, published 
+monthly newsletter called Palette, conducted educational campaigns, and cooperated with various 
+Polish American organizations. It regularly brought shows from Poland. Twice, in 1953 and 1988 
+it organized the presentation of Moniszko's opera "Halka". This collection consists of correspondence, 
+reports, announcements, financial records, constitutions and by-laws, membership lists, 
+newsletter, newspaper clippings, and pamphlets covering the years 1948-1989.</p>
+</scopecontent>
+<accessrestrict id="admin-access">
+<p>The collection is open for research.</p>
+</accessrestrict>
+<prefercite id="admin-cite">
+<head>Preferred Citation</head>
+<p>
+<emph render="italic">Cite as</emph>: John M. Budarz Papers (CPAA 95-12). Connecticut Polish American Archives, Central Connecticut State University, New Britain.</p>
+</prefercite>
+<custodhist id="a16" encodinganalog="561  $a">
+<head>Provenance</head>
+<p>The collection was donated by Ms. Camille Budarz, a daughter of Mr. John M. Budarz in 1995.</p>
+</custodhist>
+<processinfo>
+<p>Processed by Ewa Wolynska and Renata Vickrey</p>
+</processinfo>
+<controlaccess id="subj">
+<head>Search Terms</head>
+<persname encodinganalog="700">Budarz, John M.</persname>
+<persname encodinganalog="700">Budarz, Camille A.</persname>
+<corpname encodinganalog="710">Polish Arts League of Pittsburgh</corpname>
+<subject encodinganalog="650" source="lcsh">Polish Americans -- Pennsylvania -- Pittsburgh.</subject>
+<subject encodinganalog="650" source="lcsh">Polish Americans -- Societies, etc.</subject>
+<subject encodinganalog="650" source="lcsh">American Council of Polish Cultural Clubs -- History.</subject>
+<genreform encodinganalog="655" source="aat">Clippings.</genreform>
+<genreform encodinganalog="655" source="aat">Correspondence.</genreform>
+<genreform encodinganalog="655" source="aat">Pamphlets.</genreform>
+<genreform encodinganalog="655" source="aat">Programs.</genreform>
+<genreform encodinganalog="655" source="aat">Musical notes.</genreform>
+</controlaccess>
+<relatedmaterial id="add-related">
+<head>Related Material</head>
+<list>
+<item>For related material from Connecticut Polish American Archives see the following collections:</item>
+<item>Amarican Council for Polish Culture records CPAA 96-03</item> 
+<item>Joseph L. Zazyczny collection of American Council of Polish Culture records CPAA 99-15</item> 
+<item>Alfred F. Bochenek collection of American Council of Polish Culture records CPAA 02-01</item>
+</list>
+</relatedmaterial>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>Mr. Alfred Bochenek kept the ACPCC files in a chronological order and the original arrangement is kept within the collection.</p>
+</arrangement>
+<dsc type="in-depth">
+<head>Container List</head>
+<p>[The following section contains a detailed listing of the materials in the collection.]</p>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>John M. Budarz - biography and obituary.</unittitle>
+<unitdate>1994</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Polish Arts League of Pittsburgh - Constitution.</unittitle>
+<unitdate>June 1939, 1952, 1956, 1959</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Polish Arts League of Pittsburgh - Reports.</unittitle>
+<unitdate>1949-1976</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3A</container>
+<unittitle>Polish Arts League of Pittsburgh - correspondence.</unittitle>
+<unitdate>1949-1969</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Polish Arts League - Committees.</unittitle>
+<unitdate>1976</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Polish Arts League of Pittsburgh - programs.</unittitle>
+<unitdate>1951-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Polish Arts League - press releases.</unittitle>
+<unitdate>1950's-1960's</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Polish Arts League of Pittsburgh - Membership 1975 - 1978.</unittitle>
+<unitdate>1975-1978</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7A</container>
+<unittitle>Polish Arts League of Pittsburgh - minutes, correspondence, notes.</unittitle>
+<unitdate>1978-1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Polish Arts League - Newsletter.</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Polish Arts League - clippings.</unittitle>
+<unitdate>1950's</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Polish Arts League - 40th anniversary luncheon, related correspondence.</unittitle>
+<unitdate>1988</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Polish Arts League - Survey.</unittitle>
+<unitdate>1970</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>PALETTE - official publication of the Polish Arts League of Pittsburgh (scattered issues).</unittitle>
+<unitdate>1950-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12A</container>
+<unittitle>Polish Arts Club of Buffalo, Inc. Monthly Bulletin.</unittitle>
+<unitdate>October 1979-January 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Joseph Pilato (actor) - application for grant to travel to Poland.</unittitle>
+<unitdate>1978</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Tadeusz Kerner Concert program, guest list, related correspondence.</unittitle>
+<unitdate>August 6, 1971</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Piotr Janowski Concert, program and related correspondence.</unittitle>
+<unitdate>April 14, 1972</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Polish Musical Show - Parade of Polish Stars.</unittitle>
+<unitdate>October 2, 1974</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Bedzie lepiej - It will be better, Polish Musical Revue, program, financial report, press releases, clippings, correspondence.</unittitle>
+<unitdate>April 30, 1975</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Za Nasza i Wasza Wolnosc - For our Freedom and Yours, Polish musical show, program, financial report, press releases, clippings.</unittitle>
+<unitdate>April 6, 1976</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Alliance College Kujawiaki, program, posters, clippings.</unittitle>
+<unitdate>December 17, 1976</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Echa Ojczyzny - Echo of Poland, Polish Musical Show, program, press releases, correspondence, financial report.</unittitle>
+<unitdate>March 33, 1977</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Wszystkiego Najlepszego - With Best Wishes, Polish musical show, program, press releases, correspondence, financial report.</unittitle>
+<unitdate>November 16, 1977</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Rzeszowiacy, Polish Folk, Song and Dance Company, program, press releases, correspondence, financial report.</unittitle>
+<unitdate>April 25, 1978</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>Polish Textile Artists - Exhibit, catalog, financial report, press releases.</unittitle>
+<unitdate>October 1, 1978</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Sami Swoi - Among Ourselves, program, financial report, press releases.</unittitle>
+<unitdate>March 28, 1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>Dawnych Wspomnien Czar - Memories of Yesteryear, program, financial report, press release.</unittitle>
+<unitdate>October 17, 1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>W Sama Dziesiatke - Right on Target, program, financial report, press release.</unittitle>
+<unitdate>April 27, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Byle Bylo Tak - Wish it were so, program, press release, financial report, Nov. 26, 1980.</unittitle>
+<unitdate>November 26, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Podwieczorek przy mikrofonie - Odnawiamy sie, program, press release, financial report.</unittitle>
+<unitdate>April 1, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Jolanta Brachel and Marek Chwast - piano recital, program, financial report, press release.</unittitle>
+<unitdate>May 7, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>Jubileusz na wesolo - Happy Jubilee, program, press release, financial report.</unittitle>
+<unitdate>October 27, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Cala sala spiewa - Everyone sings, program, financial report, press release.</unittitle>
+<unitdate>April 13, 1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Bedziemy razem - Let's be Together, program, financial report, press release.</unittitle>
+<unitdate>November 3, 1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Gdzie te czasy - Where are these days, program, financial report, press release.</unittitle>
+<unitdate>March 12, 1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Halka - Polish opera performance, program, financial report, press release.</unittitle>
+<unitdate>October 19, 1988</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Camille A. Budarz piano Recital, program, financial report, press release.</unittitle>
+<unitdate>October 29, 1989</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>The Polish Millennium - an essay by Eugene Kusielewicz, vice president of the Kosciuszko Foundation.</unittitle>
+<unitdate>1966</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Sing, Poland, Sing: an anthology of verse on Polish Topics by sister M. Florence Tumasz.</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>"Selections" from the poetry of Edmond Kowalewski, translation by sister M. Florence Tumasz.</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Dwa serca = Two hearts: an anthology of Polish verse by Sister M. Florence Tumasz.</unittitle>
+<unitdate>1968</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Her red dress [offprint from Patron] translated from Polish by Sister M. Gloria Czarniewicz and Sister M. Florence Tumasz.</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Sister M. Florence Tumasz, C.S.F.N. - Curriculum Vitae, clippings, correspondence.</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>Rapperswil - pamphlets from the Polish museum.</unittitle>
+<unitdate>1978</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Poland - pre-WW II pamphlets for tourists.</unittitle>
+<unitdate>1936</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Poland - after WWII tourist guides, maps.</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Poland - various theater programs.</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Materials separated.</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>

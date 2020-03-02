@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-P"
+             url="http://hdl.handle.net/10079/fa/ypm.ipar.001139">ypm.ipar.001139</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Charles W. Thayer Archives </titleproper>
+            <titleproper type="filing">Thayer (Charles W.) Archives</titleproper>
+            <author>Samantha Murphy</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Peabody Museum of Natural History</publisher>
+            <address>
+               <addressline>170 Whitney Avenue</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">peabody.permissions@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://peabody.yale.edu/"
+                          xlink:title="http://peabody.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2014</date>
+            <num>IPAR.001139</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday March 15, 2019 at 06:31</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.Finding aid created in accordance with Manuscripts and Archives Processing Manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Charles W. Thayer Archives</unittitle>
+         <unitid>IPAR.001139</unitid>
+         <repository>
+            <corpname>
+               Yale Peabody Museum of Natural History
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">5</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1942/1969">1942-1969</unitdate>
+         
+         <abstract id="aspace_d1a1e4d17a13c0283265d1095a2c3c96">The archives of Charles W. Thayer including maps related to his Yale dissertation, "Marine paleoecology of the Upper Devonian Genesee Group of New York."</abstract>
+         <langmaterial id="aspace_69a0d8ce29e7dc889fa35657d798807f">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <persname source="local_peabody">
+               Thayer, Charles W.
+            </persname>
+         </origination>
+      </did>
+      <prefercite id="ref1">
+         <head>Cite As</head>
+         <p>Charles W. Thayer Archives, Invertebrate Paleontology, Yale Peabody Museum</p>  
+      </prefercite>
+      <bioghist id="ref2">
+         <head>Biographical Sketch</head>
+         <p>B.A., Dartmouth College, 1966; M. Phil., 1969, Ph.D., 1972, Yale University.</p>  
+      </bioghist>
+      <scopecontent id="ref4">
+         <head>Description of the Material</head>
+         <p>USGS 7.5" topographic quadrangle maps of New York related to his Yale dissertation, "Marine paleoecology of the Upper Devonian Genesee Group of New York." Also, 2 field notebooks and the locality register from his dissertation.</p>  
+      </scopecontent>
+      <controlaccess>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n79074102"
+                   source="lcsh">
+            Connecticut
+         </geogname>
+         <geogname source="local">
+            New York
+         </geogname>
+         <geogname source="local">
+            USA
+         </geogname>
+         <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2011026387"
+                    source="lcgft">
+            Maps
+         </genreform>
+         <corpname rules="dacs" source="local">
+            Yale Peabody Museum
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref6" level="series">
+            <did>
+               <unittitle>Maps</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <scopecontent id="aspace_317b72c2dead80a9fb8031ded9fd5433">
+               <head>Scope and Contents</head>
+               <p>Topographic Maps of New York.</p>
+            </scopecontent>
+            <c id="ref7" level="file">
+               <did>
+                  <unittitle>1940-1945.</unittitle>
+                  <unitid>001142</unitid>
+               </did>
+               <c id="ref8" level="file">
+                  <did>
+                     <unittitle>Field notes. Schenevus NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002149</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref9" level="file">
+                  <did>
+                     <unittitle>Field notes. Norwich NY, 15 Quad. (1 : 62500). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002142</unitid>
+                     <unitdate type="inclusive">1944</unitdate>
+                  </did>
+               </c>
+               <c id="ref10" level="file">
+                  <did>
+                     <unittitle>Topographic map. Groton NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002126</unitid>
+                     <unitdate type="inclusive">1942</unitdate>
+                  </did>
+               </c>
+               <c id="ref11" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ludlowville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002132</unitid>
+                     <unitdate type="inclusive">1942</unitdate>
+                  </did>
+               </c>
+               <c id="ref12" level="file">
+                  <did>
+                     <unittitle>Topographic map. Sheldrake NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002150</unitid>
+                     <unitdate type="inclusive">1942</unitdate>
+                  </did>
+               </c>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Topographic map. Trumansburg NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002154</unitid>
+                     <unitdate type="inclusive">1942</unitdate>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ovid NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002160</unitid>
+                     <unitdate type="inclusive">1942</unitdate>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Topographic map. Charlotteville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002118</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Topographic map. Cincinnatus NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002119</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Topographic map. Cuyler NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002121</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Topographic map. Earlville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002122</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Topographic map. East Pharsalia NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002123</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Topographic map. Erieville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002124</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Topographic map. Holmesville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002127</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Topographic map. Milford NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002135</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Topographic map. Morris NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002137</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Topographic map. Mt Vision NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002138</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Topographic map. New Berlin North NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002139</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Topographic map. New Berlin South NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002140</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Topographic map. Norwich NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002141</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Topographic map. Oneonta NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002143</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Topographic map. Otselic NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002144</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Topographic map. Sherburne NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002151</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Topographic map. South Otselic NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002152</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Topographic map. West Davenport NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002157</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Topographic map. West Groton NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002158</unitid>
+                     <unitdate type="inclusive">1943</unitdate>
+                  </did>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Topographic map. Pitcher NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002147</unitid>
+                     <unitdate type="inclusive">1944</unitdate>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Topographic map. Gilboa NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002125</unitid>
+                     <unitdate type="inclusive">1945</unitdate>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Topographic map. Prattsville NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002148</unitid>
+                     <unitdate type="inclusive">1945</unitdate>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Topographic map. Stamford NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002153</unitid>
+                     <unitdate type="inclusive">1945</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>1946-1950.</unittitle>
+                  <unitid>001143</unitid>
+               </did>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ithaca East NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002129</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ithaca West NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic (shaded relief, 1959).</unittitle>
+                     <unitid>002130</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ithaca West NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002131</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Topographic map. Oxford NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002146</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Topographic map. Tyner NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002155</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Topographic map. Whitney Point NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002159</unitid>
+                     <unitdate type="inclusive">1949</unitdate>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Topographic map. Burdett NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002117</unitid>
+                     <unitdate type="inclusive">1950</unitdate>
+                  </did>
+               </c>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>Topographic map. Marathon NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002133</unitid>
+                     <unitdate type="inclusive">1950</unitdate>
+                  </did>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Topographic map. Montour Falls NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002136</unitid>
+                     <unitdate type="inclusive">1950</unitdate>
+                  </did>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Topographic map. West Danby NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002156</unitid>
+                     <unitdate type="inclusive">1950</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>1951-1960.</unittitle>
+                  <unitid>001144</unitid>
+               </did>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Topographic map. Beaver Dams NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002115</unitid>
+                     <unitdate type="inclusive">1953</unitdate>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>Topographic map. Cortland NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002120</unitid>
+                     <unitdate type="inclusive">1955</unitdate>
+                  </did>
+               </c>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>Topographic map. Homer NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002128</unitid>
+                     <unitdate type="inclusive">1955</unitdate>
+                  </did>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Topographic map. McGraw NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002134</unitid>
+                     <unitdate type="inclusive">1955</unitdate>
+                  </did>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>Topographic map. Owasco NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002145</unitid>
+                     <unitdate type="inclusive">1955</unitdate>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Topographic map. New York State, Index of Topographic Maps (1 : 1000000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002116</unitid>
+                     <unitdate type="inclusive">1957</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>1961-1970.</unittitle>
+                  <unitid>001145</unitid>
+               </did>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>Topographic map. New York State, Index of Topographic Maps (1 : 1000000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002229</unitid>
+                     <unitdate type="inclusive">1967</unitdate>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ithaca East NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002163</unitid>
+                     <unitdate type="inclusive">1969</unitdate>
+                  </did>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>Topographic map. Ithaca West NY, 7.5 Quad. (1 : 24000). U.S. Geological Survey: Topographic.</unittitle>
+                     <unitid>002164</unitid>
+                     <unitdate type="inclusive">1969</unitdate>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref60" level="series">
+            <did>
+               <unittitle>Miscellaneous</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <scopecontent id="aspace_83073e6c054e3dbe687937179c2d1168">
+               <head>Scope and Contents</head>
+               <p>Miscellaneous archives including Charles W. Thayer's feild notes and dissertation.</p>
+            </scopecontent>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Dissertation. Charles W. Thayer's dissertation and supporting figures.</unittitle>
+                  <unitid>001147</unitid>
+               </did>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>Locality information. Parts of dissertation with locality and faunal information on Devonian Genesee: New York. 1969, 1970</unittitle>
+                     <unitid>000323</unitid>
+                     <unitdate type="inclusive">1969</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>Field Notes.</unittitle>
+                  <unitid>001146</unitid>
+               </did>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Field notes. Field Notebooks (2 originals sent to Yale, Feb. 2002), Devonian Genesee: New York. 1968, 1969, 1970</unittitle>
+                     <unitid>000534</unitid>
+                     <unitdate type="inclusive">1968</unitdate>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

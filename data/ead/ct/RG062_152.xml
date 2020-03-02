@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG062_152.html" countrycode="us">RG062_152</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 062:152, Town of Waterford</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 05, 2012</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2012</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Allen Ramsey on
+<date>July 05, 2012</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Waterford (Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Town of Waterford records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1854/1985">1854-1985</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">6 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Court and military records for the town of Waterford.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG062_152</unitid>
+
+	<unitid label="Accession: ">2012-044</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The town of Waterford was incorporated in October 1801 and was taken from New London.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p><emph render="bold">Series 1. Court Records, 1854-1930, </emph> contain attachments.</p>
+	<p><emph render="bold">Series 2. Military Records, 1861-1985, </emph> included in the front of each Soldier and Sailor Discharges volume are handwritten indexes arranged alphabetically by last name, first name, and some volumes list branch of service after the name. Volumes contain honorable discharges, certificate of service, certificate of death in service, continous service certificates, Merchant Marine certificates, notification of appointment letters, certificate of furlough, foreign military service records, and other documents documenting veterans military service. Each military service document was also dated received for record by the Waterford Town Clerk.</p>
+</scopecontent>
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Soldiers -- Connecticut -- Waterford</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Waterford (Conn.) -- Records and correspondence</geogname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Court records</genreform>
+			<genreform encodinganalog="655" source="aat">Military records</genreform>
+	</controlaccess>
+	
+</controlaccess>
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+ <p><emph render="bold">Soldiers and Sailors Discharges Volumes 2-12 are restricted. Connecticut General Statutes §1-219 restricts veteran’s military records including but not limited to a DD 214 form for 75 years. Contact State Archives staff for assistance.</emph></p>
+<!-- <p><emph render="bold">Volume 7 and 8 is restricted due to condition. Please contact State Archives staff for assistance.</emph></p>-->
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>The records were transferred to the State Library in May 2012.</p>
+
+</acqinfo>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 1. Court Records</unittitle>
+	<unitdate datechar="creation" normal="1854/1930">1854-1930</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry>Volume</entry>
+ </row>
+ </thead> 
+<c02 level="file">
+ <did>
+	<container type="Box">1-3</container>
+	<unittitle>Attachments</unittitle>
+	<unitdate type="inclusive" normal="1854/1930">1854-1930</unitdate>
+	<physdesc><extent>3 volumes</extent></physdesc>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Series 2. Military Records</unittitle>
+	<unitdate datechar="creation" normal="1861/1985">1861-1985</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry>Volume</entry>
+ </row>
+ </thead> 
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Soldiers and Sailors Discharges</unittitle>
+	<unitdate type="inclusive" normal="1861/1934">1861-1934</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2-12</container>
+	<unittitle>Soldiers and Sailors Discharges</unittitle>
+	<unitdate type="inclusive" normal="1898/1985">1898-1985</unitdate>
+	<physdesc><extent>11 volumes</extent></physdesc>
+ </did>
+ <note><p><emph render="bold">RESTRICTED</emph></p></note> 
+ <note><p>Connecticut General Statutes §1-219 restricts veteran’s military records including but not limited to a DD 214 form for 75 years. Contact State Archives staff for assistance.</p></note> 	
+<!--<note><p>Volume 7 and 8 is restricted due to condition. Please contact State Archives staff for assistance.</p></note>-->	
+</c02>
+</c01>
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

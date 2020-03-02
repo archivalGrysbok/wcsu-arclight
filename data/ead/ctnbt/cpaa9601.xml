@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ccsu.xsl" type="text/xsl"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://library.ccsu.edu/cpaaead/ead.dtd">
+
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+
+  <eadid mainagencycode="US-ctnbt" 
+    url="https://library.ccsu.edu/cpaaead/cpaa9601.xml" identifier="cpaa8631">cpaa9601</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">Polish Survivors of the Holocaust: an oral history project<lb/>
+<date>1980-1982</date>
+<lb/>
+<num>CPAA 96-01</num>
+</titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Renata Vickrey and Ewa Wolynska</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University, New Britain</publisher>
+<address>
+<addressline>New Britain, Conn.</addressline>
+</address>
+<date encodinganalog="260$c" normal="2008">2010</date>
+<p>&#x00A9; Central Connecticut State University. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">Finding aid derived from a paper written inventory in MSWord<date>1996</date>
+</creation>
+<langusage>Finding aid written in <language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<frontmatter id="front">
+<titlepage>
+<publisher>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University
+</publisher>
+<titleproper></titleproper>
+<subtitle>Finding Aid</subtitle>
+<num>CPAA 96-01</num>
+<author encodinganalog="24500$c">Processed by Ewa Wolynska and Renata Vickrey </author>
+<date>July 2010</date>
+<p>&#x00A9; 2010 Central Connecticut State University. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" relatedencoding="MARC21">
+<did id="main">
+<head>Collection Overview</head>
+
+<origination label="Creator" encodinganalog="100">
+<persname>Stanislaus A. Blejwas</persname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">Polish Survivors of the Holocaust: an oral history project</unittitle>
+<unitdate type="inclusive" normal="1927-2008">1978-1987 (Bulk 1980-1982)</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="us-ctnbt">CPAA 96-01</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">11 boxes</extent>
+<extent encodinganalog="300$a">(5 linear ft.)</extent>
+</physdesc>
+<repository label="Location:">
+<corpname>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University</corpname>
+</repository>
+<abstract encodinganalog="520$a">Polish Survivors of the Holocaust, an oral history project 
+was initiated by Prof. Stanislaus A. Blejwas from Central Connecticut State College and co-sponsored
+by the Association of Polish Priests in Connecticut.  The project was funded by the Connecticut 
+Humanities Council.  Parts of the interviews were broadcasted in a miniseries at the Connecticut 
+Public Radio.  All interviews were transcribed.  Collection contains documentation of the project, 
+related correspondence and various publications on Polish Jewish relations and teaching the 
+Holocaust.  Collection illustrates experience of non-Jewish survivors of the Nazi concentration 
+camps in World War II, who immigrated to the US and lived in Connecticut.</abstract>
+<langmaterial><language langcode="pol">Polish</language><language langcode="eng">English</language></langmaterial>
+</did>
+<bioghist id="bioghist">
+<head>Historical/Biographical Note</head>
+<p>Polish Survivors of the Holocaust: an oral history project was sponsored by the grant from 
+the Connecticut Humanities Council and several Polish American organizations. The project was 
+proposed by Prof. Stanislaus Blejwas, from the department of History at Central Connecticut 
+State College and Msgr. John Wodarski, pastor of the Holy Cross church representing the Association
+ of Polish Priests in Connecticut. The project followed a public protest after the broadcasting 
+of a popular TV mini-series "Holocaust" that, in Polish American opinion, portrayed Poles 
+unfairly.  The project was inaugurated by a technical workshop for interviewers and a public 
+forum.  The purpose of both was to emphasize the issue of complexity of the Holocaust, publicize 
+the project, and locate additional survivors.</p>
+
+<p>Between 1980 and 1981 four interviewers - Prof. Stanislaus Blejwas, Dr. M.B. Biskupski, 
+Mrs. Aleksandra Nowakowska, and Mr. Joseph Jedynak - conducted and recorded interviews with 
+32 Polish gentiles, survivors of Nazi concentration camps. The interviews were broadcasted by 
+the Connecticut Public Radio in 5-part series in April 1982. The tapes were later transcribed.</p>
+</bioghist>
+
+<scopecontent id="scope">
+<head>Scope and Contents of the Collection</head>
+<p>Collection includes documentation of the project, original tapes, transcription of tapes 
+and English translation if necessary. Also included in the collection are materials describing
+various Polish American initiatives that aimed at educating American public opinion about Polish 
+losses during WWII and Polish-Jewish relations during the war.</p>
+</scopecontent>
+
+
+<accessrestrict id="admin-access">
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+<prefercite id="admin-cite">
+<head>Preferred Citation</head>
+<p><emph render="italic">Cite as</emph>:Polish Survivors of the Holocaust: an oral history project (CPAA 96-01). Connecticut Polish American Archives, Central Connecticut State University, New Britain.</p>
+</prefercite>
+
+<acqinfo id="admin-acqinfo">
+<p>Material in the collection was donated by Prof. Stanislaus A. Blejwas.</p>
+</acqinfo>
+
+<processinfo><p>Material was processed by Ewa Wolynska and Renata Vickrey.</p></processinfo>
+
+<controlaccess id="subj">
+<head>Search Terms</head>
+<persname encodinganalog="700">Stanislaus A. Blejwas</persname>
+<persname encodinganalog="700">John P. Wodarski</persname>
+<subject encodinganalog="650" source="lcsh">Holocaust survivors</subject>
+<subject encodinganalog="650" source="lcsh">Holocaust survivors -- Interviews</subject>
+<subject encodinganalog="650" source="lcsh">Holocaust Survivors -- Connecticut</subject> 
+<subject encodinganalog="650" source="lcsh">Holocaust Survivors -- Connecticut -- New Britain.</subject>
+<genreform encodinganalog="655" source="aat">Oral histories</genreform>
+<genreform encodinganalog="655" source="aat">Sound recordings</genreform>
+<genreform encodinganalog="655" source="aat">Pamphlets</genreform>
+<genreform encodinganalog="655" source="aat">Photographs</genreform>
+<genreform encodinganalog="655" source="aat">Clippings</genreform>
+</controlaccess>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>The Collection is kept in the original arrangement it was received.</p>
+</arrangement>
+<dsc type="in-depth">
+<head>Container List</head>
+<p>[The following section contains a detailed listing of the materials in the collection.]</p>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Polish survivors of the Holocaust - proposal</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Polish survivors of the Holocaust - grant correspondence, funds, reports</unittitle>
+<unitdate>1980-1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Polish survivors of the Holocaust - correspondence in support of the project</unittitle>
+<unitdate>1979-1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Polish survivors of the Holocaust - correspondence</unittitle>
+<unitdate>1980-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Polish survivors of the Holocaust - gifts and matching funds</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Polish survivors of the Holocaust - publicity</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Polish survivors of the Holocaust - interim reports and final report by project director Prof. Stanislaus Blejwas</unittitle>
+<unitdate>1980-1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Polish Survivors of the Holocaust - forms, permissions from participants, correspondence and notes related to interview participation or decline</unittitle>
+<unitdate>1980-1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Polish survivors of the Holocaust - bibliography and workshop</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Polish survivors of the Holocaust - applications for interviewers and administrative assistant</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Polish survivors of the Holocaust - evaluation of the project by Prof. William V. D'Antonio</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Polish Survivors of the Holocaust - ledger with letters, notes from meetings, receipts and payments</unittitle>
+<unitdate>1980-1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>World War II and Poland a public forum at Central Connecticut State College - "The Holocaust in literature" a lecture by Lothar Kahn</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>World War II and Poland a public forum at Central Connecticut State College - "Poles and Jews" and "The Camps", two lectures by Stephen M. Berk (includes audiotape)</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>World War II and Poland a public forum at Central Connecticut State College - "Occupied Warsaw" lecture by Lucjan Dobroszycki (audiotape)</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>The movie "Holocaust" and Poles and Jews during World War II, television program</unittitle>
+<unitdate>September, 1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>The movie "Holocaust" and Poles and Jews during World War II, television program - reaction from Polish community</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>"Holocaust illiteracy" essay by Prof. Stanislaus A. Blejwas and related clippings</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Irene Pruszynska Ogden - letter and clippings about her father Kazimierz Proszynski and his experience in the concentration camps</unittitle>
+<unitdate>1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Dokumenty Zbrodni Hitlerowskich, by Kazimierz Goncwol (photocopy)</unittitle>
+<unitdate>[1945?]</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Polish Survivors of the Holocaust - handwritten list of people interviewed for the project</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Polish Survivors of the Holocaust - reasons for participation in the project</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Adamus Stephan - interview in Polish and handwritten notes</unittitle>
+<unitdate>April, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Amendola, Anna - interview in English, related correspondence and handwritten notes.</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Bieganski, Stefan - interview in Polish</unittitle>
+<unitdate>May 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Cierpikowski, Henry - only notes in English</unittitle>
+<unitdate>February, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Depa, Frederic - interview in Polish and notes in English</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Drelichowski, Piotr - interview in Polish and English translation</unittitle>
+<unitdate>November, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Fikus, Witold - interview in Polish and English translation, related correspondence and notes</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>Gelissen (Kornriech), Regina - interview in English with notes</unittitle>
+<unitdate>November, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>Gulak, Franciszek - interview in Polish</unittitle>
+<unitdate>December, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>Hamaluk, Wanda and Tadeusz - interview in English and notes</unittitle>
+<unitdate>December, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Jakubowska (Lukaszek), Aniela - handwritten notes in English</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>Kejna, Wincenty - interview in Polish and English translation</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Klos, Bronislaw - interview in Polish, English translation and notes</unittitle>
+<unitdate>May, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>Kozlowski, Ludwik - interview in Polish, notes in English</unittitle>
+<unitdate>May, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Kukiz, Gustaw, Wlodzimierz - copies of documents related to imprisonment in concentration camp, no interview.</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Kwiecien, Stanislaw - interview in Polish, English translation, photographs and clippings from.</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Lausch, Wlodzimierz - handwritten notes from interview.</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>Mleczko, Francis - interview in Polish, English translation and notes</unittitle>
+<unitdate>April, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Mroz, Jozef - interview in English</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>Powidzki, Edwarda - interview in English.</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>Ruminski, Edmund - interview in Polish, English translation and notes.</unittitle>
+<unitdate>November, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>Sadanowicz, Jan A. - interview in English.</unittitle>
+<unitdate>November, 1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>Sieklicki, Stanislaw - written memoirs, no interview.</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Sikorska, Krystyna - interview in English and notes</unittitle>
+<unitdate>April, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Siwinski, Stefan - interview in Polish, English translation</unittitle>
+<unitdate>November, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>Sosnowski, Henryk - interview in Polish, English translation</unittitle>
+<unitdate>April, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>Stec, Maria - interview in Polish</unittitle>
+<unitdate>November, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>Strojny, Felicja - interview in English and notes</unittitle>
+<unitdate>March, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Szymerski, Jan - interview in Polish, English translation and notes</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>Tarlowska, Irena - interview in Polish, partial translation in English and notes</unittitle>
+<unitdate>March, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>Wardzala, Joseph - interview in Polish, translation in english and notes</unittitle>
+<unitdate>October, 1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>Wawrowski, Stefan - copies of written memoirs in Polish, camp documents in German (copies), notes in English</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>Ziembinski, Marian - interview in Polish</unittitle>
+<unitdate>March, 1981</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle> Arrests (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>Slave labor (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>Camps - transport, arrival and quarantine (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>Camps - moral behavior (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>Camps - religious values faith and hope (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>Camps - outside aid (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Camps - sources of information (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Camps - resistance and executions (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>Camps - population, difference of treatment, discipline (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>Camps - exterminations, awarness of Jews as primary victims (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>Camps - friendship and survival (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>Camps - prison staff (fragments of interviews).</unittitle>
+</did>
+</c01>
+
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>Camps - hospitals (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>Camps - organizing efforts to help others (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">15</container>
+<unittitle>Camps - work conditions (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">16</container>
+<unittitle>Camps - hygiene (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">17</container>
+<unittitle>Camps - roll-calls (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">18</container>
+<unittitle>Camps - abuse of prisoners (fragments of interviews).</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">19</container>
+<unittitle>Camps - work (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">20</container>
+<unittitle>Camps - food (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">21</container>
+<unittitle>Camps - general conditions (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">22</container>
+<unittitle>Camps - exit from camps, last month of war (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>Camps - liberation (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">24</container>
+<unittitle>Camps - life after liberation (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">25</container>
+<unittitle>Camps - various topics (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle>Camps - conditions in other camps (fragments of interviews)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle>Handwritten notes from interviews and other publications related to concentration camps </unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle>Handwritten notes on arrival at camps</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle>War and occupation - notes from interviews</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>War and occupation and biographical sketches of participants in the project</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>Polish Survivors of the Holocaust project - proposal to broadcast it on Connecticut Public Radio and related correspondence</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>Polish Survivors of the Holocaust project - Connecticut Public Radio broadcast, Programs 1-5 (hardcopy and audiotapes)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>Survivors of the WWII concentration camps - field research proposal by Krystyna Zamorska</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">8</container>
+<unittitle>First Poles in KL Auschwitz, essay in Polish by Irena Strzelecka (photocopy)</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">9</container>
+<unittitle>"Smoke over Birkenau" by Seweryna Szmaglewska (photocopy)</unittitle>
+<unitdate>1947</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">10</container>
+<unittitle>Maximillian Kolbe - clippings, articles</unittitle>
+<unitdate>1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">1</container>
+<unittitle>"Forgotten voices - Holocaust illiteracy" by Stanislaus A. Blejwas</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">2</container>
+<unittitle>Jewish survivors in Connecticut - letters, clippings</unittitle>
+<unitdate>1981-1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">3</container>
+<unittitle>Holocaust literature and course guides, related correspondence</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>Holocaust literature, articles, pamphlets, clippings</unittitle>
+<unitdate>1981-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>Holocaust media - Docu-drama concept (clippings)</unittitle>
+<unitdate>1981-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>Holocaust media - "Holocaust" (clippings)</unittitle>
+<unitdate>1978-1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>Holocaust media - "Escape from Sobibor" (clippings)</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>Holocaust media - "Lena" press release from Polish American Congress</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">9</container>
+<unittitle>Holocaust media - "Shoah" (clippings)</unittitle>
+<unitdate>1986-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">10</container>
+<unittitle>Holocaust media - "Shoah", correspondence and Polish community reactions</unittitle>
+<unitdate>1986-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>Holocaust media - "Sophie's Choice" clippings</unittitle>
+<unitdate>1978-11983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>Holocaust media - "Sophie's Choice" Polish American Historical Association symposium</unittitle>
+<unitdate>December, 1982</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>Holocaust media - "The Winds of War" clippings</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>Holocaust - President's Commission on the Holocaust report</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">15</container>
+<unittitle>Holocaust - President Reagan's visit to Bergen-Belsen concentration camp and Bitburg cemetery in Germany (clippings)</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>Holocaust - US Holocaust Memorial Council, pamphlets</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>Holocaust - war criminals (clippings)</unittitle>
+<unitdate>1981-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>Holocaust survivors (clippings)</unittitle>
+<unitdate>1979-1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>Holocaust - "Polish Death Camps" issue (clippings)</unittitle>
+<unitdate>1980-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>Holocaust - conferences and dialogues</unittitle>
+<unitdate>1984-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">21</container>
+<unittitle>Holocaust - "The Trees of Warsaw" article by A.M. Rosenthal, NY Times Magazine</unittitle>
+<unitdate>August, 1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">1</container>
+<unittitle>Holocaust - Poles and Jews various articles and responses</unittitle>
+<unitdate>1974-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">2</container>
+<unittitle>Holocaust - Polish American response, gentile survivors</unittitle>
+<unitdate>1980-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">3</container>
+<unittitle>Holocaust - various articles written by Eugene Kusielewicz related to Holocaust</unittitle>
+<unitdate>1984-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">4</container>
+<unittitle>Holocaust - Righteous Gentiles</unittitle>
+<unitdate>1951-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">5</container>
+<unittitle>Holocaust - Polish Jewish relations articles by Prof. Ronald Modras</unittitle>
+<unitdate>1981-1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">6</container>
+<unittitle>Holocaust - Polish Jewish relations articles from newspapers Zgoda and Nowy Dziennik</unittitle>
+<unitdate>1988</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>Holocaust - Response from the Polish American community: book by Richard Lukas "Forgotten Holocaust"</unittitle>
+<unitdate>1980-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>Holocaust - Response from the Polish American community: article by W.S. Maliszewski</unittitle>
+<unitdate>July, 1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>Holocaust - Response from the Polish American community: Polish American Congress Anti-Bigotry Committee</unittitle>
+<unitdate>1974-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">10</container>
+<unittitle>Holocaust - Response from the Polish American community: Holocaust Remembrance Day, New Britain</unittitle>
+<unitdate>1979</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">11</container>
+<unittitle>Holocaust - Response from the Polish American community in New Jersey</unittitle>
+<unitdate>1986-1989</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">12</container>
+<unittitle>Holocaust - Response from the Polish American community: Essays by Rev. John Pawlikowski</unittitle>
+<unitdate>1979-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">13</container>
+<unittitle>Holocaust - Response from the Polish American community: Polish American-Jewish American Task Force</unittitle>
+<unitdate>1983-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">14</container>
+<unittitle>Holocaust - Response from the Polish American community: Polish Association of Former Political Prisoners</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">15</container>
+<unittitle>Holocaust - Response from the Polish American community: Polish Institute of Arts and Science panel discussion reaction to the movie "Sophie's Choice"</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>Holocaust - Response from the Polish American community from Western Massachusetts</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>Holocaust - Response from the Polish American community from California</unittitle>
+<unitdate>1982-1989</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>Holocaust - Response from the Polish American community: correspondence with Waclaw Zajaczkowski</unittitle>
+<unitdate>1977-1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>Holocaust - Response from the Polish American community: correspondence with Eugene Slotkowski, clippings and articles</unittitle>
+<unitdate>1977-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">19</container>
+<unittitle>Holocaust - Response from the Polish American community: correspondence with Edwin Kulawiec</unittitle>
+<unitdate>1980-1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">20</container>
+<unittitle>Holocaust - John Paul II (clippings></unittitle>
+<unitdate>1985-1986</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">1</container>
+<unittitle>Kosciuszko Foundation lecture series on Poles and Jews and the Holocaust</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">2</container>
+<unittitle>Kosciuszko Foundation flier for the summer session in Poland, Polish Jewish relations</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">3</container>
+<unittitle>Kosciuszko Foundation, NY Metropolitan chapter - correspondence related to Poles and Christians during the Holocaust</unittitle>
+<unitdate>1983-1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">4</container>
+<unittitle>Teaching about the Holocaust and Genocide, NY State Department of Education, 1st draft </unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">5</container>
+<unittitle>Teaching about the Holocaust and Genocide, NY State Department of Education, 3rd draft, v.1</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">6</container>
+<unittitle>Teaching about the Holocaust and Genocide, NY State Department of Education, 3rd draft, v.2</unittitle>
+<unitdate>1984</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">7</container>
+<unittitle>The Holocaust and Genocide, Stated Department of Education, critical annotations</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">8</container>
+<unittitle>Polish victims of the Holocaust and Genocide: towards an objective view, symposium at Seton Hall University, Polish American Congress, NJ</unittitle>
+<unitdate>1985</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">9</container>
+<unittitle>Polish Holocaust Commemorative Committee, Rhode Island</unittitle>
+<unitdate>1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">10</container>
+<unittitle>Genocide of the Poles, an article by Michal Zawadzki (California)</unittitle>
+<unitdate>1987</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">11</container>
+<unittitle>Committee on Holocaust awareness, Connecticut - news releases, publications, flyers</unittitle>
+<unitdate>1980</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">10</container>
+<container type="folder">12</container>
+<unittitle>Teaching the Holocaust and Genocide, articles in:  Religious Education; The History Teacher</unittitle>
+<unitdate>1980, 1983</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">11</container>
+<container type="folder">1</container>
+<unittitle>Polish Survivors of the Holocaust - this box contains audiotapes with interviews of participants in the project.  Tapes were converted to CD.</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>

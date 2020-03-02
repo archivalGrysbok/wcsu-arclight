@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.bowring">beinecke.bowring</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Bowring Collection
+ </titleproper>
+            <titleproper type="filing">Bowring (John) Collection</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>July 1996</date>
+            <num>GEN MSS 223</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday January 22, 2019 at 06:02</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>John Bowring collection</unittitle>
+         <unitid>GEN MSS 223</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.25</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1821/1871">1821-1871</unitdate>
+         
+         <abstract id="aspace_e93e1e3ab23a9a23202849864992e5e4">Chiefly letters from Bowring, many regarding unidentified works by his friends. Some letters are responses to invitations. Includes letter to Marc-Antoine Jullien about the Peace Society; letter to John Bowyer Nichols (editor of "Gentleman's Magazine") that includes a statement for publication about the destruction of the public library in Abo, Finland. Collection also includes manuscript regarding commercial relations between France and England, written for publication in "The Examiner", and two poems, one untitled and one entitled "Taxes."</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n50042871"
+                      source="naf">
+               Bowring, John, 1792-1872
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_77f010d4fd97b0f5baa67cf52ac2aead">
+         <head>Immediate Source of Acquisition</head>
+         <p>Material acquired from various sources.</p>  
+      </acqinfo>
+      <userestrict id="aspace_b619915e1ccf7c713c394163e23bbd71">
+         <head>Conditions Governing Use</head>
+         <p>The John Bowring Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_8be162cc6014c796419a3bd854473f5a">
+         <head>Preferred Citation</head>
+         <p>John Bowring Collection. General Collection, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_ecc71c583543d8d43d5c1ced7b47fd01">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_76d39a0319eeb83b5c8c1f4344ab8d2f">
+         <head>Processing Information</head>
+         <p>This finding aid was produced from a previously existing card set in the Manuscripts Catalog, or from another inventory. All pertinent bibliographical information has been retained. If the collection also contains unlisted or unsorted material, this has been noted in the box-and-folder list.</p>  
+      </processinfo>
+      <scopecontent id="aspace_e0079636c908940ee0cee7cc5d939b5a">
+         <head>Scope and Contents</head>
+         <p>This finding aid encompasses accessions of materials pertaining to John Bowring.</p>  
+      </scopecontent>
+      <controlaccess>
+         <geogname source="local">
+            France -- Commerce -- Great Britain
+         </geogname>
+         <geogname source="local">
+            Great Britain -- Commerce -- France
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300055931" source="aat">
+            Poetry
+         </genreform>
+         <title source="local">
+            Taxes
+         </title>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50042871"
+                   source="naf">
+            Bowring, John, 1792-1872
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88101232"
+                   rules="aacr"
+                   source="naf">
+            Jullien, Marc-Antoine, 1775-1848
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88087191"
+                   rules="aacr"
+                   source="naf">
+            Nichols, J. B. (John Bowyer), 1779-1863
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/no89014461"
+                   rules="aacr"
+                   source="naf">
+            Peace Society (London, England)
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref10" level="series">
+            <did>
+               <unittitle>Letters from John Bowring, 1792-1872</unittitle>
+               <unitdate type="inclusive">1865 Sep 11</unitdate>
+            </did>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>ALS to the Editor of the Athenaeum, Hong Kong</unittitle>
+                  <unitdate type="inclusive">1865 Sep 11</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_f8c913e133769ae7c24d2d14f888d109"
+                             type="box">1</container>
+                  <container id="aspace_27fcf49182421e0d16d5beca1aea5285"
+                             type="folder"
+                             parent="aspace_f8c913e133769ae7c24d2d14f888d109">1</container>
+               </did>
+               <scopecontent id="aspace_2b5716ca967fc3fecca2de26143ce531">
+                  <head>Scope and Contents</head>
+                  <p>Tinker 370</p>
+               </scopecontent>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>ANS to W. Brochecon, [London?]</unittitle>
+                  <unitdate type="inclusive">1831 May 25</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_46e167221ce32a723420b58dfbc36628"
+                             type="box">1</container>
+                  <container id="aspace_31030bf18d027ef1c6266fa9551fb968"
+                             type="folder"
+                             parent="aspace_46e167221ce32a723420b58dfbc36628">2</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>ALS and ANS to Cerdier [unidentified]</unittitle>
+                  <unitdate type="inclusive">1833 Aug 11, n.d.</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_9006ce67013d90b139073b885bf3f0fc"
+                             type="box">1</container>
+                  <container id="aspace_e8db74ba62408e02d7cdd587d191fb00"
+                             type="folder"
+                             parent="aspace_9006ce67013d90b139073b885bf3f0fc">3</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>ALS to [Charles Augustin Coquerel], London</unittitle>
+                  <unitdate type="inclusive">1825 Aug 6</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_0b285a441f81d3ac1429a210e864244d"
+                             type="box">1</container>
+                  <container id="aspace_73a9a44f82d24bb7caca842003c91ee4"
+                             type="folder"
+                             parent="aspace_0b285a441f81d3ac1429a210e864244d">4</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>ANS to Miss Crumpe, [London?]</unittitle>
+                  <unitdate type="inclusive">1833 Feb 23</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_6125eb8b9cbb2451e8f0e5aa2aff73ec"
+                             type="box">1</container>
+                  <container id="aspace_cdec024df9c512a3e1b9f8fb1d607e5d"
+                             type="folder"
+                             parent="aspace_6125eb8b9cbb2451e8f0e5aa2aff73ec">5</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>ALS to [William Wallace Currie], London</unittitle>
+                  <unitdate type="inclusive">1826 Apr 18</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_e7fbe1de4d1e78d2327e65897378d553"
+                             type="box">1</container>
+                  <container id="aspace_c27423f16076bde6e0c85beb950137cd"
+                             type="folder"
+                             parent="aspace_e7fbe1de4d1e78d2327e65897378d553">6</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>2 ALS to William Hepworth Dixon, London and Claremont [?] Exeter</unittitle>
+                  <unitdate type="inclusive">1866 Jun 13, 1867 May 22</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_21e8165ca9d1e36b4e556266ed17a522"
+                             type="box">1</container>
+                  <container id="aspace_2855bd7821e17140d67ed4dc759e9d49"
+                             type="folder"
+                             parent="aspace_21e8165ca9d1e36b4e556266ed17a522">7</container>
+               </did>
+               <scopecontent id="aspace_18572efcff9bfeaa826810180908f784">
+                  <head>Scope and Contents</head>
+                  <p>Tinker 371, Tinker 372</p>
+               </scopecontent>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>ANS to William Jerden, [London?]</unittitle>
+                  <unitdate type="inclusive">1831 Aug 3</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_43b8e2e10ff5c2a81ebc036fceea9348"
+                             type="box">1</container>
+                  <container id="aspace_0c50de8067807b688600188c3cdf855c"
+                             type="folder"
+                             parent="aspace_43b8e2e10ff5c2a81ebc036fceea9348">8</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>5 ALS to Marc Antoine Jullien, London</unittitle>
+                  <unitdate type="inclusive">1821 Sep 23-[1830 Aug 4]</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_e838102f348553b3a87592231dc33845"
+                             type="box">1</container>
+                  <container id="aspace_3bd658c6a5ed530ce49f70de858456bd"
+                             type="folder"
+                             parent="aspace_e838102f348553b3a87592231dc33845">9</container>
+               </did>
+               <scopecontent id="aspace_526f0f08d4067c0206e6f911b806f766">
+                  <head>Scope and Contents</head>
+                  <p>1830 Aug 4 written inside a printed circular. Accompanied by a printed circular and a resolution (written in an unidentified hand and signed by Bowring) from the Peace Society, addressed to M. Jullien.</p>
+               </scopecontent>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>ALS to M. Moore (bookseller in Paris?), London</unittitle>
+                  <unitdate type="inclusive">1832 Feb 3</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_18121b7881a061f3b99e6974e549f312"
+                             type="box">1</container>
+                  <container id="aspace_05872f48ec2ebd345bc87129d5ed628f"
+                             type="folder"
+                             parent="aspace_18121b7881a061f3b99e6974e549f312">10</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>NS to [John Bowyer Nichols] the Editor of the Gentleman's Magazine</unittitle>
+                  <unitdate type="inclusive">1828 Jun 6</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_444026b9407e939f7527ebe203ff3a91"
+                             type="box">1</container>
+                  <container id="aspace_620cb1ed8c749b8ff17e82975780ea17"
+                             type="folder"
+                             parent="aspace_444026b9407e939f7527ebe203ff3a91">11</container>
+               </did>
+               <scopecontent id="aspace_99c990000e5a9d13a4a5db78c405c577">
+                  <head>Scope and Contents</head>
+                  <p>Written on the second (blank) leaf of a printed circular, London.</p>
+               </scopecontent>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>ANS to Edwin Norris, London</unittitle>
+                  <unitdate type="inclusive">1853 Dec 15</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_a1eab43c413b3761666d99210122f79e"
+                             type="box">1</container>
+                  <container id="aspace_f46198d4202722c231661566225790d0"
+                             type="folder"
+                             parent="aspace_a1eab43c413b3761666d99210122f79e">12</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>ALS in French to Louis Philippe, London</unittitle>
+                  <unitdate type="inclusive">1821 Aug 1</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_c53e942102e4451f295707c8bffcd589"
+                             type="box">1</container>
+                  <container id="aspace_25f36a6575969e8ce51c8486e749a7a2"
+                             type="folder"
+                             parent="aspace_c53e942102e4451f295707c8bffcd589">13</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>ALS to Archibald Prentice, Exeter</unittitle>
+                  <unitdate type="inclusive">1829 Jul 28</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_4cdf61d439f1853a06bc43e61068c33f"
+                             type="box">1</container>
+                  <container id="aspace_fc146f481285f673e8d1a1f880e2d158"
+                             type="folder"
+                             parent="aspace_4cdf61d439f1853a06bc43e61068c33f">14</container>
+               </did>
+               <scopecontent id="aspace_038100b9a4297bfade5654d0df7af185">
+                  <head>Scope and Contents</head>
+                  <p>On the same sheet: ALS from the author of the Catechism on the Corn Laws (Thomas Perronet Thompson), dated London, July 20, 1829.</p>
+               </scopecontent>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>ANS to Richard Ryan, London</unittitle>
+                  <unitdate type="inclusive">1824 Oct 29</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_bc41f4e07324fa610614cffa5f664fdd"
+                             type="box">1</container>
+                  <container id="aspace_5b39e9c7df94ea7cd3881c3c8a5c719d"
+                             type="folder"
+                             parent="aspace_bc41f4e07324fa610614cffa5f664fdd">15</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>2 form letters, with facsimile signatures of Sir John Bowring, addressed to C. A. Savage, London</unittitle>
+                  <unitdate type="inclusive">1824 Mar 22, Oct 12</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_d9209bd72719a2558a96501d65418a94"
+                             type="box">1</container>
+                  <container id="aspace_4432256eee80e5c9ef29bdafa2b13490"
+                             type="folder"
+                             parent="aspace_d9209bd72719a2558a96501d65418a94">16</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>ANS and ALS to C. R. Smith, London</unittitle>
+                  <unitdate type="inclusive">1842 May 18, May 5</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_2a657b386541755f5da5c5b240cf120b"
+                             type="box">1</container>
+                  <container id="aspace_3a8d6c55d1dd99a64d5884dc822cd391"
+                             type="folder"
+                             parent="aspace_2a657b386541755f5da5c5b240cf120b">17</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>ANS to the Rev. W[illiam] Tuckwell, Exeter</unittitle>
+                  <unitdate type="inclusive">1871 Dec 28</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_0125127b5781f0dafea71ab617cfadad"
+                             type="box">1</container>
+                  <container id="aspace_c2dfbb02474ade0126ea04eca6da89d7"
+                             type="folder"
+                             parent="aspace_0125127b5781f0dafea71ab617cfadad">18</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>ANS to the Rev. William Vidler, London</unittitle>
+                  <unitdate type="inclusive">1846 Nov 11</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_f211fda815290a28bc6c72164b9d5f36"
+                             type="box">1</container>
+                  <container id="aspace_fe04d455ff76ba52e236af42e2f92b44"
+                             type="folder"
+                             parent="aspace_f211fda815290a28bc6c72164b9d5f36">19</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>3 ALS to Edward Walford, Exeter and London</unittitle>
+                  <unitdate type="inclusive">1865 Mar 31-1871 Dec 1</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_d9487b084572008e024d9ef0638835f2"
+                             type="box">1</container>
+                  <container id="aspace_37167416a0d75886a9eaccf17e32f2cc"
+                             type="folder"
+                             parent="aspace_d9487b084572008e024d9ef0638835f2">20</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>3 ALS to Thomas Washorn, London</unittitle>
+                  <unitdate type="inclusive">1842 Mar 3-1846 Apr 30</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_db2baaf6a4ec4590fb41c967c63e2456"
+                             type="box">1</container>
+                  <container id="aspace_2794de5b510052d991af9785b3df18aa"
+                             type="folder"
+                             parent="aspace_db2baaf6a4ec4590fb41c967c63e2456">21</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>ALS to an unidentified recipient, London</unittitle>
+                  <unitdate type="inclusive">1828 Mar 12</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_0c5ec266b85b5f5206236765858f6d3c"
+                             type="box">1</container>
+                  <container id="aspace_35513b5210ba0b729e3524fbbad7740a"
+                             type="folder"
+                             parent="aspace_0c5ec266b85b5f5206236765858f6d3c">22</container>
+               </did>
+               <scopecontent id="aspace_0e94c1a5b8577806793bc5df492843a1">
+                  <head>Scope and Contents</head>
+                  <p>Probably to the editor of the <title type="simple" render="italic">
+                        Baptist Magazine
+                     </title>. Editor cannot be identified through the 1820 copy of the magazine or through the Baptist bibliographies of Starr and Whitley. Could be the publisher, G. Wightman, but more likely the editor.</p>
+               </scopecontent>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>ANS in French to David [unidentified], [Paris?]</unittitle>
+                  <unitdate type="inclusive">1830 Aug 29</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_f731df9c0d9ed070c5ff406ce2c032fd"
+                             type="box">1</container>
+                  <container id="aspace_d36cf0fc172bbf84c1bca04ed02f8b21"
+                             type="folder"
+                             parent="aspace_f731df9c0d9ed070c5ff406ce2c032fd">23</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>ALS in French to an unidentified recipient, Paris</unittitle>
+                  <unitdate type="inclusive">1834 Apr 8</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_f0a87edb9acf54ccaa207d8825d082ae"
+                             type="box">1</container>
+                  <container id="aspace_78df5cdd45d07ce802d6514f9329c76e"
+                             type="folder"
+                             parent="aspace_f0a87edb9acf54ccaa207d8825d082ae">24</container>
+               </did>
+               <scopecontent id="aspace_5cbb44db7ba310f756d8fa306de5ba3b">
+                  <head>Scope and Contents</head>
+                  <p>Forwarding his report on commercial relations between France and Britain.</p>
+               </scopecontent>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>ALS in French to an unidentified recipient, London</unittitle>
+                  <unitdate type="inclusive">1835 Mar 10</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_ee3263a506783f00bc03f722e73fdb72"
+                             type="box">1</container>
+                  <container id="aspace_5f532e8b48926196dd6641a48e44ee61"
+                             type="folder"
+                             parent="aspace_ee3263a506783f00bc03f722e73fdb72">25</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>2 ANS and 2 AN in the third person to miscellaneous unidentified recipients, [v.p.]</unittitle>
+                  <unitdate type="inclusive">1842 Jun 12-1870 Aug 23</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_08e9a4d1a6001628d1953f0d2019197a"
+                             type="box">1</container>
+                  <container id="aspace_c9dc25345adba3db94ee9b264a0ac46d"
+                             type="folder"
+                             parent="aspace_08e9a4d1a6001628d1953f0d2019197a">26</container>
+               </did>
+               <scopecontent id="aspace_43c76025c9313ca07342cf55fba98e76">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by Bowring's signature, cut from a letter, and a newspaper clipping.</p>
+               </scopecontent>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>ANS to an unidentified recipient, London</unittitle>
+                  <unitdate type="inclusive">1860 Apr 27</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_e47b9285f3cd5eb24721daf1b627bb0b"
+                             type="box">1</container>
+                  <container id="aspace_340512e7886f4f73f9e8a137479f30c8"
+                             type="folder"
+                             parent="aspace_e47b9285f3cd5eb24721daf1b627bb0b">27</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref46" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Autograph manuscript letter concerning commercial relations between France and England, written for publication in <title type="simple" render="italic">
+                        The Examiner
+                     </title>.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_b53ac7b0e5b418c27157457f64653a4f"
+                             type="box">1</container>
+                  <container id="aspace_714a9108a67af717258e3aee7eccbb7e"
+                             type="folder"
+                             parent="aspace_b53ac7b0e5b418c27157457f64653a4f">28</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Taxes: autograph manuscript poem in 3 stanzas, signed J. B.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_93d7ca4872e459601c380d6ed25bd426"
+                             type="box">1</container>
+                  <container id="aspace_e7710d97c81b83860647f130a039d66a"
+                             type="folder"
+                             parent="aspace_93d7ca4872e459601c380d6ed25bd426">29</container>
+               </did>
+               <scopecontent id="aspace_0d155cd537c848df6574e698801ac2eb">
+                  <head>Scope and Contents</head>
+                  <p>Note: "From the Western Times." Mounted over part of a letter concerning investment in iron mines from an unknown person.</p>
+               </scopecontent>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Autograph poem, signed at the top</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099310345)"
+                             id="aspace_96243c643e02677c6810067ca120beef"
+                             type="box">1</container>
+                  <container id="aspace_de0dd0772de1ca9add8b9e2ff6071146"
+                             type="folder"
+                             parent="aspace_96243c643e02677c6810067ca120beef">30</container>
+               </did>
+               <scopecontent id="aspace_ece177c62040822deb9ff5e21af26735">
+                  <head>Scope and Contents</head>
+                  <p>Tinker 369</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

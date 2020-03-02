@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20000122</eadid>
+
+<filedesc>
+        <titlestmt>
+            <titleproper>Henry Hill Papers</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Betsy Pittman.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2003  University of Connecticut</publisher>
+            <date type="publication">April 2003</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in April 2003.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20000122 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Hill, Henry.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Henry Hill Papers.</unittitle>
+         <unitdate label="Dates:">1805-1962.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">2.75 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The Hill Papers primarily consist of family correspondence to and from Henry Hill.  Other correspondents include his wife, Lucy M.R. Hill, several of their ten children and various family relations.  In addition, the collection contains materials pertaining to the business activities of the Hill and Russel families, particularly in regard to the acquisition of property.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS20000122</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography</head>
+         <p>
+            <persname>Henry Hill</persname> was born in <geogname>Guilford, Connecticut</geogname>, on <date>4 July 1778</date>.  In 1808 he was appointed by President <persname>Thomas Jefferson</persname> as U.S. Consul to the port of <geogname>San Salvador (Bahia), Brazil</geogname>.  He served until 1819, when he resigned because of failing health and  moved to a large plantation, Columbiano, some distance from Bahia.  He and his family lived  there for fourteen years before returning to the United States in 1833.  Hill resided in <geogname>Buffalo, New York</geogname>, until his death on <date>24 July 1841</date>.</p>
+         <p>According to the "Brief Historical Sketch of the American Consulate in Bahia" [Correspondence: Hill, Henry], <persname>Henry Hill</persname> remained as Consul at Bahia  until 11 July 1818, when he was named Consul at Rio de Janeiro, confirmed by the Senate on  30 November 1818.  He continued to be active in business at Rio de Janeiro, as he had  previously been at Bahia, until May 1821, at which time he left for the United States.
+</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The Hill Papers primarily consist of family correspondence to and from <persname>Henry Hill</persname>.  Other correspondents include his wife, <persname>Lucy M.R. Hill</persname>, several of their ten children and various family relations.  In addition,  the collection contains materials pertaining to the business activities of the Hill and  Russel families, particularly in regard to the acquisition of property.  Several members of  the Hill and Russel families were interested in genealogy. [Genealogical report is not available electronically because of software incompatability, please contact Archives &#x0026; Special Collections if you would like a copy.]</p>
+         <p>Note: <persname>Samuel Russel</persname>, <persname>Henry Hill</persname>'s father-in- law, spells his name with one "l".  Others, and in later generations members of the family,  spell it "Russell".    Materials in the "Unknown" correspondence files consist of letter  fragments, poems, two items in German and a letter in Spanish for which authorship could  not be determined.</p>
+      </scopecontent>
+      <arrangement encodinganalog="351$a" id="a4">
+         <head>Organization</head>
+         <p>
+            <emph render="bold">Series I: Publications</emph> (undated, 1835-1962) includes genealogical excerpts from several family members, a published collection of articles written by Leander Stratton, Obituaries and a plan for a bank, presumably drafted by Henry Hill.</p>
+         <p>
+            <emph render="bold">Series II:  Correspondence</emph> (undated, 1805-1962) contains correspondence to and from various members of the Hill and Russel extended families.  The materials are arranged by correspondent.</p>
+         <p>
+            <emph render="bold">Series III:  Other Documents</emph> (undated, 1812-1868) includes published and manuscript government, Financial, and Legal documents relating to the interests of Henry Hill and Samuel Russel.</p>
+         <p>
+            <emph render="bold">Series IV:  Special Format Materials</emph> (undated) contains needlework created by members of the Hill family, photographs, pieces of jewelry and a scabbard and Henry Hill's sword.
+</p>
+      </arrangement>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives &#x0026; Special Collections has a several collections pertaining to Latin America and Hispanic History and Culture.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=10">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The materials have been filed by subject.  Newspaper clippings have been photocopied.  Several family members have made transcriptions of letters over the years.  If the original is not in the collection, the transcription has been retained and filed as if it were the original.  All duplicates and newspaper clippings have been returned to the donor.</p>
+      </arrangement><!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Family Names:</head>
+            <famname encodinganalog="600" source="local">Hill family.</famname>
+            <famname encodinganalog="600" source="local">Russel family.</famname>
+         </controlaccess>
+         <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local">Brazil.</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">Diplomatic and consular service, American.</subject>
+            <subject encodinganalog="650" source="local">Diplomats--United States--Biography.</subject>
+            <subject encodinganalog="650" source="local">United States--Foreign relations--Brazil.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Publications.</genreform>
+            <genreform encodinganalog="655" source="local">Photographs.</genreform>
+            <genreform encodinganalog="655" source="local">Financial Records.</genreform>
+            <genreform encodinganalog="655" source="local">Legal Records.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">U.S. Consul to Brazil.</occupation>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #], Henry Hill Papers.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>
+         </p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The collection was donated to Archives &#x0026; Special Collections in November 2000 by <persname>Hill Bullard</persname>.
+</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I: Publications, <unitdate>1835-1962</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>
+                     <title render="italic">Antler</title>, <unitdate>1936</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>Articles, <unitdate>1930-1962</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>Genealogical extracts, <unitdate>undated, 1918-1951</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>"Prospective plan for a Bank...", <unitdate>1835</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Correspondence, <unitdate>1805-1962</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>
+                     <persname>Brown, Wesley</persname>, <unitdate>1878</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>Business Correspondence, <unitdate>undated, 1808-1840</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:45</container>
+                  <unittitle>Business Correspondence, <unitdate>1808-1819</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>
+                     <corpname>Charles Reicke and Bros.</corpname>, <unitdate>1862</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>Family genealogical correspondence, <unitdate>1883-1962</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:46</container>
+                  <unittitle>Family genealogical correspondence, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:58</container>
+                  <unittitle>
+                     <persname>Bainbridge, Commodore</persname>, <unitdate>1812</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>
+                     <persname>Bates, Thomas</persname>, <unitdate>undated, 1838</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>
+                     <persname>Elliot, Charles</persname>, <unitdate>1871</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>
+                     <persname>Elliott, Henry H.</persname>, <unitdate>1831</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>
+                     <persname>Foster, Arch.</persname>, <unitdate>1839-1845</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>
+                     <persname>Hill, Benjamin</persname>, <unitdate>1834</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>
+                     <persname>Hill, Edward R.</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>
+                     <persname>Hill, George</persname>, <unitdate>1871</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>
+                     <persname>Hill, Henry, Sr.</persname>, <unitdate>1827</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>
+                     <persname>Hill, Henry</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>
+                     <persname>Hill, Henry</persname>, <unitdate>1805-1819</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:47</container>
+                  <unittitle>
+                     <persname>Hill, Henry</persname>, <unitdate>1812-1834</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>
+                     <persname>Hill, Henry</persname>, <unitdate>1833-1839</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>
+                     <persname>Hill, Henry Marcus</persname>, <unitdate>1862</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:48</container>
+                  <unittitle>
+                     <persname>Hill, Leah</persname>, <unitdate>1819</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:21</container>
+                  <unittitle>
+                     <persname>Hill, Lucy M. Russel</persname>, <unitdate>undated, 1810-1860</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:49</container>
+                  <unittitle>
+                     <persname>Hill, Lucy M. R.</persname>, <unitdate>1826-1828</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:22</container>
+                  <unittitle>
+                     <persname>Hill, Mary Georgiana</persname>, <unitdate>1870</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:50</container>
+                  <unittitle>
+                     <persname>Hill, Sarah R.</persname>, <unitdate>1833</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:23</container>
+                  <unittitle>Introduction to <persname>Washington Irving</persname>, <unitdate>1837</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:24</container>
+                  <unittitle>
+                     <persname>Jacobs, Oliver</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:25</container>
+                  <unittitle>
+                     <persname>Lawler, V. W.	</persname>, <unitdate>1867</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:26</container>
+                  <unittitle>
+                     <persname>Lyon, Ann</persname>, <unitdate>1833</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:27</container>
+                  <unittitle>
+                     <persname>Mitchell, M.A.</persname>, <unitdate>18?? [1810]</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:28</container>
+                  <unittitle>
+                     <persname>Pinneo, Bazaleel</persname>, <unitdate>1831</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:51</container>
+                  <unittitle>
+                     <persname>Pinneo, Leah H.</persname>, <unitdate>1830</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:29</container>
+                  <unittitle>
+                     <persname>Russel, Samuel</persname>, <unitdate>undated, 1811-1834</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:52</container>
+                  <unittitle>
+                     <persname>Russel, Samuel</persname>, <unitdate>1828-1831</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:53</container>
+                  <unittitle>
+                     <persname>Russell, Sarah</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:30</container>
+                  <unittitle>
+                     <persname>Russell, Sarah J.</persname>, <unitdate>1851</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:31</container>
+                  <unittitle>
+                     <persname>Stratton, C.</persname>, <unitdate>1898</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:32</container>
+                  <unittitle>
+                     <persname>Stratton, Cora</persname> and <persname>Stratton, Nettie</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:33</container>
+                  <unittitle>
+                     <persname>Stratton, Harriet (Hattie) R.</persname>, <unitdate>1921</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:34</container>
+                  <unittitle>
+                     <persname>Stratton, Henry Hill</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:35</container>
+                  <unittitle>
+                     <persname>Stratton, Lorenzo</persname>, <unitdate>1866</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:36</container>
+                  <unittitle>
+                     <persname>Tomlinson, Sarah H.</persname>, <unitdate>1830-1835</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:37</container>
+                  <unittitle>
+                     <persname>Unidentified</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:54</container>
+                  <unittitle>
+                     <persname>Unidentified</persname>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:38</container>
+                  <unittitle>
+                     <persname>Williams, D.W.</persname>, <unitdate>1858</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:39</container>
+                  <unittitle>
+                     <persname>Williams, Harriet W.</persname>, <unitdate>undated, 1830-1876</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III: Other Documents, <unitdate>1812-1868</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">2:55</container>
+                  <unittitle>Financial, <unitdate>undated, 1834</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:40</container>
+                  <unittitle>Financial, <unitdate>undated, 1835-1840</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:56</container>
+                  <unittitle>Government, <unitdate>1815, 1868</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:41</container>
+                  <unittitle>Government, <unitdate>undated, 1831</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:42</container>
+                  <unittitle>
+                     <title render="italic">Journal of a Voyage to Columbiano</title>, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:57</container>
+                  <unittitle>Legal, <unitdate>1812, 1837</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:43</container>
+                  <unittitle>Legal, <unitdate>1836</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series IV: Special Format Materials, <unitdate>undated</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:44</container>
+                  <unittitle>Photographs, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Linen cross-stitch sampler, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Embroidered napkins, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Linen with Portuguese lace, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Pieces and designs for jewelry, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3</container>
+                  <unittitle>Pieces of metal scabbard (presumably for sword), <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">Roll</container>
+                  <unittitle>Sword, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

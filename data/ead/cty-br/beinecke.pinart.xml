@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.pinart">beinecke.pinart</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Alphonse Louis Pinart Native American Vocabularies
+ </titleproper>
+            <titleproper type="filing">Pinart (Alphonse Louis) Native American Vocabularies</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>August 1995</date>
+            <num>WA MSS S-285</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday March 27, 2019 at 03:11</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Native American vocabularies</unittitle>
+         <unitid>WA MSS S-285</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="spa">Spanish; Castilian</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">7.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(6 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1646/1789">1646-1789</unitdate>
+         
+         <abstract id="aspace_facb7ec2cd5188d0d2e5cbc23ed9cc4a">Chiefly Native American vocabularies in French and Spanish, most of which were created or transcribed by Alponse Louis Pinart. Also includes a few vocabularies for West African languages.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/nr00032200"
+                      source="naf">
+               Pinart, A. L. (Alphonse Louis), 1852-1911
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_a799cb8a33ba7c751379b75ed38053c2">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of William Robertson Coe.</p>  
+      </acqinfo>
+      <userestrict id="aspace_54784d5afd5314712ee4346f497171a7">
+         <head>Conditions Governing Use</head>
+         <p>The Alphonse Louis Pinart Native American Vocabularies are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_f6a1df8cb66be496d7ef58a65067282c">
+         <head>Preferred Citation</head>
+         <p>Alphonse Louis Pinart Native American Vocabularies. Yale Collection of Western Americana. Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_6fed7a8d338b45de6a7acad67f16225a">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_416b89cdd085ed93803b8fb395a0eac9">
+         <head>Scope and Contents</head>
+         <p>Alponse Louis Pinart (1852-1911), French linguist, traveled in America collecting vocabularies for various Indian languages for publication. The papers consist chiefly of Native American vocabularies in French and Spanish, most of which were created or transcribed by Alponse Louis Pinart. The collection also includes a few vocabularies for West African languages.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            African languages -- Glossaries, vocabularies, etc.
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85020981"
+                  source="lcsh">
+            Catechisms
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85065103"
+                  source="lcsh">
+            Indians of Central America -- Languages
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85065312"
+                  source="lcsh">
+            Indians of North America -- Languages
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85065564"
+                  source="lcsh">
+            Indians of South America -- Languages
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85001707"
+                   source="lcsh">
+            Africa, West -- Languages
+         </geogname>
+         <occupation source="local">
+            Linguists
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79089974"
+                   source="naf">
+            Innokentiĭ, Saint, Metropolitan of Moscow and Kolomna, 1797-1879
+         </persname>
+         <persname source="local">
+            Berlioz, Alexandre, bishop, 1852-1929
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50026930"
+                   source="naf">
+            Dudley, Robert, Sir, 1574-1649
+         </persname>
+         <persname rules="aacr" source="local">
+            Hall, Alfred J. (Alfred James), 1853-1918
+         </persname>
+         <persname source="local">
+            Lecombe, Albert, 1827?-1911
+         </persname>
+         <persname rules="aacr" source="local">
+            Lemmeus, J. I.
+         </persname>
+         <persname rules="aacr" source="local">
+            Llisa, Pedro de, Fray
+         </persname>
+         <persname rules="aacr" source="local">
+            Montoya, Francisco
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82074271"
+                   source="naf">
+            Orbigny, Alcide Dessalines d', 1802-1857
+         </persname>
+         <persname source="local">
+            Ortíz, Josef Anselmo
+         </persname>
+         <persname rules="aacr" source="local">
+            Paredes, Joaquin de
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr00032200"
+                   source="naf">
+            Pinart, A. L. (Alphonse Louis), 1852-1911
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr2004032736"
+                   rules="aacr"
+                   source="naf">
+            Rivera, Antonio de
+         </persname>
+         <persname rules="aacr" source="local">
+            Urbano, Alonso
+         </persname>
+         <persname rules="aacr" source="local">
+            Vivero, Feliciano Antonio
+         </persname>
+         <persname source="local">
+            Composeco Lorenzana, Josef de
+         </persname>
+         <persname rules="aacr" source="local">
+            La Fuente Alvarez, Juam José de
+         </persname>
+         <persname rules="aacr" source="local">
+            Morales y Austina, Nicolas de
+         </persname>
+         <persname rules="aacr" source="local">
+            Ruano Suarez, Alberto
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Box and Folder List</unittitle>
+            </did>
+            <scopecontent id="aspace_9551fa07a54ffe1de13eec48f2334045">
+               <head>Scope and Contents</head>
+               <p>Note: All works listed are by Alphonse Louis Pinart unless otherwise indicated.</p>
+            </scopecontent>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Lenguas Indigenas de la Baja California. Documentos y vocabularios extratos de varios autores publicados nuevamente.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332552)"
+                             id="aspace_88596f1bc9abf8523454400f65b4f192"
+                             type="box">1</container>
+                  <container id="aspace_5322f0365abc0825ed530eaf1bd10d43"
+                             type="folder"
+                             parent="aspace_88596f1bc9abf8523454400f65b4f192">1</container>
+               </did>
+            </c>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>Vocabulaires des Differents Dialectes Cowitchin (Ile de Vancouver? Riviere Frazer? etc). Publiées d'apres des travaux divers par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332552)"
+                             id="aspace_bfd2ddd24f0dfae5007239c2e4cc2f29"
+                             type="box">1</container>
+                  <container id="aspace_8e103696cb945dc539e92bd80cff1b83"
+                             type="folder"
+                             parent="aspace_bfd2ddd24f0dfae5007239c2e4cc2f29">2</container>
+               </did>
+            </c>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Moreno, arreglado y puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332552)"
+                             id="aspace_4bf6b7c1af30f1a33625271086b080a5"
+                             type="box">1</container>
+                  <container id="aspace_7362cf1338dcd99995625bf2b8c717d9"
+                             type="folder"
+                             parent="aspace_4bf6b7c1af30f1a33625271086b080a5">3</container>
+               </did>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>San Joaquin, Joaquin de. Vocabulario de la lengua Ceona, escrita por el Padre Joaquin de San Joaquin, misionero. Sacado de dos ms. del siglo pasado y dado a luz pro primera vez por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332552)"
+                             id="aspace_4e457fdf2812ab82608502e2c434c631"
+                             type="box">1</container>
+                  <container id="aspace_65e245293218cdd703cb32f92b230dc7"
+                             type="folder"
+                             parent="aspace_4e457fdf2812ab82608502e2c434c631">4</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Jicaque, sacado de varios compiladores y arreglado segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332552)"
+                             id="aspace_02cf54926303d06703ddb99620ed0da5"
+                             type="box">1</container>
+                  <container id="aspace_5f7fb787ed7b0b31def342393bc0b5a5"
+                             type="folder"
+                             parent="aspace_02cf54926303d06703ddb99620ed0da5">5</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Vocabularios de los lenguas indigenas de la Alta California.</unittitle>
+               </did>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>I. Lenguas de la mision de San Carlos de Monterey. Lenguas de la familia Mutsun. Lenguas de la familia Yokut.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002091332552)"
+                                id="aspace_4c89a03750a96e15f7efe95086164243"
+                                type="box">1</container>
+                     <container id="aspace_4cf0e0aabb2eda0a847ce90a1c7c47df"
+                                type="folder"
+                                parent="aspace_4c89a03750a96e15f7efe95086164243">6</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>II. Lenguas de la familias de Santa Barbara, San Antonio, Aomo, Shasta y Achomawi.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002091332552)"
+                                id="aspace_76baa3fc730a894afbeb65aea302655e"
+                                type="box">1</container>
+                     <container id="aspace_083d3c8be64d06d9664c08692c81f6e0"
+                                type="folder"
+                                parent="aspace_76baa3fc730a894afbeb65aea302655e">7</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>III. Lenguas de la familia Patwin - Wintum, Maidu, Nishinam y Niwok.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002091332552)"
+                                id="aspace_05655b3c23571b319d0debd63d033fff"
+                                type="box">1</container>
+                     <container id="aspace_fbf99aa48d627ac19bd77d47491da50f"
+                                type="folder"
+                                parent="aspace_05655b3c23571b319d0debd63d033fff">8</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>IV. Familias Karok, Yurok, Klamath, Chimasiko, Wishok, Yuki.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002091332552)"
+                                id="aspace_c6a478a9cf9bf30d425a7dbbd455cdfd"
+                                type="box">1</container>
+                     <container id="aspace_e8d57387d55c34d4044994cd349986f0"
+                                type="folder"
+                                parent="aspace_c6a478a9cf9bf30d425a7dbbd455cdfd">9</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>V. Familias Numa y Yuma.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002091332552)"
+                                id="aspace_f37481a75892bce678adaffa565aae8e"
+                                type="box">1</container>
+                     <container id="aspace_1051083a9ada01b7d4c986bdbc6bca72"
+                                type="folder"
+                                parent="aspace_f37481a75892bce678adaffa565aae8e">10</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Vocabulario de la lengua Seri de los indios de la isla de Tiburon por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_c388038aab2c088d1a6608380d4ae3a4"
+                             type="box">2</container>
+                  <container id="aspace_bd9a74ba43d6d0de4165f20b31590604"
+                             type="folder"
+                             parent="aspace_c388038aab2c088d1a6608380d4ae3a4">11</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Vocabulaire Français-Thlinkit (dialectes de Sitka et Stikine).</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_a7523fdcc305bb3ddee3dacd1943dd98"
+                             type="box">2</container>
+                  <container id="aspace_9ea3bd078b45f4a56e820dda410b92ef"
+                             type="folder"
+                             parent="aspace_a7523fdcc305bb3ddee3dacd1943dd98">12</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Catecismo en Lengua Cunacuna. Ms de la biblioteca de Sr. Don Jose Rufino Cuervo.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_76cbdc7a1a4076d9d8f6c7d7be71482c"
+                             type="box">2</container>
+                  <container id="aspace_b07895864b5a6ed11c81605eaedc9448"
+                             type="folder"
+                             parent="aspace_76cbdc7a1a4076d9d8f6c7d7be71482c">13</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Llisa, Pedro de, fray. Pequeño Catecismo Cristiano en la lengua de los indios del Darien, por el R.P. fray Pedro de Llisa, M. Cap., revista por los S.S. Don Alfonso Pinart y Don Tomas J. Carranza.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_0034c9dbb21ec9fc0eb18e8f5a8feb75"
+                             type="box">2</container>
+                  <container id="aspace_162f850534834708dc9a56acea8e0ebf"
+                             type="folder"
+                             parent="aspace_0034c9dbb21ec9fc0eb18e8f5a8feb75">14</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Vocabulaire de Jargon Chinook, accompagné d'un recueil de prieres. Publié d'apres un Ms de la Bibliothèque National par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_8ce98dac9f3a39872206549df966cdca"
+                             type="box">2</container>
+                  <container id="aspace_905cb009189530fa01b261290b920dbb"
+                             type="folder"
+                             parent="aspace_8ce98dac9f3a39872206549df966cdca">15</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Vocabularios de la lengua Apache, recopilados por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_86d1e9e0a797dceeec81d1abced6f38c"
+                             type="box">2</container>
+                  <container id="aspace_fb55d559b4bf04565e61b97982691cf2"
+                             type="folder"
+                             parent="aspace_86d1e9e0a797dceeec81d1abced6f38c">16</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>Lacombe, Albert. Petit vocabulaire de la langue des indiens Pieds-Noirs, gens du sang et piegans, recueilli par le R.P. A. Lacombe, O.M.F. et les missionaires oblats de Marie Immaculée; publié par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_025554bbab727caa6992bf13438fa572"
+                             type="box">2</container>
+                  <container id="aspace_267cfe36cf556a567edbaf2023fee3b0"
+                             type="folder"
+                             parent="aspace_025554bbab727caa6992bf13438fa572">17</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Vocabulaires des dialectes Eskimos Occidentaux (Mer de Bering et Ocean Glaciale).</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_b445c964ce4a86a4b3efd2340bc7acf1"
+                             type="box">2</container>
+                  <container id="aspace_425b944810b48b4ff684181355895915"
+                             type="folder"
+                             parent="aspace_b445c964ce4a86a4b3efd2340bc7acf1">18</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>Bible. Eskimo. Selections. Traduction biblique en langue Eskimo.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_581843a99db0be7839db02cfb58db1ed"
+                             type="box">2</container>
+                  <container id="aspace_f1b0ce8bad9489a407e237101bc926d7"
+                             type="folder"
+                             parent="aspace_581843a99db0be7839db02cfb58db1ed">19</container>
+               </did>
+               <scopecontent id="aspace_87848bd071c035a065b4da5c131c362f">
+                  <head>Scope and Contents</head>
+                  <p>Translated by A. L. Pinart?</p>
+               </scopecontent>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Tabieu. Vocabulaire en langue Banda (Haut Oubanghi); dialectes du Togbo - Gobu - Langbaire par le Frere Tabieu.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332560)"
+                             id="aspace_0ef170a54adaad3d3f030d6d3c29fe2c"
+                             type="box">2</container>
+                  <container id="aspace_9d1b9a78151702b121d1ca093f3a6096"
+                             type="folder"
+                             parent="aspace_0ef170a54adaad3d3f030d6d3c29fe2c">20</container>
+               </did>
+               <scopecontent id="aspace_207720c8d4b7af6d554810ba33301b3f">
+                  <head>Scope and Contents</head>
+                  <p>Comp. by A. L. Pinart.</p>
+               </scopecontent>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Essai de grammaire Masaie; Vocabulaire Français-Masaie; Vocabulaire Masaie- Français.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_a48bda5809208c9e4978a40bea2c874e"
+                             type="box">3</container>
+                  <container id="aspace_90c2713e2f40978f7910f1f1ae3cf68e"
+                             type="folder"
+                             parent="aspace_a48bda5809208c9e4978a40bea2c874e">21</container>
+               </did>
+               <scopecontent id="aspace_6591cf73516ce3e97263bf5e70c7b3fe">
+                  <head>Scope and Contents</head>
+                  <p>Comp. by A. L. Pinart.?</p>
+               </scopecontent>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>Vocabularios de las lenguas indigenas de Los Estados de Nevada y Utah, de la familia Numa-Uta-Shoshone. Recopilados y publicados por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_41aaa1670485a5b0f12efe4e32cbe59b"
+                             type="box">3</container>
+                  <container id="aspace_047303e67b4862fd084e101c76f5956a"
+                             type="folder"
+                             parent="aspace_41aaa1670485a5b0f12efe4e32cbe59b">22</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Vivero, Feliciano Antonio. Vocabulario Breve Castellano - Zoque, formado en Tuxtla a 3 de Febrero de 1789 por el R.P. fray Feliciano Antonio Vivero.</unittitle>
+                  <unitdate type="inclusive">1789 Feb 3</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_4a2651d7e282f3604f50373ab5991ba7"
+                             type="box">3</container>
+                  <container id="aspace_fded22d5255092b93872fda842e44af7"
+                             type="folder"
+                             parent="aspace_4a2651d7e282f3604f50373ab5991ba7">23</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>Camposeco Lorenzana, Josef de. Pequeño Vocabulario Castellano - Mam, formado en Istahuacan a Marzo de 1789 por el P. fray Josef de Camposeco Lorenzanz. Arreglado y puesto de bajo el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Mar</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_2173c12e6d6a4bd1cf943a4127082a16"
+                             type="box">3</container>
+                  <container id="aspace_327965690fe472d3a5a6cbef84e11abb"
+                             type="folder"
+                             parent="aspace_2173c12e6d6a4bd1cf943a4127082a16">24</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>Padres, Joaquin de. Vocabulario Breve Castellano - Cakchiquel, formado en Teepan, Guatemala, en 1789 por el P. Joaquin de Paredes.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_6d764655f081873e1bca796712d94c5b"
+                             type="box">3</container>
+                  <container id="aspace_7b9c3827a6d15027de4d7230db164ee5"
+                             type="folder"
+                             parent="aspace_6d764655f081873e1bca796712d94c5b">25</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Vocabulario Breve Castellano - Quiche - Cacchipokonchi, formado por los P.P. de St. Domingo.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_7df85da00d9c10c9c6884be936a257db"
+                             type="box">3</container>
+                  <container id="aspace_6cae8fb8e177dcff9c88a0eb4f0e38a6"
+                             type="folder"
+                             parent="aspace_7df85da00d9c10c9c6884be936a257db">26</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>Morales y Astina, Nicolas de. Pequeño Vocabulario Castellano - Tzotzil, formado en el pueblo de San Andres a 27 de Enero de 1789 por el R.P. fray Nicolas de Morales y Astina, arreglado y puesto sobre el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Jan 27</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_2fb5c2052565e125fc05f7dbacdecbeb"
+                             type="box">3</container>
+                  <container id="aspace_9f25f2eaf7d17c99a1ef3db963fcaedc"
+                             type="folder"
+                             parent="aspace_2fb5c2052565e125fc05f7dbacdecbeb">27</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>Vocabulario breve de las lenguas Cabecar y Viccita, escrito en 1789 por los P.P. de Colegio de Cristo Crucificado de Guatemala.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_1afa2e0faaeab9831999e8dbd40a8dc4"
+                             type="box">3</container>
+                  <container id="aspace_f585d57be0547892c8a5ed02b0783286"
+                             type="folder"
+                             parent="aspace_1afa2e0faaeab9831999e8dbd40a8dc4">28</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Terraba, formado en 1789 por los P.P. del Colegio de Cristo Crucificado de Guatemala, publicado ahora A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_fce8c876a28319a360502906825b3250"
+                             type="box">3</container>
+                  <container id="aspace_d09e4f63d78f1150807d572f51a8977d"
+                             type="folder"
+                             parent="aspace_fce8c876a28319a360502906825b3250">29</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Tzendal, formado en 1789 por un anonimo, nuovamente arreglado y publicado por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_be39e7bed2c49affc11834b1cf86a830"
+                             type="box">3</container>
+                  <container id="aspace_e93ddd60252c54bd350db75ebc08d1b9"
+                             type="folder"
+                             parent="aspace_be39e7bed2c49affc11834b1cf86a830">30</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Vocabulario Chinook.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_25f0f898756d8d2481ed8cbdd9ca0137"
+                             type="box">3</container>
+                  <container id="aspace_67a54b1f11ed286b6651d84fa0d081e8"
+                             type="folder"
+                             parent="aspace_25f0f898756d8d2481ed8cbdd9ca0137">31</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>[Vocabularies of various Pueblo Indian dialects]</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_2f54314ab655df9e9fc718ccd1810b96"
+                             type="box">3</container>
+                  <container id="aspace_fe6a8aaa0d7ba5e25a9c40163c35508f"
+                             type="folder"
+                             parent="aspace_2f54314ab655df9e9fc718ccd1810b96">32</container>
+               </did>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>Orbigny, Alcide Dessalines d'. Vocabularios de las lenguas Itonama y Ytene y confesionario en lengua Itonama, sacados de los papeles de A. d'Orbigny y publicados A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_d9cf0132efa55706447df59aa3b042e4"
+                             type="box">3</container>
+                  <container id="aspace_fc454f78133c2fd844d3ba3780bca9bd"
+                             type="folder"
+                             parent="aspace_d9cf0132efa55706447df59aa3b042e4">33</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Lemmeus, J. I. Vocabulaire de dialectes Kwakiool recueillis par Msgr. J. I. Lemmeus et d'autres investigateurs, suivis d'un court vocabulaire de la langue Bilhoola. Publiés par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332578)"
+                             id="aspace_f133bb7d1347509839c463cf91ebbd86"
+                             type="box">3</container>
+                  <container id="aspace_d269b62aeb3773104054574ffad6bd2b"
+                             type="folder"
+                             parent="aspace_f133bb7d1347509839c463cf91ebbd86">34</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Vocabulaires de la langue Aht de la côte ouest de Vancouver. Publiés par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_b375ddb8bfb1a64e582165e51725fdcc"
+                             type="box">4</container>
+                  <container id="aspace_8de5eb56b40679e461cf5c4fe622e8fd"
+                             type="folder"
+                             parent="aspace_b375ddb8bfb1a64e582165e51725fdcc">35</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>Hall, Alfred James. Notes grammaticales sur la langue Kwagiutl (Kwakiool) par le Reverend Alfred Hall à Alert Bay.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_f2593bf4f06ec5224e50183eff296d87"
+                             type="box">4</container>
+                  <container id="aspace_8033a0c39f29a36a52bb70471b4f5bc1"
+                             type="folder"
+                             parent="aspace_f2593bf4f06ec5224e50183eff296d87">36</container>
+               </did>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Vocabulaires Divers.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_d1019548d4059462f61d7392d78c2cdb"
+                             type="box">4</container>
+                  <container id="aspace_4e99da7343cfa55a717f90d67c40679e"
+                             type="folder"
+                             parent="aspace_d1019548d4059462f61d7392d78c2cdb">37</container>
+               </did>
+               <scopecontent id="aspace_479e389428fd64bb8d56049632158533">
+                  <head>Scope and Contents</head>
+                  <p>Vocabularies of various northwest coast dialects compiled from different sources.</p>
+               </scopecontent>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Orbigny, Alcide Dessalines d'. Vocabularios de las lenguas Canichana, Cayuvava, Chacara, Movima, Muchojene, Pacaquara, Sarabeca y Curiminaca del departamento del Beni, etc. En la Republica de Bolivia, estraidos de los manuscritos de Alcide d'Orbigny y ahora publicados [por] A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_bcb110e0b80bec7ea9f57ccc65edcd29"
+                             type="box">4</container>
+                  <container id="aspace_4ef43fc88473a37b9d073405a2fd7e25"
+                             type="folder"
+                             parent="aspace_bcb110e0b80bec7ea9f57ccc65edcd29">38</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>Rivera, Antonio de. Pequeño Vocabulario Castellano - Chanabal formado en Comitan (29 de Enero de 1789) por el R.P. fray Antonio de Rivera y ahora puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Jan 29</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_f6125376e80a81cbfde37dcddd555e05"
+                             type="box">4</container>
+                  <container id="aspace_c1f10934be8ab2ab4eac852609f99d13"
+                             type="folder"
+                             parent="aspace_f6125376e80a81cbfde37dcddd555e05">39</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Orbigny, Alcide Dessalines d'. Vocabulario de la lengua Mathaguaya Bejosa o Macatay. Sacado de los papeles manuscritos de Alcide d'Orbigny por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_034e18c1546222776362ad52c45fa52d"
+                             type="box">4</container>
+                  <container id="aspace_b334f92aab30f8e4126c5abb1c44c752"
+                             type="folder"
+                             parent="aspace_034e18c1546222776362ad52c45fa52d">40</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Ruano Suarez, Alberto. Pequeño Vocabulario Castellano - Chorti, ahora puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">[1897]</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_52e28540e3e5f39cd55282992ebb99ae"
+                             type="box">4</container>
+                  <container id="aspace_c9df15c9e32cac0b5f52053ded8487bb"
+                             type="folder"
+                             parent="aspace_52e28540e3e5f39cd55282992ebb99ae">41</container>
+               </did>
+               <scopecontent id="aspace_161801ec2dbc48fd0960706c600458d5">
+                  <head>Scope and Contents</head>
+                  <p>"El presente vocabulario fue publicada ... en la obra de ... Alberto Mimbreño titulada <title type="simple" render="italic">
+                        Honduranismos
+                     </title>, Tegucigalpa, 1897, a quien lo comunico ... Alberto Ruano Suarez."</p>
+               </scopecontent>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Pokoman, formado en 1789 por un autor anonimo, ahora publicado por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_b75b915a8545b3131f5e9ec1c7d961af"
+                             type="box">4</container>
+                  <container id="aspace_5a0254ee48811e4acd42457af202b462"
+                             type="folder"
+                             parent="aspace_b75b915a8545b3131f5e9ec1c7d961af">42</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Ortiz, Josef Anselmo. Pequeño Vocabulario Castellano - Subina, formado por el P. fray Joseph Anselmo Ortiz en Zocoltenango a 10 de Febrero de 1789. Arreglado y puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Feb 10</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_ec30641d75e178a38154ade064e641cb"
+                             type="box">4</container>
+                  <container id="aspace_3fb513f994eda62772bb772a7d07240e"
+                             type="folder"
+                             parent="aspace_ec30641d75e178a38154ade064e641cb">43</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>La Fuente, Alvarez, Juan Jose de. Pequeño Vocabulario Castellano - Chol, formado en el pueblo de Tila 26 de Enero 1789 por el R.P. fray Juan Jose de la Fuente Albarez. Publicado por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Jan 26</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_3279d22eaaae9978b5851b768e49960d"
+                             type="box">4</container>
+                  <container id="aspace_aa2bbfe1a257877b389c774e42ae8d82"
+                             type="folder"
+                             parent="aspace_3279d22eaaae9978b5851b768e49960d">44</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Montoya, Francisco. Pequeño Vocabulario Castellano - Chiapaneco, formada en Chiapa a 27 de Febrero de 1789 por el R.P. fray Francisco Montoya. Arreglado y puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789 Feb 27</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_b358d83ecd40cf3642b3105c0b08ca80"
+                             type="box">4</container>
+                  <container id="aspace_cb54d0fa2390a4f7b2949731c3e0a8f5"
+                             type="folder"
+                             parent="aspace_b358d83ecd40cf3642b3105c0b08ca80">45</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Pinart, Alphonse Louis, ed. Recueil de prieres de l'église orthodoxe russe traduites dan le dialecte Aglagmiute de Nushagak et du Kushkokvine, Mer de Behring, Alaska. Transcrit et revu par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_a679d6991c9639cf2ba85bfb801d6ce7"
+                             type="box">4</container>
+                  <container id="aspace_b6d8e5c673c3dd87128906137825513b"
+                             type="folder"
+                             parent="aspace_a679d6991c9639cf2ba85bfb801d6ce7">46</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Innokentii, metropolitan of Moskow. Catechisme et essais d'enseignement Chretien avec les prieres de l'église orthodoxe russe traduits en langue Aleaute d'ounalaska et des notes répondants au dialecte a'Atkha, par les P.P. J. Veniaminoff et J. Netsvietoff. Transcrit et revu par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_438793e43f87baeacf01b1fddd1a9097"
+                             type="box">4</container>
+                  <container id="aspace_d930a29f9732680cbba4aab6f2323642"
+                             type="folder"
+                             parent="aspace_438793e43f87baeacf01b1fddd1a9097">47</container>
+               </did>
+               <scopecontent id="aspace_4b12bfcb9b3f1fa939ca43972557827e">
+                  <head>Scope and Contents</head>
+                  <p>Pub. 1840 with title: <title type="simple" render="italic">
+                        Nachatki kristianskago uchenie
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>Berlioz, Alexandre, bp. Petit Catechisme Ainu, traduit par Msgr. Berlioz, Eveque d'Hakodati; transcrit et publié par A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_13b0b3ac0afd0c36b0b73615ec075853"
+                             type="box">4</container>
+                  <container id="aspace_c14f6d30fc753efe61f08195999eef9f"
+                             type="folder"
+                             parent="aspace_13b0b3ac0afd0c36b0b73615ec075853">48</container>
+               </did>
+            </c>
+            <c id="ref65" level="file">
+               <did>
+                  <unittitle>Pequeño Vocabulario Castellano - Sumus, arreglado y puesto segun el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_b6d5552d525c322eef38e49e19c55c9f"
+                             type="box">4</container>
+                  <container id="aspace_1bdedd4f1a88da711bb71a71fcce3fcb"
+                             type="folder"
+                             parent="aspace_b6d5552d525c322eef38e49e19c55c9f">49</container>
+               </did>
+            </c>
+            <c id="ref66" level="file">
+               <did>
+                  <unittitle>Pinart, Alphonse Louis, ed. Pequeño Vocabulario Castellano - Pupuluca, formado en 1789 por un padre anonimo; arreglado y puesto por el orden alfabético por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">1789</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_13760114849fc0f23d03ec286861305b"
+                             type="box">4</container>
+                  <container id="aspace_4e69f448eb520b051e9244be591d6c34"
+                             type="folder"
+                             parent="aspace_13760114849fc0f23d03ec286861305b">50</container>
+               </did>
+            </c>
+            <c id="ref67" level="file">
+               <did>
+                  <unittitle>Dudley, Robert, Sir, styled Duke of Northumberland and Earl of Warwick. Vocabularios de lenguas Americanas y de la de Madagascar sacados de la importante obra de Dudley, Duque de Northumberland, y pulicados novamente por A. L. Pinart.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332586)"
+                             id="aspace_93dfe9dcfcde4ba195f7bce3d190e78f"
+                             type="box">4</container>
+                  <container id="aspace_819f6aaa283f0e3da2230e640f68d7b8"
+                             type="folder"
+                             parent="aspace_93dfe9dcfcde4ba195f7bce3d190e78f">51</container>
+               </did>
+               <scopecontent id="aspace_00a4dca79ea061025a47cede23554c4f">
+                  <head>Scope and Contents</head>
+                  <p>From his <title type="simple" render="italic">
+                        Dell'Arcano del Mare
+                     </title>, 1646.</p>
+               </scopecontent>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>Vocabularies of Tinneh Alaska Indians, from various sources.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332594)"
+                             id="aspace_7b3b8c6e3bc44a72c6ee5134b9d01ab0"
+                             type="box">5</container>
+                  <container id="aspace_da743398795f74262ec705a9ffa3a1c5"
+                             type="folder"
+                             parent="aspace_7b3b8c6e3bc44a72c6ee5134b9d01ab0">52</container>
+               </did>
+            </c>
+            <c id="ref70" level="file">
+               <did>
+                  <unittitle>Vocabulaire Nanba ou Fagnia ... accompagné d'autres documents Africaines.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332594)"
+                             id="aspace_f9d9aa640ca37330a072e2c20626587d"
+                             type="box">5</container>
+                  <container id="aspace_2b729a04307c16fc981f4d62ceeae585"
+                             type="folder"
+                             parent="aspace_f9d9aa640ca37330a072e2c20626587d">53</container>
+               </did>
+            </c>
+            <c id="ref71" level="file">
+               <did>
+                  <unittitle>Urbano, Alonso. Arte breve de la lengua Otomi, compuesto por el P. fray Alonso Urbano de la orden de N. P. S. Agustin.</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332594)"
+                             id="aspace_1b243e8a7e80fb79d36e9cdb0c885f4c"
+                             type="box">5</container>
+                  <container id="aspace_67931a9245d262105bcc3fa7e17af311"
+                             type="folder"
+                             parent="aspace_1b243e8a7e80fb79d36e9cdb0c885f4c">54</container>
+               </did>
+            </c>
+            <c id="ref72" level="file">
+               <did>
+                  <unittitle>Additional unsorted vocabularies [in English, French and Spanish].</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332594)"
+                             id="aspace_689dac9ac98fe76a1be8a728c0f39e01"
+                             type="box">5</container>
+                  <container id="aspace_37c20a89091613ebc8d00cc9c1c385a5"
+                             type="folder"
+                             parent="aspace_689dac9ac98fe76a1be8a728c0f39e01">55-63</container>
+               </did>
+            </c>
+            <c id="ref73" level="file">
+               <did>
+                  <unittitle>Additional unsorted vocabularies [in English, French and Spanish].</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091332602)"
+                             id="aspace_083b49125f9a0b708610589b59fae7aa"
+                             type="box">6</container>
+                  <container id="aspace_bd9145256eecadff997e5c0fbe5499d4"
+                             type="folder"
+                             parent="aspace_083b49125f9a0b708610589b59fae7aa">64-70</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

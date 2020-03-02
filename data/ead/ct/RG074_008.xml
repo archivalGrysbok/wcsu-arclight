@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG074_008.html" countrycode="us">RG074_008</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 074:008, Harry I. Thompson West Haven Genealogical Papers</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Damon M. Munz.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 11, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>July 11, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Thompson, H. I.</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Harry I. Thompson West Haven genealogical papers</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1880/1900">circa 1880-1900</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.75 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Notebooks and manuscript notes related to West Haven, Connecticut genealogy.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG074_008</unitid>
+		<unitid label="Accession: ">1939-003</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content</head>
+<p>
+Notebooks and manuscript notes related to West Haven, Connecticut genealogy.</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>
+Letters and list of portraits by Harry Ives Thompson [CSL call number StLib Archives 920 T373].
+</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Persons:</head>
+			<persname encodinganalog="700" rules="lcnaf">Thompson, H. I.</persname>
+			<persname encodinganalog="700" source="dacs">Thompson, Clarence E</persname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" source="lcnaf">West Haven (Conn.) -- Genealogy</geogname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Notebooks</genreform>
+			<genreform encodinganalog="655" source="aat">Research notes</genreform>
+ 	</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Form Available</head>
+<p>
+The 42 notebooks are available on microfilm [CSL call number L.H. 4432-4434/5 (3 reels).]
+</p>
+</altformavail>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>These papers were received on January 4, 1939 from Mr. Frederick W. Slater of New Haven, agent for Clarence E. Thompson, Jr. Clarence E. Thompson, Jr. inherited the papers from Harry I. Thompson.</p>
+	<p>
+	The notebooks and manuscript notes were at one time separated. The manuscript notes were formerly catalogued as 974.62 W524t.
+	</p>
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Notebooks</unittitle>
+	<unitdate datechar="creation" certainty="approximate" normal="1880/1900">circa 1880-1900</unitdate>
+ </did>	
+	<note><p>Pages are numbered consecutively for Volumes 1-19. Pages are unnumbered starting with Volume 20.</p></note>
+	<note><p>See Alternate Form Available.</p></note>
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry>Volume</entry>
+ </row>
+ </thead> 	
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">1</container>
+	<unittitle>Painter and allied families</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">2</container>
+	<unittitle>Beecher, Smith, Candee, Thompson families, and others</unittitle>
+ </did>	
+<scopecontent><p>Contains copies of deeds, wills, etc.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">3</container>
+	<unittitle>Extracts of the Colony Records, 1639-1649</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">4</container>
+	<unittitle>Records "From Town Clerks Office, New Haven, Painter, etc."</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">5</container>
+	<unittitle>Records "From Town Clerks Office, New Haven, Painter, etc."; Index and Notes</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">6</container>
+	<unittitle>Index to Painter family. Vital records of various families (Bristoll, Candee, Painter, Downs, Lampson, Kimberly, Stevens, Clinton, Trowbridge, Brown, Prindle, Smith, Hall, Clark, Thomas, Tolles, etc.)</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">7</container>
+	<unittitle>"George Lamberton's Quarter; Division of Land; About Early Settlers West Haven, Kimberly, Benham, Stevens, etc.; Names from Congregational Society Records, 1724-1849; Names from Simeon Smith's Account book, 1820-1829; 'West-side' 'West Side Farmers' 'West Parish of New Haven' etc.; 'West Haven Green' 'Old Parsonage' Extract N.Y. Independent, etc."</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">8</container>
+	<unittitle>"Division of Lamberton's Farm among Children; Index and Notes</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">9</container>
+	<unittitle>"The Old Burial Ground. Hearse House. Green Fence"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">10</container>
+	<unittitle>"Seating of the 1st Meting house, with other notes, Bell, etc. Extracts from 'Barbers Antiquities'. Old School House. 2nd Church Edifice"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">11</container>
+	<unittitle>"Reynolds Genealogy, Thomas Painters Children, Roger Alling, Edward Meloy"</unittitle>
+ </did>
+<note><p>Pages 881-902 are missing.</p></note>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">12</container>
+	<unittitle>"Map of West Haven, 1800; Dea. Enos Smith; The older Houses in West Haven; Concerning the Simeon Smith, D.S. Thompson House; The Capt. Ichabod Smith Homestead; Gilead Kimberly House, The Reynolds Inn"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">13</container>
+	<unittitle>"Rum in West Haven, 1820-1830; Kimberly Genealogy; John M. Hubbards History of Western District; Malbon's Cove to Oyster River"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">14</container>
+	<unittitle>"Richards Genealogy and Ichabod Smith's Family"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">15</container>
+	<unittitle>Extracts from town records and notes</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">16</container>
+	<unittitle>"New Haven Colonial Records, 1638-1665"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">17</container>
+	<unittitle>"New Haven Colonial Records, 1638-1665"</unittitle>
+ </did>
+<note><p>See Index in volume 16.</p></note>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">18</container>
+	<unittitle>Beecher family records and extracts from the town records</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">19</container>
+	<unittitle>Copies of wills and notes on various families</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">20</container>
+	<unittitle>"Capt. Philemon Smith's Record of Deaths. Records of West Haven Tract Society"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">21</container>
+	<unittitle>"Genealogical Notes from Mrs. Tallmadge's Mss. 'Aunt Sena's list of deaths, etc."</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="volume">22</container>
+	<unittitle>"Extracts from Auto-Biography of Thomas Painter Soldier of the American Revolution 1776"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">23</container>
+	<unittitle>"Mrs. Wm. H. Tallmadge's Book of Genealogy of the Stevens and other families; Candee Genealogy, Extracts from work of C.C. Baldwin"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">24</container>
+	<unittitle>"Index and Notes"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">25</container>
+	<unittitle>"Index and Notes"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">26</container>
+	<unittitle>"Index"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">27</container>
+	<unittitle>"Mallory"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">28</container>
+	<unittitle>"Records of Births, Marriages &amp; Deaths, 1649-1745; Downs, Bristol, Smith; Notes of Mrs. E.P. Smith, of Milford, Conn.; Genealogy of Chas. S. Smith of Terryville, Conn."</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">29</container>
+	<unittitle>"English Genealogy-Thompson"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">30</container>
+	<unittitle>"American Genealogy-Thompson"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">31</container>
+	<unittitle>"The West Haven Kimberly Families"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">32</container>
+	<unittitle>"Lamberton" and "Lieut. Saml Smith, son of George Smith, the Settler"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="volume">33</container>
+	<unittitle>"Wm. Wilkes, Philip Leek, Humphreville, Clinton, etc."</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">34</container>
+	<unittitle>"2nd Division land of Richard Hull and John Budd"</unittitle>
+ </did>
+<note><p>Also contains notes on Bristol, Pardee, Painter familes.</p></note>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">35</container>
+	<unittitle>Reynolds family</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">36</container>
+	<unittitle>"Lieut. Robert Seeley's 2nd Division"</unittitle>
+ </did>
+<note><p>Also contains notes on Mallery, Trowbridge, Stevens, Smith, Thompson, Painter, Prindle families, etc.</p></note>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">37</container>
+	<unittitle>"Clarke-Clark"</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">38</container>
+	<unittitle>A copy of the records of Christ Church, West Haven</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Volume">39</container>
+	<unittitle>Society Records No. 2</unittitle>
+ </did>	
+</c02>
+
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Volume">40</container>
+	<unittitle>A copy of the records of the West Haven First Ecclesiastical (Congregational) Society</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Volume">41</container>
+	<unittitle>Old houses of West Haven and division of lands</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Volume">42</container>
+	<unittitle>Index and Notes</unittitle>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Unprocessed material</unittitle>
+	<unitdate datechar="creation" certainty="creation" normal="1880/1900">circa 1880-1900</unitdate>
+ </did>	
+	<note><p>This material was received in 14 envelopes. The contents of each envelope were placed in a folder.</p></note>
+<c02 level="file">
+ <did>
+	<container type="Box">3-4</container>
+	<unittitle>Papers</unittitle>
+ </did>	
+</c02>
+
+</c01>
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

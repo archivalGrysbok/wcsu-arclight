@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200520.xml">VHP200520</eadid>
+
+<filedesc>
+            <titlestmt>
+                <titleproper>Anthony Buemi Papers
+                    <num>VHP2005/20</num>
+                </titleproper>
+                <subtitle>An Inventory of Anthony Buemi at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Witt Meesangnil</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                </address>
+                <date>6/19/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-20T13:34-0400</date>
+            </creation>
+            <langusage>eng</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Anthony Buemi Papers</unittitle>
+            <unitid>VHP2005/20</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Digital objects</extent>
+                <extent>1 interview DVD</extent>
+            </physdesc>
+            <unitdate normal="2005/2005">2005</unitdate>
+            <abstract id="ref5" label="Abstract">The collection contains oral history interview and interview synopsis of Anthony Buemi describing his experience serving with U.S. Army during World War II in South Pacific.</abstract>
+            <physloc id="ref9" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Buemi, Anthony, 1926 -</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Anthony Buemi was drafted into the U.S. Army in September of 1944. He completed his basic training at Fort McClellan, AL, which lasted for 15 weeks, two weeks shorter than previously required. The shorter period was due to the Army's need for more replacement infantry men in the South Pacific. Buemi was then sent to California, where the soldiers thought they were to receive more training; however, they were put directly on a ship bound for Leyte, where the newly trained soldiers stayed for a month rounding up stray Japanese soldiers on the island. From there Buemi was shipped to Luzon, where he joined the 6th division of Company C. The 6th division encountered heavy combat resulting in many casualties. His division was also sent to Manila, which had been recently liberated, to work as Military Police for a time. Buemi was sent back to Luzon after his time in Manila. On August 5, 1945, just 15 days before the fighting in the Pacific ended, he was wounded by stray mortar fire. He spent the rest of his service, five and a half months, in the hospital. The shrapnel had severed arteries in his neck, and it took multiple surgeries to repair them properly. When Buemi was discharged in January of 1946, he returned to Connecticut and immediately began the spring semester studying at UCONN. He was able to obtain his undergraduate degree in three and a half years, and then went on to podiatry school in New York with the help of the GI bill.</p>
+        </bioghist>
+        <accessrestrict id="ref6">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <altformavail id="ref8">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=6544">project's website</extref></p>
+        </altformavail>
+        <phystech id="ref10">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Technical metadata of digital objects are extracted and encoded in PREMIS preservation metadata format 
+                <lb/>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="PREMIS" ns2:href="preservation/preservation metadata/200520premis.xml">Preservation Metadata</extref></p>
+        </phystech>
+        <prefercite id="ref11">
+            <head>Preferred Citation note</head>
+            <p>"Anthony Buemi Papers.VHP2005/20." Veterans History Project; Central Connecticut State University, Center for Public Policy and Social Research</p>
+        </prefercite>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">United States. Army. Infantry Regiment, 20th. Company C..</corpname>
+            <corpname rules="aacr" source="ingest">United States. Army.</corpname>
+            <geogname source="lcsh">Fort McClellan (Ala.)</geogname>
+            <genreform source="aat">Interviews</genreform>
+            <geogname source="lcsh">Leyte Gulf (Philippines)</geogname>
+            <geogname source="lcsh">Luzon (Philippines)</geogname>
+            <geogname source="lcsh">Manila (Philippines)</geogname>
+            <subject source="lcsh">World War, 1939-1945</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Philippines</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Medical care</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Personal narratives, American</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="item">
+                <did>
+                    <unittitle>Interview synopsis</unittitle>
+                    <unitid>VHP2005/20.1</unitid>
+                    <physdesc>
+                        <extent>2.0 Digital objects</extent>
+                    </physdesc>
+                    <unitdate normal="2005/2005">Dec. 2, 2005</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref3" level="item">
+                <did>
+                    <unittitle>Oral history interview</unittitle>
+                    <unitid>VHP2005/20.2</unitid>
+                    <container id="cid46025" type="Disk" label="Computer disks / tapes">DVD VHP2005/21</container>
+                    <container parent="cid46025" type="Box">VHP Interview #1</container>
+                    <physdesc>
+                        <extent>1.0 dvd</extent>
+                    </physdesc>
+                    <unitdate normal="2005/2005">Dec. 2, 2005</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local" role="Interviewer (ivr)">Yeomans, Lynette</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG068.html" countrycode="us">RG068</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 068, Film and Video</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 12, 2010</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2011</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>July 12, 2010</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut State Library (collector)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Film and video collection</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1919/1992">1919-1999</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">9.75 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">This is an artificial record group comprised of films and videos. Topics range from Connecticut Governors to various Connecticut history subjects.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG068</unitid>
+	
+	<unitid label="Accession: ">Multiple</unitid>	
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>This collection contains films and videos on various Connecticut history subjects. Included are the State Bureau of Aeronautics, 1933; film in which Governors Cross, Baldwin, and Lodge speak; a SNET film on the need for telephones during World War II; a film about the tobacco industry sponsored by a now defunct growers’ association; unedited television footage of the death and funeral of Governor Ella T. Grasso; and unedited footage of various tourist sites in Connecticut. </p> 
+	<p>All 16mm films have been transferred to BETA SP masters and VHS cassettes. The 16mm and 35mm films along with Beta tapes are stored at the Connecticut State Library's Records Center in Rocky Hill.</p>
+</scopecontent>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Persons:</head>
+			<persname encodinganalog="700" source="lcsh">Babbidge, Homer D</persname>
+			<persname encodinganalog="700" source="lcsh">Baldwin, Raymond E. (Raymond Earl), 1893-1986</persname>
+			<persname encodinganalog="700" source="lcsh">Cross, Wilbur L. (Wilbur Lucius), 1862-1948</persname>
+			<persname encodinganalog="700" source="lcsh">Dempsey, John, 1915-</persname>
+			<persname encodinganalog="700" source="lcsh">Grasso, Ella</persname>
+			<persname encodinganalog="700" source="lcsh">Johnson, Lyndon B. (Lyndon Baines), 1908-1973</persname>
+			<persname encodinganalog="700" source="lcsh">Lodge, John Davis, 1903-1985</persname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Aeronautics -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">African Americans -- Medicine</subject>
+			<subject encodinganalog="650" source="lcsh">Colt firearms -- Museums -- Connecticut -- Hartford</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut State Library</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut. Supreme Court</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut Veterans' Home (Rocky Hill, Conn.)</subject>
+			<subject encodinganalog="650" source="lcsh">Constitutional conventions -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Hartford Circus File, Hartford, Conn., 1944</subject>
+			<subject encodinganalog="650" source="lcsh">Indians of North America -- Medicine</subject>
+			<subject encodinganalog="650" source="lcsh">Mansfield Training School (Mansfield Depot, Conn.)</subject>
+			<subject encodinganalog="650" source="lcsh">New York World's Fair (1939-1940)</subject>
+			<subject encodinganalog="650" source="lcsh">Sikorsky aircraft -- Exhibitions</subject>
+			<subject encodinganalog="650" source="lcsh">Tobacco -- Connecticut -- History</subject>
+			<subject encodinganalog="650" source="lcsh">Tobacco -- Connecticut River Valley -- History</subject>
+			<subject encodinganalog="650" source="lcsh">United States Constitution Bicentennial, 1987-1991</subject>
+			<subject encodinganalog="650" source="lcsh">World War, 1914-1918 -- Armistices -- Anniversaries, etc</subject>
+			<subject encodinganalog="650" source="lcsh">World War, 1939-1945 -- War work -- Connecticut</subject>
+	</controlaccess>
+
+
+<controlaccess>
+		<head>Document Types:</head>
+ <genreform encodinganalog="655" source="aat">Acetate films</genreform>
+			<genreform encodinganalog="655" source="aat">Betacam-SP</genreform>
+			<genreform encodinganalog="655" source="aat">DVDs</genreform>
+			<genreform encodinganalog="655" source="aat">Motion pictures (visual works)</genreform>
+			<genreform encodinganalog="655" source="aat">16mm</genreform>
+ <genreform encodinganalog="655" source="aat">Videocassettes</genreform>
+			<genreform encodinganalog="655" source="aat">VHS (TM)</genreform>
+ </controlaccess> 
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+
+	<p>Some of these records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>The Connecticut State Library does not have the equipment to play any formats other than VHS and DVD.</p>
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>In 1938, Commissioner of Aeronautics Charles L. Morris deposited two original reels, titled <emph render="italic">Flight</emph> which was produced in 1933, with the Connecticut State Library in exchange for copies. Morris also deposited a script he had written and was revised up to April 1, 1938.</p>
+	<p><emph render="italic">Governor Wilbur Cross Meets with His Cabinet for the Last Time</emph> was deposited in the Connecticut State Library in January 1939.</p>
+	<p><emph render="italic">Connecticut Answers</emph> was acquired by the Connecticut State Library either on November 30, 1945 or January 10, 1946.</p>
+	<p><emph render="italic">Editorials: Connecticut Constitution</emph> was acquired by the Connecticut State Library in 1966.</p>
+	<p><emph render="italic">Governor Raymond E. Baldwin, Jr. Reviews the Accomplishments of His Administration</emph> was acquired by the Connecticut State Library in 1941.</p>
+	<p><emph render="italic">American Heritage</emph> was acquired by the Connecticut State Library in June 1957.</p>
+	<p><emph render="italic">Tobacco Valley: The Story of Shade Grown Tobacco</emph> was acquired by the Connecticut State Library in 1972.</p>
+	<p><emph render="italic">Connecticut Constitutional Convention 1965</emph> was acquired by the Connecticut State Library in 1966.</p>
+	<p><emph render="italic">Governor Baldwin of Connecticut</emph> was acquired by the Connecticut State Library in 1984.</p>
+	<p>WICC-TV in Bridgeport sent the reel of <emph render="italic">Governor John Lodge</emph> to the state capitol in 1954. It was acquired by the Connecticut State Library in 1989.</p>
+	<p><emph render="italic">In Memoriam: Governor Ella T. Grasso Tapes #1-6 (Connecticut Mourns the Death of Governor Ella T. Grasso)</emph> were acquired by the Connecticut State Library on April 29, 1981.</p>
+	<p><emph render="italic">Connecticut-Something Old-Something New</emph> by Joseph A. Fiorelli was acquired by the Connecticut State Library on September 2, 2010.</p>
+	<p><emph render="italic">Connecticut State Veterans' Home &amp; Hospital 125th anniversary</emph> was acquired by the Connecticut State Library in 2011.</p>
+</acqinfo>
+
+<processinfo encodinganalog="583" id="a20">
+	<head>Processing Information</head>
+	<p>Governor Baldwin of Connecticut film was removed from accession 1984-017 in RG 069:010, Papers of Raymond E. Baldwin Jr., 1938-1965.</p>
+	<p>Governor John Dempsey Gubernatorial Campaign of 1966 films were removed from RG 005:034, Office of the Governor: John Dempsey (1961-1971), Box A-503.</p>
+</processinfo>
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory</unittitle>
+	<unitdate datechar="creation" normal="1919/1992">1919-1992</unitdate>
+ </did>
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry></entry>
+ </row>
+ </thead> 
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">T003300</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>A grand restoration</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>African and Native American medicine in early New England</unittitle>
+	<unitdate>1992</unitdate>
+	<physdesc><extent>1 videocassette + supplemental material</extent> (VHS): 2nd ed., 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Also contains report of how the film was made and list of works used.</p></scopecontent>
+<note><p>Created for History Day contest at Fox Middle School, Hartford Conn.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Bill of Rights TV commercials</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 4 min., 15 sec., 1/2 in.</physdesc>
+ </did>
+<note><p>Produced by Philip Morris.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Constitution plaques presentation</unittitle>
+	<unitdate>1989 July 17</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 5 min., 46 sec., 1/2 in.</physdesc>
+ </did>
+<note><p>Produced by Strong Arts Inc.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Constitutional symposium #1-2</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>2 videocassettes</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Connecticut State Library flood - News coverage</unittitle>
+	<unitdate>1989 December 2</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Flight (reels 1 &amp; 2)</unittitle>
+	<unitdate>1933</unitdate>
+	<physdesc><extent>4 videocassettes + supplemental material</extent> (VHS): silent, b &amp; w, 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Also contains 2 copies of a script to the film.</p></scopecontent>
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hartford collection, Hartford Public Library</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>
+<note><p>Homemade copy.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>President L.B. Johnson address during Governor Dempsey campaign</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 2 hr., 40 min., 1/2 in.</physdesc>
+ </did>
+<note><p>Made by the Connecticut Network (CT-N).</p></note>	
+<note><p>Looped film transfer.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Ratification convention</unittitle>
+	<unitdate>1988 January 9</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS, slow speed): 4 min., 15 sec., 1/2 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>3 CT Car III</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 3/4 in.</physdesc>
+ </did>
+<note><p>"Babbidge" is also written on the videocassette.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>We the people - A staged reading at Christ Episcopal Church, Stratford, Conn.</unittitle>
+	<unitdate>1987 September 17</unitdate>
+	<physdesc><extent>1 videocassette + supplemental material</extent> (VHS SP): mono, 1/2 in.</physdesc>
+ </did>
+<scopecontent><p>Also contains correspondence and projected budget for school touring company of <emph render="italic">We The People</emph> from Steven Otfinoski to Janet Crook, Executive Director, U.S. Constitution Bicentennial Commission of Connecticut, 10/28/1987.</p></scopecontent>
+<note><p>Books &amp; lyrics by Steven Otfinoski. Music by Richard Amend &amp; Mary Lang.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>General Assembly</unittitle>
+	<unitdate>1988 April 28</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>
+<note><p>Produced by Connecticut Public Television.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>General Assembly</unittitle>
+	<unitdate>1988 April 29</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 3/4 in.</physdesc>
+ </did>
+<note><p>Produced by Connecticut Public Television.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>A bicentennial celebration - We the people</unittitle>
+	<unitdate>1987 June 16</unitdate>
+	<physdesc><extent>1 videocassette + supplemental material</extent> (U-matic): 60 min., 3/4 in.</physdesc>
+ </did>	
+<scopecontent><p>Also contains papers regarding the contents of the videocassette and a list in sequence of constitutional signers that appear on the videocassette.</p></scopecontent>
+<note><p>Produced by the United States Army.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Homer Babbidge-Reflections</unittitle>
+	<unitdate>1984 April 9</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 58 min., 49 sec., 3/4 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Constitution signers series part 1</unittitle>
+	<unitdate>1987</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 3/4 in.</physdesc>
+ </did>	
+<note><p>Produced by the United States Army.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Hartford Circus Fire: Her name is Eleanor</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>
+<note><p>Produced by WFSB-TV, Hartford, Conn.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Hartford Circus Fire investigation: March 8-12, 1991</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Produced by WFSB-TV, Hartford, Conn.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>1965 Constitutional Convention NY, Boston series</unittitle>
+	<unitdate>1992 January 9</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Presidents; The 26<emph render="super">th</emph> Amendment; Don't forget; Don't forget (news show)</unittitle>
+	<unitdate>1987 February 18</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 3/4 in.</physdesc>
+ </did>
+<note><p>Produced by the Advertising Council/U.S. Constitution.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Reception and proceedings on the renaming of the museum, Memorial Hall (Baldwin reception)</unittitle>
+	<unitdate>1938 January 20</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): col., 3/4 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Sikorsky exhibit at the State Library</unittitle>
+	<unitdate>1982 March 18</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 3/4 in.</physdesc>
+ </did>	
+<note><p>Produced by P.M. Magazine Ch. 3.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>State Supreme Court coverage - 1<emph render="super">st</emph> day of 1 year experiment with allowing cameras in the courtroom</unittitle>
+	<unitdate>1982 June 1</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): col., 3/4 in.</physdesc>
+ </did>
+<note><p>Produced by WVIT-TV Channel 30, Hartford, Conn. and WFSB-TV Channel 3, Hartford, Conn.</p></note>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>The Connecticut State Library - What's it all about?</unittitle>
+	<unitdate>circa 1984</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): col., 4 min., 44 sec., 3/4 in.</physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>We the people - A bicentennial celebration</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 videocassette</extent> (U-matic): 19 min., 48 sec., 3/4 in.</physdesc>
+ </did>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Connecticut Constitutional Convention 1965</unittitle>
+	<unitdate>1965</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Segments shot by WHNB-TV in New Britain of the convention itself and activities leading up to the convention. Script sequence and sequence on film are not synchronized.</p></scopecontent>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Editorials: Connecticut Constitution</unittitle>
+	<unitdate>1965 December</unitdate>
+		<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Contains two 60 second editorials read by WNHC station manager. One editorial urges viewers to vote yes on Proposal 1, giving greater representation in the State Senate. The other editorial pertains to eminent domain compensation. Description of contents is from Connecticut Public Television which viewed the film.</p></scopecontent>
+<note><p>Produced by WNHC-TV film department in New Haven, Conn.</p></note>
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Governor John Dempsey gubernatorial campaign of 1966</unittitle>
+	<unitdate>circa 1964-1966</unitdate>
+	<physdesc><extent>12 videocassettes</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Videocassettes are numbered 1-3. There are 4 copies of each.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Mansfield Training School: Chicago Special Olympics</unittitle>
+	<unitdate>1968</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Mansfield Training School: 50<emph render="super">th</emph> Anniversary Parade</unittitle>
+	<unitdate>1967</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Mansfield Training School: 4<emph render="super">th</emph> of July Parade</unittitle>
+	<unitdate>1968</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Mansfield Training School: Mrs. Kelly Parades</unittitle>
+	<unitdate>1967-1968</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Governor John Lodge</unittitle>
+	<unitdate>1952</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred from 16mm film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>In memoriam: Governor Ella T. Grasso (Connecticut mourns the death of Governor Ella T. Grasso)</unittitle>
+	<unitdate>1981 February 6-9</unitdate>
+	<physdesc><extent>18 videocassettes</extent> (VHS): sd., 1/2 in.</physdesc>
+ </did>	
+<note><p>Produced by WVIT-TV, Channel 30, Hartford 6 p.m. news.</p></note>
+<note><p>Transferred from 3/4 in. master by Northeast Historic Film.</p></note>
+<note><p>Videocassettes are numbered 1-6. There are 3 copies of each number.</p></note>
+<note><p>Connecticut State Library holds U-matic and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>American heritage</unittitle>
+	<unitdate>1957 March 7</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in., 13 min., 30 sec.</physdesc>
+ </did>	
+<scopecontent><p>Documents the transfer of Colt Museum to the State of Connecticut in 1957 by the Penn-Texas Co. Includes also segments on Samuel Colt, the inside at the factory, and the transfer ceremony in Memorial Hall, Connecticut State Library Building on March 7, 1957.</p></scopecontent>
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Connecticut answers</unittitle>
+	<unitdate>circa 1945</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in.</physdesc>
+ </did>
+<scopecontent><p>Includes great images of Connecticut industry in World War II.</p></scopecontent>	
+<note><p>Film produced by SNET and narrated by Lowell Thomas.</p></note>
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film format for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Governor Baldwin of Connecticut (reels 1 &amp; 2)</unittitle>
+	<unitdate>circa 1941</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Developed by Worcester Film Corp., Worcester, MA.</p></note>
+<note><p>Transferred from Beta SP master in August 2001 by Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Governor Raymond E. Baldwin, Jr. reviews the accomplishments of his administration</unittitle>
+	<unitdate>1941 January 7</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in.</physdesc>
+ </did>	
+<bioghist><p>January 7<emph render="super">th</emph> was the day before the inauguration of Baldwin's successor, Robert Hurley.</p></bioghist>
+<scopecontent><p>May also include remarks by unidentified state officials.</p></scopecontent>
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Governor Wilbur Cross meets with his cabinet for the last time</unittitle>
+	<unitdate>1938 December 9</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., b &amp; w, 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Governor Cross reads the 1938 Thanksgiving Proclamation and reviews accomplishments of his administration.</p></scopecontent>	
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP S formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Tobacco valley: The story of shade grown tobacco</unittitle>
+	<unitdate>circa 1940s</unitdate>
+	<physdesc><extent>4 videocassettes</extent> (VHS): sd., col., 1/2 in.</physdesc>
+ </did>	
+<scopecontent><p>Narrated by Lowell Thomas. Produced by the Shade Tobacco Growers Agricultural Association in Windsor, CT which no longer exists.</p></scopecontent>
+<note><p>Transferred from Beta SP master in August 2001 from Northeast Historic Film.</p></note>
+<note><p>Connecticut State Library holds 16mm film and Betacam SP L formats for this item.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Victory celebration in Litchfield, Conn.</unittitle>
+	<unitdate>1919 July 4</unitdate>
+	<physdesc><extent>1 videocassette</extent> (VHS): 1/2 in.</physdesc>
+ </did>	
+<note><p>Transferred by Northeast Historic Film.</p></note>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">Records Center</container>
+	<unittitle>New York World's Fair</unittitle>
+	<unitdate>1940</unitdate>
+	<physdesc><extent>1 film roll,</extent> col., 35mm</physdesc>	
+ </did>	
+<note><p>This item is stored at the Records Center.</p></note>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1984-009B</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">Records Center</container>
+	<unittitle>On the road: '76 Conn.</unittitle>
+	<unitdate>undated</unitdate>
+	<physdesc><extent>1 reel,</extent> 5 in., 16mm</physdesc>	
+ </did>
+<note><p>Produced by CBS News.</p></note>
+<note><p>This item is stored at the Records Center.</p></note>	
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2011-020</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">Records Center</container>
+	<unittitle>Connecticut-Something old-Something new</unittitle>
+	<unitdate>1967</unitdate>
+	<physdesc><extent>1 reel + supplemental material,</extent> 10.5 in., sd., col., 16mm</physdesc>	
+ </did>	
+<scopecontent><p>Supplemental material includes the original certificate of honors for the film from the Connecticut Educational Film Library Association (EFLA) in 1968; the original black and white proof sheets for the film; copy of certificate of participation awarded to Fiorelli Films, Inc. for the film <emph render="italic">Micralign 140</emph> by the Connecticut Film Festival on November 18, 1978; and Joseph A. Fiorelli's dossier listing credentials and awards with a photograph of the film maker.</p></scopecontent>
+<note><p>Produced by Joseph A. Fiorelli.</p></note>
+<note><p>This item is stored at the Records Center.</p></note>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2011-124</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>Connecticut State Veterans' Home &amp; Hospital 125th anniversary</unittitle>
+	<unitdate>1989</unitdate>
+	<physdesc><extent>1 videocassette + 1 DVD</extent></physdesc>
+ </did>	
+	<note><p>This item is stored with Accession T003300.</p></note>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2013-002</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Raw video footage of Connecticut used to create "Discover America"</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>8 DVD,</extent> 4.78 GB, 7 hr.</physdesc>
+ </did>	
+	<note><p>Produced by The Learning Network (TLN) Productions, Inc.</p></note> <thead>
+ <row>
+ <entry>Box</entry>
+ <entry>Case</entry>
+ </row>
+ </thead> 
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">1</container>
+	<unittitle>Foxwood</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 142 MB, 1 hr., 1 min., 25 sec.</physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">2</container>
+	<unittitle>Foxwood v 2</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 232 MB, 29 min., 35 sec.</physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">3</container>
+	<unittitle>CT Valley Railroad</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 2.86 GB, 1 hr., 35 min., 06 sec.</physdesc>
+ </did>	
+ <note><p>Includes unedited interview with Jeffrey A. Richards, President of Valley Railroad Company (Connecticut Valley Line) starting at 36 min., 20 sec. to 42 min., 20 sec.</p></note>
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">4</container>
+	<unittitle>CT Valley</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 406 MB, 1 hr., 7 min., 33 sec.</physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">5</container>
+	<unittitle>Southeastern Connecticut</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 419 MB, 1 hr., 2 min.</physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">6</container>
+	<unittitle>Southeastern Connecticut v. 2</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 141 MB, 1 hr., 0 min., 45 sec.</physdesc>
+ </did>	
+ <note><p>Includes unedited interview with William B. Stanley, Historian, starting at 41 min., 10 sec. to 44 min., 21 sec.</p></note>
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">7</container>
+	<unittitle>Greater Hartford</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 305 MB, 47 min., 14 sec.</physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">8</container>
+	<unittitle>Greater Hartford v. 2</unittitle>
+	<unitdate>circa 1990-1999</unitdate>
+	<physdesc><extent>1 DVD,</extent> 275 MB, 55 min., 40 sec.</physdesc>
+ </did>	
+ <note><p>Includes unedited interview with Deirdre Bibby starting at 22 min., 22 sec. to 29 min., 12 sec.</p></note>
+ <note><p>Includes unedited interview with John Boyer, Executive Director of Mark Twain House, starting at 41 min., 11 sec. to 42 min., 04 sec.</p></note>
+</c04>
+</c03>
+</c02>
+
+
+
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

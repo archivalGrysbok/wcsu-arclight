@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1979-1::William John James Trustee and Financial Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ja1979-1.html">ja1979-1</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William John James Trustee and Financial Records,
+                        <lb/><date normal="1870/1939">1870 - 1939</date>
+                </titleproper>
+        <author>Processed by: Diana Perron; machine-readable finding aid created by: Valerie
+                    Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">©
+                        2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: December 2009</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the William John James Trustee and Financial Records, <date type="span">1870 - 1939</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2008">© 2008</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">Special Collections &amp; Archives, Wesleyan
+                University</repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">William John James Trustee and Financial
+                Records, <unitdate normal="1831/1939" type="inclusive">1870 - 1939
+                </unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1979-1</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">1.5</extent>
+      </physdesc>
+      <physdesc label="Archival Boxes">
+        <extent>3</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">William John James (1860-1941) was
+                College Librarian from 1891 to 1929 and Assistant Treasurer of Wesleyan from 1908 to
+                1929.</abstract>
+      <abstract encodinganalog="520">The William John James Trustee and Financial Records
+                concern financial matters brought before the Board of Trustees. Notable subject
+                groupings for these dates include Buildings and Grounds and the Carnegie Foundation
+                accreditations. These records are not a complete collection of Trustee business, but
+                complement other Trustees' holdings in the Wesleyan University Archives.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], William John James Trustee and Financial Records,
+                    Collection #1979-1, Special Collections &amp; Archives, Wesleyan University,
+                    Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Transferred to the Archives in 1979 from the office of Robert Taylor, University
+                    Treasurer.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Diana Perron, October 1992</p>
+        <p>Encoded by Valerie Gillispie, December 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>William John James (1860-1941) was College Librarian from 1891 to 1929 and Assistant
+                Treasurer of Wesleyan from 1908 to 1929.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The William John James Trustee and Financial Records concern financial matters
+                brought before the Board of Trustees. Notable subject groupings for these dates
+                include Buildings and Grounds and the Carnegie Foundation accreditations. These
+                records are not a complete collection of Trustee business, but complement other
+                Trustees' holdings in the Wesleyan University Archives.</p>
+      <p>According to a June 19, 1918 memo from Secretary of the Board David Downey, James was
+                responsible for holding important Trustee documents. Most of the James
+                administrative papers are marked copy or have been copied, many of annotations.
+                Several documents in this collection are not represented in other Trustee
+                collections.</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>James organized his collection by either year or by subject. This arrangement has
+                    been maintained. Year listings correspond with the date ending the academic year
+                    in question.</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online
+                catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown,
+                Conn.)--History.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown,
+                Conn.)--Administration.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.).
+                Board of Trustees.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown,
+                Conn.)--Finance.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown,
+                Conn.)--Buildings.</corpname>
+      <corpname encodinganalog="610" source="lcnaf">Carnegie Foundation for the Advancement of
+                Teaching.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Board of Trustees Records, Special Collections &amp; Archives, Wesleyan
+                University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Subject Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Charter (copy of 1831) and Amendments, 1870, 1905,
+                            1927</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Buildings, Grounds, and Objects</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Rich Hall--stacks blueprint plans (2), undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rich Hall--specifications, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rich Hall--1922 letter from W. J. James</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Church bells--foundry report and Stephen Henry Olin
+                                letter,undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Plans of present and proposed buildings (4 copies),
+                                undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Printed Buildings and Grounds report, 1913</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Electric Light Plant figures, 1901-1904, 1906</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>President's House--appraisal of rugs and furniture,
+                                undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Fisk Hall--Cornerstone box contents</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>1918 Shanklin Agreement with city regarding street
+                                changes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Goodyear Ave.--Superior Court certificate of
+                                judgement</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Scott Laboratory--valuation of apparatus, 1927</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>John Wesley bust--donation by Jennie Baird, 1920</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Taxable property and decision of Demurrur rulings by Superior
+                                Court, 1925</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Museum--accounting for Loper estate</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gustafson House--appraisal</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Albert Johnston letters, Dec. 21st 1917, re property
+                                purchase</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>William Thayer Rich-proposal to build and donate a house to
+                                Wesleyan</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jennie Clarke documents (3) and letter (1) re University
+                                purchase of real estate</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Carnegie Foundation, 1907-1934</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Subscriptions to Alumni Fund 1876-1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Subscriptions to Alumni Fund 1904-1905</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Methodist Loan Receipts 1934-1935</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>A Historical Sketch of teh Endowment of Wesleyan University,
+                            printed for the use of the Trustees only, by Clara Van Vleck,
+                            1904</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes handwritten index.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Chronological Business Files</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>1901-1903</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Waite professorship correspondence (2 letters)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Minute on the death of Dr. Hunt </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Resolution and letter on the death of J.C. Van Benschoten
+                                from the American School of Classical Studies at Athens</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Atwater letter re CT Agricultural Experiment Station and
+                                Carnegie Institute</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Local and General Executive Committee Reports 30 May
+                                1903</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Audited Reports of Treasurer and Asst. Treasurer (2
+                                copies)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bonds list</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Receipts and Expenditures Statement</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Financial Exhibit-printed</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>1903 Departmental Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Atwater 3pp) as a letter to Pres.
+                                Raymond</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Economics and Social Science (Fisher 4pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 2pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 1p)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 2pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library-incl. financial (James 2pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mathematics and Astronomy (Van Vleck 3pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford 2pp)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>1904</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Treasurer's Report for 1904</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Financial Exhibit-printed</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Trustee Business, 1905</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Professor Merrill's letter of resignation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library Committee--adopted regulations </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Alumni Trustees election--Report of tellers</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Miss Van Vleck--resolution on her retirement</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Resolution of thanks for portrait of Mr. Rich presented by
+                                Mrs. Alice C. Bonbright</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Joseph S. Stout--minute on his death </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Charles Scott--minute on his death </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Swift and Co. donation of stock</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Commencement and Annual Exercises printed
+                                programs</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>John Bell Scott Prize (modern language
+                                excellence)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Walkley Prize Fund (psychology) in memory of David Hart
+                                Walkley 1857-1878</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle/>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>1905 Departmental Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemical Department (Bradley 7 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Economics and Social Science (Fisher 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Literature (Winchester 6 small pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>German (Fife 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Merrill 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library incl. financial (James 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mathematics (Van Vleck 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Romance Languages (Kuhns 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Committee on Department reports (4 penciled
+                                pages)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Summary (3 pp) of department reports (with accompanying 1 p
+                                note from President Raymond)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Trustee Business, 1906</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Executive Committee Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>From W.C. Fisher to President Raymond describing duties as
+                                Mayor of Middletown (25 June 1906) and schedule of mayoral
+                                engagements</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Conn letter to Trustees re Alumni Fund</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>President's Mid-Year Report (North College fire and cost
+                                comparisons of several eastern colleges)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Financial Exhibit (printed)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Departmental Reports, 1906</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 2 pp) mid-year report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> Library (James 3 pp) mid-year report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemical Department (Professor Benedict 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Economics (Fisher 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel, March and June, 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Harrington 1 p)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Librarian (James 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library Committee (James 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford 3 pp)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>1907</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>James letter regarding capacity of Rich Hall, 2 February
+                                1907</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>1908 and 1909</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Reports B-D with envelope labeled <title render="doublequote">Reports on Separate Womens' College.</title> (Report D concerns
+                                chapel requirements)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Expiration of Trustee terms notification, 1908</unittitle>
+            </did>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>David Downey letter enclosing exhibits from the Board of
+                                Trustees, referred to in the record of the last Trustee meeting.
+                                Exhibit E is noted as being elsewhere.</unittitle>
+            </did>
+            <c04>
+              <did>
+                <unittitle>Exhibit A Endowment Securities list</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit B Report of the Local Executive
+                                    Committee</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit C Report of the General Executive
+                                    Committee</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit D Library Committee Report</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit F Votes cast in election of alumni
+                                    Trustees</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit G Report of the Hospital Committee</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit H Report of the Student Body</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit I Letter from F.W. Nicholson on new edition of
+                                    the Alumni Record</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit J Charter change advisery committee
+                                    proposed</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Exhibit K Letter from Raymond resigning professorship of
+                                    English Bible and Biblical Literature</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>1910</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Endowment securities list, 1910</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>1911</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Honorary degree nominations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Shanklin letter announcing W.C. Squire honorary degree
+                                nomination by the Academic Council</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chapel <emph render="doublequote">incident</emph> and press
+                                relations letter from Frank Nicolson, 26 May 1911</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bylaws of the University</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Psi Upsilon printed report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report on annual faculty reports (and envelope)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report of Local Executive Committee</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Army and Navy Union</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Alumni Trustee election results</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>President's annual report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Endowment securities list, 1911 (2 copies)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>June 13 Wesleyan balance at the Brooklyn Title Guarantee and
+                                Trust Co.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Estimate of receipts and expenditures 1911-1912</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>1911: Departmental Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Bradley 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Economics and Social Science (Fisher 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> History (Dutcher 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Librarian's Report (James 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Harrington 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mathematics (Howland 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford &amp; Cady 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Romance Languages (Kuhns 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle/>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>1912</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">14</container>
+              <unittitle>Minutes of Executive Committee meeting</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Preamble and Resolution of Exec. Comm. of Alumni Council
+                                (with cover letter)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Proposed Amendments to Bylaw giving Executive Committee
+                                interim powers between Board meetings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trustee ballot results</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter of appointment and one of acceptance of faculty
+                                position of H. Lee Ward</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Faculty Recommendations on Bachelor and Masters
+                                Degrees</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Commons Club letter thanking Board for repairs to Foss
+                                House</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">15</container>
+              <unittitle>Endowment securities October (3 c.) and June (2
+                                c.)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan stock certificate issue</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Assistant Treasurer ledger worksheet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>By-law amendment allowing Finance Committee supervision of
+                                all University funds</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">16</container>
+            <unittitle>1912 Departmental Reports</unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies of each.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <unittitle>Faculty Reports summary</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Bradley 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Econ. &amp; Social Sciences (Fisher 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Literature (Winchester 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>German (Fife 5 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Harrington 2 pp) </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Math (Howland 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Phil. &amp; Psychology (Dodge 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford/Cady 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Romance Languages (Kuhns 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library (James 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle/>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17</container>
+            <unittitle>1913</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Letter to Shanklin from director of Carnegie Institution
+                                Nutrition Lab conveying praise of WOA by French
+                                scientists</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Resolution of Hartford Get-Together Club defending Willard
+                                Fisher from criticism by Press and cover letter (also acknowledgment
+                                of receipt of above by Trustees)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle> Call to October 24th Board meeting</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to Shanklin from W.G. Chanter, YMCA undergraduate
+                                representative, requesting aid for Kansas City
+                                Convention</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Estimated budget, 1912-1913</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>1913 Departmental Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Renshaw 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Literature (Winchester 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 5 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library (James 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Math &amp; Astronomy (Howland 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Psychology (Dodge 1st annual report 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Cady 4 pp)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>1914</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Joint meeting committee-Faculty and Finance</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>General Education board statement of reciepts</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Telegram--W.V. Kelley regarding absence from
+                                meeting</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>East Maine Conference trustee announcement</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter--Frank Mason North regarding absence from
+                                meeting</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Executive Committee Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trustee Comm. on Faculty re Library expenses</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memorial minute, George G. Reynolds</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Amount collected on Endowment, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Treasurer's Statement (also brief statement) 1914
+                            </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Departmental Reports, 1914</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Bradley 5 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Freshman Composition (Conley 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Literature (Winchester 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>German (Fife 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 5 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Harrington 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library (James 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Math (Howland 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physical Education (Fauver 4 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford/Cady 4 pp)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Trustee Business, 1915</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Joint Committee of Faculty and Trustees: minutes, February
+                                25, March 30, and June 4, 1915 </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library Committee, binding appropriation request</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bylaws changes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Alumni Trustee election results</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Executive Committee Report</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Departmental Reports, 1915</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Astronomy (Slocum 2 pp) </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Biology (Conn 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Chemistry (Bradley 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Economics and Social Science (Tuttle 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Language (Mead 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>English Literature (Winchester 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Geology (Rice 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>German (Fife 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek (Heidel 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>History (Dutcher 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin (Harrington 2 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library (James 5 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mathematics (Howland 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Philosophy (Armstrong 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Physics (Crawford/Cady 3 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Psychology (Dodge 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rhetoric (Conley 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Romance Languages (Kuhns 1 pp)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Committee on Departments, report</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>Trustee Business, 1916</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Executive Committee Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Degree recommendations by faculty</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Salary list</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Johnston, Albert, forwarded letter and copies of <emph render="doublequote">A New Assertion of College Aims</emph> and
+                                    <emph render="doublequote">Memorandum of a Table Talk of a Few
+                                    Wesleyan Alumni</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Rice, William North, and Winchester, Caleb T., letter to
+                                Trustees declining to write a history of Wesleyan</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Recommendation, unexpended portion of Squire
+                                monies</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Nominations to Board of Trustees</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Friends of the University, account of pledges</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Endowment Securities List, June 1916</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>Trustee Business, 1917</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Budget, 1916-1917</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Resolution, re: President Shanklin's directorship of
+                                YMCA</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>National War Work Council, appeal for President Shanklin's
+                                leave of absence</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Salary increases (Rich, Johnston, and Governor Weeks
+                                contributions)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Academic Council, communication</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bennett Lectureship, Committee on</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Degree certificates, faculty recommendations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek Department, visiting committee evaluation
+                                of</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Library Committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Librarian's report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>YMCA, letter requesting President Shanklin's service in
+                                France, and resolution of the faculty thereto</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Trustee Business, 1918</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Library committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Coal situation report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Academic Council, communication to Trustees</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bennett Lectureship, report on</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Executive Committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Degrees and certificates for students in war service, faculty
+                                recommendations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Budget, 1918-1919</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Latin Department Visiting Committee, report on Wesleyan
+                                classes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Greek Department Visiting Committee, report on Wesleyan
+                                classes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Scheme and prices of college rooms</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Estimated expenses, 1917-1918, 1918-1919</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Trustee Business, 1919</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Executive Committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Finance Committee, October 14, 1918 and November 3,
+                                1918</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trustee Meeting, setting fees, November 5, 1918</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Mercier, Cardinal, honorary degree</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Faculty and Curriculum meetings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bylaws, amendment regarding quorem to make or change
+                                investments</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Alumnus</title> publishing
+                                appropriation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Minutes, Trustees, November 5, 1918</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan Campaign Committee</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Estimated budget, 1918-1919, 1919-1920</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Trustee Business, 1920</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Connecticut College, correspondence about alumnae</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Faculty Committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tentative budget</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Appointment recommendations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Bennett Foundation report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>College bills recommendations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Buckley, Dr. J. M., memoir report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Buckley, Dr. J. M., memorial minute</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Executive Committee reports</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Special Committee report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Annuities, resolution</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Tuition scholarship information</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Regulations regarding rental of college rooms</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>Trustee Business, 1921-1922</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Tentative budget, 1920-1921</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trustees Annual Meeting minutes, May 18, 1921</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Finance Committee minutes, February 2, 1922</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Committee on Faculty and Curriculum minutes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Executive Committee meetings, October 1921, January 1922, May
+                                1922</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>1930-1939</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">12</container>
+              <unittitle>Audit reports, July 1, 1930 and December 31, 1930</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">13</container>
+              <unittitle>Audit reports, June 30, 1931 and June 30, 1932</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">14</container>
+              <unittitle>Audit reports, June 30, 1933 and June 30, 1934</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">15</container>
+              <unittitle>Audit report, June 30, 1935</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">16</container>
+              <unittitle>Audit reports, June 30, 1937 and June 30, 1938</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">17</container>
+              <unittitle>Student Accounts Receivable, June 30, 1939</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">18</container>
+            <unittitle>Undated reports</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

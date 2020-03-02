@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.284">divinity.284</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the J. Leslie Dunstan Papers </titleproper>
+            <titleproper type="filing">Dunstan (J. Leslie) Papers</titleproper>
+            <author>Andover Newton Theological School and Yale Divinity Library staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2017</date>
+            <num>RG 284</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday March 26, 2019 at 22:00</creation>
+         <langusage/>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>J. Leslie Dunstan papers</unittitle>
+         <unitid>RG 284</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">4.75</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(10 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1936/1969">1936-1969</unitdate>
+         
+         <abstract id="aspace_da47d8588ceb27d61ca2851da480ec95">The Dunstan Papers document his professional life, primarily as a faculty member at Andover Newton Theological School. The correspondence (1936-1954) is that of Dunstan and Paul S. Minear, and provides detailed accounts of the life and work of both men during that period. Minear was a professor of Biblical Theology at Yale Divinity School.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no90009840"
+                      source="naf">
+               Dunstan, J. Leslie (John Leslie), 1901-
+            </persname>
+         </origination>
+      </did>
+      <bioghist id="aspace_ea257ce0aeda0ad69d6805251951101a">
+         <head>Biographical / Historical</head>
+         <p>Chronology</p>    
+         <chronlist>
+            <chronitem>
+               <date>1901 November 21</date>
+               
+                  <event>Born in London, England</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1923</date>
+               
+                  <event>Graduated from Colby College, Maine</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1923-1925</date>
+               
+                  <event>Graduate work at Boston University, School of Religious Education</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1928-1933</date>
+               <eventgrp>
+                  <event>Graduate work at Union Theological Seminary, NY</event>
+                  <event>Ordained in Presbyterian Church, 1932 April 25</event>
+                  <event>Director of Religious Education, Union Church, Bay Ridge, Brooklyn, NY</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1933-1938</date>
+               <eventgrp>
+                  <event>Associate Pastor, Central Union Church, Honolulu, Hawaii</event>
+                  <event>Lecturer in·Psychology and and. Philosophy of Religion, School of Religion, University of Hawaii</event>
+               </eventgrp>
+            </chronitem>
+            <chronitem>
+               <date>1935-1936</date>
+               
+                  <event>Graduate work at Westminster College, Cambridge, England</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1938</date>
+               
+                  <event>Received Ph.D., Columbia University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1938-1954</date>
+               
+                  <event>Director, School of Religion, University of Hawaii</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1944-1954</date>
+               
+                  <event>General Secretary of Hawaiian Evangelical Association</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1954-1956</date>
+               
+                  <event>Associate Professor of Missions and Comparative Religion, Andover Theological Seminary</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1956-1961</date>
+               
+                  <event>Professor of Missions and Comparative Religion, Andover</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1961-1962</date>
+               
+                  <event>Montgomery Professor of Missions and Comparative Religion, Andover</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1962-1969</date>
+               
+                  <event>Judson Professor of Missions and Comparative Religion, Andover Newton Theological School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1969 July 20</date>
+               
+                  <event>Died, Newton Centre, Massachusetts</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <accessrestrict id="aspace_b7b17c167aba50eb07adf8dd112da892">
+         <head>Conditions Governing Access</head>
+         <p>The collection is open for research.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_d6cb1379101a450f9a1c7e743f8859ec">
+         <head>Immediate Source of Acquisition</head>
+         <p>Transferred from Andover Newton Theological School Collection, 2017. A portion of the collection was donated to Andover Newton by Paul S. Minear in 1983.</p>  
+      </acqinfo>
+      <scopecontent id="aspace_03518575bb8862418e53f183d3835052">
+         <head>Scope and Contents</head>
+         <p>The John Leslie Dunstan Papers, 1936-1969, document the professional work of Dunstan. The collection is arranged according to the following categories: journal, correspondence, sermons, lectures and essays, unpublished manuscripts, office files.</p>
+         <p>The correspondence (1936-1954) is that of Dunstan and Paul S. Minear, and provides detailed accounts of the life and work of both men. The sermons comprise the bulk of the collection, and are arranged as follows: undated, no Biblical text--alphabetically by title; undated--by Biblical text; dated items. The lectures and essays are arranged as follows: undated--alphabetically by title; dated items. There is a small number of items identified as unpublished manuscripts; refer to ANTS faculty-publications register for a record of Dunstan publications.</p>
+         <p>The office files are not part of the Minear gift. The files were transferred to the Andover Newton Theological School Library after Dunstan's sudden death in 1969. The material
+represents his current working files at that time, and documents his academic and professional responsibilities in the 1960s.</p>  
+      </scopecontent>
+      <arrangement id="aspace_0dd274dcf7ba869adb07d6ed954eeaf0">
+         <head>Arrangement</head>
+         <p>Series I. Journal, 1960-1961</p>
+         <p>Series II. Correspondence, 1936-1954</p>
+         <p>Series III. Sermons, 1937-1966</p>
+         <p>Series IV. Lectures and Essays, 1944-1967</p>
+         <p>Series V. Unpublished Manuscripts</p>
+         <p>Series VI. Office Files, 1957-1969</p>  
+      </arrangement>
+      <prefercite id="aspace_b866d5e7697e71cbb7e70aab51d875e4">
+         <head>Preferred Citation</head>
+         <p>J. Leslie Dunstan Papers (RG 284), Special Collections, Yale Divinity School Library</p>  
+      </prefercite>
+      <controlaccess>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no90009840"
+                   source="naf">
+            Dunstan, J. Leslie (John Leslie), 1901-
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n82069857"
+                   source="naf">
+            Andover Newton Theological School
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="aspace_6576356e176aa9d15e62176c08212d45" level="series">
+            <did>
+               <unittitle>Journal</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="aspace_f101238422bfc079e9fefda9178de0ff" level="file">
+               <did>
+                  <unittitle>Account of sabbatical experience</unittitle>
+                  <unitdate type="inclusive">1960 September 10 - 1961 July</unitdate>
+                  <container label="Mixed Materials (39002099037369)"
+                             id="aspace_311d3f25a5b0a56f1e4ac912ed7dfb72"
+                             type="box">1</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_9a38c6bcac74c2dd1f6618a3dcb6674a" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <scopecontent id="aspace_d6a01852ede1ad7347a9fb7913534244">
+               <head>Scope and Contents</head>
+               <p>The correspondence (1936-1954), is that of Dunstan and Paul S. Minear, and provides detailed accounts of the life and work of both men. See the first folder in this collection for a detailed listing of letters.</p>
+            </scopecontent>
+            <c id="aspace_e407b61d15bc4e8368c5d39bdc35c57c" level="file">
+               <did>
+                  <unittitle>Dunstan to/from Paul and Gladys Minear (fragments and undated)</unittitle>
+                  <unitdate type="inclusive">No date</unitdate>
+                  <container label="Mixed Materials (39002099037369)"
+                             id="aspace_207ee6d2c761da42c007e2761a977ff7"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="aspace_7a510268a0158e2eca81deb0b5ebb79f" level="file">
+               <did>
+                  <unittitle>Dunstan to the Minears, from England, Maine, and Honolulu, Hawaii</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002099037369)"
+                             id="aspace_caeafdc9c7f7e2f31690621f55c021d8"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="aspace_efad98f27bbd15f4ee579431167a922c" level="file">
+               <did>
+                  <unittitle>Dunstan to Paul Minear, from Honolulu, Hawaii</unittitle>
+                  <unitdate type="inclusive">1937–1941</unitdate>
+                  <container label="Mixed Materials (39002099037369)"
+                             id="aspace_a27803a4da1a807cbcf8700e3c94f963"
+                             type="box">1</container>
+               </did>
+            </c>
+            <c id="aspace_e0df541da25c5cdd4638fb154406b790" level="file">
+               <did>
+                  <unittitle>Dunstan to/from Minear, primarily from Honolulu and Newton Centre</unittitle>
+                  <unitdate type="inclusive">1942–1953</unitdate>
+                  <container label="Mixed Materials (39002099037369)"
+                             id="aspace_173162f9ddbf538a0d46507618969db3"
+                             type="box">1</container>
+               </did>
+               <scopecontent id="aspace_de6cd05a7f4b2a3a55b94ff09d6a65dc">
+                  <head>Scope and Contents</head>
+                  <p>Includes a few manuscript enclosures</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="aspace_e06bbb95b001e297b8fca750c52a09a6" level="series">
+            <did>
+               <unittitle>Sermons</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <scopecontent id="aspace_070ee492c113a9b5165ee84804c6dab5">
+               <head>Scope and Contents</head>
+               <p>See listing in first folder this collection for complete list of sermon titles and texts.</p>
+            </scopecontent>
+            <c id="aspace_005e4b72f02116b188b8577187c31130" level="subseries">
+               <did>
+                  <unittitle>Undated sermons with no text arranged by title</unittitle>
+               </did>
+               <c id="aspace_af9e4abb683c34739c21fb0b7533cd1e" level="file">
+                  <did>
+                     <unittitle>57 sermons, from "The boy who built an altar" to "The Lord's supper"</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037369)"
+                                id="aspace_c86bdfb0dbc9966c1f9cfd14b9ffc25a"
+                                type="box">1</container>
+                  </did>
+               </c>
+               <c id="aspace_69477b0acb57788441575058b36b106c" level="file">
+                  <did>
+                     <unittitle>48 sermons, from "A man set under authority" to "Your faith abroad"</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037377)"
+                                id="aspace_1e2cd84a563ff911e285ad346c34f39e"
+                                type="box">2</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_2b7bb6443df89c8c497743ac8b5ad3d9" level="subseries">
+               <did>
+                  <unittitle>Sermons arranged by text</unittitle>
+               </did>
+               <c id="aspace_02b8448c8bc755f1fd41609d19170ece" level="file">
+                  <did>
+                     <unittitle>Undated sermons: Genesis - Luke</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037377)"
+                                id="aspace_24b009f217ea7d57fef86582fd4d2aae"
+                                type="box">2</container>
+                  </did>
+               </c>
+               <c id="aspace_82d54b7673d2c682e7642556b9e100be" level="file">
+                  <did>
+                     <unittitle>Undated sermons: Luke - Acts</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037385)"
+                                id="aspace_e41cfd6d1cf85b7fcd65aed12682996e"
+                                type="box">3</container>
+                  </did>
+               </c>
+               <c id="aspace_6b9d1a9b7bf37bac4aca686c97889c36" level="file">
+                  <did>
+                     <unittitle>Undated sermons: Acts - Galatians</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037393)"
+                                id="aspace_74cce6b8a66880424ef5a64f0179440c"
+                                type="box">4</container>
+                  </did>
+               </c>
+               <c id="aspace_fff9e38b2b9fcbe8648ff0ada5a1a324" level="file">
+                  <did>
+                     <unittitle>Undated sermons: Ephesians - Revelation</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037401)"
+                                id="aspace_dd9eb0a8b2119455904af1489279bc00"
+                                type="box">5</container>
+                  </did>
+               </c>
+               <c id="aspace_c8494c9808e7ce1481e385a3870dd568" level="file">
+                  <did>
+                     <unittitle>Dated sermons</unittitle>
+                     <unitdate type="inclusive">1937–1951</unitdate>
+                     <container label="Mixed Materials (39002099037401)"
+                                id="aspace_deb955d5e14a8351f9d8b642c8664e03"
+                                type="box">5</container>
+                  </did>
+               </c>
+               <c id="aspace_f5f92f7724bc51dbff841c75a63cd84c" level="file">
+                  <did>
+                     <unittitle>Dated sermons</unittitle>
+                     <unitdate type="inclusive">1952–1966</unitdate>
+                     <container label="Mixed Materials (39002099037419)"
+                                id="aspace_d089f267d70b6ee194da3f854f72f247"
+                                type="box">6</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_97823f99aeb1b22666ac0f0ca61d17a9" level="series">
+            <did>
+               <unittitle>Lectures and Essays</unittitle>
+               <unitid>Series IV</unitid>
+            </did>
+            <scopecontent id="aspace_c28155a400b1b7a4232d39ce1a147ce9">
+               <head>Scope and Contents</head>
+               <p>See the first folder of this collection for a complete list of titles.</p>
+            </scopecontent>
+            <c id="aspace_211350b61b628a251fe7c9382b2ce889" level="subseries">
+               <did>
+                  <unittitle>Undated lectures and essays arranged by title</unittitle>
+               </did>
+               <c id="aspace_f207d69b01543650fbacaece4666e30e" level="file">
+                  <did>
+                     <unittitle>"Andover and the Missions" through "Conversion"</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037419)"
+                                id="aspace_5f8d921f6e57774a49cbb4310d0671a2"
+                                type="box">6</container>
+                  </did>
+               </c>
+               <c id="aspace_f3b53ed533fc42884289ba8bb6d0a199" level="file">
+                  <did>
+                     <unittitle>"The devil" through "The youth of Hawaii looks to the past"</unittitle>
+                     <unitdate type="inclusive">No date</unitdate>
+                     <container label="Mixed Materials (39002099037427)"
+                                id="aspace_f80a9299523438d01f374a1f77b93aae"
+                                type="box">7</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_1fc9b780e3cf57f1404d238b4da7b03b" level="subseries">
+               <did>
+                  <unittitle>Dated lectures and essays</unittitle>
+               </did>
+               <c id="aspace_e48d74cbd11efe3cf821b498746d65f9" level="file">
+                  <did>
+                     <unittitle>From "Y.M.C.A. annual meeting" to "Christian education"</unittitle>
+                     <unitdate type="inclusive">1944–1966</unitdate>
+                     <container label="Mixed Materials (39002099037427)"
+                                id="aspace_8c1d4da3c19a7a2ef21d1444dfa8c6c6"
+                                type="box">7</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_f24fa047bf9c073e9d21aa950b4b4016" level="series">
+            <did>
+               <unittitle>Unpublished Manuscripts</unittitle>
+               <unitid>Series V</unitid>
+            </did>
+            <c id="aspace_ca9accbac000fe0238c076ba37b45ce1" level="file">
+               <did>
+                  <unittitle>Untitled (5 parts)</unittitle>
+                  <unitdate type="inclusive">No date</unitdate>
+                  <container label="Mixed Materials (39002099037435)"
+                             id="aspace_b8c70fe59f519b4bd0585bcd16475ed7"
+                             type="box">8</container>
+               </did>
+            </c>
+            <c id="aspace_0123af1b694577ab49317151ffb49bc9" level="file">
+               <did>
+                  <unittitle>Bible Study - drafts, introduction, fragments</unittitle>
+                  <unitdate type="inclusive">No date</unitdate>
+                  <container label="Mixed Materials (39002099037435)"
+                             id="aspace_5ff6513b639282fb891c6da92bfd3eb0"
+                             type="box">8</container>
+               </did>
+            </c>
+            <c id="aspace_d79fdf7d2708feb480384a877848295a" level="file">
+               <did>
+                  <unittitle>Promptings (7 versions)</unittitle>
+                  <unitdate type="inclusive">No date</unitdate>
+                  <container label="Mixed Materials (39002099037435)"
+                             id="aspace_1a90a26631464818fcbee78e03f78387"
+                             type="box">8</container>
+               </did>
+            </c>
+            <c id="aspace_c5a9bc0f2e1e9c4f94c3b727223480fe" level="file">
+               <did>
+                  <unittitle>St. Paul</unittitle>
+                  <unitdate type="inclusive">No date</unitdate>
+                  <container label="Mixed Materials (39002099037435)"
+                             id="aspace_8d3d5ea0b00f9108ee2479b1e351efd8"
+                             type="box">8</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_deab60cf986e9f463ca1aaa252bd1f02" level="series">
+            <did>
+               <unittitle>Office Files</unittitle>
+               <unitid>Series VI</unitid>
+            </did>
+            <c id="aspace_e4088dc84ab1d39be19c975f64af2341" level="subseries">
+               <did>
+                  <unittitle>American Baptist Churches USA</unittitle>
+               </did>
+               <c id="aspace_be807d965c2b69454d00b290a522f429" level="file">
+                  <did>
+                     <unittitle>Commission on the Ministry - Continuing Education Committee, minutes and proposals</unittitle>
+                     <unitdate type="inclusive">1967–1968</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_46fce61ea58c7635dc25305eea50ab05"
+                                type="box">9</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_8f351f5dc67d09cc2c2def38009ba5eb" level="subseries">
+               <did>
+                  <unittitle>Andover Newton Theological School</unittitle>
+               </did>
+               <c id="aspace_32c1f3ad41a5a9abbe027c06bf07508d" level="file">
+                  <did>
+                     <unittitle>Church and Ministry Department: primarily proposals, some related to field education</unittitle>
+                     <unitdate type="inclusive">1967–1968</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_77300518c94938071651674c9043632d"
+                                type="box">9</container>
+                  </did>
+               </c>
+               <c id="aspace_cb14980d7ea0b3c10a16ac1fddec72d5" level="file">
+                  <did>
+                     <unittitle>Committee on Black Seminary Education: correspondence and proposals</unittitle>
+                     <unitdate type="inclusive">1968–1969</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_650312d7aced95347d920d70758fe7ad"
+                                type="box">9</container>
+                  </did>
+               </c>
+               <c id="aspace_9a9f9e25897ef09dbd935a425d661758" level="file">
+                  <did>
+                     <unittitle>Committee on Curriculum and Academic Affairs: correspondence and interoffice memos</unittitle>
+                     <unitdate type="inclusive">1965–1969</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_684d65299c90734afb13514b1b90064d"
+                                type="box">9</container>
+                  </did>
+               </c>
+               <c id="aspace_0fe9d3d1099ffc97133589dec47e6d71" level="file">
+                  <did>
+                     <unittitle>International Students Program: proposals</unittitle>
+                     <unitdate type="inclusive">1968–1969</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_1cb4e0bd8827513e9bbc8461557edf95"
+                                type="box">9</container>
+                  </did>
+               </c>
+               <c id="aspace_fe841469b6f9935ace5020e04a725354" level="file">
+                  <did>
+                     <unittitle>Self-study Committee: proposals</unittitle>
+                     <unitdate type="inclusive">1967, no date</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_b12aaf23a82ed9880f48bd5689432f51"
+                                type="box">9</container>
+                  </did>
+               </c>
+               <c id="aspace_2286d3cfeb4a1132013369cf625f9977" level="file">
+                  <did>
+                     <unittitle>Seminar in Ecumenical Theology: documentation of course content</unittitle>
+                     <unitdate type="inclusive">1965–1966</unitdate>
+                     <container label="Mixed Materials (39002099037443)"
+                                id="aspace_9deed231cfc1b33134eb617017d67bf2"
+                                type="box">9</container>
+                  </did>
+                  <scopecontent id="aspace_aa5fce3ed522c09f3e03aed0961fe755">
+                     <head>Scope and Contents</head>
+                     <p>Course offered 1965/66 (first semester) by ANTS, Boston University School of Theology, Episcopal Divinity School, and Harvard Divinity School</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_ba59e7f01f415569190fbaa5d25e275a" level="file">
+                  <did>
+                     <unittitle>Seminar in Ecumenical Theology: documentation of course content</unittitle>
+                     <unitdate type="inclusive">1968–1969</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_94968b8a14da35dfa79341bce0c749c4"
+                                type="box">10</container>
+                  </did>
+                  <scopecontent id="aspace_d29ccc0c7ef1974e16b4c924d196927e">
+                     <head>Scope and Contents</head>
+                     <p>Course offered 1968/69 (first semester) by BTI schools</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_434363fa43468a0737207e45db3f63c5" level="file">
+                  <did>
+                     <unittitle>Students Concerned About Andover Newton (SCAAN): student statements and faculty responses</unittitle>
+                     <unitdate type="inclusive">1969</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_c3e8dc219bd98d54d13f1026bd7e7f0a"
+                                type="box">10</container>
+                  </did>
+               </c>
+               <c id="aspace_2427c97de8aa8b5436cf684e0d737386" level="file">
+                  <did>
+                     <unittitle>Syllabi</unittitle>
+                     <unitdate type="inclusive">1961–1966</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_ce6c36fadc26d03f64009db3645e5e1d"
+                                type="box">10</container>
+                  </did>
+                  <scopecontent id="aspace_d939c7531dc8934cabb6121204518419">
+                     <head>Scope and Contents</head>
+                     <p>CH207, CWR301, CWR304 (1965-66/2nd semester), CWR311, CWR323 (1961-62/1st semester), RE314 (1965-66/2nd semester), RE348 (1963-64/1st semester)</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="aspace_ae7157aae120df492253db82460463a3" level="subseries">
+               <did>
+                  <unittitle>Boston Theological Institute</unittitle>
+               </did>
+               <c id="aspace_96e3bb32c49af82247b80fe3b5f3102a" level="file">
+                  <did>
+                     <unittitle>CABAL: Program Committee; primarily minutes</unittitle>
+                     <unitdate type="inclusive">1966–1968</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_cfd4e2137024c626d459f31d02037642"
+                                type="box">10</container>
+                  </did>
+               </c>
+               <c id="aspace_6cea13d92dd01f88baa50c6db59924c1" level="file">
+                  <did>
+                     <unittitle>Continuing Education Task Force/Committee: some proposals and reports; primarily minutes</unittitle>
+                     <unitdate type="inclusive">1969</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_038f26fa591ceb4340aa65adfb22de98"
+                                type="box">10</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_9f38b0199cc6688a3585757e05713b09" level="subseries">
+               <did>
+                  <unittitle>Massachusetts Council of Churches</unittitle>
+               </did>
+               <c id="aspace_1e349eaebc71386a9c0b2d5553a71277" level="file">
+                  <did>
+                     <unittitle>Committee on Christian Unity: minutes</unittitle>
+                     <unitdate type="inclusive">1967–1968</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_1df3dffe50cebd22fc0fcf96028535b8"
+                                type="box">10</container>
+                  </did>
+               </c>
+               <c id="aspace_cb4936eb581514092ef56375ed3f533c" level="file">
+                  <did>
+                     <unittitle>Massachusetts Commission on Christian Unity: proposals, minutes</unittitle>
+                     <unitdate type="inclusive">1967–1969</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_4b965612b1c991cc9ffb19af88deafa4"
+                                type="box">10</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_102f1ccb9fcf8686a8a575c0a06b08e6" level="subseries">
+               <did>
+                  <unittitle>New England Ecumenical Study Conference</unittitle>
+               </did>
+               <c id="aspace_c6ee8ca0dc4a87ee8f14fd2daaa47930" level="file">
+                  <did>
+                     <unittitle>Minutes</unittitle>
+                     <unitdate type="inclusive">1966–1968</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_9f858bd319fc0f7e09b31b2c460d01a7"
+                                type="box">10</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_baaec83b7939e115b2bf1af98b039a77" level="subseries">
+               <did>
+                  <unittitle>Professors of Missions</unittitle>
+               </did>
+               <c id="aspace_3a30f5ab37974e4b2c22859f9bc24390" level="file">
+                  <did>
+                     <unittitle>Fellowship of Professors of Missions and Eastern Fellowship of Professors of Missions: minutes and correspondence</unittitle>
+                     <unitdate type="inclusive">1957–1966</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_267aedf3e664af273bcb73f5c147e274"
+                                type="box">10</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_c485a6a6d19a4f52ea90a3875c1a8b86" level="subseries">
+               <did>
+                  <unittitle>UCC/Massachusetts Conference</unittitle>
+               </did>
+               <c id="aspace_f64c1db1c2b57ed7920a01927a0f8879" level="file">
+                  <did>
+                     <unittitle>Committee on Christian Unity: minutes</unittitle>
+                     <unitdate type="inclusive">1965–1968</unitdate>
+                     <container label="Mixed Materials (39002099037450)"
+                                id="aspace_a3b8cb12233e9b0d2272a6a6a5e08ebd"
+                                type="box">10</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

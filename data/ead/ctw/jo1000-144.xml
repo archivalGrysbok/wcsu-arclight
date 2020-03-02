@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-144::John Johnston Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/jo1000-144.html">jo1000-144</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John Johnston Papers,
+		<lb/><date normal="1833/1877">1833 - 1877, 1919-1920</date>
+		</titleproper>
+        <author>Processed by: Diana Perron; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: February 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the John Johnston Papers, <date type="span">1833 - 1877, 1919-1920</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Johnston, John, 1806-1879.</persname></origination><unittitle label="Title" encodinganalog="245">John Johnston Papers, <unitdate normal="1833/1877" type="inclusive">1833 - 1877, 1919-1920</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-144</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.75</extent></physdesc><physdesc label="Archival Boxes"><extent>2</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">John Johnston was a professor of natural sciences at Wesleyan University, and twice served as its acting president.</abstract><abstract encodinganalog="520">The John Johnston Papers include correspondence, biographical information, materials about the study of science at Wesleyan University, and a scrapbook of programs from 19th century Wesleyan events.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions. However, the scrapbook is extremely fragile and should be handled with care.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], John Johnston Papers, Collection #1000-144, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Two autograph notes in folder 8 were the gift of Robert Maas, 1980</p>
+        <p>Items in folders 1-6, 9-10, and 13-15 were the gift of Robert J. Williams, great-grandson of John Johnston, 1987-1988.</p>
+        <p>Other materials assembled by John Spaeth, University Archivist.</p>
+      </acqinfo>
+      <otherfindaid>
+        <head>Alternate Finding Aids</head>
+        <p>An older, printed finding aid with a complete list of correspondents is available for use in Special Collections &amp; Archives.</p>
+      </otherfindaid>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Diana Perron, January 1990</p>
+        <p>Encoded by Valerie Gillispie, February 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>John Johnston was born in Bristol, Maine and received his B.A. and M. A. degrees from Bowdoin College. Before coming to Wesleyan, he taught at Cazenovia Seminary (Oneida Conference) in New York from 1832-1835. At Wesleyan, Johnston began as Assistant Professor of Mathematics and Lecturer in Natural Science in 1837, was Professor of Natural Science from 1837-1873, and Professor Emeritus from 1873 until his death in 1879. Johnston was acting President of Wesleyan twice in this period. Her served in 1851-1852, prior to the presidency of Augustus William Smith, and in 1857-1858 following Smith's presidency.
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The John Johnston Papers include correspondence, biographical information, materials about the study of science at Wesleyan University, and a scrapbook of programs from 19th century Wesleyan events.</p>
+      <p>The correspondence of John Johnston contains much interesting material on and around the formative years of Wesleyan University. Many of the letters deal with science (fossils and minerals); the teaching of science (textbooks, lab experiments, and equipment); letters of inquiry and requests for catalogs from prospective students; addresses at commencement; and contributions to Frankfort Mineral Cabinet. The collection is especially useful on the topics of science and science vis a vis Methodism at the dawning of Darwinism. Other letters in the collection discuss the Civil War and Wesleyan University.</p>
+      <p>The correspondence of J.G. Blair is notably interesting for comments on the Civil War and on science education in relation to religion, or <emph render="doublequote">inquiries into the mysteries of God's great laboratory.</emph> (January 27, 1863)</p>
+      <p>A. Rollins' letter for February 3 is an interesting diatribe on the suspect morals of a Wesleyan student. A letter (May 6, 1851) from M. C. White from China contains the flavor of his life as a missionary as he <emph render="doublequote">tries to preach in Chinese on Sundays, Tuesdays, and Thursdays in a little room opening to the street between the river and the south gate of the city.</emph> Many of the J. Holdich letters of the 1860s deal with the politics as well as the sorrow of the war. Among other Johnston correspondents are Nathan Bangs, Cyrus Foss, Joseph Cummings, the Hoyts, and Orange Judd. </p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Correspondence is arranged chronologically.
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Johnston, John, 1806-1879.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration.</corpname>
+      <persname source="lcnaf" encodinganalog="600">Wesleyan University (Middletown, Conn.)--Faculty.</persname>
+      <corpname source="lcnaf" encodinganalog="610">	Wesleyan University (Middletown, Conn.)--History--19th century.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Presidents.</corpname>
+      <subject source="lcsh" encodinganalog="650">Natural history--United States--History--19th century.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p><title render="italic">Register of Meteorological Observations Made in Middletown,</title> by Augustus Smith, John Johnston, and H. D. A. Ward, 1849-1890 (lacks September 1852-January 1858). Special Collections &amp; Archives, Wesleyan University</p>
+      <p>Wesleyan Museum Records. Special Collections &amp; Archives, Wesleyan University</p>
+      <p>Vertical (reference) File on John Johnston. Special Collections &amp; Archives, Wesleyan University</p>
+      <p>Several letters from John Johnston can be found in the William North Rice Papers. Special Collections &amp; Archives, Wesleyan University</p>
+      <p>A letter to John Johnston can be found in the Willbur Fisk Papers. Special Collections &amp; Archives, Wesleyan University.</p>
+      <p>Letters and documents referring to John Johnston's book, <title render="italic">A History of the Towns of Bristol and Bremen in the State of Maine, including the Pemaquid Settlement</title>, were sent by Robert Williams to the Harrington Meeting House, Pemaquid, Maine.</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1: Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>1842-1861</unittitle>
+          </did>
+          <scopecontent>
+            <p>96 letters to John Johnston.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>1862-1869</unittitle>
+          </did>
+          <scopecontent>
+            <p>79 letters to John Johnston.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Orange Judd to John Johnston, June 24, 1851 and October 18, 1869</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Undated correspondence</unittitle>
+          </did>
+          <scopecontent>
+            <p>17 letters to John Johnston. Filed alphabetically.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Civil War letter from John Johnston to C. D. Hubbard, May 30, 1861</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Exchange of letters between a Johnston grandson and a Hubbard son regarding Civil War letter, December 1919-January 1920.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>John Johnston to J. M. Reid about publishing an article, May 14, 1853-July 18, 1853</unittitle>
+          </did>
+          <scopecontent>
+            <p>11 letters.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>John Johnston to J. M. Reid about proposed nominees for professorships, 1859-1860</unittitle>
+          </did>
+          <scopecontent>
+            <p>4 letters.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston letter of recommendation for student, May 14, 1838</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Stephen Olin, May 1, 1843</unittitle>
+          </did>
+          <scopecontent>
+            <p>Written from the American Association of Geologists and Naturalists Meeting at Albany, NY.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Good _____, November 28, 1844</unittitle>
+          </did>
+          <scopecontent>
+            <p>Regarding settling of note.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Stephen Olin, July 17, 1845</unittitle>
+          </did>
+          <scopecontent>
+            <p>Regarding Middletown and Vicinity Bible Society.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Good _____, October 20, 1845</unittitle>
+          </did>
+          <scopecontent>
+            <p>Regarding printing delays on Johnston's work on Natural Philosophy, October 20, 1845.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Note to John Johnston as registrar, August 5, 1850</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Student honorably dismissed, August 8, 1850</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>D. W. Clark to John Johnston, June 3, 1852</unittitle>
+          </did>
+          <scopecontent>
+            <p>Regarding the Legacy of Bishop Hedding.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Mrs. Olin, February 20, 1862</unittitle>
+          </did>
+          <scopecontent>
+            <p>Regarding Henry Olin's mumps.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>John Johnston to Mrs. Olin, June 28, 1867</unittitle>
+          </did>
+          <scopecontent>
+            <p>Thanking Mrs. Olin for contribution to mineral case.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Invitation to John Johnston from Charles R. North, February 16, 1869</unittitle>
+          </did>
+          <scopecontent>
+            <p>Invitation to first annual dinner of the New York Wesleyan University Club.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>John Johnston autograph notes, October 26, 1847 and November 1, 1847</unittitle>
+          </did>
+          <scopecontent>
+            <p>Envelopes addressed to Third Assistant Post Master General, Washington.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>List of Wesleyan names</unittitle>
+          </did>
+          <scopecontent>
+            <p>2 pages. Signature unreadable.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Letters of introduction from W. S. Smyth to Dr. Cummings, June 30, 1869</unittitle>
+          </did>
+          <scopecontent>
+            <p>Letters of introduction for prospective students.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2: Biographical/Personal/Wesleyan Administrative</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Miscellaneous works about John Johnston</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Portraits</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Minor publications</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Documents related to John Johnston, 1824-1876</unittitle>
+          </did>
+          <scopecontent>
+            <p>Character references, letters certifying teacher qualifications, records of donations, honors, awards, memberships, and official commission as State Chemist (January 10, 1872).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Annual report as acting president, 1851-1852</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Penciled Trustee minutes on funeral arrangements of Stephen Olin, August 18, 1851</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Abstract of Annual Financial Report, April 1950</unittitle>
+          </did>
+          <scopecontent>
+            <p>Written by John Johnston, Registrar. Includes description of Wesleyan's real and moveable property.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>John Johnston letter to Treasurer, August 17, 1866</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>John Johnston letters to Financial Committee, April 1856, July 1856</unittitle>
+          </did>
+          <scopecontent>
+            <p>2 letters, which request money.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3: Wesleyan Scientific</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Report on natural history collections, 1868</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Inventory of apparatus, 1861</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Committee on Apparatus reports, 1860, 1862-1872</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Bills, expenditures, 1836-1844, 1877</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Appropriation request, 1839</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Frankfort Cabinet of Minerals, 1857-1863</unittitle>
+          </did>
+          <scopecontent>
+            <p>Payments, subscriptions.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Frankfort Cabinet of Minerals, 1860-1863</unittitle>
+          </did>
+          <scopecontent>
+            <p>Reports</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>John Johnston letter to the Joint Board, 1867</unittitle>
+          </did>
+          <scopecontent>
+            <p>Discusses adding personal mineral collection to the Wesleyan Mineral Cabinet.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">23</container>
+            <unittitle>Pressed botanical specimens</unittitle>
+          </did>
+          <scopecontent>
+            <p>Removed from two volumes of the <title render="italic">Maine Wesleyan Journal</title> from Johnston's own library.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">24</container>
+            <unittitle>Loose scrapbook items, 1872-1874</unittitle>
+          </did>
+          <scopecontent>
+            <p>These items were loose in the scrapbook found in Box 2.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 4: Scrapbook</unittitle>
+        </did>
+        <scopecontent>
+          <p>The items in the scrapbook are pasted in chronologically, but they have been listed here by type. Items dating from 1872 to 1874 were loose, and can be found in Box 1, Folder 24.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Commencement programs, 1833, 1836-1874</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Senior Exhibition programs, 1834-1842</unittitle>
+          </did>
+          <scopecontent>
+            <p>See also Anniversary Exercise programs.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Anniversary (Annual) Exercise programs, 1843-1872, 1874</unittitle>
+          </did>
+          <scopecontent>
+            <p>The Anniversary Exercises took the place of Senior Exhibitions in 1843.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Junior Exhibition programs, 1834, 1836, 1838, 1840-1841, 1843-1867, 1869-1872</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Sophomore Exhibition programs, 1858-1868, 1870</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Declamation of Junior and Sophomore Classes programs, 1847-1852, 1854-1855, 1857</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Prize Declamation programs, 1858-1863, 1865-1866, 1868-1871, 1874</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Prize Contest in Debate and Declamation, 1874</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Class Day programs, 1865, 1868-1869, 1871</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Order of Exams programs, 1859-1863, 1865-1866</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Rich Prize programs, 1868-1870</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Rich Hall Dedication program, 1868</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Laying of Cornerstone for Judd Hall program, 1870</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Phi Nu Theta 8th Quadrennial Anniversary, 1870</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

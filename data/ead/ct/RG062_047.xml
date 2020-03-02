@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG062_047.html" countrycode="us">RG062_047</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper encodinganalog="title">RG 062:047, Town of East Windsor</titleproper>
+		<titleproper encodinganalog="filing" altrender="nodisplay">East Windsor Records, Inventory of Town of</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Bruce P Stark.</author>
+	</titlestmt>
+	<publicationstmt>
+		<publisher>Connecticut State Library</publisher>
+		<date type="publication" normal="2006-08-22">August 22, 2006</date>
+		<address>
+			<addressline>231 Capitol Avenue</addressline>
+			<addressline>Hartford, Connecticut 06106-1537</addressline>
+		</address>
+ <p>Copyright © <date>2007</date> by the Connecticut State Library</p>
+
+	</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Chad H. Watkins on
+<date normal="2006-08-22">August 22, 2006</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="100">East Windsor (Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Town of East Windsor records</unittitle>
+
+	<unitdate label="Dates:" type="inclusive" datechar="creation" encodinganalog="245$f" normal="1768/1993">1768-1993</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">30.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Administrative, court and justice of the peace, military, school, and tax records.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG062_047</unitid>
+
+	<unitid label="Accession:">Multiple</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The town of East Windsor on the east side of the Connecticut River, originally part of the town of Windsor, was incorporated in May 1768. South Windsor separated from East Windsor in May 1845.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The records of the town of East Windsor consist of materials divided into seven series - Administrative, Court and Law Enforcement, Military, School, Election, Tax, and Other Records.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+<p>Series 1. Administrative Records, 1768-1946 includes treasurer's accounts, Old Age Survivors and Insurance System information, and town orders on the treasurer.</p>
+<p>Series 2. Court and Law Enforcement Records, 1854-1973 includes probate records and police patrol records.</p>
+<p>Series 3. Military Records, 1852-1883 includes militia enrollment files.</p>
+<p>Series 4. School Records, 1826-1933 includes School Board accounts.</p>
+<p>Series 5. Election Records, 1841-1993 includes lists of voters admitted.</p>
+<p>Series 6. Tax Records, 1850-1971 includes tax lists, grand lists, polls and rateable estates, and tax collector records.</p>
+<p>Series 7. Other Records, 1902-1923 includes material related to the East Windsor Memorial Association.</p>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Alternate creator:</head>
+			<corpname encodinganalog="710" source="local">Connecticut. Justice of the Peace (East Windsor)</corpname>	
+	</controlaccess>
+
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- East Windsor</subject>
+			<subject encodinganalog="650" source="lcsh">Law enforcement -- Connecticut -- East Windsor</subject>
+			<subject encodinganalog="650" source="lcsh">Soldiers -- Connecticut -- East Windsor</subject>
+			<subject encodinganalog="650" source="lcsh">Voting registers -- Connecticut -- East Windsor</subject>
+			<subject encodinganalog="650" source="lcsh">Tax assessment -- Connecticut -- East Windsor -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Taxation -- Connecticut -- East Windsor -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Local taxation -- Connecticut -- East Windsor -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Property tax -- Connecticut -- East Windsor -- Registers</subject>
+			<subject encodinganalog="650" source="lcsh">Justices of the Peace -- Connecticut -- East Windsor</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">East Windsor (Conn.) -- Records and correspondence</geogname>
+	</controlaccess>
+	
+ <controlaccess>
+ 	 	<head>Occupations:</head>
+			<occupation encodinganalog="656" source="lcsh">Town clerks</occupation>
+			<occupation encodinganalog="656" source="aat">Justices of the Peace</occupation>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Administrative records</genreform>
+			<genreform encodinganalog="655" source="aat">Civil court records</genreform>
+			<genreform encodinganalog="655" source="aat">Military records</genreform>
+			<genreform encodinganalog="655" source="aat">School records</genreform>
+			<genreform encodinganalog="655" source="aat">Tax records</genreform>
+			<genreform encodinganalog="655" source="aat">Voters' lists</genreform>
+	</controlaccess>
+</controlaccess>
+
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+	<p>The Town of East Windsor records with accession 2006-006 were donated to the Connecticut State Library in September 2005.</p>
+
+</acqinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 1. Administrative Records</unittitle>
+	<unitdate datechar="creation" normal="1768/1946">1768-1946</unitdate>
+ </did>	
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Treasurer's accounts</unittitle>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 1</container>
+	<unitdate datechar="creation">1893-1909</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 2</container>
+	<unitdate datechar="creation">1909-1924</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 3</container>
+	<unitdate>1924-1936</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Old Age Survivors and Insurance System</unittitle>
+	<unitdate datechar="creation">1937-1946</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Town orders on the treasurer</unittitle>
+	<unitdate datechar="creation">1873-1896</unitdate>
+ </did>	
+</c03>
+</c02>
+
+
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">T000334</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">Box 1</container>
+	<unittitle>Register of earmarks and record of found strays</unittitle>
+	<unitdate datechar="creation">1769-1850</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">Box 1</container>
+	<unittitle>Dog register</unittitle>
+	<unitdate datechar="creation">1899-1907</unitdate>
+ </did>	
+</c03>
+
+<c03 level="file">
+ <did>
+	<container type="Box">Box 1</container>
+	<unittitle>Treasurer's accounts</unittitle>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 1 (not labeled)</container>
+	<unitdate datechar="creation">1768-1779</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 2 (not labeled)</container>
+	<unitdate datechar="creation">1813-1834</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">Box 1</container>
+ <unittitle>Vol. 1</unittitle>
+	<unitdate datechar="creation">1834-1872</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Box">Box 1</container>
+ <unittitle>Vol. 2</unittitle>
+	<unitdate datechar="creation">1873-1894</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">Box 2</container>
+	<unittitle>Tax abatement lists</unittitle>
+	<unitdate datechar="creation">1831-1904</unitdate>
+ </did>	
+</c03>
+</c02>
+
+
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 2. Court and Law Enforcement Records</unittitle>
+	<unitdate datechar="creation" normal="1854/1973">1854-1973</unitdate>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Attachments</unittitle>
+	<unitdate datechar="creation">1854-1927</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Probate records</unittitle>
+	<unitdate datechar="creation">1856-1861</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<unittitle>Police Patrol</unittitle>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 1</container>
+	<unitdate datechar="creation">1962 April 1-1963 September 20</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 2</container>
+	<unitdate datechar="creation">1963 September 20-1965 April 13</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 3</container>
+	<unitdate datechar="creation">1965 April 14-1966 November 20</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 4</container>
+	<unitdate datechar="creation">1966 November 21-1971 December 31</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 5</container>
+	<unitdate datechar="creation">1972 January 1-1973 May 6</unitdate>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 3. Military Records</unittitle>
+	<unitdate datechar="creation" normal="1852/1883">1852-1883</unitdate>
+ </did>	
+<c02 level="file">
+ <did>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Militia enrollments</unittitle>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 1</container>
+	<unitdate datechar="creation">1869-1873</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 2</container>
+	<unitdate datechar="creation">1874-1883</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+
+<c02 level="file">
+ <did>
+ <unitid label="Accession: ">T000334</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">Box 1</container>
+	<unittitle>Military enrollment records</unittitle>
+	<unitdate datechar="creation">1852-1861</unitdate>
+ <physdesc><extent>2 volumes</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 4. School Records</unittitle>
+	<unitdate datechar="creation" normal="1826/1933">1826-1933</unitdate>
+ </did>	
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>School Board accounts</unittitle>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 1</container>
+	<unitdate datechar="creation">1896-1903</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 2</container>
+	<unitdate datechar="creation">1903-1919</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 3</container>
+	<unitdate datechar="creation">1919-1933</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">T000334</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Box">Box 2</container>
+	<unittitle>Second School Society account and record book</unittitle>
+	<unitdate datechar="creation">1826-1856</unitdate>
+ </did>	
+</c03>
+</c02>
+
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 5. Election Records</unittitle>
+	<unitdate datechar="creation" normal="1841/1993">1841-1993</unitdate>
+ </did>	
+
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<unittitle>Voters admitted</unittitle>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 1</container>
+	<unitdate datechar="creation">1874-1940</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 2</container>
+	<unitdate datechar="creation">1941-1953</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 3</container>
+	<unitdate datechar="creation">1950-1976</unitdate>
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Vol. 4</container>
+	<unitdate datechar="creation">1977-1993</unitdate>
+ </did>	
+</c04>
+</c03>
+</c02>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+ <unitid label="Accession: ">T000334</unitid>
+ </did>	
+<c03 level="item">
+ <did>
+	<unittitle>List of voters</unittitle>
+	<unitdate datechar="creation">1841-1890</unitdate>
+	<physdesc><extent>6 volumes</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 6. Tax Records</unittitle>
+	<unitdate datechar="creation" normal="1850/1971">1850-1971</unitdate>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c02 level="file">
+ <did>
+	<unittitle>Tax lists</unittitle>
+	<note><p>Note: For volumes 1-47, one volume covers the area east of the Scantic River and the second the area west of the Scantic River.</p></note>
+ </did>	
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 1-2</container>
+	<unitdate datechar="creation">1885</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 3-4</container>
+	<unitdate datechar="creation">1886</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 5-6</container>
+	<unitdate datechar="creation">1887</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 7-8</container>
+	<unitdate datechar="creation">1888</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 9-10</container>
+	<unitdate datechar="creation">1889</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 11-12</container>
+	<unitdate datechar="creation">1890</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 13-14</container>
+	<unitdate datechar="creation">1891</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 15-16</container>
+	<unitdate datechar="creation">1892</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 17-18</container>
+	<unitdate datechar="creation">1893</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 19-20</container>
+	<unitdate datechar="creation">1894</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 21-22</container>
+	<unitdate datechar="creation">1895</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 23-24</container>
+	<unitdate datechar="creation">1896</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 25-26</container>
+	<unitdate datechar="creation">1897</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 27-28</container>
+	<unitdate datechar="creation">1898</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 29-30</container>
+	<unitdate datechar="creation">1899</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 31-32</container>
+	<unitdate datechar="creation">1900</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 33-34</container>
+	<unitdate datechar="creation">1901</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 35-36</container>
+	<unitdate datechar="creation">1902</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 37-38</container>
+	<unitdate datechar="creation">1903</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 39-40</container>
+	<unitdate datechar="creation">1904</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 41-42</container>
+	<unitdate datechar="creation">1905</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 43-44</container>
+	<unitdate datechar="creation">1906</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 44-45</container>
+	<unitdate datechar="creation">1907</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vols. 46-47</container>
+	<unitdate datechar="creation">1908</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 48</container>
+	<unittitle>A-N</unittitle>
+	<unitdate>1909</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 49</container>
+	<unittitle>O-Z and non-residents</unittitle>
+	<unitdate>1909</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 50</container>
+	<unittitle>A-M</unittitle>
+	<unitdate>1910</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 51</container>
+	<unittitle>N-Z and non-residents</unittitle>
+	<unitdate>1910</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 52</container>
+	<unittitle>A-N</unittitle>
+	<unitdate>1911</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 53</container>
+	<unittitle>O-Z and non-residents</unittitle>
+	<unitdate>1911</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 54</container>
+	<unittitle>A-M</unittitle>
+	<unitdate>1912</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 55</container>
+	<unittitle>N-Z and non-residents</unittitle>
+	<unitdate>1912</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 56</container>
+	<unittitle>A-M</unittitle>
+	<unitdate>1913</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 57</container>
+	<unittitle>N-Z and non-residents</unittitle>
+	<unitdate>1913</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 58</container>
+	<unittitle>A-N</unittitle>
+	<unitdate>1914</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 59</container>
+	<unittitle>O-Z and non-residents</unittitle>
+	<unitdate>1914</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 60</container>
+	<unittitle>A-M</unittitle>
+	<unitdate>1915</unitdate>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Vol. 61</container>
+	<unittitle>N-Z and non-residents</unittitle>
+	<unitdate>1915</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="item">
+ <did>
+	<unittitle>Grand Lists</unittitle>
+	<unitdate datechar="creation">1948-1971</unitdate>
+	<physdesc><extent>12 volumes</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<unittitle>Polls and Rateable Estates, East of Scantic</unittitle>
+	<unitdate datechar="creation">1850</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<unittitle>Tax Collector, West of Scantic</unittitle>
+	<unitdate datechar="creation">1895</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<unittitle>Tax Liens</unittitle>
+	<unitdate datechar="creation">1917-1924</unitdate>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 7. Other Records</unittitle>
+	<unitdate datechar="creation" normal="1902/1923">1902-1923</unitdate>
+ <unitid label="Accession: ">2006-006</unitid>
+ </did>	
+<c02 level="item">
+ <did>
+	<unittitle>East Windsor Memorial Association</unittitle>
+	<unitdate datechar="creation">1902-1923</unitdate>
+ </did>	
+</c02>
+</c01>
+
+
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

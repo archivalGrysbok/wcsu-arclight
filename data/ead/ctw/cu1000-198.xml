@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-198::Cuvierian Society Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/cu1000-198.html">cu1000-198</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Inventory of the Cuvierian Society Records, <lb/><date normal="1836/1846">1836 - 1846</date>
+                </titleproper>
+        <author>Processed by: Margorie A. Biafore (class of 1979); machine-readable finding
+                    aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2010" encodinganalog="date">©
+                        2010</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: July 2010</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory of the Cuvierian Society Records, <date type="span">1836 -
+                    1846</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2010">© 2010</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">Special Collections &amp; Archives, Wesleyan
+                University</repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). Cuvierian Society</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Cuvierian Society Records, <unitdate normal="1836/1846" type="inclusive">1836 - 1846</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-198</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng"/>English</langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">0.1</extent>
+      </physdesc>
+      <physdesc label="Volume">
+        <extent>1</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">The Cuvierian Society was organized in
+                April 1836 as the Natural History Society, a primarily undergraduate organization at
+                Wesleyan University for the study of natural science. Along with some faculty
+                members, alumni, and local community members, the organization gathered for monthly
+                meetings, during which members read essays and heard addresses from invited guests.
+                The group changed its name to the Cuvierian Society in 1837. It continued to meet
+                regularly until May 1846. </abstract>
+      <abstract encodinganalog="520">The Cuvierian Records consist of a single volume, which
+                includes constitutions, by-laws, lists of members, and meeting minutes.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Cuvierian Society Records, Collection #1000-198,
+                    Special Collections &amp; Archives, Wesleyan University, Middletown, CT,
+                    USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired by the library in the 1930s.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Marjorie A. Biafore (class of 1979), spring 1977</p>
+        <p>Encoded by Valerie Gillispie, July 2010</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The Natural History Society was organized 18 April 1836 as a predominantly
+                undergraduate organization for <emph render="doublequote">the investigation and
+                    promotion of various departments of natural science.</emph> The original
+                constitution and by-laws were adopted in April 1836 and were revised 29 May 1841.
+                The constitution provided for the election of officers at an annual meeting of the
+                society: President, Vice President, Corresponding Secretary (always a faculty
+                member), Recording Secretary, and Curator/Librarian. Members were designated as
+                Resident (students of Wesleyan and residents of Middletown); Corresponding (students
+                who had graduated); Honorary (elected if <emph render="doublequote">deemed worthy,
+                    for their attainments in Natural Science</emph>); and Faculty (ex-officio
+                resident members). It was voted at the second meeting of the society (26 April 1836)
+                to include juniors in the ranks of members, and at the meeting of 18 August 1840,
+                the society voted to amend the constitution to include freshmen and sophomores.</p>
+      <p>In order to collect money for a treasury, it was decided at the meeting of 25 August
+                1836 that <emph render="doublequote">A tax of 12 1/2 cents was levied on each of the
+                    members to defray certain incidental expenses.</emph> Whenever extra money was
+                needed, a similar <emph render="doublequote">tax</emph> was voted upon by the
+                society.</p>
+      <p>Although the society was originally known as the Natural History Society of the
+                Wesleyan University, its name was changed (apparently not in a formal way, i.e., no
+                evidence of a vote by members) to the Cuvierian Society, presumably after Baron
+                Georges Léopold Chrétien Frédéric Dagobert
+                Cuvier (1769-1832), French zoologist and geologist, a founder of comparative anatomy
+                and paleontology. The first evidence of a name change is seen in the minutes of the
+                meeting of 30 September 1837: A regular meeting of the Natural History Society,
+                alias Cuvierian Society was held this day. After this date it was always referred to
+                as the Cuvierian Society in the meeting minutes. Both versions of the constitution
+                refer to it as the Cuvierian Society.</p>
+      <p>The last minutes in this record book are for the meeting of 30 May 1846. Essayists
+                were appointed to speak at the next meeting, but it is not known if any further
+                meetings were held.</p>
+      <p>At each monthly meeting, essays on some aspect of science were expected to be read to
+                the society by members who had been chosen at the previous meeting. Many, however,
+                were not prepared with essays, prompting a resolution at the meeting of 14 November
+                1838, that <emph render="doublequote">persons having essays to write and failing in
+                    the duties devolving upon them shall be fined 25 cents each.</emph> Even this
+                stern measure apparently did little to motivate the appointed essayists; recording
+                secretary B. F. Mudge, in the minutes for 26 February 1842, editorialized somewhat
+                on the situation: <emph render="doublequote">Essayists upon being called upon were
+                    found deficient <emph render="underline">as usual</emph>.</emph> Some of the
+                topics of the papers included <title render="doublequote">Phrenology</title>; <title render="doublequote">Grasshoppers and Locusts</title>; <title render="doublequote">The Bee</title>; <title render="doublequote">Salt</title>;
+                    <title render="doublequote">Coal Formations</title>; <title render="doublequote">Eels</title>; and <title render="doublequote">The Hummingbird.</title> Local
+                natural phenomena were also discussed at meetings: e.g., the Great Comet of 1843 (25
+                March and 24 April 1843), a locust colony (27 May 1843), and a bald eagle lately
+                taken in Meriden (27 July 1844).</p>
+      <p>An address to the Society on the subject of natural science on 31 July 1838 by
+                William H. Allen, professor of chemistry and experimental philosophy in Dickinson
+                College, was printed in New York in 1838.</p>
+      <p>The Cuvierian Society maintained a cabinet and, later, a room, to hold various
+                specimens which the members had collected or which had been donated. The minutes of
+                25 August 1836 read: <emph render="doublequote">A rattlesnake was received and a
+                    vote of thanks returned to the donor H. W. Smith. Also a Shark's
+                    Skeleton.</emph> It was noted on 19 May 1837 that the society was given the use
+                of <emph render="doublequote">the room over the labratory [sic]</emph> for <emph render="doublequote">the preservation and exhibition of their collections and
+                    specimens in Nat. His.,</emph> as long as none of the specimens were removed
+                from the University. It was also understood that the collection would be donated to
+                the University in the event that the Cuvierian Society should cease to exist; the
+                collection eventually became part of the Museum in Judd Hall.</p>
+      <p>Several non-students had a great influence on the Cuvierian Society. Professor John
+                Johnston served as corresponding secretary for most of the society's existence, and
+                was elected president at the meeting of 25 July 1845. Prof. Johnston was an active
+                participant at nearly every meeting. Dr. Joseph Barratt of Middletown was elected an
+                honorary member of the society 8 June 1836. The minutes of 19 September 1836 read,
+                    <emph render="doublequote">It was . . . voted that the thanks of this society be
+                    presented through the corresponding secretary to Dr. Barratt for the interest he
+                    has taken in behalf of said society.</emph> Dr. Barratt was also an active
+                member, delivering essays or papers and making <emph render="doublequote">remarks</emph> on various topics of natural science at many meetings. He was
+                elected president 29 June 1844, and served until the election of Prof. Johnston.
+                Augustus Smith, professor of mathematics and astronomy, 1831-1857, was also involved
+                in the society during its last years.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Cuvierian Records consist of a single volume, which includes constitutions,
+                by-laws, lists of members, and meeting minutes.</p>
+    </scopecontent>
+    <controlaccess><head>Online Catalog Headings</head><p>These and related materials may be found under the following headings in online
+                catalogs.</p><!-- use "Item Level Tags" here for controlaccess terms --><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.). Cuvierian Society.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Students.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Faculty.</corpname> 
+                    <corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>
+            
+            <subject encodinganalog="650" source="lcsh">Natural history--Connecticut.</subject>
+            
+            <subject encodinganalog="650" source="lcsh">Natural history--History--19th century.</subject>
+            
+
+
+        </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Cuvierian Society Volume, 1836-1846</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Leaf">1-4</container>
+            <unittitle>Lists of members, arranged by class year</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Leaf">6-7</container>
+            <unittitle>Constitution, adopted 29 May 1841</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Leaf">8</container>
+            <unittitle>By-laws, adopted 25 September 1841</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Leaf">13-14</container>
+            <unittitle>Constitution, undated (article 16 was amended 12 June
+                            1839)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Leaf">15</container>
+            <unittitle>By-laws, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Leaf">16-41</container>
+            <unittitle>Minutes of meetings 18 April 1836-30 May 1846</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+   <eadid url="http://doddcenter.uconn.edu/asc/findaids/Nelson/MSS19920056.html" mainagencycode="US-CtU" countrycode="US">MSS19920056</eadid>
+
+<filedesc>
+         <titlestmt>
+            <titleproper>Marilyn Nelson Papers</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Portia Matlala.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2002  University of Connecticut</publisher>
+            <date type="publication">August 2002</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in August 2002.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS19920056 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>
+         </repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Nelson, Marilyn</persname>.</origination>
+         <unittitle label="Title:" encodinganalog="245$a">Marilyn Nelson Papers.</unittitle>
+         <unitdate label="Dates:">1963-2001.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">2 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The collection contains the papers of Marilyn Nelson,  author of several books of poetry and current Poet Laureate for the State of Connecticut.</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS19920056</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography </head>
+         <p>
+            <persname>Marilyn Nelson</persname> was born <date>26 April 1946</date> to <persname>Johnnie E. Nelson</persname> and <persname>Melvin Nelson, Sr.</persname> She is a graduate of <corpname>Hiram Johnson High School</corpname> and the <corpname>University of California at Davis</corpname>, and has a Master's degree from the <corpname>University of Pennsylvania</corpname>. She is the author of 6 books of poetry, 2  children's collections and a few chapter books.  Her book <title render="italic">Carver: A life in Poems</title> has been awarded the  <corpname>Boston Globe-Horn Book Award</corpname> for excellence in  children's literature. <title render="italic">The Homeplace</title> was a finalist for the <corpname>National Book Award</corpname> and the <corpname>Lenore Marshall Prize</corpname> and won the 1998 <corpname>Poet's Prize</corpname>. Nelson has received a <corpname>Guggenheim Fellowship</corpname> and recently named  Connecticut's Poet Laureate by the <corpname>Connecticut Commission on the Arts</corpname>. <persname>Marilyn Nelson</persname> has been teaching at the <corpname>University of Connecticut</corpname> since <date>1978</date>.</p>
+      </bioghist>
+      <bibliography>
+         <head>Nelson Bibliography</head>
+         <list type="simple">
+            <item>
+               <bibref>[As Marilyn Nelson Waniek].  <title render="italic">For the Body</title>, <imprint>
+                     <publisher>Louisiana State University Press</publisher>, <date type="publication">1978</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[As Marilyn Nelson Waniek].  <title render="italic">The Cat Walked through the Casserole and Other
+Poems for Children</title>, <imprint>
+                     <publisher>Carolrhoda</publisher>, <date type="publication">1984</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[As Marilyn Nelson Waniek].  <title render="italic">Mama's Promises</title>, <imprint>
+                     <publisher>Louisiana State University Press</publisher>, <date type="publication">1985</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[As Marilyn Nelson Waniek].  <title render="italic">The Homeplace</title>, <imprint>
+                     <publisher>Louisiana State University Press</publisher>, <date type="publication">1990</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[As Marilyn Nelson Waniek].  <title render="italic">Magnificat</title>, <imprint>
+                     <publisher>Louisiana State University Press</publisher>, <date type="publication">1994</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[Translator]  <persname>Pil Dahlerup</persname>.  <title render="italic">Literary Sex Roles</title>, <imprint>
+                     <publisher>Minnesota Women in Higher Education</publisher>, <date type="publication">1975</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>[Translator with Espeland]  <persname>Halfdan Rasmussen</persname>.  <title render="italic">Hundreds of Hens and Other Poems for Children</title>, <imprint>
+                     <publisher>Black
+Willow Press</publisher>, <date type="publication">1982</date>.</imprint>
+               </bibref>
+            </item>
+            <item>
+               <bibref>
+                  <title render="italic">Carver: A Life in Poems</title>, <imprint>
+                     <publisher>Front Street</publisher>, <date type="publication">2001</date>.</imprint>
+               </bibref>
+            </item>
+         </list>
+      </bibliography>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The collection contains correspondence from Nelson's MFA students at <corpname>Vermont College</corpname> and from other poets, personal  notebooks, photographs, manuscripts of poetry and translations and term papers written while Nelson was a student.</p>
+      </scopecontent>
+      <arrangement encodinganalog="351$a" id="a4">
+         <head>Organization</head>
+         <p>
+            <emph render="bold">Series I:</emph>  Poetry Correspondence and Manuscripts (undated, 1964- 1992) contains term papers while Nelson was a student, manuscripts of  poetry, poems written with childern, correspondence from theologian <persname>Mary Pellauer</persname>; poets <persname>Dave Smith</persname> and others, and translation of <persname>Thornvig Bjorvig</persname> poems.</p>
+         <p>
+            <emph render="bold">Series II:</emph>  Other Correspondence and Photographs (1986-1992) from MFA students at <corpname>Vermont College</corpname> and  magazines as well as photographs.</p>
+      </arrangement>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives and Special Collections have a substantial collection of literary manuscripts and faculty papers.    For detailed information on these collections please contact the 
+            <extref href="http://doddcenter.uconn.edu/asc/dodda2z/curatorinfo.cfm?curatorinfo=6">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The collection has been reordered and divided into two series. Photographs were removed from original folders and placed in a separate folder created for photographs. Publications were also removed for cataloging.</p>
+      </arrangement>
+      <separatedmaterial encodinganalog="544 0" id="a7">
+         <head>Separated Material</head>
+         <p>
+            <bibref>
+               <title render="italic">Motley</title>, Volume 2, Number 1, <imprint>
+                  <date type="publication">Winter 1964</date>.  Dodd Periodicals</imprint>
+            </bibref>
+         </p><p>
+            <bibref>
+               <title render="italic">Moving Out: Feminist Literary &#x0026; Arts Journal</title>, Volume  5, Number 1, <imprint>
+                  <date type="publication">1975</date>.  Dodd Periodicals</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Christianity and Crisis</title>, Volume 44, No 13<imprint>, <date type="publication">August 13, 1984</date>.  Dodd Periodicals</imprint>
+            </bibref>
+         </p>
+         <p>
+            <bibref>
+               <title render="italic">Touchstone: Viterbo College</title>, Vol. 25, 26, <imprint>
+                  <date type="publication">Spring 1974, 1975</date>. Dodd Periodicals</imprint>
+            </bibref>
+         </p>
+         
+         <p>
+            <bibref>
+               <title render="italic">The Pennsylvania Gazette</title>, Vol. 69. No. 5<imprint>, <date type="publication">March, 1971</date>. Dodd Periodicals</imprint>
+            </bibref>
+         </p>
+      </separatedmaterial>
+      <bibliography id="a10">
+         <head>Bibliography</head>
+         <p>
+            <bibref>
+               <title render="italic">Dictionary of Literary Biography, Volume 120: American Poets since World War II</title>, Third
+Series,<imprint>
+                  <publisher> Gale</publisher>, <date type="publication">1992</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Booklist</title>, <imprint>
+                  <date type="publication">September 1, 1994</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Hudson Review</title>, <imprint>
+                  <date type="publication">Summer, 1991</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Kenyon Review</title>, <imprint>
+                  <date type="publication">Spring, 1991</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Multicultural Review</title>, <imprint>
+                  <date type="publication">March, 1995</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Parnassus</title>, Volume 17, number 1<imprint>, <date type="publication">1992</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Publishers Weekly</title>,  <imprint>
+                  <publisher/>, <date type="publication">November 16, 1990</date>; </imprint>
+               <imprint>
+                  <date type="publication">August 29, 1994</date>
+               </imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">School Library Journal</title>, <imprint>
+                  <date type="publication">June, 1991</date>.</imprint>
+            </bibref>
+            <bibref>
+               <title render="italic">Shenandoah</title>, <imprint>
+                  <date type="publication">Winter, 1992</date>.</imprint>
+            </bibref>
+         </p>
+      </bibliography><!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Nelson, Marilyn.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">University of Connecticut--Faculty.</subject>
+            <subject encodinganalog="650" source="local">Poets--United States.</subject>
+            <subject encodinganalog="650" source="local">Poets laureate--Connecticut.</subject>
+            <subject encodinganalog="650" source="local">American poetry--20th century.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Publications.</genreform>
+            <genreform encodinganalog="655" source="local">Notebooks.</genreform>
+            <genreform encodinganalog="655" source="local">Photographs.</genreform>
+            <genreform encodinganalog="655" source="local">Poems.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">Poet.</occupation>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions to materials identified in this finding aid.  </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #], Marilyn Nelson Papers.  Archives and Special Collections at the Thomas J. Dodd Research Center, University of Connecticut Libraries.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>Professor Marilyn Nelson donated her collection in 1992.</p>
+      </acqinfo>
+      <processinfo encodinganalog="583" id="a20">
+         <head>Processing Information</head>
+         <p>Materials restricted by the donor have not been processed. </p>
+      </processinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I:  Poetry Correspondence and Manuscripts,<unitdate>undated, 1964-1992</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>Genealogy, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>Letter to Jacob Nelson, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>Term Papers, <unitdate>1964-1965</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>Unidentified correspondence, <unitdate>1990-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>Agte/ Anderson/ Ashbery/ Bursk/ Burkholder/ Camoin/ Da Costa/ Espenland, <unitdate>1986,1989,1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>
+                     <persname>Dean, Debra</persname>, <unitdate>1987-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>Gibson/ Gifford/ Gompert/ Hoehandel/ Hoffman/ Hudgins/ Johnston, <unitdate>1983-1986,1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>Knight/ Komunyakaa/ Kelly/ Levine/	Louis/ Martin/ McDowell/ Myers, <unitdate>1995-1988,1991-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>
+                     <persname>Nelson, Peter</persname>, <unitdate>1976-1978, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>Nicholas/ O`Brien/ Rivers/ Sevlly/ Smith, <unitdate>1984-1987,1991-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>
+                     <persname>Pellauer, Mary</persname>, <unitdate>1977, 1981-1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>
+                     <persname>Solgiano, P.</persname>, <unitdate>1977-1986</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:13</container>
+                  <unittitle>
+                     <persname>Thenior, Ralf</persname>, <unitdate>1977-1987</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:14</container>
+                  <unittitle>Vernon/ Whiting, <unitdate>1979, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:15</container>
+                  <unittitle>
+                     <persname>Wojahn, David</persname>, <unitdate>1977-1985</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:16</container>
+                  <unittitle>
+                     <persname>Thornkild, Bjornvig</persname>, <unitdate>1984-1988</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:17</container>
+                  <unittitle>Poems, <unitdate>1966</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:18</container>
+                  <unittitle>Poems, <unitdate>1967-1968</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:19</container>
+                  <unittitle>Poems, <unitdate>1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:20</container>
+                  <unittitle>Poems, <unitdate>1970-1971</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:21</container>
+                  <unittitle>Poems, <unitdate>1972-1975</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:22</container>
+                  <unittitle>Poems, <unitdate>1976-1978</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:23</container>
+                  <unittitle>Poems, <unitdate>1983</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:24</container>
+                  <unittitle>Poems, <unitdate>1989</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:25</container>
+                  <unittitle>Poems, <unitdate>1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:26-40</container>
+                  <unittitle>Poems, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:41-47</container>
+                  <unittitle>Poems, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:48</container>
+                  <unittitle>"Alphabet Bestiaries", <unitdate>1984, 1986</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:49</container>
+                  <unittitle>"The Perfect Principal"  (Poems written with children), <unitdate>1987</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:50</container>
+                  <unittitle>"Selected Poems of Thornkild Bjornvig" (Translated by Marilyn Nelson), <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II:  Other Correspondence and Photographs,<unitdate>1986-2001</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">2:51</container>
+                  <unittitle>
+                     <persname>Townsend, Alison</persname>, <unitdate>1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:52</container>
+                  <unittitle>
+                     <persname>Lister, Kay</persname>, <unitdate>1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:53</container>
+                  <unittitle>
+                     <persname>Davis, Robin Elizabeth</persname>, <unitdate>1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:54</container>
+                  <unittitle>
+                     <emph render="italic">13 Moon: A Feminist Literary Magazine</emph>/ <emph render="italic">The Kenyon Review</emph>/ <emph render="italic">The Southern Review</emph>, <unitdate>1986-1990, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:55</container>
+                  <unittitle>Photographs, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:56</container>
+                  <unittitle>Newspaper clippings, <unitdate>1992-1993, 2001</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:57</container>
+                  <unittitle>Ephemera, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200506.xml">VHP200506</eadid>
+
+<filedesc>
+            <titlestmt>
+                <titleproper>John E. Pease Papers
+                    <num>VHP2005/6</num>
+                </titleproper>
+                <subtitle>An Inventory of John Edward Pease at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Evelyn B. Green</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                </address>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-20T12:44-0400</date>
+            </creation>
+            <langusage>eng</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>6/22/2010</date>
+                <item>EAD encoded</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John E. Pease Papers</unittitle>
+            <unitid>VHP2005/6</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>258.0 Digital objects</extent>
+                <extent>1 interview DVD</extent>
+            </physdesc>
+            <unitdate normal="1943/1945" type="bulk">Bulk, 1943-1945</unitdate>
+            <unitdate normal="1940/2008" type="inclusive">1940 - 1945, 1998, 2008</unitdate>
+            <physloc id="ref8" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <abstract id="ref2" label="Abstract">The collection details John E. Pease experience in World War II. He enlisted in the Marines in 1943 he became a member of the Special Weapons Division in which he served in the Pacific Campaign until his discharge in 1946. The collection consists of personal and military manuscripts, news articles, and photographs. The records provide evidence of the massive loss of American life during the battle for Tarawa, and air attacks by the Japanese on American bases.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Pease, John E.,  (John Edward), 1923 -</persname>
+            </origination>
+        </did>
+        <prefercite id="ref10">
+            <head>Preferred Citation note</head>
+            <p>"John E. Pease Papers.VHP2005/6." Veterans History Project; Central Connecticut State University, Center for Public Policy and Social Research</p>
+        </prefercite>
+        <phystech id="ref9">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Technical metadata of digital objects are extracted and encoded in PREMIS preservation metadata format 
+                <lb/>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="PREMIS" ns2:href="preservation/preservation metadata/200506premis.xml">Preservation Metadata</extref></p>
+        </phystech>
+        <altformavail id="ref7">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=1061">project's website</extref></p>
+        </altformavail>
+        <custodhist id="ref6">
+            <head>Custodial History note</head>
+            <p>All manuscripts and photographs donated were digitized and digitally preserved. The donor retained all original manuscripts and photographs.</p>
+        </custodhist>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <arrangement id="ref43">
+            <head>Arrangement note</head>
+            <list type="ordered">
+                <item>Series I: Presonal Papers</item>
+                <item>Series II: Military Documents</item>
+                <item>Series III: Publications</item>
+                <item>Series IV: Multi-Media</item>
+            </list>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Pease enlisted in the U.S. Marine Corps in December of 1943. He left for basic training on Parris Island on January 19, 1944. After completion of basic training, Pease was sent to Camp Lejeune (NC) for additional training and unit assignment. His unit shipped to American Samoa on a former luxury liner. On American Samoa, he learned how to use the 30 caliber Browning machine gun, and he and a squad of eight others kept guard on the island. After five months on American Samoa, his unit was shipped to Wellington, New Zealand to pick up additional troops. Pease's unit spent 57 days aboard the ship awaiting the troop's arrival. From there they sailed to the Tarawa Atoll, where the "Battle of Tarawa" had just begun. Pease describes the battle in detail, and what the typical marine survived during the battle with the Japanese. From Tarawa he was sent to a naval hospital in Hawaii because he contracted Filariasis, a disease that is passed to humans from mosquitoes. Due to this disease Pease was not sent back to the Pacific theater after his hospitalization. Instead he was sent to a naval shipyard in Birmington, WA, where he worked as a guard for the rest of his service time. He was discharged in February of 1946 and returned home to Connecticut. He worked for a time at Hamilton Standard Propeller and attended college at night. He then began work for the Resolute Insurance Company in Hartford, CT, where he stayed for 35 years, eventually becoming the Vice-President of the Life insurance division. Pease joined the American Legion and the VFW. At the end of the interview Pease shows a collection of items that he brought back from the war.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="local" source="local">United States. Marine Corps. Marines, 2nd. Battalion, 2nd .</corpname>
+            <corpname source="naf">United States. Marine Corps.</corpname>
+            <geogname source="lcsh">American Samoa</geogname>
+            <geogname source="lcsh">Camp Lejeune (N.C.)</geogname>
+            <geogname source="lcsh">Hawaii</geogname>
+            <genreform source="aat">Interviews</genreform>
+            <genreform source="aat">Manuscript</genreform>
+            <geogname source="lcsh">New Zealand</geogname>
+            <geogname source="lcsh">Parris Island (S.C.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <geogname source="lcsh">Tarawa Atoll (Kiribati)</geogname>
+            <subject source="lcsh">Tarawa, Battle of, Kiribati, 1943</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Pacific Area</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Personal narratives, American</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I: Personal Papers</unittitle>
+                    <unitid>VHP2005/6.I</unitid>
+                </did>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>John Pease's medals</unittitle>
+                        <unitid>VHP2005/6.I.1</unitid>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>a white Japanese handkerchief</unittitle>
+                        <unitid>VHP2005/6.I.2</unitid>
+                        <unitdate normal="1940/1949" type="inclusive">cira 1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>a 10 dollar shilling from New Zealand</unittitle>
+                        <unitid>VHP2005/6.I.3</unitid>
+                        <unitdate normal="1940/1945" type="inclusive">cira 1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>a 1938 Japanese 50 Sen banknote</unittitle>
+                        <unitid>VHP2005/6.I.4</unitid>
+                        <unitdate normal="1938/1938">1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>Interview Synopsis</unittitle>
+                        <unitid>VHP2005/6.I.5</unitid>
+                        <unitdate normal="2005/2005">April 29, 2005</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Series II: Military Documents</unittitle>
+                    <unitid>VHP2005/6.II</unitid>
+                </did>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Basic Field Manual Bayonet, M1905</unittitle>
+                        <unitid>VHP2005/6.II.01</unitid>
+                        <physdesc>
+                            <extent>21.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1940">Jan. 2, 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Combination Score Book for U.S. Rifles M1903 and M1, and the Browning automatic rifle M1918A2</unittitle>
+                        <unitid>VHP2005/6.II.02</unitid>
+                        <physdesc>
+                            <extent>6.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1940">March 29, 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>"Going back to cilivians life" Pamphlet</unittitle>
+                        <unitid>VHP2005/6.II.03</unitid>
+                        <physdesc>
+                            <extent>48.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1945/1945">Aug. 20, 1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>The Marine's Handbook</unittitle>
+                        <unitid>VHP2005/6.II.04</unitid>
+                        <physdesc>
+                            <extent>130.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1940">1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>John Pease’s examination answer sheet</unittitle>
+                        <unitid>VHP2005/6.II.05</unitid>
+                        <physdesc>
+                            <extent>3.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1945" type="inclusive">circa 1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>List of accessories for an M.G. M1917A1 (Browning machine gun)</unittitle>
+                        <unitid>VHP2005/6.II.06</unitid>
+                        <physdesc>
+                            <extent>3.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1945" type="inclusive">circa 1940s</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series III: Publications</unittitle>
+                    <unitid>VHP2005/6.III</unitid>
+                </did>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Hamilton Standard Newsletter Vol. 3 No. 1</unittitle>
+                        <unitid>VHP2005/6.III.1</unitid>
+                        <unitdate normal="1944/1944">July 6, 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Leatherneck Magazine</unittitle>
+                        <unitid>VHP2005/6.III.2</unitid>
+                        <physdesc>
+                            <extent>4.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="2003/2003">November 2003</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Series IV: Multi-Media</unittitle>
+                    <unitid>VHP2005/6.IV</unitid>
+                </did>
+                <c02 id="ref15" level="subseries">
+                    <did>
+                        <unittitle>Subseries a: Still Images</unittitle>
+                        <unitid>VHP2005/6.IV</unitid>
+                    </did>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>John Pease in dress blues</unittitle>
+                            <unitid>VHP2005/6.IV.1</unitid>
+                            <unitdate normal="1943/1943">April 1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>Basic training buddies, Parris Island, SC</unittitle>
+                            <unitid>VHP2005/6.IV.2</unitid>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>John Pease, Unknown Soldier, and George Neelans (l to r), Parris Island, SC</unittitle>
+                            <unitid>VHP2005/6.IV.3</unitid>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>Parris Island, SC. Persons(L to R): John Pease, unknown, George Neelans</unittitle>
+                            <unitid>VHP2005/6.IV.4</unitid>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>Soldier with last name "McCarthy", Parris Island, SC 1943</unittitle>
+                            <unitid>VHP2005/6.IV.5</unitid>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>Fitzgerald playing horseshoes; Bremerton, WA 1944</unittitle>
+                            <unitid>VHP2005/6.IV.6</unitid>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>John Pease and unknown soldier in front of sentry shack at the main gate . Bremerton ,WA</unittitle>
+                            <unitid>VHP2005/6.IV.7</unitid>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>John Pease and Unknown Soldier (l to r) at the Ammunition Depot main gate sentry shack, Bremerton, WA</unittitle>
+                            <unitid>VHP2005/6.IV.8</unitid>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>John Pease on horseback at Bremerton, WA 1945</unittitle>
+                            <unitid>VHP2005/6.IV.9</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>John Pease at Naval Ammunition Depot in Bremerton, WA 1945</unittitle>
+                            <unitid>VHP2005/6.IV.10</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>(L to R) Cpl. Rampick, unknown, John Pease at Bremerton, WA</unittitle>
+                            <unitid>VHP2005/6.IV.11</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>John Pease at home</unittitle>
+                            <unitid>VHP2005/6.IV.12</unitid>
+                            <unitdate normal="2005/2005">June 3, 2005</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref16" level="subseries">
+                    <did>
+                        <unittitle>Subseries b: Moving Images</unittitle>
+                        <unitid>VHP2005/6.IVb</unitid>
+                    </did>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>Oral history interview</unittitle>
+                            <unitid>VHP2005/6.IVb.1</unitid>
+                            <container id="cid48002" type="Disk" label="Computer disks / tapes">DVD VHP2005/6</container>
+                            <container parent="cid48002" type="Box">VHP Interview #1</container>
+                            <physdesc>
+                                <extent>1.0 dvd</extent>
+                            </physdesc>
+                            <unitdate normal="2005/2005">April 29, 2005</unitdate>
+                            <origination label="creator">
+                                <persname rules="aacr" source="local" role="Interviewer (ivr)">Hurst, Eileen</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

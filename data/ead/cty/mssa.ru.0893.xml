@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0893">mssa.ru.0893</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Department of Classics, Yale University, Student Records
+ </titleproper>
+            <titleproper type="filing">Department of Classics, Yale University, Student Records</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>November 2007</date>
+            <num>RU 893</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 09:28</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Department of Classics, Yale University, student records</unittitle>
+         <unitid>RU 893</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">9.5</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1930/1995">1930-1995</unitdate>
+         
+         <abstract id="aspace_df88aa9dd7930c65b39b4dc919e3796d">The records consist of graduate student records maintained by the Yale Department of Classics.</abstract>
+         <origination label="creator">
+            <corpname authfilenumber="http://id.loc.gov/authorities/names/n81075812"
+                      rules="aacr"
+                      source="naf">
+               Yale University. Department of Classics
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_3922b1a2e7be9c12a5ed172c7684a692">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 14-B (YRG 14-B), Records of academic departments and programs of the Yale Faculty of Arts and Sciences.</p>  
+      </odd>
+      <accessrestrict id="aspace_bac13675e1bad508a9207a3cb7e4339f">
+         <head>Conditions Governing Access</head>
+         <p>Access to the records is restricted. See Collection Contents for details.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_30c709686fc3854f260c62045aaff7db">
+         <head>Preferred Citation</head>
+         <p>Department of Classics, Yale University, Student Records (RU 893). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <arrangement id="aspace_af13899059e058ee15bb9a38a3f76718">
+         <head>Arrangement</head>
+         <p>The records are arranged by accession.</p>  
+      </arrangement>
+      <scopecontent id="aspace_13031498173de889f6ea35a21fdec9df">
+         <head>Scope and Contents</head>
+         <p>The records consist of graduate student records maintained by the Yale Department of Classics.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85056177"
+                  source="lcsh">
+            Graduate Students
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Students
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n81075812"
+                   rules="aacr"
+                   source="naf">
+            Yale University. Department of Classics
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Graduate student records</unittitle>
+               <unitid>Accession 2002-A-091</unitid>
+               <unitdate type="inclusive">circa 1944-1991</unitdate>
+            </did>
+            <accessrestrict id="aspace_8a9f8791d773990cc78b710a15b657ff">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until Jan 1, 2067</p>
+            </accessrestrict>
+         </c>
+         <c id="ref249" level="series">
+            <did>
+               <unittitle>Graduate student records</unittitle>
+               <unitid>Accession 2008-A-080</unitid>
+               <unitdate type="inclusive">1930-1995</unitdate>
+            </did>
+            <accessrestrict id="aspace_6ff93e9bb71fddd00111e0f4d9d8fc41">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until Jan 1, 2071</p>
+            </accessrestrict>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-97::Nineteenth Century Administrative Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ni1000-97.html">ni1000-97</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Nineteenth Century Administrative Records,
+		<lb/><date normal="1830/1929">1830 - 1929</date>
+		</titleproper>
+        <author>Processed by: Elizabeth Swaim, University Archives Staff; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: December 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Nineteenth Century Administrative Records, <date type="span">1830 - 1929</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Nineteenth Century Administrative Records, <unitdate normal="1830/1929" type="inclusive">1830 - 1929</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-97</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">7</extent></physdesc><physdesc label="Archival Boxes"><extent>18</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Wesleyan University was founded in 1831 in Middletown, Conn.</abstract><abstract encodinganalog="520">The Nineteenth Century Administrative Records Collection consists of the original charter for Wesleyan University, early Trustee, University Secretary, and faculty records, and financial records related to donors, students, and the university itself. The financial items consist of correspondence, statements, accounts, bills, receipts, inventories, tuition, and housing information. There is also information about student admittance, attendence, absences, and demerits. </abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Nineteenth Century Administrative Records, Collection #1000-97, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>The collection was assembled through transfers from various University departments prior to 1982.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Elizabeth Swaim, University Archives Staff, 1982</p>
+        <p>Encoded by Valerie Gillispie, December 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Wesleyan University was founded in 1831 in Middletown, Conn. Originally a small Methodist institution for men, with a student body of 48, it had by the end of the 19th century admitted both male and female students for a population of 339.
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Nineteenth Century Administrative Records Collection consists of the original charter for Wesleyan University, early Trustee, University Secretary, and faculty records, and financial records related to donors, students, and the university itself. The financial items consist of correspondence, statements, accounts, bills, receipts, inventories, tuition, and housing information. There is also information about student admittance, attendence, absences, and demerits. 
+</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>The collection is arranged into the following series: General Records; Financial Records: General; Financial Records: Donors; Student Records: Financial and General; Alumni and Visitor Records, and Oversize. 
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Board of Trustees.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Finance.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Charters.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <otherfindaid>
+      <head>Other Guides to this Collection</head>
+      <p>There is an older, paper finding aid also available for this collection.</p>
+    </otherfindaid>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unittitle>General Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>An Act to incorporate the Wesleyan University, 1831</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note: </emph>Charter of University. 4 leaves. On verso of last leaf: <emph render="doublequote">Wesleyan University: Act of incorporation. Registered draft by Mr. Stanley.</emph> Original is in some places illegible. Accompanied by typed transcript.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Charter of the Wesleyan University, 1859, and Laws and rules of the Joint Board of Trustees and Visitors</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note: </emph>16 leaves. Apparently a printer's copy for the 1859 (first) printing. The <title render="doublequote">laws and rules</title> were adopted by the Joint Board, 21 June 1859. The first two and last three leaves are in the handwriting of President Cummings.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Board of Trustees: Extracts from minutes, 1830-1857</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Board of Trustees: Committee reports, correspondence, financial exhibit, etc., 1871-1917</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Joint Board of Trustees and Visitors, 1830-1870</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Extracts from minutes, 1830-1844</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Committee reports, correspondence, etc., 1831-1870</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>List of trustees and visitors, resolutions passed, etc., 1836-1859</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Visitors from various conferences, 1835-1841</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Prudential Committee: Various reports, 1833-1840</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Prudential Committee: Annual reports to the Joint Board of Trustees and Visitors, 1839-1870</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Faculty: extracts from minutes, resolutions, etc., 1840-1866</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Correspondence of Jacob Huber, Secretary for the Wesleyan University, October 1837-July 1842</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Records of outgoing correspondence and lists of visitors from various conferences.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Miscellaneous correspondence, 1836-1847</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Correspondence regarding honorary degrees; letters to Augustus W. Smith regarding nominations of visitors and members of the examining committees by the Methodist Conferences.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Records: General</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Sundry records, 1830-1877</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> One volume containing: sundry journal entries, 1830-1831; sundry ledger accounts, 1839-1843; lists of students entering Wesleyan University between 1831/32 and 1844/45; and sundry accounts, July 1871-June 7, 1877.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Financial papers (various), 1830-1902</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Receipts and expenditures, loans due by Wesleyan University.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Financial statement of the first five years at Wesleyan, 1831-1836</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Financial exhibits and statements, including tuition exhibits, 1836-1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Checkbook, 1834-1836</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Check stubs, empty checks; also laid in are scratch sheets and a letter regarding pipes.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Correspondence on financial matters, 1834-1851</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Money owed to the university, cancellation of stock.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Miscellaneous bills and checks, 1834-1837</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume containing list of materials belonging to the Wesleyan University Laboratory, 1835-1837</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume containing list of apparatus belonging to the Wesleyan University Laboratory, 1835-1837</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <unittitle>Vouchers, numbers 1-692, 1837-1847</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Vouchers, numbers 692a-1088, 1847-1855</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <unittitle>Treasurer's accounts, 1837-1877</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Expenditures and receipts. Also laid in are various separate financial exhibits.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Treasurer's notes on the Wesleyan University, 1837-1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Cancelled notes and miscellaneous bills and receipts, 1844-1851, 1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Order book, 1839-1845</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Check stubs, numbered 1-50, for bills paid to various people for supplies.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Notes and bills payable, 1856-1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Notes and bills payable and receivable, 1855-1875</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Records: Donors</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Volume containing list of original subscribers and sums promised for support of the Wesleyan University, 1830-1833</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lists of subscribers, 1831-1835, 1877</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Correspondence regarding subscriptions to Wesleyan, including inability to pay, 1835-1852</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Subscription book for endowment of the Wesleyan University, 1839-1848</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume with list of subscribers to a $20,000 endowment fund, 1836</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume of Fisk professorship fund and centenary subscriptions at the Wesleyan University, circa 1841-1842</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> List of subscribers; in back pocket: <title render="doublequote">Statistics of the church at Wesleyan University</title>; miscellaneous regarding Centenary subscription</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Book of accounts of monies received for the Wesleyan University within the bounds of the New Hamshire [sic] conference and elsewhere, 1844-1854</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Centum Millia fund, 1852-1855</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> 3 volumes with records of subscribers to the $100,000 permanent endowment fund.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Correspondence and agreements regarding permanent endowment fund, 1847-1855</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume of donations to Wesleyan University, 1858-1862</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> List of donors and the amounts paid to Wesleyan; also a list of bonds owned by the school at this time.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>2 volumes of serial subscriptions, 1870-1876</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Subscribers agree to pay for five successive years the sums attached to their names . . . for the purpose of endowing new professorships and for other essential improvements.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Volume of minutes of meetings of the Ladies Centenary Association, June 5, 1866-July 23, 1867</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> The Ladies Centenary Association for the Wesleyan University raised funds for the erection of the Memorial Chapel.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1 volume with list of subscribers and amounts subscribed for the erection of the Wesleyan University Memorial Chapel, July 19, 1866</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Financial appeals, 1832-1876</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Appeals to the State of Connecticut, to the Annual Conferences of the Methodist Episcopal Church; appeal for the Centum Millia fund, for serial subscriptions; for Memorial Chapel; general appeals; and appeals via the alumni regarding support of athletics.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Scholarships and subscriptions to them, 1830-1888</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Scholarships include Permanent or Perpetual, Clergyman's or Ministerial, 10 percent stck, 15- and 50-year, Seney, etc.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Expired certificates for use of scholarship, 1833-1847</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Blank scholarship certificates</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Alumni Centennial Fund, 1875-1887</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Appeals made by the committee and correspondence regarding donations.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Student Records: Financial and General</unittitle>
+        </did>
+        <scopecontent>
+          <p>See also Records of Attendence and Boarding Hall Cash Book in Oversize series.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <unittitle>1 volume of parents' and guardians' accounts with Wesleyan University for the expenses of students, 1830-1840</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Parent's or guardian's name at top of page with lists of expenses during stay at Wesleyan.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>3 volumes of tuition books and bills, 1831-1835</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Volumes for 1831-1833, 1833-1834, and 1834-1835. Includes lists of students and amount of tuition by term.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">8</container>
+            <unittitle>Tuition book, 1835-1839</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Lists of students and amount of tuition by term.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tuition bills, 1835-1847</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Individual bills and lists of students and amount of tuition by term.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Student bills and bonds, 1833-1882</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <unittitle>6 volumes of Boarding House accounts, 1833-1845</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Volume 1 is Treasurer's book for the Boarding Association, 1833-1835. Volumes 2-6 are Board books, 1833-1844.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <unittitle>3 volumes of Boarding House accounts, 1834-1844</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Volume 7 is an Inventory of boarding hall, 1834-1844. Volumes 8-9 contain a running expense account, 1834-1844.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Boarding Hall, 1837-1845</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Statement by term on expenses, property of boarding house.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Committee report on boarding hall arrangements recommending appointment of a steward, January 24, 1834, signed <emph render="doublequote">W. Fisk.</emph></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lists of students, 1835-1841</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Number of students by term, scholarships, room rents, stove rents, etc.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Occupants of rooms, 1837-1841</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Lists of occupants, repairs needed in college rooms.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Stove rents, 1834-1841</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Repairs of college buildings, 1835-1837</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Damages and repairs of rooms, 1836-1846</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Recommendations of students for admission to Wesleyan, 1850-1857</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Reports of prize award committees, 1860-1874</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Boarding hall cash book, April 1834-December 27, 1843</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">11</container>
+            <unittitle>1 volume of records of admittance, 1873-1892</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Lists of students' names, ages, courses of study, residences, names of parents or guardians and their occupations, and places of preparation.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>3 volumes of preparatory schools, 1888-1908, 1908-1918, 1919-1929</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Alphabetical list of preparatory and high schools and number of students from each; list of schools with students' names, manner of admission, and grades (first half year).</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <unittitle>Reports of the Examining Committee of the Wesleyan University, 1833-1844</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Name of department, list of students who passed or were deficient, with comments by committee interspersed. Includes report of the first outside examining committee, recommending the first group of Wesleyan seniors for the B.A. degree.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Examining Committee, annual reports, 1835-1843, 1847, 1856-1860</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Examining Committee, June 1887</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Examining Committee, annual reports, 1861-1873</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Teacher's Record Book, 1839</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Divided by class, list of students; divided into weeks; lists of numbers and alphabet letters (meaning uncertain); title page says <emph render="doublequote">Weekly Exercises.</emph></p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Class standing, 1845-1854 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Record of standing, class of 1860 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> By student and subject.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Deficiencies in scholarship, 1870-1873 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> By class, by students--exceptions, admonitions, not examined, not passed in various courses.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Merits and Demerits, 1832-1848 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Church attendence, 1843-1852 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Attendance, 1849-1857 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Absences, spring 1849-fall 1858 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Absences, spring 1859-winter 1860 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Merit record, 1861-1885 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Attendance and Demerits, fall 1865-fall 1874 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Includes information on scholarships.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Demerits, dismissals, and suspensions of students, 1874-1881 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> List of student names, number of demerits, dates.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Attendance, spring 1874-November 1874 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Demerit record, spring and fall 1875 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <unittitle>Demerit record, winter 1875-1876 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Demerit record, spring 1876 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Demerit record, fall 1876 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Absences, January 1879-April 1879 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Pieces of paper pasted in, includes chapel roll by classes, W.N. Rice classes, various courses.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Absences, spring and fall 1879 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Pieces of paper pasted in, includes chapel roll by classes, W.N. Rice classes, various courses.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Absences, spring and fall 1879 (1 volume)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Pieces of paper pasted in, includes chapel roll by classes, W.N. Rice classes, various courses.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Excuses and demerits, class of 1884, January-June (2 volumes)</unittitle>
+          </did>
+          <scopecontent>
+            <p><emph render="italic">Note:</emph> Arranged chronologically: name, what missed, excuse.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Censure and suspension, 1884-1893 (1 volume)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Alumni and Visitor Records</unittitle>
+        </did>
+        <scopecontent>
+          <p>See also Visitor's Register in Oversize series.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <unittitle>Record of Alumni and Visitors, 1852-1854 (1 volume)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Alumni register, June 1893-June 1922 (1 volume and 1 folder)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Alumni Association, minutes of meetings, 1836-1916 (1 volume)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Oversize</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">16</container>
+            <unittitle>Wesleyan University Visitor's Register, 1899-1903</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Boarding Hall Cash Book, April 1, 1834-December 27, 1843</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">17</container>
+            <unittitle>Record of Attendence, 1896-1897</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Record of Attendence, 1910-1911</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">18</container>
+            <unittitle>Record of Attendence, 1920</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Record of Attendence, 1920-1921</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

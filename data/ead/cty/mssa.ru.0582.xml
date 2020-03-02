@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0582">mssa.ru.0582</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Science Advisory Committee, Yale University, Meeting Minutes
+ </titleproper>
+            <titleproper type="filing">Science Advisory Committee, Yale University, Meeting Minutes</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>June 2008</date>
+            <num>RU 582</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday November 30, 2018 at 10:11</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Science Advisory Committee, Yale University, meeting minutes</unittitle>
+         <unitid>RU 582</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.02</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 envelope)</physdesc>
+         
+            <unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate>
+         
+         <abstract id="aspace_f773b3b8c8b209149adf28a3232b4901">The records consist of minutes of meetings maintained by Julian Sturtevant as a member of the Yale Science Advisory Committee.</abstract>
+         <origination label="creator">
+            <corpname rules="aacr" source="local">
+               Yale University. Science Advisory Committee
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_1bb0e31f5cc7c5c34ad62217a60f5f8a">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 3-C (YRG 3-C), Records of Yale academic divisions, councils, and committees.</p>  
+      </odd>
+      <accessrestrict id="aspace_5d4071774a6f24293c43d477e7aea327">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_e41f47155a947697364435b00e2f742f">
+         <head>Conditions Governing Use</head>
+         <p>Copyright for materials authored or otherwise produced as official business of Yale University is retained by Yale University. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <prefercite id="aspace_08198e3e4b44f33379bce0f581409bc4">
+         <head>Preferred Citation</head>
+         <p>Science Advisory Committee, Yale University, Records (RU 582). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <processinfo id="aspace_598efcb1589838ea81a079a4261e7531">
+         <head>Processing Information</head>
+         <p>Yale University records are arranged and described at the accession level by the creating office. The University Archives creates collection level descriptive records, but typically does no further arrangement and description at the accession level.</p>  
+      </processinfo>
+      <scopecontent id="aspace_0ce1dc2684bf621e6ea2a0189626aa3c">
+         <head>Scope and Contents</head>
+         <p>The records consist of minutes of meetings maintained by Julian Sturtevant as a member of the Yale Science Advisory Committee.</p>  
+      </scopecontent>
+      <arrangement id="aspace_5136a50ceef41eec4f863bd120befc0d">
+         <head>Arrangement</head>
+         <p>The records are arranged chronologically.</p>  
+      </arrangement>
+      <controlaccess>
+         <corpname rules="aacr" source="local">
+            Yale University. Science Advisory Committee
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref10" level="series">
+            <did>
+               <unittitle>Records of Julian Sturtevant as a member of the Science Advisory Committee</unittitle>
+               <unitid>Accession 1999-A-062</unitid>
+               <unitdate type="inclusive">1959-1961</unitdate>
+            </did>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>Meeting minutes</unittitle>
+                  <unitdate type="inclusive">1959-1961</unitdate>
+                  <container label="Mixed Materials (39002051943711)"
+                             id="aspace_28c5eb3f0f07ab7ef89211253ab9ab9b"
+                             type="box">1</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

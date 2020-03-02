@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-181::Washington's Birthday Commemoration Programs)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/wa1000-181.html">wa1000-181</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Washington's Birthday Commemoration Programs, <lb/><date normal="1863/1941">1863 -
+                        1941</date>
+                </titleproper>
+        <author>Processed by: Anna Martin; machine-readable finding aid created by:
+                    Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2009" encodinganalog="date">©
+                        2009</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: August 2009</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Washington's Birthday Commemoration Programs, <date type="span">1863 -
+                    1941</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2009">© 2009</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">
+        <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+      </repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Washington's Birthday Commemoration Programs, <unitdate normal="1863/1941" type="inclusive">1863 - 1941</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-181</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">0.75</extent>
+      </physdesc>
+      <physdesc label="Archival Boxes">
+        <extent>2</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">Washington's Birthday was celebrated at Wesleyan University from about 1863 through the 1920s. At first a patriotic event, it eventually became more of a homecoming event for Wesleyan alumni. Grand banquets, toasts, and speeches were a frequent element during the weekend festivities, along with hotly contested <emph render="doublequote">cannon scraps</emph> between the freshmen and sophomore classes. The tradition phased out during the 1920s, and was briefly revitalized in 1941 by a group of New York alumni, complete with mock cannon scrap.</abstract>
+      <abstract encodinganalog="520">The Washington's Birthday Commemoration Programs consists primarily of the programs given out at Washington's Birthday ceremonies and banquets between 1863 and 1941. In addition, a few years include tickets to events, clippings about the event, and related memorabilia. The programs offer fine examples of design and printing styles from the period.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Washington's Birthday Commemoration Programs, Collection #1000-181, Special
+                    Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Gathered by staff of University Archives.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Anna Martin (class of 2009), May 2009</p>
+        <p>Encoded by Valerie Gillispie, August 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist><head>Historical Note</head><p><emph render="bold">This essay by University Archivist Suzy Taraba was originally published in <title render="italic">Wesleyan: the University Magazine</title> in the Winter 2003 issue.</emph></p><p>Did you know that Washington's Birthday was once one of the most festively celebrated holidays at Wesleyan? From at least 1863 until 1929, this holiday was a focal point of social life at Wesleyan, perhaps as important as the proms of later years.</p><p>Nationally, George Washington's birthday was first celebrated in Richmond, Va., in 1782, even before he became the first President of the United States in 1789. Early celebrations were erratic and sometimes controversial, particularly among the Antifederalists. By the time of Washington's death in 1799, however, he was considered a national hero. The celebration of his birthday united political factions in near universal support for honoring his memory. By 1832, the centennial of Washington's birth, commemorative celebrations in February were firmly established. At the University of Pennsylvania, for instance, festivities began as early as 1794 and had become so important by the end of the 19th century that President Grover Cleveland was an invited speaker.</p><p>At Wesleyan, the earliest documented celebration of Washington's Birthday was in 1863, although earlier celebrations may still come to light. Two tickets to the 1863 events survive in the Wesleyan University Archives, as does a nearly complete set of Washington's Birthday celebration programs from 1866 through 1929. From the 1860s through the 1880s, the sophomore class hosted the events, which focused on music, orations, and, most important, the public reading of Washington's famous farewell address. Throughout the 19th century, the tone of the celebration was primarily patriotic. Decorating efforts of the sophomore class proved to be particularly memorable in 1885, as reported in the <title render="italic">College Argus</title>: <emph render="doublequote">[These are the] finest decorations which have ever been seen in Memorial Chapel. The stage was draped with red, white, and blue, with a background of flags. Over the speakers was suspended an imitation of the Liberty Bell, made by ivy leaves on a wire frame. White immortelles marked the fissure in the bell, while the tongue was of white and purple flowers. . . . The organ-loft was draped with flags, in the midst of which hung a portrait of Washington, and above that a mounted eagle.</emph> In 1888, a spoof of the program was apparently staged--or at least a satiric program was prepared--featuring irreverent activities with <emph render="doublequote">Fatty Hancock</emph> serving as master of ceremonies.</p><p>By 1891, the tradition of patriotic music and declamations had given way to a gala banquet, at which the celebration of the country's Founding Father merged with revering Wesleyan, the Alma Mater. Alumni figured prominently among the prime revelers, and a series of toasts became a central feature of the program. The banquet was held at a variety of local venues until the opening of Fayerweather Gymnasium in 1894. Not all Wesleyan men were equally enthusiastic about the festivities: One copy of the program for the 1896 banquet includes unsigned manuscript annotations listing the order of speakers and commenting <emph render="doublequote">Newhall at every opportunity,</emph> in reference to William Rice Newhall, the toastmaster that year.</p><p>In the early 20th century, the Washington's Birthday bash became ever more focused on Wesleyan alumni relations. In 1902, the alumni office mailed a postcard to announce the events and encourage alumni to attend, stating, <emph render="doublequote">We believe that the Washington's Birthday Banquet will bring together the largest and most enthusiastic body of Wesleyan men ever assembled.</emph></p><p>In this period, such longstanding Wesleyan traditions as the <emph render="doublequote">cannon scrap,</emph> a contest between the freshman and sophomore classes, became part of the weekend of Washington's Birthday festivities. In some years, Washington's Birthday was a time for <emph render="doublequote">sub-freshmen</emph> (the <emph render="doublequote">prefosh</emph> of their day) to visit campus; in others, it was an alumni weekend, featuring seminars and vocational programs. The 1920 Washington's Birthday events were among the most elaborate. In addition to the banquet, events included Visitors' Days, during which classes and laboratories were open to visitors; the Fourth Annual Wesleyan University Teachers' Conference, aimed at the 26 percent of Wesleyan graduates engaged in teaching; and athletic events, concerts, and a student theatrical presentation, <emph render="doublequote">The George Washington Follies,</emph> preceded by a very early performance of jazz by the college orchestra.</p><p>Although Wesleyan's celebration of Washington's Birthday began as a reflection of a national holiday, by the 1920s it no longer mirored the national scene so closely. In fact, the national celebration of Washington's Birthday peaked in 1932, the bicentennial of his birth. At Wesleyan, the main event that year was an exhibition of Washingtonia in Olin Library, a very distinguished collection of documents and memorabilia from a variety of sources, but a far cry from the heyday of the gala banquet just a few years earlier. The final documented Wesleyan Washington's Birthday celebration was in 1941, when New York alumni gathered at the Hotel Roosevelt for a banquet and reenactment of the cannon scrap of 1917. Many of the attendees were graduates from the World War I era, fondly remembering their college days.</p>
+       
+            <!-- use "Chronlist Tags" here if there is a chronology --></bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Washington's Birthday Commemoration Programs consists primarily of the programs given out at Washington's Birthday ceremonies and banquets between 1863 and 1941. In addition, a few years include tickets to events, clippings about the event, and related memorabilia. The programs offer fine examples of design and printing styles from the period.</p>
+    </scopecontent>
+    <controlaccess><head>Online Catalog Headings</head><p>These and related materials may be found under the following headings in online
+                catalogs.</p><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--History.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--Students.</corpname><persname encodinganalog="650" source="lcnaf">Washington’s Birthday</persname><genreform encodinganalog="655" source="aat">Printing.</genreform><genreform encodinganalog="655" source="aat">Souvenir Programs.</genreform><persname encodinganalog="600" source="lcnaf">Washington, George, 1732-1799.</persname> 
+        </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01><did><unittitle/></did><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>1863: 2 tickets from the class of 1865</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>1867: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>1868: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>1869: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1870: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1871: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1872: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1873: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1878: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1880: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1881: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1882: 2 Complete Ceremony programs, 1 partial</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1883: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1884: 4 Ceremony program, each with different cover
+                            designs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1885: 2 Ceremony programs, 1 article</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1887: 2 Ceremony programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1888: 1 Ceremony program, 1 Event program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1889: 1 Ceremony program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1890: Argus article</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1891: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1892: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1893: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1894: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1895: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1896: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1898: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5</container><unittitle>1900: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5</container><unittitle>1901: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5</container><unittitle>1902: 2 Banquet programs, 1 ticket</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5</container><unittitle>1903: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">6</container><unittitle>1904: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">6</container><unittitle>1905: 1 Banquet program</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">6</container><unittitle>1906: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">6</container><unittitle>1907: 2 Banquet programs, 2 Song books, 1 ticket</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">7</container><unittitle>1908: 3 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">7</container><unittitle>1909: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">8</container><unittitle>1910: 4 Banquet programs, 1 article</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">8</container><unittitle>1911: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">8</container><unittitle>1912: 2 Banquet programs</unittitle></did></c02>
+                
+                
+                
+                <c02><did><container type="Box">2</container><container type="Folder">1</container><unittitle>1913: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">1</container><unittitle>1914: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">1</container><unittitle>1915: 2 Banquet program, 1 ticket</unittitle></did></c02>
+                
+                
+                <c02><did><container type="Box">2</container><container type="Folder">2</container><unittitle>1916: 2 Banquet programs</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">2</container><unittitle>1917: 2 Banquet programs, 1 Visitors’ Days</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">2</container><unittitle> 1918: 1 Visitors’ Days</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">2</container><unittitle>1919: 1 Visitors’ Days, Dedication of Bells</unittitle></did></c02>
+                
+                
+                <c02><did><container type="Box">2</container><container type="Folder">3</container><unittitle>1920: 1 Visitors’ Days, 2 Souvenir Programs</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">3</container><unittitle>1926: 2 Banquet program, 2 Event Programs, 2 Wesleyan University Bulletins</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">3</container><unittitle>1929: 1 Event Program</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">3</container><unittitle>1941: 2 Banquet programs</unittitle></did></c02>
+                
+                
+                
+
+            </c01>
+    </dsc>
+  </archdesc>
+</ead>

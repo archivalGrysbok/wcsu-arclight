@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-175::Financial Planning Committee Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/fi1000-175.html">fi1000-175</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Financial Planning Committee Records,
+		<lb/><date normal="1972/1975">1972 - 1975</date>
+		</titleproper>
+        <author>Processed by: Kate Levy; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2009" encodinganalog="date">© 2009</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: April 2009</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Financial Planning Committee Records, <date type="span">1974 - 1975</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2009">© 2009</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Financial Planning Committee Records, <unitdate normal="1972/1975" type="inclusive">1972 - 1975</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-175</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.5</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The Financial Planning Committee (FPC), a faculty-student body created under faculty by-laws, was formed in about 1968. It was composed of 6 faculty members, 4 undergraduate students, and 4 ex-officio administrators. The role of the group was to evaluate administrative proposals related to budgets and allocations, and provide suggestions and recommendations.</abstract><abstract encodinganalog="520">The materials in the Financial Planning Committee Records date from 1972 to 1975, and include evaluations of departmental or program proposals, faculty compensation concerns, and student expense issues. The main item of business for the FPC during this period was Wesleyan's growing deficit, and recommendations to address budgetary concerns.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Financial Planning Committee Records, Collection #1000-175, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Transferred from members of the Financial Planning Committee, circa 1975.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Kate Levy, April 2009</p>
+        <p>Encoded by Valerie Gillispie, April 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p> The Financial Planning Committee (FPC), a faculty-student body created under faculty by-laws, was formed in about 1968. It was composed of 6 faculty members, 4 undergraduate students, and 4 ex-officio administrators. The role of the group was to evaluate administrative proposals related to budgets and allocations, and provide suggestions and recommendations. The FPC also made their recommendations known to the greater campus community through publications like their 1975 <title render="doublequote">FPC Report: A Plan for Financial Stability,</title> which was published as a supplement to the Wesleyan student newspaper, the <title render="italic">Argus</title>.
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The materials in the Financial Planning Committee Records date from 1972 to 1975, and include evaluations of departmental or program proposals, faculty compensation concerns, and student expense issues. The main item of business for the FPC during this period was Wesleyan's growing deficit, and recommendations to address budgetary concerns.
+</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Finance.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <subject source="lcsh" encodinganalog="650">Universities and colleges--Finance.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Folder">1</container>
+            <unittitle>Agendas, 1972-1973</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Minutes, 1972-1973 (extra copies)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Budget Review, 1973-1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>East Asian Studies Major Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Environmental Sciences Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Graduate Student Stipends</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Hebrew Track and Semester in Israel Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Long Term Disability Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Guidelines for Review of Programs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Report on the President's Proposal to Eliminate the Deficit</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Role of the Financial Planning Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Housing Memo (extra copies)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Self-Scheduled Examination Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Subcommittee Reports of the President's Proposal to Eliminate the Deficit</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Sub-committees</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Student Caucus Counter-Proposals to President's Proposal to Eliminate Deficit</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>Teacher Education Proposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>Faculty Compensation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">20</container>
+            <unittitle>FPC Report: A Plan for Financial Stability, 1975</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

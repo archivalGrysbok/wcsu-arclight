@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG095.html" countrycode="us">RG095</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 095, Council on Human Services</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">March 14, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>March 14, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Council on Human Services</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Council on Human Services records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" normal="1973/1977" encodinganalog="245$f">1973-1977</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">6 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">In 1973, the General Assembly created the Council on Human Services to coordinate planning and carrying out programs involving two or more agencies, to plan for increased private sector participation, and to provide direction to and coordination with federally funded programs. The Council took over administrative responsibility for some existing programs and developed some new ones including Project Triage (home-care for the elderly), the Wilderness School, the Parent Child Resource System, and the Information and Referral Service. In 1976, the General Assembly abolished the Council as an administrative agency, changing its status to that of an advisory body to the Governor. In 1977, the Council was replaced by a human services reorganization commission.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG095</unitid>
+		<unitid label="Accession: ">T002772</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>In the 1960's there were a number of state government agencies concerned with what have come to be described as human services. The Etherington Commission on reorganization of the state government recommended the creation of a single department. A second study, by the Zimmerman Commission, produced a similar recommendation, but the General Assembly compromised, in 1973, by creating the Council on Human Services to coordinate the planning and carrying out of programs involving two or more agencies, to plan for increased private sector participation, and to provide direction and coordination to federally funded programs. The Council, made up of the heads of the eleven human services agencies and several public members, was headed first by Lt. Governor Peter Cashman and later by Secretary of the State Gloria Schaffer. Its small staff was provided at first by the Planning and Budgeting Division of Finance and Control, one of whose officers, Rosalie Lang, became the Council's Executive Director in the fall of 1974.</p>
+	<p>The Council took over administrative responsibility for some existing programs and developed some new ones such as: Project Triage (home-care for the elderly), the Wilderness School, the Parent Child Resource System, and the Information and Referral Services, and it also assisted in obtaining federal grants for related programs to be carried on by the other state departments.</p>
+	<p>At its 1976 session, the General Assembly in effect abolished the Council as an administrative agency, changing its status to that of an advisory body to the Governor and providing for the transfer of its operating functions to other state agencies. At the end of June 1976 the process was practically complete.</p>
+	<p>Following the Filer Commission report at the end of 1976, the General Assembly enacted a major reorganization plan (P.A. 77-614) which Governor Grasso signed on June 2, 1977. This provided for replacement of the Council by a human services reorganization commission, which was to prepare a new "state human services plan" (Sections 546-548).</p>
+	<p>See also the <extptr linktype="simple" href="http://www.cslib.org/agencies/Humansvcscncl.htm" show="replace" actuate="onrequest" title="Council on Human Services Agency History"/>.</p> 
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Materials include correspondence, meeting minutes and audiotapes, reports, subject files, and reference materials.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>None.</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Organizations:</head>
+ <corpname encodinganalog="710" source="lcnaf">Connecticut. Council on Human Services</corpname>
+	</controlaccess>
+ 
+ <controlaccess>
+ <head>Persons:</head>
+			<persname encodinganalog="700" source="local">Cashman, Peter</persname>
+			<persname encodinganalog="700" source="lcnaf">Schaffer, Gloria, 1930-</persname>
+	</controlaccess>
+	
+
+	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">Human services -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Social service -- Connecticut</subject>
+ 			<subject encodinganalog="650" source="lcsh">Connecticut. Council on Human Services -- Records and correspondence</subject>
+ 			<subject encodinganalog="650" source="lcsh">Public welfare -- Connecticut</subject>
+	</controlaccess>
+
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Reports</genreform>
+			<genreform encodinganalog="655" source="aat">Sound recordings</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>These records came to the State Library from the Social Services Department in October 1977 and from the Human Resources Department in January 1979.</p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1973/1977">1973-1977</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry> </entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 	
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>1. General file</unittitle>
+	<unitdate datechar="creation">1973-1977</unitdate>
+ </did>	
+<scopecontent><p>Correspondence, minutes, notes, memoranda, reports, reference materials and transcripts.</p></scopecontent>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Administrative memos and decisions</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>(Appropriations) budget - letters</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Assessment letter</unittitle>
+	<unitdate datechar="creation">1976 May 6</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Attorney General - rulings and correspondence</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Blank contract forms</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Budget - miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Budget submission (FY 1975-1976)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Budget submission (FY 1976-1977)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Bulletins</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Capacity Building Toward Coordinated Human Services</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>A-95</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Original submission superseded</unittitle>
+	 <physdesc><extent>2 copies</extent></physdesc>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>HEW - Partnership Grant - Grant Award # 005A-7051-P0122 ($43,000.00)</unittitle>
+	<unitdate datechar="creation">1975 September 1-1976 August 31</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Application materials</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Grant</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Implementation</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Miscellaneous</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Monthly reports</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Staff memos</unittitle>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>CETA - Contracts</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>CETA - Miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Information Retrieval Committee "C" MIS confidentiality</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Committee "C" reports</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Confidentiality and freedom of information</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Conn. Assoc. for Community Action (CAFCA)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Connecticut Humanities Council</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Coordinating and other functions of the CHS - prepared for public members</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence with the Legislature</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence - Misc.</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Membership opinions</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>List of members</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>Delegated authorizations to act</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Education - Department of</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Executive Orders and Administrative Rulings</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>F</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Finance and Control - Department of</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Governor's Executive Orders # 3 &amp; 17</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Governor's Office - Miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>HEW - Application blanks, guidelines</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Health, Education and Welfare - Department of, correspondence and miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>DHEW - General provisions for contract</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>HEW: Project SHARE</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>HEALTH - New Haven Health Care, Inc.</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>HEALTH - Service areas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Human Services program survey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Information and Referral</unittitle>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Articles, reports &amp; background</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Proposal drafting</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Regional subcontracts</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Advisory Board</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Agreement with CUW</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Agreement with DSS</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1976</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1975</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1974</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Minutes</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Miscellaneous</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>RFP process</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Technical group</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Uniform statewide proposal</unittitle>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Intergovernmental programs</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Juvenile Court</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Juvenile Court</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Lieutenant Governor Robert K. Killian</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Lease - Council on Human Services</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Labor - Department of</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislation - Enabling and proposed</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislation: Federal Privacy Act and Public Disclosure Provisions</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislature - Appropriations Committee</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislature - Fiscal Analysis</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislative history of the CHS</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislation (State) Juvenile Justice</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislature: Public Health and Safety Committee - Subcommittee on Home Health Care</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Legislation: State Freedom and Information Act</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Manpower Planning</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Mailing lists - names and addresses, etc.</unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Minutes from Council on Human Services </unittitle>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1974 November-1975 August</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1974</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1973-1974</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1976 February-1977 December</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Office of Management &amp; Budget (OPM) - Miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Public members - correspondence with</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Public Participation Committee</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Public - private relationships</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Public support for the CHS</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>CHS - Region I HEW Forward Planning</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Regional &amp; Sub-State Planning Pilot Project Area B</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Report to the Governor and Legislature</unittitle>
+	<unitdate datechar="creation">1975 January</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Research criteria</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Parent-Child Resource System Project - Annual Report</unittitle>
+	<unitdate datechar="creation">1974 July 1-1975 June 30</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Social Services - Department of</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Sub-State District Maps</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Sub-State District Correspondence</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Secretary of the State - Gloria Schaffer</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Soc. Sec. Act - Title IV A transfer of family day care</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Social Security Act - Title XIX Child care - EPSDT</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Social Security Laws and Regs - Title XIX</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Status offender</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Sub-State Districts - January 19, 1976 resolution &amp; follow-up reports re: Gov's request</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>T</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Title XX</unittitle>
+ </did>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Title XX</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Public Law (93-647)</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Service survey forms</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Single state agency designation</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Blank forms</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>DCA</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Proposed regulations</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Final regulations</unittitle>
+	<unitdate datechar="creation">1975 June 27</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Social Services Amendment of 1974 - summaries and discussions</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Fiscal business</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Miscellaneous</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Planning implementation</unittitle>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Transcripts, Council Meetings</unittitle>
+	<unitdate datechar="creation">1975-1976</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Transcripts, Council Meetings</unittitle>
+	<unitdate datechar="creation">1974</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Transfer of Psychiatric Services</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Transfer of Psychiatric Services - Implementation (current)</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Testimony - CHS, Public</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Treasury Department, Letters of Credit</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>U</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>UCONN Forum</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Workmen's Compensation - Booklet State of Connecticut</unittitle>
+	<unitdate datechar="creation">1973</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>CEP Xerox Usage Record Sheets (old)</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>2. Correspondence</unittitle>
+	<unitdate datechar="creation">1974</unitdate>
+ </did>	
+<arrangement><p>Unarranged and unfiled papers.</p></arrangement>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>3. Tapes of Council meetings</unittitle>
+	<unitdate datechar="creation">1973-1974</unitdate>
+ <physdesc><physfacet>Dictabelt tapes.</physfacet></physdesc>
+	 </did>
+<note><p>Presumably some of these are duplicated by transcripts in the General File.</p></note>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>4. General file</unittitle>
+	<unitdate datechar="creation">1975-1977</unitdate>
+ </did>
+<scopecontent><p>Correspondence, minutes, etc.</p></scopecontent>	
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Annual Report</unittitle>
+	<unitdate datechar="creation">1975-1976</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Agendas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Bills</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Filer Report</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Dept. of Health</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Public member comments re: Filer Report</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Legislation</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Members</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Public Members - Vitae</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Dept. of Mental Health</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Taskforce on the Deaf</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Information and Referral Services</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Requests for copies of information</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Gloria Schaffer - Secretary of State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Snoke, Dr. Albert</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Title XX</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Speeches</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Minutes of meetings</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Work sheets minutes</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Wilderness School</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>5. Files on project evaluation of parent-child resources system</unittitle>
+	<unitdate datechar="creation">1974-1975</unitdate>
+ </did>	
+<scopecontent><p>Correspondence, reports, contracts, etc.</p></scopecontent>
+<arrangement><p>Alphabetical by subject.</p></arrangement>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Agreements, contracts and sub-contracts</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Autism contracts FY 1974-1975</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Autism programs &amp; funding</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Background reports &amp; studies</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Blank contract forms</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Budget and audits</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence FY 1975</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Consortia meeting - minutes/agendas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Eastern Conn., PCRS, Inc. - meeting</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>E. Ct. P.C.R.S., Inc.</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>E. Ct. P.C.R.S., Inc. - by-laws</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Evaluation component</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Evaluation criteria</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Fiscal matters</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Information and referral contracts</unittitle>
+	<unitdate datechar="creation">1974 November 1-1975 June 30</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Mental Health Services Contracts</unittitle>
+	<unitdate datechar="creation">1975 January 2-1975 June 30</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Miscellaneous</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Model contract development</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Monitoring</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Problems identified</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Project staff reports</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Publicity</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Regional consortia/articles of association</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Summaries of descriptions</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Research contracts FY 1974-1975</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Service contracts &amp; subcontracts - active</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Service contracts &amp; subcontracts - completed</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Speech hearing and language contract through June 30, 1975</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Tech. Advisory Committee</unittitle>
+ </did>	
+</c03>
+</c02>
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

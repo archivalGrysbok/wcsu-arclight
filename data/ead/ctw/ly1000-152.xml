@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-152::William P. Lyon Collection)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ly1000-152.html">ly1000-152</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William P. Lyon Collection,
+		<lb/><date normal="1840/1841">1840 - 1841</date>
+		</titleproper>
+        <author>Processed by: Steven St. Onge; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: July 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the William P. Lyon Collection, <date type="span">1840 - 1841</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Lyon, William Phoebus.</persname></origination><unittitle label="Title" encodinganalog="245">William P. Lyon Collection, <unitdate normal="1840/1841" type="inclusive">1840 - 1841</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-152</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.25</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">William Phoebus Lyon (1813-1884), was the founder and senior principal of the Irving Institute, a private boarding school for boys in Tarrytown, New York. On August 5, 1840, the honorary degree of A.M. was conferred upon him by Wesleyan University. In the summer of 1841, Lyon traveled to Middletown in order to observe the final examinations of the Wesleyan student body.</abstract><abstract encodinganalog="520"> The William P. Lyon Collection consists of a photocopied journal, a partial transcript of the journal, two letters, and some biographical information. The manuscript diary is titled <title render="doublequote">Journal of a Trip to Middletown, Conn., Summer 1841,</title> kept by William P. Lyon, as he surveyed the examinations at Wesleyan University. The diary is 47 pages in length, with a total of 5 entries ranging from June 29, 1841 to July 3, 1841. The diary begins as Lyon and his family left their home in Tarrytown towards New York City. The journal then chronicles Lyon's departure from his family as he headed towards Middletown, Connecticut and his final destination of Wesleyan University. Once reaching the school Lyon became quickly adapted to the Wesleyan campus, meeting much of the faculty and student body. The journal details Lyon's review of the Wesleyan final exams, in which he noted how well each student performed in his tests. The journal ends as Lyon traveled back to New York and expressed his disappointment of the Wesleyan student body and educational system. Throughout the journal, and especially at the end of the journal, Lyon gives extremely detailed notes of many of the Wesleyan students, professors, and the professors' <emph render="doublequote">ladies.</emph> In addition to the journal, this collection also contains a partial transcript; two letters, both addressed to Professor Jacob F. Huber; and a brief biography.
+
+</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], William P. Lyon Collection, Collection #1000-152, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Journal copied by Professor George Dutcher, circa 1944, from original sent to him by C. Walter Olson, Headmaster of the Irving School in Tarrytown, New York. Correspondence transferred as administrative documents some time prior to 1980. Transcript and biographical information likely created in the 1940s, but no exact date is known.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Steven St. Onge, July 2008</p>
+        <p>Encoded by Valerie Gillispie, July 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>William Phoebus Lyon was born on January 25, 1813 at No. 5 Bayard Street in New York City. From 1819 to 1822 he lived with his father on a farm two miles from Ithaca, New York. In 1822 he returned to New York City for two years only to move to another farm in Haverstraw, New York in 1824. After two years on the farm, his family returned once again to New York City where after a year Lyon became a clerk in a dry goods store working for his uncle Edward Lyon. From October 1828 to February 1829, he studied at a New York high school, after which he became a teacher in the New York schools from February 1829 to May 1832. After studying law in New York from May 1835 to June 1837, Lyon pursued and was unsuccessful in business enterprises in Chicago; Haverstraw, New York; and New York City. On April 15, 1834, Lyon married Harriet Wood and on May 29, 1835, the couple had a son, William Roscoe.  </p>
+      <p>William P. Lyon is most noteworthy as the founder and senior principal of the Irving Institute, located in North Tarrytown, New York. In 1837, William and his brother Charles Lyon founded the private boarding school for boys in North Tarrytown, later renamed Sleepy Hollow. William P. Lyon was the editor and publisher of the <title render="italic">Pocantico Gazette</title>, later known as the <title render="italic">Irving Banner</title>, one of the first newspapers in Tarrytown, New York. On August 5, 1840, Wesleyan University bestowed upon him the honorary degree of A.M. through the influence of Wesleyan President Nathan Bangs. In the summer of 1841, Lyon took a trip to Wesleyan University in order to review the examinations of the student body. He was also a prominent member of the New York Conference of the Methodist Church. William P. Lyon died August 10, 1884.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>The <title render="doublequote">Journal of a Trip to Middletown, 1841</title> was written from June 29 to July 3, 1841, by William P. Lyon. It mostly describes Lyon's time in Middletown, Connecticut, but the journal also briefly describes his time in New York City.  Throughout the diary Lyon mentions many new acquaintances from Wesleyan University, and dwells heavily on President Nathan Bangs, Professor Harvey B. Lane, Professor John Johnston, Professor Augustus W. Smith, Professor William M. Willett, Professor Jacob F. Huber, as well as many of their <emph render="doublequote">ladies.</emph> Lyon also writes about his family and how lonely he feels when apart from his wife, Harriet, and son, Roscoe. Lyon's main reason for writing this journal was to record his journey to Wesleyan, but more specifically to detail the final examinations of the Wesleyan student body. Although Wesleyan University exams are the main topics of this diary, Lyon also describes the <emph render="doublequote">Oriental Society</emph> at Professor Willett's house and his private school, the Irving Institute.  This is a photocopy of the original diary which was handwritten in English and contained 47 pages.</p><p>The diary begins on June 29, 1841, as the Lyon family departed from their home on the Columbus steamer from Tarrytown, New York, destined for New York City. On board the couple had a lengthy argument about the salary of the recently appointed Methodist pastor, Reverend Abm. Francis, and how it was insufficient for even the most meager lifestyle. Lyon concluded the argument with hopes that his case would be supported at the Quarterly Conference in August. After reaching the city, the family rode to a Mr. Leder's home where they decided to stay the night. During the evening, Lyon remarked on his son's infatuation with the scriptures after his son Roscoe thank God upon seeing an alarmed fire engine go by.</p>  
+<p>
+In the morning (June 30), Lyon left his family behind as he traveled by the <emph render="doublequote">Gladiator</emph> steamer towards New Haven, Connecticut. On board he met several acquaintances also bound for Wesleyan University, including Rev. H. Chase and the two brothers Gabriel P. Disosway and Cornelius R. Disosway. After arriving in New Haven, Lyon took an hourlong train ride to Meriden, followed by a two hour coach ride to his final destination of Middletown. After arriving at Wesleyan University, Lyon met with Rev. Horace Bartlett, the steward of the university, who showed them to a wash area and the large dining hall. After dinner, the group went on a tour of the university, followed by a visit to the home of the Wesleyan president. Lyon and President Bangs immediately became well acquainted and the president hoped Lyon would call upon him again. Lyon then returned to the Steward and was introduced to Professor Willett who accompanied him to the chapel to pray. At the chapel, Lyon was quite upset as most of the student body paid no attention to the lecture and instead nodded off. After prayer he went to Prof. Willett's estate south of the university, where Lyon came across a very interesting meeting. It seems at Professor Willett's home there were <emph render="doublequote">. . . half a dozen of students who assembled to form an Oriental Society</emph> (pg. 13); however, this is the only mention of the society and Lyon gives no other details. After this encounter Lyon attended a General Class Meeting of Students, and then decided to return to Professor Willett's house to sleep. </p> 
+
+ 
+
+<p>The next morning (July 1), Lyon left Professor Willet's home and returned to the President's room where he met with the Exam Committee. Lyon includes notes on each student's progress through a series of exams over two days. The notes range from a simple <emph render="doublequote">very good</emph> to a small description of how badly the student failed. During the next two days, Lyon was able to observe examinations in thirteen different subjects including: moral philosophy, the United States constitution, political economics, combined mechanics, analytical geometry, declaration, logic, mental philosophy, law, geometry, astronomy, trigonometry, and national history, for which Lyon wrote, <emph render="doublequote">I am the Committee.</emph> In addition to evaluating each student on how well he did on the examinations, Lyon also occasionally commented on their attractiveness. After the exams were over, Lyon had dinner with Professor John Johnston, and then decided to lodge with Professor Harvey B. Lane for the night. That evening, Lyon attended a Committee meeting where they decided to <emph render="doublequote">pass upon the students.</emph>  </p><p>The final entry in the diary details Lyon's trip back to New York City on July 3, as well as his summary of Wesleyan University. Lyon bragged that both Professor Willett and Johnston wanted him to stay at their houses during his trip, and that the President demanded that next time William visited, he must lodge with him. Lyon then gives a summary of his experiences with each of the professors he met and their personalities including: Professor Lane, Professor Johnston, Professor Smith, Professor Haber, Professor Willett, Professor Huber, and President Bangs.  William also describes the <emph render="doublequote">ladies</emph> of these professors including: the president's wife, Professor Johnston's wife, Professor Lane's wife, and Professor Willett's wife. William concluded that he was disappointed overall in the Wesleyan student body, for they seemed to be tested only on the basic principles. The last sentence of this diary summarizes these sentiments: <emph render="doublequote">I candidly think that one year in Irving would be better for those freshmen than both Soph and Junior year in College.</emph></p><p>A typed transcript of Lyon's diary is also available. However, this copy is only from the time that Lyon reached Wesleyan and does not include the time spent with his family in New York.</p>  
+
+<p>There are two pieces of correspondence in this collection. The first letter of William Lyon is written to Professor Jacob F. Huber on August 18th, 1840. This letter describes William's gratitude for Wesleyan University granting him an honorary A.M. degree. However, William writes that there is no convenient way of getting his diploma, so he hopes that Professor Huber will forward it to H. + S. Raynor who will pay for the required fee.  </p><p>The second letter, also to Professor Huber, tells of Lyon's acceptance to the Examination Committee for Wesleyan University. He writes that he has some hesitance in accepting this position because his school is still in session, but recognized that it was too grand of a proposition for him to deny.  </p><p>A one-page biography of William Phoebus Lyon is details his life from 1819 to December 4, 1841. It names the places he took up residence, a few of his jobs, and his family affairs.  However, none of these events are explained in any detail and most only give the years, not the exact dates.</p> 
+
+</scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Lyon, William Phoebus.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Irving Institute (Tarrytown, N.Y.)</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History--19th century.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <subject source="lcsh" encodinganalog="650">Examinations--History.</subject>
+      <geogname source="lcnaf" encodinganalog="651">New York (N.Y.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Middletown (Conn.)--Description and travel.</geogname>
+      <persname source="lcnaf" encodinganalog="600">Huber, Jacob F.</persname>
+      <genre source="aat" encodinganalog="655">Diaries.</genre>
+      <geogname source="lcnaf" encodinganalog="651">Tarrytown (N.Y.)</geogname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>
+              <title render="doublequote">Journal of a Trip to Middletown, Conn., Summer 1841, by Wm. P. Lyon, A.M., Senior Principal of the Irving Institute</title>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>This journal is a copy of the original.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Partial transcript of journal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Letters from William P. Lyon to Jacob F. Huber</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Biographical information</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

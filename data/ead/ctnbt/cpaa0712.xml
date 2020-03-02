@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ccsu.xsl" type="text/xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://library.ccsu.edu/cpaaead/ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+<eadid mainagencycode="US-ctnbt" url="https://library.ccsu.edu/cpaaead/cpaa0712.xml" identifier="cpaa0712">cpaa0712</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="24500$a">Bronislaw Krzyzewski Papers<lb/>
+<date>1915-1962 </date>
+<lb/>(Bulk <date type="bulk" normal="1918/1921">1918-1921) </date>
+<lb/><num>CPAA 07-12 </num>
+</titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Renata Vickrey</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University, New Britain</publisher>
+<address>
+<addressline>New Britain, Conn.</addressline>
+</address>
+<date encodinganalog="260$c" normal="2009">2009</date>
+<p>&#x00A9; Central Connecticut State University. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">Finding aid encoded in MSWord<date>2007</date>
+</creation>
+<langusage>Finding aid written in <language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<frontmatter id="front">
+<titlepage>
+<publisher>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University
+</publisher>
+<titleproper>Bronislaw Krzyzewski, 1915-1962</titleproper>
+<subtitle>Finding Aid</subtitle>
+<num>CPAA 07-12</num>
+<author>Compiled by Renata Vickrey</author>
+<date>March 2009</date>
+<p>&#x00A9; 2009 Central Connecticut State University. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" relatedencoding="MARC21">
+<did id="main">
+<head>Collection Overview</head>
+
+<origination label="Creator" encodinganalog="100">
+<persname>Bronislaw Krzyzewski</persname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">Bronislaw Krzyzewski Papers </unittitle>
+<unitdate type="inclusive" normal="1915-1962">1915-1962</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="mu">CPAA 07-12</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">1 box</extent>
+<extent encodinganalog="300$a">(0.5 linear ft.)</extent>
+</physdesc>
+<repository label="Location:">
+<corpname>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University</corpname>
+</repository>
+<abstract encodinganalog="520$a">
+ Collection consists of personal papers of Mr. Bronislaw Krzyzewski, a World War I veteran of the Polish Army under General Jozef Haller in France and later in Poland. </abstract>
+<langmaterial><language langcode="pol">Polish.</language></langmaterial>
+</did>
+<bioghist id="bioghist">
+<head>Biographical Note</head>
+<p>Mr. Bronislaw Krzyzewski was born in town of Suwalki in northeastern Poland in 1896.  
+He came to the United States on May 21, 1914. Four years later on February 25, 1918 he 
+volunteered together with other Poles and Polish Americans to join the Polish Army, which was 
+being formed in France under General Jozef Haller . 
+Mr. Krzyzewski left for France in March of 1918. World War I ended in November 1918.  
+However, he did not return to the US but, together with the Haller's Army left for Poland in 
+April of 1919 to fight for Poland's independence. 
+At this time, he visited his home town of Suwalki.  Mr. Krzyzewski came back to the US on January 28, 1921. 
+For his participation in the WWI in the Haller's Army he received a medal.  
+Mr. Krzyzewski lived in Willimantic, Connecticut most of his life and he died there in 
+November of 1977.
+</p>
+</bioghist>
+
+<scopecontent id="scope">
+<head>Scope and Contents of the Collection</head>
+<p>The collection consists of personal notes and photographs of Mr. Bronislaw Krzyzewski. Personal notes include dates of his travel during WWI and text of polish religious and patriotic songs.
+Collection also includes some family information and handwritten notes on family members. 
+</p>
+</scopecontent>
+
+
+<accessrestrict id="admin-access">
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+<prefercite id="admin-cite">
+<head>Preferred Citation</head>
+<p><emph render="italic">Cite as</emph>: Bronislaw Krzyzewski Papers (CPAA 07-12). Connecticut Polish American Archives, Central Connecticut State University, New Britain.</p>
+</prefercite>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>For related material on World War I and the General Haller's Army see:
+Urbanski, Michael T. "Money, war, and recruiting an army: the activities of Connecticut Polonia during World War I." Connecticut History,  46 no. 1 ( 2007): 45-69.
+</p>
+</relatedmaterial>
+<acqinfo id="admin-acqinfo">
+<p>Donated by Mrs. Camille Chmura daughter of Mr. Krzyzewski in November 2007.</p>
+</acqinfo>
+
+<processinfo><p>Processed by Renata Vickrey.</p></processinfo>
+
+<controlaccess id="subj">
+<head>Search Terms</head>
+<persname encodinganalog="700">Krzyzewski, Bronislaw</persname>
+<subject encodinganalog="650" source="lcsh">World War, 1914-1918 -- Poland.</subject>
+<subject encodinganalog="650" source="lcsh">World War, 1914-1918 -- Regimental histories -- France.</subject>
+<subject encodinganalog="650" source="lcsh">Poland -- Armed Forces -- History -- World War, 1914-1918.</subject>
+<subject encodinganalog="650" source="lcsh">Polish Americans -- History.</subject>
+<genreform encodinganalog="655" source="aat">Memoirs.</genreform>
+<genreform encodinganalog="655" source="aat">Photographs.</genreform>
+<genreform encodinganalog="655" source="aat">Uniform.</genreform>
+</controlaccess>
+
+
+
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Memoir in Polish with raw English translation, kept by Mr. Krzyzewski during WWI in Poland.</unittitle>
+<unitdate>1918-1921</unitdate>
+</did>
+</c01>
+
+</dsc>
+
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Medal given to Mr. Krzyzewski for his participation in WWI with Haller's Army; he received the medal in 1921.</unittitle>
+<unitdate>January 31, 1921</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Two (2) photographs of Mr. Krzyzewski during his hospital stay in Rowne, Wolyn province, taken Sep. 2, 1919</unittitle>
+<unitdate>1919</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Prayer book in Polish with a hand written notes: "This book was purchased in Suwalki in 1919"; "Souvenir from Suwalki after 6 years of absence in this town."</unittitle>
+<unitdate>1919</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>5 postcards from Suwalki: 4 postcards from 1915 and 1 from 1920 with Russian army equipment.</unittitle>
+<unitdate>1915, 1920</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>German and Russian currency.</unittitle>
+<unitdate>1918</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Post card from relative in Poland; obituary of Michal Mazierz, brother in law with additional family info.</unittitle>
+<unitdate></unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Polish post card to Woodrow Wilson with a poem in honor of President Wilson and his role in Poland's independence.</unittitle>
+<unitdate>1918</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Leather wallet, traveling pouch from Bremen, Germany to the US.</unittitle>
+<unitdate>n.d.</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>15 stamps from Poland.</unittitle>
+<unitdate>after 1945</unitdate>
+</did>
+</c01>
+
+</dsc><dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Clippings on Poland.</unittitle>
+<unitdate>September 1939</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Map of Poland, printed by Polish Daily Zgoda.</unittitle>
+<unitdate>1923</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>"Jozef Pilsudski" by Seweryn Romin, Paris.</unittitle>
+<unitdate>1926</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Haller's Army hat from WWI.</unittitle>
+<unitdate>1918</unitdate>
+</did>
+</c01>
+
+</dsc>
+<dsc type="in-depth">
+
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Bronislaw Krzyzewski papers - material separated.</unittitle>
+
+</did>
+</c01>
+
+</dsc>
+
+</archdesc>
+</ead>
+

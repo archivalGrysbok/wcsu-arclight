@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG074_071.html" countrycode="us">RG074_071</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 074:071, Robert Hilands McKeon Genealogical Papers</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Mel Smith.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">June 22, 2012</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2012</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>June 22, 2012</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="100">McKeon, Robert Hilands</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Robert Hilands McKeon genealogical papers</unittitle>
+
+	<unitdate label="Accumulation Dates:" datechar="accumulation" encodinganalog="245$f" normal="1990/1997">circa 1990-1997</unitdate>
+	<unitdate label="Coverage Dates:" datechar="creation" encodinganalog="245$f" normal="1795/1954">circa 1795-1954</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1 cubic foot</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Primarily copies of military, pension, and family records. Family names include Goodsell, Highland, Hiland, Hilands, Hoyland, Hoylands, Lowry, McKinney, Mitcheltree, Reznor, and Williams.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG074_071</unitid>
+	<unitid label="Accession: ">2012-030</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Primarily copies of military, pension, and family records. Family names include Goodsell, Highland, Hiland, Hilands, Hoyland, Hoylands, Lowry, McKinney, Mitcheltree, Reznor, and Williams.</p>
+	<p>The Goodsell genealogy traces the Goodsell family from immigrant Thomas Goodsell (1646-1713) of New Haven, Connecticut. This volume includes information on the Averill, Blossom, Cogswell, Ferriss, Fitz Randolph,
+Ford, Gaylord, Goodsell, Jackson, Loweree, Noble, Penfield, Ross, Smith, and Stanley families. Three folders of miscellaneous materials including
+correspondence, family notes and charts, newspaper clippings, and photographs were removed from between the pages of the volume. 
+</p>
+</scopecontent>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Family Names:</head>
+ <famname encodinganalog="600" source="lcnsh" role="subject">Goodsell family</famname>
+			<famname encodinganalog="600" source="local" role="subject">Highland family</famname>
+			<famname encodinganalog="600" source="local" role="subject">Hiland family</famname> 
+			<famname encodinganalog="600" source="local" role="subject">Hilands family</famname> 
+			<famname encodinganalog="600" source="local" role="subject">Hoyland family</famname> 
+			<famname encodinganalog="600" source="local" role="subject">Hoylands family</famname> 
+			<famname encodinganalog="600" source="lcnsh" role="subject">Lowry family</famname> 
+			<famname encodinganalog="600" source="lcnsh" role="subject">McKinney family</famname> 
+			<famname encodinganalog="600" source="local" role="subject">Mitcheltree family</famname> 
+			<famname encodinganalog="600" source="local" role="subject">Reznor family</famname> 
+			<famname encodinganalog="600" source="lcnsh" role="subject">Williams family</famname> 
+ </controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" source="lcsh">Connecticut -- Genealogy</geogname>
+			<geogname encodinganalog="651" source="lcsh">Ohio -- Genealogy</geogname>
+			<geogname encodinganalog="651" source="lcsh">Pennsylvania -- Genealogy</geogname>
+		</controlaccess>
+
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Genealogies</genreform>
+			<genreform encodinganalog="655" source="aat">Military records</genreform>
+			<genreform encodinganalog="655" source="aat">Photographs</genreform>
+			<genreform encodinganalog="655" source="aat">Scrapbooks</genreform>
+			
+	</controlaccess>
+
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These papers are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Papers</unittitle>
+	<unitdate datechar="creation" normal="1900/1997">circa 1900-1997</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry> </entry>
+ </row>
+ </thead>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Highland, Daniel B.</unittitle>
+ </did>	
+	<bioghist><p>Died 1863</p></bioghist>
+	<scopecontent><p>Civil War military and family records, 80th Ohio Volunteer Regiment, Company A</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>John Highland - War of 1812</unittitle>
+ </did>	
+	<bioghist><p>Born 1795, Died 1873</p></bioghist>
+	<scopecontent><p>Pension records, Pennsylvania</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>John Hiland - Ohio - Militia Barry Michigan - War of 1812</unittitle>
+ </did>	
+	<bioghist><p>Born circa 1797</p></bioghist>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Abraham T. Hilands</unittitle>
+ </did>	
+	<bioghist><p>Born 1826, Died 1887</p></bioghist>
+	<scopecontent><p>Civil War military and family records, 49th Pennsylvania Volunteer Infantry Regiment, Company F &amp; staff</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hilands, Daniel</unittitle>
+ </did>	
+	<bioghist><p>Born circa 1839, Died 1864</p></bioghist>
+	<scopecontent><p>6th Pennsylvania Volunteer Heavy Artillery Regiment, Company I</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Highlands, John - War of 1812 - PA</unittitle>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Highlands, Reuben Valentine - Civil War records</unittitle>
+ </did>	
+	<bioghist><p>Born 1822, Died 1904</p></bioghist>
+	<scopecontent><p>Military and family records. 105th Ohio Volunteer Infantry Regiment, Company C.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hoyland, John Walter - Civil War records</unittitle>
+ </did>	
+	<bioghist><p>Born 1824, Died 1914</p></bioghist>
+	<scopecontent><p>31st Wisconsin Volunteer Infantry Regiment, Company B</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hoyland, William B. - Spanish American War</unittitle>
+ </did>	
+	<bioghist><p>Born 1877, Died 1961</p></bioghist>
+	<scopecontent><p>Pension records, 1st Wisconsin Volunteer Infantry Regiment, Company H</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hoylands, Alexander - Civil War records</unittitle>
+ </did>	
+	<bioghist><p>Born 1837, Died 1921</p></bioghist>
+	<scopecontent><p>Pension and family records. 90th Ohio Volunteer Infantry Regiment, Company B.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Hoylands, Benjamin Louis - Civil War records</unittitle>
+ </did>	
+	<bioghist><p>Born 1827, Died 1911</p></bioghist>
+	<scopecontent><p>Pension and family records. 38th Wisconsin Volunteer Infantry Regiment, Company D.</p></scopecontent> 
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Hoylands, David P. - Civil War records</unittitle>
+ </did>	
+	<bioghist><p>Born 1837, Died 1912</p></bioghist>
+	<scopecontent><p>Military and family records. 2nd Ohio Volunteer Infantry Regiment, Company E.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Hoylands, Robert W. - 53 Ohio Infantry - Killed in action</unittitle>
+ </did>	
+	<bioghist><p>Born 1844, Died 1864</p></bioghist>
+	<scopecontent><p>Military and family records. 53rd Ohio Volunteer Infantry Regiment, Company E.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Ward Alexander Lowry</unittitle>
+ </did>	
+	<bioghist><p>Born 1884, Died 1954</p></bioghist>
+	<scopecontent><p>World War I pension and family records.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>McKinney, Edward M.</unittitle>
+ </did>	
+	<bioghist><p>Born 1859, Died 1922</p></bioghist>
+	<scopecontent><p>Spanish-American War pension, probate &amp; family records, United States 6th Cavalry and 16th Pennsylvania VOlunteer Infantry Regiment, Company D.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Reznor, George</unittitle>
+ </did>	
+	<bioghist><p>Died 1911</p></bioghist>
+	<scopecontent><p>Civil War pension records, 39th Pennsylvania Volunteer Infantry Regiment, Company G.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Williams, Jesse R.</unittitle>
+ </did>	
+	<bioghist><p>Born 1830, Died 1914</p></bioghist>
+	<scopecontent><p>Civil War, Pennsylvania pension and Soldier Home records.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Independent Hornets</unittitle>
+ </did>	
+	<scopecontent><p>Mercer County, Pennsylvania, militia listing of the "Independent Hornets" circa 1846.</p></scopecontent>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>War of 1812, Sons of</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>"The Record of My Ancestry. The Goodsell Family Book of Origins, Private and Personal, With Hisotrical Notes, Coats of Arms, and Photographs.
+Traced by Buel Goodsell and Bertha Goodsell"</unittitle>
+	<physdesc><extent>1 volume + 3 folders of items removed from between pages of volume</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Mitchell Family family record</unittitle>
+ </did>	
+	<scopecontent><p>Color photocopies of three family record sheets of the John Irvin Mitcheltree (1824-1875) and Fanny Jane (DeForest) Mitcheltree (1826-1874) Family.</p></scopecontent>
+</c02>
+
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

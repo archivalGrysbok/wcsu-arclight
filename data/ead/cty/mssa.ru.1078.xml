@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.1078">mssa.ru.1078</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Yale School of Architecture Building Project Records
+ </titleproper>
+            <titleproper type="filing">Yale School of Architecture Building Project Records</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>October 2008</date>
+            <num>RU 1078</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday November 30, 2018 at 11:18</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Yale School of Architecture Building Project records</unittitle>
+         <unitid>RU 1078</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">16.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">11 boxes </physdesc>
+         <physdesc>
+            <extent unit="Megabytes">41861.12</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1967/2008">1967-2008</unitdate>
+         
+         <abstract id="aspace_8505d6628047c1d9534850fb834fae85">The materials consist of photographs, drawings, specifications, slides, negatives, publications, and publicity materials documenting the Yale School of Architecture's annual building project.</abstract>
+         <origination label="creator">
+            <corpname authfilenumber="http://id.loc.gov/authorities/names/n85810380"
+                      rules="aacr"
+                      source="naf">
+               Yale University. School of Architecture
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_59ce6c0005559a52448c4d9294df42ed">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 19-E (YRG 19-E), Records of departments, offices, programs, and projects of the Yale School of Architecture.</p>  
+      </odd>
+      <acqinfo id="aspace_03d88d99355b0918a1b91342029d7af0">
+         <head>Immediate Source of Acquisition</head>
+         <p>The materials were transferred from the School of Architecture, 2008; gift of Paul Brouard, 2010.</p>  
+      </acqinfo>
+      <accessrestrict id="aspace_8ab9918fbe2f80fca56f3b474b24d675">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>Original born digital files, as well as preservation masters, may not be accessed due to their fragility. Researchers must consult use copies, or if none exist request that they be made. Born digital files cannot be accessed remotely. System requirements include a Manuscripts and Archives computer and file viewing software.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_8677bb8efba2d56ee4873303878ca955">
+         <head>Conditions Governing Use</head>
+         <p>Copyright for materials authored or otherwise produced as official business of Yale University is retained by Yale University. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <prefercite id="aspace_060400522536274b95db5f1885c1624a">
+         <head>Preferred Citation</head>
+         <p>Yale School of Architecture Building Project Records (RU 1078). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <processinfo id="aspace_f56f6b1cd7caceba4070c6cd66da4e60">
+         <head>Processing Information</head>
+         <p>Yale University records are arranged and described at the accession level by the creating office. The University Archives creates collection level descriptive records, but typically does no further arrangement and description at the accession level</p>  
+      </processinfo>
+      <bioghist id="aspace_ac9aed3f640d6963ccd1405ff822031b">
+         <head>Biographical / Historical</head>
+         <p>Since 1967, the Yale School of Architecture has offered its first-year students the unique chance to design and build a structure as part of their graduate education. Unique among architecture schools, this program is mandatory for all members of the class. Undertaken in cooperation with Common Ground, a local nonprofit agency, the Building Project results in a single-family house in an economically depressed neighborhood.</p>
+         <p>The late Charles W. Moore, who headed Yale's Department of Architecture (later the School of Architecture) from 1965 to 1971, founded the First-year Building Project in collaboration with faculty member Kent Bloomer. Moore saw that getting out of the studio and building something would have several benefits for the students. As a believer in simple tectonics and basic technologies, he hoped students would be inspired by the mechanics of building. In the midst of the student unrest of the 1960s he saw the project as a way for students to commit to positive social action by building for the poor.</p>
+         <p>The earliest projects were outside of New Haven, and included community centers in Appalachia and a series of camp buildings in Connecticut. Reduced budgets in the 1970s and 80s, as well as increasing pressure on student schedules, led to a scaling back of the program and projects-which included several park pavilions-were confined to the New Haven area.</p>
+         <p>More recently, partnerships with Habitat for Humanity and Home, Inc., Neighborhood Housing, and currently Common Ground, have led to a focus on affordable housing. The houses allow students the experience of working with a client and the opportunity to respond to the challenges of affordable housing and urban infill. Students have shown great enthusiasm for these projects focusing on community development and neighborhood improvement. Many of them arrive at school with a desire to include such socially responsible work in their future professional lives. Having the opportunity to participate in the design and construction of such building projects often reinforces their conviction and inspiration to do so.</p>
+         <p>from the Yale School of Architecture Building Project Website, 2010</p>  
+      </bioghist>
+      <scopecontent id="aspace_cf1b35ceb34222d18cf76b3b434ac4bd">
+         <head>Scope and Contents</head>
+         <p>The materials consist of photographs, drawings, specifications, slides, negatives, publications, and publicity materials documenting the Yale School of Architecture's annual building project.</p>  
+      </scopecontent>
+      <arrangement id="aspace_af91db658ef5e7c8e9a1a9297ee90bc9">
+         <head>Arrangement</head>
+         <p>The materials are arranged by accession.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Architecture -- Study and teaching (Graduate)
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611"
+                  source="lcsh">
+            Architecture
+         </subject>
+         <subject source="local">
+            Public architecture -- Connecticut
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300046300" source="aat">
+            Photographs
+         </genreform>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nr95000705"
+                   rules="aacr"
+                   source="naf">
+            Yale University. School of Architecture and Design
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n85810380"
+                   rules="aacr"
+                   source="naf">
+            Yale University. School of Architecture
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nr94003410"
+                   rules="aacr"
+                   source="naf">
+            Yale University. School of Art and Architecture
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Accession 2008-A-171</unitid>
+               <unitdate type="inclusive">1967-2006</unitdate>
+               <physdesc id="aspace_ccfd96c8779bcefb3883dd997bd20531">3 linear feet and 41861.12 megabytes</physdesc>
+            </did>
+            <accessrestrict id="aspace_ad34f877453604a1b95a6174456631f2">
+               <head>Conditions Governing Access</head>
+               <p>The materials are open for research.</p>
+            </accessrestrict>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>The Yale Building Project: A Resource Manual</unittitle>
+                  <unitdate type="inclusive">circa 1997</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_b275f1d28c08ad5e17607674c69877ad"
+                             type="box">1</container>
+                  <container id="aspace_732b9e76bfed8f8060be169634fcc627"
+                             type="folder"
+                             parent="aspace_b275f1d28c08ad5e17607674c69877ad">1</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Color copies</unittitle>
+                  <unitdate type="inclusive">1992</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_f2720c443a15f629f7f0dc1c16e340b2"
+                             type="box">1</container>
+                  <container id="aspace_6f3073f2e5507db8b7d1ce8f3181287d"
+                             type="folder"
+                             parent="aspace_f2720c443a15f629f7f0dc1c16e340b2">2</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate type="inclusive">1993-1997</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_6f0c1ddd00cc222206229aa6b6bd8489"
+                             type="box">1</container>
+                  <container id="aspace_8ed7ea16d1080045ebe1b04564fd8836"
+                             type="folder"
+                             parent="aspace_6f0c1ddd00cc222206229aa6b6bd8489">3</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Negatives (color and black &amp; white, 4x5)</unittitle>
+                  <unitdate type="inclusive">1990s</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_431f70632e4be071249f78b4702ee3c0"
+                             type="box">1</container>
+                  <container id="aspace_b9603da77982f790ac2396d35e24442c"
+                             type="folder"
+                             parent="aspace_431f70632e4be071249f78b4702ee3c0">4</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>Unused images</unittitle>
+                  <unitdate type="inclusive">1990s</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_8df96c9eac252d3fa1647dc56a62308a"
+                             type="box">1</container>
+                  <container id="aspace_27af582df9d4079513f94b0581fc52e9"
+                             type="folder"
+                             parent="aspace_8df96c9eac252d3fa1647dc56a62308a">5</container>
+               </did>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Joseph Slifka Center plans</unittitle>
+                  <unitdate type="inclusive">2006</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_79545ad48ab70a0dd07bba858927019f"
+                             type="box">1</container>
+                  <container id="aspace_c1c4cf2aa019f178afe1596fa95f8bb6"
+                             type="folder"
+                             parent="aspace_79545ad48ab70a0dd07bba858927019f">6</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Selected images</unittitle>
+                  <unitdate type="inclusive">1970s</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_d0028a66172dae3bcd51d060348a4c1e"
+                             type="box">1</container>
+                  <container id="aspace_c5bb5eb18f10b81c5ac5dbc724a258d0"
+                             type="folder"
+                             parent="aspace_d0028a66172dae3bcd51d060348a4c1e">7</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Construction</unittitle>
+                  <unitdate type="inclusive">2000</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_934adefb4bbda043478c2f1db6077f90"
+                             type="box">1</container>
+                  <container id="aspace_31fc4898c444d27059f8a7069e759bb9"
+                             type="folder"
+                             parent="aspace_934adefb4bbda043478c2f1db6077f90">8</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Reception</unittitle>
+                  <unitdate type="inclusive">2002</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_a4480c7a82994d3f00db899924a8f0ba"
+                             type="box">1</container>
+                  <container id="aspace_042aa91a2e92d6a9d42b25db828db8bc"
+                             type="folder"
+                             parent="aspace_a4480c7a82994d3f00db899924a8f0ba">9</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Selected images</unittitle>
+                  <unitdate type="inclusive">1980s-2000s</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_992cf3e869c6d4caa032a24fe67b8465"
+                             type="box">1</container>
+                  <container id="aspace_544bcd33a25ae98da3968bce99c1342d"
+                             type="folder"
+                             parent="aspace_992cf3e869c6d4caa032a24fe67b8465">10</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Construction contact sheets</unittitle>
+                  <unitdate type="inclusive">circa 1994</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_e901c8464362cb34aa48d1748435cad9"
+                             type="box">1</container>
+                  <container id="aspace_c9b25059905fd1565c45b1a3f1346975"
+                             type="folder"
+                             parent="aspace_e901c8464362cb34aa48d1748435cad9">11</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>5x7 photographs: construction, models, completed buildings</unittitle>
+                  <unitdate type="inclusive">1982-1995</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_23bc7aa4c9b29a9164654ff148ff956e"
+                             type="box">1</container>
+                  <container id="aspace_ebd0ffafa4921e8afb35cac2672ad254"
+                             type="folder"
+                             parent="aspace_23bc7aa4c9b29a9164654ff148ff956e">12</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Guilford Beach: articles collected by Nona and Kent Bloomer</unittitle>
+                  <unitdate type="inclusive">1971</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_5e36c852845b75e4316921a183fd62b0"
+                             type="box">1</container>
+                  <container id="aspace_180b088d4585db32edbab8564b7ecad1"
+                             type="folder"
+                             parent="aspace_5e36c852845b75e4316921a183fd62b0">13</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>Michael Marsland contact sheets</unittitle>
+                  <unitdate type="inclusive">2002-2005</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_004eed2a738eb1087c65bd9512b6f398"
+                             type="box">1</container>
+                  <container id="aspace_2f767fc7bae465a560a20205e56d6cc1"
+                             type="folder"
+                             parent="aspace_004eed2a738eb1087c65bd9512b6f398">14</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Images donated by Mack Caldwell ('69), Brinkley Thorne ('72), Wendy Westfall Franzen ('82)Kevin Lichten ('77), Charles Loomis ('85)</unittitle>
+                  <unitdate type="inclusive">1969-1985</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_751c83748f8188ede11fcba43c3c7133"
+                             type="box">1</container>
+                  <container id="aspace_08ff2c48420b7650a01a048c86ea2c36"
+                             type="folder"
+                             parent="aspace_751c83748f8188ede11fcba43c3c7133">15</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>Models, construction, reception</unittitle>
+                  <unitdate type="inclusive">2000</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_230bb18124bc922d9447553d8a877774"
+                             type="box">1</container>
+                  <container id="aspace_7808749dcc0a808e1019fc2f9a9fc68a"
+                             type="folder"
+                             parent="aspace_230bb18124bc922d9447553d8a877774">16</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Slides</unittitle>
+                  <unitdate type="inclusive">1966-1999</unitdate>
+                  <container label="Mixed Materials (39002075164112)"
+                             altrender="archive letter"
+                             id="aspace_e515507438ab865e8f6df8624312154b"
+                             type="box">1</container>
+                  <container id="aspace_b94fd7ec2e0d6b59995ca99b8b0c8601"
+                             type="folder"
+                             parent="aspace_e515507438ab865e8f6df8624312154b">17-19</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Slides</unittitle>
+                  <unitdate type="inclusive">1967-2000</unitdate>
+                  <container label="Mixed Materials (39002075164104)"
+                             altrender="archive letter"
+                             id="aspace_2ead0951458abea6010201b597877f1d"
+                             type="box">2</container>
+                  <container id="aspace_ade9e54e47c30c1c80c8395135b82a3b"
+                             type="folder"
+                             parent="aspace_2ead0951458abea6010201b597877f1d">1-5</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>Construction at various sites</unittitle>
+                  <unitdate type="inclusive">circa 1980s</unitdate>
+                  <container label="Mixed Materials (39002075164120)"
+                             altrender="archive legal"
+                             id="aspace_5b02281143ecfd549482aae0521a0f6b"
+                             type="box">3</container>
+                  <container id="aspace_4ceba34f6585658ebd2918271263dee6"
+                             type="folder"
+                             parent="aspace_5b02281143ecfd549482aae0521a0f6b">1</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Mounted exhibit photographs</unittitle>
+                  <unitdate type="inclusive">circa 1990s</unitdate>
+                  <container label="Mixed Materials (39002075164120)"
+                             altrender="archive legal"
+                             id="aspace_882eb244bd9ed2954aa092c11ebe681c"
+                             type="box">3</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate type="inclusive">circa 1996</unitdate>
+                  <container label="Mixed Materials (39002075165853)"
+                             altrender="flat box (13d 3h 18w)"
+                             id="aspace_5273d33cebc4e5510b88bdfea028bc48"
+                             type="box">4</container>
+                  <container id="aspace_da122a0612b37aefabf6b3d6eb06b7b8"
+                             type="folder"
+                             parent="aspace_5273d33cebc4e5510b88bdfea028bc48">1</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>Plans</unittitle>
+                  <unitdate type="inclusive">circa 1990s</unitdate>
+                  <container label="Mixed Materials (39002075165853)"
+                             altrender="flat box (13d 3h 18w)"
+                             id="aspace_f9e948875f4c1febbfd2901425043d55"
+                             type="box">4</container>
+                  <container id="aspace_63c041cc1e4792054882e291d96c2846"
+                             type="folder"
+                             parent="aspace_f9e948875f4c1febbfd2901425043d55">2</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Electronic records</unittitle>
+               </did>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Master files used to create <title type="simple" render="italic">
+                           The Yale Building Project: The First 40 Years
+                        </title>, by Richard W. Hayes</unittitle>
+                  </did>
+                  <c id="ref38" level="file">
+                     <did>
+                        <unittitle>Essay - "Learning, Building"</unittitle>
+                        <physdesc id="aspace_2cf63dfd86bd5698cc485127cfb45db4">36 computer files (14 TIFF files, 21 JPEG files, 1 DOC file)</physdesc>
+                     </did>
+                     <odd id="aspace_049b872324aaefa70241cf49bed1e3d2">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref41" level="file">
+                     <did>
+                        <unittitle>Essay - "Thirty-Five Years of Teaching Yale Students to Build"</unittitle>
+                        <physdesc id="aspace_27030f134071e813fb0cd40a75a3dd07">9 computer files (2 TIFF files, 6 JPEG files, 1 DOC file)</physdesc>
+                     </did>
+                     <odd id="aspace_155121908cb6adb21d11d13282d8e865">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref44" level="file">
+                     <did>
+                        <unittitle>Essay - "From Appalachia to New Haven"</unittitle>
+                        <physdesc id="aspace_b56d78a59bfb6d5dab3efa150e485723">11 computer files (4 TIFF files, 5 JPEG files, 1 DOC file, 1 GIF file)</physdesc>
+                     </did>
+                     <odd id="aspace_3c29d2f89363c41a641946d5cec31948">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              The Yale Building Project 1967 - 2006
+                           </title>
+                        </unittitle>
+                        <physdesc id="aspace_5c9f070fc6c544afa230bf18be5e7a66">237 computer files (80 TIFF files, 156 JPEG files, 1 PDF file)</physdesc>
+                     </did>
+                     <odd id="aspace_d6ac8fb4ec0ea45af0aab325860cfc30">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>Non Image Files</unittitle>
+                        <physdesc id="aspace_d55e00f750c413e367f1678a6979c58e">1793 computer files (238 TIFF files, 1445 JPEG files, 47 PDF files, 20 DWG files, 27 PSD files, 1 DOC file, 15 XLS files)</physdesc>
+                     </did>
+                     <odd id="aspace_f903eb54bd6ac9f116937fdacbea8bd0">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Yale Building Project Digital Archive</unittitle>
+                  </did>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>Camp Farnam Cabin</unittitle>
+                        <unitdate type="inclusive">1965</unitdate>
+                        <physdesc id="aspace_3f1316272106908803bb6fdd5cb31621">40 computer files (TIFF)</physdesc>
+                     </did>
+                     <odd id="aspace_db82d81be2ceb71d84bd78084d7270a4">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref57" level="file">
+                     <did>
+                        <unittitle>New Zion Community Center</unittitle>
+                        <unitdate type="inclusive">1967</unitdate>
+                        <physdesc id="aspace_fb845accd220de04c34387846761bb39">39 computer files (26 TIFF files, 13 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_70fc926624c1c0b681778dcf4c07f79d">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>Lower Grassy Community Center</unittitle>
+                        <unitdate type="inclusive">1968</unitdate>
+                        <physdesc id="aspace_1ff554ec59f1736fb3df94c3e9d2ec48">49 computer files (44 TIFF files, 5 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_8df68442b130145359f18416872fd490">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>A Play Machine</unittitle>
+                        <unitdate type="inclusive">1969</unitdate>
+                        <physdesc id="aspace_b04d8ad9ff84108575032994df934991">43 computer files (JPEG)</physdesc>
+                     </did>
+                     <odd id="aspace_0a86a1f413a340b75fa7d85b76f23bb4">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref66" level="file">
+                     <did>
+                        <unittitle>Recreation Center</unittitle>
+                        <unitdate type="inclusive">1969</unitdate>
+                        <physdesc id="aspace_8f9aa54111e1ec5dd2545742a57a2c5a">61 computer files (2 TIFF files, 58 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_53762bc534de5b40d8a3d708fb8cf766">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref69" level="file">
+                     <did>
+                        <unittitle>New Hampshire Cabins</unittitle>
+                        <unitdate type="inclusive">1970</unitdate>
+                        <physdesc id="aspace_2f2e709804b50ab7c577c234349b72f2">22 computer files (1 TIFF file, 21 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_6eee737765cca1e7774fc7b033098d59">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref72" level="file">
+                     <did>
+                        <unittitle>Guilford Beach Shelter</unittitle>
+                        <unitdate type="inclusive">1971</unitdate>
+                        <physdesc id="aspace_289dc736602f1c8f51cf4df8d0d222bb">38 computer files (13 TIFF files, 25 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_1239003d58abb8a1b513cefe963048bf">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref75" level="file">
+                     <did>
+                        <unittitle>Wallingford Train Station</unittitle>
+                        <unitdate type="inclusive">1972</unitdate>
+                        <physdesc id="aspace_b18dc6face8b5890b8bedd44ffc8ff91">47 computer files (1 TIFF file, 46 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_4b4b0781c8e4d284efd06b10f798c565">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref78" level="file">
+                     <did>
+                        <unittitle>Camp Farnam Pavilion</unittitle>
+                        <unitdate type="inclusive">1973</unitdate>
+                        <physdesc id="aspace_9add809c468a78377f12a7f7cf240bab">28 computer files (2 TIFF files, 26 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_5c315a07edc29856681cb47eca84c347">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref81" level="file">
+                     <did>
+                        <unittitle>Playground</unittitle>
+                        <unitdate type="inclusive">1974</unitdate>
+                        <physdesc id="aspace_dbd6628dbbd96e3bd629159e4ab1bafc">21 computer files (JPEG)</physdesc>
+                     </did>
+                     <odd id="aspace_b61a87ebdf5b65e41a31a65c10a6a7ce">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref84" level="file">
+                     <did>
+                        <unittitle>Theater, Fireplace</unittitle>
+                        <unitdate type="inclusive">1974</unitdate>
+                        <physdesc id="aspace_6301d37cd703164c9e712548bd70bf93">80 computer files (1 TIFF file, 79 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_d91f425df88eb11c12a70cec94ba1f38">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref87" level="file">
+                     <did>
+                        <unittitle>Medical Center</unittitle>
+                        <unitdate type="inclusive">1975</unitdate>
+                        <physdesc id="aspace_ac42ba9c69c106b2b540fa0e088e3da6">56 computer files (27 TIFF files, 28 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_479139a0d9ac8dec1089dafb6f9eebe9">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref90" level="file">
+                     <did>
+                        <unittitle>Camp Farnam cabins</unittitle>
+                        <unitdate type="inclusive">1976</unitdate>
+                        <physdesc id="aspace_d90bae99843d393cc9395af41fa2d7fe">29 computer files (10 TIFF files, 19 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_fa94830b90547445765bca85023b5677">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref93" level="file">
+                     <did>
+                        <unittitle>Camp Laurelwood</unittitle>
+                        <unitdate type="inclusive">1977</unitdate>
+                        <physdesc id="aspace_dfe27e70b4c7e6efe43b97e69ef9bc05">39 computer files (16 TIFF files, 23 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_02fadf63b0a2267b45be1207addf6ba0">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref96" level="file">
+                     <did>
+                        <unittitle>Shakespeare Theater</unittitle>
+                        <unitdate type="inclusive">1978</unitdate>
+                        <physdesc id="aspace_a8286c7b730d4f32aebc5ac4d1168201">52 computer files (34 TIFF files, 18 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_ab7b4fba009e803606b1d15a1bae3437">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref99" level="file">
+                     <did>
+                        <unittitle>West Haven Community Center</unittitle>
+                        <unitdate type="inclusive">1979</unitdate>
+                        <physdesc id="aspace_197b3d2adf80e27f3a5616166613755d">62 computer files (23 TIFF files, 39 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_c85e317e91fa5dfab8f0676157c5d51a">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref102" level="file">
+                     <did>
+                        <unittitle>Dormitory and Conference Center</unittitle>
+                        <unitdate type="inclusive">1980</unitdate>
+                        <physdesc id="aspace_36d1c74e3fe7bdb467e3e250587f6ee5">25 computer files (3 TIFF files, 22 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_15f8e0b39afb8fac23d7fb31ae0412cf">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref105" level="file">
+                     <did>
+                        <unittitle>Park Pavilion - East Lyme</unittitle>
+                        <unitdate type="inclusive">1981</unitdate>
+                        <physdesc id="aspace_2e70c515642bd0a885ce98079a108742">35 computer files (21 TIFF files, 14 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_69841cf9679e669517a6e39aed71994a">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref108" level="file">
+                     <did>
+                        <unittitle>Beach Pavilion and Changing Rooms</unittitle>
+                        <unitdate type="inclusive">1982</unitdate>
+                        <physdesc id="aspace_48f4e31d288973174943447bb41cfcbf">26 computer files (4 TIFF files, 19 JPEG files, 3 PDF files)</physdesc>
+                     </did>
+                     <odd id="aspace_efea2309493cfa764147d5a4da7cef7b">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref111" level="file">
+                     <did>
+                        <unittitle>Concert Stage - New Haven</unittitle>
+                        <unitdate type="inclusive">1983</unitdate>
+                        <physdesc id="aspace_9f0917cb43d65259a2b18fc7ec2d6e89">17 computer files (4 TIFF files, 13 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_34f16201559ee96e7daa3f564dc18174">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref114" level="file">
+                     <did>
+                        <unittitle>Picnic Pavilion - Lighthouse Point</unittitle>
+                        <unitdate type="inclusive">1984</unitdate>
+                        <physdesc id="aspace_eea1418b34b2eff12b7d1528fe93538f">22 computer files (9 TIFF files, 13 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_749c7e2ae074b6b03a7a8285da632855">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref117" level="file">
+                     <did>
+                        <unittitle>Park Pavilioin, East Rock</unittitle>
+                        <unitdate type="inclusive">1985</unitdate>
+                        <physdesc id="aspace_d41a50cb6e61d08c8bbaa4842ab3aab5">15 computer files (2 TIFF files, 13 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_1d7f3838cbe91788dc628de9fcdebcab">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref120" level="file">
+                     <did>
+                        <unittitle>Education Pavilion</unittitle>
+                        <unitdate type="inclusive">1986</unitdate>
+                        <physdesc id="aspace_b2ef2d1526f3c8aeabac9d743740e53d">42 computer files (37 TIFF files, 5 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_1a70d5d097a918aa25c48612124987ab">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref123" level="file">
+                     <did>
+                        <unittitle>Concert Pavilion - Bridgeport</unittitle>
+                        <unitdate type="inclusive">1987</unitdate>
+                        <physdesc id="aspace_2d2277961ff84550dbb8e6a70c83e4ce">35 computer files (9 TIFF files, 26 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_1fdac8f57caad22c0e5bda89e349d2a5">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref126" level="file">
+                     <did>
+                        <unittitle>Meeting House</unittitle>
+                        <unitdate type="inclusive">1988</unitdate>
+                        <physdesc id="aspace_aa962f15fd31dfb5970ffa4c6c279c61">13 computer files (1 TIFF file, 12 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_75f2b5d6ce6f88bcff1584065ced0672">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref129" level="file">
+                     <did>
+                        <unittitle>Hallock Avenue</unittitle>
+                        <unitdate type="inclusive">1989</unitdate>
+                        <physdesc id="aspace_a69070fe4d36eff52f688ff8c0c259e2">30 computer files (6 TIFF files, 24 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_671fc10738899d09d28b29ce667d4680">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref132" level="file">
+                     <did>
+                        <unittitle>133 Rosette Street</unittitle>
+                        <unitdate type="inclusive">1990</unitdate>
+                        <physdesc id="aspace_a8afc9ca8b95def57486c33fc9447075">33 computer files (15 TIFF files, 18 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_6a9fbe7e3a7c52405a0e58b1cc05d8a0">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref135" level="file">
+                     <did>
+                        <unittitle>Blake Street</unittitle>
+                        <unitdate type="inclusive">1991</unitdate>
+                        <physdesc id="aspace_f0a3e10915ee37a0a8c5e62b9308543b">50 computer files (46 TIFF files, 4 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_b96517c4dc28c452c6d8af4f6895dc55">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref138" level="file">
+                     <did>
+                        <unittitle>316 Newhall Street</unittitle>
+                        <unitdate type="inclusive">1992</unitdate>
+                        <physdesc id="aspace_d1ea26a42524736f25f37ac919d3cee0">49 computer files (21 TIFF files, 28 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_4d984db84c443560dd7690088332e973">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref141" level="file">
+                     <did>
+                        <unittitle>348 Newhall Street</unittitle>
+                        <unitdate type="inclusive">1993</unitdate>
+                        <physdesc id="aspace_65f7988d9d7c1c9888179c6d50dc8933">65 computer files (37 TIFF files, 28 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_4582d2491f154c0b40785eef018c949c">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref144" level="file">
+                     <did>
+                        <unittitle>Dewitt Street</unittitle>
+                        <unitdate type="inclusive">1994</unitdate>
+                        <physdesc id="aspace_99db9c720a666b0aeb49f523c9cd9364">60 computer files (18 TIFF files, 42 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_927f5119eb6a0465c6e6330cb7df8ed2">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref147" level="file">
+                     <did>
+                        <unittitle>Cassius Street</unittitle>
+                        <unitdate type="inclusive">1995</unitdate>
+                        <physdesc id="aspace_f785b1d23cda37b2e2171be454a05b88">57 computer files (22 TIFF files, 35 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_093f89730790abb592e72ae6d5b3ca56">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref150" level="file">
+                     <did>
+                        <unittitle>140 Cedar Hill Avenue</unittitle>
+                        <unitdate type="inclusive">1996</unitdate>
+                        <physdesc id="aspace_85622b1890cb695e777d48bb004ae91d">34 computer files (5 TIFF files, 29 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_47ba4468bad3359bf9a812d484f19e70">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref153" level="file">
+                     <did>
+                        <unittitle>50 Derby Avenue</unittitle>
+                        <unitdate type="inclusive">1997</unitdate>
+                        <physdesc id="aspace_cb551cb5e13901af43c4e5c5a27805ef">28 computer files (7 TIFF files, 21 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_5a76c4a76153649b0ba56944cd2e9cce">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref156" level="file">
+                     <did>
+                        <unittitle>96 Sherman Avenue</unittitle>
+                        <unitdate type="inclusive">1998</unitdate>
+                        <physdesc id="aspace_46851c148d210b725c5a7475c736484d">72 computer files (54 TIFF files, 18 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_1fdc218a264c7e2139187ab7ab0b3451">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref159" level="file">
+                     <did>
+                        <unittitle>212 Winthrop Avenue</unittitle>
+                        <unitdate type="inclusive">1999</unitdate>
+                        <physdesc id="aspace_635c53937cb252938ecde6cf764ca754">51 computer files (6 TIFF files, 45 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_6c50664ec933c2e6a00c8a4611adca27">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref162" level="file">
+                     <did>
+                        <unittitle>23 West Read Street</unittitle>
+                        <unitdate type="inclusive">2000</unitdate>
+                        <physdesc id="aspace_d80b999d140a94bc87f4ace640d31a58">77 computer files (45 TIFF files, 32 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_93eb65569775ef3bcc1a2780289d27fb">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref165" level="file">
+                     <did>
+                        <unittitle>33-35 Fifth Street</unittitle>
+                        <unitdate type="inclusive">2001</unitdate>
+                        <physdesc id="aspace_4cea0a1842a5566221580f2f14c871ba">109 computer files (5 TIFF files, 104 JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_415a77f4a5853c97f83dcf0747db2993">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref168" level="file">
+                     <did>
+                        <unittitle>83 Parmalee Avenue</unittitle>
+                        <unitdate type="inclusive">2002</unitdate>
+                        <physdesc id="aspace_0d6520376431e6efb7f9ffc2062def72">120 computer files (100 JPEG files, 20 DWG files)</physdesc>
+                     </did>
+                     <odd id="aspace_a4208ea357f2ace06a5862a0c80113d8">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref171" level="file">
+                     <did>
+                        <unittitle>14 Porter Street</unittitle>
+                        <unitdate type="inclusive">2003</unitdate>
+                        <physdesc id="aspace_3a6f576a78df53b85ddd23eaa81ecb52">307 computer files (JPEG)</physdesc>
+                     </did>
+                     <odd id="aspace_47832ced1f4ac858cf9369d13e9e4c79">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref174" level="file">
+                     <did>
+                        <unittitle>20 Hudson Street</unittitle>
+                        <unitdate type="inclusive">2004</unitdate>
+                        <physdesc id="aspace_1e0d5d713d4860c0c07f4cdcb7f5269c">374 computer files (369 JPEG files, 1 PDF file, 4 PSD files)</physdesc>
+                     </did>
+                     <odd id="aspace_e13cfaaba9b39827a999e2e3608a49a8">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref177" level="file">
+                     <did>
+                        <unittitle>590 Orchard Street</unittitle>
+                        <unitdate type="inclusive">2005</unitdate>
+                        <physdesc id="aspace_435f2faf9bdb2b5d50bf2be3c40e36e3">375 computer files (1 TIFF file, 372 JPEG files, 2 PSD files)</physdesc>
+                     </did>
+                     <odd id="aspace_5dffdda432f7d9123a653f2e3029a837">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref180" level="file">
+                     <did>
+                        <unittitle>51 Henry Street</unittitle>
+                        <unitdate type="inclusive">2006</unitdate>
+                        <physdesc id="aspace_3d95f67c54c80f0c627167979d8b6f1f">270 computer files (JPEG files)</physdesc>
+                     </did>
+                     <odd id="aspace_f79eba9219904491b24c005e62635106">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref183" level="file">
+                     <did>
+                        <unittitle>New Digital Material</unittitle>
+                        <physdesc id="aspace_91124c7d874f68b36655866fb0238a3c">507 computer files (TIFF)</physdesc>
+                     </did>
+                     <odd id="aspace_997665c006c037cb6a3b0a5522139302">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+                  <c id="ref186" level="file">
+                     <did>
+                        <unittitle>Unknown</unittitle>
+                        <physdesc id="aspace_6ff29e45e109320e055159c381948f8d">338 computer files (57 TIFF files, 279 JPEG files, 2 DOC files)</physdesc>
+                     </did>
+                     <odd id="aspace_56a63538fac11262119ee2048ed8314f">
+                        <head>General note</head>
+                        <p>Contact Public Services (phone: 203 432-1735, e-mail: mssa.reference@yale.edu) for information on accessing this digital object.</p>
+                     </odd>
+                  </c>
+               </c>
+            </c>
+         </c>
+         <c id="ref190" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession 2010-A-073</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">13.5</extent>
+               </physdesc>
+            </did>
+            <c id="ref191" level="file">
+               <did>
+                  <unittitle>Background material</unittitle>
+               </did>
+               <c id="ref231" level="file">
+                  <did>
+                     <unittitle>The Building Project-Submission: ACSA Collaborative Practice Award</unittitle>
+                     <container label="Mixed Materials (39002075042078)"
+                                altrender="archive legal"
+                                id="aspace_5d7fe9b8972b2b5d3e17bbff74b35ffd"
+                                type="box">1</container>
+                     <container id="aspace_c8fba7856c0c1bd847ee070253bea7e6"
+                                type="folder"
+                                parent="aspace_5d7fe9b8972b2b5d3e17bbff74b35ffd">1</container>
+                  </did>
+               </c>
+               <c id="ref232" level="file">
+                  <did>
+                     <unittitle>News clippings/press</unittitle>
+                     <unitdate type="inclusive">circa 1982-2003</unitdate>
+                     <container label="Mixed Materials (39002075042078)"
+                                altrender="archive legal"
+                                id="aspace_d324d6bb14e4c6d6e48c97815a9989ae"
+                                type="box">1</container>
+                     <container id="aspace_eac7be21124bbd3d2d2bc2737e5c2e57"
+                                type="folder"
+                                parent="aspace_d324d6bb14e4c6d6e48c97815a9989ae">2-3</container>
+                  </did>
+               </c>
+               <c id="ref233" level="file">
+                  <did>
+                     <unittitle>Habitat for Humanity publicity</unittitle>
+                     <unitdate type="inclusive">1990-1992</unitdate>
+                     <container label="Mixed Materials (39002075042078)"
+                                altrender="archive legal"
+                                id="aspace_ae6a6899b43256add0490094306bec40"
+                                type="box">1</container>
+                     <container id="aspace_f87950f1593a866cb69e1ee9301cf32a"
+                                type="folder"
+                                parent="aspace_ae6a6899b43256add0490094306bec40">4</container>
+                  </did>
+               </c>
+               <c id="ref234" level="file">
+                  <did>
+                     <unittitle>Arch 502B, Neighborhood Study Project: Newhallville  essays</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002075042078)"
+                                altrender="archive legal"
+                                id="aspace_a5e44ee4898c880fde6134f499fdf62d"
+                                type="box">1</container>
+                     <container id="aspace_b5f5f256b2509641645269b424e86c38"
+                                type="folder"
+                                parent="aspace_a5e44ee4898c880fde6134f499fdf62d">5</container>
+                  </did>
+               </c>
+               <c id="ref235" level="file">
+                  <did>
+                     <unittitle>Structural calculations: Beach Pavilion, Lighthouse Point Park</unittitle>
+                     <unitdate type="inclusive">1984</unitdate>
+                     <container label="Mixed Materials (39002075042078)"
+                                altrender="archive legal"
+                                id="aspace_5bf6f18cfe2114df90ad228a1f775165"
+                                type="box">1</container>
+                     <container id="aspace_1fb5b8ab3d3191734a6998b3879fad03"
+                                type="folder"
+                                parent="aspace_5bf6f18cfe2114df90ad228a1f775165">6</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref192" level="file">
+               <did>
+                  <unittitle>Photographs, slides, negatives, and videos</unittitle>
+               </did>
+               <c id="ref207" level="file">
+                  <did>
+                     <unittitle>Team pictures</unittitle>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_d4a6ba265c0ab3eece93ee7369a6da50"
+                                type="box">2</container>
+                     <container id="aspace_3e70a3716638974b55e952ba9a43a99f"
+                                type="folder"
+                                parent="aspace_d4a6ba265c0ab3eece93ee7369a6da50">7</container>
+                  </did>
+               </c>
+               <c id="ref208" level="file">
+                  <did>
+                     <unittitle>Dock and floating sculptures (Whitesburg, Kentucky); play device, Camp Cedarcrest (Orange, Connecticut); Community Center, Long River Village (Middletown, Connecticut)</unittitle>
+                     <unitdate type="inclusive">1969</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_8c64af17c2284c3b7094c902f82476c1"
+                                type="box">2</container>
+                     <container id="aspace_9ebb7fd584cec0085c30ce3f90626280"
+                                type="folder"
+                                parent="aspace_8c64af17c2284c3b7094c902f82476c1">8</container>
+                  </did>
+               </c>
+               <c id="ref209" level="file">
+                  <did>
+                     <unittitle>Cabin Creek Medical Center (Dawes, West Virginia); House addition (Branford, Connecticut)</unittitle>
+                     <unitdate type="inclusive">1975</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_aa792c6a6fb32ef8f72074e30edd1919"
+                                type="box">2</container>
+                     <container id="aspace_0695c06d4a52f3148ebbeff55b727231"
+                                type="folder"
+                                parent="aspace_aa792c6a6fb32ef8f72074e30edd1919">9</container>
+                  </did>
+               </c>
+               <c id="ref210" level="file">
+                  <did>
+                     <unittitle>Three cabins at Camp Farnam, Durham, Connecticut</unittitle>
+                     <unitdate type="inclusive">1976</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_3830de3d9bcfe94a574e84f586714a2f"
+                                type="box">2</container>
+                     <container id="aspace_136d11679e2288cdd4ef92a68bf48445"
+                                type="folder"
+                                parent="aspace_3830de3d9bcfe94a574e84f586714a2f">10</container>
+                  </did>
+               </c>
+               <c id="ref211" level="file">
+                  <did>
+                     <unittitle>Camp Laurelwood shelter, Madison, Connecticut</unittitle>
+                     <unitdate type="inclusive">1977</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_6033c20a7b6796efc037e97fb3c2f5bc"
+                                type="box">2</container>
+                     <container id="aspace_16e2dc9998f7932ea9338013a62100e6"
+                                type="folder"
+                                parent="aspace_6033c20a7b6796efc037e97fb3c2f5bc">11</container>
+                  </did>
+               </c>
+               <c id="ref212" level="file">
+                  <did>
+                     <unittitle>Picnic pavilion at the Stratford Festival Theatre, Stratford, Connecticut</unittitle>
+                     <unitdate type="inclusive">1978</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_e2da78707e2e6aa3cb1b00fe17f3c006"
+                                type="box">2</container>
+                     <container id="aspace_16b0b8c780369d4d3ec9e42f7adf79bb"
+                                type="folder"
+                                parent="aspace_e2da78707e2e6aa3cb1b00fe17f3c006">12-13</container>
+                  </did>
+               </c>
+               <c id="ref213" level="file">
+                  <did>
+                     <unittitle>West Haven Community House, West Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1979</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_c3bc6eaad222ac1c3b3805e170f58a68"
+                                type="box">2</container>
+                     <container id="aspace_bd21498d6f26e64ac66181d328e74e68"
+                                type="folder"
+                                parent="aspace_c3bc6eaad222ac1c3b3805e170f58a68">14</container>
+                  </did>
+               </c>
+               <c id="ref214" level="file">
+                  <did>
+                     <unittitle>Cohen Memorial Lodge at Camp Sequassen, New Hartford, Connecticut</unittitle>
+                     <unitdate type="inclusive">1980</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_fc390ddd85ad9b19960ba1449d241a5a"
+                                type="box">2</container>
+                     <container id="aspace_7a8af18f22aff28382c083097c4e2d90"
+                                type="folder"
+                                parent="aspace_fc390ddd85ad9b19960ba1449d241a5a">15</container>
+                  </did>
+               </c>
+               <c id="ref215" level="file">
+                  <did>
+                     <unittitle>Hopkins pavilion at the Yale Outdoor Education Center, East Lyme, Connecticut</unittitle>
+                     <unitdate type="inclusive">1981</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_2192fee622b3d700737386fb9d09ca25"
+                                type="box">2</container>
+                     <container id="aspace_81b8e623db5fa8cf81c44e6c1e65ce18"
+                                type="folder"
+                                parent="aspace_2192fee622b3d700737386fb9d09ca25">16</container>
+                  </did>
+               </c>
+               <c id="ref216" level="file">
+                  <did>
+                     <unittitle>Beach pavilion and changing rooms, Madison, Connecticut</unittitle>
+                     <unitdate type="inclusive">1982</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_43dd59a63405417b7c4fb080fce6abbb"
+                                type="box">2</container>
+                     <container id="aspace_7542dbe60bf05394091e71519457c6bf"
+                                type="folder"
+                                parent="aspace_43dd59a63405417b7c4fb080fce6abbb">17</container>
+                  </did>
+               </c>
+               <c id="ref217" level="file">
+                  <did>
+                     <unittitle>Summer concert stage, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1983</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_5a309b3e52ca94555c53a17d9720b09c"
+                                type="box">2</container>
+                     <container id="aspace_f8202f3de7e7f0fb502b87f040ce4f39"
+                                type="folder"
+                                parent="aspace_5a309b3e52ca94555c53a17d9720b09c">18-19</container>
+                  </did>
+               </c>
+               <c id="ref218" level="file">
+                  <did>
+                     <unittitle>Two-family house, 63-65 Hallock Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_9088227d0a9a14911e1f09845cd9526f"
+                                type="box">2</container>
+                     <container id="aspace_9ca541c12261c7caf5ecaa3a87619052"
+                                type="folder"
+                                parent="aspace_9088227d0a9a14911e1f09845cd9526f">20</container>
+                  </did>
+               </c>
+               <c id="ref219" level="file">
+                  <did>
+                     <unittitle>Two-family house, 133 Rosette Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_c4cd3b8c546a6cd5d40ef4b6dd9a92f2"
+                                type="box">2</container>
+                     <container id="aspace_319eb01479050a59464f064267e91f68"
+                                type="folder"
+                                parent="aspace_c4cd3b8c546a6cd5d40ef4b6dd9a92f2">21</container>
+                  </did>
+               </c>
+               <c id="ref220" level="file">
+                  <did>
+                     <unittitle>Two-family house, Blake Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1991</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_d813fbccdf704d5a07dc1a4a511ff03c"
+                                type="box">2</container>
+                     <container id="aspace_a23c2bd9ef7eb79652a9c14fcc3de754"
+                                type="folder"
+                                parent="aspace_d813fbccdf704d5a07dc1a4a511ff03c">22</container>
+                  </did>
+               </c>
+               <c id="ref221" level="file">
+                  <did>
+                     <unittitle>House at 316 Newhall Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1992</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_347ddb1c778f30153229e4a960c60cab"
+                                type="box">2</container>
+                     <container id="aspace_b4fc17bb9bf0978b97075e098b580347"
+                                type="folder"
+                                parent="aspace_347ddb1c778f30153229e4a960c60cab">23</container>
+                  </did>
+               </c>
+               <c id="ref222" level="file">
+                  <did>
+                     <unittitle>House at 348 Newhall Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002075042086)"
+                                altrender="archive legal"
+                                id="aspace_184c0ffe730550709d72ca40cef9c34e"
+                                type="box">2</container>
+                     <container id="aspace_3902fd42441eb9ad4e37e096146f71fe"
+                                type="folder"
+                                parent="aspace_184c0ffe730550709d72ca40cef9c34e">24-25</container>
+                  </did>
+               </c>
+               <c id="ref223" level="file">
+                  <did>
+                     <unittitle>House at 92 Dewitt Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1994</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_b7ddfe6bac77a927ee92ceb3ab84cab9"
+                                type="box">3</container>
+                     <container id="aspace_3ae9426cb5ee5dbc9d65cb425df5773a"
+                                type="folder"
+                                parent="aspace_b7ddfe6bac77a927ee92ceb3ab84cab9">26</container>
+                  </did>
+               </c>
+               <c id="ref224" level="file">
+                  <did>
+                     <unittitle>House at 10 Cassius Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1995</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_39c8dc0ed90f3876fa03de47c4c15cf9"
+                                type="box">3</container>
+                     <container id="aspace_a3ced7af2adf7ead2e8aece81212f1d7"
+                                type="folder"
+                                parent="aspace_39c8dc0ed90f3876fa03de47c4c15cf9">27-29</container>
+                  </did>
+               </c>
+               <c id="ref225" level="file">
+                  <did>
+                     <unittitle>House at 136 Cedar Hill Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1996</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_843dccaab75dd231190d7100209f647e"
+                                type="box">3</container>
+                     <container id="aspace_b86d78d4d384ebb210dfeead1851ac06"
+                                type="folder"
+                                parent="aspace_843dccaab75dd231190d7100209f647e">30</container>
+                  </did>
+               </c>
+               <c id="ref226" level="file">
+                  <did>
+                     <unittitle>House at 50 Derby Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1997</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_84231bbcb8e9848f70b92f3ba2b5df0f"
+                                type="box">3</container>
+                     <container id="aspace_e2ccab56f908be3e36a3ce9cbe29bcc0"
+                                type="folder"
+                                parent="aspace_84231bbcb8e9848f70b92f3ba2b5df0f">31</container>
+                  </did>
+               </c>
+               <c id="ref227" level="file">
+                  <did>
+                     <unittitle>House at 96 Sherman Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1998</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_c0888b39080bac85314ed8732b13a49d"
+                                type="box">3</container>
+                     <container id="aspace_b4c078b70ac08fc2279135e2a4975a09"
+                                type="folder"
+                                parent="aspace_c0888b39080bac85314ed8732b13a49d">32</container>
+                  </did>
+               </c>
+               <c id="ref228" level="file">
+                  <did>
+                     <unittitle>House at 212 Withrop Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1999</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_942a4523838769a7151fa7c3c2bf532b"
+                                type="box">3</container>
+                     <container id="aspace_c1fd6588e66f5bbbd3ee3d6ffcafd042"
+                                type="folder"
+                                parent="aspace_942a4523838769a7151fa7c3c2bf532b">33</container>
+                  </did>
+               </c>
+               <c id="ref229" level="file">
+                  <did>
+                     <unittitle>House at 23 West Read Street, New Havent, Connecticut</unittitle>
+                     <unitdate type="inclusive">2000</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_60496a6d89e5e75eb0d47a35d9b55722"
+                                type="box">3</container>
+                     <container id="aspace_ceadbe03abe4ed3a703cf4d952c3863f"
+                                type="folder"
+                                parent="aspace_60496a6d89e5e75eb0d47a35d9b55722">34</container>
+                  </did>
+               </c>
+               <c id="ref230" level="file">
+                  <did>
+                     <unittitle>House at 33 Fifth Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">2001</unitdate>
+                     <container label="Mixed Materials (39002075042094)"
+                                altrender="archive legal"
+                                id="aspace_26487de2f2e8d1627b17d61a6976a0a9"
+                                type="box">3</container>
+                     <container id="aspace_30bd22564400f25f090189248e35fda0"
+                                type="folder"
+                                parent="aspace_26487de2f2e8d1627b17d61a6976a0a9">35</container>
+                  </did>
+               </c>
+               <c id="ref239" level="file">
+                  <did>
+                     <unittitle>The Barn: A Film, videorecording</unittitle>
+                     <physdesc>
+                        <extent unit="Audio Disc (CD)">1</extent>
+                     </physdesc>
+                     <unitdate type="inclusive">1988</unitdate>
+                     <container label="Mixed Materials (39002075070012)"
+                                altrender="CD case"
+                                id="aspace_cdb94901e23e10e2ea330de0e1a96e16"
+                                type="box">8</container>
+                  </did>
+               </c>
+               <c id="ref240" level="file">
+                  <did>
+                     <unittitle>Building Project 2002 Contruction, videorecording</unittitle>
+                     <physdesc>
+                        <extent unit="Audio Disc (CD)">1</extent>
+                     </physdesc>
+                     <unitdate type="inclusive">2002</unitdate>
+                     <container label="Mixed Materials (39002075070020)"
+                                altrender="CD case"
+                                id="aspace_1a8d1a542bcb24d2de1c5c36564eec40"
+                                type="box">9</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref193" level="file">
+               <did>
+                  <unittitle>Architectural drawings</unittitle>
+               </did>
+               <c id="ref194" level="file">
+                  <did>
+                     <unittitle>Camp Laurelwood Shelter, Madison, Connecticut</unittitle>
+                     <unitdate type="inclusive">1977</unitdate>
+                     <container label="Mixed Materials (39002075042102)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_d21a1b80003ad4560287414b61bcda2b"
+                                type="box">4</container>
+                  </did>
+               </c>
+               <c id="ref195" level="file">
+                  <did>
+                     <unittitle>West Haven Community House, West Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1979</unitdate>
+                     <container label="Mixed Materials (39002075042102)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_70cf5d6fa81f846aa802af9275f0cdbb"
+                                type="box">4</container>
+                  </did>
+               </c>
+               <c id="ref196" level="file">
+                  <did>
+                     <unittitle>Summer Concert Stage, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1983</unitdate>
+                     <container label="Mixed Materials (39002075042102)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_67d44423748733bfa6b1b1cf21e535e4"
+                                type="box">4</container>
+                  </did>
+               </c>
+               <c id="ref197" level="file">
+                  <did>
+                     <unittitle>Picnic Pavilion in Lighthouse Point Park, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1984</unitdate>
+                     <container label="Mixed Materials (39002075042110)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_aafacf6d0bda63f612e58a7dc2b7fc91"
+                                type="box">5</container>
+                  </did>
+               </c>
+               <c id="ref198" level="file">
+                  <did>
+                     <unittitle>Seaside Park Bandshell, Bridgeport, Connecticut</unittitle>
+                     <unitdate type="inclusive">1987</unitdate>
+                  </did>
+               </c>
+               <c id="ref199" level="file">
+                  <did>
+                     <unittitle>Meeting Hall, Smith-Harris Farm, Village of Niantic, Connecticut</unittitle>
+                     <unitdate type="inclusive">1988</unitdate>
+                     <container label="Mixed Materials (39002075042110)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_b5b68018225bf8f8afd1701f2a8b7d88"
+                                type="box">5</container>
+                  </did>
+               </c>
+               <c id="ref200" level="file">
+                  <did>
+                     <unittitle>Two-family house, 63-65 Hallock Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002075042128)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_4bd23d3065cdf10a246f36549629a395"
+                                type="box">6</container>
+                  </did>
+               </c>
+               <c id="ref201" level="file">
+                  <did>
+                     <unittitle>Two-family house, 133 Rosette Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                  </did>
+               </c>
+               <c id="ref202" level="file">
+                  <did>
+                     <unittitle>Two-family house, Blake Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1991</unitdate>
+                     <container label="Mixed Materials (39002075042128)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_f9459ab362ba1d650ed8f9e38c8eb545"
+                                type="box">6</container>
+                  </did>
+               </c>
+               <c id="ref203" level="file">
+                  <did>
+                     <unittitle>House at 136 Cedar Hill Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1996</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_3c3f7d130e15c07fe3dd7700eb75b40d"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref204" level="file">
+                  <did>
+                     <unittitle>House at 50 Derby Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1997</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_74bfda23a1d48cc4ace8b3526eb06113"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref205" level="file">
+                  <did>
+                     <unittitle>House at 96 Sherman Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1998</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_6cebb0c848cf9f6b3cb15900c1e6e3a5"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref206" level="file">
+                  <did>
+                     <unittitle>House at 212 Withrop Avenue, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">1999</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_6ff2fe57257314cb4ac4f3877d6ebd31"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref236" level="file">
+                  <did>
+                     <unittitle>House at 23 West Read Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">2000</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_312ee8c35d5f4a77b578f37d03a8576a"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref237" level="file">
+                  <did>
+                     <unittitle>House at 33 Fifth Street, New Haven, Connecticut</unittitle>
+                     <unitdate type="inclusive">2001</unitdate>
+                     <container label="Mixed Materials (39002075042136)"
+                                altrender="tube square (30d 4h 4w)"
+                                id="aspace_01d699ce8dad42e705a56990de0214be"
+                                type="box">7</container>
+                  </did>
+               </c>
+               <c id="ref241" level="file">
+                  <did>
+                     <unittitle>2003 Building Project Digital Archive</unittitle>
+                     <physdesc>
+                        <extent unit="Computer Files">144</extent>
+                     </physdesc>
+                     <physdesc altrender="container_summary">(121 DWG, 4 DOC, 2 TIF, 17 other)</physdesc>
+                     <unitdate type="inclusive">2002</unitdate>
+                  </did>
+               </c>
+               <c id="ref242" level="file">
+                  <did>
+                     <unittitle>2004 Building Project  Digital Archive</unittitle>
+                     <physdesc>
+                        <extent unit="Computer Files">8999</extent>
+                     </physdesc>
+                     <physdesc altrender="container_summary">(6149 JPG, 830 DWG, 479 TXT, 249 PDF, 174 GIF, 111 TIF, 41 DOC, 966 other files)</physdesc>
+                     <unitdate type="inclusive">2003-2004</unitdate>
+                  </did>
+               </c>
+               <c id="ref243" level="file">
+                  <did>
+                     <unittitle>2006 Building Project Digital Archive</unittitle>
+                     <unitdate type="inclusive">2005-2006</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_307958578b51ef8da8bb75818c355568" level="file">
+               <did>
+                  <unittitle>Computer files</unittitle>
+                  <container type="box" id="d2e22">8–18</container>
+               </did>
+               <accessrestrict id="aspace_cfa47382671589b2c02b7328d418704a">
+                  <head>Conditions Governing Access</head>
+                  <p>Original born digital files, as well as preservation masters, may not be accessed due to their fragility. Researchers must consult use copies, or if none exist request that they be made. Born digital files cannot be accessed remotely. System requirements include a Manuscripts and Archives computer and file viewing software.</p>
+               </accessrestrict>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

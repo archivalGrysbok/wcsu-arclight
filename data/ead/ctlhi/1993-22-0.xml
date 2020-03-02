@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.litchfieldhistoricalsociety.org/archon/packages/collections/lib/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+	<eadid mainagencycode="CtLHi" countrycode="us" url="http://www.litchfieldhistoricalsociety.org/archon/index.php?p=collections/controlcard&amp;id=94">1993-22-0</eadid>
+
+	<filedesc>
+    <titlestmt>
+		<titleproper>Donahue&#039;s Clothing Store Records</titleproper>
+		<subtitle>An Inventory of Holdings at the Litchfield Historical Society</subtitle>
+		<author encodinganalog="245$c">Collection Description/Finding Aid prepared by Leith Johnson.</author>
+	</titlestmt>
+<publicationstmt>
+    <p>&#x00A9; Copyright 2009 Litchfield Historical Society.  All rights reserved.</p>
+	<publisher>Litchfield Historical Society</publisher>
+	<date type="publication" normal="20091104">11/04/2009</date>
+	<address>
+		<addressline>7 South Street, P.O. Box 385</addressline>
+		<addressline>Litchfield, CT, 6759</addressline>
+		<addressline>URL: http://www.litchfieldhistoricalsociety.org/archon</addressline>
+		<addressline>Email: archivist@litchfieldhistoricalsociety.org</addressline>
+		<addressline>Phone: 860-567-4501</addressline>
+		<addressline>Fax: 860-567-3565</addressline>
+	</address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>This finding aid was encoding in EAD by Archon 2.22 from an SQL database source on <date type="encoded" normal="05192010">May 19th, 2010</date>.</creation>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Litchfield Historical Society</corpname>
+	<address>
+		<addressline>7 South Street, P.O. Box 385</addressline>
+		<addressline>Litchfield, CT, 6759</addressline>
+		<addressline>URL: http://www.litchfieldhistoricalsociety.org/archon</addressline>
+		<addressline>Email: archivist@litchfieldhistoricalsociety.org</addressline>
+		<addressline>Phone: 860-567-4501</addressline>
+		<addressline>Fax: 860-567-3565</addressline>
+	</address>
+
+	</repository>
+
+	<origination label="Creator:">
+
+		<persname encodinganalog="100" source="lcnaf">Donahue, Martin J.</persname>
+	</origination>
+	<unittitle label="Title:" encodinganalog="245$a">Donahue&#039;s Clothing Store Records</unittitle>
+	<unitdate label="Dates:" encodinganalog="245$f" type="inclusive">1922-1937</unitdate>
+	<physdesc label="Quantity:" encodinganalog="300$a"><extent unit="Boxes">1.00</extent></physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">On April 8, 1922, Martin J. Donahue opened a clothing and shoe store called Donahue&#039;s in L. R. Denegar&#039;s former location in the Beach block on West St. In March, 1936, he became postmaster of Litchfield. He died in 1946.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" repositorycode="CtLHi">1993-22-0</unitid>
+
+	<langmaterial encodinganalog="546" label="Language of Materials">
+	  The papers are in:
+<language langcode="eng">English</language>
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<scopecontent encodinganalog="520">
+	<head>Scope and Contents</head>
+	<p>On April 8, 1922, Martin J. Donahue opened a clothing and shoe store called Donahue&#039;s in L. R. Denegar&#039;s former location in the Beach block on West St. In March, 1936, he became postmaster of Litchfield. He died in 1946.</p>
+	<p>The records consist of customer account cards, 1922-1937.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b">
+	<head>Arrangement of Materials</head>
+	<p>The records are, for the most part, in alphabetical order.</p>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: These are all repeatable  THESE SHOULD BE PUT INTO APPROPRIATE TAGS AS PER BELOW AND MARC INSTRUCTONS -->
+
+<controlaccess>
+<head>Index Terms</head>
+
+<p>This Collection is indexed under the following controlled access subject terms.</p>
+	<controlaccess>
+		<head>Corporate Name:</head>
+			<corpname encodinganalog="610" source="local">Donahue&#039;s</corpname>
+	</controlaccess>
+	<controlaccess>
+		<head>Genre/Form of Material:</head>
+			<genreform encodinganalog="655" source="aat">Business records</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+	</controlaccess>
+	<controlaccess>
+		<head>Geographic Name:</head>
+			<geogname encodinganalog="651" source="lcsh">Litchfield (Conn.)</geogname>
+	</controlaccess>
+	<controlaccess>
+		<head>Topical Term:</head>
+			<subject encodinganalog="650" source="lcsh">Merchants</subject>
+	</controlaccess>
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict encodinganalog="506">
+	<head>Conditions Governing Access</head>
+	<p>The collection is open for research.</p>
+</accessrestrict>
+<prefercite encodinganalog="510">
+	<head>Preferred Citation</head>
+	<p>Donahue&#039;s Clothing Store Records (1993-22-0), Litchfield Historical Society, Helga J. Ingraham Memorial Library, P.O. Box 385, 7 South Street, Litchfield, Connecticut, 06759</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+	<head>Acquisition Information</head>
+	<p>The materials were acquired by Litchfield Historical Society from Michael J. Negrelli on 08/21/1993.</p>
+</acqinfo>
+<odd encodinganalog="500">
+	<head>Other Information</head>
+	<p>This collection was processed with support from the National Historical Publications and Records Commission (NHPRC).</p>
+</odd>
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS -->
+</archdesc>
+</ead>

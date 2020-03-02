@@ -1,0 +1,68 @@
+BODY	{ background: #FFFFFF; margin-left: 3%; margin-right: 3%; font-family: verdana} 
+
+a      { color: 111111; border: none}
+a:link { border: none}
+a:hover {text-decoration: blink; background-color: #C5C69B; }
+blockquote   { margin-top: 0;  margin-bottom:1 }
+
+P      { font-family: verdana;   font-size: 10pt; text-align: left; line-height: 115% } 
+
+P.seriesscope     { font-family: verdana;   text-align: justify; line-height: 115%; margin-left: 5%; margin-right: 5%} 
+
+P.subseriesscope     { font-family: verdana;   text-align: justify; line-height: 115%;margin-left: 5%; margin-right: 5% } 
+
+P.seriesabstract     { font-family: verdana;   text-align: justify; line-height: 115%;margin-left: 5%; margin-right: 5% } 
+
+P.subseriesabstract     { font-family: verdana;   text-align: justify; line-height: 115%;margin-left: 5%; margin-right: 5% } 
+
+P.noindent { text-indent: 0; line-height: 115%; text-align: justify}
+
+p.H1	   { font-family: verdana; text-align: left; font-size: 12pt; color: 000000;}
+
+p.H2	   { font-family: verdana; text-align: left; font-size: 11pt; color: 000000;}
+
+p.H3	   { font-family: verdana; text-align: left; font-size: 10pt; color: 000000}
+
+P.h3subseries   { text-indent: 1em; font-family: verdana; text-align: left; font-size: 9pt; color: 000000}
+P.h4subseries	   { text-indent: 3em; font-family: verdana; text-align: left; font-size: 9pt; color: 000000}
+P.h5subseries	   { text-indent: 5em; font-family: verdana; text-align: left; font-size: 9pt; color: 000000}
+P.h6subseries	   { text-indent: 7em; font-family: verdana; text-align: left; font-size: 9pt; color: 000000}
+P.h7subseries	   { text-indent: 9em; font-family: verdana; text-align: left; font-size: 8pt; color: 000000}
+P.h8subseries	   { text-indent: 11em; font-family: verdana; text-align: left; font-size: 8pt; color: 000000}
+P.h9subseries	   { text-indent: 13em; font-family: verdana; text-align: left; font-size: 8pt; color: 000000}
+
+tr.c02 {margin-left:10%}
+tr.c03 {margin-left:12%}
+
+li	   {list-style-type: none; color: 000000; line-height: 140%}
+
+H1	   { text-align: left; font-size: 18pt; color: 000000}
+
+H2	   { font-family: verdana; text-align: left; font-size: 14pt; color: 000000}
+
+H3	   { font-family: verdana; text-align: left; font-size: 11pt; color: 000000}
+
+H3.subseries	   { font-family: verdana; text-indent: 0; text-align: left; font-size: 10pt; color: #000000}
+
+h4   {text-align: left}
+
+H5	   { text-align: left }
+
+H6   {text-align: left }
+
+tr  {text-align:left}
+
+td  {text-align:left; font-size: 10pt}
+
+  @media print {
+    .toc { display:none }
+  }
+  @media print {
+    .body { line-height: 1 }
+  }
+  @media print {
+    .body { font-size: 10pt }
+}
+
+
+

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG021_007.html" countrycode="us">RG021_007</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 021:007, Fairfield Hills Hospital</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">November 06, 2009</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2009</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>November 06, 2009</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Fairfield Hills Hospital (Newtown, Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Fairfield Hills Hospital records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1933/1995">1933-1995</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">23.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Fairfield Hills Hospital operated from 1933 to 1995. Includes admission and discharge registers, personnel records, and medical staff records.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG021_007</unitid>
+	<unitid label="Accession: ">Multiple</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Fairfield State Hospital in Newtown, Conn. admitted its first patients on June 1, 1933. The hospital was administratively transferred to the new Dept. of Mental Health on Oct. 1, 1953. In 1963 the name was changed to Fairfield Hills Hospital. The hospital closed on December 8, 1995 and patients were transferred to Connecticut Valley Hospital in Middletown. </p>
+	<p>See also the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/ld.php?content_id=11021917" show="replace" actuate="onrequest" title="Fairfield Hills Hospital Agency History"/>.</p>
+</bioghist>
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p><emph render="bold">Series 1. Patients, 1933-1995,</emph> includes admission and discharge registers for Fairfield Hills Hospital, as well as for the Berkshire Woods Treatment Center, 1987-1995, which treated substance abuse. <emph render="bold">The Connecticut State Library does not hold any patient files
+from Fairfield Hills Hospital. </emph> <emph render="bold">Series 2. Personnel, 1934-1943, </emph> contains personnel records of separating employees. <emph render="bold">Series 3. Medical Staff Records, 1937-1974</emph> includes a record of births, 1951-1975; deportation requests, 1954-1956; autopsies, 1937-1953, and medical examiner cases, 1937-1974.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+<p>
+Arranged into three series: Patients, 1933-1995; Personnel, 1934-1943; and Medical Staff Records, 1937-1974.
+</p>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" role="subject" source="lcnaf">Fairfield Hills Hospital (Newtown, Conn.)</corpname>
+			<corpname encodinganalog="710" role="subject" source="lcnaf">Fairfield State Hospital (Newtown, Conn.)</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Mental health facilities -- Connecticut</subject>
+			<subject encodinganalog="650" source="lcsh">Psychiatric hospitals -- Connecticut</subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Medical records</genreform>
+			<genreform encodinganalog="655" source="aat">Personnel records</genreform>
+			<genreform encodinganalog="655" source="aat">Photographs</genreform>
+	</controlaccess>
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>
+<emph render="bold">New Exemption:</emph> Public Act 11-242, section 37 amends subsection (b) (10) of Conn. Gen. Stat. sec. 1-210 and adds to the exemptions of the Freedom of Information Act any records created as a result of a doctor-patient or a therapist-patient relationship. This closure applies to all records listed below as <emph render="bold">Restricted</emph>.
+</p>
+<p>
+<emph render="bold">Patients:</emph> Files continue to be made available to patients themselves upon reliable proof of identification which may be a current copy of a Connecticut driver's license with a photograph or current credit card with the patient's name on it. 
+</p>
+<p>
+<emph render="bold">Families:</emph> Section 52-146c of the Connecticut General Statutes allows "next of kin" the right to view records of a deceased patient who was also a relative.
+</p>
+<p>
+Relatives of deceased patients should contact Assistant State Archivist Allen Ramsey by email at allen.ramsey@ct.gov or send a letter with the following information:
+</p>
+<p>
+- Full name of the patient.<lb/>
+- Approximate years patient was treated at the hospital.<lb/>
+- Name, e-mail, and telephone of the requestor.<lb/>
+</p>
+<p>
+The State Archives will search for the folder and will report the results of the search to the requestor. If a file is found and the requestor wants to view or receive copies of the file, the following information must first be presented to the State Archivist:
+</p>
+<p>
+- Proof of identity through a copy of a current Connecticut driver's license with a photograph or a copy of a current credit card with the requestor's name on it.<lb/>
+- Proof that the patient is deceased through a copy of a death certificate or obituary.<lb/>
+- Proof that the requestor is a "next of kin" to the deceased patient through a copy of a birth certificate, obituary with the name of the requestor mentioned as a survivor, or a signed and dated notarized statement of relationship to the patient.
+<lb/>
+</p>
+<p>
+<emph render="bold">Other Parties:</emph> According to the new exemption, medical records are closed to other parties.
+</p>
+<p>
+<emph render="bold">Record Series Listed Below:</emph> Records listed below labeled as non-restricted or unrestricted are open to all researchers who have read the rules of use and signed the registration forms. Since these records are stored off site, they may not be available on the same day.
+</p>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="http://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 1. Patients</unittitle>
+	<unitdate datechar="creation" normal="1933/1995">1933-1995</unitdate>
+ </did>	
+	<accessrestrict><p><emph render="bold">RESTRICTED</emph></p></accessrestrict>
+	<scopecontent><p><emph render="bold">The Connecticut State Library does not hold any patient files
+from Fairfield Hills Hospital.</emph></p></scopecontent>
+<c02 level="file">
+ <did>
+	<unittitle>Admissions and discharges</unittitle>
+	<unitdate datechar="creation">1933-1995</unitdate>
+	<physdesc><extent>27 volumes</extent></physdesc>
+ </did>	
+
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1996-021</unitid>
+	<physdesc><extent>19 volumes</extent></physdesc>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 1</container>
+	<unitdate datechar="creation">1933 June-1941 June</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 2</container>
+	<unitdate datechar="creation">1941 June-1945 October</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 3</container>
+	<unitdate datechar="creation">1944 November-1947 July</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 4</container>
+	<unitdate datechar="creation">1947 August-1949 October</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 5</container>
+	<unitdate datechar="creation">1949 November-1951 August</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 6</container>
+	<unitdate datechar="creation">1951 September-1953 March</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 7</container>
+	<unitdate datechar="creation">1953 April-1956 March</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 8</container>
+	<unitdate datechar="creation">1956 March-1959 May</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 9</container>
+	<unitdate datechar="creation">1959 June-1961 July</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 10</container>
+	<unitdate datechar="creation">1961 July-1963 May</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 11</container>
+	<unitdate datechar="creation">1963 June-1965 January</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 12</container>
+	<unitdate datechar="creation">1965 January-1966 August</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 13</container>
+	<unitdate datechar="creation">1966 September-1968 February</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 14</container>
+	<unitdate datechar="creation">1968 March-1969 August</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 15</container>
+	<unitdate datechar="creation">1969 September-1970 November</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 16</container>
+	<unitdate datechar="creation">1970 December-1972 January</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 17</container>
+	<unitdate datechar="creation">1972 Febuary-1973 April</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 18</container>
+	<unitdate datechar="creation">1973 May-1974 September</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Volume 19</container>
+	<unitdate datechar="creation">1974 October-1976 March</unitdate> 
+ </did>	
+</c04>
+</c03>
+<c03 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">2010-011</unitid>
+	<physdesc><extent>8 volumes</extent></physdesc>
+ </did>	
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 1</container>
+	<unittitle>Volume 20</unittitle>
+	<unitdate datechar="creation">1976 April - 1977 August</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 2</container>
+	<unittitle>Volume 21</unittitle>
+	<unitdate datechar="creation">1977 September - 1979 February</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 3</container>
+	<unittitle>Volume 22</unittitle>
+	<unitdate datechar="creation">1979 March - 1980 August</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 4</container>
+	<unittitle>Volume 23</unittitle>
+	<unitdate datechar="creation">1980 August - 1982 February</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 5</container>
+	<unittitle>Volume 24</unittitle>
+	<unitdate datechar="creation">1982 March - 1983 December</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 6</container>
+	<unittitle>Volume 25</unittitle>
+	<unitdate datechar="creation">1983 December - 1986 January</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 7</container>
+	<unittitle>Volume 26</unittitle>
+	<unitdate datechar="creation">1986 February - 1989 November</unitdate> 
+ </did>	
+</c04>
+<c04 level="item">
+ <did>
+	<container type="Volume">Item 8</container>
+	<unittitle>Volume 27</unittitle>
+	<unitdate datechar="creation">1989 December - 1995 October</unitdate> 
+ </did>	
+</c04>
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Berkshire Woods Treatment Center admissions and discharges</unittitle>
+	<unitdate datechar="creation">1987-1995</unitdate>
+	<physdesc><extent>7 volumes</extent></physdesc>
+	<unitid label="Accession: ">2010-011</unitid>
+ </did>	
+	<scopecontent><p>Volumes covering 1988 July - 1989 June and 1991 July - 1992 June were not transferred to the State Archives.</p></scopecontent>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 9</container>
+	<unitdate datechar="creation">1987 July - 1988 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 10</container>
+	<unitdate datechar="creation">1989 July - 1990 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 11</container>
+	<unitdate datechar="creation">1990 July - 1991 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 12</container>
+	<unitdate datechar="creation">1992 July - 1993 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 13</container>
+	<unitdate datechar="creation">1993 July - 1994 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 14</container>
+	<unitdate datechar="creation">1994 July - 1995 June</unitdate> 
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Volume">Item 15</container>
+	<unittitle>Blank volume</unittitle>
+ </did>	
+</c03>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 2. Personnel</unittitle>
+	<unitdate datechar="creation" normal="1934/1943">1934-1943</unitdate>
+ </did>	
+	<accessrestrict><p><emph render="bold">RESTRICTED</emph></p></accessrestrict>
+
+<c02 level="file">
+ <did>
+	<unittitle>Personnel records of separating employees'</unittitle>
+	<unitdate datechar="creation">1934-1943</unitdate>
+ </did>
+<thead>
+ <row>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c03 level="file">
+ <did>
+	<unitid label="Accession: ">1996-021</unitid>
+	<physdesc><extent>9 cubic feet</extent></physdesc>
+ </did>	
+
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unitdate datechar="creation">1934-1939</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unitdate datechar="creation">1940</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3-5</container>
+	<unitdate datechar="creation">1941</unitdate>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">6-9</container>
+	<unitdate datechar="creation">1942</unitdate>
+ </did>	
+</c04>
+</c03>
+<c03 level="file">
+ <did>
+	<unitid label="Accession: ">1999-174</unitid>
+	<physdesc><extent>3 cubic feet</extent></physdesc>
+ </did>	
+<c04 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>ABE-HUT</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>HOR-QUI</unittitle>
+ </did>	
+</c04>
+<c04 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>RAN-USH</unittitle>
+ </did>	
+</c04>
+</c03>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Series 3. Medical Staff Records</unittitle>
+	<unitdate datechar="creation" normal="1937/1974">1937-1974</unitdate>
+ </did>	
+	<accessrestrict><p><emph render="bold">RESTRICTED</emph></p></accessrestrict>
+<c02 level="otherlevel" otherlevel="accession">
+ <did>
+	<unitid label="Accession: ">1996-021</unitid>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Births and deportation requests</unittitle>
+	<unitdate datechar="creation">1951-1975</unitdate>
+	<physdesc><extent>1 notebook</extent></physdesc>
+ </did>	
+	<scopecontent><p>Contents: Births, 1951-1975; Deportation requests, 1954-1956.</p></scopecontent>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Autopsies and Medical Examiner cases</unittitle>
+	<unitdate datechar="creation">1937-1953</unitdate>
+	<physdesc><extent>1 notebook</extent></physdesc>
+ </did>	
+	<scopecontent><p>Contents: Autopsies, 1937-1953; Medical Examiner cases, 1937 April 23 - 1946 August 31. Lists of names and dates only. There are no details regarding these cases.</p></scopecontent>
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Medical Examiner cases</unittitle>
+	<unitdate datechar="creation">1946 September 1 - 1974 October 28</unitdate>
+	<physdesc><extent>1 notebook</extent></physdesc>
+ </did>	
+	<scopecontent><p>Lists of names and dates only. There are no details regarding these cases.</p></scopecontent>
+</c03>
+
+</c02>
+
+</c01>
+
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

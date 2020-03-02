@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.ferris">beinecke.ferris</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Dwight and Ferris Family Papers
+ </titleproper>
+            <titleproper type="filing">Dwight and Ferris Family Papers</titleproper>
+            <author>by Ellen Doon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>January 2000</date>
+            <num>GEN MSS 468</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday March 27, 2019 at 03:05</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Dwight and Ferris family papers</unittitle>
+         <unitid>GEN MSS 468</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">3.18</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(5 boxes) + 1 portfolio</physdesc>
+         
+            <unitdate type="inclusive" normal="1711/1951">1711-1951</unitdate>
+         
+         <abstract id="aspace_d9212928dd33efd2a5b64900d299a4ea">The papers span the dates 1711-1951, and the bulk of material concerns three individuals: Timothy Dwight (1694-1771), Theodore Dwight (1796-1866), and Eleanor Augusta Ferris. The papers of Timothy Dwight document events of Dummer's War and the management of Fort Dummer in 1724-25, as well as his later work as a surveyor and Judge during the period of dispute over boundaries and administration of the New Hampshire Grants. The papers of Theodore Dwight include a diary or notebook containing manuscript drafts of his writings as well as accounts of some of his travels, a manuscript of a lesson book for young school children with instructions for teachers, one letter from Garibaldi, and personal documents and manuscripts. The papers of Eleanor Augusta Ferris consist chiefly of correspondence from Ada Galsworthy, but also include letters from contributors to "The Villager" and from family members. The collection also contains other papers of the Dwight and Ferris families, including letters, documents, and genealogies of the Dwight Family, a few papers of Theodore Dwight (1764-1846), and photographs of the Ferris family from about the 1870s to the 1940s.</abstract>
+         <origination label="creator">
+            <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh2009007773"
+                     source="lcsh">
+               Dwight family
+            </famname>
+         </origination>
+         <origination label="creator">
+            <persname rules="aacr" source="local">
+               Drake, Joseph Rodman, 1795-1820 ( Culprit fay)
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_c35a8d88bb36ff59a037aa9c1b578d25">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Eleanor Augusta Ferris, Mary Dwight Ferris, and Isabel Stuart Ferris, 1929-1962.</p>  
+      </acqinfo>
+      <userestrict id="aspace_a43aacca107506779e92d5b602ccbac5">
+         <head>Conditions Governing Use</head>
+         <p>The Dwight and Ferris Family Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_c0912b9efdfa2858c8535e3989f11ce6">
+         <head>Preferred Citation</head>
+         <p>Dwight and Ferris Family Papers. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_123d19267919a687886a60a4008deb8b">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>Restricted fragile material in Port 105. Reference surrogates have been substituted in the main files. For further information consult the appropriate curator.</p>  
+      </accessrestrict>
+      <relatedmaterial id="aspace_85cb1078bf4594992e2616754ae324de">
+         <head>Associated Materials</head>
+         <p>Related material can be found in the <title type="simple" render="italic">
+               Dwight Family Papers, 1713-1937
+            </title>, located in Manuscripts and Archives, Yale University Library, and in the <title type="simple" render="italic">
+               Dwight Family Papers, 1789-1966
+            </title> at the New York Public Library. It is possible that other related material may be found at the New-York Historical Society.</p>  
+      </relatedmaterial>
+      <bioghist id="aspace_5f924109844b278fab8bcb2147aa4065">
+         <head>DWIGHT FAMILY</head>
+         <p>The following chart shows the direct line of descent from the first Dwight to settle in America to the Ferris sisters, who donated these papers to the library. For more detailed genealogical information, see the <ref xlink:actuate="onRequest"
+                 xlink:show="replace"
+                 target="aspace_8aeeb07fd85375b6eec76287bba7e6ed">Appendix</ref>, the Dwight Family chart in Box 5, Folder 101, and the summary in Box 4, Folder 95. Names of family members particularly well represented in this collection are in italics.</p>
+         <p>John Dwight m. Hannah (they arrived from England ca. 1635)<lb/> --Timothy Dwight (1629-1717) m. Anna Flint (3rd of six wives)<lb/> ----Nathaniel Dwight (1666-1711) m. (1693) Mehitable Partridge<lb/> ------<title type="simple" render="italic">
+               Timothy Dwight (1694-1771)
+            </title> m. (1716) Experience King<lb/> --------Timothy Dwight (1726-1777) m. Mary Edwards (1734-1807)<lb/> ----------Theodore Dwight (1764-1836) m. (1792) Abigail Alsop<lb/> ------------<title type="simple" render="italic">
+               Theodore Dwight (1796-1866)
+            </title> m. (1827) Ellen Boyd<lb/> ---------------Augusta Moore Dwight m. Sherwood Bissell Ferris<lb/> ------------------<title type="simple" render="italic">
+               Eleanor Augusta Ferris
+            </title> (b. 1872)<lb/> ------------------Mary Dwight Ferris<lb/> ------------------Isabel Stuart Ferris<lb/> ------------------Anna Edwards Ferris m. (ca. 1900) Charles Ingalls Marvin</p>  
+      </bioghist>
+      <bioghist id="aspace_7d94cf830947a4cc30301adc0e133e6d">
+         <head>BIOGRAPHICAL NOTES</head>
+         <p>Timothy Dwight (1694-1771) was the son of Nathaniel Dwight (1666-1711) of Northampton, Massachusetts. As an officer in the Massachusetts Militia, he built and commanded Fort Dummer during the Indian conflict known as Dummer's War, circa 1723-26. He rose in rank from Lieutenant in 1724 to Colonel by the 1740s, by which time he had moved from Fort Dummer back to Northampton, and become a lawyer and surveyor. In the 1750s he served as Judge of Probate for Hampshire County, Massachusetts.</p>
+         <p>His only son, Timothy Dwight (1726-1777), was born at Fort Dummer. Like his father, the younger Timothy Dwight served in the Massachusetts Militia. He married Mary Edwards, daughter of the theologian Jonathan Edwards, and lived in Northampton for most of his life. He remained loyal to the Crown during the American Revolution and died in Natchez, Mississippi.</p>
+         <p>Theodore Dwight, Sr. (1764-1846), son of Timothy Dwight (1726-1834) and brother of Yale President Timothy Dwight (1752-1817), was born in Northampton but lived for most of his adult life in Hartford, Connecticut, and New York City. He was a lawyer, newspaper editor, member of the Connecticut State Council, and a member of Congress in 1806-07. He served as Secretary of the Hartford Convention in 1814, and wrote a history of that event.</p>
+         <p>His son, Theodore Dwight, Jr. (1796-1866), born in Hartford, was an author and educator. He graduated from Yale College in 1814, and studied theology with his uncle, Yale President Timothy Dwight (1752-1817), but never became a minister. On his first trip to Italy in 1820, he established a lasting friendship with the revolutionary Giuseppe Garibaldi, whose autobiography he translated for publication in 1859. After marrying Ellen Boyd in 1827, he settled in Brooklyn, New York, where he worked for his father as an editorial assistant, and wrote many books and articles on education, travel, history, linguistics, and ethnography. He was involved in several scholarly and philanthropic societies, and was an active promoter of the settlement of Kansas as a Free State in the 1850s. (For a more detailed biography, see Box 4, Folder 85.)</p>
+         <p>Eleanor Augusta Ferris (b. 1872) was Theodore Dwight, Jr.'s granddaughter. She edited a periodical called "The Villager," begun in 1929 and published by the Bronxville Women's Club, of Bronxville, New York, where she lived with her sisters Mary and Isabel. Her own short stories also appeared in "The Villager." Among her many literary friends were John and Ada Galsworthy, whom she met circa 1920; she maintained a correspondence with Ada Galsworthy throughout the rest of her life.</p>  
+      </bioghist>
+      <scopecontent id="aspace_58bdfbd36c13297e5c61b7053531adbd">
+         <head>Scope and Contents</head>
+         <p>The Dwight and Ferris family papers span the years 1711 to 1951, and the bulk of the material concerns three individuals: Timothy Dwight (1694-1771), Theodore Dwight, Jr. (1796-1866), and Eleanor Augusta Ferris. The collection is organized into five series: <title type="simple" render="italic">
+               Papers of Timothy Dwight (1694-1771)
+            </title>, <title type="simple" render="italic">
+               Papers of Theodore Dwight (1796-1866)
+            </title>, <title type="simple" render="italic">
+               Other Dwight Family Papers
+            </title>, <title type="simple" render="italic">
+               Papers of Eleanor Augusta Ferris
+            </title>, and <title type="simple" render="italic">
+               Other Ferris Family Papers
+            </title>.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref13">Series I, <title type="simple" render="italic">
+                  Papers of Timothy Dwight (1694-1771)
+               </title> 
+            </ref> is organized into two subseries: Fort Dummer Papers and Other Papers. It consists chiefly of correspondence and papers documenting Dwight's command of Fort Dummer in 1724-25, but also includes correspondence from 1731-63 that documents his work as a surveyor and a judge. Most of the papers in this series were, at the time of acquisition, glued into a book inscribed "Fort Dummer Papers from Theodore Dwight's Collection, 62 Harris St., Brooklyn." They have been removed and foldered individually, both for their protection and to facilitate logical arrangement. In order to maintain the integrity of that collection, all of the papers from the book are included in this series, including one letter which may be to Timothy Dwight (1726-1777). The numbers on the papers, usually in the upper left hand corner, refer to their arrangement in the book (there were no numbers 6 or 12 at the time of acquisition). The boards of the book can be found in Series II, <title type="simple" render="italic">
+               Papers of Theodore Dwight (1796-1866)
+            </title>.</p>
+         <p>Fort Dummer was built in 1724 as a scouting station during the conflict between English settlers and Abenaki Indians known as Dummer's War, 1723-1726, sometimes also called Grey Lock's War or Lovewell's War. It was the first fortification on the English frontier, and was located on the West bank of the Connecticut River near the present site of Brattleboro, Vermont. It is sometimes referred to in the papers as "the fort above Northfield," "the fort in the Long Meadow," or "the Block House." Papers concerning Fort Dummer document events, expeditions, and general management of the fort from January 1724 to October 1725. They include a plan for construction of the fort in January of 1724 and a photostatic copy of a muster-roll for the Company of Captain Timothy Dwight, circa 1725. Names of Militiamen and Mohawk Indians garrisoned at the fort can also be found in the correspondence, which includes three outgoing letters from Dwight, as well as letters from Lieutenant Governor of Massachusetts William Dummer, Dwight's commanding officer Colonel John Stoddard, Captain Samuel Partridge, and other officers stationed along the Western frontier. There are also copies of two letters from Colonel John Schuyler in Albany, one of which contains a detailed report of failed peace negotiations held in Canada in August of 1724.</p>
+         <p>The later papers of Timothy Dwight (1694-1771), 1731-63, document his work as a surveyor and Judge of Probate for Hampshire County, Massachusetts during the period of dispute over the boundaries of New Hampshire and Massachusetts, which was concentrated particularly on the Northfield and Fort Dummer region. Some of the letters document the establishment of townships in the New Hampshire Grants to the West of Fort Dummer, and the administration of land grants in Massachusetts. Correspondents from this period include Massachusetts Governors Jonathan Belcher and Thomas Pownall; there is also an undated letter from New Hampshire Governor Benning Wentworth.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref80">Series II, <title type="simple" render="italic">
+                  Papers of Theodore Dwight (1796-1866)
+               </title> 
+            </ref>, consists of correspondence, writings, documents, and a few other papers. The writings include a manuscript for a lesson book for young children, with instructions to teachers and small illustrations, and a diary or notebook covering the years 1820 to 1865. The diary/notebook contains entries from the beginning of Dwight's journey to Italy in 1820, copied from another volume and corrected in pencil, as well as entries made in Italy, Ecuador, and in New York in later life; translations of articles and other notes concerning education systems in several European countries; a series of entries from 1833-34 titled "Diary of a Sabbath School;" drafts of short pieces about evangelization of Italians, Spanish, and Jews in America; an outline and draft first chapter titled "The School Teacher's Guide," with an outline titled "The Sunday School Guide" inserted loose; and copies of outgoing letters in [shorthand?] from 1851-1865. Other papers include Dwight's Yale Diploma and other certificates, a letter from him to "Dear Friends," into which he copied his journal from a sea voyage in 1817, and one letter from Garibaldi. Also included are his wife Ellen Boyd's autograph album, begun before she was married, which includes a sketch of Newstead Abbey, seat of Lord Byron, and her manuscript copy of Joseph Rodman Drake's poem "The Culprit Fay," inscribed with her husband's name.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref102">Series III, <title type="simple" render="italic">
+                  Other Dwight Family Papers
+               </title> 
+            </ref>, contains a genealogical chart showing six generations of male descendents of John and Hannah Dwight, and letters and papers of various members of the family. These include two letters to Theodore Dwight (1764-1846), one of which is from Connecticut Governor Oliver Wolcott, the other from a Timothy Dwight concerning the book about the Hartford Convention; two letters to Mary Edwards Dwight from her son Sereno Dwight in Jamaica; and a Northampton church record of a dispute between an unspecified Mr. Dwight and Decon Shelding in 1711.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref115">Series IV, <title type="simple" render="italic">
+                  Papers of Eleanor Augusta Ferris
+               </title> 
+            </ref>, is organized into two subseries: Correspondence and John Galsworthy Ephemera. The bulk of the correspondence is from Ada Galsworthy between 1921 and 1951. Most of the remaining correspondence is from contributors to "The Villager," but there are a few letters concerning the life and work of her grandfather, Theodore Dwight (1796-1866), and one concerning the papers of Timothy Dwight (1694-1771) given to the library (see: Series I). There is also a letter from the New-York Historical Society which seems to concern a gift of Dwight Family material to that institution.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref158">Series V, <title type="simple" render="italic">
+                  Other Ferris Family Papers
+               </title> 
+            </ref>, consists chiefly of photographs taken between the 1870s and about 1940, but also includes genealogical notes made by one of the Ferris sisters about the Ferris and Whiting families, and a summary of their Dwight lineage written for the library at the time the papers of Timothy Dwight (1694-1771) were given. Also included are postcards received by Mary and Isabel Ferris.</p>  
+      </scopecontent>
+      <odd id="aspace_8aeeb07fd85375b6eec76287bba7e6ed">
+         <head>Appendix: Dwight Family Genealogy</head>
+         <p>The following chart is intended to serve as a reference tool for this collection, and is not a complete Dwight family tree. It includes only the descendents of Nathaniel Dwight (1666-1711) whose names are present in the collection. Because of the number of Dwights in the extended family named Timothy, Henry, Samuel, Jonathan, Nathaniel and Joseph, it is impossible in a few cases to determine with which family member a particular letter or document corresponds. For the same reason, it is possible that some material in the collection may pertain to members of other branches of the family. For more detailed genealogical information about the Dwight family, see the chart in Box 5, folder 101.</p>
+         <p>John Dwight (d. 1659-60) m. Hannah (they arrived from England ca. 1635)<lb/> --Timothy Dwight (1629-1717) m. Anna Flint (3rd of his six wives)<lb/> ----(Other children)<lb/> ----Nathaniel Dwight (1666-1711) m. (1693) Mehitable Partridge<lb/> -------Samuel Dwight<lb/> -----------Daniel Dwight<lb/> -----------(Other children)<lb/> -------Daniel Dwight<lb/> -----------Daniel Dwight<lb/> -----------Samuel Dwight<lb/> -----------John Dwight<lb/> -----------Nathaniel Dwight<lb/> -----------(Other children)<lb/> -------Jonathan Dwight<lb/> -----------Jonathan Dwight<lb/> -------Nathaniel Dwight<lb/> -----------Elihu Dwight<lb/> -----------(Other children)<lb/> -------Timothy Dwight (1694-1771) m. (1716) Experience King<lb/> -----------Timothy Dwight (1726-1777) m. Mary Edwards (1734-1807)<lb/> ----------------Timothy Dwight (1752-1817)<lb/> ----------------Sereno Dwight m. Cynthia<lb/> ----------------Jonathan Edwards Dwight<lb/> ----------------Nathaniel Dwight<lb/> ----------------Henry Edwin Dwight<lb/> ----------------(Other children)<lb/> ----------------Theodore Dwight (c1764-1836) m. (1792) Abigail Alsop<lb/> --------------------(Other children)<lb/> --------------------Theodore Dwight (1796-1866) m.(1827) Ellen Boyd<lb/> ------------------------(Other children?)<lb/> ------------------------Rebecca Dwight<lb/> ------------------------Augusta Moore Dwight m. Sherwood Bissell Ferris<lb/> ----------------------------Anna Edwards Ferris m. Charles Ingalls Marvin<lb/> ----------------------------------Sherwood Ferris Marvin (b. 1903)<lb/> ----------------------------------Dwight Edwards Marvin (died in infancy)<lb/> ----------------------------------Anne Edwards Marvin (b. 1911)<lb/> ----------------------------Eleanor Augusta Ferris<lb/> ----------------------------Mary Dwight Ferris<lb/> ----------------------------Isabel Stuart Ferris</p>
+         <p>Note: the "Dwight Book" occasionally referred to in the papers can be found in Manuscripts and Archives, Yale University Library. The citation follows:</p>
+         <p>Dwight, Benjamin Woodbridge. <title type="simple" render="italic">
+               The History of the Descendents of John Dwight, of Dedham, Mass
+            </title>. New York: J. F. Trow &amp; Son, printers, 1874.</p>  
+      </odd>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85000176"
+                  source="lcsh">
+            Abenaki Indians
+         </subject>
+         <subject source="local">
+            Early childhood education -- History
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040612"
+                  source="lcsh">
+            Eastern Indians, Wars with, 1722-1726
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85086500"
+                  source="lcsh">
+            Mohawk Indians
+         </subject>
+         <subject source="local">
+            Religious education of children -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85144443"
+                  source="lcsh">
+            Voyages and travels
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh98001954"
+                   source="lcsh">
+            Fort Dummer (Vt.)
+         </geogname>
+         <geogname source="local">
+            Massachusetts -- Boundaries
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85081924"
+                   source="lcsh">
+            Massachusetts -- History -- Colonial period, ca. 1600-1775
+         </geogname>
+         <subject source="local">
+            Land grants -- Vermont
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85142830"
+                   source="lcsh">
+            Vermont -- History -- To 1791
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300026691" source="aat">
+            Autograph albums
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300027112" source="aat">
+            Diaries
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300027015" source="aat">
+            Genealogies (histories)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300027392" source="aat">
+            Passports
+         </genreform>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86084879"
+                   source="naf">
+            Dummer, William, 1677-1761
+         </persname>
+         <persname source="local">
+            Dwight, Ellen Boyd
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50028770"
+                   source="naf">
+            Dwight, Theodore, 1764-1846
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82077128"
+                   source="naf">
+            Dwight, Theodore, 1796-1866
+         </persname>
+         <persname source="local">
+            Dwight, Timothy, 1694-1771
+         </persname>
+         <persname source="local">
+            Dwight, Timothy, 1726-1777
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr00008715"
+                   source="naf">
+            Ferris, Eleanor, 1872-
+         </persname>
+         <persname source="local">
+            Ferris, Isabel Stuart
+         </persname>
+         <persname rules="aacr" source="local">
+            Ferris, Mary Dwight
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no96021779"
+                   source="naf">
+            Galsworthy, Ada, -1956
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79041972"
+                   source="naf">
+            Galsworthy, John, 1867-1933
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79021124"
+                   source="naf">
+            Garibaldi, Giuseppe, 1807-1882
+         </persname>
+         <persname rules="aacr" source="local">
+            Marvin, Anna Edwards Ferris
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no90010079"
+                   rules="aacr"
+                   source="naf">
+            Partridge, Samuel
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80038455"
+                   rules="aacr"
+                   source="naf">
+            Pownall, Thomas, 1722-1805
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n00113686"
+                   rules="aacr"
+                   source="naf">
+            Stoddard, John, 1681-1748
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh2009007773"
+                  source="lcsh">
+            Dwight family
+         </famname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85047346"
+                  source="lcsh">
+            Farris family
+         </famname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n85369275"
+                   source="naf">
+            Massachusetts. Militia
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref13" level="series">
+            <did>
+               <unittitle>Papers of Timothy Dwight (1694-1771)</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="folders">43</extent>
+               </physdesc>
+               <unitdate type="inclusive">1724-1763</unitdate>
+            </did>
+            <c id="ref15" level="subseries">
+               <did>
+                  <unittitle>FORT DUMMER PAPERS</unittitle>
+               </did>
+               <scopecontent id="aspace_3d3519f2d7740fe5ca902a533466011b">
+                  <head>Scope and Contents</head>
+                  <p>This subseries is organized under two headings: Correspondence and Other Fort Dummer Papers. Arrangement under each heading is chronological.</p>
+               </scopecontent>
+               <scopecontent id="aspace_fdf18bbbf02ccb66cd82a7af1a8f1a4a">
+                  <head>Scope and Contents</head>
+                  <p>Note: letters addressed to "Captain Dwight" have been filed as letters to Timothy Dwight, although it is possible that they were written to one of his brothers, who were also Captains.</p>
+               </scopecontent>
+               <c id="ref16" level="subseries">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+                  <scopecontent id="aspace_90f27cb1798b3b59f872c7d99510ed1b">
+                     <head>Scope and Contents</head>
+                     <p>All correspondence is incoming unless otherwise noted.</p>
+                  </scopecontent>
+                  <c id="ref17" level="file">
+                     <did>
+                        <unittitle>Dummer, William</unittitle>
+                        <unitdate type="inclusive">[1724?]</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_1d308009ebb6674d52d01e633585196d"
+                                   type="box">1</container>
+                        <container id="aspace_14b484ded4d912ec94bb538b1f62795f"
+                                   type="folder"
+                                   parent="aspace_1d308009ebb6674d52d01e633585196d">1</container>
+                     </did>
+                  </c>
+                  <c id="ref18" level="file">
+                     <did>
+                        <unittitle>Greenleaf, Stephen, at Boston</unittitle>
+                        <unitdate type="inclusive">1724 Feb 15</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_12c21c9345fc073f0c556414183b93f5"
+                                   type="box">1</container>
+                        <container id="aspace_667778ed96ed12220be56ac9db5bd2a6"
+                                   type="folder"
+                                   parent="aspace_12c21c9345fc073f0c556414183b93f5">2</container>
+                     </did>
+                  </c>
+                  <c id="ref19" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, at Hatfield</unittitle>
+                        <unitdate type="inclusive">1724 Apr 24</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_19b75e3f6d6e8c5c1cfdd77b84a5438f"
+                                   type="box">1</container>
+                        <container id="aspace_c7defc4cccada72fcfc0eebfab02c711"
+                                   type="folder"
+                                   parent="aspace_19b75e3f6d6e8c5c1cfdd77b84a5438f">3</container>
+                     </did>
+                  </c>
+                  <c id="ref20" level="file">
+                     <did>
+                        <unittitle>Doolittle, Benjamin, at Northfield, to Captain Dwight, with glossary of Indian words on verso</unittitle>
+                        <unitdate type="inclusive">1724 Jun 18</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_8ca2ec0085f3074813bf081dfa8f6420"
+                                   type="box">1</container>
+                        <container id="aspace_e190ce3f99ceabce5a12da1a3e280402"
+                                   type="folder"
+                                   parent="aspace_8ca2ec0085f3074813bf081dfa8f6420">4</container>
+                     </did>
+                  </c>
+                  <c id="ref21" level="file">
+                     <did>
+                        <unittitle>Dwight, Henry, at Hatfield</unittitle>
+                        <unitdate type="inclusive">1724 Jun 29</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_ff4387a471bddce2ca909c3aa9dc24dc"
+                                   type="box">1</container>
+                        <container id="aspace_7bf0678191c7464e44ed1ea3d2b00fe0"
+                                   type="folder"
+                                   parent="aspace_ff4387a471bddce2ca909c3aa9dc24dc">5</container>
+                     </did>
+                  </c>
+                  <c id="ref22" level="file">
+                     <did>
+                        <unittitle>TD to Captain Eben Pomeroy at Northampton, from Fort Dummer</unittitle>
+                        <unitdate type="inclusive">1724 Jul 29</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_a06c6eda08ba6aa5af495fb5f9398ec1"
+                                   type="box">1</container>
+                        <container id="aspace_7583dae4e1575efab856420e6a9c67f3"
+                                   type="folder"
+                                   parent="aspace_a06c6eda08ba6aa5af495fb5f9398ec1">6</container>
+                     </did>
+                  </c>
+                  <c id="ref23" level="file">
+                     <did>
+                        <unittitle>Stoddard, J., at Northampton</unittitle>
+                        <unitdate type="inclusive">1724 Aug 6</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_431ca9b83f5907b42654dd5609b7faaf"
+                                   type="box">1</container>
+                        <container id="aspace_db6d308e79a40284064625cbb733ec7c"
+                                   type="folder"
+                                   parent="aspace_431ca9b83f5907b42654dd5609b7faaf">7</container>
+                     </did>
+                  </c>
+                  <c id="ref24" level="file">
+                     <did>
+                        <unittitle>Winchel, Joseph, at Suffield</unittitle>
+                        <unitdate type="inclusive">1724 Aug 15</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_f4e49bacfcd36806469dc919ca8a5f84"
+                                   type="box">1</container>
+                        <container id="aspace_18c0e9fd5a514fea1e22a3fb1d47509a"
+                                   type="folder"
+                                   parent="aspace_f4e49bacfcd36806469dc919ca8a5f84">8</container>
+                     </did>
+                  </c>
+                  <c id="ref25" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, at Hatfield, to Captains Wells, Williams, Kellogg, Dwight, and Billing</unittitle>
+                        <unitdate type="inclusive">1724 Aug 24</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_5e3bf5eebba2631a1615b66224563946"
+                                   type="box">1</container>
+                        <container id="aspace_52a7d1ee3e1d5ab0121568e68a32f57b"
+                                   type="folder"
+                                   parent="aspace_5e3bf5eebba2631a1615b66224563946">9</container>
+                     </did>
+                     <scopecontent id="aspace_b99be36c75e751068a17d57b6e100761">
+                        <head>Scope and Contents</head>
+                        <p>Contains a copy of a letter from Colonel John Schuyler, at Albany, 1724 Aug 17, to John Stoddard, which contains the report of a peace delegation sent to Canada</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref27" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, letter to Captains Wells, Williams, Masson, Pomery, and TD</unittitle>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_ce223b3fc8452ded5c583609a1443423"
+                                   type="box">1</container>
+                        <container id="aspace_c40c3f574c3df69e7ed0fac0b45972a7"
+                                   type="folder"
+                                   parent="aspace_ce223b3fc8452ded5c583609a1443423">10</container>
+                     </did>
+                     <scopecontent id="aspace_25ee37301ae1e4c21e3c25af6253e537">
+                        <head>Scope and Contents</head>
+                        <p>Contains copy of a letter from John Schuyler, at Albany, to Colonel Stoddard, 1724 Sep 8.</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref29" level="file">
+                     <did>
+                        <unittitle>TD to Doctor [Hastings?], from Fort Dummer</unittitle>
+                        <unitdate type="inclusive">1725 Jan 9</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_4348520b2201d0c2143461a6ca1c4c19"
+                                   type="box">1</container>
+                        <container id="aspace_54f0fdede1b2d4726a4042a35ecfb90e"
+                                   type="folder"
+                                   parent="aspace_4348520b2201d0c2143461a6ca1c4c19">11</container>
+                     </did>
+                  </c>
+                  <c id="ref30" level="file">
+                     <did>
+                        <unittitle>Stoddard, John, at Northampton</unittitle>
+                        <unitdate type="inclusive">1725 Feb 23</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_f5cb48cbb9c6bc88ebe12c2d3d11c960"
+                                   type="box">1</container>
+                        <container id="aspace_95ce9549aa858c82a5b85c7a835bde41"
+                                   type="folder"
+                                   parent="aspace_f5cb48cbb9c6bc88ebe12c2d3d11c960">12</container>
+                     </did>
+                  </c>
+                  <c id="ref31" level="file">
+                     <did>
+                        <unittitle>Stoddard, John, at Northampton</unittitle>
+                        <unitdate type="inclusive">1725 Mar 16</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_668b3807b804cf167cd59335c79255e4"
+                                   type="box">1</container>
+                        <container id="aspace_03054f61d584f912fe2b467d38a70e93"
+                                   type="folder"
+                                   parent="aspace_668b3807b804cf167cd59335c79255e4">13</container>
+                     </did>
+                  </c>
+                  <c id="ref32" level="file">
+                     <did>
+                        <unittitle>Stoddard, John, at Hatfield</unittitle>
+                        <unitdate type="inclusive">1725 Apr 21</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_27a1e6e32d4354d4d857f8f75d5da9bf"
+                                   type="box">1</container>
+                        <container id="aspace_8405564b91d49b03a9404681241e638a"
+                                   type="folder"
+                                   parent="aspace_27a1e6e32d4354d4d857f8f75d5da9bf">14</container>
+                     </did>
+                  </c>
+                  <c id="ref33" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, at Hatfield</unittitle>
+                        <unitdate type="inclusive">1725 Jun 14</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_8a75f97dc9c795a1e40ebcce2efde1d4"
+                                   type="box">1</container>
+                        <container id="aspace_249245ddd401936fcf77597196ad47f9"
+                                   type="folder"
+                                   parent="aspace_8a75f97dc9c795a1e40ebcce2efde1d4">15</container>
+                     </did>
+                  </c>
+                  <c id="ref34" level="file">
+                     <did>
+                        <unittitle>Hinsdell, Mehuman, of Deerfield, to Captains Benjamin Wright and TD</unittitle>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_f9d600a738bf311b94541bbca525fa99"
+                                   type="box">1</container>
+                        <container id="aspace_60c16d7f1d4fa25cc29d940ceab1ca3f"
+                                   type="folder"
+                                   parent="aspace_f9d600a738bf311b94541bbca525fa99">16</container>
+                     </did>
+                     <scopecontent id="aspace_a40886b55decf5eb5ab067774923c3e9">
+                        <head>Scope and Contents</head>
+                        <p>Contains copy of letter from John Schuyler at Saratoga, 1725 Jun 12</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref36" level="file">
+                     <did>
+                        <unittitle>Austin, Richard, at Suffield</unittitle>
+                        <unitdate type="inclusive">1725 Jun 15</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_169a2421ea9614b16b5eedad9de7040a"
+                                   type="box">1</container>
+                        <container id="aspace_682529a65570215a82b30a8f4d1fa48f"
+                                   type="folder"
+                                   parent="aspace_169a2421ea9614b16b5eedad9de7040a">17</container>
+                     </did>
+                  </c>
+                  <c id="ref37" level="file">
+                     <did>
+                        <unittitle>Wright, Benjamin</unittitle>
+                        <unitdate type="inclusive">1725 Jul 30</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_45c599131d8d6b51731b4f40065f256a"
+                                   type="box">1</container>
+                        <container id="aspace_0059b10ec95ae538e672f0d90b7d32db"
+                                   type="folder"
+                                   parent="aspace_45c599131d8d6b51731b4f40065f256a">18</container>
+                     </did>
+                     <scopecontent id="aspace_94d9584de3dd8775d6c15b84179ffe83">
+                        <head>Scope and Contents</head>
+                        <p>With "List of men that went with Captain Wright," addressed to William Dummer, [att?] Henry Dwight, Boston</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref39" level="file">
+                     <did>
+                        <unittitle>Dummer, William, at Boston</unittitle>
+                        <unitdate type="inclusive">1725 Aug 4</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_41bbf8f0f2c8a194aa555894837d311f"
+                                   type="box">1</container>
+                        <container id="aspace_bbb7d8c6c7c43db600f6cc30989d0405"
+                                   type="folder"
+                                   parent="aspace_41bbf8f0f2c8a194aa555894837d311f">19</container>
+                     </did>
+                  </c>
+                  <c id="ref40" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, at Hatfield</unittitle>
+                        <unitdate type="inclusive">1725 Aug 11</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_1a30a99bd377e83827e8564fca3a9bfd"
+                                   type="box">1</container>
+                        <container id="aspace_e3ce3561dfa3413d8cfd26efc0940813"
+                                   type="folder"
+                                   parent="aspace_1a30a99bd377e83827e8564fca3a9bfd">20</container>
+                     </did>
+                  </c>
+                  <c id="ref41" level="file">
+                     <did>
+                        <unittitle>TD [to William Dummer], fragment, from Fort Dummer</unittitle>
+                        <unitdate type="inclusive">1725 Aug 23</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_adff960319f192ac00a30769a55649ba"
+                                   type="box">1</container>
+                        <container id="aspace_955e80757ae8c093d41415d70b466c24"
+                                   type="folder"
+                                   parent="aspace_adff960319f192ac00a30769a55649ba">21</container>
+                     </did>
+                  </c>
+                  <c id="ref42" level="file">
+                     <did>
+                        <unittitle>Stoddard, John, at Northampton, fragment</unittitle>
+                        <unitdate type="inclusive">[1725?] Oct 25</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_84baef6d326a152d85c804f7af1fd6b9"
+                                   type="box">1</container>
+                        <container id="aspace_85ab1b6d66c8b6da0a1af6d4aba88d81"
+                                   type="folder"
+                                   parent="aspace_84baef6d326a152d85c804f7af1fd6b9">22</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref44" level="subseries">
+                  <did>
+                     <unittitle>Other Fort Dummer Papers</unittitle>
+                  </did>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel, at Northampton, list of men appointed to the company of Major John Stoddard</unittitle>
+                        <unitdate type="inclusive">1716 Mar 23</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_0a7f7aa963ac47874509ae967da00047"
+                                   type="box">1</container>
+                        <container id="aspace_ab7e21991decbdbb1acf96d8c07c5564"
+                                   type="folder"
+                                   parent="aspace_0a7f7aa963ac47874509ae967da00047">23</container>
+                     </did>
+                  </c>
+                  <c id="ref46" level="file">
+                     <did>
+                        <unittitle>Plan of the fort, signed by John Stoddard, Northampton</unittitle>
+                        <unitdate type="inclusive">1724 Jan 30</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_d1c133b3bc86abee1bc74346c057c6d0"
+                                   type="box">1</container>
+                        <container id="aspace_f5351a9cfc6e3f12b503baf27820a800"
+                                   type="folder"
+                                   parent="aspace_d1c133b3bc86abee1bc74346c057c6d0">24</container>
+                     </did>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>Partridge, Samuel and John Stoddard, at Springfield, ALS to Jonathan Wells, Deerfield</unittitle>
+                        <unitdate type="inclusive">1724 May 18</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_a0e62a330f6b3afc8d416962e9dcd6f7"
+                                   type="box">1</container>
+                        <container id="aspace_dac52ae9cdf758ef7d1a7b5a6cdd44d4"
+                                   type="folder"
+                                   parent="aspace_a0e62a330f6b3afc8d416962e9dcd6f7">25</container>
+                     </did>
+                     <scopecontent id="aspace_c847f8baf4dca5f5a293fb98e75db9ce">
+                        <head>Scope and Contents</head>
+                        <p>Forwarded by Wells to Captain Nathaniel Dwight at Fort Dummer</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref49" level="file">
+                     <did>
+                        <unittitle>Soldiers' Petition, to Dr. Thomas Hastings, Hatfield, fragment</unittitle>
+                        <unitdate type="inclusive">1724 Nov 16</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_52abe5d109b778c60ecb469759141b43"
+                                   type="box">1</container>
+                        <container id="aspace_594e678c2f8c973f671a2d6e261288c5"
+                                   type="folder"
+                                   parent="aspace_52abe5d109b778c60ecb469759141b43">26</container>
+                     </did>
+                     <scopecontent id="aspace_b7472a33ea311e332862b64d37d50add">
+                        <head>Scope and Contents</head>
+                        <p>Inscriptions on verso, and signature [?] of a Timothy Dwight</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>Photostatic copy of muster-roll, Company of Captian TD</unittitle>
+                        <unitdate type="inclusive">[1725?]</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_38576a9d4211e62bd52eb5d4e1cbe9b3"
+                                   type="box">1</container>
+                        <container id="aspace_5c3ec13ec61475421029143114560421"
+                                   type="folder"
+                                   parent="aspace_38576a9d4211e62bd52eb5d4e1cbe9b3">27</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c id="ref54" level="subseries">
+               <did>
+                  <unittitle>OTHER PAPERS</unittitle>
+               </did>
+               <scopecontent id="aspace_e4dbc529cc446befe7a8925830cb4dc4">
+                  <head>Scope and Contents</head>
+                  <p>This subseries is organized under two headings: Correspondence and Notes. Arrangement is chronological.</p>
+               </scopecontent>
+               <c id="ref55" level="subseries">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>Wentworth, B., to Captain Dwight, fragment</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_5409f8040473e9836743a627275de212"
+                                   type="box">1</container>
+                        <container id="aspace_ed9a0b8dc9ce3c41ab195ef9b6a4e0cd"
+                                   type="folder"
+                                   parent="aspace_5409f8040473e9836743a627275de212">28</container>
+                     </did>
+                  </c>
+                  <c id="ref57" level="file">
+                     <did>
+                        <unittitle>Russell, Samuel, at North Guilford</unittitle>
+                        <unitdate type="inclusive">1731 Mar 9</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_ec4e3db18cb0eca8fddabf8d6ccd7c93"
+                                   type="box">1</container>
+                        <container id="aspace_fec6a65fa8513ef57b9b6d45211244c6"
+                                   type="folder"
+                                   parent="aspace_ec4e3db18cb0eca8fddabf8d6ccd7c93">29</container>
+                     </did>
+                  </c>
+                  <c id="ref58" level="file">
+                     <did>
+                        <unittitle>[Belcher, J., at Boston, fragment], EMPTY FOLDER: item now stored in: Oversize</unittitle>
+                        <unitdate type="inclusive">1732 Jun 15</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_45db232bcff2698bd0a8473d0207145d"
+                                   type="box">1</container>
+                        <container id="aspace_7b5387ac538c0c020e8dafa358100bf9"
+                                   type="folder"
+                                   parent="aspace_45db232bcff2698bd0a8473d0207145d">[30]</container>
+                     </did>
+                     <relatedmaterial id="aspace_0b6ef990fe21e5f8bf89a8d180339e98">
+                        <head>Related Archival Materials note</head>
+                        <p>
+                           <ref xlink:actuate="onRequest" xlink:show="replace" target="ref175">See: folder 102</ref>
+                        </p>
+                     </relatedmaterial>
+                  </c>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>First Church of Christ, Springfield, LS to John Stoddard, Eben Pomeroy, and TD</unittitle>
+                        <unitdate type="inclusive">1735 Oct 8</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_d18590eabbd642ab8217f3dbf07e7e49"
+                                   type="box">1</container>
+                        <container id="aspace_de7fabe5dd7824f593a5d669a6acbae4"
+                                   type="folder"
+                                   parent="aspace_d18590eabbd642ab8217f3dbf07e7e49">31</container>
+                     </did>
+                     <scopecontent id="aspace_eb51eb296ecb155c6e7af423c8202326">
+                        <head>Scope and Contents</head>
+                        <p>Complaint signed by thirteen members of the church</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>Dwight, Jonathan, at Boston</unittitle>
+                        <unitdate type="inclusive">1748 Sep 21</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_7432cf573da2df022c4b4bd04397e60a"
+                                   type="box">1</container>
+                        <container id="aspace_b9bc63241bcc4003ea07a2dbb4d3be26"
+                                   type="folder"
+                                   parent="aspace_7432cf573da2df022c4b4bd04397e60a">32</container>
+                     </did>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>Hopkins, Samuel, at Sheffield</unittitle>
+                        <unitdate type="inclusive">1749 May 10</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_a45942b3e67651ee7e4afcbc231c95c6"
+                                   type="box">1</container>
+                        <container id="aspace_a1e590975653bc062e5a882165963216"
+                                   type="folder"
+                                   parent="aspace_a45942b3e67651ee7e4afcbc231c95c6">33</container>
+                     </did>
+                  </c>
+                  <c id="ref64" level="file">
+                     <did>
+                        <unittitle>Dwight, Samuel, at Somers</unittitle>
+                        <unitdate type="inclusive">1749 Aug 2</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_c6b2fceb5f251464024aaea1fcd2c57b"
+                                   type="box">1</container>
+                        <container id="aspace_e5e59f0e1f5f0ca4fcae46c5bbb5f331"
+                                   type="folder"
+                                   parent="aspace_c6b2fceb5f251464024aaea1fcd2c57b">34</container>
+                     </did>
+                  </c>
+                  <c id="ref65" level="file">
+                     <did>
+                        <unittitle>Dwight, John, at Killingley [?], to Captain TD [1726-1777?], Northampton</unittitle>
+                        <unitdate type="inclusive">1751 Apr 5</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_00e43bc0622083b433d3b7b3c009fa20"
+                                   type="box">1</container>
+                        <container id="aspace_64f919d3bc4a4c57ec85e473dc1104b0"
+                                   type="folder"
+                                   parent="aspace_00e43bc0622083b433d3b7b3c009fa20">35</container>
+                     </did>
+                     <scopecontent id="aspace_6057cb4544fa3d864ee92146cda9c465">
+                        <head>Scope and Contents</head>
+                        <p>Probably to the younger Captain TD (1726-1777)</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref67" level="file">
+                     <did>
+                        <unittitle>Hopkins, Samuel, at Sheffield</unittitle>
+                        <unitdate type="inclusive">1751 Aug 9</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_79cc135a629d660baaf5d511bc410958"
+                                   type="box">1</container>
+                        <container id="aspace_588a76e3ee42619781f15c65929411a8"
+                                   type="folder"
+                                   parent="aspace_79cc135a629d660baaf5d511bc410958">36</container>
+                     </did>
+                  </c>
+                  <c id="ref68" level="file">
+                     <did>
+                        <unittitle>Dwight, Nathaniel, report and expense account for two journeys to survey land in the New Hampshire Grants</unittitle>
+                        <unitdate type="inclusive">1751 Nov 25</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_654b11b27a118541cd94eab92667e297"
+                                   type="box">1</container>
+                        <container id="aspace_9b2840bffe3ecad1f4077941f4f56bac"
+                                   type="folder"
+                                   parent="aspace_654b11b27a118541cd94eab92667e297">37</container>
+                     </did>
+                     <scopecontent id="aspace_9ce0195ce8311bb91daef74d551ef5ff">
+                        <head>Scope and Contents</head>
+                        <p>The journeys were made by order of Joseph Dwight, Edmund Quincy, and Timothy Dwight</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref70" level="file">
+                     <did>
+                        <unittitle>King, Sara, plea to TD, Judge of Probate for Hampshire County, regarding "Letter of Administration"</unittitle>
+                        <unitdate type="inclusive">1757 Mar 1</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_803ae9d802858a6da2508a0c49b74676"
+                                   type="box">1</container>
+                        <container id="aspace_5064a34f04ee1327fb07929865e3dc6a"
+                                   type="folder"
+                                   parent="aspace_803ae9d802858a6da2508a0c49b74676">38</container>
+                     </did>
+                  </c>
+                  <c id="ref71" level="file">
+                     <did>
+                        <unittitle>Dwight, Samuel, memorandum regarding land in the New Hampshire Grants</unittitle>
+                        <unitdate type="inclusive">1757 Jul 16</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_facfc75f9057aed53212f53975cb0c41"
+                                   type="box">1</container>
+                        <container id="aspace_f07b18ed3beb591d9bd0c85137d5310c"
+                                   type="folder"
+                                   parent="aspace_facfc75f9057aed53212f53975cb0c41">39</container>
+                     </did>
+                  </c>
+                  <c id="ref72" level="file">
+                     <did>
+                        <unittitle>Pownall, Thomas, regarding "Letters of Administration"</unittitle>
+                        <unitdate type="inclusive">1758 Apr 24</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_9a48ee2afb2d7badef59118731c1994d"
+                                   type="box">1</container>
+                        <container id="aspace_168f4541fcbcbdcd3af1be92b67cd68e"
+                                   type="folder"
+                                   parent="aspace_9a48ee2afb2d7badef59118731c1994d">40</container>
+                     </did>
+                  </c>
+                  <c id="ref73" level="file">
+                     <did>
+                        <unittitle>Pownall, Thomas, fragment of letter containing instructions to TD and Dr. Perez Marsh</unittitle>
+                        <unitdate type="inclusive">[1758]</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_260072532f6982b599a83c82c5df0735"
+                                   type="box">1</container>
+                        <container id="aspace_427c8cc8d7cc6d57348c91c6ae1eb5b5"
+                                   type="folder"
+                                   parent="aspace_260072532f6982b599a83c82c5df0735">41</container>
+                     </did>
+                  </c>
+                  <c id="ref74" level="file">
+                     <did>
+                        <unittitle>Dwight, Jonathan, at Halifax, 2 ALS</unittitle>
+                        <unitdate type="inclusive">1763</unitdate>
+                        <physloc id="aspace_8c18a655b6ec826b96cd0afaacda722c">Also stored in: Oversize, Box 5, folder 103</physloc>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_47476e135573bfbdd8273abc67d07308"
+                                   type="box">1</container>
+                        <container id="aspace_a6ee44c9c1077d5820e042239df62c9a"
+                                   type="folder"
+                                   parent="aspace_47476e135573bfbdd8273abc67d07308">42</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref76" level="subseries">
+                  <did>
+                     <unittitle>Notes</unittitle>
+                  </did>
+                  <c id="ref77" level="file">
+                     <did>
+                        <unittitle>Leaf of paper inscribed "Timothy Dwight his book 1722"</unittitle>
+                        <unitdate type="inclusive">1722 Jul</unitdate>
+                        <container label="Mixed Materials (39002075017849)"
+                                   id="aspace_bb30cd841daf9801ee19871909fb74fd"
+                                   type="box">1</container>
+                        <container id="aspace_7bb01845e77a0927c9cad4e677b39570"
+                                   type="folder"
+                                   parent="aspace_bb30cd841daf9801ee19871909fb74fd">43</container>
+                     </did>
+                     <scopecontent id="aspace_d08a42bdbaa5560671630b8d46f63fa7">
+                        <head>Scope and Contents</head>
+                        <p>On the verso are notes concerning a legal case between Samuel Smith and David King, undated.</p>
+                     </scopecontent>
+                  </c>
+               </c>
+            </c>
+         </c>
+         <c id="ref80" level="series">
+            <did>
+               <unittitle>Papers of Theodore Dwight (1794-1866)</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="folders">10</extent>
+               </physdesc>
+               <unitdate type="inclusive">1814-1865</unitdate>
+            </did>
+            <relatedmaterial id="aspace_8f5b9f26d59d25bc8e4587465582505d">
+               <head>Related Archival Materials note</head>
+               <p>
+                  <ref xlink:actuate="onRequest" xlink:show="replace" target="ref147">See also: Biographical sketch in Box 4, Folder 85</ref>
+               </p>
+            </relatedmaterial>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>Autograph fragment to "Dear Friends," on board the <title type="simple" render="italic">
+                        Comet
+                     </title>, sailing from New York</unittitle>
+                  <unitdate type="inclusive">1817 May 16-24</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_1f206702ae2496e3923e120aa3e9420e"
+                             type="box">2</container>
+                  <container id="aspace_e3da5e829265d60b4d1d4d348154185b"
+                             type="folder"
+                             parent="aspace_1f206702ae2496e3923e120aa3e9420e">44</container>
+               </did>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>Garibaldi, Giuseppe, ALS to TD</unittitle>
+                  <unitdate type="inclusive">1851 Feb 4</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_7f97c321e1aaf73fd581e2dc64d85925"
+                             type="box">2</container>
+                  <container id="aspace_89dce02fb0c626128a055e8303015292"
+                             type="folder"
+                             parent="aspace_7f97c321e1aaf73fd581e2dc64d85925">45</container>
+               </did>
+            </c>
+            <c id="ref84" level="file">
+               <did>
+                  <unittitle>Manuscript of a lesson book for school children, bound volume</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_a0563dcb6aa8555c0925b6ffc1956379"
+                             type="box">2</container>
+                  <container id="aspace_f7794ca43a84a9882b267e6c3ede8145"
+                             type="folder"
+                             parent="aspace_a0563dcb6aa8555c0925b6ffc1956379">46</container>
+               </did>
+            </c>
+            <c id="ref85" level="file">
+               <did>
+                  <unittitle>Diary/notebook</unittitle>
+                  <unitdate type="inclusive">1820-1865</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_7e9f44c56fba720e0ec873c3dc98afb3"
+                             type="box">2</container>
+                  <container id="aspace_fd72b6098e08b21de7b8fde6f3ad562b"
+                             type="folder"
+                             parent="aspace_7e9f44c56fba720e0ec873c3dc98afb3">47</container>
+               </did>
+               <scopecontent id="aspace_95cc7a4e0fdef09017375bc136cd4978">
+                  <head>Scope and Contents</head>
+                  <p>With gaps; includes notes on European educational practices and evangelicism, copies of outgoing correspondence in [shorthand?], and draft of "The School Teacher's Guide;" with outline titled "The Sunday School Guide" inserted loose</p>
+               </scopecontent>
+            </c>
+            <c id="ref87" level="file">
+               <did>
+                  <unittitle>[A.B. from Yale College], EMPTY FOLDER, item now stored in Oversize</unittitle>
+                  <unitdate type="inclusive">1814 Sep 14</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_25d7168f0cb4403bda1cc02b5cda1e9b"
+                             type="box">2</container>
+                  <container id="aspace_073712f5f83ea433f93d05a68617a815"
+                             type="folder"
+                             parent="aspace_25d7168f0cb4403bda1cc02b5cda1e9b">[48]</container>
+               </did>
+               <relatedmaterial id="aspace_5c52f7eb4a50d6181c85c09aa2b230d9">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref177">See: folder 104</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref89" level="file">
+               <did>
+                  <unittitle>Certificate of membership in the Church of Christ, Yale College, manuscript</unittitle>
+                  <unitdate type="inclusive">18[15?] Jan 3</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_07478221188bce2bf2fb958fa0f2ac6b"
+                             type="box">2</container>
+                  <container id="aspace_7e11c4ead94a69dc074e70ae0e3ba962"
+                             type="folder"
+                             parent="aspace_07478221188bce2bf2fb958fa0f2ac6b">49</container>
+               </did>
+               <scopecontent id="aspace_cb8ef0868ff3f41c6823ca6032a26792">
+                  <head>Scope and Contents</head>
+                  <p>Signed by Timothy Dwight (1752-1817)</p>
+               </scopecontent>
+            </c>
+            <c id="ref91" level="file">
+               <did>
+                  <unittitle>Certificate of admission to the Court of Chancery, New York State</unittitle>
+                  <unitdate type="inclusive">1815 Nov 15</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_8132a839d548e068471496acc7e0dc47"
+                             type="box">2</container>
+                  <container id="aspace_637320a912355951f85ee7c0b8c679cc"
+                             type="folder"
+                             parent="aspace_8132a839d548e068471496acc7e0dc47">50</container>
+               </did>
+            </c>
+            <c id="ref92" level="file">
+               <did>
+                  <unittitle>Passport issued by the Légation Américaine, Paris</unittitle>
+                  <unitdate type="inclusive">1821 Apr 21</unitdate>
+                  <physloc id="aspace_c2f5ede08e0da8891f9e65575a2e922a">Stored in: Oversize, Box 5, Folder 100</physloc>
+               </did>
+            </c>
+            <c id="ref94" level="file">
+               <did>
+                  <unittitle>Manuscript copy of "The Culprit Fay" [by Joseph Rodman Drake], bound vol.</unittitle>
+                  <unitdate type="inclusive">1825 Aug 4</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_47434603cd1813f7d23283941bbe1c72"
+                             type="box">2</container>
+                  <container id="aspace_108665ba3773ef0a0f4ec17b0eb8777d"
+                             type="folder"
+                             parent="aspace_47434603cd1813f7d23283941bbe1c72">51</container>
+               </did>
+               <scopecontent id="aspace_8d7026fbdbe03dfc08b5aeb32f8ed99d">
+                  <head>Scope and Contents</head>
+                  <p>Flyleaf inscribed "Theodore Dwight, Jr., September 1846;" title page "Miss E. Boyd, August 4th, 1825;" with valentine to Theodore Dwight, Jr, "from M.E.P. or A.D.P.," 1846 Feb 14</p>
+               </scopecontent>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Autograph album of Ellen Boyd Dwight</unittitle>
+                  <unitdate type="inclusive">1823-1855</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_ed6e037ccff73dc2dc664216f00593ea"
+                             type="box">2</container>
+                  <container id="aspace_5af481fcad40dcf4acbb168504da86c7"
+                             type="folder"
+                             parent="aspace_ed6e037ccff73dc2dc664216f00593ea">52</container>
+               </did>
+               <scopecontent id="aspace_0bdeffb5c66fe3276c0cfd64db26608f">
+                  <head>Scope and Contents</head>
+                  <p>Contains sketch of Newstead Abbey</p>
+               </scopecontent>
+            </c>
+            <c id="ref98" level="file">
+               <did>
+                  <unittitle>Covers of book labeled "Fort Dummer Papers from Theodore Dwight's Collection, 62 Harrison St, Brooklyn"</unittitle>
+                  <unitdate type="inclusive">[after 1850]</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_12f98d6a195c099c0856fbaec3efae17"
+                             type="box">2</container>
+                  <container id="aspace_8698fe5a1b4ccc263866b842fa692d30"
+                             type="folder"
+                             parent="aspace_12f98d6a195c099c0856fbaec3efae17">53</container>
+               </did>
+               <scopecontent id="aspace_a7f3cb89265a3c8db3c6efa84db3aaad">
+                  <head>Scope and Contents</head>
+                  <p>Papers of Timothy Dwight (1694-1771) were glued into this book, which seems to have been the geography book of Rebecca Dwight; the front endpaper is inscribed with what seem to be diary entries for a few days in June 1850</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_ec1222d09f680f15e5182956f48e61fd">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref13"> See also: Series I, <title type="simple" render="italic">
+                           Papers of Timothy Dwight (1694-1771)
+                        </title> 
+                     </ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+         </c>
+         <c id="ref102" level="series">
+            <did>
+               <unittitle>Other Dwight Family Papers</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="folders">8</extent>
+               </physdesc>
+               <unitdate type="inclusive">1711-1834</unitdate>
+            </did>
+            <c id="ref104" level="file">
+               <did>
+                  <unittitle>Dwight, Nathaniel, copy of a letter to Habijah Savage</unittitle>
+                  <unitdate type="inclusive">1711 Apr 23</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_ee23df5ba9ecac43f6ea007f610ce05d"
+                             type="box">2</container>
+                  <container id="aspace_cd74d384d3efc1a07e5e2f37b2174db7"
+                             type="folder"
+                             parent="aspace_ee23df5ba9ecac43f6ea007f610ce05d">54</container>
+               </did>
+            </c>
+            <c id="ref105" level="file">
+               <did>
+                  <unittitle>Dwight, Sereno and Cynthia, two ALS to Mary Edwards Dwight</unittitle>
+                  <unitdate type="inclusive">1783 Feb 2, n.d.</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_03a6f160bb6507a94c60ccdeb0fa4bc4"
+                             type="box">2</container>
+                  <container id="aspace_aead07136a5ac8969d196bea414fd12a"
+                             type="folder"
+                             parent="aspace_03a6f160bb6507a94c60ccdeb0fa4bc4">55</container>
+               </did>
+            </c>
+            <c id="ref106" level="file">
+               <did>
+                  <unittitle>Treat, Jn., ALS to Captain Henry Porter</unittitle>
+                  <unitdate type="inclusive">1787 May 4</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_d824bfa60d9eb976db27ad82c46801ed"
+                             type="box">2</container>
+                  <container id="aspace_cd6366e5d2672648d6a0dcc9541041ff"
+                             type="folder"
+                             parent="aspace_d824bfa60d9eb976db27ad82c46801ed">56</container>
+               </did>
+            </c>
+            <c id="ref107" level="file">
+               <did>
+                  <unittitle>Wolcott, Oliver, ALS to Theodore Dwight (1764-1846)</unittitle>
+                  <unitdate type="inclusive">1804 Apr 2</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_16eaaaf5675ed59a44067ee10343c078"
+                             type="box">2</container>
+                  <container id="aspace_5ddf49c9dc4bc54d382a37bd5f179715"
+                             type="folder"
+                             parent="aspace_16eaaaf5675ed59a44067ee10343c078">57</container>
+               </did>
+            </c>
+            <c id="ref108" level="file">
+               <did>
+                  <unittitle>Dwight, Timothy, ALS to Theodore Dwight (1764-1846)</unittitle>
+                  <unitdate type="inclusive">1834 Feb 20</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_29ddf3cd84e6d2da246bd820252dd256"
+                             type="box">2</container>
+                  <container id="aspace_499a91ef6df24fd86c198b9c8e9f14e6"
+                             type="folder"
+                             parent="aspace_29ddf3cd84e6d2da246bd820252dd256">58</container>
+               </did>
+            </c>
+            <c id="ref109" level="file">
+               <did>
+                  <unittitle>Genealogies of the Dwight Family</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <physloc id="aspace_a55a3b1f65e36e94f402a2ce8fb7aa1a">Also stored in: Oversize, Box 5, Folder 101</physloc>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_bf5c6c80abb66a24d89a93aa343560b7"
+                             type="box">2</container>
+                  <container id="aspace_9c41ed2cdcc60be031f32fea9a77b7f6"
+                             type="folder"
+                             parent="aspace_bf5c6c80abb66a24d89a93aa343560b7">59</container>
+               </did>
+               <scopecontent id="aspace_db0d1605d28bb3bd1b233191b1f158f0">
+                  <head>Scope and Contents</head>
+                  <p>Printed chart and manuscript diagram</p>
+               </scopecontent>
+            </c>
+            <c id="ref112" level="file">
+               <did>
+                  <unittitle>First Parish Church, Northampton, record of a dispute between Mr. Dwight and Decon Shelding</unittitle>
+                  <unitdate type="inclusive">1711 Apr 6</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_8f68158f40d13b87d327cefc20ea1bf6"
+                             type="box">2</container>
+                  <container id="aspace_e7b1a03299acc84f35bd272ab759ded0"
+                             type="folder"
+                             parent="aspace_8f68158f40d13b87d327cefc20ea1bf6">60</container>
+               </did>
+               <scopecontent id="aspace_b4ca6c0b909b89fce5b991a76b83583d">
+                  <head>Scope and Contents</head>
+                  <p>Signed by Ebenezr Pumry, William King, and Benjamin Wright</p>
+               </scopecontent>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>Photostatic copy of invoice from Thomas Hancock for material purchased by Captain Timothy Dwight (1726-1777)</unittitle>
+                  <unitdate type="inclusive">1762 Aug 26</unitdate>
+                  <container label="Mixed Materials (39002075017856)"
+                             id="aspace_b7cdf0ac1ccb95b98abad6041b93e6a9"
+                             type="box">2</container>
+                  <container id="aspace_c8d25818613d4ca82699325756b5a7fa"
+                             type="folder"
+                             parent="aspace_b7cdf0ac1ccb95b98abad6041b93e6a9">61</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref115" level="series">
+            <did>
+               <unittitle>Papers of Eleanor Augusta Ferris</unittitle>
+               <unitid>Series IV</unitid>
+               <physdesc>
+                  <extent unit="folders">31</extent>
+               </physdesc>
+               <unitdate type="inclusive">1903-1951</unitdate>
+            </did>
+            <c id="ref117" level="subseries">
+               <did>
+                  <unittitle>CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref118" level="file">
+                  <did>
+                     <unittitle>Barrett, A. Maud H., 3 TLS</unittitle>
+                     <unitdate type="inclusive">1944-47</unitdate>
+                     <container label="Mixed Materials (39002075017864)"
+                                id="aspace_2b5c58d57038c7addaaa000f6d767f85"
+                                type="box">3</container>
+                     <container id="aspace_9204a9d3ee664d097079da14a321072b"
+                                type="folder"
+                                parent="aspace_2b5c58d57038c7addaaa000f6d767f85">62</container>
+                  </did>
+               </c>
+               <c id="ref119" level="file">
+                  <did>
+                     <unittitle>B general</unittitle>
+                     <unitdate type="inclusive">1947-49</unitdate>
+                     <container label="Mixed Materials (39002075017864)"
+                                id="aspace_6e352da34d1457e2bf2bfc6d37318c0f"
+                                type="box">3</container>
+                     <container id="aspace_44ddce6f032fb6e65c8c13f4e4770b05"
+                                type="folder"
+                                parent="aspace_6e352da34d1457e2bf2bfc6d37318c0f">63</container>
+                  </did>
+               </c>
+               <c id="ref120" level="file">
+                  <did>
+                     <unittitle>C general</unittitle>
+                     <unitdate type="inclusive">1947-48</unitdate>
+                     <container label="Mixed Materials (39002075017864)"
+                                id="aspace_c8b8e37809983f8c8f21aa456c7b79c7"
+                                type="box">3</container>
+                     <container id="aspace_2b66746530153454252067891b081152"
+                                type="folder"
+                                parent="aspace_c8b8e37809983f8c8f21aa456c7b79c7">64</container>
+                  </did>
+               </c>
+               <c id="ref121" level="file">
+                  <did>
+                     <unittitle>Courtney, [Clare?], 2 ALS and autograph poem</unittitle>
+                     <unitdate type="inclusive">1940 Jun 14, n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017864)"
+                                id="aspace_ccfbd7fb66464ebd99bad0e20b387f6d"
+                                type="box">3</container>
+                     <container id="aspace_13dedf9c1f9e59c7fbbfaa81e828a601"
+                                type="folder"
+                                parent="aspace_ccfbd7fb66464ebd99bad0e20b387f6d">65</container>
+                  </did>
+               </c>
+               <c id="ref122" level="file">
+                  <did>
+                     <unittitle>Dwight, A. B. [her aunt]</unittitle>
+                     <unitdate type="inclusive">[1903?] May 30</unitdate>
+                     <container label="Mixed Materials (39002075017864)"
+                                id="aspace_6adc15d964288f8eb3f24a5bd335eda7"
+                                type="box">3</container>
+                     <container id="aspace_af7cd94a79e9fd7b101aaaeb92812134"
+                                type="folder"
+                                parent="aspace_6adc15d964288f8eb3f24a5bd335eda7">66</container>
+                  </did>
+                  <scopecontent id="aspace_eb0c14ac201f63a9d4df43b096576f9a">
+                     <head>Scope and Contents</head>
+                     <p>Concerning Theodore Dwight (1796-1866)</p>
+                  </scopecontent>
+               </c>
+               <c id="ref124" level="file">
+                  <did>
+                     <unittitle>Galsworthy, Ada Cooper</unittitle>
+                  </did>
+                  <c id="ref125" level="file">
+                     <did>
+                        <unittitle>Letters, "Handcrafts Certificate," photograph of her house Bury, and small gift items</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_47bd883ce6b4cb713915444ac06174c3"
+                                   type="box">3</container>
+                        <container id="aspace_90279bb1e6929447106357f4501fcccc"
+                                   type="folder"
+                                   parent="aspace_47bd883ce6b4cb713915444ac06174c3">67</container>
+                     </did>
+                  </c>
+                  <c id="ref126" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1921-23</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_dc666f5504da658fcdad49a228a77817"
+                                   type="box">3</container>
+                        <container id="aspace_685f2f239adccc872c9318bc7c819b9d"
+                                   type="folder"
+                                   parent="aspace_dc666f5504da658fcdad49a228a77817">68</container>
+                     </did>
+                  </c>
+                  <c id="ref127" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1924-28</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_22447bf2382f00a0ff1692f646539a50"
+                                   type="box">3</container>
+                        <container id="aspace_671064a1cb1fd9e26e82798fa751fd69"
+                                   type="folder"
+                                   parent="aspace_22447bf2382f00a0ff1692f646539a50">69</container>
+                     </did>
+                  </c>
+                  <c id="ref128" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1930-33</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_74904afb1beca2779b5262f234779ce5"
+                                   type="box">3</container>
+                        <container id="aspace_22c7b79c8e41410c526a578ca3c5f57c"
+                                   type="folder"
+                                   parent="aspace_74904afb1beca2779b5262f234779ce5">70</container>
+                     </did>
+                  </c>
+                  <c id="ref129" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1937-38</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_ba80be93a548b7e2f28505bb09448c82"
+                                   type="box">3</container>
+                        <container id="aspace_965764470319383d6fe3878e753ee024"
+                                   type="folder"
+                                   parent="aspace_ba80be93a548b7e2f28505bb09448c82">71</container>
+                     </did>
+                  </c>
+                  <c id="ref130" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1939-40</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_8fbcbabdaac445f146b42dc00d8a014f"
+                                   type="box">3</container>
+                        <container id="aspace_c00fb14e8e1f6135013edc0c5aefba2e"
+                                   type="folder"
+                                   parent="aspace_8fbcbabdaac445f146b42dc00d8a014f">72</container>
+                     </did>
+                     <scopecontent id="aspace_12ba19f1ca1d5ee5567c30854b40e663">
+                        <head>Scope and Contents</head>
+                        <p>Photo of AG in letter 1940 Dec 11</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref132" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1941</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_7f89ca0cb913d1f19b2123a98563bf9c"
+                                   type="box">3</container>
+                        <container id="aspace_75115d95deada3a334359453fb30d1b7"
+                                   type="folder"
+                                   parent="aspace_7f89ca0cb913d1f19b2123a98563bf9c">73</container>
+                     </did>
+                  </c>
+                  <c id="ref133" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1942</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_917441ebdc2148bc630760c47ef485b1"
+                                   type="box">3</container>
+                        <container id="aspace_2eebd8b75b5f599fb7591ecf5213c661"
+                                   type="folder"
+                                   parent="aspace_917441ebdc2148bc630760c47ef485b1">74</container>
+                     </did>
+                  </c>
+                  <c id="ref134" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1943-45</unitdate>
+                        <container label="Mixed Materials (39002075017864)"
+                                   id="aspace_34de3c9b25c0c681605c7fa2167f47dd"
+                                   type="box">3</container>
+                        <container id="aspace_1934e716eb552971fbee32ef5ca55ec3"
+                                   type="folder"
+                                   parent="aspace_34de3c9b25c0c681605c7fa2167f47dd">75</container>
+                     </did>
+                  </c>
+                  <c id="ref135" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1946-47</unitdate>
+                        <container label="Mixed Materials (39002075017872)"
+                                   id="aspace_e282616912a8343b9552aac80f2901c3"
+                                   type="box">4</container>
+                        <container id="aspace_7606eab496b6b3598377e1f8548f132b"
+                                   type="folder"
+                                   parent="aspace_e282616912a8343b9552aac80f2901c3">76</container>
+                     </did>
+                     <scopecontent id="aspace_8dbf1da172b007216cb92a9d07f76132">
+                        <head>Scope and Contents</head>
+                        <p>Photo of AG as Christmas greeting 1947; reproduction of photo layout of John Galsworthy with dogs in letter 1946 Feb 15</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref137" level="file">
+                     <did>
+                        <unittitle>Letters</unittitle>
+                        <unitdate type="inclusive">1949-51</unitdate>
+                        <container label="Mixed Materials (39002075017872)"
+                                   id="aspace_bf3f683f5a7926cdea6542c9e90d6749"
+                                   type="box">4</container>
+                        <container id="aspace_bf66c39b61a275f81c0cd24fe6de41d9"
+                                   type="folder"
+                                   parent="aspace_bf3f683f5a7926cdea6542c9e90d6749">77</container>
+                     </did>
+                     <scopecontent id="aspace_d927ebf0e2067c18b9af35282ac76e05">
+                        <head>Scope and Contents</head>
+                        <p>Photo of AG in letter 1951 Jul 18</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref139" level="file">
+                  <did>
+                     <unittitle>Goodman, Mae Winkler, ALS</unittitle>
+                     <unitdate type="inclusive">1949 Jun 12</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_a139f5335a31bd8da46e429f4118165a"
+                                type="box">4</container>
+                     <container id="aspace_841b10b24c7eb21e9dc747aca693f570"
+                                type="folder"
+                                parent="aspace_a139f5335a31bd8da46e429f4118165a">78</container>
+                  </did>
+               </c>
+               <c id="ref140" level="file">
+                  <did>
+                     <unittitle>Kerr, Jessica M., 2 TLS</unittitle>
+                     <unitdate type="inclusive">1946 Sep 15, n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_94b48ce9f6cfaa4cb4f7410602bf9ee1"
+                                type="box">4</container>
+                     <container id="aspace_d1f0e5edd0238fc99cd0e07a97686596"
+                                type="folder"
+                                parent="aspace_94b48ce9f6cfaa4cb4f7410602bf9ee1">79</container>
+                  </did>
+               </c>
+               <c id="ref141" level="file">
+                  <did>
+                     <unittitle>Murray, Lily, TLS</unittitle>
+                     <unitdate type="inclusive">1948 Nov 12</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_9bdbfb384eac607af692beb569aa8dd5"
+                                type="box">4</container>
+                     <container id="aspace_a2af4c757b45443b5befb178670a80fb"
+                                type="folder"
+                                parent="aspace_9bdbfb384eac607af692beb569aa8dd5">80</container>
+                  </did>
+               </c>
+               <c id="ref142" level="file">
+                  <did>
+                     <unittitle>New-York Historical Society, ALS from Dorothy Barck</unittitle>
+                     <unitdate type="inclusive">1951 Jun 13</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_e0264ca4b8c3dc45ad4b0df03bba75f9"
+                                type="box">4</container>
+                     <container id="aspace_181a74d6e040a90db0af5d99e82b7578"
+                                type="folder"
+                                parent="aspace_e0264ca4b8c3dc45ad4b0df03bba75f9">81</container>
+                  </did>
+               </c>
+               <c id="ref143" level="file">
+                  <did>
+                     <unittitle>Pack, Alice G., TLS</unittitle>
+                     <unitdate type="inclusive">1948 May 3</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_f852a1073a9b36cabb8eff86d96e42ce"
+                                type="box">4</container>
+                     <container id="aspace_9cd41ac3ce739e6983d81f506188471e"
+                                type="folder"
+                                parent="aspace_f852a1073a9b36cabb8eff86d96e42ce">82</container>
+                  </did>
+               </c>
+               <c id="ref144" level="file">
+                  <did>
+                     <unittitle>Postcards from various correspondents, including niece Anne Marvin</unittitle>
+                     <unitdate type="inclusive">1936-42, n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_7a608b88d663cd9b3b7ddd9152c698e0"
+                                type="box">4</container>
+                     <container id="aspace_39e240a9e7f2992c2e0dc3b61d771937"
+                                type="folder"
+                                parent="aspace_7a608b88d663cd9b3b7ddd9152c698e0">83</container>
+                  </did>
+               </c>
+               <c id="ref146" level="file">
+                  <did>
+                     <unittitle>Price, Esther Gaskins, wedding invitation with autograph note</unittitle>
+                     <unitdate type="inclusive">[1944]</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_aa6b4ff5e8326ec9946de622d056ce10"
+                                type="box">4</container>
+                     <container id="aspace_fbc8890b87a3f32f0a4a73f03121dd06"
+                                type="folder"
+                                parent="aspace_aa6b4ff5e8326ec9946de622d056ce10">84</container>
+                  </did>
+               </c>
+               <c id="ref147" level="file">
+                  <did>
+                     <unittitle>Raymond, R. W. [Rossiter W.], 2 TLS and 1 ALS</unittitle>
+                     <unitdate type="inclusive">1903</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_b45d6d466c3ba1d5b8247ab143b0bdc9"
+                                type="box">4</container>
+                     <container id="aspace_63a62490337e628ec048da073b5b943e"
+                                type="folder"
+                                parent="aspace_b45d6d466c3ba1d5b8247ab143b0bdc9">85</container>
+                  </did>
+                  <scopecontent id="aspace_52cade0a95c21a55525ff2780703bff7">
+                     <head>Scope and Contents</head>
+                     <p>With carbon typescript of biographical sketch of Theodore Dwight (1796-1866) written for the New England Historic Genealogical Society</p>
+                  </scopecontent>
+               </c>
+               <c id="ref149" level="file">
+                  <did>
+                     <unittitle>Starr, ALS</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_5e74f95333377b86f8c47ba9d3233532"
+                                type="box">4</container>
+                     <container id="aspace_80fd4d9d17d7bfa007d072d28d071e15"
+                                type="folder"
+                                parent="aspace_5e74f95333377b86f8c47ba9d3233532">86</container>
+                  </did>
+               </c>
+               <c id="ref150" level="file">
+                  <did>
+                     <unittitle>Weybright, Victor and Hildegarde, printed Christmas greeting</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_8b07159e758c07cea4c6400627293e37"
+                                type="box">4</container>
+                     <container id="aspace_8d507e5405861251fae10fb9c32e2612"
+                                type="folder"
+                                parent="aspace_8b07159e758c07cea4c6400627293e37">87</container>
+                  </did>
+               </c>
+               <c id="ref151" level="file">
+                  <did>
+                     <unittitle>Wilder, Walter Beebe, TLS</unittitle>
+                     <unitdate type="inclusive">1941 Jan 5</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_b08bdacee47f2a5047f25027e1a8cfd3"
+                                type="box">4</container>
+                     <container id="aspace_fed3c730163d04dd1e61e3bcaa7f2515"
+                                type="folder"
+                                parent="aspace_b08bdacee47f2a5047f25027e1a8cfd3">88</container>
+                  </did>
+               </c>
+               <c id="ref152" level="file">
+                  <did>
+                     <unittitle>Wynne, Marjorie, TLS</unittitle>
+                     <unitdate type="inclusive">1948 Jul 28</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_d13efd09d7a2fcdce574491410567d41"
+                                type="box">4</container>
+                     <container id="aspace_98245885225ea4e5bf48752f8162c3ed"
+                                type="folder"
+                                parent="aspace_d13efd09d7a2fcdce574491410567d41">89</container>
+                  </did>
+                  <scopecontent id="aspace_aa14879b950653877c901eb673823258">
+                     <head>Scope and Contents</head>
+                     <p>With EF's reply 1948 Jul 30; concerns transcription of a letter to Timothy Dwight (1694-1771) by the library; with correct transcription [by EF?] and typescript</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref154" level="subseries">
+               <did>
+                  <unittitle>JOHN GALSWORTHY EPHEMERA</unittitle>
+               </did>
+               <c id="ref155" level="file">
+                  <did>
+                     <unittitle>Photograph</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_b82658f666404b9d3636a05a1979b1ad"
+                                type="box">4</container>
+                     <container id="aspace_d155f60ec118ec095982947c5871e0d0"
+                                type="folder"
+                                parent="aspace_b82658f666404b9d3636a05a1979b1ad">90</container>
+                  </did>
+               </c>
+               <c id="ref156" level="file">
+                  <did>
+                     <unittitle>Printed supplement from <title type="simple" render="italic">
+                           John's O'London's Weekly
+                        </title> about the author and his work</unittitle>
+                     <unitdate type="inclusive">1928 Dec 8</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_adb1902e34f2871c548bc18c3a6c7c27"
+                                type="box">4</container>
+                     <container id="aspace_4ffffdf11f9eecd8a2492cddde2d79eb"
+                                type="folder"
+                                parent="aspace_adb1902e34f2871c548bc18c3a6c7c27">91</container>
+                  </did>
+               </c>
+               <c id="ref157" level="file">
+                  <did>
+                     <unittitle>Reproduction of portrait print by Sullivan, framed</unittitle>
+                     <unitdate type="inclusive">[1930]</unitdate>
+                     <container label="Mixed Materials (39002075017872)"
+                                id="aspace_fe2ea79ff998d9cecec8719191dee8d1"
+                                type="box">4</container>
+                     <container id="aspace_a98667ce205c525a5a29bf079f086646"
+                                type="folder"
+                                parent="aspace_fe2ea79ff998d9cecec8719191dee8d1">92</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref158" level="series">
+            <did>
+               <unittitle>Other Ferris Family Papers</unittitle>
+               <unitid>Series V</unitid>
+               <physdesc>
+                  <extent unit="folders">7</extent>
+               </physdesc>
+               <unitdate type="inclusive">ca. 1875-1941</unitdate>
+            </did>
+            <c id="ref160" level="file">
+               <did>
+                  <unittitle>Isabel Stuart Ferris, postcards from various correspondents</unittitle>
+                  <unitdate type="inclusive">1940-41</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_945391c7eb748014ffc6edb940f26125"
+                             type="box">4</container>
+                  <container id="aspace_c176498e455361f6baed3f461b5ca8b5"
+                             type="folder"
+                             parent="aspace_945391c7eb748014ffc6edb940f26125">93</container>
+               </did>
+            </c>
+            <c id="ref161" level="file">
+               <did>
+                  <unittitle>Mary Dwight Ferris, postcards from various correspondents</unittitle>
+                  <unitdate type="inclusive">1924-40</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_af2175bd5574e7a975e366cfe99425ce"
+                             type="box">4</container>
+                  <container id="aspace_6edef734cb50d2f7c68756f0c5114579"
+                             type="folder"
+                             parent="aspace_af2175bd5574e7a975e366cfe99425ce">94</container>
+               </did>
+               <scopecontent id="aspace_9500ec9adea00b2b1c332eba1a8b29e3">
+                  <head>Scope and Contents</head>
+                  <p>Includes one card from niece Anne Marvin, and 2 from Mary to "Dearest B."</p>
+               </scopecontent>
+            </c>
+            <c id="ref163" level="file">
+               <did>
+                  <unittitle>Genealogical notes about the Ferris and Whiting families, and summary of the Ferris sisters' Dwight lineage</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_40fcb84658cd4a015b2ddf538b243abc"
+                             type="box">4</container>
+                  <container id="aspace_cd79b6d00adc5c06659206b7214b8160"
+                             type="folder"
+                             parent="aspace_40fcb84658cd4a015b2ddf538b243abc">95</container>
+               </did>
+            </c>
+            <c id="ref164" level="file">
+               <did>
+                  <unittitle>Esther Stoddard Edwards (1672-1770), mother of Jonathan Edwards, photograph of portrait painting</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_572fb95a27d9063368681e6ee4fc65c1"
+                             type="box">4</container>
+                  <container id="aspace_b7bfb173caa92cf594ab6efff243984a"
+                             type="folder"
+                             parent="aspace_572fb95a27d9063368681e6ee4fc65c1">96</container>
+               </did>
+            </c>
+            <c id="ref165" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate type="inclusive">ca. 1875-1905</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_c3257b626ebe2dc8f08ca4f0af236a60"
+                             type="box">4</container>
+                  <container id="aspace_a25c93eb1c1b23824cee62b847337be3"
+                             type="folder"
+                             parent="aspace_c3257b626ebe2dc8f08ca4f0af236a60">97</container>
+               </did>
+               <scopecontent id="aspace_98a198ba7a3b37c33dd535dd1381a625">
+                  <head>Scope and Contents</head>
+                  <p>Studio portraits of Augusta Dwight Ferris, [Sherwood Bissell Ferris?], and their daughters as children and young women; one informal photo of the family; two of [Isabel?] with friends; [and portraits of a man other than Sherwood Ferris?]</p>
+               </scopecontent>
+            </c>
+            <c id="ref167" level="file">
+               <did>
+                  <unittitle>Photographs of the wedding of Anna Edwards Ferris to Charles Ingalls Marvin</unittitle>
+                  <unitdate type="inclusive">[1902 Sep]</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_d31cd4d988a70b973579804d68539067"
+                             type="box">4</container>
+                  <container id="aspace_3e4a9d714d56183b099d0efb02fd1729"
+                             type="folder"
+                             parent="aspace_d31cd4d988a70b973579804d68539067">98</container>
+               </did>
+               <scopecontent id="aspace_05ddcd5d2676f6294f1c4715aa0ade0b">
+                  <head>Scope and Contents</head>
+                  <p>Small paper album and one mounted photo; photos of the wedding party include Eleanor, Mary and Isabel</p>
+               </scopecontent>
+            </c>
+            <c id="ref169" level="file">
+               <did>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate type="inclusive">ca. 1910-40</unitdate>
+                  <container label="Mixed Materials (39002075017872)"
+                             id="aspace_fced47550810c9da9987af18aa5cdea6"
+                             type="box">4</container>
+                  <container id="aspace_f079f79d0e8ee100f9c50a5321c17e8f"
+                             type="folder"
+                             parent="aspace_fced47550810c9da9987af18aa5cdea6">99</container>
+               </did>
+               <scopecontent id="aspace_a296c3e790b2d761935e3962adb64ea4">
+                  <head>Scope and Contents</head>
+                  <p>Informal snapshots of the Ferris sisters with friends and family, pets, houses, and landscapes; one portrait of [Sherwood B. Ferris with Anna and Anne Marvin?]; portrait of unidentified woman; two enlarged snapshots of unidentified child</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref171" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <physdesc>
+                  <extent unit="folders">5</extent>
+               </physdesc>
+            </did>
+            <c id="ref173" level="file">
+               <did>
+                  <unittitle>Passport of Theodore Dwight (1794- 1866) (Series II)</unittitle>
+                  <unitdate type="inclusive">1821 Apr 21</unitdate>
+                  <container label="Mixed Materials (39002088262325)"
+                             id="aspace_1e91e213711283080af3f8909cbdcdf0"
+                             type="box">5</container>
+                  <container id="aspace_f6f8ac8a0dca2ddfbb9364bb6e8db8f9"
+                             type="folder"
+                             parent="aspace_1e91e213711283080af3f8909cbdcdf0">100</container>
+               </did>
+            </c>
+            <c id="ref174" level="file">
+               <did>
+                  <unittitle>Genealogy of the Dwight Family (Series III)</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002088262325)"
+                             id="aspace_8af8c299416dabb93e0ab1900e27a7d8"
+                             type="box">5</container>
+                  <container id="aspace_55487757f9c7566b32e69ab4e74ad491"
+                             type="folder"
+                             parent="aspace_8af8c299416dabb93e0ab1900e27a7d8">101</container>
+               </did>
+            </c>
+            <c id="ref175" level="file">
+               <did>
+                  <unittitle>Belcher, J., to Timothy Dwight (1694- 1771), fragment regarding the boundaries of Northfield (Series I)</unittitle>
+                  <unitdate type="inclusive">1732 Jun 15</unitdate>
+                  <container label="Mixed Materials (39002088262325)"
+                             id="aspace_2121d32a09ea56694d408f5987bbe1e6"
+                             type="box">5</container>
+                  <container id="aspace_218673c1d75bd1370ae86695c76906ca"
+                             type="folder"
+                             parent="aspace_2121d32a09ea56694d408f5987bbe1e6">102</container>
+               </did>
+            </c>
+            <c id="ref176" level="file">
+               <did>
+                  <unittitle>Dwight, Jonathan, ALS to Timothy Dwight (1694-1771) (Series I)</unittitle>
+                  <unitdate type="inclusive">1763 Jul 1</unitdate>
+                  <container label="Mixed Materials (39002088262325)"
+                             id="aspace_4697a0a7ab404a41c507c65dfe6da571"
+                             type="box">5</container>
+                  <container id="aspace_b328ee737a7108719851ad8a2c5967fb"
+                             type="folder"
+                             parent="aspace_4697a0a7ab404a41c507c65dfe6da571">103</container>
+               </did>
+            </c>
+            <c id="ref177" level="file">
+               <did>
+                  <unittitle>A. B. from Yale College awarded to Theodore Dwight (1794-1866) (Series II)</unittitle>
+                  <unitdate type="inclusive">1814 Sep 14</unitdate>
+                  <container label="Mixed Materials (39002088262325)"
+                             id="aspace_f45efb6582ac941e0433faf2627e5976"
+                             type="box">5</container>
+                  <container id="aspace_a7ca25973bb79106da647c91e05bb941"
+                             type="folder"
+                             parent="aspace_f45efb6582ac941e0433faf2627e5976">104</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref178" level="series">
+            <did>
+               <unittitle>Restricted Fragile</unittitle>
+               <physdesc>
+                  <extent unit="folder">1</extent>
+               </physdesc>
+            </did>
+            <c id="ref180" level="file">
+               <did>
+                  <unittitle>Box 1, Folder 42</unittitle>
+                  <unitdate type="inclusive">1763</unitdate>
+                  <container label="Mixed Materials (39002088262200)"
+                             id="aspace_7a74d6990c1626d0c356e262114e0e51"
+                             type="box">Port, folder 105</container>
+               </did>
+               <accessrestrict id="aspace_c9b7a0847527b8ee4648db1a322e09bc">
+                  <head>Conditions Governing Access</head>
+                  <p>Restricted fragile material in Port 105. Reference surrogates have been substituted in the main files. For further information consult the appropriate curator.</p>
+               </accessrestrict>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

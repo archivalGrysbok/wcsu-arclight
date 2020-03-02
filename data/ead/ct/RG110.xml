@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG110.html" countrycode="us">RG110</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 110, Monday Afternoon Club</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">April 18, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>April 18, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110"> Monday Afternoon Club (Hartford, Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Monday Afternoon Club records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" normal="1887/1938" encodinganalog="245$f">1887-1938</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Monday Afternoon Club was organized on January 4, 1886. The main objective of the society was “the study of history-not general nor in consecutive course, but the selection of certain periods determined by vote of members.”</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG110</unitid>
+		<unitid label="Accession: ">T001446</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The Monday Afternoon Club was organized on January 4, 1886. The main objective of the society was “the study of history-not general nor in consecutive course, but the selection of certain periods determined by vote of members.”</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Records include meeting minutes, correspondence, memorials to deceased members, and a short history of the group’s 50th anniversary (1936).</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>The Connecticut Historical Society has two handwritten sketches by Elizabeth L. Dixon read before the club in 1901 and 1903. The former is entitled, "Green and Cornwallis: the war in the southern department," and the latter is entitled, "Abraham Lincoln and His Policy."</p>
+</relatedmaterial>
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Organizations:</head>
+ <corpname encodinganalog="710" source="dacs">Monday Afternoon Club (Hartford, Conn.)</corpname>
+	</controlaccess>
+ 
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Clubs -- Connecticut -- Hartford</subject>
+			<subject encodinganalog="650" source="lcsh">Women -- Connecticut -- Hartford -- Societies and clubs</subject>
+ 			<subject encodinganalog="650" source="dacs">Monday Afternoon Club (Hartford, Conn.) -- Records and correspondence</subject>
+	</controlaccess>
+
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1887/1938">1887-1938</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry> </entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>1. Minutes</unittitle>
+	<unitdate datechar="creation">1887-1890, 1902-1938</unitdate>
+	<physdesc><extent>7 volumes</extent></physdesc>
+ </did>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1887-1890</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1902-1907</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1907-1909</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1909-1916</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1916-1926</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1926-1933</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>	
+<c03 level="item">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unitdate datechar="creation">1933-1938</unitdate>
+	<physdesc><extent>1 volume</extent></physdesc>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>2. Miscellaneous papers of the club</unittitle>
+	<unitdate datechar="creation">circa 1930-1936</unitdate>
+	<physdesc><extent>1 folder</extent></physdesc>
+ </did>
+<scopecontent><p>This group of records includes a discussion of the history, objectives and rules of the club, the order of business at meetings, memorials to deceased members, and a short history written by Mar Monteith Keller in 1936, the 50th year anniversary.</p></scopecontent>	
+</c02>
+</c01>
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

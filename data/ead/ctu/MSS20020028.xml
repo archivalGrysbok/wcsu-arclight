@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS20020028</eadid>
+<filedesc>
+     <titlestmt>
+            <titleproper>Eaton Farms Development Collection</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Colleen M. Flanagan.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2008  University of Connecticut</publisher>
+            <date type="publication">March 2003</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Colleen M. Flanagan in
+March 2003.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20020028 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Hamill, Hugh.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Eaton Farms Development Collection.</unittitle>
+         <unitdate label="Dates:">1959-2002.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">4.75  linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">Materials relating to the proposed development of the Eaton farmland and related zoning disputes in Mansfield Center, CT (1987-1993).</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS20020028</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>History</head>
+         <p>In 1987, local developer and attorney <persname>Paul Brody</persname> proposed to develop a piece of land in <geogname>Mansfield Center, CT</geogname>.  The proposed development, known as "The Farms," was to consist of condominiums and office spaces.  The land, located between the <geogname>Mansfield</geogname> Town Cemetery and Bassetts Bridge Road along Interstate 195(Storrs Road), had formerly been used as farmland, and has historical significance, since it not only borders the cemetery, but is also thought to be the location where Colonel <persname>Experience Storrs</persname> drilled troops in 1775.</p>
+         <p>A group of concerned citizens who organized themselves as the <corpname>Mansfield Community Group</corpname> protested the proposal, and  in 1989 the project was rejected by the Planning and Zoning Commission of the <corpname>Town of Mansfield</corpname>.  The group remained active after the rejection of what was to later be known as "Farms I," knowing that the plan would be modified and resubmitted.</p>
+         <p>"Farms II" was proposed in 1990, and the <corpname>Mansfield Community Group</corpname> contested the plan mainly on the basis of ecological  concerns: the aquifer, Eaton Bog, and drainage issues.  The plan was  rejected by the Planning and Zoning Commission, and the developer  contested their decision in the <geogname>Rockville</geogname> Superior Court.  In 1993, the court upheld the Planning and Zoning Commission's decision.  The Eaton land was later aquired by the town and remains undeveloped.</p>
+         <chronlist>
+            <listhead>
+               <head01>Date</head01>
+               <head02>Event</head02>
+            </listhead>
+            <chronitem>
+               <date>1987 September</date>
+               <event>"The Farms" [I] development proposed</event>
+            </chronitem>
+            <chronitem>
+               <date>1989 May 17</date>
+               <event>"The Farms" rejected by Planning and Zoning Commission</event>
+            </chronitem>
+            <chronitem>
+               <date>1990 January 23</date>
+               <event>"The Farms II" proposed</event>
+            </chronitem>
+            <chronitem>
+               <date>1990 June 4</date>
+               <event>"The Farms II" rejected by Planning and Zoning Commission</event>
+            </chronitem>
+            <chronitem>
+               <date>1990 June 25</date>
+               <event>Developer appealed Planning and Zoning Commission decision to Rockville Superior Court</event>
+            </chronitem>
+            <chronitem>
+               <date>1993 April 28</date>
+               <event>Court denied appeal</event>
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The collection contains materials that chronicle the struggle against the proposed development of the Eaton farmland as well as the appeals to the Planning and Zoning Commission of the <corpname>Town of Mansfield</corpname> to make changes to the zoning regulations in order to preserve historically significant and ecologically fragile land.  The collection is comprehensive in terms of covering the resistance to the proposal, but although it contains some documents related to the developer's side of the dispute, it is fairly biased towards the opposition.  Also contained in this collection is significant information regarding the geological and hydrological features of the affected area of <geogname>Mansfield Center</geogname>.</p>
+      </scopecontent>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+      	<head>Related Material</head>
+      	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to various aspects of Connecticut history.  See especially the records of the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/CCAG/MSS19870024.html"><corpname>Connecticut Citizens Action Group</corpname></extref> (CCAG).For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The collection is arranged as donated and is in primarily chronological order.  The contents of many folders are in reverse chronological order.</p>
+      </arrangement>
+      <separatedmaterial encodinganalog="544 0" id="a7">
+         <head>Separated Material</head>
+         <p>
+            <title render="italic">Historic Mansfield Center</title>.  Dodd </p>
+      </separatedmaterial>
+<!-- END TOP LEVEL METADATA -->
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         
+         <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local">Mansfield Center (Conn.)</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local">Conservation of natural resources--Connecticut--Mansfield Center.</subject>
+   <subject encodinganalog="650" source="local">Physical geology--Connecticut--Mansfield Center.</subject>
+          <subject encodinganalog="650" source="local">Land use--Connecticut--Mansfield Center.</subject>
+          <subject encodinganalog="650" source="local">Land use--Environmental aspects--Connecticut--Mansfield Center.</subject>
+          <subject encodinganalog="650" source="local">Zoning--Connecticut--Mansfield Center.</subject>
+         <subject encodinganalog="650" source="local">Real estate development--Environmental aspects--Connecticut--Mansfield Center.</subject>
+         
+       
+</controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Correspondence.</genreform>
+            <genreform encodinganalog="655" source="local">Photographs.</genreform>
+            <genreform encodinganalog="655" source="local">Maps.</genreform>
+            <genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+            <genreform encodinganalog="655" source="local">Financial Records.</genreform>
+            <genreform encodinganalog="655" source="local">Minutes.</genreform>
+            <genreform encodinganalog="655" source="local">Fliers. [printed matter]</genreform>
+            <genreform encodinganalog="655" source="local">Photocopies.</genreform>
+            <genreform encodinganalog="655" source="local">Notes.</genreform>
+            <genreform encodinganalog="655" source="local">Books.</genreform>
+            <genreform encodinganalog="655" source="local">Lawsuits.</genreform>
+            <genreform encodinganalog="655" source="local">Speeches.</genreform>
+            <genreform encodinganalog="655" source="local">Petitions.</genreform>
+            <genreform encodinganalog="655" source="local">Newsletters.</genreform>
+            <genreform encodinganalog="655" source="local">Newspapers.</genreform>
+            <genreform encodinganalog="655" source="local">Histories.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Functions:</head>
+            <function encodinganalog="657" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Titles:</head>
+            <title encodinganalog="630" source="local"/>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.  Documents containing telephone numbers have been redacted and the originals are filed separately.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item, Folder #], Eaton Farms Development Collection.  Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center, University of Connecticut Libraries.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The collection was donated by Dr. <persname>Hugh Hamill</persname> in March 2002.  Additional materials were donated in September 2002.</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I: Collection,<unitdate>1959-2002.</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>Summary, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2-4</container>
+                  <unittitle>Farms I Special Permit Application, <unitdate>1987-1988</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>
+                     <title render="italic">Historic Mansfield Center</title>, <unitdate>2002</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>
+                     <geogname>Mansfield</geogname> Zoning Regulations, <unitdate>1982-1989</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>Eaton Property Environmental Review Team Report, <unitdate>1987</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8-10</container>
+                  <unittitle>Farms I Chronology, <unitdate>1989</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:11-13</container>
+                  <unittitle>Farms I Chronology, <unitdate>1982-1988.</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:14</container>
+                  <unittitle>Water Issues, <unitdate>1981-1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:15</container>
+                  <unittitle>Water Issues: Farms II, <unitdate>1989</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:16</container>
+                  <unittitle>Opposition Resources, <unitdate>1988-1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:17</container>
+                  <unittitle>Opposition Consultants (Water), <unitdate>1973-1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:18</container>
+                  <unittitle>DEP &#x0026; Legal Controversies, <unitdate>1988-1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:19</container>
+                  <unittitle>Farms II: Public Hearing, <unitdate>1989-1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:20</container>
+                  <unittitle>Farms II: Correspondence &#x0026; Testimony, <unitdate>1981-1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:21-22</container>
+                  <unittitle>Farms II Chronology, <unitdate>1989-1991</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:23</container>
+                  <unittitle>Farms II: Summary in Opposition, <unitdate>1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:24</container>
+                  <unittitle>Farms II Rejected: Press, <unitdate>1990</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:25</container>
+                  <unittitle>Clippings &#x0026; Other Resources, <unitdate>1984-1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:26</container>
+                  <unittitle>Brief of Developer's Appeal, <unitdate>1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">3:27-28</container>
+                  <unittitle>
+                     <geogname>Mansfield</geogname> Town Plan &#x0026; Commentary, <unitdate>1990-1994</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4:29</container>
+                  <unittitle>
+                     <persname>Doug Crockett</persname> Brief, <unitdate>1992</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4:30</container>
+                  <unittitle>
+                     <geogname>Rockville</geogname> Court Decision, <unitdate>1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4:31</container>
+                  <unittitle>Aftermath, <unitdate>1990-2002</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">4:32</container>
+                  <unittitle>Photograph, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">5</container>
+                  <unittitle>Maps, <unitdate>1959-1982</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

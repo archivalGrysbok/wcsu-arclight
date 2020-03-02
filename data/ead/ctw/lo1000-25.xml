@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-43::James Oliver Longstreet Diary)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/lo1000-25.html">lo1000-25</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James Oliver Longstreet Diary, <lb/><date normal="1856">1856</date>
+                </titleproper>
+        <author>Processed by: Drew Flanagan; machine-readable finding aid created by:
+                    Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2010" encodinganalog="date">©
+                        2010</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: February 2010</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the James Oliver Longstreet Diary, <date type="single">1856</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2006">© 2010</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">
+        <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+      </repository>
+      <origination label="Creator">
+        <persname encodinganalog="100">Longstreet, James Oliver, 1833-1861.</persname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">James Oliver Longstreet Diary, <unitdate normal="1856/1856" type="inclusive">1856</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-25</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">0.1</extent>
+      </physdesc>
+      <physdesc label="Volume">
+        <extent>1</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">James Oliver Longstreet was born
+                November 16, 1833. He received a bachelor's degree from Wesleyan in 1857. As a
+                student at Wesleyan, he was a member of the Mystical Seven secret society and the
+                Missionary Lyceum. After graduating from Wesleyan, Longstreet worked as both a
+                teacher and a preacher until his death in 1861.</abstract>
+      <abstract encodinganalog="520">James Oliver Longstreet's personal diary from the year
+                1856 covers the second semester of his junior year at Wesleyan, as well as the first
+                semester of his senior year. Many events are recorded in the diary, including the
+                1856 presidential election and the founding of the Middletown chapter of the Alpha
+                Delta Phi fraternity. Longstreet also discusses his work as a teacher in North
+                Guilford, Connecticut and North Branford, Connecticut.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], James Oliver Longstreet Diary, Special Collections
+                    &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Received prior to 1980.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Drew Flanagan, February 2010</p>
+        <p>Encoded by Valerie Gillispie, February 2010</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>James Oliver Longstreet was born November 16, 1833, in Onondaga, New York. His
+                parents owned and operated a farm in Onondaga. He received a BA from Wesleyan in
+                1857. As a student at Wesleyan, he was a member of the Mystical Seven secret society
+                and the Missionary Lyceum. Starting in 1856, he served as president of the
+                Missionary Lyceum and as president of the senior class. Longstreet was politically
+                active while at Wesleyan, campaigning for John C. Fremont during the 1856
+                presidential campaign. He was a member of the Republican Party, and active in their
+                group on campus. Longstreet was vocal about his abolitionist views, and expressed
+                pleasure in reading the writings of Frederick Douglas. During the summers and
+                winters he taught school in various locations, especially in North Guilford and
+                North Branford (both in Connecticut). After graduating from Wesleyan, Longstreet
+                taught in Croton Falls, NY, from 1857 to 1858. From 1858-1860, he attended the
+                Collegiate and Polytechnic Institute in Brooklyn, NY, receiving the degree of
+                Masters of Arts. He married Josephine Christopher of Croton Falls, NY, on July 7,
+                1859. In 1860, he joined the Troy Conference of the Methodist Episcopal Church. He
+                was a preacher at Hyde Park, Vermont, from 1860 until his death in 1861.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This collection consists of James O. Longstreet's personal diary from the year 1856.
+                The diary covers the second semester of his junior year at Wesleyan, as well as the
+                first semester of his senior year. Many events are recorded in the diary, including
+                the 1856 presidential election and the founding of the Middletown chapter of the
+                Alpha Delta Phi fraternity. Other notable subjects discussed in the manuscript
+                include the caning of Charles Sumner on the U.S. Senate floor, President Buchanan's
+                interest in the annexation of Cuba, Methodist missionaries in Fiji, abolitionism,
+                temperance, the Mystical Seven, Psi Upsilon, the Eclectic Society, and other
+                Wesleyan activities and organizations.</p>
+      <p>The diary begins in North Guilford, CT, where Longstreet was employed as a schoolteacher
+                for the winter break. While serving as a teacher, he participated in the conversion
+                to Methodism of several individuals, including Carrie and Evan Bartlett, Charles
+                Fowler, Alden Fowler, Dwight Hall, Mary Ann Norton, Mary Chittenden and Cynthia
+                Scranton. Longstreet's strong Methodist faith is in evidence throughout the diary.
+                During the winter of 1856, he began leading prayer meetings in his schoolroom to the
+                consternation of some local religious leaders, who appear to have viewed him as
+                competition. On January 8, the diary records Longstreet's budding affection for one
+                of his students, Miss Lois Dudley, whom he describes as <emph render="doublequote">so smart.</emph> Longstreet's school was kept in working order with the help of
+                several friends from the neighborhood of North Guilford, including students of his
+                and participants in his prayer meetings, notably Anson Fowler and Edwin Bartlett.
+                The arrival in mid-January of Mr. Dutton, another Methodist preacher, seems to have
+                disturbed Longstreet as Dutton would eventually take the meetings <emph render="doublequote">out of (his) hands</emph>, according Longstreet's December
+                31 year-in-review entry. Dutton would move into the parsonage and take Longstreet's
+                place as preacher.</p>
+      <p>On January 18, Longstreet describes the conversion of Carrie Bartlett, a girl who he
+                will counsel for much of the remainder of the year on matters of faith. On January
+                31, he notes that <emph render="doublequote">Fowler hinted strange</emph> against
+                his prayer meetings in the school building. The opposition voiced by Fowler made him
+                feel <emph render="doublequote">a little bad.</emph> On February 3, <emph render="doublequote">Fowler again hinted at me for doing meetings in the
+                    schoolhouse but he may hint on and it will do no good.</emph> In mid-February, a
+                property dispute appears to have arisen between Longstreet and a man named Tobey. On
+                February 13, he quips <emph render="doublequote">Oh! Tobey, what a liar!</emph> The
+                debate is further explicated on February 16, when Longstreet notes that Tobey is
+                currently in possession of goods formerly belonging to a Mr. Britton. Those goods
+                appear to have been claimed by both Tobey and Longstreet, although Longstreet
+                repeatedly calls Tobey a liar. Meanwhile, Longstreet's teaching job was nearing its
+                end. He remained in North Guilford for two weeks after his engagement was over. On
+                March 9, he heard a temperance lecture from a Mr. Cue which he described as <emph render="doublequote">in most respects the most absurd thing I ever heard.</emph>
+                His issues with Mr. Dutton continued, and on March 12 <emph render="doublequote">the
+                    girls</emph> were <emph render="doublequote">annoyed</emph> that Dutton gave
+                Longstreet no chance to speak at the meeting. Anson Fowler, Edwin Bartlett, and
+                Charles Fowler helped Longstreet to plan the exhibition for the end of school, which
+                    <emph render="doublequote">went well except some of the singing</emph> on March
+                19. On that date, he received the gift of <emph render="doublequote">a beautiful
+                    gold pencil and pen</emph> from a student named Augusta. His school ended on March 20, and he
+                departed for Middletown CT and college on March 22.</p>
+      <p>Once at college, Longstreet attended the first of many 
+                meetings of the Mystical Seven secret society. He took classes including Mineralogy
+                and Mechanics. During this time and afterward, he would often spend evenings at the
+                home of Brother Fox, apparently a popular hangout for students at the time. On March
+                31, Longstreet went to Mr. Tobey's store to resolve their dispute over Mr. Britton's
+                goods. Tobey agreed to <emph render="doublequote">divide Britton's yard</emph> or
+                else sell his half to Longstreet for $80. After carefully examining the goods,
+                including 75-100 <emph render="doublequote">good books,</emph> he determined that
+                the goods would sell for 70-80 dollars and determined to offer Tobey 20 dollars for
+                his half of the goods. On April 7, he concluded a deal to purchase the other half of
+                the goods from Tobey at a price of $38. <emph render="doublequote">That way if they
+                    sell well, I will get my pay.</emph> In May, classes continued including German
+                and Logic. On May 29, Longstreet mentions the health situation of Charles Sumner,
+                the recently caned Republican abolitionist Senator, stating that he <emph render="doublequote">is worse.</emph></p>
+      <p>On June 6, Longstreet appears to have received marks. <emph render="doublequote">Made
+                    5 in Logic and German and 4 in Geology,</emph> he wrote. Throughout his diary,
+                Longstreet questions the strength of his faith, including on June 7 when he worries
+                that he is <emph render="doublequote">too lifeless in (his) religion, tho still
+                    trusting with trembling.</emph></p>
+      <p>On June 21, he mentions attending a Republican meeting. <emph render="doublequote">I
+                    am determined to get up a platform,</emph> he reports. On June 22, he notes that
+                Carrie Bartlett is <emph render="doublequote">discouraged trying to be a
+                    Christian,</emph> a situation she seems to find herself in repeatedly. On June
+                25 he reports that the local Republican club has <emph render="doublequote">adopted
+                    the constitution that we drew up.</emph> More political news follows, with a
+                    <emph render="doublequote">grand Democratic splurge</emph> on July 17. <emph render="doublequote">Fremont men [including Longstreet] cheered after meeting
+                    adjourned.</emph> He describes how <emph render="doublequote">some Democrats,
+                    headed by Putnam, made [Brother] Fox run for his life. He hid in Mc.
+                    Donough.</emph> On July 21, he commenced reading Frederick Douglass. <emph render="doublequote">I like it well.</emph></p>
+      <p>The diary describes the founding of the Middletown chapter of the Alpha Delta Phi
+                fraternity. On July 23, Longstreet's friend Powers (probably Orville Watson Powers,
+                class of 1856) contacted him because his society, known as the Lebanians, wanted to
+                    <emph render="doublequote">become a chapter of ΑΔΦ and he wants me to recommend
+                    his society to Head.</emph> Also on that date <emph render="doublequote">fire
+                    broke out in the college barn. Buddington's horse was burned.</emph> Longstreet
+                wrote the recommendation letter for Powers on July 24. On August 1, Longstreet
+                writes, <emph render="doublequote">This morn have learned that the Betrians and
+                    [Powers' group] have united and come out ΑΔΦ!!!</emph></p>
+      <p>On August 7 was commencement, and in possibly the first recorded instance of its kind
+                at Wesleyan, <emph render="doublequote">Carr was rejected by ΑΔΦ and feels
+                    dreadfully.</emph> After commencement, Longstreet visited family in New York. On
+                September 4, he returned to school. September 9, Longstreet was elected president of
+                the Missionary Lyceum. <emph render="doublequote">I don't like the responsibility of
+                    the office,</emph> he wrote. Longstreet was involved actively in cultivating new
+                members for the Mystical Seven during this period, including Wardell, Edson and
+                Gould. Competition between the societies (Longstreet mentions Mystical Seven, Chi
+                Psi, Eclectic, Alpha Delta Phi and Psi Upsilon) was sharp. October 7 he had tea with
+                Professor Van Vleck. On October 9, he and Lois, Ella, Mary E.C., Katy D., Carrie, Mary
+                B., Anson, Edwin, Harrison and Fayette went to the state fair in New Haven.</p>
+      <p>On October 17, Longstreet reports that Buchanan had won the presidential election.
+                According to Longstreet, <emph render="doublequote">. . . the country will go to the
+                    Devil.</emph> He showed great interest and involvement in the Republican cause,
+                even after John C. Fremont's electoral defeat. His diary records the widespread
+                interest in the election. For example, when he went for dinner at his friend Mr.
+                Blake's house on November 5, he reported that, <emph render="doublequote">They are
+                    very much excited about the election. They think old Buck (Buchanan) will make
+                    slaves of us all.</emph> On November 11, Longstreet was hired to teach school in
+                North Branford, CT, for the winter. On a few occasions, most recently on December 30,
+                1856, he reported that he was reading about Methodist missionary work amongst the
+                Feejies (Fijians).</p>
+      <p>
+        <emph render="bold">Of Interest:</emph>
+      </p>
+      <p>Several Wesleyan faculty appear repeatedly in the diary, including Professor True,
+                Professor Johnson, Prof. Huber in German, Professor Lindsay who <emph render="doublequote">preaches a good sermon,</emph> and Professor Van Vleck.</p>
+      <p>Longstreet often worried about his health. February 14 he complained of back pains,
+                while on March 2nd it was <emph render="doublequote">pain in the back and
+                    shoulders.</emph> June 11, he was in bed all day with headache. June 13, he
+                remained in bed but was feeling better. December 4, <emph render="doublequote">looseness of bowels</emph> sent him <emph render="doublequote">with haste to
+                    the barnyard</emph> several times during the night. On December 20, he said
+                    <emph render="doublequote">Don't feel well. Am conscious I am going <emph render="underline">down</emph>. Oh God if consistent give me good
+                    health.</emph> He complained of headache and general sickness.</p>
+      <p>On February 12, Longstreet recorded sending a letter to the <emph render="doublequote">Honorable J. Longstreet,</emph> possibly his father's name.
+                His mother's name is not mentioned.</p>
+      <p>
+        <emph render="bold">Longstreet's Year in Review</emph>
+      </p>
+      <p>James O. Longstreet's diary in unusual, in that it contains a sort of <emph render="doublequote">year in review</emph> section in which he reflects on his
+                experiences in 1856. The following is a full transcription of this section. The
+                underlines (and grammatical irregularities) are Longstreet's own. This section is
+                followed, in the manuscript, by Longstreet's personal financial accounts.</p>
+      <p>12/31/1856 (Wednesday)</p>
+      <p>
+        <emph render="italic">The school today has been <emph render="underline">very</emph>
+                    noisy and <emph render="underline">most</emph> tired me out. Fine winter weather
+                    tho just at night it was snowing some. Lydia, Mr. Chidsey's daughter has gone to
+                    a party. Eve Fayette called at my room. This day closes up the year 1856. It is
+                    with rather sober feelings that I look over the past year and into the new one
+                    just at hand. When this year came in I was at North Guilford teaching the
+                    pleasantest school I ever expect to have. Soon after the commencement of the
+                    year, Lois R. Dudley, a young lady of about 16 came into my school. Of her more
+                    anow. When 1856 came to us I was having good times in school and had begun to
+                    hold religious meetings in school room and they were interesting. Anson Fowler
+                    and I did most all the work but as the winter went on the interest increased. We
+                    had after a time a prayer meeting and a class meeting every week. In the course
+                    of the winter Edwin Bartlett, Charles Fowler, Alden Fowler, Dwight Hall, Carrie
+                    Bartlett, Mary Ann Norton, Mary Chittenden and Cynthia Scranton gave good
+                    evidence of conversion and Fayette, Augusta and Ada Rassiter, Myrta Heall,
+                    George Hall, Mary Bartlett, Louise Norton and Ella Dudley were deeply interested
+                    until Mr. Dutton came and took the meetings out of my hands, then all interest
+                    died out. I was greatly opposed by both churches and when Mr. Dutton came I had
+                    nothing to see to except the class meetings which I kept. Where all these are
+                    tonight is more than I can tell. I fear only a very few are trying to be
+                    Christians. Oh God save them going to perdition.</emph>
+      </p>
+      <p>
+        <emph render="italic">My school closed March 20th. Eve before, had exhibition which
+                    went off well. 28 of my scholars presented me a beautiful gold pen and pencil
+                    which I now prize <emph render="underline">very highly</emph>. Parted with my
+                    school in tears and on March 22nd went to Middletown. Worked hard 'til end of
+                    term, passed examinations and spent one week of vacation visiting North
+                    Guilford. Went back to college and in July came again for a few days. Passed
+                    examinations at the end of the year and became a <emph render="underline">senior</emph>. Went home. Stayed 3 weeks. Bought for sisters a Melodian
+                    (cost $90). Leave home with tears and come back to college. During fall made
+                    several fruitless attempts to get a school for the winter and at last determined
+                    to go home. Packed my trunk and got excused from college November 10th. Came
+                    to North Guilford to make short visit and while there had offer of district
+                    school in North Branford at $35 and found per month of 20 days each and I took
+                    it. So here I am at the close of the year teaching within four miles of where I
+                    was one year ago. This year which is just leaving has been in some respects the
+                    best of my life and will be long remembered. Last winter was a bright page in my
+                    history. But what is my present situation, prospects and c.? Not as good as I
+                    could wish. My school is too large and by no means a pleasant one. My boarding
+                    place is worse than the school. The board is the worst I have ever had in my
+                    life and if I could move my quarters I would do it suddenly. My room is
+                    comfortable and my bed good. I now expect to preach at North Madison every other
+                    Sunday during the winter. I hope God will use me for accomplishing some little
+                    good. My health is not good. I have had several poor days this winter,and feel
+                    that I am going downhill. I work pretty hard and have poor fare and grow poor
+                    under it. I hope and pray for health, for if that leaves me, I am gone for I
+                    have nothing to live upon, much less to pay my debts with.</emph>
+      </p>
+      <p>
+        <emph render="italic">I have been dreaming for some months about getting married.
+                    Not that I wish a wife now, but I would like some Yankee girl in about two
+                    years. I have been on the look out for some time but have seen none that quite
+                    suit me. I want a good, pious girl, well educated and moderately handsome and a
+                    good singer and a <emph render="underline">neat</emph> housekeeper. For quite a
+                    while I have had Lois in my mind and I cannot get her out, though I know in all
+                    reason she can never be my wife. She is smart enough and good enough and her
+                    singing will do and I am sure that she is neat and she is pretty good looking
+                    and has a <emph render="underline">good</emph> figure; but am some six years the
+                    older, she has not yet sufficient education, though she might improve that
+                    before I should want her, and she has red hair. These are some objections on my
+                    part and no doubt on her part there are many more, so that if she was
+                    alright it might do me no good. She is a blessed good girl and I shall not only
+                    keep alive our acquaintance but push it further, but must do it cautiously. At
+                    present I think more of her than all the other girls in the world but shall not
+                    allow the back part of my head to run away with me. I have prayed and continue
+                    to pray, <emph render="doublequote">Oh God, direct me in so important a matter
+                        as the selection of a wife.</emph> Well here I am truly just on the brink of
+                    the old year's grave. In looking over my life for the past year I can see some
+                    things which I did and am now sorry for but my fault has been not so much in
+                    positive evil acts as in living at too great a distance from God. I have not
+                    been spiritual enough through this whole year. I think on the whole I have
+                    improved in some respects. I think I have a more settled Christian character
+                    than I had one year ago but am not more <emph render="underline">alive</emph>.
+                    Will I do better for the future? I am almost afraid to promise, for I see no
+                    reason to think I shall keep it any better than I have kept others. But Lord if
+                    thou will assist me to keep my promise I will agree to live nearer thee.</emph>
+      </p>
+      <p>
+        <emph render="italic">Another year has gone and I am one year nearer my grave. I
+                    have one year less in which to do good. Oh, how swiftly does time move on. Soon
+                    my work will be ended, or at least my time for work and I shall be in the
+                    presence of my judge. Oh God, help me to live so that I can give up my account
+                    with joy. Show me my duty oh Lord that I may do it. Will thou have me to preach
+                    thy gospel? Prepare me for the great work and I will go forth. My trust in God
+                    tonight it strong. I give my all into his hands and firmly believe that he will
+                    direct my ways. Tonight I am comfortable and happy. Where will I be in one year
+                    from this night? Perhaps in eternity. Oh Lord thou alone canst tell, prepare me
+                    for what is before me. Old year I sigh to bid you adieu. 1857 may be as
+                    pleasant, but thy face is familiar. Thy name I have learned to love, and what
+                    the next day may bring no mortal knows. I am almost afraid to trust it, but thou
+                    canst no long stay so good bye, old year, good bye. Thou hast been my friend,
+                    and in thy new made grave I drop a tear. Well little book I have about done with
+                    thee. Thy page will tell truthfully the most of my history for the past year.
+                    Thou has been willing to receive my sorrows and trials as well as my joys, and
+                    in after time I will love to hear the stories that thou will tell of my course
+                    through the year 1856. Little book I am now to place you among my old friends.
+                    Good bye.</emph>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online
+                catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Republican Party (Conn.)</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+                Conn.)--History--19th century.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.).
+                Missionary Lyceum.</corpname>
+      <persname encodinganalog="600">Longstreet, James Oliver, 1833-1861.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+                Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Mystical Seven (Fraternity : Wesleyan
+                University, Middletown, Conn.)</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Alpha Delta Phi. Wesleyan
+                Chapter.</corpname>
+      <subject encodinganalog="650" source="lcsh">Presidents--United
+                States--Election--1856.</subject>
+      <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+      <geogname source="lcnaf" encodinganalog="651">North Guilford (Guilford,
+                Conn.)</geogname>
+      <geogname source="lcnaf" encodinganalog="651">North Branford (Conn. : Town)</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Middletown (Conn.)</geogname>
+      <subject encodinganalog="650" source="lcsh">College students--Political activity--Connecticut--Middletown.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Young Men's Republican Club of Wesleyan, Constitution and Minutes, 1856, Special Collections &amp; Archives, Wesleyan University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Volume">1</container>
+            <unittitle>James Oliver Longstreet Diary, 1856</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

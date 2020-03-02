@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+
+<ead>
+ <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+  langencoding="iso639-2" repositoryencoding="iso15511">
+
+  <eadid countrycode="us" mainagencycode="CtW"
+   publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-5::Textile Collection)//EN"
+   url="http://www.wesleyan.edu/libr/schome/FAs/te1000-5.xml">te1000-5</eadid>
+  <filedesc>
+   <titlestmt>
+    <titleproper>Inventory of the Textile Collection, <lb/><date normal="1885/9999">1885 -
+      [ongoing]</date>
+    </titleproper>
+    <author>Processed by: Thea deArmond; machine-readable finding aid created by: Valerie
+     Gillispie</author>
+
+    <!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+   </titlestmt>
+
+   <publicationstmt>&hdrsca; <p><date normal="2008" encodinganalog="date">&#x00A9;
+      2008</date> Wesleyan University. All Rights Reserved.</p>
+   </publicationstmt>
+
+
+  </filedesc>
+
+  <profiledesc>
+   <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+    <date>Date of source: May 2008</date>
+   </creation>
+   <langusage>Description is in <language langcode="eng">English</language>
+   </langusage>
+
+   <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+
+  </profiledesc>
+
+  <!-- Location of <revisiondesc> if needed -->
+
+ </eadheader>
+
+
+ <frontmatter>
+  <titlepage>
+   <titleproper>Inventory of the Textile Collection, <date type="span">1885 - ongoing</date>
+   </titleproper>
+
+   <publisher>
+    <extptr show="embed" entityref="weseal"/> Special Collections &amp; Archives<lb/>Wesleyan
+    University<lb/> Middletown, CT, USA </publisher>
+
+
+   <!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+
+   <p><date normal="2007">&#x00A9; 2007</date> Wesleyan University. All Rights Reserved.</p>
+  </titlepage>
+ </frontmatter>
+
+
+ <archdesc level="collection" relatedencoding="MARC">
+
+  <did>
+   <head>Descriptive Summary</head>
+
+   <repository label="Repository">
+    <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+   </repository>
+
+   <origination label="Creator">
+    <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.).</corpname>
+   </origination>
+
+   <unittitle label="Title" encodinganalog="245">Textile Collection, <unitdate normal="1885/9999"
+     type="inclusive">1885 - [ongoing]</unitdate></unittitle>
+
+   <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099"
+    >1000-5</unitid>
+
+   <langmaterial label="Language of Material" encodinganalog="546">Material in <language
+     langcode="eng">English</language></langmaterial>
+
+   <physdesc label="Linear Feet">
+
+    <extent encodinganalog="300">52</extent>
+   </physdesc>
+   <physdesc label="Archival Boxes">
+    <extent>36</extent>
+   </physdesc>
+
+   <physloc label="Location">For current information on the location of these materials, please
+    consult Special Collections &amp; Archives staff.</physloc>
+
+   <abstract encodinganalog="520">The textile collection contains shirts, hats, commencement robes,
+    sweaters, uniforms, and other apparel related to Wesleyan University.</abstract>
+
+  </did>
+
+  <descgrp type="admininfo">
+   <head>Administrative Information</head>
+
+   <accessrestrict encodinganalog="506">
+    <head>Access Restrictions</head>
+    <p>No restrictions.</p>
+   </accessrestrict>
+
+   <userestrict encodinganalog="540">
+    <head>Copyright Notice</head>
+    <p>Copyright is retained by the authors of items in these papers, or their descendants, as
+     stipulated by United States copyright law.</p>
+   </userestrict>
+
+   <prefercite>
+    <head>Preferred Citation</head>
+    <p>[Identification of item], Textile Collection, Collection #1000-5, Special Collections
+     &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+   </prefercite>
+
+   <acqinfo encodinganalog="541">
+    <head>Acquisitions Information</head>
+    <p>Acquired from numerous donors. See Special Collections &amp; Archives for details.</p>
+   </acqinfo>
+
+   <processinfo>
+    <head>Processing Information</head>
+    <p>Processed by Thea deArmond, December 2006; University Archives staff, ongoing</p>
+    <p>Encoded by Valerie Gillispie, May 2008</p>
+   </processinfo>
+
+  </descgrp>
+
+
+  <!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+  <scopecontent>
+   <head>Collection Overview</head>
+   <p>The textile collection contains shirts, hats, commencement robes, sweaters, uniforms, and
+    other apparel related to Wesleyan University. </p>
+
+   <arrangement>
+    <head>Collection Arrangement</head>
+    <p>The collection is not arranged. Items are added as they are acquired. </p>
+   </arrangement>
+  </scopecontent>
+
+  <controlaccess>
+   <head>Online Catalog Headings</head>
+   <p>These and related materials may be found under the following headings in online catalogs.</p>
+
+   <!-- use "Item Level Tags" here for controlaccess terms -->
+
+   <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+    Conn.)--Students.</corpname>
+
+   <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+    Conn.)--History.</corpname>
+   <subject source="aat" encodinganalog="655">Textiles.</subject>
+
+
+  </controlaccess>
+
+  <!-- Use separated materials and related materials clips here to enter in information -->
+
+
+  <dsc type="combined">
+   <head>Detailed Description of the Collection</head>
+   <!-- use component levels clips to enter in the description of subordinate components -->
+   <c01>
+    <did>
+     <unittitle/>
+    </did>
+    <c02 level="subseries">
+     <did>
+      <unittitle>David P. Weber, class of '86 t-shirts</unittitle>
+     </did>
+     <c03>
+      <did>
+       <container type="Box">1</container>
+       <unittitle>Light green <emph render="doublequote">Zonker Harris Day West College 1982</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Blue and green tie-dyed <emph render="doublequote">Zonker Harris Day 1984</emph>
+        t-shirt with pink star</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Yellow and pink tie-dyed <emph render="doublequote">Zonker Harris Day 1984</emph>
+        t-shirt with pink star</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Dark blue <emph render="doublequote">Uncle Duke Day / West College / Wesleyan U. /
+         Oct. 24, 1981</emph> t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Pale yellow <emph render="doublequote">Duke Day</emph> t-shirt with Uncle
+        Duke</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Yellow and dark green t-shirt with surreal graphics</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>White <emph render="doublequote">Retire Regan / Feminist House</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Orange <emph render="doublequote">Wesleyan University fall Ball 1984</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Yellow, pink, blue, tie-dyed <emph render="doublequote">Uncle Duke Day 1981</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Light yellow <emph render="doublequote">Wesleyan University / It wasn't a job. It
+         wasn't even an adventure.</emph> t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Grey <emph render="doublequote">Universitas Wesleiana / Who's Watching Us
+         Now?</emph> t-shirt, 1984</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <container type="Box">2</container>
+       <unittitle>Naples yellow <emph render="doublequote">Zonker Harris Day '85</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>White and black <emph render="doublequote">Niezsch Factor</emph> baseball
+        tee</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Red long-sleeved <emph render="doublequote">Niezsch Factor</emph>
+        t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Yellow and purple t-shirt with Russian text</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Pink <title render="doublequote">April Fools '85</title> t-shirt</unittitle>
+      </did>
+     </c03>
+     <c03>
+      <did>
+       <unittitle>Black <emph render="doublequote">Purchase '84</emph> (Purchase Frisbee Cup)
+        t-shirt</unittitle>
+      </did>
+     </c03>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">3</container>
+      <unittitle>Orange tie-dyed <emph render="doublequote">Project Quezaltenango Donde
+        Iremos</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Charcoal <emph render="doublequote">The Muse Concerts / A Non Nuclear Future</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Burgundy <emph render="doublequote">Ultimate Bowl Athens, GA April 17-18,
+        1982</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Light blue <emph render="doublequote">Nietzsch Factor</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Charcoal <emph render="doublequote">People Can Make a Difference / Reverse the Arms
+        Race / Nuclear Resistance Group</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Fuchsia <emph render="doublequote">Ultimate Frisbee Marathon for Hunger Action,
+        Vassar College, 1987,</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Navy blue <emph render="doublequote">Alternative Radio 91.3 FM Stereo University of
+        Hartford</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Navy blue <emph render="doublequote">International Frisbee Association (IFA)</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Niezsch factor</emph> t-shirt with bright pink
+       graphic of nude Nietzsche</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">4</container>
+      <unittitle>Red <emph render="doublequote">Wesleyan / Not:…and it's NOT an all girl's college
+        outside of Boston</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White Wesleyan University t-shirt with purple letters, mid 1990s</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wescrew</emph> t-shirt, early 1990s</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan University</emph> t-shirt; back: <emph
+        render="doublequote">Weslead Wescape</emph> with cardinal</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan University, Middletown Connecticut</emph>
+       t-shirt; back: <emph render="doublequote">Wesleyan NOT: . . . and it's NOT an all girls
+        college outside of Boston</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">WesWell</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">5</container>
+      <unittitle>White <emph render="doublequote">Wesleyan Class of 1989</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Freeman Athletic Center Grand Opening March 31,
+        1990</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <title render="doublequote">Wesleyan Orientation '89</title>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">No Brain No Gain</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Wescrew</emph> t-shirt with red text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan University</emph> t-shirt with black
+       text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">6</container>
+      <unittitle>White <emph render="doublequote">Super Foss Day '98 Wesleyan University</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan</emph> v-neck, 2001</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Congratulations on 25 Years of Service at Wesleyan
+        University</emph> t-shirt; back: <emph render="doublequote">Faculty / Staff Appreciation
+        Picnic 2001 Class of 1976</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt with Wesleyan crest and <emph render="doublequote">Universitas
+        Wesleiana</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Capitol Cardinals / We Score More</emph> t-shirt
+       with angry volleyball-wielding cardinal</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Class of '87 Wesleyan University / Graduation / The
+        World Awaits</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">7</container>
+      <unittitle>White <emph render="doublequote">Congratulations on 30 Years of Service at Wesleyan
+        University</emph> t-shirt; back: <emph render="doublequote">Faculty / Staff Appreciation
+        Picnic 2001 Class of 1971</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Get Zonked Zonker Harris Day 2000</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Green tie-dyed <emph render="doublequote">Weshop / Convenience, natural and bulk
+        foods</emph> t-shirt, 2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Maroon <emph render="doublequote">Hewitt</emph> t-shirt; back: <emph
+        render="doublequote">Top 10 Reasons to Live in Hewitt . . .</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Skidmore Basketball 2000 Tip-Off Tournament</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt, <emph render="doublequote">Westonecoldsober</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">8</container>
+      <unittitle>White ringer tee with stork carrying a <emph render="doublequote">TC</emph>
+       Frisbee; back: <emph render="doublequote">When seven hot people come together, the stork
+        brings them a Frisbee</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Citius Altius Fortius</emph> t-shirt; back: <emph
+        render="doublequote">Wesleyan Class of 2003</emph> and crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan University Residential Life
+        2001-2002</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Camp on Borrowed Time</emph> t-shirt, senior
+       thesis of Lin Manuel Miranda, 2002</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan</emph> in Hebrew t-shirt 2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Bright green t-shirt with black Wesleyan crest 2001-2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">9</container>
+      <unittitle>Brown <emph render="doublequote">The Art Library…a great place to work</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Bright green t-shirt with black Wesleyan crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan University</emph> t-shirt with Wesleyan
+       crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan University</emph> t-shirt with crest;
+       back: <emph render="doublequote">Middletown - Connecticut - 1651 - 350 -
+       2001</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Get Zonked Westco '99</emph> t-shirt; <emph
+        render="doublequote">It would drive your mom to debauchery</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Iso-2001</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">10</container>
+      <unittitle>Yellow <emph render="doublequote">Welcome . . . Wesleyan</emph> t-shirt with
+       abstract picture of campus</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Howe Cup 1993</emph> shirt with pictures of
+       rackets and balls</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan University 1986</emph> t-shirt; <emph
+        render="doublequote">It wasn't a job. It wasn't even an adventure.</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Cultural Rhythms / Community of Different
+        Drummers</emph> t-shirt; <emph render="doublequote">Wesleyan University Student of Color
+        Prefrosh Program April 17-19, 1996</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan Debate</emph> t-shirt; back: <emph
+        render="doublequote">We do it standing up in 8 minutes in front of a
+       judge</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Toga Party '94 Alpha Delta Phi Wesleyan
+        University</emph> t-shirt with two Romans with foaming tankards of beer</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">11</container>
+      <unittitle><emph render="doublequote">??? Society</emph> white t-shirt with Wesleyan crest;
+       back: <emph render="doublequote">??? Society First Annual Convention, Middletown Chapter,
+        Wesleyan University, Middletown, Connecticut / August 26-29, 1993</emph>
+      </unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan University</emph> t-shirt, listing
+       aspects of Wesleyan and Wesleyan life</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan Goes to Washington</emph> t-shirt, <emph
+        render="doublequote">March 7, 1983, National Student Lobby Day</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Gray <emph render="doublequote">Wesleyan</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Nescac 96 football</emph> t-shirt with football
+       helmets</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">12</container>
+      <unittitle>White <emph render="doublequote">Middletown's Youth: A Celebration of Us</emph>
+       shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White v-neck t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White Wesleyan football t-shirt <emph render="doublequote">Refuse to Lose / We will
+        beat Williams</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Christmas in April / Greater Middletown</emph>
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Hi/Lo Rise '01-02</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan 03 Hockey</emph> t-shirt,
+       2004</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Blue tie-dyed Nicolson 2002 t-shirt, <emph render="doublequote">Only 83 ½ steps
+        from Mocon to the Bathroom</emph> with picture of toilet</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Senior Woodframe 2004</emph> t-shirt, <emph
+        render="doublequote">Where's the Party?</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan</emph> (repeated in various fonts)
+       t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Weswings</emph> t-shirt, anthropomorphic
+       drumsticks, <emph render="doublequote">Chicken with Attitude</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red class of 1980 t-shirt, <emph render="doublequote">Wesleyan / 10th
+        Reunion</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">13</container>
+      <unittitle>Red <emph render="doublequote">Wesleyan Dance Dept.</emph> sweatshirt, early
+       1990s</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black zip-up hoodie, 2002</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">14</container>
+      <unittitle>Red v-neck with <emph render="doublequote">222 Church St.</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White rugby shirt, 2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red rugby shirt, 2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Summerfield</emph> v-neck, 2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">15</container>
+      <unittitle>Black <emph render="doublequote">Wesleyan</emph> swim cap</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan</emph> hockey jersey, <emph
+        render="doublequote">19</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black Asic shorts</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Men's/women's crow uniform, 1999-2002</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black hoodie with Wesleyan crest</unittitle>
+     </did>
+    </c02>
+
+    <c02>
+     <did>
+      <container type="Box">16</container>
+      <unittitle>Knitted blue football helmet, 1885-1888</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black "Wesleyan" scarf, 2002-2003</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black stocking cap with cardinal, 2000-2002</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">17</container>
+      <unittitle>Black and red reunion jacket, <emph render="doublequote">28,</emph> Earl L. Gaylor,
+       class of 1928</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black reunion sweater with red <emph render="doublequote">W,</emph> Earl L. Gaylor,
+       class of 1928</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">18</container>
+      <unittitle>Red, black, yellow banner with <emph render="doublequote">'89</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black banner with <emph render="doublequote">'93</emph> and red <emph
+        render="doublequote">Wesleyan University '93</emph> pin</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black <emph render="doublequote">Cardinals Wesleyan</emph> banner with
+       bickering cardinals in Wesleyan sweaters</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Wesleyan</emph> pennant, text red</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Large red <emph render="doublequote">Wesleyan</emph> banner, red text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Large black <emph render="doublequote">Wesleyan</emph> banner, red text, from Den
+       Jennings, class of '36</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">19</container>
+      <unittitle>Fringed black <emph render="doublequote">Wesleyan 1927</emph> square of
+       cloth</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan</emph> pennant with Wesleyan
+       seal</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan University</emph> tote bag with
+       crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black <emph render="doublequote">Wesleyan University</emph> tote
+       bag</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black flag of the Old Commons Club</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Green, yellow, and purple <emph render="doublequote">Ivy Club</emph>
+       flag</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>US flag, 48 stars</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red, yellow, blue, white service flag</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Two red strips of felt with circled '07 in black</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White strip of cloth with "Strike" and fist in red</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Maroon and pink ribbon, <emph render="doublequote">93</emph> pin in
+       center</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Wood and paper fan with silver/white painted flowers and Wesleyan pennant in red
+       and black</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White sack</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Off-white tassel</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">20</container>
+      <unittitle>Two red hats with black band</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black beanie</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Brown beanie, <emph render="doublequote">Simms</emph> written inside,
+       1912</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black cap, <emph render="doublequote">14</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Two white bucket hats, Wesleyan Seniors</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Khaki bucket hat, Wesleyan <emph render="doublequote">'34's 50th</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black beanie, <emph render="doublequote">63</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red beanie, skull image</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White conductor's cap, <emph render="doublequote">14,</emph> Holmes written
+       inside</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">21</container>
+      <unittitle>Black <emph render="doublequote">Wesleyan Hockey</emph> baseball cap</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black and red <emph render="doublequote">Wesleyan University</emph> cap with crest;
+       back: <emph render="doublequote">1991</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black cardinal cap; back: <emph render="doublequote">WESeniors</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black cardinal baseball cap</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Go Wes</emph> conductor's cap; Wesleyan seal on
+       top</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White Wesleyan conductors cap; <emph render="doublequote">Foss Hill Five Six Seven
+        Annex '84</emph> on top; back: <emph render="doublequote">Always on Top</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Two black <emph render="doublequote">W</emph> baseball caps</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black and red beanie, Willard Lockwood</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Navy blue Wesleyan University <emph render="doublequote">W</emph> visor</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">W/Freeman Athletic Center</emph> baseball
+       cap</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">22</container>
+      <unittitle>Black graduation cap, Elizabeth P. Bransfield, Class of 1907</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black graduation cap, given by Paul DiSanto</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black MA hood, 1888, Frank P. Upham</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black MA hood</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red, black, and white MA hood</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Yellow, black, red hood brought in by Chriskylin</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Caleb Winchester's gown</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">23</container>
+      <unittitle>Black commencement robe, Will Beach, class of 1926</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">25</container>
+      <unittitle>White <emph render="doublequote">Event Support Wesleyan University</emph> ringer
+       tee with red cardinal and lettering; back: <emph render="doublequote">ITS Event
+        Support</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan</emph> hoodie with black
+       lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Middletown Flatball Association</emph> hoodie with
+       red lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">26</container>
+      <unittitle>Grey <emph render="doublequote">W</emph> sweatshirt, red text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan</emph> sweatshirt, black text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">27</container>
+      <unittitle>Red <emph render="doublequote">Wesleyan University Orientation 2004</emph> t-shirt
+       with crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Two white <emph render="doublequote">Wesleyan University Class of 2005 Senior
+        Gift</emph> t-shirts with crest; back: names listed</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan Athletics</emph> t-shirt with cardinal in
+       front of W</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White long-sleeved <emph render="doublequote">Senior Woodframe 2006 Wesleyan
+        University</emph> t-shirt with house</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Pink poorly tie-dyed <emph render="doublequote">Get Well</emph> t-shirt; back:
+        <emph render="doublequote">Know Your ABCs . . . WesWell</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Wesleyan Football</emph> t-shirt with football and
+       cardinal</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">28</container>
+      <unittitle>Cardinal t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Navy blue <emph render="doublequote">NESCAC CHAMPIONSHIPS 2001</emph> t-shirt;
+       back: volleyball and schools listed on the back</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Molecular Biology &amp; Biochemistry
+        MB&amp;B</emph> t-shirt</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Yellow t-shirt with Wesleyan crest; back: <emph render="doublequote">Event
+        Staff</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White long-sleeved t-shirt; back: <emph render="doublequote">Oddfellows Playhouse
+        Neighborhood Troupes Program</emph> with boy wearing sandwichboard sign</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Blue and orange baseball t-shirt, <emph render="doublequote">Buenos Aires Argentina
+        Flagso Facultad Latino-Americana de Ciencias Sociales</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan</emph> t-shirt, black text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">29</container>
+      <unittitle>Grey <emph render="doublequote">Wesleyan</emph> sweatshirt with white and maroon
+       lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan W</emph> jacket with white piping and <emph
+        render="doublequote">Wesleyan University</emph> on sleeves </unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">30</container>
+      <unittitle>Black and white mesh <emph render="doublequote">WESeniors</emph> cap, text in white
+       and red</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red <emph render="doublequote">Wesleyan University Orientation 2004</emph> t-shirt,
+       with Wesleyan crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Yellow <emph render="doublequote">WWW@iso'05</emph> t-shirt with Wesleyan crest;
+       back: <emph render="doublequote">Wesleyan University welcomes the world
+       @Iso</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Dark green <emph render="doublequote">Summerfields</emph> polo, red
+       text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Grey <emph render="doublequote">Wesleyan Football</emph> hoodie with cardinal and
+       football</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">31</container>
+      <unittitle>Black <emph render="doublequote">Wesleyan University, 175 years</emph>
+       pin</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Class of 1961 45th Reunion</emph> beanie with red
+       lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">Wesleyan University</emph> polo with red
+       lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black baseball cap with white <emph render="doublequote">W</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Maroon <emph render="doublequote">Wesleyan University Residential Life
+        2005-2006</emph> t-shirt with white lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White <emph render="doublequote">Seniors '06</emph> t-shirt; back: <emph
+        render="doublequote">Busting out</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Dark green <emph render="doublequote">Summerfields</emph> polo with red
+       text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Orange t-shirt <emph render="doublequote">Ter-qua-squi-cen-ten-ni-al, noun: a 175th
+        anniversary or celebration. Coming soon to your alma mater,</emph> Wesleyan
+       crest</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black <emph render="doublequote">S.W.A.B.</emph> t-shirt; back: <emph
+        render="doublequote">Survey of Wesleyan Access to Bathrooms 2006</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">32</container>
+      <unittitle>Black apron: <emph render="doublequote">1st Annual Thanksgiving Dinner, Wesleyan
+        University</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Congratulations on 5 years of
+        service at Wesleyan University</emph>; Back: <emph render="doublequote">Faculty/Staff
+        Appreciation Picnic 2001, Class of 1996</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt, hand silkscreened with red and green. Text: <emph
+        render="doublequote">Foss Fest? Fine By Me</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red t-shirt, <emph render="doublequote">Wesleyan Tennis</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Blue t-shirt. Front: <emph render="doublequote">WES Swimming &amp; Diving
+        Winter Training 2005</emph>; Back: <emph render="doublequote">Hurts so
+       good!</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black Wesleyan skull cap</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black long-sleeved t-shirt. Front: <emph render="doublequote">Hewitt</emph>; Back:
+        <emph render="doublequote">Kiss me I'm Hewish</emph>; Sleeve: <emph render="doublequote"
+        >2003-2004 Hewitt</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt, <emph render="doublequote">Wesleyan University Dining
+        Services</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red t-shirt with cardinal on front. Back: <emph render="doublequote">The few...the
+        proud/Wesleyan Swimming &amp; Diving Nescac Championships 2007</emph> with list of
+       women's team members</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Green t-shirt. Front: <emph render="doublequote">Summerfields/Great food perfect
+        balance</emph>; Back: <emph render="doublequote">Feed the Locals!</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red v-neck t-shirt, <emph render="doublequote">Wesleyan Dining
+       Services</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt, <emph render="doublequote">Wesleyan University KSA/Korean Student
+        Association</emph> with Korean characters on back</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red fleece blanket with embroidery: <emph render="doublequote">Wesleyan
+        Faculty/Staff Appreciation Picnic 2004</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">33</container>
+      <unittitle>Navy blue polo, <emph render="doublequote">Wesleyan University
+       Staff</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black baseball cap with 175th logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan University Class of 2005
+        Senior Gift</emph> with shield; back: list of names and <emph render="doublequote">Beat
+        93%</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan Baseball</emph>; back:
+        <emph render="doublequote">A tradition since 1865</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt hand silkscreened, <emph render="doublequote">Nagarote Wesleyan
+        Partnership</emph> with logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Long sleeved black t-shirt, <emph render="doublequote">Say it Laude</emph> with
+       175th logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt; front: <emph render="doublequote">Queer Awareness Days 2003, the
+        Endless Acronym</emph>; back has long acronym with other text</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red t-shirt with picture of Doug Bennet and some Russian text, sent to the class of
+       2007 from the Wesleyan Fund</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">34</container>
+      <unittitle>Red t-shirt. Back: <emph render="doublequote">Wesleyan University/Amnesty
+        International</emph> with logo, circa 2007</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">WAF</emph>; Back: <emph
+        render="doublequote">Wesleyan Annual Fund,</emph> circa 2007</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">WAF</emph>; Back: <emph
+        render="doublequote">Wesleyan Annual Fund,</emph> circa 2007. In original plastic wrap in
+       telephone shape.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan University</emph> with
+       small cardinal logo; back: <emph render="doublequote">Orientation '07</emph> with large
+       cardinal logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">DKE/Gamma Phi</emph>; back: <emph
+        render="doublequote">If you're gunna' be Greek . . . /Why not be a GOD?/Wesleyan Greek Week
+        '07</emph> with picture of spartan</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt. Front: 175th Anniversary Wesleyan logo; back: photo of McConaughy
+       Hall, <emph render="doublequote">McConaughy Hall, 1962-2007</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black drawstring bag with cardinal logo and <emph render="doublequote"
+        >WESLEYAN,</emph> 2007</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black polo shirt embroidered on front: <emph render="doublequote">Wesleyan
+        Dining/By Bon Appetit,</emph> circa 2007-2008</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black hooded sweatshirt. Front: cartoon of figure playing frisbee; back: <emph
+        render="doublequote">Nietzsch Factor,</emph> circa 2007-2008</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <container type="Box">35</container>
+      <unittitle>Navy blue t-shirt. Pink writing on front: <emph render="doublequote">Beta Theta
+        Pi/Hell Week 2008</emph>; back: <emph render="doublequote">It's The Best Week EVER</emph>
+       with image of campfire</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Gray t-shirt. Front: Wesleyan cardinal and W, with <emph render="doublequote"
+        >Wesleyan University</emph> above and <emph render="doublequote">Lacrosse</emph>
+       below</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">In the/ Heights/ A New
+        Musical</emph>; back: <emph render="doublequote">W/Richard Rodgers Theatre, New York
+        City/September 5, 2008</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Teal t-shirt. Front: Image of Abraham Lincoln riding Tyrannasaurus Rex, <emph
+        render="doublequote">Hi Rise/Lo Rise</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Gray t-shirt. Front: Nike swoosh, with <emph render="doublequote"
+        >Wesleyan/Football</emph> and design of football; back: <emph render="doublequote"
+       >78</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan University/Class
+        of/Oh/Nine/Gave to the Wesleyan Fund</emph> and Wesleyan shield; back: <emph
+        render="doublequote">Did/you?</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Stocking cap (hat). Red with black band and black W.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan University</emph> in dark
+       red with image of College Row buildings in black</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red child-size t-shirt. Front: <emph render="doublequote"
+        >Wesleyan/University</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Pink bra. Signed by approximately 20 men, and marked <emph render="doublequote"
+        >Bill Higginson/Frosh Burn/Dec. 19, '33</emph></unittitle>
+     </did>
+     <scopecontent>
+      <p>Donated by Beth Higginson, January 2009.</p>
+     </scopecontent>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red felt banner, possibly an arm band. Black oval with black <emph
+        render="doublequote">'07</emph> in the center</unittitle>
+     </did>
+     <scopecontent>
+      <p>Belonged to George Lewis Mylchreest, class of 1907. Donated by Vorrey Mylchreest, August
+       2009.</p>
+     </scopecontent>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Small red change purse: <emph render="doublequote">Wesleyan Public Safety /
+        860-685-2345 / Emergency: 860-685-3333 / www.wesleyan.edu/publicsafety</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White ringer t-shirt. Front: <emph render="doublequote">WesHaul / Moving In Made
+        Easier</emph> with orange image of College Row.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black and red polo shirt. Front: <emph render="doublequote">Usdan University
+        Center</emph> embroidered in white thread, and <emph render="doublequote">Wesleyan
+        University</emph> in white thread on right arm</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Blue t-shirt. Front: orange design with the letters W, O, and C [Wesleyan Outing
+       Club]</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Wesleyan University /
+        Fast*A*Thon</emph> in orange. Back: <emph render="doublequote">Fast*A*Thon / Thursday, /
+        October 1, 2009 / Sponsored by: / Interfaith Justice League / Muslim Student Association /
+        Haveli / Bon Appetit / Muslim Coalition of CT / University Chaplains / Office of Community
+        Service / SBC / SALD</emph> in orange</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Gray t-shirt. Front: <emph render="doublequote">Wesleyan</emph> in red lettering
+       with black border</unittitle>
+     </did>
+    </c02>
+
+
+
+    <c02>
+     <did>
+      <container type="Box">36</container>
+      <unittitle>Gray sweatshirt. Front: <emph render="doublequote">Wesleyan University</emph> in
+       maroon lettering with illustration of football. Sleeve embroidered with number <emph
+        render="doublequote">43</emph> in red.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt. Front: <emph render="doublequote">Wesleyan Dining / by / Bon
+        Appetit</emph> in gold lettering</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: cartoon image of cardinal, with <emph render="doublequote"
+        >2010</emph> in blocks. Back: <emph render="doublequote">The / Wesleyan / Fund</emph> and
+        <emph render="doublequote">FEED THE BIRD</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and white windbreaker. Front, right lapel: <emph render="doublequote">Wesleyan
+        / Track and Field</emph> in black lettering with Wesleyan shield</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Purple and yellow tie-dyed t-shirt. Front: <emph render="doublequote">common
+        moment</emph> with Feet to the Fire logo, and <emph render="doublequote">Wesleyan University
+        August 29, 2008</emph></unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red long sleeved t-shirt. Front: <emph render="doublequote">Wesleyan / Track
+        &amp; Field</emph> in white lettering with W and cardinal logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black bag with <emph render="doublequote">WESLEYAN / UNIVERSITY</emph> in white
+       lettering with cardinal logo</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black track pants with white and black stripes running down sides. <emph
+        render="doublequote">WES</emph> in red and white embroidery near right ankle</unittitle>
+     </did>
+    </c02>
+
+    <c02>
+     <did>
+      <unittitle>Red and black baseball cap with <emph render="doublequote">Wesleyan /
+        University</emph> in black embroidery and <emph render="doublequote">57</emph> in white
+       embroidery</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black skinny tie with red cardinals, circa 1964-1965</unittitle>
+     </did>
+     <scopecontent>
+      <p>Donated by James S. Vaughn, class of 1967, February 2010.</p>
+     </scopecontent>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt. Front: <emph render="doublequote">Wesleyan Basketball</emph> in
+       white lettering with a white basketball.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>White sash: <emph render="doublequote">Wesleyan / 1940</emph> in red
+       lettering.</unittitle>
+     </did>
+    </c02>
+
+    <c02>
+     <did>
+      <unittitle>White t-shirt. Front: <emph render="doublequote">Zonker Harris Day 2011</emph> in
+       black lettering with a Doonesbury comic drawing.</unittitle>
+     </did>
+    </c02>
+
+    <c02>
+     <did>
+      <container type="Box">37</container>
+      <unittitle>Red basketball shorts. Each side features an embroidered cardinal in a white jersey
+       with a <emph render="doublequote">W</emph> making a lay-up</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black windbreaker with red stripes on arms. Front left lapel: <emph
+        render="doublequote">Wesleyan Soccer</emph> embroidered with the number 1.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red sleeveless jersey with diagonal black and white stripes, and <emph
+        render="doublequote">Wesleyan</emph> on the front.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black t-shirt. Front: <emph render="doublequote">Bon Appetit / Management
+        Company</emph> in white lettering.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black shorts. Front: <emph render="doublequote">Wesleyan / Swimming</emph> with a
+       cardinal logo.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Black singlet with red and white decoration. Front: <emph render="doublequote"
+        >Wesleyan</emph>.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red and black hooded windbreaker. Front: <emph render="doublequote">Track &amp;
+        Field / Cross Country</emph> with a cardinal logo.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Reversable white and maroon sleeveless basketball jersey. Front: <emph
+        render="doublequote">Wesleyan</emph> with a basketball; back: <emph render="doublequote"
+        >10</emph>.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Red cotton bookbag. Front: <emph render="doublequote">W / 2010</emph> in
+       black.</unittitle>
+     </did>
+    </c02>
+    <c02>
+     <did>
+      <unittitle>Gray t-shirt. Front: <emph render="doublequote">Earth &amp; Environmental
+        Sciences/ Wesleyan University</emph> in white, with circular image of Earth on upper half,
+       and the cross section of a tree on lower half.</unittitle>
+     </did><scopecontent><p>Donated by Eric Howard, May 2011.</p></scopecontent>
+    </c02>
+    <c02>
+     <did><container type="Box">38</container>
+      <unittitle>Red windbreaker. Front: <emph render="doublequote">Wesleyan / University</emph> in
+       white, with two golf clubs and golf ball.</unittitle>
+     </did>
+    </c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   </c01>
+
+  </dsc>
+
+ </archdesc>
+</ead>

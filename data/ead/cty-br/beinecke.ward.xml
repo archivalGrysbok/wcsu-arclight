@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.ward">beinecke.ward</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Mrs. Humphry Ward Collection
+ </titleproper>
+            <titleproper type="filing">Ward (Mrs. Humphry) Collection</titleproper>
+            <author>by Diane J. Ducharme</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>January 1995</date>
+            <num>GEN MSS 134</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday November 30, 2018 at 04:10</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Mrs. Humphry Ward collection</unittitle>
+         <unitid>GEN MSS 134</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.75</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(4 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1850/1920">1850-1920</unitdate>
+         
+         <abstract id="aspace_21c395b6bad4b919a0dc491f2fc8e3cc">The collection consists of miscellaneous letters by Mrs. Humphry Ward and writings, including holographs of The Marriage of William Ashe and A Writer's Recollections.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n80015562"
+                      source="naf">
+               Ward, Humphry, Mrs., 1851-1920
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_e12068d012ae0bec553e006b96a71991">
+         <head>Immediate Source of Acquisition</head>
+         <p>Ongoing collection of documents acquired by gift and purchase from various sources.</p>  
+      </acqinfo>
+      <userestrict id="aspace_f693db57cb64c731dcae8b9062555a6b">
+         <head>Conditions Governing Use</head>
+         <p>The Mrs. Humphry Ward Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_c8f88f4a1e4e6fac08545007d1c538ea">
+         <head>Preferred Citation</head>
+         <p>Mrs. Humphry Ward Collection. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_7485bf71f9d1a8f0bc9bdf77074fb149">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_601f3a19696ef9bc02c2609d6022ac9f">
+         <head>Scope and Contents</head>
+         <p>This listing encompasses accessions of single manuscripts and small groups of manuscripts pertaining to Mrs. Humphry Ward acquired by gift or purchase from various sources by the Beinecke Library. Materials acquired prior to January 1995 have been arranged in two series. <ref xlink:actuate="onRequest" xlink:show="replace" target="ref9">Series I, Letters,</ref> consists of letters by Mrs. Humphry Ward and is alphabetically arranged by recipient. <ref xlink:actuate="onRequest" xlink:show="replace" target="ref52">Series II, Writings</ref>, contains writings by Mrs. Ward and is arranged alphabetically by title. Materials acquired after January 1995 are located in <ref xlink:actuate="onRequest" xlink:show="replace" target="ref81">Series III, Additions since January 1995</ref>, and are listed in accession order.</p>
+         <p>This register is updated periodically. For information on material added to the collection since the last update, please consult the Public Services desk.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            Authors, English -- 19th century -- Archives
+         </subject>
+         <subject source="local">
+            Women authors -- England
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80015562"
+                   source="naf">
+            Ward, Humphry, Mrs., 1851-1920
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Letters</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1900 Oct 12</unitdate>
+            </did>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Letter : to Mr. Bridgeman</unittitle>
+                  <unitdate type="inclusive">1900 Oct 12</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_db6d9652916d9344006463530ceff6e5"
+                             type="box">1</container>
+                  <container id="aspace_d8554105cde29ae1ae6a96af528ce3cb"
+                             type="folder"
+                             parent="aspace_db6d9652916d9344006463530ceff6e5">1</container>
+               </did>
+               <scopecontent id="aspace_87f6e27153930a1dbbf7689894f8dbab">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Removed from copy of Marie Clothilde Balfour's <title type="simple" render="italic">
+                        From Saranac to the Marquesas and Beyond
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Letters to Mr. and Mrs. Capper</unittitle>
+                  <unitdate type="inclusive">1901, 1904</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_07eed1ab42e0dae98b9b53fe1cd85905"
+                             type="box">1</container>
+                  <container id="aspace_d3b916474a35fb30b56eb9921399b5e1"
+                             type="folder"
+                             parent="aspace_07eed1ab42e0dae98b9b53fe1cd85905">2</container>
+               </did>
+               <scopecontent id="aspace_c2b55eeda8a935f5e3b3357c1affe273">
+                  <head>Scope and Contents</head>
+                  <p>2 items. 2 ALS, one (1904 Jan 22) concerning her 'Heresy Trial' letter and Mr. Beeby's resignation. Purchased in 1990.</p>
+               </scopecontent>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Letter : Villa Canessita, Rapallo, (Italy), to the Drapers' Company.</unittitle>
+                  <unitdate type="inclusive">1901 Mar 27</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_5cb9acb8b89ee25a9c0a6dc2e8fc9866"
+                             type="box">1</container>
+                  <container id="aspace_cdedd0aa150be11e467217c7b1979479"
+                             type="folder"
+                             parent="aspace_5cb9acb8b89ee25a9c0a6dc2e8fc9866">3</container>
+               </did>
+               <scopecontent id="aspace_d8d2b99fd1f32d3ca545c0d08df5c36e">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 21 cm. ALS to the Secretary of the Drapers' Company soliciting a contribution for the Passmore Edwards Settlement. Purchased in 1988.</p>
+               </scopecontent>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Letter : to Mrs. Field</unittitle>
+                  <unitdate type="inclusive">1906 Oct 29</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_8f6905fe814b5fda3c2a0b8ad12dc8b2"
+                             type="box">1</container>
+                  <container id="aspace_a8149b2e82d65551b4c6cf6b8a5eebbe"
+                             type="folder"
+                             parent="aspace_8f6905fe814b5fda3c2a0b8ad12dc8b2">4</container>
+               </did>
+               <scopecontent id="aspace_a0959b15a7d0c49c14c6e16cebe624f6">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS concerning proposed visit to the Passmore Edwards Settlement. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>Letter : Hotel de la Poste, Bérisal, Valais [Switzerland], to Mr. Fitzmaurice</unittitle>
+                  <unitdate type="inclusive">1899 Jun 26</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_1e8b29e7b69f5d9ae59417b56d8f8ead"
+                             type="box">1</container>
+                  <container id="aspace_539647ff748f2e909b6273b17a18b44e"
+                             type="folder"
+                             parent="aspace_1e8b29e7b69f5d9ae59417b56d8f8ead">5</container>
+               </did>
+               <scopecontent id="aspace_4f8e751d7fcbb07d7a5f9d133dde7fc6">
+                  <head>Scope and Contents</head>
+                  <p>1 item (1 leaf) ; 20 cm. ALS. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Letter : to Miss Gould</unittitle>
+                  <unitdate type="inclusive">1903 Sep 28</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_41c5e8ac9e2137a3f35981d68430e11b"
+                             type="box">1</container>
+                  <container id="aspace_34b469831163a763ad325a42f6f835ac"
+                             type="folder"
+                             parent="aspace_41c5e8ac9e2137a3f35981d68430e11b">6</container>
+               </did>
+               <scopecontent id="aspace_58d12041dae41950c221e399e1c4a2d0">
+                  <head>Scope and Contents</head>
+                  <p>1 item (1 leaf) ; 18 cm. ALS. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Letter : to Lord Guthrie</unittitle>
+                  <unitdate type="inclusive">n.y. Mar 23</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_9bfe9e48a9c75e1ff4f688611e39ff58"
+                             type="box">1</container>
+                  <container id="aspace_586b4b2b228ec211a6e01034de22c800"
+                             type="folder"
+                             parent="aspace_9bfe9e48a9c75e1ff4f688611e39ff58">7</container>
+               </did>
+               <scopecontent id="aspace_6d2e4f5632211aacf27fc9a8da65f358">
+                  <head>Scope and Contents</head>
+                  <p>1 item (1 leaf) ; 18 cm. ALS. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Letter : to Mrs. [Mary St. Leger Kingsley] Harrison</unittitle>
+                  <unitdate type="inclusive">1888 Mar 17</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_131682a6ea859eca85016cb40b15259c"
+                             type="box">1</container>
+                  <container id="aspace_913c1ffcf26b646212960ffc089acbb9"
+                             type="folder"
+                             parent="aspace_131682a6ea859eca85016cb40b15259c">8</container>
+               </did>
+               <scopecontent id="aspace_cd74e2c1259ec60c61e91c8dab25d809">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS expressing admiration for Charles Kingsley. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>Letters to [Maurice] Hewlett</unittitle>
+                  <unitdate type="inclusive">1898, 1901</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_d596188b722f6afd802aa98fe7e23386"
+                             type="box">1</container>
+                  <container id="aspace_a29e9b1410c1bd8f9f5acee08358f85a"
+                             type="folder"
+                             parent="aspace_d596188b722f6afd802aa98fe7e23386">9</container>
+               </did>
+               <scopecontent id="aspace_dad0d7c82094459750c2239a89b60047">
+                  <head>Scope and Contents</head>
+                  <p>2 items. 2 ALS, one in praise of <title type="simple" render="italic">
+                        The Forest Lovers
+                     </title>. Purchased in 1994</p>
+               </scopecontent>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Letter : to [Robert V.] Johnson</unittitle>
+                  <unitdate type="inclusive">[1905?] Sep 16</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_3424eaae413eec3ea541c6901fd113e5"
+                             type="box">1</container>
+                  <container id="aspace_f2fd46b509a1a3a3981a2721fdd5b395"
+                             type="folder"
+                             parent="aspace_3424eaae413eec3ea541c6901fd113e5">10</container>
+               </did>
+               <scopecontent id="aspace_4373e3a2878b29525a708319cad5499b">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1967.</p>
+               </scopecontent>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Letter : Villa Pazzi, Arcetri, Florence, to Councillor J. Johnston</unittitle>
+                  <unitdate type="inclusive">1910 Dec 22</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_57e104d2c5d3c0bde2fdf72dcc4d2b8d"
+                             type="box">1</container>
+                  <container id="aspace_e2f3c9774a395fdfc4f0994a726860dd"
+                             type="folder"
+                             parent="aspace_57e104d2c5d3c0bde2fdf72dcc4d2b8d">11</container>
+               </did>
+               <scopecontent id="aspace_1bba5c3a11141f74cab8d749bfb0b22d">
+                  <head>Scope and Contents</head>
+                  <p>1 item (1 leaf) ; 25 cm. ALS. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>Letter : to Rev. H. B. Jones</unittitle>
+                  <unitdate type="inclusive">1903 Jul 3</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_6dc2eeaf290fe16218927dec69454456"
+                             type="box">1</container>
+                  <container id="aspace_2ef90c219ae83669b6dfb0b47f581aba"
+                             type="folder"
+                             parent="aspace_6dc2eeaf290fe16218927dec69454456">12</container>
+               </did>
+               <scopecontent id="aspace_8bced3632e58cd9004839630cb6c0a52">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS asking him to conduct services for a Vacation School at the Passmore Edwards Settlement. Purchased in 1988.</p>
+               </scopecontent>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Letter : to Hughes Massie</unittitle>
+                  <unitdate type="inclusive">1907 Aug 25</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_f0b7beadee2f14b67cdfa8fc72483876"
+                             type="box">1</container>
+                  <container id="aspace_7aacacdb6d6bb9a9d1edd0a5371bf109"
+                             type="folder"
+                             parent="aspace_f0b7beadee2f14b67cdfa8fc72483876">13</container>
+               </did>
+               <scopecontent id="aspace_81a14b783c613b64b2e201c8e62157ca">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1988.</p>
+               </scopecontent>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Letter : to Sir Mountstuart (Grant Duff)</unittitle>
+                  <unitdate type="inclusive">1890 Jan 12</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_b4cd6464e09fbe0e8210f2d61fa58726"
+                             type="box">1</container>
+                  <container id="aspace_ec646170d40076f4ef91a1dd3468204a"
+                             type="folder"
+                             parent="aspace_b4cd6464e09fbe0e8210f2d61fa58726">13a</container>
+               </did>
+               <scopecontent id="aspace_d4f25291219f28c8915f07d9de0f3370">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1993.</p>
+               </scopecontent>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>Letter : Villa Canessita, [Rapallo, Italy], to Mrs. Pitt</unittitle>
+                  <unitdate type="inclusive">n.y. Apr 6</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_0d91b764aa215cc023b048f0e08ed9c1"
+                             type="box">1</container>
+                  <container id="aspace_9129a34b025be9837e4fb3266685742d"
+                             type="folder"
+                             parent="aspace_0d91b764aa215cc023b048f0e08ed9c1">14</container>
+               </did>
+               <scopecontent id="aspace_923830b793cfb0e16d69e611ec6f7d86">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>Letter : to Lady Richmond</unittitle>
+                  <unitdate type="inclusive">1904 Mar 5</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_e8cb597872d087d4e7cfc3018a19e7fb"
+                             type="box">1</container>
+                  <container id="aspace_a10b84385a2923bc1b9ec670dda4992a"
+                             type="folder"
+                             parent="aspace_e8cb597872d087d4e7cfc3018a19e7fb">15</container>
+               </did>
+               <scopecontent id="aspace_7ac771715a7b0354bbcf5b3502f48cca">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>Letter : Passmore Edwards Settlement, Tavistock Place, W. C., [London], to Mrs. Thompson</unittitle>
+                  <unitdate type="inclusive">1915 Oct 28</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_3c7ff6af576d92d94cc76eebb0da7cde"
+                             type="box">1</container>
+                  <container id="aspace_815d81161502a054992e9c016df54c92"
+                             type="folder"
+                             parent="aspace_3c7ff6af576d92d94cc76eebb0da7cde">16</container>
+               </did>
+               <scopecontent id="aspace_fb8ec5312cbe295b6667e7ebdba9962c">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 25 cm. TLS asking that Mrs. Thompson allow herself to be proposed for election as a member of the Passmore Edwards Settlement. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Letter : to "My dear Olive"</unittitle>
+                  <unitdate type="inclusive">1909 Jul 28</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_a3361b44a9ee9a9b8e58d5cb2e5fa5bd"
+                             type="box">1</container>
+                  <container id="aspace_f8011cdbcd76e6efd2b29a9c3fd1229f"
+                             type="folder"
+                             parent="aspace_a3361b44a9ee9a9b8e58d5cb2e5fa5bd">17</container>
+               </did>
+               <scopecontent id="aspace_1f6272e34382ed9505fe68fd204c1bbc">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>Letter : to "Dear Madam"</unittitle>
+                  <unitdate type="inclusive">1905 Oct 25</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_cad78bf1b2c551d3b274c542c39833ce"
+                             type="box">1</container>
+                  <container id="aspace_f8264f50dc1c970a5e87ffdc33ae0d66"
+                             type="folder"
+                             parent="aspace_cad78bf1b2c551d3b274c542c39833ce">18</container>
+               </did>
+               <scopecontent id="aspace_6fd71691c3b3b32953d5137bc2ea9254">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 21 cm. ALS declining an invitation to lecture in Lowell. Purchased in 1988.</p>
+               </scopecontent>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Letter : Hotel Californie, Cannes, Alpes Maritimes [France], to "Dear Sir"</unittitle>
+                  <unitdate type="inclusive">1891 Oct 24</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_61fb710ccbe2918d9c5fcbd20262c305"
+                             type="box">1</container>
+                  <container id="aspace_ded44844c970f559d09dca89a6051bc7"
+                             type="folder"
+                             parent="aspace_61fb710ccbe2918d9c5fcbd20262c305">19</container>
+               </did>
+               <scopecontent id="aspace_83e5cface94c0fc95b6c5b30f1217a3c">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 21 cm. ALS. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Letter : to "Dear Sir"</unittitle>
+                  <unitdate type="inclusive">1895 Dec 20</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_54af3ed5c48ce6fb3008f117fc723106"
+                             type="box">1</container>
+                  <container id="aspace_34605bd63aa8a817576be0bfb82604cd"
+                             type="folder"
+                             parent="aspace_54af3ed5c48ce6fb3008f117fc723106">20</container>
+               </did>
+               <scopecontent id="aspace_20099aa2a03ab33deecaae0cd4fa306f">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS. Purchased in 1994.</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref52" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>"<title type="simple" render="italic">
+                        Helbeck of Bannisdale
+                     </title>: Book II, Chapter 4. (The last chapter)," holograph, corrected</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317779)"
+                             id="aspace_feb2d07752685140cd5cd3068e108bf5"
+                             type="box">1</container>
+                  <container id="aspace_cfdeb98ddfd52773c29b6aa80e2437f6"
+                             type="folder"
+                             parent="aspace_feb2d07752685140cd5cd3068e108bf5">21</container>
+               </did>
+               <scopecontent id="aspace_49b8c6a212782178e26dad86d141d7b0">
+                  <head>Scope and Contents</head>
+                  <p>1 v. (43 l.) ; 21 cm. Inscribed: "I give this original MS of the last chapter of Helbeck of Bannisdale to the Red Cross Sale 1917. Mary A. Ward." Bound in: ALS from George Meredith thanking Ward for sending him <title type="simple" render="italic">
+                        Helbeck of Bannisdale
+                     </title>, (2 leaves), 1898 Aug 30. Purchased in 1989.</p>
+               </scopecontent>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Marriage of William Ashe
+                     </title>
+                  </unittitle>
+               </did>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Holograph, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099317779)"
+                                id="aspace_5abdbab487eaa6fc580bd524cbc919b4"
+                                type="box">1</container>
+                     <container id="aspace_177e4dd1056a61cecc369a91232d2167"
+                                type="folder"
+                                parent="aspace_5abdbab487eaa6fc580bd524cbc919b4">22-35</container>
+                  </did>
+                  <scopecontent id="aspace_27efbc867d7d0d84ae4ac2906ed66700">
+                     <head>Scope and Contents</head>
+                     <p>1 item (ca. 590 leaves) ; 21 cm. and smaller. Original title: "Ashley's Marriage." Purchased in 1989.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Page proofs of Chapter 1, corrected</unittitle>
+                     <unitdate type="inclusive">1903 Nov 1</unitdate>
+                     <container label="Mixed Materials (39002099317779)"
+                                id="aspace_b70c361194e89b0974c611d2b04f6348"
+                                type="box">1</container>
+                     <container id="aspace_1d562f5f53706ceb69f5b4508af261c5"
+                                type="folder"
+                                parent="aspace_b70c361194e89b0974c611d2b04f6348">36</container>
+                  </did>
+                  <scopecontent id="aspace_3d81b7cb7500393099cdcec601af3480">
+                     <head>Scope and Contents</head>
+                     <p>1 item (8 leaves) ; 19 cm. Stamped: "From Spottiswoode &amp; Co." Purchased in 1989.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>Page proofs of portions of Part IV, corrected</unittitle>
+                     <unitdate type="inclusive">1904</unitdate>
+                     <container label="Mixed Materials (39002099317779)"
+                                id="aspace_0bfd37a4c74aabe1b1e4d39d18e8fe43"
+                                type="box">1</container>
+                     <container id="aspace_cfe0c8707c497edba1d9974c25323689"
+                                type="folder"
+                                parent="aspace_0bfd37a4c74aabe1b1e4d39d18e8fe43">37</container>
+                  </did>
+                  <scopecontent id="aspace_f1b53bd2a259ba611e732ae8cceaa32d">
+                     <head>Scope and Contents</head>
+                     <p>1 item (32 leaves) ; 19 cm. Stamped: "From Spottiswoode &amp; Co." Purchased in 1989.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Sir George Tressady
+                     </title>
+                  </unittitle>
+               </did>
+               <c id="ref63" level="file">
+                  <did>
+                     <unittitle>Holograph and page proof, heavily corrected</unittitle>
+                     <unitdate type="inclusive">[not after 1896]</unitdate>
+                     <container label="Mixed Materials (39002099317787)"
+                                id="aspace_e542bef44c76ef63a6e360a14e484186"
+                                type="box">2</container>
+                     <container id="aspace_1710e223e070b256a6335782549cc609"
+                                type="folder"
+                                parent="aspace_e542bef44c76ef63a6e360a14e484186">38-60</container>
+                  </did>
+                  <scopecontent id="aspace_647ff29ef483715695a28dfd4d3f93b1">
+                     <head>Scope and Contents</head>
+                     <p>1 item [ca. 750-800 leaves] ; various sizes. Chapters 1-5 fragmentary; 6-23 more complete; 24 in page proof only.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>Notes and miscellaneous holograph draft pages</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099317795)"
+                                id="aspace_583934d56f0f88bbd83719e0a4ba3748"
+                                type="box">3</container>
+                     <container id="aspace_db8a76b3ab0bc255e5f052e4c3040eb3"
+                                type="folder"
+                                parent="aspace_583934d56f0f88bbd83719e0a4ba3748">61-66</container>
+                  </did>
+                  <scopecontent id="aspace_f5a0f8cf2617876712df586449069580">
+                     <head>Scope and Contents</head>
+                     <p>1 item [ca. 100 leaves] ; various sizes. Purchased in 1990.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>Page proof, heavily corrected and interleaved with holograph inserts</unittitle>
+                     <unitdate type="inclusive">1896</unitdate>
+                     <container label="Mixed Materials (39002099317795)"
+                                id="aspace_5ff5793f10e5b91133d7ba33c97f9dbf"
+                                type="box">3</container>
+                     <container id="aspace_8e184a27d31b9d17246a8f2981a80278"
+                                type="folder"
+                                parent="aspace_5ff5793f10e5b91133d7ba33c97f9dbf">67-70</container>
+                  </did>
+                  <scopecontent id="aspace_7fc99a150953322805149a451629548d">
+                     <head>Scope and Contents</head>
+                     <p>1 item [ca. 200 leaves] ; various sizes. Text incomplete. Stamped: "From Spottiswoode &amp; Co." Purchased in 1988.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>Holograph of a revision of part of Chapter 18, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099317795)"
+                                id="aspace_fb1ab80bf87c36e97e667913bcaebf3d"
+                                type="box">3</container>
+                     <container id="aspace_e0a299c3e61b447a341f7cbd11d428c0"
+                                type="folder"
+                                parent="aspace_fb1ab80bf87c36e97e667913bcaebf3d">71</container>
+                  </did>
+                  <scopecontent id="aspace_20fbeba9b7187cecc4ca60466da2facf">
+                     <head>Scope and Contents</head>
+                     <p>1 item (12 leaves) ; 21 cm. Purchased in 1988.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>Miscellaneous holograph pages from a revision, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099317795)"
+                                id="aspace_48fcb0943972c82bc6825cf119ef225c"
+                                type="box">3</container>
+                     <container id="aspace_399d29bb86c86f33c83f55cd7aadbcf3"
+                                type="folder"
+                                parent="aspace_48fcb0943972c82bc6825cf119ef225c">72-76</container>
+                  </did>
+                  <scopecontent id="aspace_f06a6f5a9718cd22b6b759be27aa69b7">
+                     <head>Scope and Contents</head>
+                     <p>1 item [ca. 100 leaves] ; various sizes. Purchased in 1988.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>"Notes on a Staff[ordshire] Visit," holograph</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099317795)"
+                                id="aspace_bed221b48dff3a7a2c22a5947016685c"
+                                type="box">3</container>
+                     <container id="aspace_f62e963c023c3633328f1ec4d301fded"
+                                type="folder"
+                                parent="aspace_bed221b48dff3a7a2c22a5947016685c">77</container>
+                  </did>
+                  <scopecontent id="aspace_c857d98400d76ab63eadfd61ba4a69f2">
+                     <head>Scope and Contents</head>
+                     <p>1 item (9 leaves) ; 20 cm. Possibly research notes for <title type="simple" render="italic">
+                           Sir George Tressady.
+                        </title> Purchased in 1988.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref75" level="file">
+               <did>
+                  <unittitle>"<title type="simple" render="italic">
+                        The War and Elizabeth
+                     </title>: Prospectus," holograph and typescript, corrected</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317795)"
+                             id="aspace_a5d413574e9697954fee7f534664355c"
+                             type="box">3</container>
+                  <container id="aspace_7441f9161a663ea4a23d1dded59083bd"
+                             type="folder"
+                             parent="aspace_a5d413574e9697954fee7f534664355c">78</container>
+               </did>
+               <scopecontent id="aspace_6fcf16a5a7bb8501cff2261d5b90eb59">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 26 cm. and smaller. Given in 1972.</p>
+               </scopecontent>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        A Writer's Recollections
+                     </title>, holograph, corrected and revised</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317795)"
+                             id="aspace_1e04fe9d928cb2bc17bc7c7d0688ac80"
+                             type="box">3</container>
+                  <container id="aspace_8ad3b2632f5e9e3d25face421281bcaa"
+                             type="folder"
+                             parent="aspace_1e04fe9d928cb2bc17bc7c7d0688ac80">79-89</container>
+               </did>
+               <scopecontent id="aspace_843a7a6b608248f8fbc2863601b18702">
+                  <head>Scope and Contents</head>
+                  <p>1 item [ca. 250 leaves] ; 26 cm. and smaller. Chapters 1-6 lacking. With: page proof for portion of Chapter 8 (16 leaves). Given in 1972.</p>
+               </scopecontent>
+            </c>
+            <c id="ref79" level="file">
+               <did>
+                  <unittitle>Notes for an unidentified novel, holograph, corrected</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_dc5344a6b01d7effc426a1900509e0c9"
+                             type="box">4</container>
+                  <container id="aspace_732f97073016ba022148a10067a62e56"
+                             type="folder"
+                             parent="aspace_dc5344a6b01d7effc426a1900509e0c9">90</container>
+               </did>
+               <scopecontent id="aspace_635e0b9d8a866205afe2b04cf35f7deb">
+                  <head>Scope and Contents</head>
+                  <p>1 item (21 leaves) ; 20 cm. Purchased in 1988.</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref81" level="series">
+            <did>
+               <unittitle>Additions since January 1995</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1888 Nov 27</unitdate>
+            </did>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>Letter : to "Dear Sir"</unittitle>
+                  <unitdate type="inclusive">1888 Nov 27</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_27017694740557c23e34a3952336d558"
+                             type="box">4</container>
+                  <container id="aspace_40c11c3e472e67337463a4096de3ce2d"
+                             type="folder"
+                             parent="aspace_27017694740557c23e34a3952336d558">91</container>
+               </did>
+               <scopecontent id="aspace_518d2eab7976d32abc32246adf0347a1">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS declining an invitation to lecture on <title type="simple" render="italic">
+                        Robert Elsmere
+                     </title>. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref84" level="file">
+               <did>
+                  <unittitle>Letter : to "Dear Sir"</unittitle>
+                  <unitdate type="inclusive">1908 Nov 4</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_959b8ad85b6d18d6d01674580f72d9fc"
+                             type="box">4</container>
+                  <container id="aspace_b0f2bd8dbc246af204ae2d1608f16169"
+                             type="folder"
+                             parent="aspace_959b8ad85b6d18d6d01674580f72d9fc">92</container>
+               </did>
+               <scopecontent id="aspace_b64b2a145f4e90417ff71c3a7bb1d853">
+                  <head>Scope and Contents</head>
+                  <p>1 item (1 leaf) ; 18 cm. ALS declining an invitation by the Royal Society of Medicine. Purchased in 1995.</p>
+               </scopecontent>
+            </c>
+            <c id="ref86" level="file">
+               <did>
+                  <unittitle>Letter : 25 Grosvenor Place, S. W., to Miss Byham</unittitle>
+                  <unitdate type="inclusive">1908 Feb 25</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_50e6c214d425185dbce80d67c4931ca3"
+                             type="box">4</container>
+                  <container id="aspace_5f196555b569e6babd19a687003ceab3"
+                             type="folder"
+                             parent="aspace_50e6c214d425185dbce80d67c4931ca3">93</container>
+               </did>
+               <scopecontent id="aspace_0e272a0e67ee0a0ac87a1c8866b49283">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS declining an invitation to speak on behalf of "Homes for Ladies." Purchased in 1996.</p>
+               </scopecontent>
+            </c>
+            <c id="ref88" level="file">
+               <did>
+                  <unittitle>Letter : Stocks, Tring, to Madame Blanc</unittitle>
+                  <unitdate type="inclusive">1906 Jun 27</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_382d792d67571c5bd30d26e5632259af"
+                             type="box">4</container>
+                  <container id="aspace_104cdc8595f40c6d40b0d484d6da3b45"
+                             type="folder"
+                             parent="aspace_382d792d67571c5bd30d26e5632259af">94</container>
+               </did>
+               <scopecontent id="aspace_ba8927cd3cc3727618a6bc45d0d2e89f">
+                  <head>Scope and Contents</head>
+                  <p>1 item (4 leaves) ; 18 cm. ALS concerning Ward's health and the critical reception of <title type="simple" render="italic">
+                        Fenwick's Career
+                     </title>. Purchased in 1997.</p>
+               </scopecontent>
+            </c>
+            <c id="ref90" level="file">
+               <did>
+                  <unittitle>Letter : Hampden House, Great Missenden, Bucks., to "Sir"</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_79dc93bb3c9f892db730b796bbacb9a9"
+                             type="box">4</container>
+                  <container id="aspace_1081032c0d05b40e4a38e2b64ee67452"
+                             type="folder"
+                             parent="aspace_79dc93bb3c9f892db730b796bbacb9a9">95</container>
+               </did>
+               <scopecontent id="aspace_255f29004361008b8cebcdbfc918d916">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 leaves) ; 18 cm. ALS concerning a biographical sketch of Ward. Signed: "Mary A. Ward". Purchased in 1997.</p>
+               </scopecontent>
+            </c>
+            <c id="ref92" level="file">
+               <did>
+                  <unittitle>Photograph : Portrait of Mrs. Humphry Ward</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_f12e4e80dd26ee8f90ed1adff0416b21"
+                             type="box">4</container>
+                  <container id="aspace_2aa4b9d5559813a21c00596b32d4ae7d"
+                             type="folder"
+                             parent="aspace_f12e4e80dd26ee8f90ed1adff0416b21">96</container>
+               </did>
+            </c>
+            <c id="ref93" level="file">
+               <did>
+                  <unittitle>Letter: Stocks, Tring., to W. Alexander</unittitle>
+                  <unitdate type="inclusive">1909 Oct 4</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_53445214e9268afe19d01e6f3225cae3"
+                             type="box">4</container>
+                  <container id="aspace_819b0548ac06137f9fdbb10b8aa2b8a8"
+                             type="folder"
+                             parent="aspace_53445214e9268afe19d01e6f3225cae3">97</container>
+               </did>
+               <scopecontent id="aspace_125d69cdf704f1912ef29be6b999c36a">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 L) ; 18 cm. LS (body of letter in third-party hand) concerning Mr. Bok's interview. Signed: "Mary A. Ward." With: envelope. Purchased in 1999.</p>
+               </scopecontent>
+               <scopecontent id="aspace_335ef5da3880ef6ee963309cb3ef6001">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 990820-g</p>
+               </scopecontent>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Letter: Stocks, Tring., to Arthur Wagg</unittitle>
+                  <unitdate type="inclusive">1912 Feb 2</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_f38762f8f248e6197856caa11ff3516a"
+                             type="box">4</container>
+                  <container id="aspace_2ac24a86b5e530733e6fef3dae7803d8"
+                             type="folder"
+                             parent="aspace_f38762f8f248e6197856caa11ff3516a">98</container>
+               </did>
+               <scopecontent id="aspace_14b62aeef67c05954a9acc495d03fcde">
+                  <head>Scope and Contents</head>
+                  <p>1 item (3 L.) ; 20 cm. ALS concerning Wagg's contribution to the Evening Play Center Fund and her work on their behalf. Tipped onto half sheet of stiff paper. Purchased in 1999.</p>
+               </scopecontent>
+               <scopecontent id="aspace_af64d3e327c1ff9d005d7492bd24e4cf">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 990820-h</p>
+               </scopecontent>
+            </c>
+            <c id="ref99" level="file">
+               <did>
+                  <unittitle>Letter: Stocks, Tring., to Mr. [Vincent] Baddeley</unittitle>
+                  <unitdate type="inclusive">1911 May 28</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_5a832527ded21617b411627e0735b4a1"
+                             type="box">4</container>
+                  <container id="aspace_eddd766a787a542d6bd58e2b59bfb8be"
+                             type="folder"
+                             parent="aspace_5a832527ded21617b411627e0735b4a1">99</container>
+               </did>
+               <scopecontent id="aspace_38a2852ebcfe62c7df3885560d2efb08">
+                  <head>Scope and Contents</head>
+                  <p>1 item (2 L.) ; 18 cm. ALS concerning seats for George V's coronation and the naval review. With: explanatory ANS by Baddeley and a transcript. Purchased in 1999.</p>
+               </scopecontent>
+               <scopecontent id="aspace_4e5ae9c452c526e0cc71c05af4973411">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 990820-i</p>
+               </scopecontent>
+            </c>
+            <c id="ref102" level="file">
+               <did>
+                  <unittitle>Letter : 25, Grosvenor Place, to Messrs. Harper</unittitle>
+                  <unitdate type="inclusive">[1899?]</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_6c1deeb0d0a12e78d1fd425833623492"
+                             type="box">4</container>
+                  <container id="aspace_a18c7cefb2b82be11a376bef9dcb5099"
+                             type="folder"
+                             parent="aspace_6c1deeb0d0a12e78d1fd425833623492">100</container>
+               </did>
+               <scopecontent id="aspace_e3f73c684a48f2d59655cbc3172895a7">
+                  <head>Scope and Contents</head>
+                  <p>1 item (6 L.) ; 18 cm. ALS headed "Private" concerning the forthcoming serial publication of <title type="simple" render="italic">
+                        Eleanor
+                     </title>, including corrections to the illustrations; also arguing against publication of the novel in 2 volumes in America. Purchased in 2001.</p>
+               </scopecontent>
+               <scopecontent id="aspace_eaa4d9c807ea696e2a7d32d11d6d2734">
+                  <head>Scope and Contents</head>
+                  <p>Acc. #: 20010720-h</p>
+               </scopecontent>
+            </c>
+            <c id="ref105" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Fenwick's Career
+                     </title> : holograph, draft, with revisions and corrected page proof inserted throughout</unittitle>
+                  <unitdate type="inclusive">[1905-06]</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_f56068868449e53a76a448fd5d6ef178"
+                             type="box">4</container>
+                  <container id="aspace_f746d91584b17a775a7f297dc6d53fc9"
+                             type="folder"
+                             parent="aspace_f56068868449e53a76a448fd5d6ef178">101-121</container>
+               </did>
+               <scopecontent id="aspace_a0a56c489422bacfdd1665f47622d74f">
+                  <head>Scope and Contents</head>
+                  <p>1 item (ca. 350 L) ; various sizes Chapters I-XIV represented. Purchased in 2001.</p>
+               </scopecontent>
+               <scopecontent id="aspace_d5d365690bc2c7606515f59774ce8080">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 20011204-al</p>
+               </scopecontent>
+            </c>
+            <c id="ref108" level="file">
+               <did>
+                  <unittitle>Letters to Lady Mirrielees</unittitle>
+                  <unitdate type="inclusive">1912-13, n.d.</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_ceabfe3c2300cffd3914cc7a01804ebc"
+                             type="box">4</container>
+                  <container id="aspace_f9c8ea8b36c7bab92c721789f3e58ac0"
+                             type="folder"
+                             parent="aspace_ceabfe3c2300cffd3914cc7a01804ebc">122</container>
+               </did>
+               <scopecontent id="aspace_2104cceccd128e6718e9f3722b96a3e6">
+                  <head>Scope and Contents</head>
+                  <p>4 items. 4 ALS to Lady Mirrielees concerning the charitable work done by the British St. Centre for children, inviting her to visit an exhibition of the children's handicrafts, and thanking her for a contribution. Purchased in 2002.</p>
+               </scopecontent>
+               <scopecontent id="aspace_03e5b56b42290f36b1f50421b10ed366">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 20020212-e</p>
+               </scopecontent>
+            </c>
+            <c id="ref111" level="file">
+               <did>
+                  <unittitle>Letter : 61 Russell Square, to "Sir"</unittitle>
+                  <unitdate type="inclusive">1888 Nov 12</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_110c5b17ce0f26337a0459c752be450c"
+                             type="box">4</container>
+                  <container id="aspace_ae67d9f6fdbcc5456125a988855d98d8"
+                             type="folder"
+                             parent="aspace_110c5b17ce0f26337a0459c752be450c">123</container>
+               </did>
+               <scopecontent id="aspace_c13da05f2d293ded55d5afe270e5c15f">
+                  <head>Scope and Contents</head>
+                  <p>1 item ; 17 cm. ALS insisting that she "did not wish her photograph to be sold to the trade." Annotated in another hand: "Mrs. Ward blows hot and cold... would you write her direct without allusion to me?" Purchased in 2002.</p>
+               </scopecontent>
+               <scopecontent id="aspace_d06261b307c241fa9c6d7374da121cb8">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 20020812-m</p>
+               </scopecontent>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>Letters : 25, Grosvenor Place to Mrs. Hugh Smith</unittitle>
+                  <unitdate type="inclusive">1894, 1895</unitdate>
+                  <container label="Mixed Materials (39002099317803)"
+                             id="aspace_d6a3194a6e22abf18a138da577d94884"
+                             type="box">4</container>
+                  <container id="aspace_cd956ffbda265d30e1cbd097da9762de"
+                             type="folder"
+                             parent="aspace_d6a3194a6e22abf18a138da577d94884">124</container>
+               </did>
+               <scopecontent id="aspace_1c6a7c50488fb296469725f41c16f0b1">
+                  <head>Scope and Contents</head>
+                  <p>2 items. 2 ALS concerning invitations and visits. Accompanied by typed transcript of 1895 Jun 27 letter. Purchased in 2002.</p>
+               </scopecontent>
+               <scopecontent id="aspace_376c9870483b01e44700d0ae90e74b15">
+                  <head>Scope and Contents</head>
+                  <p>Acc #: 20020812-n</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

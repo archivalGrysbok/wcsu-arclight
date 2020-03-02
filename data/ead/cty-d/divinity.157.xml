@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.157">divinity.157</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Bernard and Katherine Read Papers
+ </titleproper>
+            <titleproper type="filing">Read (Bernard and Katherine) Papers</titleproper>
+            <author>Compiled by Elizabeth Pipes and Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2000, 2014</date>
+            <num>RG 157</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Monday March 25, 2019 at 22:25</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Bernard and Katherine Read Papers</unittitle>
+         <unitid>RG 157</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">11</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(24 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1902/1964">1902-1964</unitdate>
+         
+         <abstract id="aspace_4a655b85cfcc23f2c6084d5b5ee71c68">These papers document Bernard Read's work as a scientist in China from 1909 to 1949, as well as the life of his family in China and his internment during the Japanese occupation of Shanghai, 1941-1945. Bernard Read was not directly engaged by a missionary agency but spent the first part of his career in China at the Peking Union Medical College, a union venture related to various mission agencies. Read left the Peking Union Medical College due to disagreements with its leaders, and went to work for the Henry Lester Institute, an organization financed by an American businessman in Shanghai.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n80015775"
+                      rules="aacr"
+                      source="naf">
+               Read, B. E. (Bernard Emms), 1887-1949
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n91072872"
+                      rules="aacr"
+                      source="naf">
+               Read, Katherine L.
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_6b089ed9a46ffc3009fff248d21103c3">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Robert E. Read.</p>  
+      </acqinfo>
+      <accessrestrict id="aspace_f19cbd1994065a089eafbb4f1b4108bb">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_8150beb64f9c71e62f51b377eff83f07">
+         <head>Preferred Citation</head>
+         <p>Bernard and Katherine Read Papers (RG 157), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_50234a28133857487d7d6eb9e470e369">
+         <head>Biographical / Historical</head>
+         <chronlist>
+            <chronitem>
+               <date>1887 May 17 </date>
+               
+                  <event>Born in Brighton, England</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1895-1903</date>
+               
+                  <event>York Place Secondary School</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1903-1909</date>
+               
+                  <event>Pharmaceutical Training</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1903-1907</date>
+               
+                  <event>Business training, Hove, Sussex, London</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1908-1909</date>
+               
+                  <event>College of Pharmacy, M.P.S., Ph.C.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1909-1915</date>
+               
+                  <event>Lecturer in Chemistry and Pharmacy, Peking Union Medical College</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1916-1917</date>
+               
+                  <event>Johns Hopkins Medical School, Biochemistry, with summer classes at Chicago University and Harvard</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1917-1918</date>
+               
+                  <event>Yale University, Nutrition, M.S.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               
+                  <event>Married Katherine Luella Henderson</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1918-1925</date>
+               
+                  <event>Associate Professor of Biochemistry and Pharmacology, Peking</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1923-1924</date>
+               
+                  <event>Yale University, Pharmacology, Ph.D</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1924</date>
+               
+                  <event>University of Chicago, Pathology</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1925-1932</date>
+               
+                  <event>Professor of Pharmacology, Peking</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1932-1936</date>
+               
+                  <event>Head of Physiological Sciences, Henry Lester Institute of Medical Research, Shanghai</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1936</date>
+               
+                  <event>King Gold Medal, Peking Natural History Society</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1941-1945</date>
+               
+                  <event>Interned by Japanese during WW II</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1946</date>
+               
+                  <event>Director of Henry Lester Institute</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1946-1949</date>
+               
+                  <event>Chairman, Chinese Mission to Lepers</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1947</date>
+               
+                  <event>Chairman, Canadian Aid to China and Nursing Aid Committee, China</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1932-1949</date>
+               
+                  <event>Member of Union Community Church, Shanghai</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1949 Jun 13</date>
+               
+                  <event>Died in Shanghai</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_8933f16c6440c1d0d9689c466097d227">
+         <head>Scope and Contents</head>
+         <p>The bulk of this collection relates to Bernard Read's scientific research and writing regarding pharmacology. A full listing of titles of his writings is in the first folder of Series 3. Added to the collection in 2014 was an unpublished typescript manuscript by Read titled "Vegetable and Plant Drugs."</p>
+         <p>Extensive correspondence of Read records his interactions with colleagues in China and elsewhere. The collection also provides valuable documentation from the period when Read was interned by the Japanese during World War II. Also of interest is the correspondence from Katherine L. Read to her parents, Mr. and Mrs. Albert Henderson, who were missionaries in Burma, and correspondence between Katherine and Bernard during their separation caused by World War II.</p>
+         <p>The collection includes a biography of Bernard Read written by his wife and son, and an annotated copy of a memoir written by Katherine L. Read with Robert O. Ballou, which documents the work of her parents, Albert and Cora Henderson.</p>
+         <p>Added in 2014 were more than 500 3" x 3" glass slides accompanied by a listing of identification by number. The slides include plant, insect, and animal specimens, microscope slides of chemical compounds, archaeological sites in China, scientific equipment, individuals, class groups, scenes in China.</p>  
+      </scopecontent>
+      <arrangement id="aspace_e5351a4b482f88d9a61f1aaeea8a39d6">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Family Correspondence, 1918-1949, n.d.</item>
+            <item>II. General Correspondence, 1902-1964, n.d.</item>
+            <item>III. Writings of Bernard E. Read, 1917-1949, n.d.</item>
+            <item>IV. Personal Items and Memorabilia, 1919-1951, n.d.</item>
+            <item>V. Glass Slides, 1920s, n.d.</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008107861"
+                  source="lcsh">
+            Missions -- China
+         </subject>
+         <subject source="local">
+            Pharmacology -- China
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85086017"
+                  source="lcsh">
+            Missionaries
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80015775"
+                   rules="aacr"
+                   source="naf">
+            Read, B. E. (Bernard Emms), 1887-1949
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n91072872"
+                   rules="aacr"
+                   source="naf">
+            Read, Katherine L.
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n81073818"
+                   rules="aacr"
+                   source="naf">
+            Beijing yi xue yuan
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n2010041815"
+                   rules="aacr"
+                   source="naf">
+            Henry Lester Institute of Medical Research
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Family Correspondence</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="ref12" level="subseries">
+               <did>
+                  <unittitle>Katherine L. Read to Family</unittitle>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>KLR to family</unittitle>
+                     <unitdate type="inclusive">undated, 1918-1919 Aug</unitdate>
+                     <container label="Mixed Materials (39002035360313)"
+                                id="aspace_9bb612ec0cd885867164c7496d86fc62"
+                                type="box">1</container>
+                     <container id="aspace_ecf41c830db9eb9f34f8d06984a382da"
+                                type="folder"
+                                parent="aspace_9bb612ec0cd885867164c7496d86fc62">1-2</container>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>KLR to family</unittitle>
+                     <unitdate type="inclusive">1925-1931</unitdate>
+                     <container label="Mixed Materials (39002035360313)"
+                                id="aspace_6475498cc991ef595ab304c7db6aa737"
+                                type="box">1</container>
+                     <container id="aspace_6b047da7b5970b06f6611e5ae2b7d7e3"
+                                type="folder"
+                                parent="aspace_6475498cc991ef595ab304c7db6aa737">3-4</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>KLR to family</unittitle>
+                     <unitdate type="inclusive">1934-1941</unitdate>
+                     <container label="Mixed Materials (39002035360313)"
+                                id="aspace_a950d3281b5056eb84b0bfa719f5b613"
+                                type="box">1</container>
+                     <container id="aspace_ced132144341f30ce2c5931b84c4e8a2"
+                                type="folder"
+                                parent="aspace_a950d3281b5056eb84b0bfa719f5b613">5</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref16" level="subseries">
+               <did>
+                  <unittitle>Katherine L. Read to Bernard E. Read</unittitle>
+               </did>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>KLR to BER</unittitle>
+                     <unitdate type="inclusive">1937 Jun-Jul</unitdate>
+                     <container label="Mixed Materials (39002035360313)"
+                                id="aspace_9764b0100474ebb97bc030dfd4f1fbe1"
+                                type="box">1</container>
+                     <container id="aspace_d4724d7251d0dd1a8ce9931c8bbe67be"
+                                type="folder"
+                                parent="aspace_9764b0100474ebb97bc030dfd4f1fbe1">6</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>KLR to BER</unittitle>
+                     <unitdate type="inclusive">1937 Aug-Dec</unitdate>
+                     <container label="Mixed Materials (39002035360321)"
+                                id="aspace_34ac7f13450593010a3454d63f38492c"
+                                type="box">2</container>
+                     <container id="aspace_10d68861da00af6dd615edea93805526"
+                                type="folder"
+                                parent="aspace_34ac7f13450593010a3454d63f38492c">7</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>KLR to BER</unittitle>
+                     <unitdate type="inclusive">1941-1945</unitdate>
+                     <container label="Mixed Materials (39002035360321)"
+                                id="aspace_6a7ebd16a9bdabe3241b591fd0ed488c"
+                                type="box">2</container>
+                     <container id="aspace_74699047c8087a4bd25f39acb30e3c08"
+                                type="folder"
+                                parent="aspace_6a7ebd16a9bdabe3241b591fd0ed488c">8</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref20" level="subseries">
+               <did>
+                  <unittitle>Bernard E. Read to Katherine L. Read, Robert Read</unittitle>
+               </did>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>BER to KLR</unittitle>
+                     <unitdate type="inclusive">1937 Apr-1941 Oct</unitdate>
+                     <container label="Mixed Materials (39002035360321)"
+                                id="aspace_0a76ff39c0da1bc0e5d7075af4215d77"
+                                type="box">2</container>
+                     <container id="aspace_f41b05cfff49bc745ebf1cb29baa2709"
+                                type="folder"
+                                parent="aspace_0a76ff39c0da1bc0e5d7075af4215d77">9-11</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>BER to KLR, BER to RER</unittitle>
+                     <unitdate type="inclusive">1941 Nov-1942</unitdate>
+                     <container label="Mixed Materials (39002035360321)"
+                                id="aspace_70d13d8c48355ab49b63dc4d839c1047"
+                                type="box">2</container>
+                     <container id="aspace_2d88b881c076e10a8e6d4deff33ae820"
+                                type="folder"
+                                parent="aspace_70d13d8c48355ab49b63dc4d839c1047">12</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref23" level="subseries">
+               <did>
+                  <unittitle>Robert E. Read (son of KLR, BER) to parents</unittitle>
+               </did>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>RER to parents</unittitle>
+                     <unitdate type="inclusive">1948 Aug-1949 Nov</unitdate>
+                     <container label="Mixed Materials (39002035360321)"
+                                id="aspace_56c8495935685af93cb650ea533cca50"
+                                type="box">2</container>
+                     <container id="aspace_5f5150a13a3f234cc4a6b6c7a3d4c813"
+                                type="folder"
+                                parent="aspace_56c8495935685af93cb650ea533cca50">13-14</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref25" level="series">
+            <did>
+               <unittitle>General Correspondence</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1933</unitdate>
+            </did>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-Z</unittitle>
+                  <unitdate type="inclusive">1933</unitdate>
+                  <container label="Mixed Materials (39002035360339)"
+                             id="aspace_9179e6b1fdc36240a93f50b4fe7ab779"
+                             type="box">3</container>
+                  <container id="aspace_85741542ce1f56c4aed3639a31257ab7"
+                             type="folder"
+                             parent="aspace_9179e6b1fdc36240a93f50b4fe7ab779">15</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-Z</unittitle>
+                  <unitdate type="inclusive">1934</unitdate>
+                  <container label="Mixed Materials (39002035360347)"
+                             id="aspace_9ad5abd0ffe9b5875ec03783399d9aa5"
+                             type="box">4</container>
+                  <container id="aspace_1321aac9f8d9a8f8d5cccf372eeaf0fe"
+                             type="folder"
+                             parent="aspace_9ad5abd0ffe9b5875ec03783399d9aa5">16</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-K</unittitle>
+                  <unitdate type="inclusive">1935</unitdate>
+                  <container label="Mixed Materials (39002035360347)"
+                             id="aspace_b6b83b635a2cf92628c5d051447caa60"
+                             type="box">4</container>
+                  <container id="aspace_6ddb63cbf8d58c2faee6d6938f9c3cba"
+                             type="folder"
+                             parent="aspace_b6b83b635a2cf92628c5d051447caa60">17</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, L-Z</unittitle>
+                  <unitdate type="inclusive">1935</unitdate>
+                  <container label="Mixed Materials (39002035360354)"
+                             id="aspace_052fad2e83b377e91ebbbb0bfd08a8a8"
+                             type="box">5</container>
+                  <container id="aspace_a9c69123adb6c1f82a046379c2956af9"
+                             type="folder"
+                             parent="aspace_052fad2e83b377e91ebbbb0bfd08a8a8">18</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-K</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360354)"
+                             id="aspace_fd7440c56ac7587c859965ae8bddb470"
+                             type="box">5</container>
+                  <container id="aspace_d2e1b4fdabe6c01162e37d8bba641bb9"
+                             type="folder"
+                             parent="aspace_fd7440c56ac7587c859965ae8bddb470">19</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, L-Z</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360362)"
+                             id="aspace_ee7209fff8fb7418024241bd91244f27"
+                             type="box">6</container>
+                  <container id="aspace_6ede3695de6d6af9a77d1e88b091a505"
+                             type="folder"
+                             parent="aspace_ee7209fff8fb7418024241bd91244f27">20</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-K</unittitle>
+                  <unitdate type="inclusive">1937</unitdate>
+                  <container label="Mixed Materials (39002035360362)"
+                             id="aspace_eb1229e5ee75ca655b05a4d58fbdf9c1"
+                             type="box">6</container>
+                  <container id="aspace_a2469ffebe145f06894e7b86aeb7445d"
+                             type="folder"
+                             parent="aspace_eb1229e5ee75ca655b05a4d58fbdf9c1">21</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, L-Z</unittitle>
+                  <unitdate type="inclusive">1937</unitdate>
+                  <container label="Mixed Materials (39002035360370)"
+                             id="aspace_f6e5c2ce5e95f10b3261514efbf3ba76"
+                             type="box">7</container>
+                  <container id="aspace_fc476a7be293a1bfe9f65e5a752483b6"
+                             type="folder"
+                             parent="aspace_f6e5c2ce5e95f10b3261514efbf3ba76">22</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-L</unittitle>
+                  <unitdate type="inclusive">1938</unitdate>
+                  <container label="Mixed Materials (39002035360370)"
+                             id="aspace_f93b8908fbc522f2a96299ec8ab76d3e"
+                             type="box">7</container>
+                  <container id="aspace_6390f4460b8773876bb4c941aa4ef33d"
+                             type="folder"
+                             parent="aspace_f93b8908fbc522f2a96299ec8ab76d3e">23</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, M-Z</unittitle>
+                  <unitdate type="inclusive">1938</unitdate>
+                  <container label="Mixed Materials (39002035360388)"
+                             id="aspace_56404940b1ca484527aaac529bc70112"
+                             type="box">8</container>
+                  <container id="aspace_dd0691ef2dd02112f9214fb358d06df1"
+                             type="folder"
+                             parent="aspace_56404940b1ca484527aaac529bc70112">24</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-K</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002035360388)"
+                             id="aspace_74bbee6300b80e424a7f3f56e13bd4e5"
+                             type="box">8</container>
+                  <container id="aspace_b02f597b216c4c8cc320960f585aa5fb"
+                             type="folder"
+                             parent="aspace_74bbee6300b80e424a7f3f56e13bd4e5">25</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, L-Z</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002035360396)"
+                             id="aspace_3d76ac8f9395c098c6330fa999d504dc"
+                             type="box">9</container>
+                  <container id="aspace_b52c7c6bccc24b446d03e272e85bfe23"
+                             type="folder"
+                             parent="aspace_3d76ac8f9395c098c6330fa999d504dc">26</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>BER Bound Correspondence, A-Z</unittitle>
+                  <unitdate type="inclusive">1940</unitdate>
+                  <container label="Mixed Materials (39002035360396)"
+                             id="aspace_6826bcf75b0562a521956d197ccb0fe1"
+                             type="box">9</container>
+                  <container id="aspace_0e144c99872890428afe91391afa8124"
+                             type="folder"
+                             parent="aspace_6826bcf75b0562a521956d197ccb0fe1">27</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>BER Unbound Correspondence, A-Z</unittitle>
+                  <unitdate type="inclusive">1948</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_0edd03a567cc7304d0cd8aa983684533"
+                             type="box">10</container>
+                  <container id="aspace_656a281d347235415eca6556c09714de"
+                             type="folder"
+                             parent="aspace_0edd03a567cc7304d0cd8aa983684533">28</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>WWII Official Documents</unittitle>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_ab43b00af57ac0c7943fa3bf5ec9c137"
+                             type="box">10</container>
+                  <container id="aspace_86a9f42e62e08e7f8cd4fd6dba294fd6"
+                             type="folder"
+                             parent="aspace_ab43b00af57ac0c7943fa3bf5ec9c137">29</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>WWII Personal Correspondence</unittitle>
+                  <unitdate type="inclusive">1942-1943 Oct</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_da7a68833f71ed1ed5e55a6b6fe380de"
+                             type="box">10</container>
+                  <container id="aspace_ddf43910bdb2cdb65983ed37a16c2a1f"
+                             type="folder"
+                             parent="aspace_da7a68833f71ed1ed5e55a6b6fe380de">30</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>WWII Personal Correspondence</unittitle>
+                  <unitdate type="inclusive">1943 Nov-Dec</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_6ef4e529a3426d3240802322701ff438"
+                             type="box">10</container>
+                  <container id="aspace_194333036fe589b4b091db058fc7c0af"
+                             type="folder"
+                             parent="aspace_6ef4e529a3426d3240802322701ff438">31</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>WWII Personal Correspondence</unittitle>
+                  <unitdate type="inclusive">1944-45</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_b0fc5ab09948421f6a762e1699313dfa"
+                             type="box">10</container>
+                  <container id="aspace_319f6b18a2f05e315f94a69f99da5cb9"
+                             type="folder"
+                             parent="aspace_b0fc5ab09948421f6a762e1699313dfa">32</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>WWII Personal Correspondence</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_2d2ec823d045f25e863fd877fc90075d"
+                             type="box">10</container>
+                  <container id="aspace_065c5fedded3259cf5906276817164f7"
+                             type="folder"
+                             parent="aspace_2d2ec823d045f25e863fd877fc90075d">33</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <unitdate type="inclusive">undated. 1902-1964</unitdate>
+                  <container label="Mixed Materials (39002035360404)"
+                             id="aspace_eb74ae9801d1ce8c601d9f94db11d509"
+                             type="box">10</container>
+                  <container id="aspace_c880be00f9e529f426ddf6e7a81fe1dd"
+                             type="folder"
+                             parent="aspace_eb74ae9801d1ce8c601d9f94db11d509">34</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref46" level="series">
+            <did>
+               <unittitle>Writings of B.E. Read</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1917-1918</unitdate>
+            </did>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>Collected papers</unittitle>
+                  <unitdate type="inclusive">1917-1918</unitdate>
+                  <container label="Mixed Materials (39002035360412)"
+                             id="aspace_dea366627acc5b260521304524bb892b"
+                             type="box">11</container>
+                  <container id="aspace_3df952cb8b7edadd9d535cc9dea26067"
+                             type="folder"
+                             parent="aspace_dea366627acc5b260521304524bb892b">35</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Bound Papers</unittitle>
+                  <unitdate type="inclusive">1920-1925</unitdate>
+                  <container label="Mixed Materials (39002035360412)"
+                             id="aspace_052c96cfdfbd937826679cfbaf1578be"
+                             type="box">11</container>
+                  <container id="aspace_973cff800a697c086a21a56d8a6c3ed3"
+                             type="folder"
+                             parent="aspace_052c96cfdfbd937826679cfbaf1578be">36</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>Chalmoogra Studies</unittitle>
+                  <unitdate type="inclusive">1924-27</unitdate>
+                  <container label="Mixed Materials (39002035360412)"
+                             id="aspace_5cb3226654fda7fb1f77a5d33cafde1a"
+                             type="box">11</container>
+                  <container id="aspace_f2cd244d9fbf1e65239acdc119101db0"
+                             type="folder"
+                             parent="aspace_5cb3226654fda7fb1f77a5d33cafde1a">37</container>
+               </did>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Bound Papers</unittitle>
+                  <unitdate type="inclusive">1925-1928</unitdate>
+                  <container label="Mixed Materials (39002035360412)"
+                             id="aspace_d0def76d81ee07399a3f15d99b36069b"
+                             type="box">11</container>
+                  <container id="aspace_4bf2cf722042322622904cd9cc972856"
+                             type="folder"
+                             parent="aspace_d0def76d81ee07399a3f15d99b36069b">38</container>
+               </did>
+            </c>
+            <c id="ref51" level="file">
+               <did>
+                  <unittitle>Bound Papers</unittitle>
+                  <unitdate type="inclusive">1933-1940</unitdate>
+                  <container label="Mixed Materials (39002035360420)"
+                             id="aspace_22904c700026f8eb9c861d48e4de12e6"
+                             type="box">12</container>
+                  <container id="aspace_48878369eadec7bc9145ad07de3a958e"
+                             type="folder"
+                             parent="aspace_22904c700026f8eb9c861d48e4de12e6">39</container>
+               </did>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Short Papers</unittitle>
+                  <unitdate type="inclusive">1923-1926</unitdate>
+                  <container label="Mixed Materials (39002035360420)"
+                             id="aspace_fffd34cf3bd219660e603576723be9fd"
+                             type="box">12</container>
+                  <container id="aspace_0c35cdcbabf1555e1bff3269b1e45f5e"
+                             type="folder"
+                             parent="aspace_fffd34cf3bd219660e603576723be9fd">40</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>Ph.D. Dissertation, Yale University</unittitle>
+                  <unitdate type="inclusive">[1924]</unitdate>
+                  <container label="Mixed Materials (39002035360420)"
+                             id="aspace_77b9003ff6153396169f1eca89ec94d6"
+                             type="box">12</container>
+                  <container id="aspace_c3d96b99786614ddf6de7437fcd473ce"
+                             type="folder"
+                             parent="aspace_77b9003ff6153396169f1eca89ec94d6">41</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Short Papers</unittitle>
+                  <unitdate type="inclusive">1925-1931</unitdate>
+                  <container label="Mixed Materials (39002035360420)"
+                             id="aspace_b1babe38421a2451bb17a3a7afcd6cc2"
+                             type="box">12</container>
+                  <container id="aspace_cf16f0f094d289c2cd5fadd6689d0f33"
+                             type="folder"
+                             parent="aspace_b1babe38421a2451bb17a3a7afcd6cc2">42</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Animal Drugs</unittitle>
+                  <unitdate type="inclusive">1931</unitdate>
+                  <container label="Mixed Materials (39002035360438)"
+                             id="aspace_b381bae413e7159d632cd95b5d638902"
+                             type="box">13</container>
+                  <container id="aspace_021458053e80b571b801e6c755a4fd7f"
+                             type="folder"
+                             parent="aspace_b381bae413e7159d632cd95b5d638902">43</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate type="inclusive">1932-33</unitdate>
+                  <container label="Mixed Materials (39002035360438)"
+                             id="aspace_7c397129435e4f6f3c30250f776c45bf"
+                             type="box">13</container>
+                  <container id="aspace_e597b49fa0eba3a7eeb96e562415717f"
+                             type="folder"
+                             parent="aspace_7c397129435e4f6f3c30250f776c45bf">44</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Avian Drugs</unittitle>
+                  <unitdate type="inclusive">1932</unitdate>
+                  <container label="Mixed Materials (39002035360438)"
+                             id="aspace_6a3d6423fb859b81b643f4b3a621caea"
+                             type="box">13</container>
+                  <container id="aspace_b32c177f1a7fb3d3817553f11263d814"
+                             type="folder"
+                             parent="aspace_6a3d6423fb859b81b643f4b3a621caea">45</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Dragon and snake drugs</unittitle>
+                  <unitdate type="inclusive">1934</unitdate>
+                  <container label="Mixed Materials (39002035360438)"
+                             id="aspace_91157412be16c814b890fe06232c2374"
+                             type="box">13</container>
+                  <container id="aspace_4f5f9906e8bad56dca3fcd923381d7e9"
+                             type="folder"
+                             parent="aspace_91157412be16c814b890fe06232c2374">46</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>Chinese Medicinal plants</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360438)"
+                             id="aspace_93637a130b6e76ac0f7112a7aaeeddb9"
+                             type="box">13</container>
+                  <container id="aspace_aefa483c4e714ffc06237a9b39a7e944"
+                             type="folder"
+                             parent="aspace_93637a130b6e76ac0f7112a7aaeeddb9">47</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Industrial Health in China</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360446)"
+                             id="aspace_fef4a005157f57e256dda39a0d5b3c0e"
+                             type="box">14</container>
+                  <container id="aspace_8957d9554e6acfdc498118f12ae5d73b"
+                             type="folder"
+                             parent="aspace_fef4a005157f57e256dda39a0d5b3c0e">48</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Minerals and Stones; Turtle and Shellfish Drugs</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360446)"
+                             id="aspace_efdc7c54935b3a7b9238a4df25b9ebc8"
+                             type="box">14</container>
+                  <container id="aspace_40a27988159a97ddab55983636948412"
+                             type="folder"
+                             parent="aspace_efdc7c54935b3a7b9238a4df25b9ebc8">49</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate type="inclusive">1938-1939</unitdate>
+                  <container label="Mixed Materials (39002035360446)"
+                             id="aspace_c78a4e502c760d8966efff508ed51e81"
+                             type="box">14</container>
+                  <container id="aspace_57fc4a9a5cccca59518edb31902a84a7"
+                             type="folder"
+                             parent="aspace_c78a4e502c760d8966efff508ed51e81">50</container>
+               </did>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>Fish Drugs</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002035360446)"
+                             id="aspace_2d193fa66c30b7d7be92b5eca6126d03"
+                             type="box">14</container>
+                  <container id="aspace_b544f5c0a02245cc2d6fee17a5572b85"
+                             type="folder"
+                             parent="aspace_2d193fa66c30b7d7be92b5eca6126d03">51</container>
+               </did>
+            </c>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate type="inclusive">1939-1940</unitdate>
+                  <container label="Mixed Materials (39002035360446)"
+                             id="aspace_4b4fcd8ca124bbeb25e968d8d4c7688c"
+                             type="box">14</container>
+                  <container id="aspace_2026f9c51d10eb8c5d3d6ef0555ef909"
+                             type="folder"
+                             parent="aspace_4b4fcd8ca124bbeb25e968d8d4c7688c">52</container>
+               </did>
+            </c>
+            <c id="ref65" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate type="inclusive">1940-1941</unitdate>
+                  <container label="Mixed Materials (39002035360453)"
+                             id="aspace_92591e0426108013402f150a7df60c60"
+                             type="box">15</container>
+                  <container id="aspace_fb947f08fb6039c224db9f7fa2f24d1e"
+                             type="folder"
+                             parent="aspace_92591e0426108013402f150a7df60c60">53</container>
+               </did>
+            </c>
+            <c id="ref66" level="file">
+               <did>
+                  <unittitle>Insect Drugs</unittitle>
+                  <unitdate type="inclusive">1941</unitdate>
+                  <container label="Mixed Materials (39002035360453)"
+                             id="aspace_208e6948543e0769a0e65dee0463e5e4"
+                             type="box">15</container>
+                  <container id="aspace_ce7d4789bfa0a8afd3ca0cf5f7225b5d"
+                             type="folder"
+                             parent="aspace_208e6948543e0769a0e65dee0463e5e4">54</container>
+               </did>
+            </c>
+            <c id="ref67" level="file">
+               <did>
+                  <unittitle>Papers</unittitle>
+                  <unitdate type="inclusive">1941-1949</unitdate>
+                  <container label="Mixed Materials (39002035360453)"
+                             id="aspace_77a65e3d64d734b57436d0fbcc0eb52e"
+                             type="box">15</container>
+                  <container id="aspace_4d12e9f4e2f3ed15691d7aabf52ec8c8"
+                             type="folder"
+                             parent="aspace_77a65e3d64d734b57436d0fbcc0eb52e">55</container>
+               </did>
+            </c>
+            <c id="ref68" level="file">
+               <did>
+                  <unittitle>Dept. and Pharmacology Journal (3 vol.)</unittitle>
+                  <unitdate type="inclusive">1920-1932</unitdate>
+                  <container label="Mixed Materials (39002035360511)"
+                             id="aspace_42f8f27b3fa07657167e2f7325b32a2a"
+                             type="box">16</container>
+                  <container id="aspace_878c38fbadfdf2f52e8010b11489ba37"
+                             type="folder"
+                             parent="aspace_42f8f27b3fa07657167e2f7325b32a2a">56</container>
+               </did>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>Papers of Ephedrine (2 vol.)</unittitle>
+                  <unitdate type="inclusive">1924-1930</unitdate>
+                  <container label="Mixed Materials (39002035360461)"
+                             id="aspace_cbed09799156815b1b66b7fbda73f9f1"
+                             type="box">17</container>
+                  <container id="aspace_b798d4c95628aa8cc280ac58348a2a4c"
+                             type="folder"
+                             parent="aspace_cbed09799156815b1b66b7fbda73f9f1">57</container>
+               </did>
+            </c>
+            <c id="ref70" level="file">
+               <did>
+                  <unittitle>Division of Physiological Sciences. vol. 1-2</unittitle>
+                  <unitdate type="inclusive">1933-1935</unitdate>
+                  <container label="Mixed Materials (39002035360461)"
+                             id="aspace_3f566cc9c544ca7b5d2b71a46ec4b4e7"
+                             type="box">17</container>
+                  <container id="aspace_8d0a27ad6fda1e2cf63deab36af46041"
+                             type="folder"
+                             parent="aspace_3f566cc9c544ca7b5d2b71a46ec4b4e7">58</container>
+               </did>
+            </c>
+            <c id="ref71" level="file">
+               <did>
+                  <unittitle>Division of Physiological Sciences, vol 3-7</unittitle>
+                  <unitdate type="inclusive">1936-1940</unitdate>
+                  <container label="Mixed Materials (39002035360479)"
+                             id="aspace_a101570f6ddb8b19a9a6b67dda156765"
+                             type="box">18</container>
+                  <container id="aspace_3710bf704de95eaccd34ebe2338e6dcc"
+                             type="folder"
+                             parent="aspace_a101570f6ddb8b19a9a6b67dda156765">59</container>
+               </did>
+            </c>
+            <c id="ref72" level="file">
+               <did>
+                  <unittitle>Journal of the Royal Asiatic Society</unittitle>
+                  <unitdate type="inclusive">1938,40,46,48</unitdate>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_947e1b1444e2e919fd2880e5d45f2fcd"
+                             type="box">19</container>
+                  <container id="aspace_ff10fa9f40399bfd001771edad054132"
+                             type="folder"
+                             parent="aspace_947e1b1444e2e919fd2880e5d45f2fcd">60</container>
+               </did>
+            </c>
+            <c id="ref73" level="file">
+               <did>
+                  <unittitle>Chihili Flora (BER Contributor)</unittitle>
+                  <unitdate type="inclusive">1927</unitdate>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_26ebf233eb0eaff07ffe4cfdbe3ce7f4"
+                             type="box">19</container>
+                  <container id="aspace_40771fc353b436473b8ad6aef3c82ece"
+                             type="folder"
+                             parent="aspace_26ebf233eb0eaff07ffe4cfdbe3ce7f4">61</container>
+               </did>
+            </c>
+            <c id="ref74" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - Foreword by K.C. Wong, Director of the Library and Museum, Chinese Medical Association (1951), Preface by Bernard Read (1949), Records 1-99</unittitle>
+                  <unitdate type="inclusive">1949, 1951</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_57b97eb08a7f37254210cd61a75e3373"
+                             type="box">22</container>
+                  <container id="aspace_7b91c65b9979755e47ac4d667c791678"
+                             type="folder"
+                             parent="aspace_57b97eb08a7f37254210cd61a75e3373">2</container>
+               </did>
+               <scopecontent id="aspace_40b818de600e2229d526690420dedf80">
+                  <head>Scope and Contents</head>
+                  <p>An unpublished typescript manuscript by Read, taken from "Bencao gangmu" the late 16th century "Index of Native Herbs," a materia medica listing herbal drugs and their applications.</p>
+               </scopecontent>
+            </c>
+            <c id="ref76" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #100-199</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_ca0e3de1499d80e1a600db802773ecb4"
+                             type="box">22</container>
+                  <container id="aspace_3d0545136974e3d77aba072b3f73a5b5"
+                             type="folder"
+                             parent="aspace_ca0e3de1499d80e1a600db802773ecb4">3</container>
+               </did>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #200-299</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_5def581f72ee139cb64afe4c46278957"
+                             type="box">22</container>
+                  <container id="aspace_6ddd352e5947ca2c39bc43b143aa5b65"
+                             type="folder"
+                             parent="aspace_5def581f72ee139cb64afe4c46278957">4</container>
+               </did>
+            </c>
+            <c id="ref78" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #300-399</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_e0d1ad46eefe0fb37b0b957968aa47ce"
+                             type="box">22</container>
+                  <container id="aspace_f4aa5ee7abf4b7049cb614d189881f78"
+                             type="folder"
+                             parent="aspace_e0d1ad46eefe0fb37b0b957968aa47ce">5</container>
+               </did>
+            </c>
+            <c id="ref79" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #400-499</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_31737161b6fdc04dc48601c206964e58"
+                             type="box">22</container>
+                  <container id="aspace_778d84b05c84d4d65a8bf0cd7dda2ec8"
+                             type="folder"
+                             parent="aspace_31737161b6fdc04dc48601c206964e58">6</container>
+               </did>
+            </c>
+            <c id="ref80" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #500-599</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_9454fcfcef631db1708fb60ce09548b8"
+                             type="box">22</container>
+                  <container id="aspace_5e4091dda0a2b1165626232385875f70"
+                             type="folder"
+                             parent="aspace_9454fcfcef631db1708fb60ce09548b8">7</container>
+               </did>
+            </c>
+            <c id="ref81" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #600-699</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_8fee1b52b2b59071f60817fff9e502e5"
+                             type="box">22</container>
+                  <container id="aspace_caa7d89153b640ffebcd195a8b263c2d"
+                             type="folder"
+                             parent="aspace_8fee1b52b2b59071f60817fff9e502e5">8</container>
+               </did>
+            </c>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #700-799</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_c8f44575a1f7e29ca723b188c70f7061"
+                             type="box">22</container>
+                  <container id="aspace_5117407d285af751a4edb44392af6e7c"
+                             type="folder"
+                             parent="aspace_c8f44575a1f7e29ca723b188c70f7061">9</container>
+               </did>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>"Vegetable and Plant Drugs" - #800-876, Indices</unittitle>
+                  <unitdate type="inclusive">19149</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_b20472457a019b11c4c1a39a995ead57"
+                             type="box">22</container>
+                  <container id="aspace_ae89337ed28b79ca1e97bc070d20c1ed"
+                             type="folder"
+                             parent="aspace_b20472457a019b11c4c1a39a995ead57">10</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref84" level="series">
+            <did>
+               <unittitle>Personal Items and Memorabilia</unittitle>
+               <unitid>Series IV</unitid>
+            </did>
+            <c id="ref85" level="file">
+               <did>
+                  <unittitle>"Golden Days in China" - biography of Bernard Read, by Katherine L. Read and Robert E. Read</unittitle>
+                  <unitdate type="inclusive">2000</unitdate>
+                  <container label="Mixed Materials (39002084179614)"
+                             id="aspace_967a4ffddcef04c7d3570e6acc46af36"
+                             type="box">22</container>
+                  <container id="aspace_0483f17a92f7500bb683c38214bb2ab0"
+                             type="folder"
+                             parent="aspace_967a4ffddcef04c7d3570e6acc46af36">1</container>
+               </did>
+            </c>
+            <c id="ref86" level="file">
+               <did>
+                  <unittitle>Annotated copy of <title type="simple" render="italic">
+                        Bamboo Hospital: the Story of a Missionary Family in Burma
+                     </title> by Katherine L. Read with Robert O. Ballou.</unittitle>
+                  <unitdate type="inclusive">1961</unitdate>
+                  <container label="Mixed Materials (39002097425541)"
+                             id="aspace_00095aa8b4309dc1158b554343907a85"
+                             type="box">21</container>
+                  <container id="aspace_e014fa2d82ad16622c0f1110b3504f9d"
+                             type="folder"
+                             parent="aspace_00095aa8b4309dc1158b554343907a85">1</container>
+               </did>
+            </c>
+            <c id="ref87" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_cfaf4b70ac921fe4e00bbabf3840be1a"
+                             type="box">19</container>
+                  <container id="aspace_3dddf01b12927aea4c481b07138b2a58"
+                             type="folder"
+                             parent="aspace_cfaf4b70ac921fe4e00bbabf3840be1a">62</container>
+               </did>
+            </c>
+            <c id="ref88" level="file">
+               <did>
+                  <unittitle>Photographs and X-Rays</unittitle>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_bc54d60711e26923cb479c6ff1094547"
+                             type="box">19</container>
+                  <container id="aspace_0eb11635a173bb286e4337ffaea98ce9"
+                             type="folder"
+                             parent="aspace_bc54d60711e26923cb479c6ff1094547">63</container>
+               </did>
+            </c>
+            <c id="ref89" level="file">
+               <did>
+                  <unittitle>Chinese Acupuncture maps</unittitle>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_05caca16d2f186bd17654c2a77297296"
+                             type="box">19</container>
+                  <container id="aspace_15425b2d7df63dc3febc5176d2aeadd1"
+                             type="folder"
+                             parent="aspace_05caca16d2f186bd17654c2a77297296">64</container>
+               </did>
+            </c>
+            <c id="ref90" level="file">
+               <did>
+                  <unittitle>King Medal</unittitle>
+                  <unitdate type="inclusive">1936</unitdate>
+                  <container label="Mixed Materials (39002035360487)"
+                             id="aspace_a5c5ab2bf6b2b5b5ef80c09e4ff0af8c"
+                             type="box">19</container>
+                  <container id="aspace_d2b455438eeb4b0a1081abb5c36fe1b5"
+                             type="folder"
+                             parent="aspace_a5c5ab2bf6b2b5b5ef80c09e4ff0af8c">65</container>
+               </did>
+            </c>
+            <c id="ref91" level="file">
+               <did>
+                  <unittitle>Diary of KLR</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_4748e32b0a64c20193a86dbd122da8d7"
+                             type="box">20</container>
+                  <container id="aspace_a3ae52fc1aec6db74492e20de79f0897"
+                             type="folder"
+                             parent="aspace_4748e32b0a64c20193a86dbd122da8d7">66</container>
+               </did>
+            </c>
+            <c id="ref92" level="file">
+               <did>
+                  <unittitle>Official Condolences upon death of BER</unittitle>
+                  <unitdate type="inclusive">1949-50</unitdate>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_466a10ba6a2beeabfe5456e915abab2a"
+                             type="box">20</container>
+                  <container id="aspace_2cfdda38ced4ccb54a4943e35db5f90c"
+                             type="folder"
+                             parent="aspace_466a10ba6a2beeabfe5456e915abab2a">67</container>
+               </did>
+            </c>
+            <c id="ref93" level="file">
+               <did>
+                  <unittitle>Obituaries and Tributes- BER</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_c139c56f386314cb5c62880ceb49e10b"
+                             type="box">20</container>
+                  <container id="aspace_c66b1008301a21881ea0aaec1552d9eb"
+                             type="folder"
+                             parent="aspace_c139c56f386314cb5c62880ceb49e10b">68</container>
+               </did>
+            </c>
+            <c id="ref94" level="file">
+               <did>
+                  <unittitle>Memorabilia- BER Funeral</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_76f1c18bebebee3237a4d0a057f67517"
+                             type="box">20</container>
+                  <container id="aspace_99ef3826ef419d9f3ed826df96cd61d2"
+                             type="folder"
+                             parent="aspace_76f1c18bebebee3237a4d0a057f67517">69</container>
+               </did>
+            </c>
+            <c id="ref95" level="file">
+               <did>
+                  <unittitle>Donations in BER name</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_0b72bf3315a55ba1985f49cd8a465f55"
+                             type="box">20</container>
+                  <container id="aspace_2b94bb45aaf6c4def971cda7b23a701e"
+                             type="folder"
+                             parent="aspace_0b72bf3315a55ba1985f49cd8a465f55">70</container>
+               </did>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Personal Condolences, A-H</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_095929d37fb3cef8a2df3dd5014f442c"
+                             type="box">20</container>
+                  <container id="aspace_9dc6826a9cc86d41211538b4a3e4e187"
+                             type="folder"
+                             parent="aspace_095929d37fb3cef8a2df3dd5014f442c">71</container>
+               </did>
+            </c>
+            <c id="ref97" level="file">
+               <did>
+                  <unittitle>Personal Condolences, I-R</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_bfabb1bf00db86edaa0191b9b782bdf5"
+                             type="box">20</container>
+                  <container id="aspace_c450e47979ac188c98736ad3fcf513d3"
+                             type="folder"
+                             parent="aspace_bfabb1bf00db86edaa0191b9b782bdf5">72</container>
+               </did>
+            </c>
+            <c id="ref98" level="file">
+               <did>
+                  <unittitle>Personal Condolences, S-Z and Cables</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_5bc8964e1b1f0ff01838e0512ecbc4eb"
+                             type="box">20</container>
+                  <container id="aspace_72c2f3897fe4884c7e41429049127a34"
+                             type="folder"
+                             parent="aspace_5bc8964e1b1f0ff01838e0512ecbc4eb">73</container>
+               </did>
+            </c>
+            <c id="ref99" level="file">
+               <did>
+                  <unittitle>Membership list- (Union Church, Shanghai?)</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_ab32ad204392c4f83f7a635af379e434"
+                             type="box">20</container>
+                  <container id="aspace_d880c99d7faeaa73e2d7eb3b4124ad4b"
+                             type="folder"
+                             parent="aspace_ab32ad204392c4f83f7a635af379e434">74</container>
+               </did>
+            </c>
+            <c id="ref100" level="file">
+               <did>
+                  <unittitle>Memoir of George E. Read (BER's father)</unittitle>
+                  <unitdate type="inclusive">1938</unitdate>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_003cf8e28b7368e1ad785d0758bd3183"
+                             type="box">20</container>
+                  <container id="aspace_8936ad413dcd641c3739ccf1316b8c49"
+                             type="folder"
+                             parent="aspace_003cf8e28b7368e1ad785d0758bd3183">75</container>
+               </did>
+            </c>
+            <c id="ref101" level="file">
+               <did>
+                  <unittitle>Pictures and Portraits</unittitle>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_92ef1c17c73855c2d2afcb5ba6b867c6"
+                             type="box">20</container>
+                  <container id="aspace_5b519b635f12ca8e7f3a4d8ab1d2a6d3"
+                             type="folder"
+                             parent="aspace_92ef1c17c73855c2d2afcb5ba6b867c6">76</container>
+               </did>
+            </c>
+            <c id="ref102" level="file">
+               <did>
+                  <unittitle>Yu Wang Fu and Old China Hands addresses</unittitle>
+                  <unitdate type="inclusive">1945</unitdate>
+                  <container label="Mixed Materials (39002035360495)"
+                             id="aspace_9affbecfe93da825ce4880c0bed3738a"
+                             type="box">20</container>
+                  <container id="aspace_df12a32cc9d31844cc55249644df6b93"
+                             type="folder"
+                             parent="aspace_9affbecfe93da825ce4880c0bed3738a">77</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref103" level="series">
+            <did>
+               <unittitle>Glass Slides</unittitle>
+               <unitid>Series V</unitid>
+            </did>
+            <c id="ref104" level="file">
+               <did>
+                  <unittitle>Numbered glass slides</unittitle>
+                  <unitdate type="inclusive">1920s, no date</unitdate>
+                  <container type="box" id="d2e4">OV-1–OV-2</container>
+               </did>
+               <scopecontent id="aspace_6235a4e80f0c206dbc9a6fe454755d8b">
+                  <head>Scope and Contents</head>
+                  <p>More than 500 3" x 3" glass slides are accompanied by a listing of identification by number. The slides include plant, insect, and animal specimens, microscope slides of chemical compounds, archaeological sites in China, scientific equipment, individuals, class groups, scenes in China.</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

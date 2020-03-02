@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="czl" countrycode="us">RG069_164</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 069:164, Benjamin Warren Levalley Papers</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Allen Ramsey.</author>
+	</titlestmt>
+	<publicationstmt>
+		<publisher>Connecticut State Library</publisher>
+		<date type="publication" normal=" ">June 17, 2013</date>
+ <p>Copyright © <date>2013</date> by the Connecticut State Library</p>
+	</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Allen Ramsey on
+<date normal=" ">>June 17, 2013</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Levalley, Benjamin Warren</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Benjamin Warren Levalley papers</unittitle>
+
+	<unitdate label="Dates:" type="inclusive" datechar="creation" normal=" ">1862-1896</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.25 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Benjamin Warren Levalley was a 2nd Lieutenant in Company H of the 22nd Regiment Connecticut Volunteer Infantry during the Civil War. In 1895-1896 he spent time with his cousin Joanna Remington recording gravestones of the Fenner family at the Remington farm in Rhode Island. The collection includes appointment letters, discharge from service paper, correspondence, and a printout of photographs.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="czl">RG069_164</unitid>
+
+	<unitid label="Accession:">2013-056</unitid>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biographical Note</head>
+	<p>Benjamin Warren Levalley was born in Lowell, Massachusetts on September 10, 1836. Levalley was appointed a Sergeant from Hartford in Company H of the 22nd Regiment Connecticut Volunteer Infantry on August 27 and was mustered in on September 20, 1862. He was promoted to 2nd Lieutenant on November 17, 1862. Benjamin mustered out of service on July 7, 1863. He worked for 22 years at the Pratt &amp; Whitney Company retiring as head of the Piping Department in December 1896. In 1895-1896 he spent time with his cousin Joanna Remington recording gravestones of the Fenner family at the Remington farm in Rhode Island. Benjamin Warren Levalley died on June 11, 1911, in Providence, Rhode Island at the age of 74.</p>
+ <p><emph render="bold">Genealogy</emph></p>
+ <p>Warren D. Welch is the great great grandson of Mary Cook Levalley Lovell. Mary was Benjamin Warren Levalley's sister.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The papers include appointment letters, discharge from service paper, correspondence, and a printout of photographs.</p>
+</scopecontent>
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<controlaccess>
+ <head>Subjects:</head>
+ <subject encodinganalog="650" source="lcsh">Connecticut -- Genealogy</subject>
+ <subject encodinganalog="650" source="lcsh">Connecticut -- History -- Civil War, 1861-1865</subject>
+ <subject encodinganalog="650" source="lcsh">Rhode Island -- Genealogy</subject>
+ <subject encodinganalog="650" source="lcsh">United States -- History -- Civil War, 1861-1865</subject>
+ </controlaccess>
+ <controlaccess>
+ <head>Places:</head>
+ <geogname encodinganalog="651" source="lcnaf">Connecticut</geogname>
+ <geogname encodinganalog="651" source="lcnaf">Hartford (Conn.)</geogname>
+ <geogname encodinganalog="651" source="lcnaf">Providence (R.I.)</geogname>
+ </controlaccess>
+ <controlaccess>
+		<head>Persons:</head>
+ <persname encodinganalog="700" source="local">Levalley, Benjamin Warren</persname>
+ <persname encodinganalog="700" source="local">Remington, Joanna</persname>
+ <persname encodinganalog="700" source="local">Lovell, Mary Cook Levalley</persname>
+ <persname encodinganalog="700" source="lcnaf">Pratt, Frederic Alcott, 1862-1910</persname>
+ </controlaccess> 
+ <controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Orders (military records)</genreform>
+			<genreform encodinganalog="655" source="aat">Printouts</genreform>
+ </controlaccess>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>The papers were donated to the Connecticut State Library by Warren D. Welch on April 29, 2013.</p>
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Papers</unittitle>
+	<unitdate type="inclusive" normal="1862/1896">1862-1896, undated</unitdate>
+ </did>	
+<c02 level="file">
+ <did>
+	<unittitle>Colonel George S. Burnham appointment of Benjamin W. Levalley to the office of Sergeant in Infantry Company H, 22nd Regiment</unittitle>
+	<unitdate type="inclusive" normal="1862">1862 September 19</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Governor William A. Buckingham promotion of Benjamin W. Levalley to the office of Second Lieutenant of Infantry Company H of the Twenty-Second Regiment</unittitle>
+	<unitdate type="inclusive" normal="1862">1862 November 17</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Discharge paper of Benjamin W. Levalley</unittitle>
+	<unitdate type="inclusive" normal="1862">1863 July 7</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Benjamin Levalley letter to sister McMinnich</unittitle>
+	<unitdate type="inclusive" normal="1895">1895 May 5</unitdate>
+ </did>	
+ <scopecontent><p>Benjamin acknowledges receiving sister McMinnich's letter inquiring about the Fenner family genealogy. He talks about enclosing several clippings and documents about the family for her safe keeping. The sister's name was transcribed by the donor.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Benjamin Levalley letter to sister Mary C. Levalley</unittitle>
+	<unitdate type="inclusive" normal="1896">1896 July 4</unitdate>
+ </did>	
+ <scopecontent><p>Benjamin talks about his trip to Remington farm to find and transcribe the gravestones of Fenner family members. Included at the end of the letter are the transcribed words from each gravestone found.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>F. A. Pratt letter to whom it may concern</unittitle>
+	<unitdate type="inclusive" normal="1896">1896 December 2</unitdate>
+ </did>
+ <scopecontent><p>F. A. Pratt letter announcing Benjamin W. Levalley's retirement from the Pratt &amp; Whitney Company after 22 years.</p></scopecontent>	
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Benjamin Levalley letter to sister Mary C. Levalley</unittitle>
+	<unitdate type="inclusive" normal="undated">undated</unitdate>
+ </did>	
+ <scopecontent><p>Benjamin talks about his trip to Remington farm to find and transcribe the gravestones of Fenner family members. Included at the end of the letter are the transcribed words from each gravestone found.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<unittitle>Photograph printout of Benjamin Warren Levalley and Mary Cook Levalley Lovell</unittitle>
+	<unitdate type="inclusive" normal="undated">undated</unitdate>
+	<physdesc><extent>1 printout</extent> of 3 photographs</physdesc>
+ </did>	
+</c02>
+
+
+
+
+
+
+
+</c01>
+
+
+
+
+
+
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

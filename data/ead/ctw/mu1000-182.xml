@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::::Music Department Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/mu1000-182.html">mu1000-182</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Music Department Records,
+		<lb/><date normal="1878/9999">1878-[ongoing]</date>
+		</titleproper>
+        <author>Processed by: Doreen E. Mangels; machine-readable finding aid created by: Doreen E. Mangels</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2009" encodinganalog="date">© 2009</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: November 2009</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Music Department Records, <date type="span">1878-[ongoing]</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2009">© 2009</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). Music Dept.</corpname></origination><unittitle label="Title" encodinganalog="245">Music Department Records, <unitdate normal="1878/9999" type="inclusive">1878-[ongoing]</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-182</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">24.25</extent></physdesc><physdesc label="Archival Boxes"><extent>29</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The music program at Wesleyan University dates back to the early days of the institution, when informal singing groups performed for special occasions.  As the program expanded and became more formalized, courses were offered, and in 1929 the Music Department was established.  Performance groups came to include the Glee Club, the Chapel Choir, the Choral Society, the Jibers, the Cardinals, the Wesleyan Band, and a number of instrumental ensembles.  During the 1950s, associate professor David McAllester introduced world music courses into the curriculum, and in 1966 the department established a doctoral program in ethnomusicology.  Visiting artists from various regions around the world, including Africa, India, Indonesia, Japan, and Korea, have performed at the university.</abstract><abstract encodinganalog="520">The collection includes proposals, meeting minutes, memoranda, correspondence, and reports relating to the establishment of the ethnomusicology doctoral program.  It also contains photographs and printed material relating to music performances by faculty, student groups, and visiting world music artists. Materials in the Music Concert Programs, Concert Correspondence Files, Events Scrapbooks, and Programs and Records series have not been processed. </abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Music Department Records, Collection #1000-182, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Series 1 materials given by David McAllester, August 1976.  Series 2 received in 1990 from the Music Department. Other materials received in 1992, 1993, 2007 and at additional dates from the Music Department.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Doreen E. Mangels, November 2009</p>
+        <p>Encoded by Doreen E. Mangels, November 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Music has been part of the Wesleyan University experience since the early days of the institution.  Known as a "singing college," Wesleyan inherited a tradition of music from the hymnody of its Methodist roots (see David B. Potts's <title render="italic">Wesleyan University, 1831-1910:  Collegiate Enterprise in New England</title>).  The first music performances at the university were organized by volunteers and sponsored by groups such as the Middlesex Musical Association.  Beginning in the 1840s, glee clubs were created for special occasions, and in 1862 Wesleyan singers had their first public tour.  In 1882 the university hired a professional musician as glee club coach, and the group gave standing-room-only public appearances, including an 1888 concert at the Metropolitan Opera House in New York City.  From the 1880s on, undergraduate students as well as alumni composed songs; these were collected in the Wesleyan Song Book, first published in 1901.  Weekly sings took place on the chapel steps beginning in about 1901, and in about 1913 the university began offering a small stipend to students who participated in the chapel choir.</p>
+      <p>During the 1920s, the music program at Wesleyan became more formalized.  In 1921, the Music and Dramatics Board was created to supervise musical and dramatic organizations and arrange concerts and trips.  The university also offered its first course work in music.  In the academic year 1925/26, Hugh L. Smith (class of 1915), an assistant professor in the Department of Romance Languages, offered a course on the history and appreciation of music.  In 1928/29, courses in dramatic music and harmony were added.  Then, in 1929, alumnus John Spencer Camp (class of 1878) donated a large sum to set up a chair of music at the university.  Joseph Stephen Daltry was appointed to the newly endowed chair, and the Music Department was established. </p>
+      <p>The music program at Wesleyan continued to expand over the years.  By the late 1940s, two professors--Joseph Daltry and George McManus--were offering about ten courses a year.  In 1949, Richard Winslow (class of 1940) joined the staff.  By the mid-1950s, singers performed not only with the Chapel Choir and Glee Club but also with the Choral Society, a male quartet called the Jibers, and a group of eight or nine called the Cardinals.  The Wesleyan Band performed at football games and various campus affairs, and a woodwind and brass ensemble played several recitals a year.  The Music Department, at that time housed in Judd Hall, had several sound-proof studios and an extensive collection of phonograph records.  By the late 1960s, musical opportunities at the university included private lessons; the Wesleyan University concert series; the college orchestra, a "town-gown" organization; the Wesleyan String Quartet; and the Collegium Musicum, which performed medieval and Renaissance music.</p>
+      <p>A significant development in the music program that occurred around the middle of the twentieth century was the introduction of the study of music "as a universal phenomenon beyond the confines of Western European tradition" (<emph render="italic">Wesleyan University Bulletin</emph>, 1956/57).  In 1956/57, associate professor David McAllester, an anthropologist whose specialty was the culture and music of the Navajo, first offered Music 31, Ethnic and Folk Music, in addition to the anthropology courses he taught in the Department of Psychology.  In 1961, McAllester teamed up with Robert E. Brown, a specialist in the music of India, to teach classes in the university's new World Music Program.  McAllester and Richard Winslow proposed an advanced program of study, and in 1966 the department began offering a doctorate in ethnomusicology in addition to undergraduate and master's degrees.  By the 1970s, courses taught by resident and visiting members of the department's faculty covered Western classical, Afro-American, South Indian, North Indian, and Japanese music; the 1970/71 catalog listed some thirty-two courses and seminars in non-Western music.  Study groups were organized focusing on the music of South India, Japan, Persia, Korea, and the Javanese gamelan.</p>
+      <p>In 1973, Wesleyan opened its Center for the Arts, a complex of eleven buildings housing undergraduate programs in art and art history, dance, theater, and music, as well as the graduate program in ethnomusicology.  The Center comprises classrooms, galleries, and studios, and its music facilities include a recording studio, a computer and experimental music studio, Crowell Concert Hall, and World Music Hall. </p>
+      <p>The Music Department currently provides course work and performing opportunities in music from around the world.  More than sixty courses are offered.  A number of activities--including a variety of chamber ensembles and ensembles in Asian, African, American, and European traditions--are available to students.  Music facilities include a collection of instruments from many different cultures; a music-instrument manufacturing workshop; a scores and recordings collection; and a world music archives.  An ongoing departmental colloquium presents lectures on issues in the world of music by students, faculty, and outside speakers.  In addition, the department sponsors events such as concerts by world-renowned jazz artists, the Wesleyan World Percussion Festival (2000), New England Gamelan Weekend (2002), the Celtic Routes Festival (2003), and the annual Navaratri Festival.
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>The collection is arranged in six series.  The records in Series 1, the Ethnomusicology Doctoral Program, relate to the establishment of the Music Department's advanced degree program in world music.  The proposal drafts and notes, created in large part by David McAllester, describe the program and its requirements, including budget information.  McAllester's proposal for an anthropology department, dating to roughly the same period, is also included.  The meeting minutes, memoranda, correspondence, and grant proposals relate to the creation of the ethnomusicology doctoral program.  An NDEA fellowship application and a report entitled Program for Advanced Studies in World Music are also included.  The Creative Arts Program documents contain information on the ethnic music component of the music program.</p> 
+<p>Series 2, Photographs, comprises images and printed material relating to music performances by members of the Wesleyan community or artists visiting the university, circa 1947 to 1988.  Approximately 400 print photographs--as well as contact sheets, negatives, and slides--are included.  The photographs are arranged in two subseries:  Faculty and Student Groups, and World Music Performers.  The Faculty and Student Groups subseries includes images of Music Department staff and student music group members, either posed or during concerts.  Photographs in the World Music Performers subseries show visiting artists who specialized in African, Indian, Indonesian, Japanese, Korean, and Native American music.  Instruments shown include the Indian been, kanjira, mrdangam, sarangi, sarod, sitar, tabla, tambura, and vina; the Javanese gender and gamelan; and the Japanese koto, shakuhachi, and shamisen.  Photographs of ethnic dance performances and Javanese shadow plays are also included.  A third subseries, Printed Material, consists of biographies and resumes of world music performers.  A fourth subseries, Oversized Material, includes a drawing of Professor Richard Winslow as well as programs and explanatory notes for world music performances.</p><p>Materials in Series 3, Music Concert Programs; Series 4, Concert Correspondence Files; Series 5, Events Scrapbooks; and Series 6, Programs and Records, have not been processed.
+
+</p></scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Curricula.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Music Dept.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Songs and music.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--World Music Institute.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan Glee Club.</corpname>
+      <persname source="lcnaf" encodinganalog="600">McAllester, David P. (David Park), 1916-2006.</persname>
+      <subject source="lcsh" encodinganalog="650">Music--Africa.</subject>
+      <subject source="lcsh" encodinganalog="650">Music--India.</subject>
+      <subject source="lcsh" encodinganalog="650">Music--Indonesia.</subject>
+      <subject source="lcsh" encodinganalog="650">Music--Japan.</subject>
+      <subject source="lcsh" encodinganalog="650">Music--Korea.</subject>
+      <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+      <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Ethnomusicology Doctoral Program, <unitdate type="inclusive">circa 1960-1966</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Ethnomusicology Doctoral Program records relate to the establishment of the Music Department's advanced degree program in world music.  The proposal drafts and notes, created in large part by David McAllester, describe the program and its requirements, including budget information.  McAllester's proposal for an anthropology department, dating to roughly the same period, is also included.  The meeting minutes, memoranda, correspondence, and grant proposals relate to the creation of the ethnomusicology doctoral program.  An NDEA fellowship application and a report entitled Program for Advanced Studies in World Music are also included.  The Creative Arts Program documents contain information on the ethnic music component of the music program.
+</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Proposal drafts and notes, <unitdate type="inclusive">circa 1963-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Anthropology Department proposal, <unitdate type="inclusive">after 1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Meeting minutes, <unitdate type="inclusive">14 May 1964-21 October 1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Memoranda, <unitdate type="inclusive">24 April 1964-10 November 1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">22 November 1963-9 December 1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Creative Arts Program, <unitdate type="inclusive">2 November 1964-20 December 1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Grant proposals, <unitdate type="inclusive">1965-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>NDEA Fellowship application, <unitdate type="inclusive">May 1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Program for Advanced Studies in World Music report, <unitdate type="inclusive">circa 1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Press release, <unitdate type="inclusive">1966</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Photographs, <unitdate type="inclusive">circa 1947-1988</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>The Photographs series comprises images and printed material relating to music performances by members of the Wesleyan community or artists visiting the university, circa 1947 to 1988.  Approximately 400 print photographs--as well as contact sheets, negatives, and slides--are included.  The photographs are arranged in two subseries:  Faculty and Student Groups, and World Music Performers.  The Faculty and Student Groups subseries includes images of Music Department staff and student music group members, either posed or during concerts.  Photographs in the World Music Performers subseries show visiting artists who specialized in African, Indian, Indonesian, Japanese, Korean, and Native American music.  Instruments shown include the Indian been, kanjira, mrdangam, sarangi, sarod, sitar, tabla, tambura, and vina; the Javanese gender and gamelan; and the Japanese koto, shakuhachi, and shamisen.  Photographs of ethnic dance performances and Javanese shadow plays are also included.    A third subseries, Printed Material, consists of biographies and resumes of world music performers.  A fourth subseries, Oversized Material, includes a drawing of Professor Richard Winslow as well as programs and explanatory notes for world music performances.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Faculty and Student Groups</unittitle>
+          </did>
+          <scopecontent>
+            <p>Folders are arranged alphabetically.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">1</container>
+              <unittitle>Joel Andrews? (harp), undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>B. Brown [Robert Brown], undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>The Cardinals, 1951-1958 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Delta Tau Delta informal, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Glee Club concerts in church, 1965-1968 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Theodore C. Grame, <unitdate type="inclusive">November 1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Sydney Griller and Jack O'Brien, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Instrumental Ensemble, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>The Jibers, <unitdate type="inclusive">1952-1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Julliard String Quartet, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Memorial Chapel concerts, 1959-1988 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Music Department, 1957-1961 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Music section of the Humanities Laboratory, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle><title render="italic">Olla Podrida</title>, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Ray Rendall, <unitdate type="inclusive">May 1958</unitdate> and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Smith College/Wesleyan University Concert Choir, <unitdate type="inclusive">circa 1958-1963</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>String instruments, circa 1956 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Unidentified group at airport, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Wesleyan Band, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Wesleyan Choral Society, <unitdate type="inclusive">1955-1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Wesleyan Chorus, <unitdate type="inclusive">1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Wesleyan Glee Club, 1947-1967 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Wesleyan Orchestra and Chamber Orchestra, 1956-1957 and undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Richard K. Winslow, 1957-1965 and undated</unittitle>
+            </did>
+            <scopecontent>
+              <p>One drawing is located with Oversized Material in Box 6.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>World Music Performers</unittitle>
+          </did>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Africa</unittitle>
+            </did>
+            <scopecontent>
+              <p>Performers include Emmanuel Duodu, Christian Darkwa, and Abraham Adzenyah.</p>
+            </scopecontent>
+            <c04 level="file">
+              <did>
+                <container type="Box">3</container>
+                <container type="Folder">1</container>
+                <unittitle>African dance, <unitdate type="inclusive">circa 1972</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>African drumming, circa 1972 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>African wind instrument, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Emmanuel Duodu (dance)--West Africa, undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>India</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Ravi Shankar, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Jon Higgins--South India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Ranganathan (mrdangam) and unidentified performer (tambura)--North India, circa 1968 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>Tewari (vocal), Srinivasan (tambura), and Zia Mohiuddin Dagar (been)--North India, circa 1968 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Raghu (mrdangam), Viswanathan (flute), Srinivasan (tambura), and unidentified performer (violin)--South India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>Viswanathan (flute)--India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>Ranganathan (mrdangam), Viswanathan (flute), Srinivasan (tambura), and unidentified performers (kanjira and violin)--South India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">12</container>
+                <unittitle>Kalyanakrishna (vina) and Muthulakshmi (vina), circa 1968-1971 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>Nageswara Rao (vina), circa 1966 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>Krishna Sanyal (sitar), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">15</container>
+                <unittitle>S. Ramanathan (vina), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">16</container>
+                <unittitle>Ramnad V. Raghavan--South India, circa 1970 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">17</container>
+                <unittitle>L. Shamkar (violin)--South India, 1973 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">18</container>
+                <unittitle>Sharda Sahai (tabla) and Ram Chakravarty (sitar)--North India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">19</container>
+                <unittitle>Ram Narayan (sarangi), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">20</container>
+                <unittitle>Debu Chaudhuri (sitar) and Sitaram Sharma (tabla), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">21</container>
+                <unittitle>Mahapurush Misra (tabla), 1966 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">22</container>
+                <unittitle>Dagar (sarod)--North India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">23</container>
+                <unittitle>Unidentified performer (violin)--South India, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">24</container>
+                <unittitle>Unidentified performers (mrdangam, tambura, and violin), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">25</container>
+                <unittitle>Unidentified performers (flute, tambura, and mrdangam), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">26</container>
+                <unittitle>Unidentified performer (mrdangam), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">27</container>
+                <unittitle>Unidentified performers (tabla, sitar, and tambura), undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Indonesia</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">1</container>
+                <unittitle>Oemartopo, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Suharto (dance), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Mrs. Suharti Soedarsono and Suharto, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Mrs. Suharti Soedarsono, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Robertus Soedarsono (dance)--Java, circa 1970 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Sumarsam and Urip Sri Maeny (dance), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Endo Swanda, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>Prawotosaputro (gender)--Javanese gamelan, <unitdate type="inclusive">circa 1970</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Javanese gamelan, undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Japan</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>Hiroka Abiru and Hirochika Nakajima, <unitdate type="inclusive">circa 1970</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>Kansuke Kawase, <unitdate type="inclusive">circa 1971</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">12</container>
+                <unittitle>Mrs. Ayano Ichimura (koto), Miss Momoyo Kishibe, and Mr. Kansuke Kawase, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>Mrs. Ayano Ichimura (koto and shamisen), <unitdate type="inclusive">circa 1971</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>Mr. Jodo Tanaka, circa 1972 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">15</container>
+                <unittitle>Tanaka, Ichimura (shamisen), and Torii (koto), <unitdate type="inclusive">1973</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">16</container>
+                <unittitle>Namino Torii (shamisen and koto), circa 1966-1979 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">17</container>
+                <unittitle>Kazuyuki Takano (shamisen and koto), circa 1969 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">18</container>
+                <unittitle>Kodo Araki (shakuhachi), <unitdate type="inclusive">circa 1968</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">19</container>
+                <unittitle>Student recital, <unitdate type="inclusive">27 January 1971</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">20</container>
+                <unittitle>Unidentified performers (flute), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">21</container>
+                <unittitle>Unidentified performer (koto), undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Korea</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">1</container>
+                <unittitle>Chae-Son Cho (flute), <unitdate type="inclusive">circa 1968</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Native American</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Douglas Mitchell (drum), undated (deceased December 1972)</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Unidentified</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Contact sheet, <unitdate type="inclusive">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Negatives, 12 October 1969 and undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Photograph, undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Photographs (guitar), undated</unittitle>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Slides, undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Printed Material</unittitle>
+          </did>
+          <scopecontent>
+            <p>Oversized printed material is located in Box 6.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>World music performers' biographies and resumes, <unitdate type="inclusive">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Oversized Material</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">1</container>
+              <unittitle>Drawing of Richard K. Winslow, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>World music performance programs and explanatory notes,  <unitdate type="inclusive">1970-1971</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Music Concert Programs, <unitdate type="inclusive">1878-[ongoing]</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>6 boxes (5.5 linear feet)</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 4. Concert Correspondence Files, <unitdate type="inclusive">1935-1973</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>1 box (0.5 linear feet)</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 5. Events Scrapbooks, <unitdate type="inclusive">1944-1953 and 1958-1968</unitdate></unittitle>
+        </did>
+        <scopecontent>
+          <p>1 box (0.5 linear feet)</p>
+        </scopecontent>
+      </c01>
+      <c01 level="series">
+        <did> 
+    <unittitle>Series 6. Programs and Records</unittitle>
+</did>
+        <scopecontent>
+          <p>15 boxes (14.5 linear feet)</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

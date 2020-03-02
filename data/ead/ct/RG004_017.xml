@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004_017.html" countrycode="us">RG004_017</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:017, Bristol Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">May 02, 2011</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2009</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>May 02, 2011</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (Bristol District)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Bristol Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1830/1970">1830-1970</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">235.25 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Probate record books, 1830-1970; Probate files, 1830-1986.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_017</unitid>
+
+	<unitid label="Accession: ">1931-002, 2011-009, 2011-030, 2011-017, T003283</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Bristol, Hartford County, Town established in May 1785, Parent Town: Farmington
+</p>
+<p>
+Bristol Probate District was constituted June 4, 1830, from the Farmington Probate District. The Bristol Probate District merged with the Plainville and Plymouth Proabte Districts to form Region #19 Probate District. 
+</p>
+<p>
+Town of Bristol, Probate District chronology:
+</p>
+<p>
+May 1785 - June 3, 1830, Farmington District<lb/>
+June 4, 1830 - January 4, 2011, Bristol District<lb/>
+January 5, 2011 - present, Region #19 Probate District
+</p>
+
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Probate record books, 1830-1927. Contact the probate court to access record books after Volume 48. See Alternative Form Available note below.</p>
+	<p>Probate files, 1830-1970. Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. See Alternative Form Available note below.</p>
+	<p>Inventory control book, 1830-1937 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+</scopecontent> 
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Record books are numbered consecutively from 1 to 48. Thereafter, only bond volumes were transferred to the Connecticut State Library. These bond volumes are 58, 74, 91, 104, 119, 132, 141, 155.</p>
+	<p>Probate Files: Accessions 1931-002 and T003283 are arranged alphabetically; Accession 2011-030 is arranged as received from the probate court.</p>
+
+</arrangement>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+	<p>Record Books: Index cards for the record books have been scanned. Ask History and Genealogy staff for assistance.</p>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in accession 1931-002 are represented in this index.</p>
+	<p>Probate Files: The History and Genealogy reference staff has access to an index for the probate files in accession 2011-030.</p>
+</otherfindaid>
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+	
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Bristol</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Bristol (Conn.)</geogname>
+	</controlaccess>
+	
+
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+	<p>Probate files from 1921-1976 are <emph render="bold">RESTRICTED</emph> as they may contain confidential documents. Tax returns (succession, transfer and estate tax returns and all attachments) from January 1, 1921 and later are confidential per Connecticut General Statutes §12-15. 
+Adoptions (all documents) from January 1, 1944 and later are confidential per Connecticut General Statutes §45a-754. Removals of parent as guardian of minor (all documents) and terminations of parental rights (all documents) from October 1, 1975 and later are confidential per Connecticut General Statutes §45a-754. Contact State Archives staff for assistance.</p>
+
+	<p>Accession 2011-009, Record books, 1830-1927; Accession 2012-017, Record books, 1927-1970, and Accession 2011-030, Probate files, 1862-1986, are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, volumes 1-4, 6-7, 9-10, 12-13, 15-16, 19-21, 23-25, 28, 32-33, 37-40, 42, 1830-1917; probate files 1730-1937 (Accession 1931-002 only); and inventory control book (Godard Digest) have been microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>
+The record books in accession 2011-009 were transferred to the Connecticut State Library on July 28, 2010.
+</p>
+<p>
+The probate files in accession 1931-002 were transferred to the Connecticut State Library on the following dates (with date span of files): April 2, 1931 (1876-1903); October 17, 1935 (1830-1919); November 21, 1938 (1830-1919); October 15, 1941 (1913-1937). They were interfiled into
+one alphabetic sequence. 
+</p>
+<p>
+It is not known when the probate files in accession T003283 were transferred to the Connecticut State Library. 
+</p>
+<p>
+The probate files in accession 2011-030 were transferred to the Connecticut State Library on July 28, 2010, October 4, 2010, and November 10, 2010, June 9, 2011, June 29, 2011, August 22, 2011, September 28, 2011, January 18, 2012.
+</p>
+
+</acqinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Record Books</unittitle>
+	<unitdate datechar="creation" normal="1830/1927">1830-1927</unitdate>
+	<unitid label="Accession: ">2011-009</unitid>
+	<physdesc><extent> 24 cubic feet (48 volumes)</extent></physdesc>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">1</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1830-1848</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">2</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1840-1847</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1848-1852</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">4</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1852-1855</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">5</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1855-1859</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1853-1859</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">7</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1859-1865</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">8</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1865-1874</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">9</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1865-1874</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">10</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1874-1878</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">11</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1874-1882</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">12</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1878-1881</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">13</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1881-1883</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">14</container>
+	<unittitle>Bonds and decrees</unittitle>
+	<unitdate datechar="creation">1882-1887</unitdate>
+ </did>	
+	<note><p>On spine: "Records"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">15</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1883-1886</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">16</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1885-1889</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">17</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1887-1893</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">18</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1887-1902</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">19</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1889-1892</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">20</container>
+	<unittitle>Applications</unittitle>
+	<unitdate datechar="creation">1885-1904</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">21</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1892-1895</unitdate>
+ </did>	
+	<note><p>On spine: "Manuscript"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">22</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1893-1898</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">23</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1895-1899</unitdate>
+ </did>	
+	<note><p>On spine: "Manuscript"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">24</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1897-1901</unitdate>
+ </did>	
+	<note><p>On spine: "Manuscript"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">25</container>
+	<unittitle>Wills and distributions</unittitle>
+	<unitdate datechar="creation">1897-1908</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">26</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1898-1902</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">27</container>
+	<unittitle>Inventories and accounts</unittitle>
+	<unitdate datechar="creation">1899-1903</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">28</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1901-1905</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">29</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1902-1913</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">30</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1902-1906</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">31</container>
+	<unittitle>Inventories and accounts</unittitle>
+	<unitdate datechar="creation">1903-1906</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">32</container>
+	<unittitle>Applications</unittitle>
+	<unitdate datechar="creation">1904-1912</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">33</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1905-1908</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">34</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1906-1913</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">35</container>
+	<unittitle>Inventories and accounts</unittitle>
+	<unitdate datechar="creation">1906-1908</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">36</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1913-1921</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">37</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1908-1911</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">38</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1911-1913</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">39</container>
+	<unittitle>Applications</unittitle>
+	<unitdate datechar="creation">1912-1919</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">40</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1913-1915</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">41</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1913-1918</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">42</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1915-1917</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">43</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1917-1919</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">44</container>
+	<unittitle>Decrees</unittitle>
+	<unitdate datechar="creation">1918-1923</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">45</container>
+	<unittitle>Applications</unittitle>
+	<unitdate datechar="creation">1919-1925</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">46</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1919-1920</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">47</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1920-1921</unitdate>
+ </did>	
+	<note><p>On spine: "Miscellany"</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">48</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1921-1927</unitdate>
+ </did>	
+</c02>
+</c01>
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Record Books</unittitle>
+	<unitdate datechar="creation" normal="1927/1970">1927-1970</unitdate>
+	<unitid label="Accession: ">2012-017</unitid>
+	<physdesc><extent> 4.5 cubic feet (8 volumes)</extent></physdesc>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">58</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1927-1937</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">74</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1937-1944</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">91</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1944-1950</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">104</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1950-1955</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">119</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1955-1959</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">132</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1959-1963</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">141</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1963-1966</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">155</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1966-1970</unitdate>
+ </did>	
+</c02>
+
+</c01>
+
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate Files</unittitle>
+	<unitdate datechar="creation" normal="1830/1937">1830-1937</unitdate>
+	<physdesc><extent>26.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1931-002</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Drawer</entry>
+ </row>
+ </thead>	
+	<c02 level="file">
+	 <did>
+		<container type="Drawer">1-79</container>
+		<unittitle>Probate files</unittitle>
+		<unitdate datechar="creation">1830-1937</unitdate>
+	 </did>	
+		<arrangement><p>Arranged alphabetically.</p></arrangement>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1830-1937</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the two accessions of probate files now merged into accession 1931-002</p></note> 
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate Files</unittitle>
+	<unitdate datechar="creation" normal="1919/1931">circa 1919-1931</unitdate>
+	<physdesc><extent>16.5 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">T003283</unitid>
+ </did>	
+	<c02 level="file">
+	 <did>
+		<container type="Drawer">1-50</container>
+		<unittitle>Probate files</unittitle>
+		<unitdate datechar="creation">circa 1919-1931</unitdate>
+	 </did>	
+		<arrangement><p>Arranged alphabetically</p></arrangement>	
+		<note><p>There is no index for this accession</p></note>
+</c02>
+</c01>
+
+
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate Files</unittitle>
+	<unitdate datechar="creation" normal="1921/1986">1862-1986</unitdate>
+	<physdesc><extent>140 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">2011-030</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Box</entry>
+ </row>
+ </thead>	
+	<c02 level="file">
+	 <did>
+		<container type="Box">1-140</container>
+		<unittitle>Probate files</unittitle>
+		<unitdate datechar="creation">1862-1986</unitdate>
+	 </did>	
+</c02>
+
+
+
+</c01>
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

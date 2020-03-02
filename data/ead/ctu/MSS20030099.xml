@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/findaids/Lynch/MSS20030099.html" mainagencycode="US-CtU" countrycode="US">MSS20030099</eadid>
+
+<filedesc>
+         <titlestmt>
+            <titleproper>Peter E. Lynch Railroad Collection</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Laura Katz Smith.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2008  University of Connecticut</publisher>
+            <date type="publication">December 2003</date>
+            <address>
+               <addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline>
+               <addressline>University of Connecticut Libraries</addressline>
+<addressline>405 Babbidge Road, Unit 1205</addressline>
+               <addressline>Storrs, Connecticut  06269-1205</addressline>
+					<addressline>URL http://doddcenter.uconn.edu</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Laura Katz Smith in December 2003.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS20030099 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100"/>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">Peter E. Lynch Railroad Collection.</unittitle>
+         <unitdate label="Dates:">1870, 1910-1969.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">0.5 linear feet. </physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The Peter E. Lynch Railroad Collection consists of materials almost exclusively associated with the New York, New Haven &#x0026; Hartford Railroad (a.k.a. New Haven Railroad), including timetables, arranged package car service lists, and train order forms.  Also includes a Western Maryland Railroad mortgage bond (1870) and a Penn Central timetable (1969).</abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS20030099</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did><!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography</head>
+         <p><persname>Peter E. Lynch</persname>, born on October 23, 1945, graduated from <corpname>Brown University</corpname>
+ and received an MBA from <corpname>Rutgers University</corpname>.  He worked in management positions for the
+ <corpname>New York, New Haven &#x0026; Hartford Railroad</corpname>, <corpname>Penn Central</corpname>, 
+<corpname>Conrail</corpname>, and the <corpname>Housatonic Railroad</corpname>, and later as a railroad consultant.
+He was the author of <title render="italic">New Haven Railroad</title> (St. Paul, MN: MBI,  2003) 
+and <title render="italic">Penn Central Railroad</title> (St. Paul, MN : MBI, 2004).    </p>
+<p><persname>Peter E. Lynch</persname> died on June 14, 2011, in <geogname>Worcester, Massachusetts</geogname>.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>Unless otherwise noted the collection consists of materials associated with the <corpname>New York, New Haven 
+&#x0026; Hartford Railroad</corpname> (a.k.a. New Haven  Railroad), including timetables, arranged package car service lists, 
+and train order  forms.  Also includes a <corpname>Western Maryland Railroad</corpname> mortgage bond (1870) and a Penn 
+Central  timetable (1969).</p>
+      </scopecontent>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives &#x0026; Special Collections has a substantial collection of southern New England railroad records.  
+For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=4">curator</extref> or ask at the reference desk.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351$b" id="a5">
+         <head>Arrangement</head>
+         <p>The materials were arranged in chronological order.</p>
+      </arrangement>
+
+<!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Peter E. Lynch</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Organizations:</head>
+            <corpname encodinganalog="710" source="local">New York, New Haven &#x0026; Hartford Railroad Company.</corpname>
+            <corpname encodinganalog="710" source="local">Western Maryland Railroad Company.</corpname>
+            <corpname encodinganalog="710" source="local">Penn Central Transportation Company.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Publications.</genreform>
+            <genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+            <genreform encodinganalog="655" source="local">Drawings.</genreform>
+         </controlaccess>
+      </controlaccess>
+<!-- END CONTROLLED ACCESS TERMS -->
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut 
+Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <custodhist encodinganalog="561" id="a16">
+         <head>Custodial History</head>
+         <p>The materials were collected and held by Mr. Lynch prior to their donation to Archives &#x0026; Special 
+Collections at the Thomas J. Dodd Research Center, University of Connecticut Libraries.</p>
+      </custodhist>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item description, #:#], <persname>Peter E. Lynch</persname> Railroad Collection.  <corpname>Archives &#x0026; 
+Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries.</corpname>
+         </p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The records were donated by Mr. <persname>Peter E. Lynch</persname> in 2003.</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Collection<unitdate/>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>Western Maryland Railroad mortgage bond, <unitdate>1870</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+
+					<c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>Instructions for train load for engines and engines loading, <unitdate>1905</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>New Haven Railroad Midland Division timetable supplements, <unitdate>1910</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+				<c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>Brotherhood of Locomotive Firemen and Engineermen's Magazine, <unitdate>1922</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+                       <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>New Haven Railroad timetable, west of New London and Willimantic, <unitdate>1924</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>Arranged Package Service Car booklets (showing arrangement for handling less than car load freight by rail and highway truck), <unitdate>1931-1935</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2</container>
+                  <unittitle>Painting diagram for EP-5 370 locomotives (PP-8844580), <unitdate>1954</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>New Haven Railroad Shoreline Route timetable, <unitdate>1959</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>Train orders, from Kingston, Rhode Island, <unitdate>1959</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+
+
+				<c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>Travel guide and menu, <unitdate>1961</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+
+					<c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>Typescript draft of "<geogname>Poughkeepsie</geogname> Gateway" by <persname>D.M. 
+						McLaughlin</persname>, <unitdate>1968</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:11</container>
+                  <unittitle>Penn Central, New Haven region, employees timetable (February 2, 1969), <unitdate>1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+
+<c02>
+               <did>
+                  <container type="Box">1:12</container>
+                  <unittitle>Drawings for stations in <geogname>Bethel, Connecticut</geogname>, <geogname>Meriden, 
+Connecticut</geogname>, <geogname>New Britain, Connecticut</geogname>, <geogname>Westchester, Connecticut</geogname>, 
+<geogname>Pelham, New York</geogname>, and <geogname>Westerly, Rhode Island</geogname>, <unitdate>1976-1977, 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

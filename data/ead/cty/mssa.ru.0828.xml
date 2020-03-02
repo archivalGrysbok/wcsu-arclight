@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0828">mssa.ru.0828</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Special Students Program, Yale University, Student Records
+ </titleproper>
+            <titleproper type="filing">Special Students Program, Yale University, Student Records</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>November 2007</date>
+            <num>RU 828</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 09:17</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Special Students Program, Yale University, student records</unittitle>
+         <unitid>RU 828</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">8.75</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1977/1988">1977-1988</unitdate>
+         
+         <abstract id="aspace_df48b7155a699feae55edca26b448e9e">The records consist of student records maintained by the Yale Special Students Program.</abstract>
+         <origination label="creator">
+            <corpname authfilenumber="http://id.loc.gov/authorities/names/nr00007309"
+                      source="naf">
+               Yale College (1887- )
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_4ab8366520862143fa18e74f555ed66b">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 9-E (YRG 9-E), Records documenting Yale College offices, programs, and projects.</p>  
+      </odd>
+      <accessrestrict id="aspace_e446459e63a0e18ed3b2882f89644a06">
+         <head>Conditions Governing Access</head>
+         <p>Access to the records is restricted. See Collection Contents for details.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_e1c5ccda2221aacdc0f64f19aa37ff29">
+         <head>Preferred Citation</head>
+         <p>Special Students Program, Yale University, Student Records (RU 828). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <arrangement id="aspace_59b7a6862acbdb4400d7deb9a9e46da9">
+         <head>Arrangement</head>
+         <p>The records are arranged alphabetically by last name.</p>  
+      </arrangement>
+      <scopecontent id="aspace_57dd1b5b9321ad753604a75e3c335fa5">
+         <head>Scope and Contents</head>
+         <p>The records consist of student records maintained by the Yale Special Students Program.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028356"
+                  source="lcsh">
+            College students
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nr00007309"
+                   source="naf">
+            Yale College (1887- )
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Students
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Special Students Program student records</unittitle>
+               <unitid>Accession 1990-A-038</unitid>
+               <unitdate type="inclusive">circa 1977-1988</unitdate>
+            </did>
+            <accessrestrict id="aspace_e4422cdff7950a17704ba7e509d6a087">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until Jan 1, 2064</p>
+            </accessrestrict>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

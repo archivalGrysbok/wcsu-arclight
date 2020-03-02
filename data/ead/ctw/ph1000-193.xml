@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-193::Physiological Society Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ph1000-193.html">ph1000-193</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Physiological Society Records, <lb/><date normal="1839/1844">1839 - 1844</date>
+                </titleproper>
+        <author>Processed by: Charlotte Cottier; machine-readable finding aid created by:
+                    Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2010" encodinganalog="date">©
+                        2010</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: April 2010</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Physiological Society Records, <date type="span">1839 -
+                    1844</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2010">© 2010</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">
+        <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+      </repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.).
+                    Physiological Society.</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Physiological Society Records, <unitdate normal="1839/1844" type="inclusive">1839 - 1844</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-193</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">0.1</extent>
+      </physdesc>
+      <physdesc label="Volume">
+        <extent>1</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">The Physiological Society of Wesleyan
+                University was established in 1839. It was based on the teachings of Sylvester
+                Graham, who advocated a vegetarian diet and temperate lifestyle. The Society appears
+                to have disbanded in April 1844.</abstract>
+      <abstract encodinganalog="520">This book contains the records the Physiological Society
+                of Wesleyan University, and includes two constitutions, a members list, and meeting
+                minutes.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Physiological Society Records, Collection #1000-193,
+                    Special Collections &amp; Archives, Wesleyan University, Middletown, CT,
+                    USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired before 1997.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Charlotte Cottier, April 2010</p>
+        <p>Encoded by Valerie Gillispie, April 2010</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The Physiological Society of Wesleyan University was a direct response to <emph render="doublequote">Grahamism,</emph> a movement concentrating on regulating
+                diet and lifestyle to temper impulsiveness, mental health, and sexuality. Grahamites
+                practiced a strict vegetarian diet, also cutting out sugar, white bread, and most
+                importantly, alcohol. The Grahamist movement was inspired by American reformer
+                Sylvester Graham, who in 1829 invented <emph render="doublequote">Graham
+                    bread,</emph> today know as the Graham cracker. Graham wrote extensively for his
+                followers, but his best known works were the <title render="italic">Lectures on the
+                    Science of Human Life</title> (Boston, 1839), and <title render="italic">Lectures to Young Men on Chastity</title>. The ties that Wesleyan’s
+                Physiological Society held to the Grahamist movement are evidenced by an
+                announcement of the club's inception in the 1839 edition of The Graham Journal of
+                Health and Longevity, as well as in the Society’s own records. The Society appears
+                to have disbanded for good sometime in April 1844, seven years before Sylvester
+                Graham's own death and a subsequent decrease in Grahamism's popularity.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This book contains the records of two incarnations of the early Wesleyan University
+                student group, the Physiological Society. The first section begins with a
+                constitution written in 1839 with articles concerning the election of leadership,
+                and goes on to by-laws explaining how meetings should be run, and what form they
+                should take. Next are entries of minutes for the nine meetings held between May and
+                November 1839, and then the account skips to an entry written in May 1842 explaining
+                how the Society disbanded in November 1839. The second section contains a new and
+                more detailed constitution and a comprehensive members list. Minutes of meetings for
+                this later incarnation of the group date from May 1842 to April 1844.</p>
+      <p>Generally, the first half of this collection is very formal and not entirely
+                informative about the Society's aims. There is much discussion about electing
+                leadership, raising funds to create library, and generally setting the groundwork
+                for a structure. The second half of the record, however, is much more detailed. In
+                the second constitution, the Society speaks of the virtues of physical purity,
+                mental and moral improvement, and the <emph render="doublequote">all controlling
+                    sympathies which exist between body, mind and spirit.</emph> The Society brought
+                in honorary members such as local physicians and Wesleyan professors to speak and
+                lead meetings, although there was also a great tradition of student oration: topics
+                included Tobacco, Animal Heart and Muscular Action, and <title render="doublequote">Savage Life Considered with Reference to Health and Longevity.</title>
+            </p>
+    </scopecontent>
+    <controlaccess><head>Online Catalog Headings</head><p>These and related materials may be found under the following headings in online
+                catalogs.</p><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.)--History--19th century.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.) Students.</corpname><corpname encodinganalog="610" source="lcnaf">Wesleyan University (Middletown, Conn.). Physiological Society.</corpname><subject encodinganalog="650" source="lcsh">Vegetarianism--History.</subject>  
+
+
+
+
+        </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Volume">1</container>
+            <unittitle>Physiological Society Record Book</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

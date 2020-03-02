@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid url="http://doddcenter.uconn.edu/findaids/CCD/MSS19990081.html" mainagencycode="US-CtU" countrycode="US">MSS19990081</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Caucus of Connecticut Democrats Records</titleproper>
+		<subtitle>Box Inventory</subtitle>
+		<author>Finding aid prepared by Erin Bartram and My T. Nguyen.</author>
+</titlestmt>
+<publicationstmt>
+	<publisher>&#x00A9; 2011 University of Connecticut</publisher>
+	<date type="publication">March 2011</date>
+
+	<address><addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline><addressline>University of Connecticut Libraries</addressline><addressline>405 Babbidge Road, Unit 1205</addressline><addressline>Storrs, Connecticut  06269-1205</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Betsy Pittman in November 2008. Revised April 2011.</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>
+		</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Caucus of Connecticut Democrats.</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Caucus of Connecticut Democrats Records.</unittitle>
+
+	<unitdate label="Dates:">undated, 1960s-1993.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">7.8 linear feet.</physdesc>
+
+		<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-UCW">MSS19990081</unitid>
+
+	<langmaterial><language>English</language>.
+	</langmaterial>
+<abstract encodinganalog="520$a" label="Abstract:">The collection contains documentation of the organization and its activities from the 1970s through the early 1990s.</abstract>
+
+
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>History</head>
+	<p>A <geogname>New Haven, Connecticut</geogname>, based organization that supports Democratic activities in <geogname>Connecticut</geogname>.</p>
+
+<p></p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection contains administrative and financial information as well as materials documenting the organization's activities from the 1960s through the early 1990s.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>The materials are arranged as received.</p>
+<p><emph render="bold">Series I: Inventory</emph> (<date>undated, 1960s-1993</date>) </p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to Connecticut politics.  For detailed information on these collections please contact the <extref href=" http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial>
+
+
+
+
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		
+		
+		<controlaccess>
+			<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">Caucus of Connecticut Democrats.</corpname>
+	
+		</controlaccess>
+		
+		
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local"></subject>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+<genreform encodinganalog="655" source="local">Financial Records.</genreform>
+<genreform encodinganalog="655" source="local">Minutes.</genreform>
+<genreform encodinganalog="655" source="local">Fliers. [printed matter]</genreform>
+<genreform encodinganalog="655" source="local">Photocopies.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+<genreform encodinganalog="655" source="local">Newspapers.</genreform>
+<genreform encodinganalog="655" source="local">Photographs.</genreform>
+		</controlaccess>
+		
+	
+		</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#], <corpname>Caucus of Connecticut Democrats</corpname> Records.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The materials were donated by <persname>Edith Baron</persname> in August 1999.</p>
+
+</acqinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>Series I: Inventory, </unittitle>
+	<unitdate>undated, 1960s-1993</unitdate>
+    </did>	
+
+<c02 level="file">
+   <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle><persname>Mary Sullivan</persname>, Chair, </unittitle>
+	<unitdate>1969</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Legislative Electoral Action Program material, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Human Rights/Opportunities/Services, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Justice/Law Enforcement/Civil Liberties (including <corpname>ACLU</corpname>-<corpname>CCLU</corpname>), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>National Committee, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Labor, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Delegate Selection NDC, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>State Convention, </unittitle>
+	<unitdate>1972</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Mental Health (including <corpname>Mental Health Association of Connecticut</corpname>), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>NDC Center to Save the Reforms, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Welfare Rights, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Public Interest Lobby, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Unidentified, </unittitle>
+	<unitdate>1979</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Elections, </unittitle>
+	<unitdate>1972</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Elections, </unittitle>
+	<unitdate>1973</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Elections, </unittitle>
+	<unitdate>1970</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Elections, </unittitle>
+	<unitdate>1968</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Election Law/Reform, </unittitle>
+	<unitdate>1969, 1973</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Fiscal Policy (Documents), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Fiscal Policy, </unittitle>
+	<unitdate>1969</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>General Assembly (general), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>General Assembly, </unittitle>
+	<unitdate>1969</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>General Assembly, </unittitle>
+	<unitdate>1972</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>General Assembly, </unittitle>
+	<unitdate>1973</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Housing and Urban Affairs, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Elections, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence - Committee for an Effective Legislature Board, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Forum: Conn and Economic Crisis, </unittitle>
+	<unitdate>1975 March</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>NDC Platforms, </unittitle>
+	<unitdate>1972, 1976, 1978</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Citizens Task Force on the Future of Connecticut's Economy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/CCAG/MSS19870024.html">Connecticut Citizens Action Group</extref>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Consumer Protection, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Education, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Environmental Protection, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Foreign Policy &#x0026; Military Spending, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Treasurer, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+
+
+
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>Information, Primary Election, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD, </unittitle>
+	<unitdate>1976</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Committee for an Effective Legislature 1978 Administration, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Party Rules/Reforms, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Multinational Corps, </unittitle>
+	<unitdate>undated, 1975 April</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Mini Nat's Convent CCCD delegate challenge, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD National Platform, </unittitle>
+	<unitdate>1979</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CEL - 1974 Legislature, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Campaign Finance, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Board, </unittitle>
+	<unitdate>1979-1980</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Abortion Reform, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><corpname>Americans for Democratic Action</corpname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Treasurer's Report, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>10th Anniversary/History, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>20th Anniversary Dinner, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Issues--Old, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Board, </unittitle>
+	<unitdate>1972-1973</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Executive Committee, </unittitle>
+	<unitdate>1973-1974</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Executive Committee, </unittitle>
+	<unitdate>1975</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Board, </unittitle>
+	<unitdate>1976-1977</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Board, </unittitle>
+	<unitdate>1977-1978</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>CCD Board, </unittitle>
+	<unitdate>1978-1979</unitdate>
+    </did>	
+</c02>
+
+
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>Constitution &#x0026; Bylaws, </unittitle>
+	<unitdate>1987</unitdate>
+    </did>	
+</c02><c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Notes, correspondence, administrative records, financial records, clippings, ephemeras, books, fliers, publication, </unittitle>
+	<unitdate>1970-1980</unitdate>
+    </did>	<note><p>[Subjects include: Committee/Board, administrative matters.]</p></note>
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle>Fliers, correspondence, clippings, notes, administrative records, publications, poster, </unittitle>
+	<unitdate>undated, 1970-1993</unitdate>
+    </did>	
+<note><p>[Subjects include: Administration, committees, events, public relations.]</p></note>
+
+</c02>
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle>Administrative records, financial records, correspondence, notes, clippings, ephemera, fliers, photographs, publication, </unittitle>
+	<unitdate>undated, 1970-1991</unitdate>
+    </did>	
+<note><p>[Subjects include: Committee records, administrative/financial report, programs, public relations.]</p></note>
+
+
+</c02>
+
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">6</container>
+	<container type="Folder"></container>
+	<unittitle>Financial and administrative records, fliers, publications, clippings, correspondence, notes, ephemera, </unittitle>
+	<unitdate>undated, 1970s-1990s</unitdate>
+    </did>	
+<note><p>[Subjects include: Activities and public relations.]</p></note>
+
+</c02>
+
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

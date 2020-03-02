@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.0538">mssa.ms.0538</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Washington Family Papers
+ </titleproper>
+            <titleproper type="filing">Washington Family Papers</titleproper>
+            <author>compiled by Janet Elaine Gertz</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>September                    1981</date>
+            <num>MS 538</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday March 27, 2019 at 07:00</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Washington family papers</unittitle>
+         <unitid>MS 538</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">3.25</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1751/1870">1751-1870</unitdate>
+         
+         <abstract id="aspace_11a98ee9de2ed5db4b4eaa3a11ef6144">The collection contains correspondence and other papers of President George Washington, Martha Dandridge Washington, and William Augustine Washington, half brother of George Washington.</abstract>
+         <origination label="creator">
+            <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85145383"
+                     source="lcsh">
+               Washington family
+            </famname>
+         </origination>
+    
+      </did>
+      <prefercite id="aspace_5f3ad5d31b5ce36089002178dc0bfaaa">
+         <head>Preferred Citation</head>
+         <p>Washington Family Papers (MS 538). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <acqinfo id="aspace_095447d6af01ee13cdd43acc8051754c">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of various donors between 1929 and 1948.</p>  
+      </acqinfo>
+      <scopecontent id="aspace_52fb01160a45118472dc47738f66236e">
+         <head>Scope and Contents</head>
+         <p>The Washington Family Papers consists of correspondence and other papers of George Washington and various members of his family, in particular Martha (Dandridge) Washington and William Augustine Washington, half-brother of George. Letters from Alexander Hamilton, Nathaniel Greene, and George Clinton are also included. The bulk of the material relates to George and Martha Washington. As well as correspondence there are military papers and personal financial papers. Most of these items are photostatic copies or facsimiles; the few originals have been removed in the interests of security.</p>
+         <p>Other materials included in the papers are a number of ledgers belonging to William Augustine Washington and others, and several engraved portraits of George Washington dating from the 1800s.</p>
+         <p>These papers were given to Yale University by various donors over the period 1929 to 1948.</p>  
+      </scopecontent>
+      <userestrict id="aspace_cc67da1cd830d321ada10f67f26f5a8a">
+         <head>Conditions Governing Use</head>
+         <p>Unpublished materials authored or otherwise produced by the creator(s) of this collection are in the public domain. There are no restrictions on use. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_1b38dccc3c686769a78e659b0c69cab2">
+         <head>Conditions Governing Access</head>
+         <p>The collection is open for research.</p>  
+      </accessrestrict>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009"
+                  source="lcsh">
+            Families
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85125633"
+                   source="lcsh">
+            Southern States
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85140185"
+                   source="lcsh">
+            United States -- History -- 1783-1815
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85140139"
+                   source="lcsh">
+            United States -- History -- Revolution, 1775-1783
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85140410"
+                   source="lcsh">
+            United States -- Politics and government
+         </geogname>
+         <occupation source="local">
+            Presidents
+         </occupation>
+         <persname rules="aacr" source="local">
+            Ashton, Burdett -- 1747-1814
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n91093660"
+                   rules="aacr"
+                   source="naf">
+            Beverley, Robert
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79119124"
+                   source="naf">
+            Greene, Nathanael, 1742-1786
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79021633"
+                   source="naf">
+            Hamilton, Alexander, 1757-1804
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85024902"
+                   rules="aacr"
+                   source="naf">
+            Harper, Robert Goodloe, 1765-1825
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86140996"
+                   source="naf">
+            Washington, George, 1732-1799
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80072514"
+                   source="naf">
+            Washington, Martha, 1731-1802
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr93012022"
+                   rules="aacr"
+                   source="naf">
+            Washington, William, 1752-1810
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85145383"
+                  source="lcsh">
+            Washington family
+         </famname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Inventory</unittitle>
+               <unitdate type="inclusive">1751-1870</unitdate>
+               <physdesc id="aspace_4466d8b6dbec9993b2a682811717f0ce">.75 linear feet (2 boxes, 1 folio)</physdesc>
+            </did>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Ashton, Burdett (1747-1814):</unittitle>
+               </did>
+               <c id="ref11" level="file">
+                  <did>
+                     <unittitle>ALS from Thomas Douglas</unittitle>
+                     <unitdate type="inclusive">1777 December 2</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_2af18d9ef01ddc075aa27a11ee6e1bc1"
+                                type="box">1</container>
+                     <container id="aspace_82aba28580d2ea6f08d1a17731a89a74"
+                                type="folder"
+                                parent="aspace_2af18d9ef01ddc075aa27a11ee6e1bc1">1</container>
+                  </did>
+               </c>
+               <c id="ref12" level="file">
+                  <did>
+                     <unittitle>Account of sales in the estate of his mother-in-law, Anne (Ayelett) Washington (Mrs. Augustus, Jr.)</unittitle>
+                     <unitdate type="inclusive">1774-1775</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_15a0f5d288178ade06ffc479fc55747c"
+                                type="box">1</container>
+                     <container id="aspace_6f26f1ab7e674e32f401c9a39f68a5c6"
+                                type="folder"
+                                parent="aspace_15a0f5d288178ade06ffc479fc55747c">2</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Beverley, Robert, Jr.: Ledger of personal and farm accounts, "Blandfield," Essex County, Virginia</unittitle>
+                  <unitdate type="inclusive">1791-1803</unitdate>
+                  <container label="Mixed Materials (39002042269432)"
+                             altrender="archive legal"
+                             id="aspace_86b191321bbc8ba08b5a2119808cc3dd"
+                             type="box">1</container>
+                  <container id="aspace_c250893bccfbea264823b8c33da65fac"
+                             type="folder"
+                             parent="aspace_86b191321bbc8ba08b5a2119808cc3dd">3</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Clinton, George (1739-1812): Draft letter to George Washington</unittitle>
+                  <unitdate type="inclusive">1778 October 28</unitdate>
+               </did>
+               <odd id="aspace_54c549113bdc9813fb16f2203fa57d03">
+                  <head>General note</head>
+                  <p>See: <ref xlink:actuate="onRequest" xlink:show="replace" target="ref30">box 1, folder 7</ref>
+                  </p>
+               </odd>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Greene, Nathaniel (1742-1786): ALS to his wife</unittitle>
+                  <unitdate type="inclusive">[ca. 1780 October 14]</unitdate>
+                  <container label="Mixed Materials (39002042269432)"
+                             altrender="archive legal"
+                             id="aspace_bde894ddd69d1d2f5312ca5193e66ca0"
+                             type="box">1</container>
+                  <container id="aspace_fc4d525cf324bd2ed7121c3acf009133"
+                             type="folder"
+                             parent="aspace_bde894ddd69d1d2f5312ca5193e66ca0">4</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Hamilton, Alexander (1757-1804):</unittitle>
+               </did>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>ALS to Andrew Ward</unittitle>
+                     <unitdate type="inclusive">1777 March 14</unitdate>
+                  </did>
+                  <odd id="aspace_c43fb238f00473e75c6739f5f7b91d27">
+                     <head>General note</head>
+                     <p>See: <ref xlink:actuate="onRequest" xlink:show="replace" target="ref30">box 1, folder 7</ref>
+                     </p>
+                  </odd>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>AN to George Washington</unittitle>
+                     <unitdate type="inclusive">[ca. 1794]</unitdate>
+                  </did>
+                  <odd id="aspace_77656406e4a0b81fc88b5a298aaecbf9">
+                     <head>General note</head>
+                     <p>See: <ref xlink:actuate="onRequest" xlink:show="replace" target="ref60">box 1, folder 14</ref>
+                     </p>
+                  </odd>
+               </c>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Harper, Robert Goodloe (1765-1825): ALS to Oliver Wolcott</unittitle>
+                  <unitdate type="inclusive">1804 January 23</unitdate>
+                  <container label="Mixed Materials (39002042269432)"
+                             altrender="archive legal"
+                             id="aspace_eca88b054c578961f91f79e26eeeeccb"
+                             type="box">1</container>
+                  <container id="aspace_0bea0d0103891c461d728c38a643998c"
+                             type="folder"
+                             parent="aspace_eca88b054c578961f91f79e26eeeeccb">5</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Trumbull, Jonathan, Jr. (1740-1809): Discharge papers of Isaac Wilsey and Brister Baker; signed also by George Washington</unittitle>
+                  <unitdate type="inclusive">1783 June 4, 8</unitdate>
+               </did>
+               <odd id="aspace_c30d07cc3a35819f07e40ea2e7cbb211">
+                  <head>General</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref23">See: box 1, folder 14</ref>
+                  </p>
+               </odd>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Washington, George (1732-1799):</unittitle>
+               </did>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Correspondence:</unittitle>
+                  </did>
+                  <c id="ref26" level="file">
+                     <did>
+                        <unittitle>ALS to Robert Dinwiddie</unittitle>
+                        <unitdate type="inclusive">1753 October 17</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_5f4088efe85ee67b9ff4a4867c6d8e34"
+                                   type="box">1</container>
+                        <container id="aspace_3c9ee10a820932188814012deffaba1b"
+                                   type="folder"
+                                   parent="aspace_5f4088efe85ee67b9ff4a4867c6d8e34">6</container>
+                     </did>
+                  </c>
+                  <c id="ref27" level="file">
+                     <did>
+                        <unittitle>ALS to Moses Child</unittitle>
+                        <unitdate type="inclusive">1775 November 24</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_f6f718b18d3f8e126227d5b7c8aa4995"
+                                   type="box">1</container>
+                        <container id="aspace_1085a844df5cb4259034a1838a1772d7"
+                                   type="folder"
+                                   parent="aspace_f6f718b18d3f8e126227d5b7c8aa4995">6</container>
+                     </did>
+                  </c>
+                  <c id="ref28" level="file">
+                     <did>
+                        <unittitle>ALS to the Secret Committee of the New York legislature</unittitle>
+                        <unitdate type="inclusive">1776 July 21</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_c8de3145e64b7fb6017862aaa6312dc5"
+                                   type="box">1</container>
+                        <container id="aspace_24a02a6800f433114cdabf7fbed3e0d5"
+                                   type="folder"
+                                   parent="aspace_c8de3145e64b7fb6017862aaa6312dc5">6</container>
+                     </did>
+                  </c>
+                  <c id="ref29" level="file">
+                     <did>
+                        <unittitle>3 ALS to Lund Washington</unittitle>
+                        <unitdate type="inclusive">1776 October 6, December 10, 17</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_e248eba243cdb119e31f56a61e2b197c"
+                                   type="box">1</container>
+                        <container id="aspace_623f6ddf7186d52e81ee202500104d3d"
+                                   type="folder"
+                                   parent="aspace_e248eba243cdb119e31f56a61e2b197c">6</container>
+                     </did>
+                     <odd id="aspace_edf9ce91380f15e1a550c339a16ef3b0">
+                        <head>General</head>
+                        <p>
+                           <ref xlink:actuate="onRequest" xlink:show="replace" target="ref29">See also: box 3</ref>
+                        </p>
+                     </odd>
+                  </c>
+                  <c id="ref30" level="file">
+                     <did>
+                        <unittitle>ALS to Andrew Ward; ALS from Alexander Hamilton to Ward on verso</unittitle>
+                        <unitdate type="inclusive">1777 March 14</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_082faaf2fb105033b9d58aa2947140e0"
+                                   type="box">1</container>
+                        <container id="aspace_ce0c174b06030cddabc7025df7c1e7ad"
+                                   type="folder"
+                                   parent="aspace_082faaf2fb105033b9d58aa2947140e0">7</container>
+                     </did>
+                  </c>
+                  <c id="ref31" level="file">
+                     <did>
+                        <unittitle>ALS to Elisha Boudinot</unittitle>
+                        <unitdate type="inclusive">1777 March 29</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_659074589274305d66ef71cf423379b9"
+                                   type="box">1</container>
+                        <container id="aspace_779f7459ce388ee2a6f0d855e80c2262"
+                                   type="folder"
+                                   parent="aspace_659074589274305d66ef71cf423379b9">7</container>
+                     </did>
+                  </c>
+                  <c id="ref32" level="file">
+                     <did>
+                        <unittitle>ALS to James M. Varnum</unittitle>
+                        <unitdate type="inclusive">1777 November 4</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_191cf5c21319874dbee6b5012e03349e"
+                                   type="box">1</container>
+                        <container id="aspace_2719ce6755514b200e46e75199018f4c"
+                                   type="folder"
+                                   parent="aspace_191cf5c21319874dbee6b5012e03349e">7</container>
+                     </did>
+                  </c>
+                  <c id="ref33" level="file">
+                     <did>
+                        <unittitle>ALS to Henry Lee</unittitle>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_73fa743dfdb48b7615f70ecd3db818d0"
+                                   type="box">1</container>
+                        <container id="aspace_8503dba7c8258eac7755d141e0072439"
+                                   type="folder"
+                                   parent="aspace_73fa743dfdb48b7615f70ecd3db818d0">7</container>
+                     </did>
+                  </c>
+                  <c id="ref34" level="file">
+                     <did>
+                        <unittitle>ALS to George Clinton; draft reply from Clinton on verso</unittitle>
+                        <unitdate type="inclusive">1778 October 24</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_9e9afcd54dfabce0f404400a449f3180"
+                                   type="box">1</container>
+                        <container id="aspace_7ee5a0c03ea9c74cbeab068b9abd49e3"
+                                   type="folder"
+                                   parent="aspace_9e9afcd54dfabce0f404400a449f3180">7</container>
+                     </did>
+                  </c>
+                  <c id="ref35" level="file">
+                     <did>
+                        <unittitle>ALS to John Sullivan</unittitle>
+                        <unitdate type="inclusive">1779 October 8</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_9fd07a630f01e53509d387cabf180013"
+                                   type="box">1</container>
+                        <container id="aspace_c9dbcb7f09eee465a49d14788a74fe35"
+                                   type="folder"
+                                   parent="aspace_9fd07a630f01e53509d387cabf180013">7</container>
+                     </did>
+                  </c>
+                  <c id="ref36" level="file">
+                     <did>
+                        <unittitle>Facsimile to commander of French fleet</unittitle>
+                        <unitdate type="inclusive">1780 September 12</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_4a8be9efb15f824516bc8d8f902d49fd"
+                                   type="box">1</container>
+                        <container id="aspace_ef0a41e19e4bb94f950463b39ab0444c"
+                                   type="folder"
+                                   parent="aspace_4a8be9efb15f824516bc8d8f902d49fd">7A</container>
+                     </did>
+                  </c>
+                  <c id="ref37" level="file">
+                     <did>
+                        <unittitle>ALS to George Mason</unittitle>
+                        <unitdate type="inclusive">1780 October 22</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_29dc5013226cc089e556f3c293a79fe6"
+                                   type="box">1</container>
+                        <container id="aspace_759b54b64c06f586a1b787bae3b3a137"
+                                   type="folder"
+                                   parent="aspace_29dc5013226cc089e556f3c293a79fe6">8</container>
+                     </did>
+                  </c>
+                  <c id="ref38" level="file">
+                     <did>
+                        <unittitle>ALS to William Greene</unittitle>
+                        <unitdate type="inclusive">1781 January 5</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_ccafba08b5f5b90c1b3366f329720254"
+                                   type="box">1</container>
+                        <container id="aspace_91d223e630bde2007d46be54f34be3b8"
+                                   type="folder"
+                                   parent="aspace_ccafba08b5f5b90c1b3366f329720254">8</container>
+                     </did>
+                  </c>
+                  <c id="ref39" level="file">
+                     <did>
+                        <unittitle>ALS to George Clinton</unittitle>
+                        <unitdate type="inclusive">1781 April 7</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_f7098c5c90cf4999f991e3c9151a7a53"
+                                   type="box">1</container>
+                        <container id="aspace_efcdcb04568a5fb9228beaa0c3c619a3"
+                                   type="folder"
+                                   parent="aspace_f7098c5c90cf4999f991e3c9151a7a53">8</container>
+                     </did>
+                  </c>
+                  <c id="ref40" level="file">
+                     <did>
+                        <unittitle>ALS to Lund Washington</unittitle>
+                        <unitdate type="inclusive">1782 January 8</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_3c884fdf387bb7cd79d80d37ff50ec2c"
+                                   type="box">1</container>
+                        <container id="aspace_fd1c690a5312b6e83856e96d8a725de3"
+                                   type="folder"
+                                   parent="aspace_3c884fdf387bb7cd79d80d37ff50ec2c">8</container>
+                     </did>
+                  </c>
+                  <c id="ref41" level="file">
+                     <did>
+                        <unittitle>ALS to Henry Knox</unittitle>
+                        <unitdate type="inclusive">1787 March 8</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_6e69f502365d2fed0c8b704f51d1fc6f"
+                                   type="box">1</container>
+                        <container id="aspace_a3fbffceb14eec7324699abe19390b87"
+                                   type="folder"
+                                   parent="aspace_6e69f502365d2fed0c8b704f51d1fc6f">9</container>
+                     </did>
+                  </c>
+                  <c id="ref42" level="file">
+                     <did>
+                        <unittitle>ALS to Jonathan Edwards, Jr.</unittitle>
+                        <unitdate type="inclusive">1788 August 28</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_bc6ca53f9be8eeb8638de935666f49d3"
+                                   type="box">1</container>
+                        <container id="aspace_5d1782e146c8d03b410791fd80cb5291"
+                                   type="folder"
+                                   parent="aspace_bc6ca53f9be8eeb8638de935666f49d3">9</container>
+                     </did>
+                  </c>
+                  <c id="ref43" level="file">
+                     <did>
+                        <unittitle>2 ALS to John Lewis</unittitle>
+                        <unitdate type="inclusive">1791 August 8, 1792 July 20</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_2b44c66ca112b0eff094fc1d7c1fb773"
+                                   type="box">1</container>
+                        <container id="aspace_ea9317d7d13e439e16610253bb3e1fbc"
+                                   type="folder"
+                                   parent="aspace_2b44c66ca112b0eff094fc1d7c1fb773">9</container>
+                     </did>
+                  </c>
+                  <c id="ref44" level="file">
+                     <did>
+                        <unittitle>ALS to John Francis Mercer</unittitle>
+                        <unitdate type="inclusive">1792 July 23</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_53b4470b99991941b221e16612021c1a"
+                                   type="box">1</container>
+                        <container id="aspace_b56c7bc6486cdce02633d05ac745437b"
+                                   type="folder"
+                                   parent="aspace_53b4470b99991941b221e16612021c1a">9</container>
+                     </did>
+                  </c>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>ALS to Burwell Bassett</unittitle>
+                        <unitdate type="inclusive">1793 March 4</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_82e5f280df058c7dfeef5b5b8aaaf8f2"
+                                   type="box">1</container>
+                        <container id="aspace_574fb08825b23a8260bffec2a881cf7a"
+                                   type="folder"
+                                   parent="aspace_82e5f280df058c7dfeef5b5b8aaaf8f2">9</container>
+                     </did>
+                  </c>
+                  <c id="ref46" level="file">
+                     <did>
+                        <unittitle>AL to Dr. Anderson</unittitle>
+                        <unitdate type="inclusive">1794 May 26</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_b2a76b86a6844854361089c4dccffa23"
+                                   type="box">1</container>
+                        <container id="aspace_448a455507cbea40f15a71c78203de80"
+                                   type="folder"
+                                   parent="aspace_b2a76b86a6844854361089c4dccffa23">9</container>
+                     </did>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>ALS to Alexander Spotswood</unittitle>
+                        <unitdate type="inclusive">1794 November 23</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_dc97d0ea5807f27efc0d3d4fbb96ac74"
+                                   type="box">1</container>
+                        <container id="aspace_fdc27580e180ef58f61becf1f76db8c4"
+                                   type="folder"
+                                   parent="aspace_dc97d0ea5807f27efc0d3d4fbb96ac74">9</container>
+                     </did>
+                  </c>
+                  <c id="ref48" level="file">
+                     <did>
+                        <unittitle>ALS to William Pearce</unittitle>
+                        <unitdate type="inclusive">1796 August 19</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_29300fbeb925f5b9feb5e69de1eeffd2"
+                                   type="box">1</container>
+                        <container id="aspace_d8bdaeeff9be498e54bdd081cce34f50"
+                                   type="folder"
+                                   parent="aspace_29300fbeb925f5b9feb5e69de1eeffd2">10</container>
+                     </did>
+                  </c>
+                  <c id="ref49" level="file">
+                     <did>
+                        <unittitle>ALS to James McHenry</unittitle>
+                        <unitdate type="inclusive">1798 May 6</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_154536b039004b1916f5193d804fb11e"
+                                   type="box">1</container>
+                        <container id="aspace_e0c628457d988f66e3df6f037ecb5b12"
+                                   type="folder"
+                                   parent="aspace_154536b039004b1916f5193d804fb11e">10</container>
+                     </did>
+                  </c>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>ALS to the Grand Lodge of Pennsylvania (facsimile)</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_a2fc46c0f15f509831892cdc1d1f1912"
+                                   type="box">1</container>
+                        <container id="aspace_c8957665f46d3841e1178f38dc363e36"
+                                   type="folder"
+                                   parent="aspace_a2fc46c0f15f509831892cdc1d1f1912">10</container>
+                     </did>
+                  </c>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>Autograph</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_c87d1d6450b063be7f8b5a8ccd9af849"
+                                   type="box">1</container>
+                        <container id="aspace_48e6235a99aadc04aa4e7dff9f44010c"
+                                   type="folder"
+                                   parent="aspace_c87d1d6450b063be7f8b5a8ccd9af849">10</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Other papers:</unittitle>
+                  </did>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>Survey map made in Frederick County, Virginia</unittitle>
+                        <unitdate type="inclusive">1751</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_075a1821c25dddc69e727caa0566a92d"
+                                   type="box">1</container>
+                        <container id="aspace_e1077e3cc3661a70829f84304d1294bf"
+                                   type="folder"
+                                   parent="aspace_075a1821c25dddc69e727caa0566a92d">11</container>
+                     </did>
+                  </c>
+                  <c id="ref55" level="file">
+                     <did>
+                        <unittitle>Memorandum re: ownership of land known as "Northern Neck;" valuation of this land by jurors on verso</unittitle>
+                        <unitdate type="inclusive">[1752?]; 1762, November 27</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_0115d17a24b598d438856adc45fbdd01"
+                                   type="box">1</container>
+                        <container id="aspace_d9095ddf79c803b4e12e0208e9c2ac67"
+                                   type="folder"
+                                   parent="aspace_0115d17a24b598d438856adc45fbdd01">11</container>
+                     </did>
+                  </c>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>Commission from Continental Congress</unittitle>
+                        <unitdate type="inclusive">1775 June 19</unitdate>
+                     </did>
+                     <odd id="aspace_21b1945b3d1d975c83f21ef7a9e96c9f">
+                        <head>General note</head>
+                        <p>See: <ref xlink:actuate="onRequest" xlink:show="replace" target="ref83">box 3</ref>
+                        </p>
+                     </odd>
+                  </c>
+                  <c id="ref58" level="file">
+                     <did>
+                        <unittitle>Ledger (facsimile)</unittitle>
+                        <unitdate type="inclusive">1775 June - 1783 June</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_60528bab0049257fcdaa683938a4bf05"
+                                   type="box">1</container>
+                        <container id="aspace_8fbc4ccd548f96ac33ee3fee0d2d929d"
+                                   type="folder"
+                                   parent="aspace_60528bab0049257fcdaa683938a4bf05">12</container>
+                     </did>
+                  </c>
+                  <c id="ref59" level="file">
+                     <did>
+                        <unittitle>"Plan of manoevres to be executed before Maj-Genl Gates at West Point" (not by G. W.)</unittitle>
+                        <unitdate type="inclusive">[post-1776]</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_47503471b2879aa6563b7be7a0955be5"
+                                   type="box">1</container>
+                        <container id="aspace_cbab35c05d8de3a9905ebc062e0adb88"
+                                   type="folder"
+                                   parent="aspace_47503471b2879aa6563b7be7a0955be5">13</container>
+                     </did>
+                  </c>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>Discharge papers of Isaac Wilsey and Brister Baker; signed also by Jonathan Trumbull, Jr.</unittitle>
+                        <unitdate type="inclusive">1783 July 4, 8</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_311100c8a89162d8e061b10bd2d47470"
+                                   type="box">1</container>
+                        <container id="aspace_0085cc7f98237e5a35de0b501d2c392a"
+                                   type="folder"
+                                   parent="aspace_311100c8a89162d8e061b10bd2d47470">14</container>
+                     </did>
+                  </c>
+                  <c id="ref61" level="file">
+                     <did>
+                        <unittitle>Notes: "From Post Vincennes to the Mouth of the Wabash,"</unittitle>
+                        <unitdate type="inclusive">[ca. 1793]</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_0dbf27a236e533fa98e69aa7b1c3a63f"
+                                   type="box">1</container>
+                        <container id="aspace_9ff5d901053c8dae752ea1455bdc363c"
+                                   type="folder"
+                                   parent="aspace_0dbf27a236e533fa98e69aa7b1c3a63f">14</container>
+                     </did>
+                  </c>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>Notes concerning a farm; AN from Alexander Hamilton on verso</unittitle>
+                        <unitdate type="inclusive">[ca. 1794]</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_0f926eeabe9becdc3ddda62727b090d9"
+                                   type="box">1</container>
+                        <container id="aspace_413af5d67f63597daf60fe26786d1360"
+                                   type="folder"
+                                   parent="aspace_0f926eeabe9becdc3ddda62727b090d9">14</container>
+                     </did>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>Certificate of appointment of Solomon Porter as inspector of revenue, Hartford</unittitle>
+                        <unitdate type="inclusive">1795 August 24</unitdate>
+                     </did>
+                     <odd id="aspace_3907ab537776356a95e8d9e296cae5cb">
+                        <head>General note</head>
+                        <p>See: <ref xlink:actuate="onRequest" xlink:show="replace" target="ref83">box 3</ref>
+                        </p>
+                     </odd>
+                  </c>
+                  <c id="ref65" level="file">
+                     <did>
+                        <unittitle>Memorandum re: Secretary at War Wilkenson</unittitle>
+                        <unitdate type="inclusive">1796 May 17</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_7d5944b0de7cf765470b24f27eccc8f5"
+                                   type="box">1</container>
+                        <container id="aspace_c258f17ee8879aea15064a392c62398f"
+                                   type="folder"
+                                   parent="aspace_7d5944b0de7cf765470b24f27eccc8f5">14</container>
+                     </did>
+                  </c>
+                  <c id="ref66" level="file">
+                     <did>
+                        <unittitle>"Sundries Bought on Account of A. W.,"</unittitle>
+                        <unitdate type="inclusive">1796 June 6</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_35c2297cd42b0fc11e276598efc4adad"
+                                   type="box">1</container>
+                        <container id="aspace_4d99bcdc9707f1b797e855c0a69fb246"
+                                   type="folder"
+                                   parent="aspace_35c2297cd42b0fc11e276598efc4adad">14</container>
+                     </did>
+                  </c>
+                  <c id="ref67" level="file">
+                     <did>
+                        <unittitle>"Memorandum of Stock in the banks of Alexandria and Columbia,"</unittitle>
+                        <unitdate type="inclusive">[1796?]</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_879b77c556d70b03c222cde7cd8a0e1f"
+                                   type="box">1</container>
+                        <container id="aspace_628dc72d7c0183ac564bb05deddf2ea5"
+                                   type="folder"
+                                   parent="aspace_879b77c556d70b03c222cde7cd8a0e1f">14</container>
+                     </did>
+                  </c>
+                  <c id="ref68" level="file">
+                     <did>
+                        <unittitle>Note re: shrubbery</unittitle>
+                        <unitdate type="inclusive">1797 April 7</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_f64c32edc5230aa4653c560b4ebea574"
+                                   type="box">1</container>
+                        <container id="aspace_54e69f23b41143b646f967e3f4ae482e"
+                                   type="folder"
+                                   parent="aspace_f64c32edc5230aa4653c560b4ebea574">14</container>
+                     </did>
+                  </c>
+                  <c id="ref69" level="file">
+                     <did>
+                        <unittitle>Notes re: farms</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002042269432)"
+                                   altrender="archive legal"
+                                   id="aspace_ab450d0871775c1c21650d5ffa5159ba"
+                                   type="box">1</container>
+                        <container id="aspace_b1d17880d98882f917c1820d6ca9e7b8"
+                                   type="folder"
+                                   parent="aspace_ab450d0871775c1c21650d5ffa5159ba">14</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>Printed matter: Engraved portraits, with texts of Washington's Farewell Address and the Declaration of Independence</unittitle>
+                     <unitdate type="inclusive">[ca. 1820-1870]</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_0265ffd8b4431eb273ba45e7ea052203"
+                                type="box">1</container>
+                     <container id="aspace_8821a341c254826b7094803467a25540"
+                                type="folder"
+                                parent="aspace_0265ffd8b4431eb273ba45e7ea052203">15</container>
+                  </did>
+                  <odd id="aspace_729fa265833ad513fe7d52060a33ac5c">
+                     <head>General</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref70">See also: box 3</ref>
+                     </p>
+                  </odd>
+               </c>
+            </c>
+            <c id="ref72" level="file">
+               <did>
+                  <unittitle>Washington, Martha (1732-1802):</unittitle>
+               </did>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>ALS to a member of the family of Nathaniel Greene</unittitle>
+                     <unitdate type="inclusive">1797 March 3</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_9c58a46311e81126a6bf72710b0cae78"
+                                type="box">1</container>
+                     <container id="aspace_a427bbae9a9bc139bc41ed0f51f0c238"
+                                type="folder"
+                                parent="aspace_9c58a46311e81126a6bf72710b0cae78">16</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>ALS to Mrs. Fitzsimmons</unittitle>
+                     <unitdate type="inclusive">1797 April 30</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_4d305cd5a8a6f407ae0c2524cada5c7b"
+                                type="box">1</container>
+                     <container id="aspace_a25823aa4167e526eb2b5f4b96f3d93f"
+                                type="folder"
+                                parent="aspace_4d305cd5a8a6f407ae0c2524cada5c7b">16</container>
+                  </did>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>ALS to Mrs. Powell</unittitle>
+                     <unitdate type="inclusive">1797 May 1</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_0cc45face6ac97013c0a5c00eb751569"
+                                type="box">1</container>
+                     <container id="aspace_e9b68c9910b348ef392681937baf9320"
+                                type="folder"
+                                parent="aspace_0cc45face6ac97013c0a5c00eb751569">16</container>
+                  </did>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>ALS to Mrs. Elizabeth Powell</unittitle>
+                     <unitdate type="inclusive">1797 May 20</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_957ca695ce9f109bb3bc58ceb5cd8571"
+                                type="box">1</container>
+                     <container id="aspace_3fa201e5cb04179b790dad2175070bf9"
+                                type="folder"
+                                parent="aspace_957ca695ce9f109bb3bc58ceb5cd8571">16</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>Washington, William Augustine (1757-1810):</unittitle>
+               </did>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>Ledger of personal and farm accounts</unittitle>
+                     <unitdate type="inclusive">1779-1783</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_f62cda12163cdfe119b11f7f63a2aa8c"
+                                type="box">1</container>
+                     <container id="aspace_c47f3872d72ef1e9ed978529b1d4dadc"
+                                type="folder"
+                                parent="aspace_f62cda12163cdfe119b11f7f63a2aa8c">17</container>
+                  </did>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>"Memorandum Book, containing notes &amp; memorandums of his Transactions for the Estate of Colo. Thomas Turner,"</unittitle>
+                     <unitdate type="inclusive">1787-1795</unitdate>
+                     <container label="Mixed Materials (39002042269432)"
+                                altrender="archive legal"
+                                id="aspace_343c6916d351cb609cee6b0b0c59627f"
+                                type="box">1</container>
+                     <container id="aspace_2e305df37e7c7536f102ee65c50990e6"
+                                type="folder"
+                                parent="aspace_343c6916d351cb609cee6b0b0c59627f">18</container>
+                  </did>
+               </c>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>"Index to Ledger B," estate of Thomas Turner</unittitle>
+                     <unitdate type="inclusive">[1787?]</unitdate>
+                     <container label="Mixed Materials (39002042269440)"
+                                altrender="archive half legal"
+                                id="aspace_3e759fb891a15e003b59afeeae866b8d"
+                                type="box">2</container>
+                     <container id="aspace_6c9b9cbca641089f9553437e88412d03"
+                                type="folder"
+                                parent="aspace_3e759fb891a15e003b59afeeae866b8d">19</container>
+                  </did>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>"Accts &amp; Transactions of the Executors [W. A. Washington and Burdett Ashton] of Richard Henry Lee, decd,"</unittitle>
+                     <unitdate type="inclusive">1793-1796</unitdate>
+                     <container label="Mixed Materials (39002042269440)"
+                                altrender="archive half legal"
+                                id="aspace_a8d9a84e584adea2ca595ae72823deaa"
+                                type="box">2</container>
+                     <container id="aspace_e0f42eacb6a5b6327d6b12a2e1374d24"
+                                type="folder"
+                                parent="aspace_a8d9a84e584adea2ca595ae72823deaa">20</container>
+                  </did>
+               </c>
+               <c id="ref82" level="file">
+                  <did>
+                     <unittitle>Inventory and record of the settlement of the estate of W. A. Washington, by Robert Beverley, Jr.</unittitle>
+                     <unitdate type="inclusive">1810-1813</unitdate>
+                     <container label="Mixed Materials (39002042269440)"
+                                altrender="archive half legal"
+                                id="aspace_69644fea296567f3fd97a091d16491f6"
+                                type="box">2</container>
+                     <container id="aspace_fbf919e58d9b7f52f257d1c167dcc4bb"
+                                type="folder"
+                                parent="aspace_69644fea296567f3fd97a091d16491f6">21</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>Oversize (Folio)</unittitle>
+                  <container label="Mixed Materials (39002042602970)"
+                             id="aspace_f7e24dd2e7c34d8304d0b8623781d3d1"
+                             type="box">3</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

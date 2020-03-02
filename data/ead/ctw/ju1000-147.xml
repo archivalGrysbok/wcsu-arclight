@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-147::Harriet Stewart Judd Travel Diary)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ju1000-147.html">ju1000-147</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Harriet Stewart Judd Travel Diary,
+		<lb/><date normal="1872/1873">1872 - 1873</date>
+		</titleproper>
+        <author>Processed by: Steven St. Onge; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: June 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Harriet Stewart Judd Travel Diary, <date type="span">1872 - 1873</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Judd, Harriet Stewart, 1822-1907.</persname></origination><unittitle label="Title" encodinganalog="245">Harriet Stewart Judd Travel Diary, <unitdate normal="1872/1873" type="inclusive">1872 - 1873</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-147</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.1</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545"> Harriet Stewart Judd, teacher at Albion Seminary and Rockford Female College, was born in 1822 in Lockport, New York. She married Orange Judd, a Wesleyan University graduate and publisher, and they had four sons with whom she traveled across much of the United States and Europe.</abstract><abstract encodinganalog="520">The Harriet Stewart Judd Travel diary is a 176 page manuscript kept by Harriet Judd from October 30, 1872 through December 25, 1873. The entries range from a few sentences to upwards of eight pages. Judd titles her diary, <title render="doublequote">Notes of Travel – No. 5,</title> which suggests there are more diaries of this nature that have been produced, but their locations are unknown. The diary begins abruptly with Harriet Judd and her family traveling near Rome, Italy, on October 30, 1872.  What follows are Judd's recollections of the destinations to which she and her family traveled including Naples, Pompeii, Paris, London, and Liverpool. After about forty pages, her first journey ends on November 18, 1872, but the journal continues with another tale of travels on the following page. During this trip, from February 15, 1873 to April 16, 1873, Harriet and her family traveled from their home of Flushing, New York to Washington D.C., then to Richmond, Virginia; Charlotte, North Carolina; Savannah, Georgia; and St. James, Jacksonville, and St. Augustine, Florida.  An interesting detour occured when Harriet met a Mr. Coe, a Wesleyan graduate, who traveled with them to see the super phosphate mines found ten miles from Charleston. This section of the diary is only thirty pages long, but still describes much of the early American landscape and attractions. The last section of the diary is 94 pages and contains a record of another trip across Europe. This section begins on August 9, 1873, when the family arrived in Ireland and began to travel across England. After a few entries, Harriet decided to take a break from the diary and did not write again until November 27, 1873 when the family was leaving Geneva for Italy. In Italy they explored the regions and cities of Piedmont, Genoa, Pisa, and Naples finding many exciting attractions, which Harriet describes in great detail. While in Genoa, the family visited the Genoa hospital for the poor where they were amazed by the orphans who spent their days making furniture. The diary ends on December 25, 1873, when Harriet attended Christmas mass and thanked God for all that he had given her. Throughout her travels, Judd visited many of the tourist attractions and described the art and architecture of these cities' cultures, as well as the hotels and landscape of Europe and America. Harriet was also a loyal Methodist and attended sermons on Sundays whenever possible during her travels. Harriet also described the many forms of transportation available while traveling in Europe and America, as well as her experiences shopping for luxury goods. Harriet's journal frequently mentions her husband's illnesses and a few times mentions some treatments for it. 
+</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Harriet Stewart Judd Travel Diary, Collection #1000-147, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired prior to 1980.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Steven St. Onge, June 2008</p>
+        <p>Encoded by Valerie Gillispie, June 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Harriet Stewart Judd was born in 1822 in Lockport, New York. In 1855, Harriet married Orange Judd (1822-1892), a graduate of Wesleyan University and an editor and publisher. She formerly taught at the Albion Seminary and the Rockford Female College in Illinois.  She was the mother of four sons, William Orange (1856-1869), Charles Ozias (1858-1877), George Thomas (1861-1892), and James Strong (1863-?). Harriet was also stepmother to Sarah Ford, daughter from Orange Judd's previous marriage. Harriet was a devoted wife, accompanying her husband on his many trips across the globe, and was an accomplished writer. She was buried in Springfield, Massachusetts on August 2, 1907 at the age of 85.  
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>The diary of Harriet Stewart Judd was written between the years 1872 to 1873, during Judd's travels throughout the Eastern Coast of the United States and much of Europe.  Judd describes many acquaintances she met during her travels, including a former Wesleyan graduate, Mr. Coe, but Judd focuses mainly upon herself and her family. The main family members mentioned are Orange Judd (husband), Sarah (stepdaughter), Charles (son), and George (son). The diary is centered around the Judd family's travels and the attractions they come across on their journey. Judd describes many of the palaces, castles, and other points of interest with thorough architectural details along with some historical background on its origins. Judd's diary also allows the reader to glimpse the lifestyle of a traveling family, many of whom are often stricken with illness. In a number of Judd's passages she mentions how her husband, Orange, has become sick again, usually with a cold or headache. The diary also describes how the family used different forms of transportation such as steamboats, carriages, donkeys, rail carts, and tunnels in order to reach their destinations. There are not many organizations or businesses mentioned in her diary, but Harriet often spends her time shopping throughout her journeys.  The diary is 176 pages in length and is entirely handwritten in cursive.</p><p>The first entry in Harriet Judd's diary is titled <title render="doublequote">Notes of Travel – No. 5</title> and opens with the family already traveling in Italy. Thus, it is assumed that this diary is part of a series of diaries, despite this volume being the only one in Wesleyan's Special Collections &amp; Archives.  The diary begins with the family waiting to travel to Naples on October 30, but they were delayed due to the large number of troops around the train station. After they arrived in Naples and checked into the Hotel de Russie, the Judds began their tour of the castle of Carthusian Monastery and other museums. After a few days rest they traveled to the ancient city of Pompeii where Judd spent a good deal of time describing the runes.</p><p>Sunday, after the Judds attended mass, they visited the St. Januarius Cathedral, the San Pauli Maggio church and La Capella de san Serreze church, where she detailed the history and beauty of these places. The next day, Judd went to the Grotto of Pausilippo, the temple of Jupiter-Serapis, the temple of Neptune, the temple of Nymphs, the temple of Apollo, the village of Baccoli, and the Hot Baths of Nero. She regretted the decay of these places, but decided it was inevitable once the Roman Empire fell.</p><p>On November 6, after thoroughly enjoying Naples, the family decided leave Italy for Paris, France, by way of carriage. It was a freezing ride to France during the late season, and Harriet doubted if they will ever make it to the city. On November 9th, however, they finally reached Paris and after they checked into the Hotel de Lourdes on the Rue Castiglione, Judd went to see the Palais Royal.  The family spent a few days shopping in this <emph render="doublequote">fashionable</emph> city, and then decided to move on to London on November 12. After having a relatively smooth ride across the channel, the Judds check into the Queen's Hotel whereupon they decide to travel to Liverpool. It is at this point that Judd stops writing about her trip. On the following page in the diary Judd begins a new journey in America. </p><p>The next section of the diary is titled <title render="doublequote">Notes of Journal Commenced</title> and accompanying Harriet on this journey to the southern United States is Orange (husband), George (son), and Charles (son). On February 15, 1873, the family left their hometown of Flushing, New York to travel to Washington D.C., during which Orange was already sick. After leaving Washington for Richmond, Virginia, their train underwent a malfunction and the family was forced to stay in a barn overnight. After reaching Richmond, the family then traveled to Charlotte, North Carolina, where they met Mr. Coe, a Wesleyan graduate. He accompanied them to see superphosphate mines found near Charleston, South Carolina. The family then traveled among the mines and noted the superphosphates' importance during the Civil War.</p> 
+
+<p>After reaching Savannah, Georgia, the family traveled once more to their destination of St. James, Florida. At this point, the diary begins to skip several days without any explanation of what occurred during this time when the family traveled around Florida. In Florida, the Judds visited a few points of interest including the Grace Spring and Green Cave Spring, and they met many entertaining acquaintances. After spending over a month in Florida, the family traversed the long journey back to Flushing where Harriet noted she was thankful for all that God had given her.</p><p>The final section of the diary is titled <title render="doublequote">Journal for tour commenced</title> and details another of Judd's European journeys. On August 9, 1873 Harriet, Orange, Sarah, and "the two little boys" left America by way of steamer for Ireland. After a 12-day journey, the family finally arrived with not even Orange getting sick. After staying in Ireland a few days, the family traveled to England where they visited William Shakespeare's grave. However, on August 25, Judd announced that she would stop writing in her diary for a while because it was giving her headaches  Thus when the diary begins again on November 27, the family had moved to Geneva, where the boys were being taught by Mr. Louis Dalaprez. Harriet and Sarah have also taken lessons in French, while Orange and George have been sick in bed for a while.  However, on December 4, the family decided to travel to Italy in hope that the warm weather would heal the invalids.</p>  
+
+<p>The family decided to take first-class carriages to Italy because they wanted to be comfortable on the long ride. After traveling for many days, Judd finally reached Italy, by way of the famed Mount Cenis Tunnel, and checked into Hotel D'Europe in Turin. However, Orange and Geroge were still severely sick and they decided to call a physician who prescribed them some prescriptions from the <emph render="doublequote">druggist.</emph> After visiting the armory and Royal Palace of Turin, Judd decided that they should travel to Genoa, where she believed there was much more to see.</p><p>On December 9, Judd left Turin by carriage and encountered an unfortunate event. While traveling, she was stopped by two burly men who demanded that they be stowed away with the Judd family. Though they tried to resist, the men found a way in. Luckily, nothing serious occured other than a trip with two men who <emph render="doublequote">smelled terribly.</emph> Eventually the family reached Genoa, after making a few stops to see the city of Alessandria and the battlefield of Marengo, and checked into a hotel. The next few days were spent visiting the tourist spots such as the Palace Reale of the Durazzo family, the Church Sa Annunsiata, the Spinola Palace, the Cathedral of San Lorenzo, Rossi or Brignole Sale Palace, Serra Palace, the church of St. Maria di Carignano, and the Doria Palace. Each of these places is described in grand detail, and with Judd showing a loving appreciation for the marble architecture.</p><p>An interesting event occurs when the family visited the Genoa hospital for the poor on December 13. Here they find a hospital that could house thousands of people, and took care of the many orphans of Genoa. Here the orphans were trained in furniture making, and most of them seemed absolutely content in what they were doing. Judd was relieved to see charity in Genoa, but was also surprised to see so many <emph render="doublequote">dwarfs</emph> in the hospital. The next few days were again spent sight seeing, including the Villa Pallavicini, the Durazzo and Balbi palaces, and the gardens Resazzia. Again all of these are described in flowing details by Judd.  However, after spending 13 days in Genoa, the family decided that it was time to move on to Naples.</p><p> n December 22nd, the Judds left Genoa via a steamer. However, before reaching Naples, the boat first made a stop over in Pisa where Judd decided to visit the city. They immediately traveled to the cathedral group in Pisa where she was at a loss of words to describe the Leaning Tower of Pisa. They also visited the Cathedral, the Bell Tower, and the Campo Santo, all of which are described in great detail. After an exciting day they returned to the boat and in two days they reached their final destination of Naples on December 25. They quickly checked into the hotel Crocelle, and then went to the Cathedral to celebrate Christmas mass. It is here after thanking God and wishing her family well on Christmas that the journal abruptly ends.</p> 
+
+
+
+
+</scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Judd, Harriet Stewart, 1822-1907.</persname>
+      <persname source="lcnaf" encodinganalog="600">Judd, Orange, 1822-1892.</persname>
+      <subject source="aat" encodinganalog="655">Diaries.</subject>
+      <subject source="lcsh" encodinganalog="650">Travelers’ writings, American--Women authors.</subject>
+      <subject source="lcsh" encodinganalog="650">Americans--Travel--Foreign countries.</subject>
+      <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+      <subject source="lcsh" encodinganalog="650">Women travelers.</subject>
+      <geogname source="lcnaf" encodinganalog="651">Italy--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Naples (Italy)--Description and travel.</geogname>
+      <subject source="lcsh" encodinganalog="650">Architecture--Italy.</subject>
+      <geogname source="lcnaf" encodinganalog="651">Pompeii (Extinct city)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Paris (France)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">London (England)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Liverpool (England)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Washington (D.C.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Richmond (Va.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Charlotte (N.C.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Savannah (Ga.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Charleston (S.C.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Saint James City (Fla.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Jacksonville (Fla.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Saint Augustine Beach (Fla.)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Geneva (Switzerland)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Genoa (Italy)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Piedmont (Italy)--Description and travel.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">Pisa (Italy)--Description and travel.</geogname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p><title render="italic">Autobiography</title> by Harriet Stewart Judd, The New-York Historical Society (OCLC record 58758997)</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Volume"/>
+            <unittitle>Harriet Stewart Judd Travel Diary, 1872-1873</unittitle>
+          </did>
+          <scopecontent>
+            <p>There is a bit of wear and tear to the cover. Some of the leather has become brittle and is beginning to fall off of the spine of the book. Despite the degrading quality of the leather, the book is completely intact and well bound. Some of the ink has begun to fade, but all pages are still legible.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

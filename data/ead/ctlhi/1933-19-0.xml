@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.litchfieldhistoricalsociety.org/archon/packages/collections/lib/ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+	<eadid mainagencycode="CtLHi" countrycode="us" url="http://www.litchfieldhistoricalsociety.org/archon/index.php?p=collections/controlcard&amp;id=1">1933-19-0</eadid>
+
+	<filedesc>
+    <titlestmt>
+		<titleproper>Benjamin Tallmadge Collection</titleproper>
+		<subtitle>An Inventory of Holdings at the Litchfield Historical Society</subtitle>
+		<author encodinganalog="245$c">Collection Description/Finding Aid prepared by Anna Chen.</author>
+	</titlestmt>
+<publicationstmt>
+    <p>&#x00A9; Copyright 2009 Litchfield Historical Society.  All rights reserved.</p>
+	<publisher>Litchfield Historical Society</publisher>
+	<date type="publication" normal="20090410">04/10/2009</date>
+	<address>
+		<addressline>7 South Street, P.O. Box 385</addressline>
+		<addressline>Litchfield, CT, 6759</addressline>
+		<addressline>URL: http://www.litchfieldhistoricalsociety.org/archon</addressline>
+		<addressline>Email: archivist@litchfieldhistoricalsociety.org</addressline>
+		<addressline>Phone: 860-567-4501</addressline>
+		<addressline>Fax: 860-567-3565</addressline>
+	</address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>This finding aid was encoding in EAD by Archon 2.22 from an SQL database source on <date type="encoded" normal="02192010">February 19th, 2010</date>.</creation>
+<langusage>The collection description/finding aid is written in <language langcode="eng">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Litchfield Historical Society</corpname>
+	<address>
+		<addressline>7 South Street, P.O. Box 385</addressline>
+		<addressline>Litchfield, CT, 6759</addressline>
+		<addressline>URL: http://www.litchfieldhistoricalsociety.org/archon</addressline>
+		<addressline>Email: archivist@litchfieldhistoricalsociety.org</addressline>
+		<addressline>Phone: 860-567-4501</addressline>
+		<addressline>Fax: 860-567-3565</addressline>
+	</address>
+
+	</repository>
+
+	<origination label="Creator:">
+
+		<persname encodinganalog="100" source="lcnaf">Tallmadge, Benjamin, 1754-1835</persname>
+		<persname encodinganalog="100" source="lcnaf">Cushman, John P. (John Paine), 1784-1848</persname>
+		<famname encodinganalog="100" source="lcnaf">Tallmadge, Frederick A. (Frederick Augustus), 1792-1869</famname>
+	</origination>
+	<unittitle label="Title:" encodinganalog="245$a">Benjamin Tallmadge Collection</unittitle>
+	<unitdate label="Dates:" encodinganalog="245$f" type="inclusive">1777-1864</unitdate>
+	<unitdate label="Dates:" encodinganalog="245$g" type="bulk">1778-1833</unitdate>
+	<physdesc label="Quantity:" encodinganalog="300$a"><extent unit="Boxes">5.00</extent></physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Benjamin Tallmadge Collection documents the personal life and professional career of Colonel Benjamin Tallmadge through his correspondence as well as his legal, financial, and personal papers.  An army officer, chief intelligence officer, and organizer of the Culper spy ring during the Revolutionary War, Tallmadge became a businessman and U.S. Representative from Connecticut in Congress after the war.
+</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" repositorycode="CtLHi">1933-19-0</unitid>
+
+	<langmaterial encodinganalog="546" label="Language of Materials">
+	  The papers are in:
+<language langcode="eng">English</language>
+<language langcode="ger">German</language>
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<scopecontent encodinganalog="520">
+	<head>Scope and Contents</head>
+	<p>The Benjamin Tallmadge Collection documents the personal life and professional career of Colonel Benjamin Tallmadge through his correspondence as well as his legal, financial, and personal papers.  An army officer, chief intelligence officer, and organizer of the Culper spy ring during the Revolutionary War, Tallmadge became a businessman and U.S. Representative from Connecticut in Congress after the war.
+</p>
+	<p>The collection contains Tallmadge&#039;s duplicate original letters to George Washington concerning military operations and Tallmadge&#039;s operations of the secret service during the Revolutionary War.  These letters record  not only detailed summaries of battles, movements of troops, and requests for provisions, but also the activities of spies and communications of their intelligence.  Many of the letters are written in cipher.  Also included are two original letters from Washington to Tallmadge concerning military administration.  
+</p>
+	<p>The letters also record Tallmadge&#039;s business activities after the war, especially in his correspondence with his son-in-law, John Paine Cushman, a lawyer in New York and, from 1817-1819, U. S. Representative of New York in Congress, whose advice and assistance Tallmadge frequently sought for his financial transactions. 
+</p>
+	<p>In addition, legal documents, accounts, and bills and receipts illuminate Tallmadge&#039;s business ventures, especially his purchases and sales of land in Vermont, New York, Massachusetts, and Ohio, with references to the Ohio Company and Western Reserve.  Other items include accounts for Tallmadge&#039;s store in Litchfield, Connecticut; receipts documenting his investment in privateering ships; and bills of sale for the purchase of slaves.  
+</p>
+	<p>Moreover, his letters to Cushman reveal their opinions on national politics and government, especially during Cushman&#039;s own service in Congress.  Meanwhile, his letters to his daughter, Maria (Tallmadge) Cushman, document the religious revival movement in New England, in which Tallmadge took great interest, describing the activities of such revivalist preachers as Lyman Beecher, Asahel Nettleton, and Nathan Beman.  These letters also provide insight into the social and personal activities of the Tallmadge and Cushman families in Litchfield and elsewhere.  Occasionally, the letters are appended by notes to Maria from Tallmadge&#039;s second wife, Maria (Hallett) Tallmadge.
+</p>
+	<p>The collection also contains correspondence and business papers of Tallmadge&#039;s son, Frederick Augustus Tallmadge, which primarily concern Frederick Tallmadge&#039;s publication of his father&#039;s memoirs.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b">
+	<head>Arrangement of Materials</head>
+	<p>The collection is arranged in 5 series:
+</p>
+	<p>I. Correspondence
+</p>
+	<p>II. Legal papers
+</p>
+	<p>III. Financial papers
+</p>
+	<p>IV. Miscellany
+</p>
+	<p>V. Frederick A. Tallmadge papers</p>
+</arrangement>
+<relatedmaterial encodinganalog="544 1">
+	<head>Related Materials</head>
+	<p>Mary Floyd Tallmadge Recipe Book, Litchfield Historical Society collection.
+</p>
+	<p>Maria (Tallmadge) Cushman Recipe Book, Litchfield Historical Society collection.
+</p>
+	<p>Connecticut Historical Society
+</p>
+	<p>Hartford, CT
+</p>
+	<p>Connecticut State Library
+</p>
+	<p>Hartford, CT
+</p>
+	<p>New York Historical Society
+</p>
+	<p>New York, NY
+</p>
+	<p>New York Public Library
+</p>
+	<p>New York, NY
+</p>
+	<p>Historical Society of Pennsylvania
+</p>
+	<p>Philadelphia, PA
+</p>
+	<p>Henry E. Huntington Library and Art Gallery
+</p>
+	<p>San Marino, CA
+</p>
+	<p>Yale University Library
+</p>
+	<p>New Haven, CT</p>
+</relatedmaterial>
+<separatedmaterial encodinganalog="544 0">
+	<head>Separated Materials</head>
+	<p>Account books, diplomas, certificates, and military commissions are housed in oversize boxes.</p>
+</separatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: These are all repeatable  THESE SHOULD BE PUT INTO APPROPRIATE TAGS AS PER BELOW AND MARC INSTRUCTONS -->
+
+<controlaccess>
+<head>Index Terms</head>
+
+<p>This Collection is indexed under the following controlled access subject terms.</p>
+	<controlaccess>
+		<head>Corporate Name:</head>
+			<corpname encodinganalog="610" source="lcnaf">Society of the Cincinnati</corpname>
+	</controlaccess>
+	<controlaccess>
+		<head>Genre/Form of Material:</head>
+			<genreform encodinganalog="655" source="aat">Account books</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Receipts</genreform>
+	</controlaccess>
+	<controlaccess>
+		<head>Geographic Name:</head>
+			<geogname encodinganalog="651" source="lcsh">United States--History--Revolution, 1775-1783--Secret service</geogname>
+			<geogname encodinganalog="651" source="lcsh">United States--Politics and government--1775-1783.</geogname>
+			<geogname encodinganalog="651" source="lcsh">United States--Religious life and customs</geogname>
+			<geogname encodinganalog="651" source="lcsh">Western Reserve (Ohio)</geogname>
+	</controlaccess>
+	<controlaccess>
+		<head>Personal Name:</head>
+			<persname encodinganalog="600" source="lcnaf">Cushman, John P. (John Paine), 1784-1848</persname>
+			<persname encodinganalog="600" source="lcnaf">Cushman, Maria Tallmadge, 1790-1878</persname>
+			<persname encodinganalog="600" source="lcnaf">Deming, Julius, 1755-1830</persname>
+			<persname encodinganalog="600" source="lcnaf">Destouches, Charles-Rene´-Dominique Sochet, 1727-1794</persname>
+			<persname encodinganalog="600" source="lcnaf">Dwight, Timothy, 1752-1817</persname>
+			<persname encodinganalog="600" source="lcnaf">Hooker, Asahel, 1762-1813</persname>
+			<persname encodinganalog="600" source="lcnaf">Reeve, Tapping, 1744-1823</persname>
+			<persname encodinganalog="600" source="lcnaf">Washington, George, 1732-1799</persname>
+	</controlaccess>
+	<controlaccess>
+		<head>Topical Term:</head>
+			<subject encodinganalog="650" source="lcsh">Privateering--United States</subject>
+			<subject encodinganalog="650" source="lcsh">Revivals--United States</subject>
+			<subject encodinganalog="650" source="lcsh">Second Great Awakening</subject>
+			<subject encodinganalog="650" source="lcsh">Slavery--Connecticut</subject>
+	</controlaccess>
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict encodinganalog="506">
+	<head>Conditions Governing Access</head>
+	<p>This collection is open for research.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+	<head>Conditions Governing Use</head>
+	<p>Unpublished materials authored or otherwise produced by the creator(s) of this collection are in the public domain. There are no restrictions on use. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+</userestrict>
+<custodhist encodinganalog="561">
+	<head>Custodial History</head>
+	<p>Descended in the family prior to donation to LHS.</p>
+</custodhist>
+<prefercite encodinganalog="510">
+	<head>Preferred Citation</head>
+	<p>Benjamin Tallmadge Collection, 1933-19-0, Litchfield Historical Society, Helga J. Ingraham Memorial Library, P.O. Box 385, 7 South Street, Litchfield, Connecticut, 06759.</p>
+</prefercite>
+<altformavail encodinganalog="530">
+	<head>Alternate Formats Available</head>
+	<p>Transcriptions are available for some documents.</p>
+</altformavail>
+<acqinfo encodinganalog="541">
+	<head>Acquisition Information</head>
+	<p>The materials were acquired by Litchfield Historical Society from Mary Floyd Williams on 01/01/1933.</p>
+</acqinfo>
+<processinfo encodinganalog="583">
+	<head>Processing Information</head>
+	<p>The bulk of this material was formerly arranged, in chronological order grouped by type of material, in scrapbooks.  This finding aid retains the chronological arrangement by type of material.</p>
+</processinfo>
+<accruals encodinganalog="584">
+	<head>Accruals</head>
+	<p>Gifts from Emily Noyes Vanderpoel; Dorothy A. Johnson; Mary Floyd Tallmadge Seymour (1911); Elizabeth Delafield (1914); Morris W. Seymour (1917); L. J. Carrington (1923); Mary Floyd Williams (1942); White Memorial Foundation (1952); R. W. Belfit (1965); O. B. Swift (1971);  Lynne Brickley (2004, 2005); and Malcolm and Carol Bramley (2005).</p>
+</accruals>
+<phystech encodinganalog="340">
+	<head>Physical Characteristics or Technical Requirements</head>
+	<p>A few originals are not available due to fragility.  Use photocopy.</p>
+</phystech>
+<odd encodinganalog="500">
+	<head>Other Information</head>
+	<p>Material objects at the Litchfield Historical Society relating to the Benjamin Tallmadge Collection include:
+</p>
+	<p>-2 portraits of Benjamin Tallmadge and Mary Floyd Tallmadge by Ralph Earl (1917-04-01, 1917-04-02)
+</p>
+	<p>-silver teaspoon (1907-02-14)
+</p>
+	<p>-silver tablespoons (1907-02-13, 1907-02-12, 1958-09-8)
+</p>
+	<p>-Chinese export porcelain coffee cup (1908-07-01)
+</p>
+	<p>-portrait miniature of Benjamin Tallmadge by John Ramage, 1783 (1986-17-1)
+</p>
+	<p>-silver tea service (1992-13-1 a-d)
+</p>
+	<p>-Benjamin Tallmadge &amp; Co. trade sign (1971-06-0)
+</p>
+	<p>-oil painting of Benjamin Tallmadge by Ezra Amos, ca. 1825 (1974-09-1)
+</p>
+	<p>-oil painting of Maria (Hallett) Tallmadge by Ezra Amos, ca. 1825 (1974-09-2)
+</p>
+	<p>-hair cutting of Benjamin Tallmadge (1949-25-1)
+</p>
+	<p>-mourning pin with cutting of Benjamin Tallmadge&#039;s hair (ca 1910-01-19)
+</p>
+	<p>-silver salt spoon (1907-02-16)
+</p>
+	<p>-silver sugar tongs (1912-14-3)
+</p>
+	<p>-2 silver salt spoons (1912-14-4)
+</p>
+	<p>-silver mustard spoon (1907-02-15)
+</p>
+	<p>-large silver urn (1972-05-8)
+</p>
+	<p>Contact museum curator for further information at curator@litchfieldhistoricalsociety.org
+</p>
+	<p>This collection was processed with support from the Council on Library and Information Resources (CLIR).</p>
+</odd>
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS -->
+<dsc type="combined">
+<head>Detailed Description of the Collection</head>
+<c01 level="series" id="id1">
+    <did>
+        <unittitle>Correspondence</unittitle>
+        <unitdate>1776-1856</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Series 1, arranged chronologically, consists of letters from Benjamin Tallmadge to George Washington during the American Revolution, and letters among Tallmadge&#039;s family members after the war.  The letters are fair copies in Tallmadge&#039;s hand.
+</p>
+					<p>Tallmadge&#039;s letters to Washington document his military activities, as well as his activities as George Washington&#039;s chief intelligence officer and the organizer of the Culper spy ring.  The collection also contains two original letters from George Washington to Tallmadge (in folders 12 and 18).
+</p>
+					<p>After the war, Tallmadge&#039;s correspondence with his family members record his business activities as well as religious, political, and social news in Litchfield, New England, and Washington, D. C.</p>
+    	</scopecontent>
+<c02 level="file" id="id2">
+    <did>
+		<container type="Folder">1</container>
+        <unittitle>1777</unittitle>
+    </did>
+    	<scopecontent>
+					<p>1 letter, from Benjamin Tallmadge to George Washington, concerning the purchase of horses for the army.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id4">
+    <did>
+		<container type="Folder">2</container>
+        <unittitle>1778 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington, concerning provisions.  He expresses his concern over the scarcity of stables and hay for his regiment&#039;s horses as well as his difficulty finding lodging for his men, and discusses the purchase of breeches, boots, and swords.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id5">
+    <did>
+		<container type="Folder">3</container>
+        <unittitle>1778 Mar-May</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington.  Discusses Colonel Elisha Sheldon&#039;s contract with Mr. Estey of Massachusetts to purchase leather breeches for the regiment; asks whether dragoons whose families suffer by means of their absence may be dismissed from service; and reports on the condition of the troops and laments their lack of supplies and cash.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id6">
+    <did>
+		<container type="Folder">4</container>
+        <unittitle>1778 Jun-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington.  Complains about the regiment&#039;s lack of horses.  Informs Washington of his failure to receive a letter from Culper, the code name for members of Tallmadge&#039;s espionage network, and discusses Culper&#039;s concern about secrecy.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id7">
+    <did>
+		<container type="Folder">5</container>
+        <unittitle>1779 Jan-Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>One letter from Benjamin Tallmadge to George Washington reporting on Culper&#039;s intelligence; his expenses; an intrusion into Culper&#039;s room by two women living in his house; and his satisfaction with a vial of ink sent him by Washington.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id8">
+    <did>
+		<container type="Folder">6</container>
+        <unittitle>1779 May-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter from Benjamin Tallmadge to George Washington reporting on the failure of the arrival of a letter from Culper, and on Colonel Elisha Sheldon&#039;s desire to obtain horses for his regiment.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id9">
+    <did>
+		<container type="Folder">7</container>
+        <unittitle>1779 Jul-Aug</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to George Washington.  The first two letters concern correspondence with Culper, including several passages in code.  The third letter concerns provisions of weapons and horses for the regiment.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id10">
+    <did>
+		<container type="Folder">8</container>
+        <unittitle>1779 Sep-Oct</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters from Benjamin Tallmadge to General Robert Howe and George Washington.  The first letter describes his recent military expedition at Lloyd&#039;s Neck; in the next two letters, he reports on the drafting of soldiers and on the desertion and subsequent recapture and punishment of three soldiers.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id11">
+    <did>
+		<container type="Folder">9</container>
+        <unittitle>1779 Nov-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington, reporting on Culper&#039;s intelligence.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id12">
+    <did>
+		<container type="Folder">10</container>
+        <unittitle>1780 Jan-Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to George Washington and Colonel Samuel Webb, reporting on intelligence from Culper Jr. and asking that Captain Bull be excused from immediately joining the regiment, due to the imminent death of his wife.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id13">
+    <did>
+		<container type="Folder">11</container>
+        <unittitle>1780 Apr-May</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington. The letters discuss provisions for the regiment and intelligence reports from Culper Sr. and Culper Jr.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id14">
+    <did>
+		<container type="Folder">12</container>
+        <unittitle>1780 Jun-Jul</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, two from Benjamin Tallmadge to George Washington and one from George Washington to Benjamin Tallmadge.  The letters discuss troop movements and intelligence from the Culpers.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id15">
+    <did>
+		<container type="Folder">13</container>
+        <unittitle>1780 Aug-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: two from Benjamin Tallmadge to George Washington, describing the recent military engagement at Fort St. George, and one from Tallmadge to Captain David Edgar, giving him military instructions.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id16">
+    <did>
+		<container type="Folder">14</container>
+        <unittitle>1781 Jan-Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to George Washington, discussing military tactics, deserters, and an improved plan to safely convey secret dispatches from Culper.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id17">
+    <did>
+		<container type="Folder">15</container>
+        <unittitle>1781 May-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington, discussing intelligence from Culper; the activities of prisoners; and the importance of procuring horses for the regiment.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id18">
+    <did>
+		<container type="Folder">16</container>
+        <unittitle>1782 Jan-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington, discussing intelligence from Culper and referring to a letter from Silas Deane.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id19">
+    <did>
+		<container type="Folder">17</container>
+        <unittitle>1782 Jul-Sep</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to George Washington, discussing additions to the secret intelligence network and recommending the conduct of Sergeant Elijah Churchill.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id20">
+    <did>
+		<container type="Folder">18</container>
+        <unittitle>1782 Oct-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters: Four from Benjamin Tallmadge to George Washington and one from George Washington to Benjamin Tallmadge.  Tallmadge&#039;s letters report on a failed naval engagement off of Long Island and relaying secret intelligence reports.
+</p>
+					<p>George Washington&#039;s letter concerns the capture of four refugees.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id21">
+    <did>
+		<container type="Folder">19</container>
+        <unittitle>1783 Jan</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to George Washington, which describe his efforts to guard the coast near Greenfield; the desertion and return of Thomas Banks; the loss of a vessel to enemy ships; and the subsequent capture of enemy boats.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id22">
+    <did>
+		<container type="Folder">20</container>
+        <unittitle>1783 Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to George Washington, reporting on his successful capture of an armed enemy vessel on the Long Island Sound.  The letters also observe the illicit trading activity of enemy privateers on the Sound.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id23">
+    <did>
+		<container type="Folder">21</container>
+        <unittitle>1783 Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to George Washington.  In the first letter, Tallmadge reports on the confinement of Nathan Barnum, prisoner of war.  The last two letters inform Washington of the peace treaty just concluded in Europe.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id24">
+    <did>
+		<container type="Folder">22</container>
+        <unittitle>1783 Apr-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters from Benjamin Tallmadge to George Washington.  The first details financial compensation for Culper and others in the secret service network and concludes with Tallmadge&#039;s expressions of gratitude and respect for Washington&#039;s leadership during the war.  The second instructs Washington on how to reach him after he has departed from Princetown.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id25">
+    <did>
+		<container type="Folder">23</container>
+        <unittitle>1793</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to Timothy Dwight, containing extensive reflections on the morals and piety of his upbringing and early life, on his religious values while in the military, and on his present religious views.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id26">
+    <did>
+		<container type="Folder">24</container>
+        <unittitle>1794 Jan-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Business letter, from Benjamin Tallmadge to Nehemiah Hubbard, referring to a note against  the painter Ralph Earl.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id27">
+    <did>
+		<container type="Folder">25</container>
+        <unittitle>1794 Jul-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Asahel Hooker to Benjamin Tallmadge, with religious advice for Tallmadge&#039;s difficult circumstances.  The letter is accompanied by a note by Hooker expressing his hope that his counsel will be satisfactory to Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id28">
+    <did>
+		<container type="Folder">26</container>
+        <unittitle>1800</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Business letter from Benjamin Tallmadge to Peleg Coffin, treasurer of the state of Massachusetts, concerning payment of several notes for a sale of land.  The folder also includes an engraved portrait of Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id29">
+    <did>
+		<container type="Folder">27</container>
+        <unittitle>1806</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to Julius Deming, discussing the purchase of a silver christening bowl for their church.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id30">
+    <did>
+		<container type="Folder">28</container>
+        <unittitle>1807</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: one from Tapping Reeve to Benjamin Tallmadge&#039;s daughter Maria; one from Tallmadge to Reeve; and one from Tallmadge to Maria.  Reeve&#039;s letter to Maria reassure her about her decision to turn down an unwanted suitor, while Tallmadge&#039;s to Maria praises her for her newfound views on sin and salvation.  He also mentions writing poetry, and encloses an Ode for Christmas.  Reeve&#039;s letter to Maria was conserved in August 2009.
+</p>
+					<p>Tallmadge&#039;s letter to Reeve thanks him for effecting the religious transformation in his daughter Maria and encourages him to visit Tallmdage&#039;s children more often in order to instill religious fervor in them.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id31">
+    <did>
+		<container type="Folder">29</container>
+        <unittitle>1808</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to his daughter Maria, expressing his satisfaction with her decision to join the Church of Christ in Litchfield and providing further religious reflections. He also writes of his desire for Maria&#039;s brother and sister to follow in her religious zeal.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id32">
+    <did>
+		<container type="Folder">30</container>
+        <unittitle>1809</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to his daughter Maria and to Governor John Treadwell of CT.  To Maria, he writes of the difficulties his minority political party faces in Washington, including his efforts to defeat a bill to raise a standing army.  
+</p>
+					<p>Tallmadge&#039;s note to Treadwell indicates an enclosed letter to General Jedidiah Huntington on the subject of the militia.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id34">
+    <did>
+		<container type="Folder">31</container>
+        <unittitle>1812</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Tapping Reeve to Maria Cushman and from Benjamin Tallmadge and his wife to Joshua Huntington.  In the first letter, Reeve provides religious reflections; informs Maria of a religious awakening taking place in Southberry and Middlebury; and expresses his best wishes for her on her recent marriage to John Paine Cushman.
+</p>
+					<p>The letter from Benjamin and Maria Tallmadge expresses their condolences on the death of Joshua Huntington&#039;s daughter.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id33">
+    <did>
+		<container type="Folder">32</container>
+        <unittitle>1812 (fragile)</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to Governor Roger Griswold, indicating his acceptance as a member of the thirteenth United States Congress.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id35">
+    <did>
+		<container type="Folder">33</container>
+        <unittitle>1813</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Tapping Reeve to Maria (Tallmadge) Cushman.  He mentions the pestilence in Litchfield and offers religious reflections.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id36">
+    <did>
+		<container type="Folder">34</container>
+        <unittitle>1814</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to his son-in-law John Paine Cushman, and from Tapping Reeve to Maria (Tallmadge) Cushman.  
+</p>
+					<p>Tallmadge&#039;s letter includes social news and mentions monetary exchanges.  Reeve&#039;s letter also contains social news, as well as information about the religious awakening in Litchfield and extensive religious reflections.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id37">
+    <did>
+		<container type="Folder">35</container>
+        <unittitle>1815</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter from Benjamin Tallmadge to his daughter Maria (Tallmadge) Cushman.  Tallmadge expresses his gratitude at hearing of Maria&#039;s improved health and offers religious reflections.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id38">
+    <did>
+		<container type="Folder">36</container>
+        <unittitle>1816 Jan-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to his son-in-law John Paine Cushman, reporting on the religious awakening moving through Connecticut and Massachusetts and exhorting Cushman to open his heart to God.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id39">
+    <did>
+		<container type="Folder">37</container>
+        <unittitle>1816 Jul-Aug</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: one from Benjamin Tallmadge&#039;s son William to his sister Maria (Tallmadge) Cushman, another from Benjamin Tallmadge to his daughter Maria, and a third from Tallmadge to Captain Alden Partridge, superintendent of the Military Academy at West Point.
+</p>
+					<p>In his letter to his sister, William Tallmadge describes his recent trip to the Netherlands and mentions falling in love with an English girl.
+</p>
+					<p>Benjamin Tallmadge&#039;s letter to Maria expresses his joy at the influence of the religious revival on his daughter Harriot. 
+</p>
+					<p>Benjamin Tallmadge&#039;s letter to Captain Partridge introduces his son, George Washington Tallmadge, reviews his son&#039;s prior education, and expresses his hope that his son will flourish at the military academy at West Point.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id40">
+    <did>
+		<container type="Folder">38</container>
+        <unittitle>1816 Sep-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to John Paine Cushman, reporting on the death of Rev. Lyman Beecher&#039;s first wife, Roxana (Foote) Beecher.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id41">
+    <did>
+		<container type="Folder">39</container>
+        <unittitle>1817</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters to John Paine Cushman, one from Benjamin Tallmadge, Jr., and the other from Benjamin Tallmadge, Sr.  The first letter requests Cushman&#039;s assistance, in his capacity as a delegate to Congress, to advance the interest of Tallmadge Jr.&#039;s friend, a midshipman on the US Ship Washington named Mr. Whipple.
+</p>
+					<p>In the second letter, Tallmadge Sr. reports social news,  and expresses his distaste for another war, referring to the &quot;Spanish patriots in South America.&quot;</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id42">
+    <did>
+		<container type="Folder">40</container>
+        <unittitle>1818 Jan 1-Jan 15</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to Colonel John Tayloe and John Paine Cushman.
+</p>
+					<p>Tallmadge&#039;s letter to Tayloe serves as a letter of introduction for Cushman.  His letters to Cushman contain social news and political commentary, including an observation that the bill to aid indigent Revolutionary solders has not yet been passed.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id43">
+    <did>
+		<container type="Folder">41</container>
+        <unittitle>1818 Jan 16-31</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge and William Tallmadge to John Paine Cushman.  Benjamin Tallmadge discusses Congressional business, including the case of John Anderson&#039;s attempted bribery of members of Congress, and updates Cushman on the activities and health of Cushman&#039;s young children.  
+</p>
+					<p>William Tallmadge&#039;s letter to Cushman mentions his search for employment.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id44">
+    <did>
+		<container type="Folder">42</container>
+        <unittitle>1818 Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to John Paine Cushman.  The letters discuss political figures and news, including his dislike of the idea of pay attached to the brevet rank, his disappointment that Revolutionary War veterans have not received sufficient monetary compensation, and his hope for the passage of a national bankruptcy law.  Tallmadge also mentions his and his wife&#039;s recent attack of influenza.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id45">
+    <did>
+		<container type="Folder">43</container>
+        <unittitle>1818 Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters, from Benjamin Tallmadge to John Paine Cushman, primarily discussing Congressional and political business, including his disappointment that the bankruptcy bill may fail and the imminent adjournment of Congress.  Tallmadge also mentions his plans to travel to New York with Maria (Tallmadge) Cushman to meet Cushman.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id46">
+    <did>
+		<container type="Folder">44</container>
+        <unittitle>1818 Apr-Nov</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to John Paine Cushman.  The first letters contains business and financial matters; the second letter discusses his son Benjamin&#039;s request for a furlough from the Navy and passes along social and religious news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id47">
+    <did>
+		<container type="Folder">45</container>
+        <unittitle>1818 Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to John Paine Cushman, which discuss both political and social matters.  In one letter, he comments on the Congressional committee appointed to investigate the bank of the United States and expresses his certainty that the committee will discover a system of favoritism there.  He also discusses, in detail, his hopes that Congress will investigate the institution at West Point, since he believes it is currently being run by a despot.  Elsewhere, he hopes that Revolutionary War officers will receive financial compensation before they have all passed away, and reports on the activities of young Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id48">
+    <did>
+		<container type="Folder">46</container>
+        <unittitle>1819 Jan 1-Jan 15</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters from Benjamin Tallmadge to John Paine Cushman, and one letter from J. T. Stoddard to Tallmadge.  The letters from Tallmadge discuss financial matters, including the potential sale of land; political matters, including Tallmadge&#039;s approval of General Andrew Jackson; and religious matters: he relates the powerful effects of Rev. Lyman Beecher&#039;s recent sermon.
+</p>
+					<p>The letter from Stoddard responds to Tallmadge&#039;s request for information on his own case against his debtors Campbell and Jenifer.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id49">
+    <did>
+		<container type="Folder">47</container>
+        <unitdate>1819 Jan 16-Jan 31</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Five letters, from Benjamin Tallmadge to John Paine Cushman.  The letters discuss political matters, including the first Seminole War and General Andrew Jackson&#039;s conduct therein, and the exposure of corruption in the bank of the United States.  Tallmadge also praises the religious revival led by Rev. Lyman Beecher and writes of the death of their relatives&#039; child.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id50">
+    <did>
+		<container type="Folder">48</container>
+        <unittitle>1819 Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, one from George Washington Tallmadge to his sister Maria (Tallmadge) Cushman, and the other from Benjamin Tallmadge to John Paine Cushman.  George Washington Tallmadge&#039;s letter mentions his studies in French at West Point, his growing height, and his affection for Maria&#039;s young son.  
+</p>
+					<p>Benjamin Tallmadge&#039;s letter to Cushman deplores the perpetuation of slavery in the United States.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id51">
+    <did>
+		<container type="Folder">49</container>
+        <unittitle>1819 Mar-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters from Benjamin Tallmadge to Augustus Porter and to John Paine Cushman.  Tallmadge&#039;s letter to Porter requests Porter&#039;s sales accounts for salt, in connection with Tallmadge&#039;s company, Tallmadge Smith &amp; Co.  To Cushman, Tallmadge asks advice concerning pursuing Porter for the sales account of salt, requests money to purchase stock in the Albany City Loan, and discusses a suit he is considering initiating against a debtor.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id52">
+    <did>
+		<container type="Folder">50</container>
+        <unittitle>1820 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to John Paine Cushman. The first letter continues the discussion of a suit against Tallmadge&#039;s debtor, Samuel Brown and mentions Maria (Tallmadge) Cushman&#039;s pregnancy.  The second letter congratulates Cushman on the birth of a daughter, and is appended by a congratulatory note from Tallmadge&#039;s wife, Maria.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id53">
+    <did>
+		<container type="Folder">51</container>
+        <unittitle>1820 Mar-Jul</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to John Paine Cushman.  The letters discuss primarily financial business, including Tallmadge&#039;s suit against Samuel Brown and his desire for Cushman to sell some property for him.  Elsewhere, Tallmadge also mentions ripening plums and a canker sickness among the children.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id54">
+    <did>
+		<container type="Folder">52</container>
+        <unittitle>1820 Aug-Oct</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman, which primarily discuss financial matters, including the suit against Samuel Brown and the purchase of a mortgage.  He also mentions the arrival of his son George Washington Tallmadge on furlough from West Point.  
+</p>
+					<p>To his daughter Maria, Tallmadge also writes concerning his desire to leave land in Ohio to his children, and reports on the death of Lyman Beecher&#039;s child and other social and family news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id55">
+    <did>
+		<container type="Folder">53</container>
+        <unittitle>1820 Nov-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to John Paine Cushman.  In the first letters, he discusses politics, including his prediction of James Monroe for President; as well as financial matters.  He also writes about a fire which consumed the home of Samuel Plumb.  
+</p>
+					<p>In the second letter, Tallmadge reports on the conclusion of his suit against Samuel Brown and advises Cushman on building rather than renting his home.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id56">
+    <did>
+		<container type="Folder">54</container>
+        <unittitle>1821 Jan-Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, one from John Paine Cushman to Benjamin Tallmadge, and the other from Tallmadge to Cushman.  Cushman&#039;s letter primarily discusses political matters, while Tallmadge&#039;s letter asks Cushman to invest some of Judge Tapping Reeve&#039;s money and discusses Cushman&#039;s impending visit to Litchfield.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id57">
+    <did>
+		<container type="Folder">55</container>
+        <unittitle>1821 May-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters to John Paine Cushman, two from Benjamin Tallmadge and one from Tapping Reeve.  Tallmadge&#039;s letters report on the arrival of Cushman&#039;s wife and children at Litchfield and discuss financial matters.  Reeve&#039;s letter asks Cushman to invest his money for him.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id58">
+    <did>
+		<container type="Folder">56</container>
+        <unittitle>1821 Jul-Sep</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to Maria (Tallmadge) Cushman and John Paine Cushman.  To his daughter Maria, Tallmadge writes of his intention to leave money for his grandchildren.  To Cushman, Tallmadge discusses the stocks and capital of the Commission Company.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id59">
+    <did>
+		<container type="Folder">57</container>
+        <unittitle>1821 Oct-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to John Paine Cushman.  The letters report family news, including the travels of Cushman&#039;s mother; Tallmadge&#039;s concern that his children will not be properly converted and his approval of the religious revival; and his daughter Harriot&#039;s recent wedding.  Tallmadge also writes about the financial details of the Commission Company.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id60">
+    <did>
+		<container type="Folder">58</container>
+        <unittitle>1822 Jan-Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to John Paine Cushman.  Tallmadge refers to a controversy between Judge James Gould and Judge Tapping Reeve; discusses the sale of Cushman&#039;s Ohio lands and his own stock; and praises the religious revival in Litchfield.  The last letter includes a note by Maria Tallmadge to Tallmadge&#039;s daughter Maria with social news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id61">
+    <did>
+		<container type="Folder">59</container>
+        <unittitle>1822 Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to Maria (Tallmadge) Cushman.  Tallmadge reports the religious conversion of the family of Stephen and Roxana Clark; the recent illness of the revivalist preacher Asahel Nettleton; and his pleasure at Maria&#039;s own religious fervor.  He also provides extensive religious reflections.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id62">
+    <did>
+		<container type="Folder">60</container>
+        <unittitle>1822 May-Jul</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to John Paine Cushman.  He reports on the extreme illness of Mrs. Deming; the conversion of Helen Peck on her deathbed; and the deaths and illnesses of other friends and family members.  Also included is a receipt by Tapping Reeve for money deposited with Cushman.
+</p>
+					<p>One of the letters also contains a note to Maria (Tallmadge) Cushman by Tallmadge&#039;s wife, Maria (Hallett) Tallmadge.  The note is accompanied by a poem, copied by Sarah Hallett, on Helen Peck&#039;s death.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id63">
+    <did>
+		<container type="Folder">61</container>
+        <unittitle>1822 Aug-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters to John Paine Cushman, two from Benjamin Tallmadge and one from Felix Tracy.  The letters discuss the illness of Mrs. Tibbits; the appearance of yellow fever in New York; Tallmadge&#039;s recent trip to New Haven where he attended a religious meeting and witnessed the ordination of three missionaries; and the death of his son William. 
+</p>
+					<p>The letter from Tracy updates Cushman on the financial state of Tallmadge&#039;s property.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id64">
+    <did>
+		<container type="Folder">62</container>
+        <unittitle>1823 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman, reporting the death of Tallmadge&#039;s brother.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id65">
+    <did>
+		<container type="Folder">63</container>
+        <unittitle>1823 Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters to John Paine Cushman, three from Benjamin Tallmadge and one from Phebe Tallmadge.  
+</p>
+					<p>Benjamin Tallmadge writes concerning his investments; the legacy of his recently deceased brother John; and his thoughts on religion, including the rebirth of the soul and the subjects of a sermon by Lyman Beecher.  He also reviews the availability of boarding places for young ladies who wish to attend the Litchfield Female Academy.
+</p>
+					<p>The letter from Phebe Tallmadge describes the death and funeral of Uncle John Tallmadge, Benjamin Tallmadge&#039;s brother.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id66">
+    <did>
+		<container type="Folder">64</container>
+        <unittitle>1823 Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to John Paine Cushman, reporting on Lyman Beecher&#039;s departure for Boston, the religious revival, and the possibility of students of the Litchfield Female Academy boarding with the Buel family.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id67">
+    <did>
+		<container type="Folder">65</container>
+        <unittitle>1823 May</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters, four from Benjamin Talllmadge to John Paine Cushman and one from Maria (Hallett) Tallmadge to Maria (Tallmadge) Cushman.  Tallmadge discusses financial matters; compliments Cushman on his tax law; confirms the engagement of lodgings for students at the Litchfield Female Academy; and reports on the marriage of Phebe Tallmadge to the Rev. Mr. Mason of Washington.   He also mentions Lyman Beecher&#039;s successful sermons in Boston.
+</p>
+					<p>The letter from Maria (Hallett) Tallmadge reports on social and family news and discusses fashion in apparel and home decorating.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id68">
+    <did>
+		<container type="Folder">66</container>
+        <unittitle>1823 Jun-Sep</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman.  He reports on his wife&#039;s ill health and the remedies she has tried, expresses regret that he cannot travel to Troy due to his wife&#039;s illness, and discusses financial matters, including the signing of new bonds.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id69">
+    <did>
+		<container type="Folder">67</container>
+        <unittitle>1823 Oct</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters to John Paine Cushman, two from Benjamin Tallmadge and one from Elizabeth Reeve.  Tallmadge&#039;s letters report social news and plan his visit to Troy to see Cushman.
+</p>
+					<p>Reeve&#039;s letter describes her own and her husband&#039;s failing health and urges Cushman to take care with the money he has invested for the Reeves, as it may soon be the only sustenance of the fatherless boy, Burr, whom she and her husband had adopted.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id70">
+    <did>
+		<container type="Folder">68</container>
+        <unittitle>1823 Nov-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to Maria (Tallmadge) Cushman, which describes his ill health and moderate recovery, and his recent fall from his horse.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id71">
+    <did>
+		<container type="Folder">69</container>
+        <unittitle>1824 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to Maria (Tallmadge) Cushman and John Paine Cushman.  Tallmadge provides a detailed description of his recent illness, and discusses his intention to leave land in Ohio to his children.  He also discusses financial affairs, including Tapping Reeve&#039;s will and investment with Cushman, as well as provides religious reflections.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id72">
+    <did>
+		<container type="Folder">70</container>
+        <unittitle>1824 Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters, from Lucius Smith to Benjamin Tallmadge and from Tallmadge to Smith; and from Tallmadge and Benjamin Tallmadge Jr. to Cushman.
+</p>
+					<p>The letters between Tallmadge and Smith concern a financial dispute.  To Cushman, the Tallmadges relate social and financial news; Tallmadge Sr. also remarks on his feelings at recollecting scenes from the Revolutionary War.
+</p>
+					<p>The last letter is appended by a note from Maria (Hallett) Tallmadge to Maria (Tallmadge) Cushman, relating social and family news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id73">
+    <did>
+		<container type="Folder">71</container>
+        <unittitle>1824 Apr-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from Benjamin Tallmadge to John Paine Cushman, which discuss the financial aspects of Tapping Reeve&#039;s will; the illness of Cushman&#039;s father; and his own illness and thoughts on death.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id74">
+    <did>
+		<container type="Folder">72</container>
+        <unittitle>1824 Jul</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman, sharing family news and consoling them on the loss of their daughter, Maria Hallet Cushman.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id75">
+    <did>
+		<container type="Folder">73</container>
+        <unittitle>1824 Aug</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Six letters, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman.  He consoles the Cushmans on the death of their daughter Maria Hallet; writes about his ideas concerning the spiritual significance of mourning; and his concerns for the health of another of their children, Tallmadge Cushman.  He also mentions the imminent arrival of Marquis de Lafayette in Hartford.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id76">
+    <did>
+		<container type="Folder">74</container>
+        <unittitle>1827</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Five letters, from Benjamin Tallmadge to John Paine Cushman, which comment on the ecclesiastical trial against Nathan Beman for charges against his method of conducting revivals by Lyman Beecher and Asahel Nettleton.  He also discusses upcoming visits by his children, family and social news, and business affairs.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id77">
+    <did>
+		<container type="Folder">75</container>
+        <unittitle>1828 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, between John Paine Cushman and Benjamin Tallmadge, discussing business affairs and Tallmadge&#039;s concern over his daughter Harriot&#039;s ill health.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id78">
+    <did>
+		<container type="Folder">76</container>
+        <unittitle>1828 Mar-Apr</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from John Paine Cushman to Benjamin Tallmadge, discussing financial matters.  One letter includes an enclosed business letter from Aldis Davis about rents from land in Vermont.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id79">
+    <did>
+		<container type="Folder">77</container>
+        <unittitle>1828 May-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters, between John Paine Cushman and Benjamin Tallmadge, containing financial matters; news of family, friends; and comments on the religious revival.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id80">
+    <did>
+		<container type="Folder">78</container>
+        <unittitle>1828 Jul-Aug</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from John Paine Cushman to Benjamin Tallmadge, containing financial matters, including mortgages and real estate; as well as family news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id81">
+    <did>
+		<container type="Folder">79</container>
+        <unittitle>1828 Sep-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: two between Benjamin Tallmadge and Charles Perkins; and one from John Paine Cushman to Tallmadge.
+</p>
+					<p>The letters between Tallmadge and Perkins discuss a financial and legal arrangement.  The letter from Cushman discusses other financial matters and provides an update on the revivalist preacher Nathan Beman.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id82">
+    <did>
+		<container type="Folder">80</container>
+        <unittitle>1829 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, between Benjamin Tallmadge and John Paine Cushman, discussing a failed loan to Mssrs. Stone and Filley as well as a loan to Mr. Clapp.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id83">
+    <did>
+		<container type="Folder">81</container>
+        <unittitle>1829 Mar-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters: one from Elizabeth Reeve, Tapping Reeve&#039;s widow, to the Cushmans; and one from John Paine Cushman to Benjamin Tallmadge.
+</p>
+					<p>Mrs. Reeve writes of the death of her child and offers religious reflections.  Cushman writes to discuss financial matters and to report that Nathan Beman has decided to stay in Troy.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id84">
+    <did>
+		<container type="Folder">82</container>
+        <unittitle>1830 Jan-Jun</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Benjamin Tallmadge to Maria (Tallmadge) Cushman offering religious reflections.  
+</p>
+					<p>Also in the folder is a legal document, signed by five of Tallmadge&#039;s children, waiving their rights to money from their father so that it can be paid towards their brother George Washington Tallmadge&#039;s debts.  The document is accompanied by a request by Benjamin Tallmadge to John Paine Cushman to comply with his children&#039;s request.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id85">
+    <did>
+		<container type="Folder">83</container>
+        <unittitle>1830 Jul-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters: one from Benjamin Tallmadge, Jr. to John Paine Cushman; and one from Benjamin Tallmadge, Sr. to Martin Clapp.  Tallmadge, Jr.&#039;s letter refers to a financial transaction for carpeting and mentions his future travels.
+</p>
+					<p>Tallmadge, Sr.&#039;s letter to Clapp expresses his disappointment that Clapp has been so delinquent on his interest payments, and informs him he has transferred Clapp&#039;s debt to his children.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id86">
+    <did>
+		<container type="Folder">84</container>
+        <unittitle>1831 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Six letters, between John Paine Cushman and Benjamin Tallmadge, discussing Tallmadge&#039;s illness; the religious revival in New York and elsewhere; and financial matters.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id87">
+    <did>
+		<container type="Folder">85</container>
+        <unittitle>1831 Mar-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, between Benjamin Tallmadge and  the Cushmans, which discuss financial matters; the ill health of Tallmadge&#039;s wife, Maria (Hallett) Tallmadge; and the religious revival.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id88">
+    <did>
+		<container type="Folder">86</container>
+        <unittitle>1832 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from John Paine Cushman to Benjamin Tallmadge, discussing financial matters related to the death of Benjamin Tallmadge, Jr.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id89">
+    <did>
+		<container type="Folder">87</container>
+        <unittitle>1832 Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters: three between Benjamin Tallmadge and John Paine Cushman, and one from Tallmadge to Martin Clapp.  
+</p>
+					<p>The letters between Tallmadge and Cushman discuss financial matters.  One letter, marked &quot;private,&quot; grants Cushman power of attorney over Tallmadge&#039;s funds.
+</p>
+					<p>The letter to Clapp contests Clapp&#039;s claim of usury against Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id90">
+    <did>
+		<container type="Folder">88</container>
+        <unittitle>1832 Apr-May</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, between Benjamin Tallmadge and John Paine Cushman, discussing financial affairs, including Martin Clapp&#039;s suit against Tallmadge; family news, including Maria (Tallmadge) Cushman&#039;s pregnancy; and news on the religious revival as well as personal religious reflections.  
+</p>
+					<p>Tallmadge also expresses his indignation over Congress&#039;s handling of the case of Samuel Houston.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id91">
+    <did>
+		<container type="Folder">89</container>
+        <unittitle>1832 Jun-Jul</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Benjamin Tallmadge to John Paine Cushman and Maria (Tallmadge) Cushman.  The letters discuss family news, news of the religious revival, and an outbreak of cholera.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id92">
+    <did>
+		<container type="Folder">90</container>
+        <unittitle>1832 Aug-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Four letters: three from Benjamin Tallmadge to the Cushmans, and one from Henry Floyd Tallmadge to his sister, Maria (Tallmadge) Cushman.  
+</p>
+					<p>Benjamin Tallmadge&#039;s letters mention financial matters; John Paine Cushman&#039;s illness; other family and social news; and Sarah Pierce&#039;s plan to select a female instructor for her school.
+</p>
+					<p>Henry Floyd Tallmadge&#039;s letter requests that his sister send him &quot;anti-billious&quot; pills.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id93">
+    <did>
+		<container type="Folder">91</container>
+        <unittitle>1833 Jan-Feb</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from John Paine Cushman to Benjamin Tallmadge, discussing financial matters, including Martin Clapp; and his recent illness of jaundice and the illnesses of his wife and children.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id94">
+    <did>
+		<container type="Folder">92</container>
+        <unittitle>1833 Mar-May</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from John Paine Cushman to Benjamin Tallmadge, discussing financial matters; illnesses in the family; and plans for a trip to Litchfield.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id95">
+    <did>
+		<container type="Folder">93</container>
+        <unittitle>1833 Jun-Aug</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters, from John Paine Cushman to Benjamin Tallmadge, reporting on the death of Cushman&#039;s son William; offering religious reflections on death; and discussing financial matters.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id96">
+    <did>
+		<container type="Folder">94</container>
+        <unittitle>1833 Sep-Nov</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters: one from Henry Floyd Tallmadge to his sister, Maria (Tallmadge) Cushman, and one from John Paine Cushman to Benjamin Tallmadge.
+</p>
+					<p>The letter from Henry Floyd Tallmadge discusses the distressed situation of his sister in law, Laura.
+</p>
+					<p>Cushman&#039;s letter to Tallmadge discusses a boat outing; the illness of his brother-in-law Delafield; and financial matters.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id97">
+    <did>
+		<container type="Folder">95</container>
+        <unitdate>1833 Dec</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Five letters: one from Henry Floyd Tallmadge to his sister Maria (Tallmadge) Cushman, and four from John Paine Cushman to Benjamin Tallmadge.
+</p>
+					<p>Henry Floyd Tallmadge&#039;s letter reports on the illness of Benjamin Tallmadge and the treatment of his wound by the doctor.  The letter begins with a note from Tallmadge&#039;s wife, Maria (Hallett) Tallmadge, on the same subject.
+</p>
+					<p>Cushman&#039;s letters discuss financial matters, including mortgages and Tallmadge&#039;s debtor Martin Clapp; and thank Tallmadge for his recent financial gift to the Cushmans.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id98">
+    <did>
+		<container type="Folder">96</container>
+        <unittitle>1834 Jan-Mar</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: one from Henry Floyd Tallmadge to his brother-in-law John Paine Cushman, and two from Cushman to Benjamin Tallmadge.  
+</p>
+					<p>Henry Floyd Tallmadge&#039;s letter discusses how to dispose of the financial gift from Benjamin Tallmadge.
+</p>
+					<p>Cushman&#039;s letters discuss financial matters, including a mention of Martin Clapp.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id99">
+    <did>
+		<container type="Folder">97</container>
+        <unittitle>1834 Apr-Dec</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from John Paine Cushman to Benjamin Tallmadge, discussing Tallmadge&#039;s financial dispute with Martin Clapp and sharing family news.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id100">
+    <did>
+		<container type="Folder">98</container>
+        <unittitle>1835</unittitle>
+    </did>
+    	<scopecontent>
+					<p>One letter, from John Paine Cushman to his son E. F. Cushman, reporting on the death of Benjamin Tallmadge.  Cushman also mentions Tallmadge&#039;s diary.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id101">
+    <did>
+		<container type="Folder">99</container>
+        <unittitle>1838</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: one from B. T. Cushman to his father John Paine Cushman, one from Henry Floyd Tallmadge to Maria (Tallmadge) Cushman, and one from Mary Pierce to Maria (Tallmadge) Cushman.  
+</p>
+					<p>The letters report on the death of Maria (Hallett) Tallmadge and offer condolences.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id102">
+    <did>
+		<container type="Folder">100</container>
+        <unittitle>1839</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Laura Tallmadge, the widow of George Washington Tallmadge, to her sister-in-law Maria (Tallmadge) Cushman, discussing her upcoming marriage to Judge Humphrey.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id103">
+    <did>
+		<container type="Folder">101</container>
+        <unittitle>1844</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters to Maria (Tallmadge) Cushman: one from her brother Henry Floyd Tallmadge, and one from her sister-in-law, Maria.  Both letters report on and lament the death of their son, Henry, who was drowned.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id104">
+    <did>
+		<container type="Folder">102</container>
+        <unittitle>1854</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Letter, from Frederick Augustus Tallmadge to Maria (Tallmadge) Cushman, reporting on the death of their brother Henry Floyd Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id105">
+    <did>
+		<container type="Folder">103</container>
+        <unittitle>1856</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Two letters, from Frederick Augustus Tallmadge to his sister Maria (Tallmadge) Cushman, reporting on the death of their sister, Harriot (Tallmadge) Delafield.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id106">
+    <did>
+		<container type="Folder">104</container>
+        <unittitle>n. d.</unittitle>
+    </did>
+    	<scopecontent>
+					<p>Three letters: one from Benjamin Tallmadge to his daughter Maria, and two anonymous letters.  
+</p>
+					<p>Tallmadge&#039;s letter, written when Maria was young, contains advice on grammar; criticizes Thomas Paine; and encourages Maria to teach &quot;Ebo&quot; to read.
+</p>
+					<p>The two anonymous letters are addressed to &quot;Officers of the Army&quot; and exhort its listeners to argue for better treatment now that the Revolutionary War has been concluded.</p>
+    	</scopecontent>
+
+</c02>
+
+</c01>
+<c01 level="series" id="id107">
+    <did>
+        <unittitle>Legal papers</unittitle>
+        <unitdate>1782-1844</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Series 2, arranged by type of material, consists of Tallmadge&#039;s legal documents.  The majority of the papers concern land transactions, while others pertain to his store, Benjamin Tallmadge &amp; Co., and to other financial investments.  Also included in this series are bills of sale of slaves.</p>
+    	</scopecontent>
+<c02 level="subseries" id="id108">
+    <did>
+        <unittitle>Bonds</unittitle>
+    </did>
+<c03 level="file" id="id109">
+    <did>
+		<container type="Folder">1</container>
+        <unittitle>1790-1794</unittitle>
+    </did>
+
+</c03>
+<c03 level="file" id="id110">
+    <did>
+		<container type="Folder">2</container>
+        <unittitle>1796-1823</unittitle>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id124">
+    <did>
+        <unittitle>Court documents</unittitle>
+    </did>
+<c03 level="file" id="id125">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1780, 1782</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains a copy of protest of a bill of exchange and the resolution of a debt.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id126">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1793</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains a report by Benjamin Tallmadge and others on the mishandling of Revolutionary War funds by Jedediah Strong.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id127">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1804</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains summons to Samuel Seymour, Caleb Bacon, Elnathan Holly and Hosea Blinn to appear before Frederick Wolcott, justice of the peace of Litchfield County, to testify in a suit brought by Benjamin Tallmadge against Reuben Webster.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id128">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1844</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains printed pamphlet of a lawsuit between Henry Floyd Tallmadge and Henry A. Tallmadge, son of George Washington Tallmadge, concerning a bequest in the will of Benjamin Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id111">
+    <did>
+        <unittitle>Deeds</unittitle>
+    </did>
+<c03 level="file" id="id112">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1789</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id113">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1796</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Includes deeds to shares in the Ohio Company.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id114">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1797-1799</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Includes deeds to shares in the Ohio Company.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id115">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1814</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id116">
+    <did>
+        <unittitle>Indentures (service)</unittitle>
+    </did>
+<c03 level="file" id="id117">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1785</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains indenture for Ebo, a &quot;Mustee boy,&quot; by his mother.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id118">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1788</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains indenture of a &quot;Negro girl named Abigail&quot; by Ruth Woodhull to Benjamin Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id119">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1797</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains indenture of John Philip Monigati and his wife Margaratha as servants to Benjamin Tallmadge.  Mentions that their term of service will extend six months for every child born to them during their term of service to Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id120">
+    <did>
+        <unittitle>Indentures (real estate)</unittitle>
+    </did>
+<c03 level="file" id="id121">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1784 (oversize)</unitdate>
+    </did>
+    	<scopecontent>
+					<p>See oversize</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id122">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1788-1789</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id123">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1799-1800</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id230">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1843</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id129">
+    <did>
+        <unittitle>Leases</unittitle>
+    </did>
+<c03 level="file" id="id130">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1788-1789</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id131">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1791, 1795</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id132">
+    <did>
+        <unittitle>Letters of attorney</unittitle>
+    </did>
+<c03 level="file" id="id133">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1778</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains document granting Benjamin Tallmadge power of attorney to transact business in shares in two privateering ships, the Mars and the Wooster.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id134">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1784</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id135">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1788-1789</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id136">
+    <did>
+        <unittitle>Obligations</unittitle>
+    </did>
+<c03 level="file" id="id138">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1782, 1786</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains agreements concerning Benjamin Tallmadge &amp; Co. and a joint venture shipping horses to the West Indies.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id139">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1791, 1792</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id140">
+    <did>
+        <unittitle>Wills</unittitle>
+    </did>
+<c03 level="file" id="id141">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1838</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains drafts of the wills of Maria (Hallett) Tallmadge and Sarah Hallett.</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id142">
+    <did>
+        <unittitle>Other contracts and agreements</unittitle>
+    </did>
+<c03 level="file" id="id143">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1780-1784</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains agreements related to the formation and finances of Benjamin Tallmadge &amp; Co.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id144">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1785-1787</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains agreements related to Benjamin Tallmadge &amp; Co. and to land transactions.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id145">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1788</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains documents concerning land transactions and a service contract between Benjamin Tallmadge and Cash Africa.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id146">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1790-1791</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains documents concerning William Burrall&#039;s bankruptcy; a partnership between Benjamin Tallmadge and Julius Deming; and a lottery dispute.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id147">
+    <did>
+		<container type="Folder">5</container>
+        <unitdate>1793-1794</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id148">
+    <did>
+		<container type="Folder">6</container>
+        <unitdate>1795</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id149">
+    <did>
+		<container type="Folder">7</container>
+        <unitdate>1797</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+
+</c01>
+<c01 level="series" id="id137">
+    <did>
+        <unittitle>Financial papers</unittitle>
+        <unitdate>1778-1835</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Series 3, arranged by type of material, consists of Tallmadge&#039;s financial papers: accounts, account books, letterbooks, bills, and receipts.</p>
+    	</scopecontent>
+<c02 level="subseries" id="id150">
+    <did>
+        <unittitle>Accounts</unittitle>
+    </did>
+<c03 level="file" id="id151">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1779-1789</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains accounts for the privateering brig Middletown.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id152">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1813, 1820</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains list of lots in Ohio belonging to Benjamin Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id153">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1821-1822</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id154">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1831</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id155">
+    <did>
+		<container type="Folder">5</container>
+        <unitdate>1835</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains appraisal and inventory of Benjamin Tallmadge&#039;s estate.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id156">
+    <did>
+		<container type="Folder">6</container>
+        <unitdate>n. d.</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id157">
+    <did>
+		<container type="Folder">7</container>
+        <unitdate>n. d.</unitdate>
+    </did>
+
+</c03>
+<c03 level="item" id="id232">
+    <did>
+        <unittitle>Account book (oversize)</unittitle>
+        <unitdate>1788-1790</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Account book of Benjamin Tallmadge &amp; Co.  See oversize box (currently housed in 3B-Box 99).</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="item" id="id233">
+    <did>
+        <unittitle>Account book (oversize)</unittitle>
+        <unitdate>1805-1808</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Account book of Benjamin Tallmadge &amp; Co.  See oversize box (currently housed in 3B-Box 100).</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="item" id="id234">
+    <did>
+        <unittitle>Account book (oversize)</unittitle>
+        <unitdate>1807-1832</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Account book of Benjamin Tallmadge &amp; Co.  See oversize box (currently housed in 3B-Box 100).</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="item" id="id231">
+    <did>
+        <unittitle>Letterbook (oversize)</unittitle>
+        <unitdate>1806-1811; 1856</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Letterbook of Tallmadge, Smith &amp; Co., containing business letters and orders.  See oversize box (currently housed in 3A-Box 19).</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id158">
+    <did>
+        <unittitle>Bills and receipts</unittitle>
+    </did>
+<c03 level="file" id="id159">
+    <did>
+		<container type="Folder">1</container>
+        <unitdate>1778</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains receipt for sale of share in the privateering brig Middletown.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id160">
+    <did>
+		<container type="Folder">2</container>
+        <unitdate>1779 Jan-Feb</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bills of interest on money borrowed by the United States.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id161">
+    <did>
+		<container type="Folder">3</container>
+        <unitdate>1779 Mar-May</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains receipts related to the sale of shares in the privateering brig Middletown.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id162">
+    <did>
+		<container type="Folder">4</container>
+        <unitdate>1779 Jun-Jul</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bills of interest on money borrowed by the United States.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id163">
+    <did>
+		<container type="Folder">5</container>
+        <unitdate>1779 Aug-Nov</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bills of interest on money borrowed by the United States.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id164">
+    <did>
+		<container type="Folder">6</container>
+        <unitdate>1779 Dec</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bills of interest on money borrowed by the United States.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id165">
+    <did>
+		<container type="Folder">7</container>
+        <unitdate>1780</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bills of interest on money borrowed by the United States.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id166">
+    <did>
+		<container type="Folder">8</container>
+        <unitdate>1781</unitdate>
+    </did>
+    	<scopecontent>
+					<p>French payments for Wadsworth and Carter, members of Charles-René-Dominique Sochet, Chevalier Destouches&#039; squadron.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id167">
+    <did>
+		<container type="Folder">9</container>
+        <unitdate>1783</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Includes bills for payment of wages and clothing during the American Revolution.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id168">
+    <did>
+		<container type="Folder">10</container>
+        <unitdate>1784</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains bill of sale for a slave named Prince to Benjamin Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id169">
+    <did>
+		<container type="Folder">11</container>
+        <unitdate>1785</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id170">
+    <did>
+		<container type="Folder">12</container>
+        <unitdate>1787</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Includes contract documenting sale of a slave girl named Jane to Benjamin Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id171">
+    <did>
+		<container type="Folder">13</container>
+        <unitdate>1789</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id172">
+    <did>
+		<container type="Folder">14</container>
+        <unitdate>1790</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id173">
+    <did>
+		<container type="Folder">15</container>
+        <unitdate>1794</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id174">
+    <did>
+		<container type="Folder">16</container>
+        <unitdate>1796</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id175">
+    <did>
+		<container type="Folder">17</container>
+        <unitdate>1797</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id176">
+    <did>
+		<container type="Folder">18</container>
+        <unitdate>1799</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id177">
+    <did>
+		<container type="Folder">19</container>
+        <unitdate>1834</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Bill for board and tuition for Catherine Tallmadge.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id178">
+    <did>
+		<container type="Folder">20</container>
+        <unitdate>undated</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Includes inventory of cargo of the ship Nancy, taken as a prize by the ship Mars.</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+
+</c01>
+<c01 level="series" id="id179">
+    <did>
+        <unittitle>Miscellany</unittitle>
+        <unitdate>1783-1834</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Series 4, arranged chronologically, consists of Tallmadge&#039;s miscellaneous papers, which include numerous original poems; diplomas and certificates; and documents concerning Tallmadge&#039;s interest in pensions for army officers after the war.</p>
+    	</scopecontent>
+<c02 level="file" id="id190">
+    <did>
+		<container type="Folder">1</container>
+        <unittitle>Address to army</unittitle>
+        <unitdate>1783</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Copy of George Washington&#039;s Newburgh Address.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id191">
+    <did>
+		<container type="Folder">2</container>
+        <unittitle>Order passed by Congress</unittitle>
+        <unitdate>1783</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Concerns payments to the army.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id192">
+    <did>
+		<container type="Folder">3</container>
+        <unittitle>Resolutions</unittitle>
+        <unitdate>1792</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Printed list of resolutions of a meeting of the Connecticut Proprietors in the Ohio Company&#039;s purchase.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id193">
+    <did>
+		<container type="Folder">4</container>
+        <unittitle>Proceedings</unittitle>
+        <unitdate>1795</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Pamphlet documenting proceedings of the state committee in the sale of the Western Reserve.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id188">
+    <did>
+		<container type="Folder">5</container>
+        <unittitle>Land surveys</unittitle>
+        <unitdate>1791, 1814</unitdate>
+    </did>
+
+</c02>
+<c02 level="file" id="id194">
+    <did>
+		<container type="Folder">6</container>
+        <unittitle>Memo</unittitle>
+        <unitdate>1800</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Concerning Benjamin Tallmadge&#039;s share in the Ohio Company.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id195">
+    <did>
+		<container type="Folder">7</container>
+        <unittitle>Eulogy</unittitle>
+        <unitdate>1805</unitdate>
+    </did>
+    	<scopecontent>
+					<p>For Mary (Hallett) Tallmadge.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id180">
+    <did>
+		<container type="Folder">8</container>
+        <unittitle>Poetry by Benjamin Tallmadge</unittitle>
+        <unitdate>1808</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains &quot;The Sick Saint&#039;s Meditation,&quot; with reference to Mrs. Hallett; and &quot;A Hymn.&quot;</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id280">
+    <did>
+		<container type="Folder">9</container>
+        <unittitle>Church seating plan (oversize)</unittitle>
+        <unitdate>1813</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Seating chart of Litchfield Meeting-House.  See largest oversize box.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id196">
+    <did>
+		<container type="Folder">10</container>
+        <unittitle>Certificates</unittitle>
+        <unitdate>1811, 1816</unitdate>
+    </did>
+    	<scopecontent>
+					<p>John Paine Cushman&#039;s certificate to practice as attorney, and as solicitor in the Court of Chancery in New York.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id181">
+    <did>
+		<container type="Folder">11</container>
+        <unittitle>Poetry by Benjamin Tallmadge</unittitle>
+        <unitdate>1809-1822</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains &quot;An Ode Written on New Years Morning&quot;; Reflections for the 25th of Feby. 1811,&quot; on his sixtieth birthday; and &quot;Lines Written Subsequent to the Funeral of Miss Helen Peck.&quot;</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id197">
+    <did>
+		<container type="Folder">12</container>
+        <unittitle>Circular</unittitle>
+        <unitdate>1822</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Printed circular addressed to former students of Tapping Reeve, asking for donations.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id235">
+    <did>
+		<container type="Folder">13</container>
+        <unittitle>Certificates (oversize)</unittitle>
+        <unitdate>1807-1825</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Contains Benjamin Tallmadge&#039;s naval commission signed by James Monroe; and John Paine Cushman&#039;s Yale University diploma and certificate to practice as counsellor in New York.  See oversize box.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id198">
+    <did>
+		<container type="Folder">14</container>
+        <unittitle>Revolutionary claims</unittitle>
+        <unitdate>1828</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Printed letter, with Benjamin Tallmadge&#039;s reply, concerning an act for the relief of surviving officers and soldiers of the army of the Revolutionary War.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id186">
+    <did>
+		<container type="Folder">15</container>
+        <unittitle>Lines written on the death...</unittitle>
+        <unitdate>1831</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Anonymous poem on the death of Lieut. Benjamin Tallmadge, Jr.</p>
+    	</scopecontent>
+
+</c02>
+<c02 level="file" id="id187">
+    <did>
+		<container type="Folder">16</container>
+        <unittitle>Marche des Marseillois</unittitle>
+        <unitdate>n. d.</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Anonymous poem.</p>
+    	</scopecontent>
+
+</c02>
+
+</c01>
+<c01 level="series" id="id199">
+    <did>
+        <unittitle>Frederick A. Tallmadge papers</unittitle>
+        <unitdate>1811-1864</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Series 5 consists of the papers of Benjamin Tallmadge&#039;s son, Frederick Augustus Tallmadge.  Many of the letters concern Frederick Tallmadge&#039;s publication of his father&#039;s memoirs.  Others record, and express appreciation for, Tallmadge&#039;s public service in New York and in Congress.
+</p>
+					<p>The first subseries, Tallmadge&#039;s correspondence, is arranged alphabetically by correspondent.  The second subseries, Tallmadge&#039;s miscellaneous papers, are arranged in chronological order.</p>
+    	</scopecontent>
+<c02 level="subseries" id="id200">
+    <did>
+        <unittitle>Correspondence</unittitle>
+        <unitdate>1840-1864</unitdate>
+    </did>
+<c03 level="file" id="id201">
+    <did>
+		<container type="Folder">1</container>
+        <unittitle>Baldwin, Robert</unittitle>
+        <unitdate>1854, 1861</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id202">
+    <did>
+		<container type="Folder">2</container>
+        <unittitle>Bancroft, George</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id203">
+    <did>
+		<container type="Folder">3</container>
+        <unittitle>Beebe, W. R. et. al.</unittitle>
+        <unitdate>1853</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id204">
+    <did>
+		<container type="Folder">4</container>
+        <unittitle>Beers (?), S. P.</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id205">
+    <did>
+		<container type="Folder">5</container>
+        <unittitle>Boardman, D. S.</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id206">
+    <did>
+		<container type="Folder">6</container>
+        <unittitle>Boynton, E.</unittitle>
+        <unitdate>1862</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id207">
+    <did>
+		<container type="Folder">7</container>
+        <unittitle>Briggs, George</unittitle>
+        <unitdate>1848</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id208">
+    <did>
+		<container type="Folder">8</container>
+        <unittitle>Crisfield, J.</unittitle>
+        <unitdate>1863</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id209">
+    <did>
+		<container type="Folder">9</container>
+        <unittitle>Crowninshield, Francis</unittitle>
+        <unitdate>1848</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id210">
+    <did>
+		<container type="Folder">10</container>
+        <unittitle>Everett, Edward</unittitle>
+        <unitdate>1848</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id211">
+    <did>
+		<container type="Folder">11</container>
+        <unittitle>Fillmore, Millard, et. al.</unittitle>
+        <unitdate>1840</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id212">
+    <did>
+		<container type="Folder">12</container>
+        <unittitle>Gould, William</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id213">
+    <did>
+		<container type="Folder">13</container>
+        <unittitle>Kilbourne, P. K.</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id214">
+    <did>
+		<container type="Folder">14</container>
+        <unittitle>Lossing, Benson</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id215">
+    <did>
+		<container type="Folder">15</container>
+        <unittitle>New York State Library</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id216">
+    <did>
+		<container type="Folder">16</container>
+        <unittitle>Prall, W. et. al.</unittitle>
+        <unitdate>1846</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id217">
+    <did>
+		<container type="Folder">17</container>
+        <unittitle>Quincy, Josiah</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id218">
+    <did>
+		<container type="Folder">18</container>
+        <unittitle>Silliman, Benjamin</unittitle>
+        <unitdate>1864</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id219">
+    <did>
+		<container type="Folder">19</container>
+        <unittitle>Smith, Truman</unittitle>
+        <unitdate>1859</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id220">
+    <did>
+		<container type="Folder">20</container>
+        <unittitle>Stuyvesant, Peter</unittitle>
+        <unitdate>1841</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id221">
+    <did>
+		<container type="Folder">21</container>
+        <unittitle>Suydam, Lambert</unittitle>
+        <unitdate>1840</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id222">
+    <did>
+		<container type="Folder">22</container>
+        <unittitle>Thistlecoss (?), Robert</unittitle>
+        <unitdate>1848, 1859</unitdate>
+    </did>
+
+</c03>
+
+</c02>
+<c02 level="subseries" id="id223">
+    <did>
+        <unittitle>Miscellany</unittitle>
+        <unitdate>1811-1853</unitdate>
+    </did>
+<c03 level="file" id="id224">
+    <did>
+		<container type="Folder">1</container>
+        <unittitle>Diploma</unittitle>
+        <unitdate>1811</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id225">
+    <did>
+		<container type="Folder">2</container>
+        <unittitle>Passport</unittitle>
+        <unitdate>1816</unitdate>
+    </did>
+
+</c03>
+<c03 level="file" id="id226">
+    <did>
+		<container type="Folder">3</container>
+        <unittitle>Certificate</unittitle>
+        <unitdate>1848</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Admitting F. A. Tallmadge to attorney and counselor of the United States Supreme Court.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id227">
+    <did>
+		<container type="Folder">4</container>
+        <unittitle>U. S. Congress committee</unittitle>
+        <unitdate>1848</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Formation of committee to escort John Quincy Adams&#039; remains to its place of interment.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id228">
+    <did>
+		<container type="Folder">5</container>
+        <unittitle>List of subscribers</unittitle>
+        <unitdate>1853</unitdate>
+    </did>
+    	<scopecontent>
+					<p>List of subscribers for a set of plate to be presented to F. A. Tallmadge as Recorder of New York City.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id229">
+    <did>
+		<container type="Folder">6</container>
+        <unittitle>Speech</unittitle>
+        <unitdate>n. d.</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Speech concerning the interment of John Quincy Adams&#039; remains.</p>
+    	</scopecontent>
+
+</c03>
+<c03 level="file" id="id3031">
+    <did>
+		<container type="Folder">7</container>
+        <unittitle>Smith, John Cotton</unittitle>
+        <unitdate>1812 Jul 27</unitdate>
+    </did>
+    	<scopecontent>
+					<p>Letter from Hartford to Hon. Judson Canfield requesting that a meeting of the Council of State be held in the absence of the governor. Frederick A. Tallmadge married Eliza Canfield, daughter of Judson Canfield of Sharon, Conn.</p>
+    	</scopecontent>
+
+</c03>
+
+</c02>
+
+</c01>
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS -->
+</archdesc>
+</ead>

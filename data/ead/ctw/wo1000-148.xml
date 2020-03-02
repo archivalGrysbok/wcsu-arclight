@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-148::World War I Service Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/wo1000-148.html">wo1000-148</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the World War I Service Records,
+		<lb/><date normal="1919/1922">1919 - 1922</date>
+		</titleproper>
+        <author>Processed by: Anna Martin; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: July 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the World War I Service Records, <date type="span">1919 - 1922</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">World War I Service Records, <unitdate normal="1919/1922" type="inclusive">1919 - 1922</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-148</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">1.75</extent></physdesc><physdesc label="Archival Boxes"><extent>4</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">During World War I, Wesleyan had a brief period when it adopted several programs to train students to become soldiers and officers. Wesleyan had a total of 1,169 men involved in the war effort, of whom 26 died. The majority of Wesleyan men were involved in the Army, S.A.T.C., and Navy.</abstract><abstract encodinganalog="520">After the war was over, the Wesleyan Alumni Council sent a form requesting military service records of students and alumni involved in the war. These forms were intended to be published as a permanent memorial to those who served. However no evidence that this book was ever produced has been found. The men who completed these forms filled out basic biographical information, information about their service in the war, and offered their opinions on such issues such as universal training and how their education at Wesleyan had benefitted them during the war. </abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], World War I Service Records, Collection #1000-148, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired between 1919 and 1922.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Anna Martin, June 2008</p>
+        <p>Encoded by Valerie Gillispie, July 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>In January 1916, Wesleyan University first started an elective course in military science. Once the United Stated entered the war in April 1917, Wesleyan established an infantry unit of the Reserve Officers Training Corps (R.O.T.C.) and a Certificate of Military Training. This certificate was a three year course designed for students under 21 years of age to become officers in the national army. Major Henry Sollet Wygant, U.S.A (retired) was the professor of Military Science and Tactics.  </p>
+      <p>In August 1918 the draft age dropped from 21 to 18.  The university immediately adopted the Student Army Training Corps (S.A.T.C.), which the War Department created to replace the R.O.T.C program. This program allowed the students to continue with their education as well as prepare them for warfare. It divided their courses into five areas of study correlated to the different branches of the military. Group A included infantry, artillery, and machine gun; Group B, aviation; Group C, quartermaster corps; Group D, chemical warfare services; and Group E, truck and transport services. The students were divided into four groups according to their age: Class I- 20 year olds, Class II- 19 year olds, Class III-18 year olds, and Class IV were volunteers who were under 18 years of age. However once the armistice with Germany was signed on November 11, 1918, the Wesleyan S.A.T.C. demobilized starting on December 10 and was completed by December 20, 1918. On January 2, 1919 the university reopened with all work on a civilian status.
+</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>After World War I was over, the Wesleyan Alumni Council sent a form requesting military service records of students and alumni involved in the war. These forms were meant to be published as a permanent memorial to those who served. However, no evidence that this book was ever produced has been found. Wesleyan had a total of 1,169 men involved in the war effort, of whom 26 died. The majority of Wesleyan men were involved in the Army, S.A.T.C., and Navy. A few of the specific occupations were as chaplains, ambulance drivers, quartermasters, pilots, and engineers of chemical warfare. </p> 
+<p>The first page of the form requested basic biographical information of each man: name, address, marriage status, education, and occupation before entry into service. The middle section asked for the War Record: Date entered in service, location of training, promotions, location where stationed abroad, date of when they first went into action, injuries, date discharged from service, and occupation after the war. On the back of the form, sent to those who survived the war, was a questionnaire asking about their impressions on the war, what mental/physical effects they had, how their Wesleyan education benefited them, and their feelings toward universal training. The forms also requested that they send additional documents: a photo of themselves before the war and a photo of them in military uniform. Very few actually sent in photos. Among those who did was Captain Frank E. Wing, class of 1900, who made an album of the Red Cross in France from March 1918 to February 1919. There are also many letters of correspondence between Arthur B. Haley, who was in charge of creating this collection, and those who filled out the forms. The widow of Joseph H. Hefflon, class of 1894, transcribed a collection of letters from her husband and other YMCA men that were stationed with her husband. The letters tell her husband's story of immediately being torpedoed once shipped out, the way he served as a father figure and the respect that he developed with the other men, and then finally of his dying of pneumonia.</p><p>Of those who completed the questionnaire, almost all of the responses to the first question indicated a sense of patriotism, duty, and pride in enlisting to help their country. Many wrote that they regretted not signing up sooner. The most common responses to how Wesleyan benefited them were: training through R.O.T.C. and S.A.T.C., athletics, math, and languages. Philip Prescott Frost, class of 1902, wrote: <emph render="doublequote">Hazing is a good introduction to the military discipline. Two fraternity brothers saved my life by getting me away from my officers and from the front after I was gassed and had gone back too soon. Credit Psi U.</emph></p><p>Many who were in favor of universal military training cite it as good for the nation so long as the U.S. did not follow the German model of militarism common at this time. More than a dozen cited the Swiss model as a positive idea. A certain percentage, despite their patriotism, had strong feelings against universal military training. One example is Theodore Foster Comstock, class of 1913. Although he said he would not have <emph render="doublequote">missed it for anything</emph> he did not believe in universal military training: <emph render="doublequote">Believe in maintaining a reasonable standing army of men fit for nothing else, but not in wasting the time of better men in training for war or in risking the development of a desire for war in the minds of men with military knowledge for which they have no immediate use.</emph></p><arrangement><head>Collection Arrangement</head><p>Items are arranged in alphabetical order by last name.
+</p></arrangement></scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+      <subject source="lcsh" encodinganalog="650">World War, 1914-1918--Connecticut.</subject>
+      <corpname source="lcsh" encodinganalog="610">World War, 1914-1918--Education and the war.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Army. Students’ Army Training Corps.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Army--History--World War, 1914-1918.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy--History--World War, 1914-1918.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>World War I Service Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>A</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Ba-Bl</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Bo-Bu</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Ca-Cl</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Co-Cu</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>D</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>E</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>G</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Ha-He</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Hi-Hu</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>I</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>J</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>K</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>L</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>M</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>N</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>O</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>P</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Q</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>R</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Sa-So</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Sp-Sw</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>T</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>U</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>V</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>W</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Wesleyan's Honor Roll (Died in Service)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>Publications and materials about World War I</unittitle>
+          </did>
+          <scopecontent>
+            <p>Some of these items are Wesleyan-related, but many are not.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS19960011</eadid>
+
+<filedesc>
+
+      <titlestmt>
+            <titleproper>James M. Hill Papers</titleproper>
+            <subtitle/>
+            <author>Finding aid prepared by Tara Murphy.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>&#x00A9; 2004  University of Connecticut</publisher>
+            <date type="publication">April 2004</date>
+            <address>
+               <addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1>
+               <addressline2>405 Babbidge Road, Unit 1205</addressline2>
+               <addressline3>Storrs, Connecticut  06269-1205</addressline3>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Betsy Pittman in April 2004.</creation>
+         <langusage>
+            <language>English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20040323">March 23, 2004</date>
+            <item>MSS19960011 converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="Inventory">
+      <did id="a1">
+         <head>Overview of the Collection</head>
+         <repository label="Repository:" encodinganalog="852$a">
+            <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.</repository>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Hill, James M.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245$a">James M. Hill Papers.</unittitle>
+         <unitdate label="Dates:">1831-1888.</unitdate>
+         <physdesc label="Extent:" encodinganalog="300$a">.75 linear feet.</physdesc>
+         <abstract encodinganalog="520$a" label="Abstract:">The James M. Hill Papers consist primarily of the business records of Mr. Hill's store in North Madison, Connecticut. </abstract>
+         <unitid encodinganalog="090" label="Record Series:" countrycode="US" repositorycode="UCW">MSS19960011</unitid>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did>
+<!-- TOP LEVEL METADATA GO HERE: -->
+      <bioghist altrender="biography" encodinganalog="545" id="a2">
+         <head>Biography</head>
+         <p>
+            <persname>James M. Hill</persname> (<date>1809-1889</date>) owned a store in <geogname>North Madison, Connecticut</geogname>.  He was also a constable.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520" id="a3">
+         <head>Scope and Content</head>
+         <p>The <persname>James M. Hill</persname> Papers consist primarily of the business records of his store in <geogname>North Madison, Connecticut</geogname>.  The records include account books and  business ledgers. Nine account books cover the period 1832-1842, one business ledger tracks accounts by names of customers, and a second lists alcoholic beverages sold. The papers also contain an account book for the schooner "Baltic," a mathematics workbook, bills and receipts, legal papers documenting Hill's work as a constable, and miscellaneous papers including tax and donation lists.</p>
+      </scopecontent>
+      <arrangement encodinganalog="351$a" id="a4">
+         <head>Organization</head>
+         <p>
+            <emph render="bold">Series I: Store Financial Records</emph> (<date>1832-1844</date>) include account books and business ledgers. Nine account books cover the period 1832-42, one business ledger tracks accounts by names of customers, and a second lists alcoholic beverages sold.</p>
+         <p>
+            <emph render="bold">Series II: Financial Records</emph> (<date>undated, 1831-1886</date>) contains an account book for the schooner "Baltic," and various bills and receipts.</p>
+         <p>
+            <emph render="bold">Series III: Personal and Legal Papers</emph> (<date>undated, 1836-1888</date>) contains a mathematics workbook, legal papers documenting Hill's work as a constable, and other papers including tax and donation lists.</p>
+      </arrangement>
+      <relatedmaterial encodinganalog="544 1" id="a6">
+         <head>Related Material</head>
+         <p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to Connecticut history and business records, see especially the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Account/MSS19790001.html">Account Books Collection</extref>.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=4">curator</extref> or ask at the reference desk.</p>
+
+      </relatedmaterial><!-- END TOP LEVEL METADATA --><!-- CONTROLLED ACCESS TERMS GO HERE: -->
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>This record series is indexed under the following controlled access subject terms.
+</p>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname encodinganalog="700" source="local">Hill, James M.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Places:</head>
+            <geogname encodinganalog="651" source="local">North Madison, Conn.</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject encodinganalog="650" source="local"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655" source="local">Financial Records.</genreform>
+            <genreform encodinganalog="655" source="local">Legal Records.</genreform>
+         </controlaccess>
+         <controlaccess>
+            <head>Occupations:</head>
+            <occupation encodinganalog="656" source="local">Constable.</occupation>
+            <occupation encodinganalog="656" source="local">Merchant.</occupation>
+         </controlaccess>
+      </controlaccess><!-- END CONTROLLED ACCESS TERMS --><!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>There are no access restrictions on this collection.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+      </userestrict>
+      <prefercite encodinganalog="510" id="a18">
+         <head>Preferred Citation</head>
+         <p>[Item description, #:#], <persname>James M. Hill</persname> Papers.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>
+         </p>
+      </prefercite>
+      <acqinfo encodinganalog="541" id="a19">
+         <head>Acquisition Information</head>
+         <p>The papers were purchased from <corpname>Cedric Robinson Booksellers</corpname> in August  1996.</p>
+      </acqinfo><!-- END ADMINISTRATIVE INFORMATION --><!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+      <dsc type="combined" id="a23">
+         <head>Detailed Description</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Series I:  Store Financial Records, <unitdate>1832-1844</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">1:1</container>
+                  <unittitle>Day Book, <unitdate>1832-1834</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:2</container>
+                  <unittitle>Day Book, <unitdate>1834-1835</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:3</container>
+                  <unittitle>Day Book, <unitdate>1835 March - June</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:4</container>
+                  <unittitle>Day Book (Liquor only), <unitdate>1835 March - September</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:5</container>
+                  <unittitle>Day Book, <unitdate>1835-1836</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:6</container>
+                  <unittitle>Day Book, <unitdate>1836 January - June</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:7</container>
+                  <unittitle>Day Book, <unitdate>1836-1838</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:8</container>
+                  <unittitle>Day Book, <unitdate>1839-1840</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:9</container>
+                  <unittitle>Day Book, <unitdate>1840-1842</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">1:10</container>
+                  <unittitle>Ledger, <unitdate>1836-1844</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:11</container>
+                  <unittitle>Ledger (Liquor sales), <unitdate>1835-1837</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Financial Records, <unitdate>undated, 1831-1886</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">2:12</container>
+                  <unittitle>Account book for the schooner "Baltic", <unitdate>1831-1832</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:13</container>
+                  <unittitle>Bills and receipts, <unitdate>undated, 1835-1886</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III:  Personal and Legal Papers, <unitdate>undated, 1836-1888</unitdate>
+               </unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="Box">2:14</container>
+                  <unittitle>Legal papers, <unitdate>1836-1868</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:15</container>
+                  <unittitle>Mathematics workbook, <unitdate>undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="Box">2:16</container>
+                  <unittitle>Papers, <unitdate>undated, 1853-1888</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc><!-- End Description of Subordinate Components-->
+   </archdesc>
+</ead>

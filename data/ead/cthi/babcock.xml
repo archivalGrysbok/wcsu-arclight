@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" mainagencycode="CtHi" url="http://www.chs.org/finding_aides/finding_aids/babcock.html">babcock</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Babcock Family papers</titleproper>
+        <subtitle encodinganalog="245$b">A Guide to the collection at the Connecticut
+                    Historical Society </subtitle>
+        <author>Compiled by CHS Staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Connecticut Historical Society</publisher>
+        <address>
+          <addressline>1 Elizabeth Street</addressline>
+          <addressline>Hartford, CT 06105</addressline>
+        </address>
+        <p>Copyright 2011, Connecticut Historical Society</p>
+        <date>March 2011</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Created by CHS Staff, <date>March 2011</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <head>Collection Overview</head>
+      <repository encodinganalog="852$a" label="Repository:">
+        <corpname>Connecticut Historical
+                    Society,
+                </corpname>
+        <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+      </repository>
+      <origination encodinganalog="100" label="Creator :">Babcock family.</origination>
+      <unittitle encodinganalog="245$a" label="Title :">Babcock Family Papers</unittitle>
+      <unitdate encodinganalog="245$f" label="Dates : ">1788-1859</unitdate>
+      <physdesc encodinganalog="300$a" label="Extent :">
+        <extent>1 linear foot (2
+                    boxes)</extent>
+      </physdesc>
+      <physloc label="Location:" altrender="Location :">Ms 14532</physloc>
+      <langmaterial encodinganalog="546">English</langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Sketch</head>
+      <p>Elisha Babcock (1753-1821), his brother John Babcock, Jr. (1764-1843), and John's
+                son, Sidney Babcock (1797-1884) all worked in the printing and publishing business
+                in Connecticut. In addition to printing books, the Babcocks worked as publishers and
+                wholesalers to booksellers out of state including New York, South Carolina,
+                Louisiana and the West Indies. </p>
+      <p>John Babcock, Sr. son of John and Sarah (Billings) Babcock, was born in Milton (now
+                Quincy), Massachusetts on August 25, 1731. He married Rachel Adams in 1753. She was
+                born on January 6, 1732 in Milton, and was a cousin to John Adams, the second
+                President of the United States. They had ten children: Lucretia (August 13,
+                1755-September 25, 1824), who married William Brewer of Wilbraham, Massachusetts; Mary (born
+                August 20, 1757), who married Zenas Bliss of Springfield, Massachusetts on September
+                25, 1824; Abigail (born February 11, 1762), who married Mr. Gardner of
+                Massachusetts; Sarah (Sally), who married Ephraim Grant of Tolland, Connecticut;
+                Rachel (born November 25, 1770), who married Dr. Nathaniel Hooker; Reuhama (or
+                Ruhamah), who died unmarried; Samuel (born February 18, 1760), who married Miss Cone
+                of Bolton, Connecticut; Andrew (April 19, 1773-March 29, 1789), who died unmarried
+                at age seventeen; and two sons who joined him in the family business, John and
+                Elisha. The Babcocks moved to Hartford soon after the Revolution, and John went into
+                the printing business. John Babcock joined the second Church in Hartford in 1791 and
+                became a Deacon. He died of cancer on January 4, 1796 at age 65, and he is buried in
+                the Ancient Burying Ground in Hartford with his son Andrew. His wife Rachel Babcock
+                died in Springfield on April 17, 1813 at the age of 81.</p>
+      <p>John's eldest son, Elisha Babcock, was born in Milton, Massachusetts on August 10,
+                1753. As a young man Elisha settled in Springfield, Massachusetts where he published
+                the <emph render="italic">Hampshire Gazette</emph> for several years. He served during the Revolution, earning
+                the rank of Major. In 1787, Elisha left Springfield for Hartford, Connecticut to
+                establish a weekly paper with Joel Barlow (1754-1812), <emph render="italic">American Mercury</emph>, that for many years was the leading Democratic paper
+                in the state. The paper published both literary and political pieces, and was
+                closely associated with the Hartford Wits (originally called the Connecticut Wits).
+                The group had formed in the late eighteenth century as a literary society at Yale
+                College. The members were conservative federalists who wrote in verse satirizing an
+                outmoded curriculum, society and politics. Members included Joel Barlow and John
+                Trumbull. The Wits advocated a strong central government and attacked such
+                proponents of democratic liberalism as Thomas Jefferson. Elisha continued as the
+                proprietor and publisher of the paper for 37 years until his death. Elisha Babcock
+                and Joel Barlow were also partners in the one of the first paper mills in
+                Connecticut. Elisha Babcock died on April 7, 1821 at age 68. He is buried in
+                Hartford at the Old South Cemetery of the Second Congregational Church with his
+                wife, Dolly Babcock, who died on June 6, 1832 at the age of 75.</p>
+      <p>Elisha's brother, John Babcock, was also born in Milton, Massachusetts in early 1764. He married Sidney Rogers (born 1752) of Philadelphia and he was
+                connected to the Public Press of Philadelphia in the same year as the marriage. They
+                had seven children, including Jane, the eldest who died unmarried in New Haven;
+                Sidney the eldest son, who had six children of his own; William who married
+                Elizabeth Jane Chisholm, a native of Virginia; Mary Ann, who married George Coxall
+                of Island of Grenada, West Indies; and Richard Guyne, who died unmarried.</p>
+      <p>John Babcock, Jr. came to Hartford about 1793 and started working as a printer and
+                publisher of educational and juvenile books under the name of John Babcock &amp; Co.
+                He moved his family and business to New Haven in 1803, where his firm continued to
+                print and sell chapbooks, children's literature, hymnals and educational books,
+                including several of Noah Webster's spellers. Babcock was in business with a New
+                Haven bookseller known as Increase Cook &amp; Co. for several years until Cook's
+                death in 1814.</p>
+      <p>As his sons came of age, they joined the family business. At some point in the early
+                1800s the name of the firm changed to Babcock &amp; Sons, when John formed a
+                partnership with his sons Sidney Babcock and William R. Babcock. Younger sons Henry
+                and Thomas also worked for the family business. Many of the daughters married men
+                who did business with the Babcocks in one way or another. John's son-in-law, Zenas
+                Bliss of Springfield, was in the paper business, and son-in-law George Coxall
+                imported books to the West Indies.</p>
+      <p>The firm of John Babcock &amp; Son was dissolved on April 2, 1825, although the name
+                of the old firm was legally used until September of 1826. In 1825, John's sons
+                Sidney, William R. and Henry L. Babcock formed a new firm, Babcock &amp; Co., to
+                continue the book publishing and stationary business. John Babcock left New Haven,
+                living in Baltimore and Washington until he died. Sons Sidney and Henry Babcock
+                remained in New Haven, while John's middle son, William R. Babcock, continued to
+                operate from Charleston, South Carolina. Thomas Babcock stayed in Connecticut and
+                took over the printing business.</p>
+      <p>John's eldest son Sidney Babcock was born in Hartford in 1797, and grew up in New
+                Haven. He married Susan Thompson in Stratford, Connecticut, on February 7, 1820.
+                Sidney lived in New Haven and managed the firm through trying economic times
+                following the depression of 1837. Sidney Babcock died at his home on High Street in
+                New Haven on July 29, 1884 at the age of 87.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520$a">
+      <head>Scope and Content</head>
+      <p>The Babcock papers include business and family correspondence covering the years
+                1788-1859 from several members of the family who lived in Hartford and New Haven,
+                Connecticut. The Babcocks were printers, publishers and booksellers. The bulk of the
+                collection consists of the mercantile business papers of publisher Elisha Babcock,
+                his brother John Babcock, and John's son, Sidney Babcock. They are represented as
+                individuals and in business relationships, including Babcock &amp; Son, Cook &amp;
+                Babcock, and Babcock &amp; Co. Each series includes Correspondence (primarily
+                business, but with some personal content as well), Legal Records (including leases
+                and deeds for property), and Financial Records. Represented in the Financial Records
+                are both business and personal orders, bills and invoices, paid receipts, accounts,
+                inventories, and promissory notes.</p>
+      <p>The correspondence files contain letters of the family members and their customers
+                and suppliers, some of whom were related to the family. Within John Babcock's
+                correspondence is a personal letter written to his daughter Rachel in 1832, one to
+                his son William in 1831, and another to his son Henry in 1833. </p>
+      <p>Bills and receipts for items purchased by the Babcock family also appear in the
+                papers. There are bills documenting the purchase of fabric such as Fustian, calico
+                and mourning chintz, apron tapes and tamboring, and an 1803 bill from Elisha Faxon
+                for silk, buttons and brown linen. A bill from "Mrs. Turner" for making a "cote" and
+                a bill from Timothy Dodd for "Making a coat &amp; 3 Vests" as well as bills for
+                repairing shoes, for cutting girls' hair, for veterinarian Dr. Asa Allyn including
+                fourteen gallons of molasses used for worming a horse are included. There are also
+                bills for repairing a cradle and an 1813 bill for the lease of a church pew at
+                Trinity Episcopal Church in New Haven.</p>
+      <p>Accounts document grocery purchases including molasses, rum, flour, tamarinds and
+                pineapples and Louchong tea. They purchased dry goods such as silk gloves, tin
+                graters, a coffee pot, wineglasses and chamber pots. There are bills for shad and
+                "Turkinsland salt," as well as bills from the cooper who made the barrels to hold
+                them. Several paid bills for children's schooling and for dancing lessons are among
+                the papers, including bills from Miss Sally Goodwin of Hartford, Polley Butler (for
+                schooling Miss Jane and Miss Rachel (Babcock) in 1796 and 1798), as well as a 1798
+                bill to John Babcock from Mrs. Marsh for "Instructing your little daughter 12 wks."
+                Also of note is a bill from Mr. John White, "Tuition, Miss Jane Babcock," and an
+                invoice from Stephen Dodge for "schooling a boy".</p>
+      <p>The correspondence also documents the business partnership of John Babcock and
+                Increase Cook, a bookseller in New Haven, Connecticut. The names of notable New
+                Haven citizens, such as J. Barbour, [Timothy] Dwight, and "Morse's father, Mr.
+                Burr," are all mentioned in an 1803 letter.</p>
+      <p>A series of letters written to Sidney Babcock from his brother-in-law and business
+                partner, George Coxall, who lived in St. Bart's in the West Indies cover family,
+                business, and local news and politics from 1829-1833, and 1837. An 1831 letter
+                describes a revolt by slaves on Martinique where 300 were killed and plantations
+                were burned. George Coxall was married to Sidney's sister, Mary Ann Babcock. Their
+                two school-age daughters were living in New Haven under the guardianship of the
+                Babcock family.</p>
+      <p>The correspondence and business records document the daily activities of the book
+                printing and publishing business including orders for linen and marbled papers used
+                in book binding, bills for folding and sewing of books. Books were ordered from
+                various booksellers around the state of Connecticut as well as in New York, South
+                Carolina, and New Orleans, Louisiana. Linen was ordered from Simeon Butler of
+                Northampton, Massachusetts and marbled papers were ordered from the Norwich,
+                Connecticut firm Sherry and Porter, manufacturers and importers of "Ream Marble
+                Paper"; samples of their marbled paper from 1802 may be found in John Babcock's
+                correspondence. </p>
+    </scopecontent>
+    <accessrestrict>
+      <head>Access Restrictions</head>
+      <p>There are no restrictions on access to the collection.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Use Restrictions</head>
+      <p>Use of the material requires compliance with the Connecticut Historical Society's
+                Research Center regulations.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Item, Collection Title, Collection number (Box #, Folder #). Connecticut Historical
+                Society, Hartford, Connecticut.</p>
+    </prefercite>
+    <processinfo>
+      <head>Processing Details</head>
+      <p>Collection was processed by Elizabeth Blakelock in 2010.</p>
+      <p>EAD Finding Aid created March 2011.</p>
+    </processinfo>
+    <accruals>
+      <head>Accruals</head>
+      <p>The collection is closed.</p>
+    </accruals>
+    <controlaccess>
+      <head>Subject Headings</head>
+      <controlaccess>
+        <head>Personal Names</head>
+        <persname encodinganalog="600">Babcock, James -- Childhood and youth.</persname>
+        <persname encodinganalog="700">Babcock, Charles.</persname>
+        <persname encodinganalog="700">Babcock, Elisha.</persname>
+        <persname encodinganalog="700">Babcock, James.</persname>
+        <persname encodinganalog="700">Skinner, Whiting.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650">Printers -- Connecticut -- Hartford.</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Geographic Names</head>
+        <geogname encodinganalog="651">United States -- Politics and government.</geogname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <head>Contents:</head>
+      <c01 level="series">
+        <did>
+          <unitid>I. Elijah Babcock</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1802-1813</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Promissory Notes, <unitdate type="inclusive">1790</unitdate>
+                            <unitdate type="inclusive">1806</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Legal, Deed, <unitdate type="inclusive">1788</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Financial Accounts, <unitdate type="inclusive">1795-1805</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Financial, Bills and Receipts, <unitdate type="inclusive">1795-1806</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Financial Bills, Receipts and Orders, <unitdate type="inclusive">1807-1820</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>II. John Babcock</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1796-1797</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1802</unitdate>
+                            (Includes samples of marbled paper)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1803</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1804</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1805</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1807</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1809</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1813-1819</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1820-1824</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1831-1833</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Legal Agreement, <unitdate type="inclusive">1796</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Legal Agreement, <unitdate type="inclusive">1803-1826</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Legal Lease, <unitdate type="inclusive">1813</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Legal Deeds, <unitdate type="inclusive">1808-1819</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Legal Contact, Partnership Dissolution, <unitdate type="inclusive">1825</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Financial Promissory Note, <unitdate type="inclusive">1803</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">23</container>
+            <unittitle>Financial Accounts, <unitdate type="inclusive">1798-1816</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">24</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1795-1796</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1797</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">26</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1798</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">27</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1799-1802</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1803</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">29</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1804-1813</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">30</container>
+            <unittitle>Financial Bills and Receipts, <unitdate type="inclusive">1814-1822</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>III. Sidney Babcock</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">31</container>
+            <unittitle>Correspondence, Henry Babcock, <unitdate type="inclusive">1829-1868</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">32</container>
+            <unittitle>Correspondence, George Coxall, <unitdate type="inclusive">1829-1833</unitdate>
+                            <unitdate type="inclusive">1837</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">33</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1826-1834</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">34</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1837-1839</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">35</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1843</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">36</container>
+            <unittitle>Correspondence, 184436</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">37</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1845-1846</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">38</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1847-1849</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">39</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1850-1851</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">40</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1852</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">41</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1853-1856</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">42</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1857-1859</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">43</container>
+            <unittitle>Correspondence, <unitdate type="inclusive">1859-1869</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">44</container>
+            <unittitle>Legal Agreements, Personal, <unitdate type="inclusive">1829-1832</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">45</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1825</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">46</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1826-1829</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">47</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1839-1833</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">48</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1834-1837</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">49</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1840-1842</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">50</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1845-1846</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">51</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1847-1853</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">52</container>
+            <unittitle>Legal Agreements, <unitdate type="inclusive">1855-1861</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">53</container>
+            <unittitle>Legal Inventory, <unitdate type="inclusive">1840-1845</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">54</container>
+            <unittitle>Legal Judgment</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">55</container>
+            <unittitle>Legal Notice to Quit, <unitdate type="inclusive">1858</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">56</container>
+            <unittitle>Legal Circular</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">57</container>
+            <unittitle>Legal Decision, <unitdate type="inclusive">1835</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">58</container>
+            <unittitle>Legal Lease, <unitdate type="inclusive">1820</unitdate>
+                            21</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">59</container>
+            <unittitle>Financial Accounts, <unitdate type="inclusive">1826-1858</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">60</container>
+            <unittitle>Financial Advertisement, <unitdate type="inclusive">1858</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">61</container>
+            <unittitle>Financial Bills, Receipts, Orders, Exchanges, <unitdate type="inclusive">1827-1836</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">62</container>
+            <unittitle>Financial Bills, Receipts, <unitdate type="inclusive">1838</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">63</container>
+            <unittitle>Financial Bills, Receipts, <unitdate type="inclusive">1848-1859</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">64</container>
+            <unittitle>Genealogy, printed</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

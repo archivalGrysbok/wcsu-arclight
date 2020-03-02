@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ccsu.xsl" type="text/xsl"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://library.ccsu.edu/cpaaead/ead.dtd">
+
+<ead>
+<eadheader langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" audience="internal" id="head" relatedencoding="MARC21">
+
+  <eadid mainagencycode="US-ctnbt" 
+    url="https://library.ccsu.edu/cpaaead/cpaa8775.xml" identifier="cpaa8775">cpaa8775</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">Polish American Citizens Club records<lb/>
+<date>1938-1971</date>
+<lb/>
+<num>CPAA 87-75</num>
+</titleproper>
+<subtitle>Finding Aid</subtitle>
+<author encodinganalog="245$c">Finding aid prepared by Renata Vickrey</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="260$b">Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University, New Britain</publisher>
+<address>
+<addressline>New Britain, Conn.</addressline>
+</address>
+<date encodinganalog="260$c" normal="2008">2010</date>
+<p>&#x00A9; Central Connecticut State University. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation encodinganalog="500">Finding aid derived from a paper written inventory in MSWord<date>1998</date>
+</creation>
+<langusage>Finding aid written in <language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<frontmatter id="front">
+<titlepage>
+<publisher>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University
+</publisher>
+<titleproper>Polish American Citizens Club records</titleproper>
+<subtitle>Finding Aid</subtitle>
+<num>CPAA 87-75</num>
+<author encodinganalog="24500$c">Processed by Renata Vickrey </author>
+<date>April 2010</date>
+<p>&#x00A9; 2010 Central Connecticut State University. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" relatedencoding="MARC21">
+<did id="main">
+<head>Collection Overview</head>
+
+<origination label="Creator" encodinganalog="100">
+<corpname>Polish American Citizens Club</corpname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">Polish American Citizens Club records</unittitle>
+<unitdate type="inclusive" normal="1927-2008">1938-1971</unitdate>
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="us-ctnbt">CPAA 87-75</unitid>
+<physdesc label="Quantity:">
+<extent encodinganalog="300$a">6 box</extent>
+<extent encodinganalog="300$a">(3 linear ft.)</extent>
+</physdesc>
+<repository label="Location:">
+<corpname>Connecticut Polish American Archives, Elihu Burritt Library, Central Connecticut State University</corpname>
+</repository>
+<abstract encodinganalog="520$a">The Polish American Citizens Club from New Britain, Connecticut was established 
+in 1932.  The club was open to people of Polish and Slavic descent and the club's mission was to 
+provide financial support to members in times of sickness.  The collection illustrates club's 
+activities from 1932 till 1973.</abstract>
+<langmaterial><language langcode="eng">English</language><language langcode="pol">Polish</language></langmaterial>
+</did>
+<bioghist id="bioghist">
+<head>Historical/Biographical Note</head>
+<p>The Polish American Citizens Club was established in April 1932 in New Britain, Connecticut.  
+Initial organizers of the club were Jan Zamoyski, Boleslaw Deptula, Hieronim Kulak, Aleksander 
+David and Boleslaw Kragiel.  The club was incorporated in February 1937.  Membership in the club 
+was open to men and women of Polish and Slavic descent.  The main mission of the club was to 
+provide financial assistance to members and their families in time of sickness and financial hardship.</p>
+</bioghist>
+
+<scopecontent id="scope">
+<head>Scope and Contents of the Collection</head>
+<p>The collection contains the constitution (1932), financial and tax records from the Polish American 
+Citizen Club from 1947 to 1964.  It also includes membership applications and information 
+from 1939 to 1956 and insurance policy from the years 1947 to 1956.</p>
+</scopecontent>
+
+
+<accessrestrict id="admin-access">
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+<prefercite id="admin-cite">
+<head>Preferred Citation</head>
+<p><emph render="italic">Cite as</emph>: Polish American Citizens Club records(CPAA 87-75). Connecticut Polish American Archives, Central Connecticut State University, New Britain.</p>
+</prefercite>
+
+<acqinfo id="admin-acqinfo">
+<p>Material in the collection was donated to the Connecticut Polish American Archives in 1987.</p>
+</acqinfo>
+
+<processinfo><p>Material was processed by Ewa Wolynska.</p></processinfo>
+
+<controlaccess id="subj">
+<head>Search Terms</head>
+<corpname encodinganalog="710">Polish American Citizens Club (New Britain, Conn.)</corpname>
+<subject encodinganalog="650" source="lcsh">Polish Americans -- Connecticut.</subject>
+<subject encodinganalog="650" source="lcsh">Polish Americans -- Connecticut -- Societies, etc.</subject> 
+<genreform encodinganalog="655" source="aat">Membership cards.</genreform>
+<genreform encodinganalog="655" source="aat">Financial statements.</genreform>
+</controlaccess>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Material in the collection is arranged by date.</p>
+</arrangement>
+<dsc type="in-depth">
+<head>Container List</head>
+<p>[The following section contains a detailed listing of the materials in the collection.]</p>
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Balance sheets and check receipts booklets.</unittitle>
+<unitdate>1955-1964</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>January - April 1956</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August 1956</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December 1956</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Financial records.</unittitle>
+<unitdate> January - April 1957</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August 1957</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December 1957</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Financial records.</unittitle>
+<unitdate> January - April 1958</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August 1958</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December 1958</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Financial records.</unittitle>
+<unitdate> January - April 1959</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August 1959</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December 1959</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Financial records.</unittitle>
+<unitdate> January - April, 1960</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August 1960</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December, 1960</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Financial records.</unittitle>
+<unitdate> January - April, 1961</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August, 1961</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December 1961</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>January - April, 1962</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August, 1962</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December, 1962</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>January - April, 1963</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August, 1963</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December, 1963</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>January - April, 1964</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>May - August, 1964</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>Financial records.</unittitle>
+<unitdate>September - December, 1964</unitdate>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Tax and insurance records and forms.</unittitle> 
+<unitdate>1947-1951</unitdate>  
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>Tax and insurance records and forms.</unittitle>
+<unitdate>1952-1953</unitdate> 
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>Tax and insurance records and forms.</unittitle>
+<unitdate>1954-1956</unitdate>    
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>Constitution of the Polish American Citizen Club.</unittitle>
+<unitdate>1938</unitdate> 
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>Membership applications.</unittitle>
+<unitdate>1939-1955</unitdate>    
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>Membership applications.</unittitle>
+<unitdate>1941-1956.</unitdate> 
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>Membership applications.</unittitle>
+<unitdate>1968-1973</unitdate>    
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>Active members list.</unittitle>
+<unitdate>1948</unitdate> 
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>Warranty Deed for Beaver St. property.</unittitle> 
+<unitdate>1947</unitdate>   
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Blank membership applications.</unittitle>
+</did>
+</c01>
+<c01 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Postcards with meetings information send to the Polish American Citizens Club.</unittitle> 
+<unitdate>1956,1965</unitdate>  
+</did>
+</c01>
+
+</dsc>
+</archdesc>
+</ead>
+
+
+

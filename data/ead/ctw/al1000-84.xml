@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-84::Alumni Council Collection of Recollections)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/al1000-84.html">al1000-84</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Alumni Council Collection of Recollections,
+		<lb/><date normal="1939/">1939 - 1946</date>
+		</titleproper>
+        <author>Processed by: Anna Martin; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2009" encodinganalog="date">© 2009</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: March 2009</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Alumni Council Collection of Recollections, <date type="span">1939 - 1946</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2009">© 2009</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Alumni Council Collection of Recollections, <unitdate normal="1939/1946" type="inclusive">1939 - 1946</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-84</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.5</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">After the Wesleyan centennial celebration in 1931, a few alumni began documenting their memories of Wesleyan. In 1939, the Alumni Council set up a Committee on the Collection of Recollections, which canvassed alumni for memories of faculty and anecdotes about Wesleyan history.</abstract><abstract encodinganalog="520">This collection contains anecdotes written by Wesleyan alumni from the classes of 1859 to 1936. Major topics include their experiences with former Wesleyan professors, pranks performed with their classmates, the burning of North College in 1906, and the arrival of  women on campus in 1872.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Alumni Council Collection of Recollections, Collection #1000-84, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Transferred from the Alumni Council between 1939 and 1946.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Anna Martin, March 2009</p>
+        <p>Encoded by Valerie Gillispie, March 2009</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>After the Wesleyan centennial celebration in 1931, a few alumni began documenting their memories of Wesleyan. In 1939, the Alumni Council set up a Committee on the Collection of Recollections, which canvassed alumni for memories of faculty and anecdotes about Wesleyan history. These were to be preserved in the archives and were considered for publication in the <title render="italic">Alumnus</title>. After receipt and consideration they were sent to Olin Library.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This collection contains anecdotes written by Wesleyan alumni from the classes of 1859 to 1936. Major topics include their experiences with former Wesleyan professors, pranks performed with their classmates, the burning of North College in 1906, and the arrival of  women on campus in 1872. Some sample reminscences:</p>
+      <p><emph render="bold">Herbert L. Connelly, class of 1909:</emph> The frequenters of the front porches of Beta Theta Pi, Alpha Delta Phi, Eclectic, and Psi Upsilon after many and sundry observations during a period extending over month and even years finally came to the brilliant conclusion that Professor Armstrong, while en route from his home to Fisk Hall, had developed a custom, either consciously or unconsciously, of telegraphing to the world his plans of the ensuing class session. It was all a question of what clothes and decorations the Professor had on as he passed these hot beds of research. Hundreds of observations had proved to these young savants beyond all peradventure of a doubt that <emph render="doublequote">Army's</emph> plan to give a lecture or hold a recitation were indicated as follows:</p>
+      <p>Dark Coat, lights trousers, and jewelry across the vest = Lecture</p>
+      <p>Light Coat, dark trousers, and no jewelry across the vest = Recitation</p>
+      <p>The students planned accordingly.</p>
+      <p><emph render="bold">M. Eugene Culver, class of 1875</emph>: I do not wish to close these rambling recollections without speaking of the first girls who came to college. My class of '75, of course, entered in 1871, but in 1872 the first co-eds were entered in college. There were four of them: Jennie Larned, Phebe Almeda Stone, Hannah Ada Taylor and Angie Villette Warren. I used to feel sorry for them because they could not join any of the fraternities, and have the pleasure that the rest of us enjoyed. They roomed somewhere on William Street and used to go parading up the College walks to recitations two by two. All I could thing of was the old song about Noah building an ark and <emph render="doublequote">put in the animals two by two, the elephant and the kangaroo.</emph> They were good scholars, all of them. Jennie Larned, the youngest girl, from Tennessee, who used to wear her hair flowing down her back in very luxuriant style, reminded me of a Shetland pony with his mane hanging down. As I recall it, she came nearest to having the highest marks of anybody in the class, but I believe that George Coleman exceeded her by a small margin. All of the other girls made Phi Beta Kappa, and Phebe Stone got first grade, the same as Jennie Larned. Co-education was not popular with our class. Some of the boys were very outspoken with reference to it; but one of them, Leonard L Beeman, married Phebe Almeda Stone. He afterwards became a minister and went to Vermont. It was currently reported that, if he was indisposed when Sunday came, Phebe Almeda went into the pulpit and preached for him. </p>
+      <p><emph render="bold">Nelson C. Hubbard, class of 1892</emph>: Anyone who was in college when Woodrow Wilson was there will remember his interest in the football team and his habit of carrying a wrapped umbrella which he used as a cane. In those days sparring ability served linesmen in good stead, and we were not always able to measure up to the quality with which our much larger opponents would be equipped. Those were the days, by the way, when signals were given, not in numbers but in phrases, and when one of our most energetic and efficient rushers, on receiving the ball, would automatically stop, throw his cap on the ground, and then proceed bareheaded on his diligent way. The first time I ever saw Woodrow to know him was at a football game, when he was excitedly marching up and down opposite the line-up, and when his uncapped fellow was slugged and knocked flat, he completely lost his temper, flourished his umbrella-cane in the air, and loudly yelled, <emph render="doublequote">Kill him! Kill him!</emph> I remembered this a good many years later when he was scheduled to address the New York Wesleyan alumni group on <emph render="doublequote">Peace</emph> or some such matter, and I planned to attend and confront him with his record, but was unable to go.</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Materials are arranged alphabetically according to last name of the alumni.
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Buildings.</corpname>
+      <subject source="lcsh" encodinganalog="650">Coeducation--Connecticut--Middletown.</subject>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01><did><unittitle/></did><scopecontent><p>Students are listed along with their year of graduation. An "n" before the year indicates that the student did not graduate.</p></scopecontent><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>General file</unittitle></did><scopecontent><p>Alumni and topic index, letters of receipt, and original petition.</p></scopecontent></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Two unidentified submissions, classes of 1901 and early 1890s</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Adams, Charles Collard, 1859</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>Barton, Arthur Willis, n1902</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">6</container><unittitle>Bennett, Sanford T., 1910</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5</container><unittitle>Blaine, Edward L., 1886</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">7</container><unittitle>Blichfeldt, Emil H., 1909</unittitle></did></c02>		
+<c02><did><container type="Box">1</container><container type="Folder">8</container><unittitle>Buschek, Hermannus Augustus, 1901</unittitle></did></c02>		
+<c02><did><container type="Box">1</container><container type="Folder">9</container><unittitle>Butler, Charles E., 1922</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">10</container><unittitle>Chase, O.H., 1908</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">11</container><unittitle>Chasey, Joseph W., 1907</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">12</container><unittitle>Clarke, John S., 1907</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">13</container><unittitle>Coffin, Seward V., 1889</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">14</container><unittitle>Connelly, Herbert L, 1909</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">15</container><unittitle>Crooks, Thomas R., 1889</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">16</container><unittitle>Culver, M Eugene, 1875</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">17</container><unittitle>Douglas, Edward C., Middletown resident</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">18</container><unittitle>Field, Edwin A, 1907</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">19</container><unittitle>Frost, Philip, 1902</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">20</container><unittitle>Galloway, Franklin A., 1892</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">21</container><unittitle>Gardiner, George W., 1889</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">22</container><unittitle>Goodrich, Charles G., 1893</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">23</container><unittitle>Gray, Edward, 1908</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">24</container><unittitle>Hartman, Lee F., 1901</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">25</container><unittitle>Heermans, Harry C., 1875</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">26</container><unittitle>Henshaw, John R., n1890</unittitle></did></c02>	
+<c02><did><container type="Box">1</container><container type="Folder">27</container><unittitle>Hubbard, Nelson C., 1892</unittitle></did></c02>	
+<c02><did><container type="Box">1</container><container type="Folder">28</container><unittitle>Leffingwell, Alsop, 1880</unittitle></did></c02>	
+<c02><did><container type="Box">1</container><container type="Folder">29</container><unittitle>Lewis, Carroll H., n1917</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">30</container><unittitle>Martin, William Wallace, 1874</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">31</container><unittitle>Matton, Wilbur R., 1899</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">32</container><unittitle>McConaughy, James L. Jr., 1936</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">33</container><unittitle>Miller, Floyd J., 1907</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">34</container><unittitle>Noble, Francis O., 1917</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">35</container><unittitle>Opdyke, George H., 1890</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">36</container><unittitle>Paine, John Gregg, 1909</unittitle></did></c02>		
+<c02><did><container type="Box">1</container><container type="Folder">37</container><unittitle>Partch, Arthur W., 1889</unittitle></did></c02>		
+<c02><did><container type="Box">1</container><container type="Folder">38</container><unittitle>Price, Carl F., 1902</unittitle></did></c02>	
+<c02><did><container type="Box">1</container><container type="Folder">39</container><unittitle>Pruden, A. Sears, 1914</unittitle></did></c02>			
+<c02><did><container type="Box">1</container><container type="Folder">40</container><unittitle>Richards, Theodore, 1888</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">41</container><unittitle>Robins, Joshua L., 1906</unittitle></did></c02>		
+<c02><did><container type="Box">1</container><container type="Folder">42</container><unittitle>Saxe, Alfred J., n1894</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">43</container><unittitle>Selden, Leonard J., 1908</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">44</container><unittitle>Shelden, Warren F., 1899</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">45</container><unittitle>Smith, Clarence R., 1899</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">46</container><unittitle>Stevenson, Jesse F., 1885</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">47</container><unittitle>Storrs, Carlos H., 1887</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">48</container><unittitle>Sutherland, Arthur E., 1885</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">49</container><unittitle>Trundle, Henry C., 1921</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">50</container><unittitle>Upham, Francis B., 1885</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">51</container><unittitle>Van Denburg, Joseph K., 1895</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">52</container><unittitle>White, Henry Aldebert, 1904</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">53</container><unittitle>Wilding, Clinton F., 1909</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">54</container><unittitle>Woodruff, Wesley E., 1887</unittitle></did></c02>		
+
+</c01>
+    </dsc>
+  </archdesc>
+</ead>

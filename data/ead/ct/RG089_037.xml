@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG089_037.html" countrycode="us">RG089_037</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 089:037, Commissioners of Steamship Terminals</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">February 04, 2010</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2012</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>February 04, 2010</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Commissioners of Steamship Terminals</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Commissioner of Steamship Terminals records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1915">1915</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1 folder</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Commissioners of Steamship Terminals were empowered, in addition to general liaison assistance in the promotion of water transportation and port development throughout the state,
+ specifically to acquire, own, construct, maintain and operate docks, piers, terminals, equipment, warehouses, etc. "or any other appropriate harbor facilities" in New London, Waterford, Groton, Stonington, Ledyard, Preston, Montville and Norwich.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG089_037</unitid>
+	<unitid label="Accession: ">2002-007</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>In 1909 the Connecticut Rivers and Harbors Commission was appointed per resolution passed by the General Assembly on July 26. In 1911 the Rivers, Harbors and Bridges Commission was established per P.A. chpt. 105. The name was changed in 1939 to Commissioners of Steamship Terminals per 1939 Supp. to the General Statutes s.1059e. The Commissioners were empowered, in addition to general liaison assistance in the promotion of water transportation and port development throughout the state,
+ specifically to acquire, own, construct, maintain and operate docks, piers, terminals, equipment, warehouses, etc. "or any other appropriate harbor facilities" in New London, Waterford, Groton, Stonington, Ledyard, Preston, Montville and Norwich. 
+In October 1969 it merged into the new Department of Transportation becoming the Bureau of Waterways.</p>
+
+<p>See also the <extptr linktype="simple" href="http://www.cslib.org/agencies/steamshipterminals.htm" show="replace" actuate="onrequest" title="Commissioners of Steamship Terminals Agency History"/>.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content</head>
+<p>
+Consists of one publication, <emph render="italic">Connecticut Shipping Terminal at New London </emph>(1915) from the time of the Rivers, Harbors and Bridges Commission and seven photographs
+showing the progress of hydraulic work from August to October 1915. 
+</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>None.</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+	<controlaccess>
+		<head>Organizations:</head>
+			<corpname encodinganalog="710" role="subject" source="lcnaf">Connecticut. Rivers, Harbors and Bridges Commission </corpname>
+			<corpname encodinganalog="710" role="subject" source="lcnaf">Connecticut. Commissioners of Steamship Terminals</corpname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Harbors -- Connecticut -- New London </subject>
+			<subject encodinganalog="650" source="lcsh">Shipping -- Connecticut -- New London </subject>
+	</controlaccess>
+	
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Photographs</genreform>
+	</controlaccess>
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="file">
+ <did>
+	<container type="Box">shared box</container>
+	<unittitle>Connecticut shipping terminal at New London / by W. E. Clark, Resident Engineer</unittitle>
+	<unitdate datechar="creation">1915</unitdate>
+	<physdesc><extent>1 item + 7 photographs (1 folder)</extent></physdesc>
+ </did>	
+	<note><p>Includes transmittal letter, W.E. Clark to Assistant State Comptroller Bissel, 1915 December 21.</p></note>
+	<scopecontent><p>Photographs show progress of hydraulic work from August to October 1915.</p></scopecontent>
+	<note><p>Transferred to Archives from general collection. Formerly catalogued as 974.62 N46393c</p></note>
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

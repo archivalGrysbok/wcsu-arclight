@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.wilburs">beinecke.wilburs</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Susan Wilbur Jones Papers
+ </titleproper>
+            <titleproper type="filing">Jones (Susan Wilbur) Papers</titleproper>
+            <author>by Diana M. Smith and Kathleen Burns</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>October 2006</date>
+            <num>WA MSS S-2350</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Saturday May  4, 2019 at 03:00</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Susan Wilbur Jones papers</unittitle>
+         <unitid>WA MSS S-2350</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.88</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(5 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1873/1970">1873-1970</unitdate>
+         
+         <abstract id="aspace_0ac58cbfd40feac8d1e62b6e745fc81e">Correspondence, diaries, writings, and other papers recording Susan Wilbur Jones' years in Europe, Chicago, and Cambridge, Mass. as a student, editor, author, wife, and mother. In addition to much material on Susan's family life and life as a student, the papers contain references to the Chicago literary world, in which Susan and her husband Llewellyn socialized with Harriet Monroe, Floyd Dell, John Cowper Powys, Edgar Lee Masters, Carl Sandburg, and Mark Turbyfill. The correspondence is arranged into personal correspondence, business correspondence, and personal business correspondence. Principal correspondents include Katherine Lee Bates, and cousins Edward Brigham, E. P. Warren, and Cornelia Warren. Also included is a letter from her mentally ill aunt Susan Rice, and a letter from Gyp Taylor discussing life in Paris in 1932 mentioning Gertrude Stein, Natalie Barney, William Seabrook, and Ford Madox Ford. There are also family letters from Susan's mother and father, mostly dating from 1909 when Susan spent a year in Europe; as well as correspondence to Susan and her mother from Susan's great-aunt, Susan C. Warren, and from Susan's grandmother, Sarah Ann Cook Wilbur. The diaries are dated 1912, 1914-16, 1918-1919, 1921-1924. Writings include "Saint Nicholas Eve" and an incomplete essay entitled "Floyd and Margery Dell Throw a Party!". Other Papers include Isaac Levine's printed poem "The Queen of Elfland's Daughter (A Moon Fantasy)" inscribed to Susan and Llewellyn.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no99077759"
+                      source="naf">
+               Jones, Susan Wilbur, 1893-
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_1d43bc22c7d61eaf5ef0254fecbdd652">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from John Waite Rare Books on the Arthur Corbitt Hoskins Memorial Fund, 1999. Two additions purchased from Greg French-Early Photography on the Ramona Lazare Fund, 2005.</p>  
+      </acqinfo>
+      <userestrict id="aspace_f24d0d7d6571236b9eeb7be7a88264b6">
+         <head>Conditions Governing Use</head>
+         <p>The Susan Wilbur Jones Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_a5f4b3c56912d25ef1de73246e5ea0eb">
+         <head>Preferred Citation</head>
+         <p>Susan Wilbur Jones Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_5effff81e4182d587351c5b108fc91b1">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_fb096181cf05d788a73dabbc21865481">
+         <head>Processing Information</head>
+         <p>Correspondence and other materials acquired in 2005 have been interfiled in the collection. The items includes correspondence from Susan C. Warren to Susan Wilbur Jones and her mother, Ellen G. Wilbur; correspondence from Susan's parents, including a substantial number of letters written during a trip to Europe that Jones took as a teenager; correspondence from Sarah Ann Cook Wilbur and a number of other letters. Folder numbers appended by a letter generally indicate material accessioned in 2005. Additionally, folders 34-37 were also acquired in 2005. Biographical information for Susan Wilbur Jones is drawn from Diana M. Smith's biographical treatment of George W. Wilbur and his family in the finding aid for the George W. Wilbur Family Papers, WA MSS S-1611. The bulk of the Description of Papers and the basic structure of the box and folder listing are based on Diana M. Smith's original description of the papers and container list.</p>  
+      </processinfo>
+      <bioghist id="aspace_b8346e1e5f3d12f7cb07df52ebee222f">
+         <head>SUSAN WILBUR JONES, b. 1893</head>
+         <p>Susan Wilbur Jones, daughter of George W. Wilbur (1851-1931) and Ellen Rice Wilbur (d. 1932) of Chicago, was born in Oak Park, Illinois on January 6, 1893. She attended the public schools in Oak Park and Wellesley College from 1909 to 1913, where she boarded with Katharine Lee Bates, majored in Greek and English Literature, and was elected Phi Beta Kappa.</p>
+         <p>Upon graduation, she returned to Chicago and attended the University of Chicago, receiving a Master of Arts in English Literature in 1914. She began her career in literature by reviewing books for Llewellyn Jones, literary editor of the <title type="simple" render="italic">
+               Chicago Evening Post
+            </title>.</p>
+         <p>In March 1917, Susan Wilbur married Llewellyn Jones. They had three children: Llewellyn, born in 1919; Cornelia, born in 1920; and George, born in 1930. Susan's sons both attended Harvard; her daughter Cornelia was mentally ill and was institutionalized at any early age.</p>
+         <p>From 1917 to 1922 Susan was assistant editor of <title type="simple" render="italic">
+               Poetry
+            </title>, literary editor of the <title type="simple" render="italic">
+               Continent
+            </title>, and staff editor of Comptons' <title type="simple" render="italic">
+               Pictured Encyclopedia's
+            </title> volume on the ancient Mediterranean world. From 1923 to 1933 she joined her husband at the <title type="simple" render="italic">
+               Chicago Evening Post
+            </title> as associate literary editor of the newly established book supplement. During this time she also served as literary editor for <title type="simple" render="italic">
+               Child Life
+            </title>, and for the <title type="simple" render="italic">
+               Chicagoan
+            </title>.</p>
+         <p>Susan Wilbur Jones had been a supervisor of the Illinois WPA Writer's Project for three years in 1938 when her husband accepted the editorship of the <title type="simple" render="italic">
+               Christian Register
+            </title> in Boston. She moved her household and returned to school to pursue a masters in Slavic Languages from Radcliffe College. She received her degree in 1944.</p>
+         <p>Susan wrote several short works, as well as a history entitled <title type="simple" render="italic">
+               Egypt and the Suez Canal
+            </title> (Chicago, 1925). She began a career in translation with the <title type="simple" render="italic">
+               Satyricon of Petronius Arbiter
+            </title> in 1927. A Rockefeller grant obtained upon receiving her degree enabled her to translate Gudzy's <title type="simple" render="italic">
+               History of Early Literature
+            </title> in 1949, which she followed with a translation of Romanov's <title type="simple" render="italic">
+               Russia in Manchuria
+            </title> (Ann Arbor, 1952). She switched to Japanese in the 1950s and translated <title type="simple" render="italic">
+               Ages Ago: Thirty-seven Tales from the Konjaku Monogatari Collection
+            </title> (Cambridge, 1959).</p>
+         <p>In her later years, Susan kept house in Cambridge for her youngest son George, and dabbled in translating. She died November 25, 1969.</p>  
+      </bioghist>
+      <scopecontent id="aspace_8cc6b1701fb7b4ddacc06c52d1148829">
+         <head>Scope and Contents</head>
+         <p>The Susan Wilbur Jones Papers consist of correspondence, diaries, writings, and other papers documenting Susan Wilbur Jones' years in Chicago and Cambridge, Mass. as a student, editor, wife, and mother. In addition to much material on Susan's family life and life as a student, the papers contain references to the Chicago literary world, in which Susan and her husband Llewellyn socialized with Harriet Monroe, Floyd Dell, John Cowper Powys, Edgar Lee Master, Carl Sandburg, and Mark Turbyfill.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref11">Series I. <title type="simple" render="italic">
+                  Correspondence
+               </title> 
+            </ref> is arranged into personal correspondence, business correspondence, and personal business correspondence. Principal correspondents include Katherine Lee Bates, and cousins Edward Brigham, E. P. Warren, and Cornelia Warren. Also included is a letter from her mentally ill aunt Susan Rice, and a letter from Gyp Taylor discussing life in Paris in 1932 mentioning Gertrude Stein, Natalie Barney, William Seabrook, and Ford Madox Ford. There are also letters written by Susan's mother and father during her youth. The bulk of parental correspondence in this collection is related to a 1909 trip Susan took to Europe at age sixteen. The letters reference Susan's travels and report on family life in Illinois, often inquiring about missing letters or packages. During this 1909 trip Jones sent her family in Illinois her diaries to keep them informed about her life abroad. There is also a significant collection of correspondence from Susan's great-aunt, Susan C. Warren, primarily to Susan's mother ("Nellie"), though letters to Susan and Susan's grandmother, Susan Caroline Warren Rice, are present. Warren's letters are filled with family news and inquiries, commiseration and sympathetic updates about health matters, and reference to travels abroad in Europe and Egypt. There is also a set of advice-filled letters to Susan and her mother from Susan's paternal grandmother, Sarah Ann Cook Wilbur.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref35">Series II. <title type="simple" render="italic">
+                  Diaries
+               </title> 
+            </ref> consists of eight individual volumes. The diaries document the years 1912, 1914-1916, 1918-1919, 1921-1924.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref45"> Series III. <title type="simple" render="italic">
+                  Writings
+               </title> 
+            </ref> include "Saint Nicholas Eve" and an incomplete essay entitled "Floyd and Margery Dell Throw a Party!"</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref50">Series IV. <title type="simple" render="italic">
+                  Other Papers
+               </title> 
+            </ref> includes Isaac Levine's printed poem "The Queen of Elfland's Daughter (A Moon Fantasy)" inscribed to Susan and Llewellyn as well as a bound illustrated booklet published by Dorothy M. Prescott in Belmont, Massachusetts, in 1958, which tells the story of the Warren family of Waltham, Massachusetts, and how the Girl Scouts became entrusted with the Warren Mansion House and 76 acres of family land. Several items were originally interlaid in this volume, including a note to Susan Jones from the Cambridge School about George's school supplies.</p>  
+      </scopecontent>
+      <controlaccess>
+         <geogname source="local">
+            Chicago (Ill.) -- Intellectual life
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85098065"
+                   source="lcsh">
+            Paris (France) -- Intellectual life
+         </geogname>
+         <genreform source="local">
+            Diaries -- United States
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040976"
+                  source="lcsh">
+            Editors
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79021406"
+                   source="naf">
+            Barney, Natalie Clifford, 1877-1972
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50006336"
+                   source="naf">
+            Bates, Katharine Lee, 1859-1929
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no00029811"
+                   rules="aacr"
+                   source="naf">
+            Brigham, Edward H.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50039055"
+                   rules="aacr"
+                   source="naf">
+            Dell, Floyd, 1887-1969
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79045085"
+                   source="naf">
+            Ford, Ford Madox, 1873-1939
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr2002010666"
+                   rules="aacr"
+                   source="naf">
+            Jones, Llewellyn, 1884-1961
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no99077759"
+                   source="naf">
+            Jones, Susan Wilbur, 1893-
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79043575"
+                   rules="aacr"
+                   source="naf">
+            Levine, Isaac Don, 1892-1981
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50044141"
+                   source="naf">
+            Masters, Edgar Lee, 1868-1950
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50003790"
+                   rules="aacr"
+                   source="naf">
+            Monroe, Harriet, 1860-1936
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78092876"
+                   source="naf">
+            Powys, John Cowper, 1872-1963
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79011105"
+                   source="naf">
+            Sandburg, Carl, 1878-1967
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87125947"
+                   source="naf">
+            Seabrook, William, 1884-1945
+         </persname>
+         <persname rules="aacr" source="local">
+            Taylor, Gyp
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86025697"
+                   rules="aacr"
+                   source="naf">
+            Turbyfill, Mark, 1896-1990
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n92090859"
+                   source="naf">
+            Warren, Edward Perry, 1860-1928
+         </persname>
+         <persname rules="aacr" source="local">
+            Warren, Susan C., 1813-1893
+         </persname>
+         <persname source="local">
+            Wilbur, Ellen Rice, -1932
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr00034123"
+                   rules="aacr"
+                   source="naf">
+            Wilbur, George W. (George Willis), 1851-1931
+         </persname>
+         <persname source="local">
+            Wilbur, Sarah Ann Cook, 1864-1904
+         </persname>
+         <famname rules="aacr" source="local">
+            Wilbur family -- Archives
+         </famname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n83028985"
+                   source="naf">
+            Wellesley College -- Students
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.83</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(2 boxes)</physdesc>
+               <unitdate type="inclusive">1873-1970</unitdate>
+            </did>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>PERSONAL</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Bates, Katherine Lee</unittitle>
+                     <unitdate type="inclusive">1913-25</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_326c15e798d0a74ce0d1e42d97fd4163"
+                                type="box">1</container>
+                     <container id="aspace_a7052fd3fdf217a82288006008c65d5a"
+                                type="folder"
+                                parent="aspace_326c15e798d0a74ce0d1e42d97fd4163">1</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Brigham, Edward</unittitle>
+                     <unitdate type="inclusive">1943-61, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_29d266e6b74741834f7ed62fe0dc7db8"
+                                type="box">1</container>
+                     <container id="aspace_a42d89cbb489a6b7a291c7dbc91f4cc9"
+                                type="folder"
+                                parent="aspace_29d266e6b74741834f7ed62fe0dc7db8">2-3</container>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Drake, Dorothy L.</unittitle>
+                     <unitdate type="inclusive">[1914-17]</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_69ea9704196833794a63847cf68093ae"
+                                type="box">1</container>
+                     <container id="aspace_368776d1db54efb4fb99f96352b319cd"
+                                type="folder"
+                                parent="aspace_69ea9704196833794a63847cf68093ae">4</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Rice, Susan W.</unittitle>
+                     <unitdate type="inclusive">[1916 Dec 23]</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_f92beb9565e2ab06aee6b411b3547b23"
+                                type="box">1</container>
+                     <container id="aspace_fdd2bb4cd81a74b6be8382cb735e2ece"
+                                type="folder"
+                                parent="aspace_f92beb9565e2ab06aee6b411b3547b23">5</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Warren, E. P.</unittitle>
+                     <unitdate type="inclusive">1917-28</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_cae1de1a9c05d782a5edeb9183c3f88f"
+                                type="box">1</container>
+                     <container id="aspace_d4af89718ad72b7dabf4e91d929ad0b0"
+                                type="folder"
+                                parent="aspace_cae1de1a9c05d782a5edeb9183c3f88f">6</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Warren, Susan C.</unittitle>
+                     <unitdate type="inclusive">1889-1899, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347329)"
+                                id="aspace_e289e18cd8e3065729133b3d475df0f9"
+                                type="box">1</container>
+                     <container id="aspace_9fbc853de7c184c81ec9ccbd0cb3e841"
+                                type="folder"
+                                parent="aspace_e289e18cd8e3065729133b3d475df0f9">6a-d</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Wilbur, Ellen G. ("Mamma")</unittitle>
+                     <unitdate type="inclusive">1892-1909</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_b0a3d06127ac90f69efba838310f9daa"
+                                type="box">2a</container>
+                     <container id="aspace_712254d192efd33306cdd62e702a3b64"
+                                type="folder"
+                                parent="aspace_b0a3d06127ac90f69efba838310f9daa">6e</container>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Wilbur, George W. ("Papa")</unittitle>
+                     <unitdate type="inclusive">1896-1909</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_9e73264c2a9e883ac69feb56be4966c5"
+                                type="box">2a</container>
+                     <container id="aspace_80e206e465ee81c17d19cce1e3a3c18e"
+                                type="folder"
+                                parent="aspace_9e73264c2a9e883ac69feb56be4966c5">6</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Wilbur, Sarah Ann Cook</unittitle>
+                     <unitdate type="inclusive">1892-1898, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_0a6ced4dd2910c770dbf8bd73773567d"
+                                type="box">2a</container>
+                     <container id="aspace_47c5ad5ba12e84452e6168d9f6dee6d6"
+                                type="folder"
+                                parent="aspace_0a6ced4dd2910c770dbf8bd73773567d">6g</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Correspondence with others</unittitle>
+                     <unitdate type="inclusive">1874-[70], n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_b0a6bddf9126e810b76215d718cb164b"
+                                type="box">2a</container>
+                     <container id="aspace_0a6b6a5f172b276921f2745c9649d874"
+                                type="folder"
+                                parent="aspace_b0a6bddf9126e810b76215d718cb164b">6h-10</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Invitations and Christmas cards</unittitle>
+                     <unitdate type="inclusive">1873-46, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_2478610c952972cae9ca7668153d4417"
+                                type="box">2a</container>
+                     <container id="aspace_95d675f73859d04107eca7121c235cb7"
+                                type="folder"
+                                parent="aspace_2478610c952972cae9ca7668153d4417">11</container>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Other personal correspondence</unittitle>
+                     <unitdate type="inclusive">1928 Feb 27</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_11e93fa81d583ea94fb6dd42626291a0"
+                                type="box">2a</container>
+                     <container id="aspace_86373e7cb6e99633070edb003c9bf4e9"
+                                type="folder"
+                                parent="aspace_11e93fa81d583ea94fb6dd42626291a0">12</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref26" level="subseries">
+               <did>
+                  <unittitle>PERSONAL BUSINESS</unittitle>
+               </did>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1892-42</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_f6218b5516eb5c163fac1e806004ea7a"
+                                type="box">2a</container>
+                     <container id="aspace_c8bab2f0ee849c601801a3d753921191"
+                                type="folder"
+                                parent="aspace_f6218b5516eb5c163fac1e806004ea7a">13</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Letter to Susan W. Rice</unittitle>
+                     <unitdate type="inclusive">1919 Apr 3</unitdate>
+                     <container label="Mixed Materials (39002091347337)"
+                                id="aspace_b6b62d65579205986d39c8c3f5e9b747"
+                                type="box">2a</container>
+                     <container id="aspace_923557b85e27a4f11957dbf46ae14ffb"
+                                type="folder"
+                                parent="aspace_b6b62d65579205986d39c8c3f5e9b747">14</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref29" level="subseries">
+               <did>
+                  <unittitle>PROFESSIONAL BUSINESS</unittitle>
+               </did>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1919-47, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347345)"
+                                id="aspace_c69bbc1f127231e9d40add0414e6787c"
+                                type="box">2</container>
+                     <container id="aspace_8a7f3685ce8194d060044a3d54924fc5"
+                                type="folder"
+                                parent="aspace_c69bbc1f127231e9d40add0414e6787c">15</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Letter to Llewellyn Jones</unittitle>
+                     <unitdate type="inclusive">1955 Jun 15</unitdate>
+                     <container label="Mixed Materials (39002091347345)"
+                                id="aspace_ab48708b60debeb7a94c9f5c5b9d0177"
+                                type="box">2</container>
+                     <container id="aspace_e79d9a42429988b8178b228e2a7d1ccc"
+                                type="folder"
+                                parent="aspace_ab48708b60debeb7a94c9f5c5b9d0177">16</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref32" level="subseries">
+               <did>
+                  <unittitle>THIRD-PARTY CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>TLS from Eugene M. Caffrey to Suburban Family Laundry</unittitle>
+                     <unitdate type="inclusive">1923 Sep 25</unitdate>
+                     <container label="Mixed Materials (39002091347345)"
+                                id="aspace_9b8a0e25f92a87fbc2f9d69eaf16e9b8"
+                                type="box">2</container>
+                     <container id="aspace_d8b4912e039ad0903bb063f25321291b"
+                                type="folder"
+                                parent="aspace_9b8a0e25f92a87fbc2f9d69eaf16e9b8">16a</container>
+                  </did>
+                  <scopecontent id="aspace_b6d105f4eb144ae59f7e0501651257e1">
+                     <head>Scope and Contents</head>
+                     <p>With envelope and bill for repairs</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c id="ref35" level="series">
+            <did>
+               <unittitle>Diaries</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1912-1924</unitdate>
+            </did>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1912</unitdate>
+                  <container label="Mixed Materials (39002091347345)"
+                             id="aspace_30b49d958105a194b9925bea7b1b140e"
+                             type="box">2</container>
+                  <container id="aspace_d70e511b3e512d13aa078613bd9cb077"
+                             type="folder"
+                             parent="aspace_30b49d958105a194b9925bea7b1b140e">17</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1914-16</unitdate>
+                  <container label="Mixed Materials (39002091347345)"
+                             id="aspace_fee1f38acc4bcb6416a5aeebfbe1ddaf"
+                             type="box">2</container>
+                  <container id="aspace_516b255baff82ef45b7f067b332a8117"
+                             type="folder"
+                             parent="aspace_fee1f38acc4bcb6416a5aeebfbe1ddaf">18</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1918</unitdate>
+                  <container label="Mixed Materials (39002091347345)"
+                             id="aspace_11e2d35877a98785488cec03eae28676"
+                             type="box">2</container>
+                  <container id="aspace_3339f0aa279282aa017570f3d16fb9b0"
+                             type="folder"
+                             parent="aspace_11e2d35877a98785488cec03eae28676">19</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1919</unitdate>
+                  <container label="Mixed Materials (39002091347345)"
+                             id="aspace_14aec91f64161e79854ef9ed44802643"
+                             type="box">2</container>
+                  <container id="aspace_eacb482d078f7bfb97f784f9c5f08625"
+                             type="folder"
+                             parent="aspace_14aec91f64161e79854ef9ed44802643">20</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1921</unitdate>
+                  <container label="Mixed Materials (39002091347352)"
+                             id="aspace_068642100869529b7334b0fc0404c63c"
+                             type="box">3</container>
+                  <container id="aspace_b9308b490cb05254a166c0b9e3dbf418"
+                             type="folder"
+                             parent="aspace_068642100869529b7334b0fc0404c63c">21</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1922</unitdate>
+                  <container label="Mixed Materials (39002091347352)"
+                             id="aspace_e436dc99decc5a5fa730292a43bca470"
+                             type="box">3</container>
+                  <container id="aspace_e254851ff89acba2d016e57ed09f4557"
+                             type="folder"
+                             parent="aspace_e436dc99decc5a5fa730292a43bca470">22</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1923</unitdate>
+                  <container label="Mixed Materials (39002091347352)"
+                             id="aspace_a99edbfbe84adfdbd7eedd7a2ee114f6"
+                             type="box">3</container>
+                  <container id="aspace_28d0d1d0b2245732a80d5ba06e3b1bd8"
+                             type="folder"
+                             parent="aspace_a99edbfbe84adfdbd7eedd7a2ee114f6">23</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>Diary</unittitle>
+                  <unitdate type="inclusive">1924</unitdate>
+                  <container label="Mixed Materials (39002091347352)"
+                             id="aspace_1f3497712b4a0d66c192f27a1746d7ec"
+                             type="box">3</container>
+                  <container id="aspace_9e6053ee98b3f4fb2b51106ba3ab0754"
+                             type="folder"
+                             parent="aspace_1f3497712b4a0d66c192f27a1746d7ec">24</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref45" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>"Floyd and Margery Dell Throw a Party! New Year's Eve in the Literary Capital," incomplete typescript, corrected</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_3f28cbaafb7ba270f405a45c35e1e6f9"
+                             type="box">4</container>
+                  <container id="aspace_f67fd2146e95806f12db524d4a20a587"
+                             type="folder"
+                             parent="aspace_3f28cbaafb7ba270f405a45c35e1e6f9">25</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>"Saint Nicholas Eve," typescript, corrected</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_b30de4384d89422535f43c2e0712440e"
+                             type="box">4</container>
+                  <container id="aspace_8e088a01638d7fd0c1f98ad50e9f6b7b"
+                             type="folder"
+                             parent="aspace_b30de4384d89422535f43c2e0712440e">26</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Miscellaneous poetry</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_98e6ddcc976fb22b40d1f4807287ce05"
+                             type="box">4</container>
+                  <container id="aspace_0e694bd9350a3831feb3ed072f72656b"
+                             type="folder"
+                             parent="aspace_98e6ddcc976fb22b40d1f4807287ce05">27</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>Miscellaneous essay and short story fragments</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_3a145aeebaab88c39f11d90fd5fc1272"
+                             type="box">4</container>
+                  <container id="aspace_9b9444912f79b6047f6d74f28d51b4f2"
+                             type="folder"
+                             parent="aspace_3a145aeebaab88c39f11d90fd5fc1272">28</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref50" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series IV</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.21</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1879-1958</unitdate>
+            </did>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Levine, Isaac. <title type="simple" render="italic">
+                        The Queen of Elfland's Daughter (A Moon Fantasy)
+                     </title>
+                  </unittitle>
+                  <unitdate type="inclusive">1951</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_1a89c4c16cc06d554b0d938adaaaade2"
+                             type="box">4</container>
+                  <container id="aspace_412f27e9424aba09ec6db957e8410dcb"
+                             type="folder"
+                             parent="aspace_1a89c4c16cc06d554b0d938adaaaade2">29</container>
+               </did>
+               <scopecontent id="aspace_64eff723282c522821ee7e487ce69daa">
+                  <head>Scope and Contents</head>
+                  <p>Inscribed to Llewellyn and Susan Wilbur Jones by Levine</p>
+               </scopecontent>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Prescott, Dorothy M. "Cornelia Warren and the Story of Cedar Hill"</unittitle>
+                  <unitdate type="inclusive">1958</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_205f7573e2780f7057b67ab2d0e02377"
+                             type="box">4</container>
+                  <container id="aspace_be2b28030486112489a35adc96fd5251"
+                             type="folder"
+                             parent="aspace_205f7573e2780f7057b67ab2d0e02377">29a</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Materials removed from Prescott's "Cornelia Warren and the Story..."</unittitle>
+                  <unitdate type="inclusive">1939-40, n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_22efce88adbe50ca5caab5dbe41ec610"
+                             type="box">4</container>
+                  <container id="aspace_203e21237a8581de392046eb6191a8ff"
+                             type="folder"
+                             parent="aspace_22efce88adbe50ca5caab5dbe41ec610">29b</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>Cancelled check</unittitle>
+                  <unitdate type="inclusive">1916 Oct 30</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_1ea1deea59b1fd61100aa9f3d8769c33"
+                             type="box">4</container>
+                  <container id="aspace_6bdf8f78e30d862a80760e8d0a7b8696"
+                             type="folder"
+                             parent="aspace_1ea1deea59b1fd61100aa9f3d8769c33">30</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Loan document, incomplete</unittitle>
+                  <unitdate type="inclusive">[1930]</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_dde3227650d803aedecb88cd67bfa09f"
+                             type="box">4</container>
+                  <container id="aspace_f23385c02582ac12da098524940bf681"
+                             type="folder"
+                             parent="aspace_dde3227650d803aedecb88cd67bfa09f">31</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Harvard College Library card</unittitle>
+                  <unitdate type="inclusive">1947 Feb 28</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_c6ba91744134ee444bd12cf8cecef8d3"
+                             type="box">4</container>
+                  <container id="aspace_1b20151eba74b4305bfa1f5de72030fa"
+                             type="folder"
+                             parent="aspace_c6ba91744134ee444bd12cf8cecef8d3">32</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>Photograph of two unidentified people</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_6f6cc8c962693c32930a1c34499884c1"
+                             type="box">4</container>
+                  <container id="aspace_35dd4dda0a9088f95abdfa42147d04fb"
+                             type="folder"
+                             parent="aspace_6f6cc8c962693c32930a1c34499884c1">33</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Photograph of a Model T automobile</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_3d939153956e275c3b1c3a607eba0daf"
+                             type="box">4</container>
+                  <container id="aspace_809069132110f849b0bb956abd2ab564"
+                             type="folder"
+                             parent="aspace_3d939153956e275c3b1c3a607eba0daf">34</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Six negatives of unidentified people and places with printed Paul F. Grupe Pharmacist envelope, Oak Park, Ill.</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_d532555141a31a9bcccd72a64401281a"
+                             type="box">4</container>
+                  <container id="aspace_61f47095820a0609b3cc27ad935bf220"
+                             type="folder"
+                             parent="aspace_d532555141a31a9bcccd72a64401281a">35</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Universal Portland Cement Co., <title type="simple" render="italic">
+                        Monthly Bulletin
+                     </title>, no. 88</unittitle>
+                  <unitdate type="inclusive">1911 Sep</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_a00e97dc1f09adda732b6cf017af1c56"
+                             type="box">4</container>
+                  <container id="aspace_5e7dd0072f5f1245a14046caa06a6f00"
+                             type="folder"
+                             parent="aspace_a00e97dc1f09adda732b6cf017af1c56">36</container>
+               </did>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>Headley, Rev. P. C. Memorial poem for Herbert A. Mason, Santa Barbara, Calif.</unittitle>
+                  <unitdate type="inclusive">1879 Mar 18</unitdate>
+                  <container label="Mixed Materials (39002091347360)"
+                             id="aspace_23ff58b3dd694392d6728a72d0b4e720"
+                             type="box">4</container>
+                  <container id="aspace_486a32f71286ccbfc7543ed90a985844"
+                             type="folder"
+                             parent="aspace_23ff58b3dd694392d6728a72d0b4e720">37</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG074_033.html" countrycode="us">RG074_033</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 074:033, Theodore A. Bingham Genealogical Papers</titleproper>
+		<subtitle>Inventory</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">March 05, 2009</date>
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2009</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>March 05, 2009</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Bingham, Theo. A. (Theodore Alfred), 1858-1934</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Theodore A. Bingham genealogical papers</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1899/1932">1899-1932</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Includes the manuscript of <emph render="italic">The Bingham family in the United States</emph> and other material related to the Bingham Family of Andover, Conn.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG074_033</unitid>
+	<unitid label="Accession: ">T003243</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>
+Theodore A. Bingham was born at Andover, Conn. on May 14, 1858 to Joel Foote Bingham, a clergyman, and Susan G. Bingham. He married Lucile Rutherford of St. Louis, who died in 1920. In 1926 he was married in London to Addison Mitchell of New York. She died a year later. Bingham died at his summer home in Chester, Nova Scotia, on September 7, 1934, aged 76. He was buried in Chester according to his wishes. 
+</p>
+<p>
+Bingham graduated from West Point Military Academy in 1879, receiving a commission as second lieutenant. Between 1879 and 1890 he served in various capacities as an engineering officer and as a military attaché in Berlin and Rome. He served as superintendent of the public buildings and grounds at Washington from 1897 to 901 with the rank of colonel. He was transferred to Buffalo on an engineering assignment where he suffered an accident which caused the loss of a leg, forcing his retirement from active service in the Army in 1904 at the rank of brigadier general. He served as police commissioner of New York City from January 1, 1905 to July 1, 1909. In 1911 he served for a few months as chief engineer of the Department of Highways and from 1911 to 1915 was a consulting engineer with the Department of Bridges. In 1917 he was recalled to active service in the Army, in command of the Second Engineering District, New York City. He was discharged from active service and returned to retirement on June 10, 1919
+</p>
+<p>
+Source: "Gen. Bingham Conn. Native, Dies Aged 76" <emph render="italic">Hartford Courant, </emph> 1934 September 7, 4. 
+</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content</head>
+<p>
+Includes the manuscript version of <emph render="italic">The Bingham Family in the United States : Especially of the State of Connecticut ; Including Notes on the Binghams of Philadelphia and of Irish Descent, Medieval Records, Armorial Bearings, Etc.,</emph> with the prospectus and correspondence concerning its publication, as well as correspondence
+of genealogy data sent to Theodore A. Bingham. Also included is material on the Bingham homestead in Andover, Conn. and manuscript notes on the Bingham family in Andover and Lebanon, Conn. 
+</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>
+Bingham family : History and Genealogy Unit Special Genealogical File, 1712-1927 <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=48488858" show="replace" actuate="onrequest" title="[CSL call number StLib History Reference Spec.Gen.File Bingham]"/>
+</p>
+
+</relatedmaterial>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+
+ <controlaccess>
+ <head>Persons:</head>
+			<persname encodinganalog="700" source="dacs">Bingham, Theo. A. (Theodore Alfred), 1858-1934</persname>
+	</controlaccess>
+
+ <controlaccess>
+ <head>Family Names:</head>
+ <famname encodinganalog="600" source="lcnaf" role="subject">Bingham family</famname>
+ </controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" source="lcsh">Connecticut -- Genealogy</geogname>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">Bingham, Thomas, 1642-1730 -- Family</subject> 
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Genealogies</genreform>
+			<genreform encodinganalog="655" source="aat">News clippings</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>These records are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Bingham genealogy</unittitle>
+	<unitdate datechar="creation" normal="1899/1932">1899-1932</unitdate>
+ </did>
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry>Folder</entry>
+ </row>
+ </thead> 	
+<c02 level="file">
+ <did>
+	<container type="Box"> </container>
+	<container type="Folder"></container>
+	<unittitle>The Bingham family in the United States : especially of the state of Connecticut ; including notes on the Binghams of Philadelphia and of Irish descent, medieval records, armorial bearings, etc.</unittitle>
+	<unitdate datechar="creation">1925 January 1</unitdate>
+	<physdesc><physfacet>manuscript</physfacet></physdesc>
+ </did>	
+	<note><p>The published version is available at <extptr linktype="simple" href="http://www.consuls.org/search/o?SEARCH=2152347" show="replace" actuate="onrequest" title="[CSL call number StLib Stacks CS71.B624 1927]"/>.</p></note>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">1-2</container>
+	<unittitle>Volume 1</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">3-4</container>
+	<unittitle>Volume 2</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">5-6</container>
+	<unittitle>Volume 3</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">7-8</container>
+	<unittitle>Volume 4</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">9-10</container>
+	<unittitle>Volume 5</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">11-12</container>
+	<unittitle>Volume 6</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">13-14</container>
+	<unittitle>Volume 7</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">15-16</container>
+	<unittitle>Volume 8</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">17-18</container>
+	<unittitle>Volume 9</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">19-20</container>
+	<unittitle>Volume 10</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">21</container>
+	<unittitle>Index</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unittitle>Publication material</unittitle>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">22</container>
+	<unittitle>Prospectus</unittitle>
+	<unitdate datechar="creation">1899, 1925</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">23</container>
+	<unittitle>Correspondence</unittitle>
+	<unitdate datechar="creation">1928-1932, undated</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">24</container>
+	<unittitle>Mailing list</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">25</container>
+	<unittitle>Bingham genealogy pamphlets</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Correspondence</unittitle>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">26</container>
+	<unitdate datechar="creation">1924-1928</unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">27</container>
+	<unitdate datechar="creation">1929-1932</unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">28</container>
+	<unittitle>English medieval Binghams</unittitle>
+	<unitdate datechar="creation">1899</unitdate>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Bingham homestead</unittitle>
+	<unitdate datechar="creation" normal="1905/1910">1905-1910, undated</unitdate>
+ </did>	
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">1</container>
+	<unittitle>Andover Conn., Bingham homestead, the house</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">1</container>
+	<unittitle>Andover Conn., Bingham farm</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">1</container>
+	<unittitle>Report on Phelp-Bingham farm</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">2</container>
+	<unittitle>Property maps</unittitle>
+	<unitdate datechar="creation">1905, 1910, undated</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">3</container>
+	<unittitle>Architectural plans and photograph</unittitle>
+	<unitdate datechar="creation">1908, undated</unitdate>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Bingham families in Andover and Lebanon</unittitle>
+	<unitdate datechar="creation" normal="1911">1911, undated</unitdate>
+ </did>	
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">4</container>
+	<unittitle>Brief history of Andover entitled, "Andover, Tolland Co., Conn."</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">4</container>
+	<unittitle>Genealogical records of Andover Binghams entitled, "Andover, Tolland Co., Conn."</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">5-6</container>
+	<unittitle>Property records of Binghams in Andover and Lebanon</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">7</container>
+	<unittitle>Old cemetery at Andover Center, Tolland Co., Conn.</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">7</container>
+	<unittitle>Inscriptions in Townsend Cemetery , Andover, Tolland Co., Conn.</unittitle>
+	<unitdate datechar="creation">1911</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">8</container>
+	<unittitle>Genealogical record of Theodore Bingham</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">8</container>
+	<unittitle>Family history of Stephen Bingham</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Newspaper clippings</unittitle>
+	<unitdate datechar="creation" normal="1905/1932">1905-1932</unitdate>
+ </did>	
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Miscellaneous</unittitle>
+	<unitdate datechar="creation" normal="1899/1920">1899-1920</unitdate>
+ </did>	
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">9</container>
+	<unittitle>1659 Norwich Town, Conn. Some proprietors' original home lots / compiled by Theodore A. Bingham with Charles E. Chandler and Edna E. Rogers</unittitle>
+	<unitdate datechar="creation">1920</unitdate>
+	<physdesc><physfacet>typescript, </physfacet><extent> 2 copies, 1 missing a map</extent></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">11</container>
+	<unittitle>Coat of arms</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">12</container>
+	<unittitle>Gravestones of Thomas and Mary Bingham</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+	<physdesc><physfacet>glass negatives</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">13</container>
+	<unittitle>Hebron map and pictures</unittitle>
+	<unitdate datechar="creation">1908, undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">13</container>
+	<unittitle>Coventry, Hebron and Lebanon: Corner where these towns come together located in Andover</unittitle>
+	<unitdate datechar="creation">1899</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">14</container>
+	<unittitle>Genealogy charts of Elizabeth and Dorothy Pugsley</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder">14</container>
+	<unittitle>Descendents of Ralph Bugg of Nott</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+</c01>
+<c01 level="series">
+ <did>
+	<unittitle>Printed material</unittitle>
+	<unitdate datechar="creation">1909-1920, undated</unitdate>
+ </did>	
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Map of Yorkshire / John Bartholomew</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Memoirs of the Binghams / Rose E. McCalmont</unittitle>
+	<unitdate datechar="creation">1915</unitdate>
+ </did>	
+	<note><p>Inscription on verso of front endsheet: "Gen. Theo. A. Bingham / U S Army / N.Y. - Feb. 11/18 / see p. 169 which is the Conn. family".</p></note> 
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>The Old Lee house / Celeste E. Bush</unittitle>
+	<unitdate datechar="creation">1917</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Pocket map of Sheffield / printed by Pawson &amp; Brailsford</unittitle>
+	<unitdate datechar="creation">undated</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Records and record searching: a guide to the genealogist and topographer / Walter Rye</unittitle>
+	<unitdate datechar="creation">1888</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Story of Bride Brook</unittitle>
+ </did>	
+	<note><p>Inscription on recto of front cover: "Compliments of Bride Brook Farm folks Mr. &amp; Mrs. Harry Bennitt Hunt 1924".</p></note>
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>The story of the English towns: Nottingham / E. L. Guilford</unittitle>
+	<unitdate datechar="creation">1920</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>The story of the English towns: Sheffield / J.S. Fletcher</unittitle>
+	<unitdate datechar="creation">1919</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Visitation of England and Wales, volume 16/ edited by Frederick Arthur Crisp</unittitle>
+	<unitdate datechar="creation">1909</unitdate>
+ </did>	
+	<note><p>Inscriptions on verso of front endsheet: "Gen. Theo. A. Bingham / WSA" and "T.A.B. / Nov. 19 '31 / London / p.30".</p></note>
+</c02>
+
+
+</c01>
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

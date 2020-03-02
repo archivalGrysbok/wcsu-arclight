@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004_072.html" countrycode="us">RG004_072</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:072, Ledyard Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 28, 2011</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2011</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>July 28, 2011</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (Ledyard District)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Ledyard Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f">1837-1934</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">25.25 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Record books, 1837-1957; Probate files, 1837-1972.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_072</unitid>
+	<unitid label="Accession: ">1923-004, 2011-068, 2011-069</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Ledyard, New London County, Town established in June 1836, Parent Town: Groton
+</p>
+<p>
+The Ledyard Probate District was constituted June 6, 1837, from the Stonington Probate District. The Ledyard Probate District merged with Groton, North Stonington, and North Stonington Probate Districts on January 5, 2011 to create the Southeastern Corner Regional Probate District which serves the municipalities of Groton, Ledyard, North Stonington, and Stonington.
+</p>
+<p>
+Town of Ledyard, Probate District chronology:
+</p>
+<p>
+May 1836 - June 5, 1837, Stonington District<lb/>
+June 6, 1837 - January 4, 2011, Ledyard District<lb/>
+January 5, 2011 - Present, Southeastern Corner Regional District
+</p>
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Probate record books, 1837-1957. Includes records/wills and inventories, volumes 1-6, and journals/orders and decrees, volumes 1-6. There is also one bond volume. Contact the probate court to access record books after Volume 6.</p>
+	<p>Probate files, 1833-1976. Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. Includes a small number of files from the New Haven Probate District that pre-date the creation of the Bethany Probate District in 1854. Most of these files are for incompetency cases.</p>
+	<p>Inventory control book, 1833-1950 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+</scopecontent> 
+
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Volumes of "records" are numbered 1 to 3 and continued by volumes of "wills and inventories" numbered 4 to 6. 
+Volumes of "journals" are numbered 1 to 3 and continued by "orders and decrees" numbered 4 and 6. Orders and decrees, Volume 5, was not transferred to the Connecticut State Library.</p>
+	<p>Probate files are arranged by accession. Each accession is arranged alphabetically.</p>
+</arrangement>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+	<p>Record Books: Index cards for the record books have been scanned. Ask History and Genealogy staff for assistance.</p>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in accession 1923-004 are represented in this index.</p>
+	<p>Probate Files: The History and Genealogy reference staff has access to an index for the probate files in accession 2011-069.</p>
+</otherfindaid>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+	
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut - Ledyard</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Ledyard (Conn.)</geogname>
+	</controlaccess>
+
+
+	
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+	<p>Probate files from 1921-1972 are <emph render="bold">RESTRICTED</emph> as they may contain confidential documents. Tax returns (succession, transfer and estate tax returns and all attachments) from January 1, 1921 and later are confidential per Connecticut General Statutes §12-15. 
+Adoptions (all documents) from January 1, 1944 and later are confidential per Connecticut General Statutes §45a-754. Contact State Archives staff for assistance.</p>
+
+	<p>Accession 2011-068, Record books, 1837-1957; and Accession 2011-069, Probate files, 1908-1972, are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, Volumes 1-4, records/wills and inventories, 1837-1923, and Volume 1, Jouranl, 1837-1857; probate files 1837-1915 (Accession 1923-004 only); and inventory control book (Godard Digest) were microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>
+The probate files in accession 1923-004 were transferred to the Connecticut State Library on the following dates (with date span of files): October 23, 1923 (1837-1920); April 25, 1958 (1855-1934). They were interfiled into one alphabetic sequence. 
+</p>
+<p>
+The record books in accession 2011-068 and the probate files in accession 2011-069 were transferred to the Connecticut State Library on December 13, 2010.
+</p>
+
+</acqinfo>
+
+
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Record books</unittitle>
+	<unitdate datechar="creation" normal="1837/1957">1837-1957</unitdate>
+	<physdesc><extent>8.5 cubic feet (23 volumes)</extent></physdesc>
+	<unitid label="Accession: ">2011-068</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">1</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1837-1859</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">2</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1859-1879</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1879-1893</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">4</container>
+	<unittitle>Wills and inventories</unittitle>
+	<unitdate datechar="creation">1893-1906</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">5</container>
+	<unittitle>Wills and inventories</unittitle>
+	<unitdate datechar="creation">1906-1923</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Wills and inventories</unittitle>
+	<unitdate datechar="creation">1922-1947</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">1</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1837-1857</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">2</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1858-1875</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1875-1893</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">4</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate datechar="creation">1894-1914</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Orders and decrees</unittitle>
+	<unitdate datechar="creation">1914-1957</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">unnumbered</container>
+	<unittitle>Bonds</unittitle>
+	<unitdate datechar="creation">1881-1924</unitdate>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Index cards</unittitle>
+	<physdesc><extent>.5 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">2011-068</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry></entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Index cards</unittitle>
+ </did>	
+	<scopecontent><p>Index cards to the record books</p></scopecontent>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1837/1934">1837-1934</unitdate>
+<physdesc><extent>3.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1923-004</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry>Drawer</entry>
+ <entry></entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Drawer">1</container>
+	<unittitle>Adams - Chapman, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">2</container>
+	<unittitle>Chapman, M. - Lester, N.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">3</container>
+	<unittitle>Lester, O. - Smith</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">4</container>
+	<unittitle>Spicer - Z.; Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1837-1934</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the two accessions of probate files now merged into accession 1923-004</p></note> 
+	<note><p>Date span is coverage</p></note>
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1837/1934">1837-1934</unitdate>
+<physdesc><extent>3.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">2011-069</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry></entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<unittitle>Abbott - Bayless</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<unittitle>Bence - Clark, A.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<unittitle>Clark, H. - Diedrich</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<unittitle>DiMascola - Gore</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<unittitle>Goulart - Herbert</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">6</container>
+	<unittitle>Hewes - Kelly</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">7</container>
+	<unittitle>Kennedy - Lynn</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">8</container>
+	<unittitle>McCary - Moran</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">9</container>
+	<unittitle>Morgan - Peckham</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">10</container>
+	<unittitle>Peliter - Schafer</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">11</container>
+	<unittitle>Sheldon - Watkins</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">12</container>
+	<unittitle>Watrous - Zimet</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">13</container>
+	<unittitle>Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+</dsc>
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

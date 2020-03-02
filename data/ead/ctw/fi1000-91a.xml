@@ -1,0 +1,5803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+
+<ead>
+    <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+        langencoding="iso639-2" repositoryencoding="iso15511">
+
+        <eadid countrycode="us" mainagencycode="CtW"
+            publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-91::Willbur Fisk Papers: Correspondence)//EN"
+            url="http://www.wesleyan.edu/libr/schome/FAs/fi1000-91a.xml">fi1000-91a</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Willbur Fisk Papers: Correspondence to Willbur Fisk,
+                        <lb/><date normal="1812/1839">1812 - 1839</date>
+                </titleproper>
+                <author>Processed by: Mrs. Jurgen Herbst, 1963-1965; John Spaeth, 1969; machine-readable finding aid created by:
+                    Valerie Gillispie</author>
+
+                <!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+            </titlestmt>
+
+            <publicationstmt>&hdrsca; <p><date normal="2010" encodinganalog="date">&#x00A9;
+                        2010</date> Wesleyan University. All Rights Reserved.</p>
+            </publicationstmt>
+
+
+        </filedesc>
+
+        <profiledesc>
+            <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: April 2008</date>
+            </creation>
+            <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+
+            <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+
+        </profiledesc>
+
+        <!-- Location of <revisiondesc> if needed -->
+
+    </eadheader>
+
+
+    <frontmatter>
+        <titlepage>
+            <titleproper>Inventory of the Willbur Fisk Papers: Correspondence to Willbur Fisk, <date
+                    type="span">1812 - 1839</date>
+            </titleproper>
+
+            <publisher>
+                <extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+
+
+
+
+
+
+
+
+            <!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+
+            <p><date normal="2010">&#x00A9; 2010</date> Wesleyan University. All Rights
+                Reserved.</p>
+        </titlepage>
+    </frontmatter>
+
+
+
+
+
+
+
+    <archdesc level="series" relatedencoding="MARC">
+
+        <did>
+            <head>Descriptive Summary</head>
+
+            <repository label="Repository">Special Collections &amp; Archives, Wesleyan
+                University</repository>
+
+            <origination label="Creator">
+                <persname encodinganalog="100">Fisk, Willbur.</persname>
+            </origination>
+
+            <unittitle label="Title" encodinganalog="245">Willbur Fisk Papers: Correspondence to
+                Willbur Fisk, <unitdate normal="1812/1839" type="inclusive">1812 -
+                1839</unitdate></unittitle>
+
+            <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099"
+                >1000-91</unitid>
+
+            <langmaterial label="Language of Material" encodinganalog="546">Material in <language
+                    langcode="eng">English</language></langmaterial>
+
+            <physdesc label="Linear Feet">
+
+                <extent encodinganalog="300">3.0</extent>
+            </physdesc>
+            <physdesc label="Archival Boxes">
+                <extent>6</extent>
+            </physdesc>
+
+            <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+
+            <abstract label="Abstract" encodinganalog="545">Willbur Fisk (1792-1839) was a Methodist minister and the first president of Wesleyan University.</abstract>
+
+
+            <abstract encodinganalog="520">Correspondence to Willbur Fisk contains letters sent by
+                others to Fisk, arranged in alphabetical order by sender's name. For the complete
+                finding aid to the Willbur Fisk Papers, visit <extref
+                    href="http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html"
+                    >http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html</extref>.</abstract>
+
+        </did>
+
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+
+            <accessrestrict encodinganalog="506">
+                <head>Access Restrictions</head>
+                <p>No restrictions.</p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <head>Copyright Notice</head>
+                <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law.</p>
+            </userestrict>
+
+            <prefercite>
+                <head>Preferred Citation</head>
+                <p>[Identification of item], Willbur Fisk Papers, Collection
+                    #1000-91, Special Collections &amp; Archives, Wesleyan University,
+                    Middletown, CT, USA.</p>
+            </prefercite>
+
+            <acqinfo encodinganalog="541">
+                <head>Acquisitions Information</head>
+                <p>Materials collected by the college library in the 19th century.</p>
+            </acqinfo>
+
+            <processinfo>
+                <head>Processing Information</head>
+                <p>Processed by Mrs. Jurgen Herbst, 1963-1965; John Spaeth, 1969</p>
+                <p>Encoded by Valerie Gillispie, November 2010</p>
+            </processinfo>
+
+        </descgrp>
+        <!-- Enter each paragraph of the bioghist in separate p elements. -->
+        <bioghist>
+            <head>Biographical Note</head>
+            <p>Willbur Fisk, Wesleyan’s first president, was born on 31 August 1792 and grew up in
+                Brattleboro, Vermont. Although his mother feared that <emph render="doublequote"
+                    >godlessness and sin</emph> in schools and colleges would make Fisk too worldly
+                and <emph render="doublequote">strangle the spiritual life,</emph> Fisk graduated
+                from Brown University in 1815, after also attending Peacham Academy and the
+                University of Vermont. Surprisingly, given his future role at Wesleyan, Fisk was not
+                initially drawn to the Methodist ministry following school. In fact, he struggled
+                with his spiritual purpose at that time, working in law and as a tutor. However, a
+                revelation during a bout of illness brought him to the ministry in 1818, and he
+                devoted the rest of his life to his work as a Methodist. In 1825, Fisk was appointed
+                principal of Wesleyan Academy in Wilbraham, Massachusetts, a preparatory school from
+                which many Wesleyan University students were to be drawn.</p>
+            <p>When the decision to found a university in Middletown, Connecticut was made, Fisk was
+                tapped for the role of first president. In his inaugural speech in 1831, he outlined
+                his vision for the university, encapsulated by the statement that <emph
+                    render="doublequote">Education should be directed in reference to two
+                    objects—the good of the individual educated and the good of the world.</emph>
+                Fisk was deeply involved in the administrative and curricular decisions of Wesleyan,
+                and raised funds for the new college. He traveled to Europe to study educational
+                institutions and collect scientific equipment in 1835-1836, and also took that time
+                as a break from the stresses of the presidency. Suffering from ill-health his entire
+                life, Fisk finally succumbed on 22 February 1839 while still serving as
+                president.</p>
+
+            <!-- use "Chronlist Tags" here if there is a chronology -->
+        </bioghist>
+
+
+        <!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+        <scopecontent>
+            <head>Collection Overview</head>
+            <p>Correspondence to Willbur Fisk contains letters sent by others to Fisk, arranged in
+                alphabetical order by sender's name. For the complete
+                finding aid to the Willbur Fisk Papers, visit <extref
+                    href="http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html"
+                    >http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html</extref>.</p>
+
+
+        </scopecontent>
+
+
+
+        <!-- Use separated materials and related materials clips here to enter in information -->
+
+
+        <dsc type="combined">
+            <head>Detailed Description of the Collection</head>
+            <!-- use component levels clips to enter in the description of subordinate components -->
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence to Willbur Fisk</unittitle>
+                </did><scopecontent><p>For the complete
+                    finding aid to the Willbur Fisk Papers, visit <extref
+                        href="http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html"
+                        >http://www.wesleyan.edu/libr/schome/FAs/fi1000-91.html</extref>.</p>
+                <p>The number in parentheses indicates the number of letters from that particular correspondent in the collection.</p></scopecontent>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <unittitle>Abbot, Fidelia B. and Clarissa F., 8 May 1838-10 November 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Abbott, Gorham, 11 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Abbott, Jacob, 7 May 1835-14 July 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Abernathy, James, 7 August 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Adams, Charles, 27 March 1828-11 November 1838 and undated
+                            (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Adams, Henry, 4 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Adams, J. F., 3 October 1827-14 October 1830 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Adams, Parmelee &amp; Company, 4 October 1832-28 March 1835
+                            and undated (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Agarer, Horace, 4 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Akers, Peter, 19 April 1834-27 August 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Alden, R. 13 September 1836-8 September 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Alder, Amelia, 6 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allen, Stephen, 28 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allen, William H., 9 September 1834-29 September 1834
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Alley, J. 27 November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allton, Mary Fisk, 11 July 1812-7 June 1838 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allton, Oren, 3 February 1830-7 October 1837 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allyn, Job, 1834-22 December 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Allyn, Robert, 8 January 1838-16 April 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Alverson, James, 6 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anders, James O., 10 December 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anderson, Henry James, 4 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anderson, William, 17 November 1831-20 September 1837
+                            (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anson, William, 15 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anthon, Charles, 19 June 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anthony, H., 14 August 1828- 9 September 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Anthony, Jane, 16 December 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Archer, Philmer W., 3 September 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Archibald, N., 24 November 1828-6 December 1828 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Armstrong &amp; Plaskis, Company, 21 December 1832-6 April
+                            1835 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Armstrong, Conway, 10 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Austin, G. F., 22 July 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Avery, Abraham, 1 March 1826 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Avery, B. F., 3 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Avery, E. K., 21 January 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ayres, Daniel, 30 July 1838-20 September 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ayres, Ezra and others, 10 August 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ayres, Joseph, 10 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Babbitt, Betsey E., 18 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bacheler, Origen, 2 February 1835-7 November 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Backus, W. H., 13 June 1833-16 August 1833 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bagnall, Thomas, 10 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bailey, John, 5 February 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Baird, D. R., 28 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Baker, Charles, 31 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Baker, Osmon Cleander, 15 August 1832-25 April 1838
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Baldwin, Henry Jr., 7 May 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ball, B. Finette, 7 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ball, John, 14 May 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bangs, Elijah K., 20 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bangs, Heman, 30 December 1830-15 February 1839 (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bangs, Nathan, 13 September 1828-7 February 1839 (20)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bangs, William M., 18 September 1831-18 December 1832
+                            (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bannister, Henry, August 1837-24 March 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barber, Cicero, 27 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barber, J. 13 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barber, Noyes 19 January 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barker, Isaac, 18 May 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barker, John, 3 August 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barnard, Henry, 15 June 1838-18 July 1838 (2) </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barnes, John, 30 July 1833-28 April 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barratt, Joseph, 13 May 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barris, Joseph S., 25 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Barry, Basil, 20 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bascom, H. B. 12 December 1834-17 August 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Baskerville, John Taft, undated (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bates, Dexter, 23 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bates, Elizur, 10 May 1833-18 September 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bates, John, 21 February 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Beach, Shelton, 2 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Beecham, John, 31 March 1837-22 October 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bell, S. F., June 1838-7 February 1839 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bement, Jesper, 7 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bennett, A. A., 9 April 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bernard, Lr. Gen., 28 November 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bidwell, Ira M., 23 September 1834-19 November 1834
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Binings, James, 28 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Binney, Amos, 2 February 1829-19 June 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Birney, James G., 20 September 1830-23 September 1830
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bishop, Charles, 23 February 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bishop, H. 8 December 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bishop, William, 6 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bissell, John, 12 September 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Black, M. G., 3 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Black, William, 30 October 1827-4 March 1828 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blackstock, Eleanor, 27 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blackstock, James, 19 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blake, A. V., 26 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blake, John L., 13 February 1834-8 March 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blatchly, Ellsworth, 30 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bliss, Abel, 20 January 1831-27 June 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bliss, Fanny, 18 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bliss, J. J., 6 December 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bliss, Nancy, 4 September 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Blydenburgh, Moses, 27 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bolster, Cyrus, 21 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bonney, J., 21 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Booth, W., 18 April 1838-13 July 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Borden, S., 17 March 1832-11 March 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Boring, Jesse, 18 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Boucher, Ph., undated (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bowie, John, 4 April 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Boyd, J. H., 18 December 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bradley, Hanover, 9 October 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bragdon, C. P., 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brainerd, Robert and others, 20 May 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brayton, Daniel, 6 November 1824-2 June 1837 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brent, Daniel, 3 July 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brewer, C., 18 February 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brewer, Susan, 29 September 1829-12 January 1834 (25)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brewster, Walter, December 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brigham, J. C., 10 March 1831-12 April 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brodhead, John, 10 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brooks, George, 1825 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brooks, Isham, 28 March 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, Charles Lee, 25 February 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, David F., 8 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, Edwin C., 18 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown Joseph, 4 February 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, John W., 18 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, Thomas, 22 December 1830-22 January 1834 (25)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Father of Charles L. Brown.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, William C., 5 August 1835-2 May 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brown, William, 4 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Browne, A. A., 29 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brownell, T. C., 9 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brownell, W. C., 28 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brownson, Philo, 18 December 1833-4 June 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bruen, M., 4 June 1829-29 July 1829 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brunson, Alfred, 15 June 1832-27 April 1835 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brush, G. W. and John Lewis, 7 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bryan, James, 21 January 1837-27 October 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Buck, Ephraim, August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Buckland, H. H., 12 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Buckley, Samuel B., 16 Ausut 1837-16 February 1838
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Budd, Thomas, 20 May 1833-31 October 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Budd, William, 25 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Bugard, B. F., 18 September 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burnap, Uzziah C., 17 December 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burns, S. A., 17 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burrill, John T., 13 February 1837-8 March 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burritt, E. H., 14 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burtis, Townsend W., 2 February 1833-27 July 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burton, Henry, 14 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Burton, William M., 2 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Byrn, Ino W., 23 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">2</container>
+                        <unittitle>Cahoon, Charles D., 24 July 1826-19 July 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Calandrini, Matilda, 17 January 1836-27 January 1836
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Calder, Frederick, 4 February 1837-28 October 1837
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Caldwell, Merritt, 1 August 1832- 4 August 1835 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Calhoun, William B., 29 September 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Canfield, R., 4 September 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Campbell, G. M., 24 November 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Campbell, Randolph, 7 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capers, W., 12 September 1833-26 April 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Carlton, William T., 8 March 1836-8 August 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Carne, Joseph, 11 July 1836-8 August 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Carter, Hugh, 11 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cass, L., 4 May 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Caswell, A., 18 October 1830-24 January 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chamberlain, Parmele, 28 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chapman, Henry S., 28 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chapman, Thomas, 5 March 1832-28 May 1834 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Charles, J. O., 1 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chase, Abner, 24 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chase, D. H. (Daniel), 17 February 1834-3 July 1835
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chase, Henry, 16 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cheney, L. C. (Leonard), 5 November 1833-26 July 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chew, John, 1 September 1832-6 November 1833 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Chittendon, Cornelius, 15 March 1837-17 September 1837
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Church, Samuel, 1 June 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Claiborne, John G., 19 April 1834</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Charles B., 17 February 1834-7 April 1834 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Davis W., 10 September 1833-14 December 1838
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, E., 20 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Horace, 14 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, J., 14 October 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, John, 19 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, John A., 12 December 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Laban, 1834-19 March 1836 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark Lorin, 12 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Mary, 28 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Noah B., 6 November 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, Oliver, 17 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, S. L. H. 12 November 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clark, William, 12 April 1830 (1) </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Clarke, Dorus, 18 February 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cleveland, Henry R., 30 March 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Coggshall, S. W., 29 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cogswell, William, 14 January 1834-6 February 1839
+                            (16)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Colborn, H., 26 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Coles, G., 10 December 1830-15 October 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Collins, Charles, 24 February 1838-28 May 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Colton, Chauncey, 21 April 1835-9 May 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cook, E. M., 5 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cooke, C., 24 November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cooke &amp; Co., 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cookman, George G., 19 April 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cookson, John, 26 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Coolidge, Clark, 24 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Copeland, David, 8 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Copeland, John, 18 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cove, J. H., 7 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cowles, Henry, 4 September 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cox, G. F., 20 March 1834-23 July 1838 (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cox, M. B., 14 January 1831-15 March 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cox, W. A., 31 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Crain, A. N., 16 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Crandall, P., 5 March 1833-5 September 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Crary, Isaac E., 27 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Craswell, Joshua, 6 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Crawford, Elias, 10 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cresson, Elliott, 1834-12 February 1839 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Curry, Daniel, 6 June 1837-2 August 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Curtiss, Samuel P., 6 November 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Daggett, Hinman &amp; Co., 4 August 1837-23 July 1838
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Daggett, Alfred, 28 June 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Daily, William M., 13 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dana, Judah, 1 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Daniel, John, 5 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>David, Virgil, 12 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Davis, George, 7 January 1833-3 August 1835 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Davis, Joseph H., 2 September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Davis, Robert, 3 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Day, Jeremiah, 30 May 1835-1 October 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Day, Thomas, 5 September 1834-14 May 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dayton, A. O., 28 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dayton, Smith, 15 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>DeBourcy, William H. 5 September 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Delano, J. C., 3 September 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Delano, Lewis H., 5 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Delavan, Edward C., 14 September 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Deloutte, I. A., 28 October 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Deming, Benjamin F., 20 November 1828-2 April 1834
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Deming, Ruben H., 2 September 1835-24 December 1833
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Denison, Charles W., 21 December 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dickens, Asbury, 17 June 1837-10 August 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dickerson, M., 22 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dickinson, Austin, 26 March 1829-16 April 1835 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Disosway, Cornelius R., 4 February 1831-20 January 1835
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Disosway, Gabriel P., 22 September 1830-25 August 1838
+                            (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dixon, John, 27 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dlaklas, Joseph, 2 November 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dodge, Nehemiah, 19 January 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dole, L. P., 13 March 1832-10 August 1836 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dorchester, D., 11 January 1834-30 January 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Doughty, Charles I., 28 July 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dow, Caleb, Jr., 30 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dow, John, 26 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Downey, Robert, 19 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Drake, Benamin M., 10 May 1833-6 July 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Drake, Thomas M., 28 August 1831-30 July 1832 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Duer, W. A., 15 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dunn, N., 11 December 1827-1834</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Durbin, J. P., 27 September 1831-14 September 1838
+                            (14)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dwight, Lewis, 12 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dwight, Theodore, Jr., 5 June 1834-19 August 1834 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Dyre, Timothy, 13 March 1832-10 February 1835 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Eastman, B. C., 9 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Eddy, Phebe, 6 June 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Edwards, Elishu, 22 November 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Edwards, Governor, 27 March 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Edwards, Justin, 15 December 1830-1 September 1833
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Edwards, William B., 13 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ela, D. H., 15 January 1835-28 July 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Elliott, C., 20 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Elliott, Joseph, 9 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ellsworth, N. N., 31 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ely, Thomas, 20 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Emmerson, William, 27 March 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Emory, John, 1830-7 August 1835 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Enos, E., 1822-16 August 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Everett, Edward, 27 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ewen, Robert M., 25 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Eyster, C. S., 12 November 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Eyster, Jacob, 22 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Farmer, Thomas, 29 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fellows, Francis, 13 December 1836-24 February 1837
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fenner, Robert, 2 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ferguson, Samuel D., 23 July 1835-3 August 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ferris, William H., 31 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fessenden &amp; Co., 25 July 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Few, Ignatius A., 1 March 1833-15 October 1838 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Field, D., 18 December 1834-17 March 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fifield, Moses, 1 July 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fifield, Nancy, 23 September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fillmore, Daniel, 14 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fillmore, J., 28 July 1838-18 September 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fish, (Rev.) Henry, 25 September 1836-23 January 1839
+                            (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fisk, Caleb, 11 September 1824-16 April 1838 (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fisk, Hannah, 25 October 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fisk, Isaiah, 10 June 1812-4 May 1837 (19)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <unittitle>Fitch, Maria, 14 August 1827-8 October 1828 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fitch, Silas Jr., 31 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fleming, A., 9 November 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fisk, Ruth (Peck), 15 October-1 August 1834 (3)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>See also Peck, Ruth.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Flournoy, Josiah, 30 March 1831-12 August 1835 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foot, John A., 2 October 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Forbes, James D., 22 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fort, Robert W., 14 January 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, Eliza, 14 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, Festus, 8 April 1833-20 April 1835 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, Fisher A., 11 February 1834-1 September 1837
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, George T., 16 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, John, 28 September 1826-30 July 1835 (21)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, J. W., 2 November 1838-8 December 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, Joshua W., 13 November 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, Lewis, Jr., 7 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Foster, William, 24 November 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fowles, J., 26 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frazee, B., 27 May 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frazer, John, 27 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Freeman, Adaline M., 29 May 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>French, E. with A.V. Blake, 24 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frid, Thomas, 12 October 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frost, John, 16 November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frost, Leonard, 6 March 1830-4 April 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Frothingham, Samuel, 31 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fuller, Jerah, 30 July 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fulton, Creed, 20 November 1837-27 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gale, William, 21 December 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gallander, F. H., 4 July 1831-7 June 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Galpin, Daniel, 18 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gardner, Daniel, 16 March 1837-1 June 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gardner, Nathan, 20 June 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Garnsey, Nathan, 3 January 1831-25 April 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Garrettson, M. R., undated (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gary, George, 5 August 1833-26 July 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gay, Samuel, 15 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>George, Enoch, 5 July 1824 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gere, John A., 10 January 1832-21 December 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ghu, E. M., 19 November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gilbert, Elias, 27 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gilbert, R., 3 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gilder, William H., 17 November 1837-11 January 1838
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Giles, William Mason, 16 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gillet, Morgan D., 1 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gist, J. and others, 19 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodrich, Chauncey A., 13 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodrich, Elisabeth, 18 June 1833-29 June 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodsell, B., 8 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodwin, Ann C., September 1831-27 January 1834 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodwin A. S. W., 28 December 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodwin, Martha, 3 December 1824-7 January 1833 (10)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goodwin, Mary, 23 August 1823-31 March 1826 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gove, John, 12 December 1837-19 January 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goss, Ephraim, 18 March 1835-20 April 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gould, David, 11 April 1827-10 December 1831 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Graham, Robert, 23 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Grant, Isaac, with Mattison Baker, 19 March 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Green, Humphrey, 4 April 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Green, John C., 11 October 1830-21 January 1839 (11)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Green, Timothy, 4 November 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Greenleaf, Jonathan, 10 April 1838-25 April 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gregory, Samuel, 15 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Grew, Henry, 30 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gridley, J. S. J., 17 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Griffen, B., 14 May 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gunn, Allen, 18 September 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gush, William, 20 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hale, Harry, 2 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hale, Samuel, 24 November 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hall, F., 26 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hall, Francis, 21 January 1828-4 December 1837 (10)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hall, John, 13 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hall, Wilfred, 18 September 1837-15 October 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hallock, J. K., 15 October 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hallock, L, 4 December 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hambrook, Odden, undated (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hamilton, Armor, 27 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hamilton, David, 15 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hamilton, James, 7 September 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hamilton, Jefferson, 21 June 1836-6 February 1838 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hamlin, Edward F., 25 April 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hanks, Albert S., 17 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hannah, John, 13 October 1835-22 December 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harbison, Jeremiah, 4 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harden, Samuel, 26 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hardesty, R., 4 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hardy, John W., 1 January 1831-27 December 1837 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harlow, William T., 2 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harper &amp; Brothers, 8 December 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harris, Anna, 17 April 1831-7 November 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harris, Reuben, 16 August 1832-10 August 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hart, N. C., 3 January 1832-8 April 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hartley, Robert W., 25 April 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harvard, -M., 24 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harvey, Henry, 30 April 1833-2 July 1835 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Harvey, James, 11 December 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hatch, W. T., 11 September 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hawley, Horace, 1 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Haynie, Ann C., 12 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hedding, Elijah, 31 March 1829-19 March 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Henderson, John, 18 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Henry, Joseph, 4 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Herring, Amos, 22 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hewit, N., 13 March 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hick, John, 20 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hinman, David, 22 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hinsdale, J., 24 August 1832-3 July 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hitchcock, Luke, 28 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hobart, A. L., 27 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hobart, John, 5 January 1838-10 February 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holbrook, Josiah, 18 November 1833-31 March 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holcomb, Hiram, 24 September 1832-20 June 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holdich, Joseph, 16 April 1835-14 January 1839 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holkins, Harvey, 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holmes, Joseph, 10 June 1837-21 July 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Holton, Isaac, 14 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hooker, William J., 15 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hopin, John, 23 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hopkins, V. L., 24 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hopkins, William F., 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Horton, Jotham, 15 January 1833-10 March 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hotchkiss, John, 23 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Howe, Bezaleel, 10 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Howe, John M., 7 December 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Howell, Thomas J., 7 June 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hoyt, Benjamin R., 21 November 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hoyt, Philip, 12 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hoyt, S., 15 November 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hoxey, Thomas, 4 December 1830-26 July 1835 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hubbard, Oliver P., 20 October 1834-19 August 1835
+                            (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hubbard, S. D., 27 June 1833 and undated (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hubbard, W. B., 8 September 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Huber, J. Frederick, 1 January 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Huber, James Henry, 10 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hudson, Toby, 15 April 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Huestis, A. J., 3 June 1833-7 July 1838 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hughes, John, 5 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Humason, L. H., 11 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hungerford, Charles, and Jared W. Pardee, 26 February 1838
+                            (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hunt, Chester, 11 July 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hunt, Daniel I., 17 June 1831-26 August 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Huntington, E., 16 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Husted, J. B., 20 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hyde, Charles, 23 January 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hyde, George M., 21 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hyde, John, 30 March 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hyer, William, 26 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ingham, Samuel, 12 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Inglis, Joseph L., 13 May 1831-22 November 1833 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Inglis, S., 30 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ingolls, Samuel, 31 December 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Innes, George, 10 December 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ireson, E., 23 February 1832-8 November 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ireson, Mary, 26 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Irving, Ebenezer, 13 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Irving, John, 1 December 1836-1 Mary 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">4</container>
+                        <unittitle>Jackson, Ebenezer, 23 June 1835-27 November 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jackson, Henry, 29 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jannatt, 23 December 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jaques, R. I., 7 April 1835-24 August 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jenks, William, 23 October 1830-29 October 1830 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jennings, A. E., 25 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jennings, Isaac, 21 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jenerson, I., 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jennison, Isaac, 20 July 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jennison, J., 9 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jerome, William, 7 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jew, from Charleston, 1 August 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Johnston, James, 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Johnston, John, 9 July 1835-12 May 1836 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jolly, Hugh, 15 August 1835-18 July 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jones, Benjamin, 23 March 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Jones, William, 17 November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Judson, Andrew T., 6 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kavanaugh, Benjamin T., 26 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kay, &amp; Co., 19 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Keagy, 6 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Keener, Christian, 21 December 1830-6 July 1835 (20)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Keener, John C., 1 May 1837-27 August 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kellogg, George, 30 May 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kelley, Samuel, 19 September 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kelly, Johnston &amp; Co., 25 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kennaday, I., 15 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kennedy, William M., 12 April 1832-4 April 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kennon, R. S., 5 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kent, Aza, 20 February 1829-4 March 1835 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Keteltas, Philip, 16 March 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kiderlen and Stollmeyer, 18 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>King, Dexter S., 7 December 1830-9 January 1839 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>King, Joseph L., 31 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>King, Rufus T. 26 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kingsbury, Benjamin Jr., 5 January 1835-13 August 1834
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kingsley, J. L., 17 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Kingsley, L. J. D., 2 July 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Knight, Joel, 8 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Knight, Prentiss, 24 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Knowlton, Marcia, 1827-10 July 1834 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ladd, Azel P., 21 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lane, George, 18 August 1831-10 July 1838 (14)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lane, H. B., 5 July 1835-6 July 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Langdon, B. F., 5 September 1836-17 July 1837 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Larrabee, Artemas B., 5 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Larrabee, William C., 7 June 1830-20 July 1838 (19)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lathrop, Paoli, 15 October 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Laurie, James, 30 March 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Law, Andrew, 8 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lawrence, J. J. and others, 16 September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lawrence, Samuel, 23 November 1833-16 September 1834
+                            (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lawton, R., 7 October 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Leavitt, Joshua, 7 June 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lee, Charles A., 27 May 1833-15 July 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lee, Daniel, 11 January 1836-25 January 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lee, E., 15 July 1832-6 July 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lee, Henry, 16 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lee, Luther, 15 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Leech, Daniel D. T., 17 January 1832-26 January 1833
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Leech, Samuel, 24 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lehan, L. W., 30 July year unknown (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Leigh, Jane and Josiah Flournoy, 5 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Leonard, Joseph, 24 May 1833-26 January 1835 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Levings, Noah, 22 October 1834-29 June 1838 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lewis, D. P., 4 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lewis, John, 8 June 1831-22 March 1832 (3) </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lewis, John W., 30 January 1833-28 June 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lewis, N. C., 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lilly, Wait &amp; Co., 19 December 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lincoln, Timothy D., 19 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lindsey, John, 29 August 1824-19 July 1838 (16)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Linsley, James H., 19 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Livesey, W., 12 March 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Longacre, James B., 27 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Loomis, Maria E., 7 March 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lourie, W. F., 9 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Love, Asa, 14 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lovejoy, John, 26 April 1835-9 December 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lovey, John and others, 3 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Luckey, John, 3 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Luckey, Samuel, 23 October 1829-9 February 1839 (23)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lugenbeel, James W., 29 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lummen, Aaron, 4 December 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lunn, William, 28 April 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lyon, James H., 7 April 1835-11 July 1835 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lyon, Jonathan, 22 December 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lyon, Walter W., 12 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Lyon, William P. and Charles H., 25 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McClintock, John, 23 June 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McClure, David, 5 October 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>MacDonald, George Browne, 8 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Machin, William, 1 October 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McKierney, Samuel, 10 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McKever, Jos. B., 13 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McKendree, William and others, 25 May 1824 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McLaren, William, 16 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>MacReading, C. S., 29 December 1837-13 March 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>McVickar, John and others, 18 June 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Magnuson, Finn, 20 July 1836 (1)</unittitle>
+                    </did>
+                </c02>
+
+
+                <c02>
+                    <did>
+                        <unittitle>Magoun, William, 13 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Magrender, John B., 6 February 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Malcom, Thomas S., 19 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Maltby, A. D., 17 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mankin, George S., 25 April 1833-12 December 1836 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marcy, L., 27 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marsden, George, 5 August 1831-12 August 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marsh, Capen and Lyon, November 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marsh, John, 24 May 1833-1 May 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marsh, W. W., 31 January 1838-13 November 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marshall, John G., 20 March 1834-6 March 1835 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Martin, George, 3 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Martindale, Stephen, 20 March 1832-25 November 1836
+                            (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Marvin, John G., 17 November 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mash, Joseph, 8 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mason, M. M., 4 July 1837-13 October 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mason, Thomas, 1 August 1834-10 August 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mason, T. and Love, G., 3 January 1836-22 August 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Massey, James A., 17 April 1832-14 April 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mather, W. W., 20 November 1832-4 March 1835 (11)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mathews, J. M., 20 September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Matthias, John J., 29 July 1838-26 October 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mattison, Spencer, 22 February 1834-31 July 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mattison, Thomas J., 10 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mattocks, John, 14 October 1834-1 October 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>May, Samuel J. and others, 19 July 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mead, Benjamin, 7 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mead, Ralph, 24 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Means, A., 16 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mercer, Isaiah, 10 March 1832-16 July 1833 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mercer, William F., 4 March 1833-26 June 1834 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Merrick, Frederick, 2 January 1837-20 July 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Merrill, Ambrose P., 14 April 1832-25 June 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Merrill, John W., 31 May 1832-24 August 1835 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Merrill, J. A., 9 January 1833-12 June 1838 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">5</container>
+                        <unittitle>Merritt, Timothy, 10 June 1824-23 February 1838 (30)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mervin, S., 24 July 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Metcalf, David, 18 December 1834-14 January 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Miller, Charles R., 19 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Minor, Thomas, 2 March 1839 (1)</unittitle>
+                    </did>
+                </c02>
+
+
+                <c02>
+                    <did>
+                        <unittitle>Miller, John, 27 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Miller, John C., 24 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Miller, Joseph Jr., 30 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Millington, John, 29 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Milnor, James, 7 September 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mitchell, A. H., 15 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mitchell, James, 1 August 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mitchell, W. G. and others, June 1834-10 November 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Montanava, Giovani, May 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Montgomery, J., 14 October 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moore, Abraham, 13 July 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moore, E. J., 19 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moretz, Andre, 1 October 1835 (1)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>In French.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Morris, Calvary, 13 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Morrison, Joseph, 24 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Morse, Abner, 4 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Morse, Timothy and others, 23 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moseley, W. R. H., 1 July 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moss, Joshua, 9 August 1836-7 May 1839 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moulton, James T., 2 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mudge, Enoch, 28 January 1829-4 April 1829 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mudge, S. H., 17 January 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mundy, Mary, 1 January 1835-4 August 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mundy, Frederick, 10 August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Murphy, Henry C., 28 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Murphy, Joseph, undated (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nast, William, 12 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Neale, R. H., August 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Negus, Charles, 8 December 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Newell, Daniel, 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Newhall, J., 24 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Newman, Samuel P., 4 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Newstead, Robert, 23 January 1836-18 January 1838 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Newton, A., Jr., 24 October 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nichols, I. L., 9 February 1831-4 April 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nichols, Jonathan, 4 April 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nitchie, John, Treasurer, 3 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nixon, John, 11 August 1837</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Nollner, Jacob, 26 March 1834-9 June 1838 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Norris, Rev. Samuel and others, 13 July 1837-3 September 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>North, Simeon, 3 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Norton, John T., 15 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ogden, David L., 14 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Olin, Stephen, 31 December 1834-12 May 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Orr, Isaac, 4 April 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Osborn, Marcia, September 1824 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Osborn, William R., 20 September 1825-29 May 1835 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Otis, C. P., 6 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Otheman, B., 4 January 1833-9 February 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Otheman, Edward, 14 January 1831-9 April 1838 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ousely, George, 5 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Owen, Jacob, 18 February 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Owen, John, 22 January 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Owen, R., 13 January 1834-9 October 1838 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Paddock, B. G., 13 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Page, J. H. W., 22 May 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Paige, L. R., 1 December 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Paine, Robert, 24 October 1831-29 October 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Palmer, Anthony, 19 May 1833-14 August 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Palmer, Marcy, 29 July 1825-10 May 1838 (16)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Marcy Palmer was Fisk's aunt. 2 letters written with Marcia P.
+                            Knowlton.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Palmer, Silas, 9 April 1834-11 July 1837 (6)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Silas Palmer was Fisk's nephew.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Palmer, William, 2 April 1835-12 August 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parburt, George R., 15 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parker, Ann Thomas, 13 April 1834-20 June 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parker, J., 26 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parker, Nancy M., 22 September 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parks, M. P., 11 September 1831-11 January 1834 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parmelee, T. N., 12 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Parsons, Usher and others, 1 November 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pasco, James Jr., 21 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Patten, David, 30 August 1831-20 October 1838 (18)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Patten, Thomas, 25 May 1830-21 January 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Patton, W., 25 December 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Patton, W., 19 December 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Payne, John Howard, 26 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pearsall, J., 21 June 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peasley, James C., 16 January 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peck, George, 13 November 1832-11 August 1838 (12)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peck, Jesse L., 1 April 1837-29 August 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peck, Ruth (Fisk), 18 July 1816-15 June 1838 (22)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>See also Fisk, Ruth (Peck).</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Perley, Thomas, 9 February 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Perry, Salmon, 9 November 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peters, Jesse, 17 September 1837-23 August 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Peters, John S., 26 June 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Phares, David L., 22 October 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Phelps, J. L., 20 March 1832-4 February 1839 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Phelps, N. A., 30 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Phippen, George, 5 March 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pickard, Humphrey, 13 December 1836-10 June 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Picket, Albert, 5 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pierce, John D., 5 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pierce, Lovick, 22 November 1830-21 January 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pikman, Charles, 8 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Polk, Trusten, 9 October 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Porter, Frederick W., 28 August 1833</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Potter, William H., 16 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Prandfit, 6 March 1837-21 March 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Prescott, William, 4 May 1835-6 March 1837 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Prime, Nathaniel S., 12 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Prindle, Cyrus, 3 August 1831-2 May 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Protestant Episcopal Church, a clergyman of, 3 October 1837
+                            (1)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>See Nitchie, John, for item.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Purdy, Samuel A., 28 November 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Pyre, Smith, 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Quincy, Josiah, 18 August 1836-29 October 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ramsdell, H. S., 4 March 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rand, R., 1 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Randall, George L., 10 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Randall, Henry, 22 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rawson, James, 15 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Raynor, John, 21 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Redman, W. W., 13 January 1838-6 August 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Reece, Richard, 21 October 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Reed, F., 26 July 1832-15 August 1833 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Reese, D. M., 7 September 1835-26 June 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Remington, E. F., 10 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Remington, Stephen, 15 August 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Renssalaer, B., 1 January 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Revell, William Thomas, 1 January 1834-18 January 1836
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rice, Gardner, 3 October 1834-14 June 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rice, J., 15 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rice, William, 7 May 1835-7 September 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rich, O., 1 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Richardson, C., 25 March 1830-26 January 1839 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Richardson, Martha G., 12 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Richardson, Stephen F., 12 January 1838-16 January 1839
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Richey, Matthew, 10 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ripley, El. W., 15 June 1832-30 July 1833 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robb, John (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robbins, Charles, 19 January 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robbins, Eliza, 25 July 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Roberts, George C. N. and others, 4 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Roberts, R. R. and others, 28 May 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robinson, D. J., 27 February 1834-23 May 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robinson, Adam, 21 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Robinson, Edwin F., 21 December 1836-20 September 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rockwell, S. B., 10 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rodman, Thomas P., 17 October 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rogers, C. D., 10 January 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Roper, John Jr., 9 September 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ropes, Hardy, 15 October 1832-25 July 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rosser, Leonidas, 25 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Roud, Aaron, 9 November 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">6</container>
+                        <unittitle>Round, George H., 1834-15 October 1838 (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rounds, Nelson, 6 April 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rowley, E. A., 21 January 1839</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rusling, J., 4 March 1831-12 June 1838 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Russell, Samuel, 23 June 1835- 6 July 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rust, Richard S., 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ruter, M., 27 December 1824-17 November 1834 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ryerson, Egerton, 27 November 1828-17 November 1837
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ryerson, John, 27 November 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ryland, William, 30 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sanborn, J., 21 September 1832-30 May 1837 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sandford, P. P., 10 July 1828 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sands, John S., 28 September 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sandford, Daniel, 1 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sargent, Thomas, 18 April 1831-27 May 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Saunders, Turner, 24 August 1829-15 May 1830 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Savage, J. A. and Dillon Stevens, 3 July 1837-10 March 1838
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sawyer, Seymour D., 20 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sax, R., 17 June 1835-30 June 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Schmucher, S. S. and others, 15 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Scott, Eph., 27 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Scott, Juliet, 30 April 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Scott, J. W., 30 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Scott, Orange, 26 September 1825-24 October 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Scott, William, 1 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Seager, Schuyler and others, 25 April 1837-17 April 1838
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Seammon, I. Young, 2 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sewall, Thomas, 21 January 1831-5 May 1838 (24)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sewall, Thomas Jr., 29 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sewell, James, 19 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Seymour, Truman, 4 August 1835-19 December 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Seys, John, 11 July 1835-25 June 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Shafter, I. M., 20 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Shafter, William R., 15 October 1827 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sharp, Daniel, 4 September 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sheldon, H. O., 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Shepard, Samuel, 28 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Silliman, B., 6 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Silliman, Cyrus, 20 September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Simons, Caroline, 19 July 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Skinner, A. N., 13 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sleeper, Jacob, 6 July 1835-30 June 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sleigh, William, 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith &amp; Williams, 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, Augustus W., 22 May 1831-8 November 1836 (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, Benj., 10 June 1838-17 June 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, B. B., 23 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, D., 26 July 1831-23 November 1838 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, D. B., and W. Hodgson, 31 August 1832-27 September 1832
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, Elijha B., 11 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, Gerritt, 5 March 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, John L., 1 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, J. M., 7 October 1831-10 January 1832 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, P. B., 18 December 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, Robert L., 13 October 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, T., 6 May 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Smith, W. A., 1 September 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Snead, James M., 25 February 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Snow, A. B., 3 November 1828-5 September 1838 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sparks, H. Clark, September 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Spaulding, R., 21 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Speer, Samuel W., 2 August 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Spencer, James, 13 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sperry, Abe, 30 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Spicer, T., 19 July 1831-26 June 1837 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Spillmann, Hotel, 26 March 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sprague, Ezra, 28 March 1833-27 April 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sprague, Seth Jr., 31 January 1829-1 December 1837
+                            (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stanard, Nathan, 19 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Staples, William R., 18 March 1830-19 June 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stebbins, Lucinda, 15 January 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Steele, Allen, 26 January 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Steele, Maria, 13 February 1832-28 October 1833 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stevens, A., 24 July 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stevenson, A. C., 1 March 1837-12 April 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stewart, Charles D., 26 June 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stewart, Theophilus, 15 November 1838-11 August 1837
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stewart, William, 12 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stibbs, John Thomas, 3 September 1833-4 November 1834
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stinson, Abner, 14 July 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stocking, Selah, 9 February 1831-8 April 1837 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stovall, Ryell P., 12 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Swingfield, Thomas, 5 February 1835-27 May 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Strong, T., 4 May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stuart, M., 10 April 1837-20 April 1837</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Suckley, George, 16 May 1832-29 July 1834 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Suddards, William, 11 November 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Sunderland, LaRoy, 11 February 1832-8 February 1837
+                            (8)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Swinburn, John, October 1832-7 November 1838 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tabor, J., 26 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Taekaberry, Fassey, 20 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Talbot, M.J., 4 May 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Taylor, Moses, 6 March 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Templeton, James, 19 February 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Terry, David, Jr., 1 June 1837-2 October 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Terry, Eliphalet, 11 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Terry, James, 22 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Terry, Seth, 3 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Teubner, B. G. and Claudius F., June 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thacher, William, 17 February 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thayer, L. R., 3 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thayer, Stephen H., 17 April 1833-24 April 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thomas, James R., 15 April 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thomas, Susan B., 26 March 1834-July 1837 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thompson, A. C., 7 June 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Thornton, Thomas C., 22 March 1838-7 June 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tiffany, C., 6 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tifft, Benjamin, 13 August 1835-11 July 1838 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tillinghaut, Charlotte L., 27 October 1825-1828 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tobey, Joseph and Eliza, 30 November 1830-17 January 1836
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tobey, Leonard, 11 April 1833-17 August 1833 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tomlinson, J. S., 17 January 1839 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Totten, Silas, 17 May 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Townsend, Charles C., 1 August 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tracy, Calvin, 29 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tracy, F. P., 18 November 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Tracy, Ira, 12 April 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>True, Charles K., 14 August 1830-27 June 1835 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>True, Joseph, 22 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>True, William, 4 April 1835-21 April 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Turnbull, N. C., 7 February 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Turner, Chester W., 20 April 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Upham, Thomas, 6 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Usher, William, 8 June 1831-4 July 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Van Normer, D. C., 31 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Van Slyck, J. M., 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Van Valkenburg, John, 16 October 1837-10 January 1838
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Veritas, 4 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Vevers, W., 25 Juoly 1836-22 September 1836 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wakeman, D. E., May 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wakeman, E. B., 20 August 1838-26 October 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wakeman, Jabez, 12 February 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Walker, George, 26 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Walsh, A., 27 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Ward, Jonathan, 14 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waring and Rice, 27 June 1831-12 January 1833 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waterhouse, John, 17 August 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waterman, John A. and David Christy, 19 January 1836
+                            (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waters, F., 29 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Watkinson, John R., 15 August 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Watson, Edwin B., 9 July 1835-20 July 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Watson, F., 29 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waugh, B. and J. Emory, 4 October 1828-1 January 1833
+                            (9)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waugh, Thomas, 14 March 1837-27 April 1837 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Way, N. C., 25 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Way, Townsend, 3 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wayland, T., 15 October 1833-2 June 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Webster, Ira, 19 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Webster, Noah, 24 October 1831-13 November 1831 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Weed, Nathaniel and others, 3 June 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Weeks, S. &amp; S., 12 March 1832-18 December 1833
+                            (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Weld, Allen, 19 July 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Weld, Theodore D., 28 November 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wentworth, Erastus, 27 September 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>West, William, 30 September 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wheaton, N. S., 2 July 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Whedon, D. D., 30 January 1833-4 February 1839 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wheelwright, Joseph, 17 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Whelpley, S. W., March 1830 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>White, George, 15 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>White, N., 18 October 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Whitehouse, Abraham, 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wickware, Albert G., 1 June 1835-2 April 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wrightman, Stillman R., 22 January 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wilber, P. B., 8 June 1837-11 September 1838 (6)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wilder and others, 5 April 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wiley &amp; Putnam, 1837-1 January 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wilkes, J., 9 March 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Willard, J., 18 August 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Willard, Paul and Sherman Leland, 23 January 1829 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Willett, William M., 30 October 1833-3 February 1834
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Williams, Benajah, 8 July 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Williams, H. N., 1834-6 April 1835 (7)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Williams, James C., 1 June 1831-30 March 1835 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Williams, Norman, 2 November 1825-13 October 1826 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Williams, Thomas, 24 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Willing, M. E., 27 June 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Willson, S. W., 30 October 1827-19 November 1829 (4)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wilson, J. R., 23 August 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wilson, Sarah, 8 April 1835 and undated (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Winans, William, 7 July 1832-5 October 1837 (5)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Winsor, Lucy, 26 February 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wolcott, James, 24 December 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wood, Daniel B., 28 April 1836 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wood, Felix, 16 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wood, Francis A., 26 January 1838-10 July 1838 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wood, Nathan M., 5 July 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Woodbridge, W. C., 17 August 1830-25 August 1834 (3)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Woodbury, Levi, 9 July 1832 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Woodward, George, 29 September 1832-28 December 1833
+                            (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Woodworth, Nancy, January 1825-7 September 1826 (2)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Woolsey, Theodore, 5 November 1831 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Worth, Fanning S., 8 March 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, 28 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, Winston and Stebbins, 27 March 1835 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, A. H., 11 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, E. Jr., 18 October 1837 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, John F., 16 September 1834 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, John L., 3 September 1833 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wright, Simeon, 12 October 1813-3 May 1818 (11)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Wurts, Martha H., 2 February 1838 (1)</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Young, Elbert Anderson, 27 June 1838 (1)</unittitle>
+                    </did>
+                </c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </c01>
+
+        </dsc>
+
+    </archdesc>
+</ead>

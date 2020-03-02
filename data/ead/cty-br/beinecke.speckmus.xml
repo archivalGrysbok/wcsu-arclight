@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.speckmus">beinecke.speckmus</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the William A. Speck Collection of Goetheana: Music
+ </titleproper>
+            <titleproper type="filing">Speck (William A.) Collection of Goetheana: Music</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>September                1997</date>
+            <num>YCGL MSS 9</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday March 27, 2019 at 03:31</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>William A. Speck collection of Goetheana : music</unittitle>
+         <unitid>YCGL MSS 9</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="ger">German</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.58</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(2 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1830/1889">1830-1889</unitdate>
+         
+         <abstract id="aspace_b2d04fad508201ff17029acb07ecc84b">The collection, a part of the William A. Speck Collection of Goetheana, consists of manuscript scores, all either settings of texts by Goethe or compositions based on, or inspired by, his works. The music manuscripts include autographs by Liszt, Carl Loewe, Mendelssohn, Johann Friedrich Reichardt, Ludwig Spohr, and Karl Friedrich Zelter. The collection includes a one-page fragment from Beethoven's Egmont Overture, Op. 84, and an early sketch from Wagner's Faust Overture.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/nr97042913"
+                      role="col"
+                      rules="aacr"
+                      source="naf">
+               Speck, William A. (William Alfred), 1864-1928
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_219a85f57ef77a05874c9667e5087f38">
+         <head>Immediate Source of Acquisition</head>
+         <p>Most of the manuscript music in the Speck Collection was assembled by William A. Speck, largely by purchase funded by the University, during the early years of the Collection's presence at Yale. Some items have been added in more recent times.</p>  
+      </acqinfo>
+      <userestrict id="aspace_6f837215dc063d6864c8bfbc55757739">
+         <head>Conditions Governing Use</head>
+         <p>The William A. Speck Collection of Goetheana: Music is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_b1b0b694bab7913f881bb1e8d2343021">
+         <head>Preferred Citation</head>
+         <p>William A. Speck Collection of Goetheana: Music. Yale Collection of German Literature. Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_d662391aa2bf0fc6a98dd63335714b3d">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_9a20a490ee0056a820d9e4c0e76d5fb0">
+         <head>Processing Information</head>
+         <p>This finding aid was produced primarily from a previously existing card set in the Manuscripts Catalog. All pertinent bibliographical information has been retained. "Speck numbers" formerly used to classify material in this collection have been replaced by standard box and folder references.</p>  
+      </processinfo>
+      <relatedmaterial id="aspace_f4afe79addaac0d195553db92d8b947f">
+         <head>Associated Materials</head>
+         <p>
+            <ref xlink:actuate="onRequest"
+                 xlink:href="http://hdl.handle.net/10079/fa/beinecke.speckmss"
+                 xlink:show="new">William A. Speck Collection of Goetheana: Manuscripts (YCGL MSS 6)</ref>
+         </p>  
+      </relatedmaterial>
+      <bioghist id="aspace_d83b41f1d72c5c43db57979b2387d2a0">
+         <head>WILLIAM A SPECK and THE WILLIAM A. SPECK COLLECTION OF GOETHEANA</head>
+         <p>The Speck music manuscripts are an integral part of the more extensive William A. Speck Collection of Goetheana. For biographical information on William A. Speck and a general history and description of the Speck Collection, see the finding aid for the <ref xlink:actuate="onRequest"
+                 xlink:href="http://hdl.handle.net/10079/fa/beinecke.speckmss"
+                 xlink:show="new">William A. Speck Collection of Goetheana: Manuscripts (YCGL MSS 6)</ref>.</p>
+         <p>The manuscript scores listed here are complemented in the Speck Collection by printed scores and librettos gathered on similar principles: music using texts by Goethe or inspired by his works. First editions of songs by Schubert and a copy of the "Leipziger Liederbuch," a collection of songs published by Breitkopf in 1770 and said to contain the first appearance in print of a poem by Goethe, are highpoints of this part of the Speck Collection.</p>  
+      </bioghist>
+      <scopecontent id="aspace_e792a2812c559d3d6d3f3014f06ae15f">
+         <head>Scope and Contents</head>
+         <p>The manuscript scores in the Speck Collection are all either settings of texts by Goethe or compositions based on, or inspired by, his works. Principally from the nineteenth century, the manuscripts include autographs by Liszt, Carl Loewe, Mendelssohn, Johann Friedrich Reichardt, Ludwig Spohr, and Goethe's composer friend Karl Friedrich Zelter, among others. The best-known items are a one-page fragment from Beethoven's <title type="simple" render="italic">
+               Egmont Overture
+            </title>, Op. 84, (folder 2) and an early sketch from Wagner's <title type="simple" render="italic">
+               Faust Overture
+            </title> (folder 3). The Egmont fragment has been described by Georg Kinsky in <title type="simple" render="italic">
+               Die Handschriften von Beethoven's Egmont-Musik
+            </title> (Vienna, 1933) and more recently by Adolf Fecker in <title type="simple" render="italic">
+               Die Entstehung von Beethoven's Musik zu Goethes Trauerspiel Egmont: eine Abhandlung über die Skizzen
+            </title> (Hamburg, 1978). The Wagner fragment, also a single leaf containing 2 pages, belongs to the first version of the work, titled <title type="simple" render="italic">
+               Ouvertüre zu Goethes 'Faust', Ier Theil
+            </title>, completed in 1840 in Paris and later described as "Der einsame Faust (Oder: Faust in der Einsamkeit); ein Tongedicht für das Orchester"; it was considerably revised for the 1855 version, <title type="simple" render="italic">
+               Eine Faust Ouvertüre
+            </title>.</p>
+         <p>The acquisition of the manuscript score of Mendelssohn's song <title type="simple" render="italic">
+               Suleika
+            </title> (Op. 57, no. 3) (folder 10), a setting of a poem from Goethe's <title type="simple" render="italic">
+               West-östlicher Divan
+            </title>, illustrates William Speck's often ingenious methods of pursuing Goethe materials around the world. The Mendelssohn score, as well as a number of important Goethe autographs, was acquired around 1920 from the Chicago banker and collector Oliver R. Barrett. Speck learned that Barrett had an interest in presidential autographs, and since Speck had a fairly easy source of such documents in the person of William Howard Taft, whose tenure at the Yale Law School coincided with Speck's early years as library curator, several exchanges were made: Goethe-related manuscripts for letters Taft had received from his successor, Teddy Roosevelt.</p>
+         <p>Additions are still being made to the Speck collection of music manuscripts, as opportunity allows. Recent acquisitions, 1997-2010, include manuscript scores for Carl Baermann, "An Lina. Gedicht von Goethe," Albert Moeschinger, "Katzenpastete," and Johann Gottlieb Naumann, "Auf den Auen wandlen wir."</p>  
+      </scopecontent>
+      <controlaccess>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83152543"
+                   source="naf">
+            Beethoven, Ludwig van, 1770-1827 ( Egmont)
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79003362"
+                   source="naf">
+            Goethe, Johann Wolfgang von, 1749-1832 -- Songs and music
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no97045065"
+                   source="naf">
+            Goethe, Johann Wolfgang von, 1749-1832 ( Egmont)
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79079048"
+                   source="naf">
+            Liszt, Franz, 1811-1886
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50077310"
+                   source="naf">
+            Loewe, Carl, 1796-1869
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79139515"
+                   source="naf">
+            Mendelssohn-Bartholdy, Felix, 1809-1847
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81118717"
+                   source="naf">
+            Reichardt, Johann Friedrich, 1752-1814
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr97042913"
+                   rules="aacr"
+                   source="naf">
+            Speck, William A. (William Alfred), 1864-1928
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n81032853"
+                   source="naf">
+            Spohr, Louis, 1784-1859
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79089831"
+                   source="naf">
+            Wagner, Richard, 1813-1883
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n82208007"
+                   rules="aacr"
+                   source="naf">
+            Zelter, Carl Friedrich, 1758-1832
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>File List</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">1.5</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1830-1889, n.d.</unitdate>
+            </did>
+            <scopecontent id="aspace_7b1dd65da7642fa39ec8a83686581281">
+               <head>Scope and Contents</head>
+               <p>The scores are arranged alphabetically <lb/> by composer. Works by unidentified <lb/> composers are listed by title at the end.</p>
+            </scopecontent>
+            <c id="ref14" level="subseries">
+               <did>
+                  <unittitle>BAERMANN, CARL</unittitle>
+               </did>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>An Lina. Gedicht von Goethe</unittitle>
+                     <unitdate type="inclusive">1874 May 17</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_4123d0fff466b912e49e5a195b03f9c0"
+                                type="box">1</container>
+                     <container id="aspace_4d6df5238a8abc52373d6b829afba366"
+                                type="folder"
+                                parent="aspace_4123d0fff466b912e49e5a195b03f9c0">1</container>
+                  </did>
+                  <scopecontent id="aspace_9f5c66e9d2af27f8ae032511a3bc664a">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> Song for solo voice and piano in <lb/> D major, marked moderato. <lb/> From Goethe's poem, "Liebchen kommen <lb/> dieses Lieder, Jemasl wieder Dir zu <lb/> Hand! Sitze beim Claviere neider, Wo <lb/> der Freund sonst bei dir Stand . . ." <lb/> On the bottom of the first page is <lb/> Baermann's notation: "Auch dieses kleine <lb/> Liedchen bittet um kleines Plätzchen der <lb/> Erinnerung an Ihren Sie hochverehrenden, <lb/> Carl Baermann senior, München den <lb/> 17.Mai 1874</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref17" level="subseries">
+               <did>
+                  <unittitle>BEETHOVEN, LUDWIG VAN, 1770-1827</unittitle>
+               </did>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>[Egmont. op. 84. Clärchens Tod]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_0f3f14aa52a1f6e97ec46f82e518929a"
+                                type="box">1</container>
+                     <container id="aspace_bf3787c61f404120ad6507665ad80f18"
+                                type="folder"
+                                parent="aspace_0f3f14aa52a1f6e97ec46f82e518929a">2</container>
+                  </did>
+                  <scopecontent id="aspace_3e5f5bb33c034dc2c2ccd838a83cc0d5">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., fragment. <lb/> [2] p. 23 x 32 cm. <lb/> Page [1] contains the last 6 measures <lb/> [32-37] of the music at the death of <lb/> Clärchen, scored for orchestra; on <lb/> p. [2] a notation for instrumentation <lb/> of measures 12-14, and 16 of the <lb/> overture, apparently preparatory for <lb/> a clean copy. With typed ms. of a <lb/> description by George Kinsky. [3] l. <lb/> 28 cm.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Musik Klärchens Tod Bezeichnend</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_a22ee23f4883740c2681c658ab04d5b2"
+                                type="box">1</container>
+                     <container id="aspace_acf9c62180ab62aea2b60f70c0c9b107"
+                                type="folder"
+                                parent="aspace_a22ee23f4883740c2681c658ab04d5b2">3</container>
+                  </did>
+                  <scopecontent id="aspace_3521a56c0ea30113ff10c1c1da3b1485">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [9] p. 25 x 35 cm. <lb/> A copy of Beethoven's music to <lb/> Clärchen's Tod from his Egmont <lb/> overture, op. 84, scored for <lb/> orchestra.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref22" level="subseries">
+               <did>
+                  <unittitle>HAUPTMANN, MORITZ, 1792-1868.</unittitle>
+               </did>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Mignon. Kennst du das Land wo die Citronen blühn . . .</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_100947e184d588c63faf1c3eb908d35a"
+                                type="box">1</container>
+                     <container id="aspace_f5d8f6e3d2ad6fa404f1f059505eb10f"
+                                type="folder"
+                                parent="aspace_100947e184d588c63faf1c3eb908d35a">4</container>
+                  </did>
+                  <scopecontent id="aspace_2c515eb62b8b36da205641ebbc34c4e7">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> For solo voice with piano <lb/> accompaniment. From Goethe's <lb/> Ballad "Wilhelm Meister."</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref25" level="subseries">
+               <did>
+                  <unittitle>HERTZ, ALFRED, 1872-1942</unittitle>
+               </did>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>An Die Entfernte</unittitle>
+                     <unitdate type="inclusive">[18]89[?]</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_528fbeb9e06b86210936f25b830d90f6"
+                                type="box">1</container>
+                     <container id="aspace_442017cc5cd5320cf5d213ff2f90d095"
+                                type="folder"
+                                parent="aspace_528fbeb9e06b86210936f25b830d90f6">5</container>
+                  </did>
+                  <scopecontent id="aspace_de427de02248742cd30154976f437045">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [2] p. 35 cm. <lb/> For solo voice with piano <lb/> accompaniment. Words by Goethe, <lb/> beginning: So hab' ich wirklich dich <lb/> verloren? Note at top of p. [1], <lb/> in blue pencil, October, 89.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref28" level="subseries">
+               <did>
+                  <unittitle>KIENLEN, JOHANN CHRISTOPH, 1784-1830</unittitle>
+               </did>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Lieder aus Goethe's Faust in Musik gesetzt und einer durchlaucht dem regierenden fürsten von Carolath ehrebietungsvoll gewidmet von Kienlen, Kapellmeister des K.K. National Theaters zu Pressburg. Charlottenstrasse no. 42.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_d7f1a5beefae75b322de41ce601c1dd1"
+                                type="box">1</container>
+                     <container id="aspace_753a77f0ae61fd1f6f08bf21a10ec4e5"
+                                type="folder"
+                                parent="aspace_d7f1a5beefae75b322de41ce601c1dd1">6</container>
+                  </did>
+                  <scopecontent id="aspace_ad02ad79ca802a1a7e897dc161732f75">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [16] p. 25 x 34 cm. <lb/> At bottom of t.-p. in another hand, <lb/> 610. For one voice with pianoforte <lb/> accompaniment. Published about 1817, <lb/> Berlin, in Schlesingersche Buch-und <lb/> Musikhandlung, publ. no. 610. <lb/> This is apparently the copy from <lb/> which the published work was printed, <lb/> and is the composer's autograph. The <lb/> words of the songs are written a <lb/> second time in an unidentified hand. <lb/> Contents listed on cards for the <lb/> Schlesinger edition.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref31" level="subseries">
+               <did>
+                  <unittitle>LISZT, FRANZ, 1811-1886</unittitle>
+               </did>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>[Mignon's Lied: Kennst du das Land? Gedicht von Goethe. Music von Franz Liszt]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_3c9788d3e7b848986350d825aa34c810"
+                                type="box">1</container>
+                     <container id="aspace_9d928f02162629d7598ef731d818dba8"
+                                type="folder"
+                                parent="aspace_3c9788d3e7b848986350d825aa34c810">7</container>
+                  </did>
+                  <scopecontent id="aspace_86114c77b62fb013ae793ecd0fe295d0">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [6] p. 34 x 27 cm. <lb/> Vocal score with pianoforte <lb/> accompaniment. At head of p. 1, <lb/> in Hans Bülow's hand: Mscrpt. v. <lb/> Liszt, and Bülow's endorsement, dated <lb/> 1892 to Martin Krause. Original <lb/> draft of the song in the later <lb/> version. The words are not <lb/> completely filled in, one measure <lb/> is cancelled. Published, <lb/> together with the first version, <lb/> in Liszt's Musikalische Werke, <lb/> hrsg. von der Franz Liszt-Stiftung, <lb/> VII. Einstimmige Lieder und <lb/> Gesänge, Bd. 2, with full notes <lb/> as to editions and manuscripts.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref34" level="subseries">
+               <did>
+                  <unittitle>LOEWE, CARL, 1797-1869</unittitle>
+               </did>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Frühzeitiger Frühling</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_dcb3b85417ae6a0e007611f86eb8ddf7"
+                                type="box">1</container>
+                     <container id="aspace_6cb44daec4f0628b6832cc7c8da312f4"
+                                type="folder"
+                                parent="aspace_dcb3b85417ae6a0e007611f86eb8ddf7">8</container>
+                  </did>
+                  <scopecontent id="aspace_c6dfaaee78ac05e8de840e5bb794a607">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [2] p. 16 x 22 cm. <lb/> Four-part song, unaccompanied, <lb/> words by Goethe, beginning: <lb/> Tage der Wonne, kommt ihr so <lb/> bald? <lb/> Published in Loewe's Vierstimmige <lb/> Gesänge für S., A., T u. B., <lb/> seiner Frau componiert. Dresden, <lb/> Paul (Friedel), 1841. Op. 79. <lb/> The words and music are the <lb/> composer's autograph. Title in <lb/> gold letters and an illuminated <lb/> border in colors. At end, in gold <lb/> letters, Göthe und Löwe. The <lb/> decoration is thought to be the work <lb/> of the daughters of Fr. Kugler.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Strömt von der hohen steilen Felswand</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_fde9b537ac58ef223bd34219078e43c0"
+                                type="box">1</container>
+                     <container id="aspace_7dcf74239612f986685e39c5635860c7"
+                                type="folder"
+                                parent="aspace_fde9b537ac58ef223bd34219078e43c0">9</container>
+                  </did>
+                  <scopecontent id="aspace_bd397769f8f409756c1621aefe5fb0d5">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [2] p. 17 x 32 cm. <lb/> Song for one voice with piano <lb/> accompaniment. The composer's autograph <lb/> of a fragment from his op. 88, <lb/> Gesang der Geister über den Wassern <lb/> [by Goethe], for four voices (S.A.T.B.); <lb/> the second stanza only, beginning <lb/> Strömt von der hohen steilen Felswand. <lb/> At end: Johann Karl Gottfried Löwe.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref39" level="subseries">
+               <did>
+                  <unittitle>MENDELSSOHN-BARTHOLDY, FELIX, 1809-1847.</unittitle>
+               </did>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Suleika [Op. 57, no. 3]</unittitle>
+                     <unitdate type="inclusive">1841</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_6c487f55e30d6e591042fe06404c282b"
+                                type="box">1</container>
+                     <container id="aspace_1dc41c30857dd31ec170f8b245894298"
+                                type="folder"
+                                parent="aspace_6c487f55e30d6e591042fe06404c282b">10</container>
+                  </did>
+                  <scopecontent id="aspace_cd0136400829724105a1b254ab63ce62">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed. <lb/> [2] p. 29 x 22 cm. <lb/> For solo voice with piano accompaniment. <lb/> At end of p. [2]: "Lepizig 7t Juni 1841. <lb/> Felix Mendelssohn-Bartholdy." Begins: <lb/> Was bedeutet die Bewegnung; words taken <lb/> from Geothe's West-östlicher Divan. First <lb/> published in 1843 as no. 3 of Sechs <lb/> Lieder mit Begleitung des Pianoforte. <lb/> Op. 57. Leipzig, Breitkopf and Härtel.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref42" level="series">
+               <did>
+                  <unittitle>MOESCHINGER, ALBERT, 1897-1985.</unittitle>
+               </did>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Katzenpastete</unittitle>
+                     <unitdate type="inclusive">1937</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_7e927ed551a26e0c6230693d93ed8b37"
+                                type="box">2</container>
+                     <container id="aspace_4b4254e3da2810159fbb6d70fe4ea315"
+                                type="folder"
+                                parent="aspace_7e927ed551a26e0c6230693d93ed8b37">31</container>
+                  </did>
+                  <scopecontent id="aspace_d973a45b28a78866f04f2d04d5aa543f">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed. Inscribed to Rudolf Jung, 1937 February. <lb/>1 p. 22 x 27 cm. <lb/>Song for voice and piano, on the last four stanzas of Goethe's poem.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref45" level="subseries">
+               <did>
+                  <unittitle>MÖLLINGER, O.</unittitle>
+               </did>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>Sechs Gesänge mit Begleitung des Piano-forte comp von O. Möllinger, Lehrer im Gesang und Pianoforte spielen</unittitle>
+                     <unitdate type="inclusive">[1830?]</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_d0481650be9313ee90b640e7ef002ae5"
+                                type="box">1</container>
+                     <container id="aspace_59c057aa11d486a66ab9f2270031f9b3"
+                                type="folder"
+                                parent="aspace_d0481650be9313ee90b640e7ef002ae5">11</container>
+                  </did>
+                  <scopecontent id="aspace_1cb0a5aec5cd8777e14c2299a72a698b">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> 1p.l., [12] p. 23 x 32 cm. <lb/> Stamps on t.-p.: No. 36, and <lb/> book-stamp, Luise P.v.P., with <lb/> crown.</p>
+                  </scopecontent>
+                  <scopecontent id="aspace_bd15afec8c00592ff647ea69b9e44e2f">
+                     <head>Scope and Contents</head>
+                     <p>Contents: <lb/> 1. Schlachtgesang. Gedicht von <lb/> Klopstock: wie erscholl der <lb/> Gang des lauten Heers. <lb/> 2. Mailied eines Mädchens. <lb/> Von Voss: Seht den Himmel wie <lb/> heiter. <lb/> 3. Dieses Bangen, dieses Sehnen. <lb/> 4. Kalge. Gedicht von Sophie <lb/> Mereau: Im sonningen Schimmer. <lb/> 5. An die Entfernte. Gedicht von <lb/> Göthe: So hab' ich wirklich dich <lb/> verloren. <lb/> 6. Die Sommernacht. Gedicht von <lb/> Klopstock: Wenn der Schimmer von <lb/> dem Monde.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref49" level="series">
+               <did>
+                  <unittitle>NAUMANN, JOHANN GOTTLIEB, 1741-1801.</unittitle>
+               </did>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Auf den Auen wandlen wir</unittitle>
+                     <unitdate type="inclusive">1785 September</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_2aaefe25c820e53c5dcd2dfd9e278d16"
+                                type="box">2</container>
+                     <container id="aspace_ed5ac75affb9117ab281e5afa96bb09a"
+                                type="folder"
+                                parent="aspace_2aaefe25c820e53c5dcd2dfd9e278d16">30</container>
+                  </did>
+                  <scopecontent id="aspace_e278c684145c29080a24c7b803dfec50">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed and dated at Copenhagen. <lb/>[2] p. 15 x 21 cm. <lb/>Song for voice and piano, on a poem first published by Bernhard Suphan in Goethe-Jahrbuch, 1890. <lb/>Title from first line.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref52" level="subseries">
+               <did>
+                  <unittitle>PLÜDDEMANN, MARTIN, 1854-1897.</unittitle>
+               </did>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Ritter Kurt's Brautfahrt [by Goethe]</unittitle>
+                     <unitdate type="inclusive">1883</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_cd81dc7e9d78b35db305344da6145282"
+                                type="box">1</container>
+                     <container id="aspace_e6bf95a82f5de4726e1dfdd1c5b3fbef"
+                                type="folder"
+                                parent="aspace_cd81dc7e9d78b35db305344da6145282">12</container>
+                  </did>
+                  <scopecontent id="aspace_5098105ff0c8de40ee98d3f2f54e765f">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed M. <lb/> Plüddemann 1883. <lb/> [9] p. 34 cm. <lb/> For one voice with pianoforte <lb/> accompaniment. Published about 1893, <lb/> in his Balladen und Gesänge für Bariton <lb/> oder Bass. Nürnberg, Schmid, Bd. 3, <lb/> No. 4. Begins: Mit des Bräutigams <lb/> Behagen.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref55" level="subseries">
+               <did>
+                  <unittitle>PREYER, GOTTFRIED, 1807-1901</unittitle>
+               </did>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Mignon. Dichtung v. Göthe. Musik v. Gfd. Preyer.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_ba57fae5c0e809b7fbd770857c1142bb"
+                                type="box">1</container>
+                     <container id="aspace_6d1eb85cf80de4061f466e480e09e56a"
+                                type="folder"
+                                parent="aspace_ba57fae5c0e809b7fbd770857c1142bb">13</container>
+                  </did>
+                  <scopecontent id="aspace_72fb053572d123f95ac182368dedf99c">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed <lb/> [3] p. 21 x 28 cm. <lb/> Song for alto or bass voice with piano <lb/> accompaniment, in strophic form. <lb/> Begins: Kennst du das Land? Apparently <lb/> unpublished. Written on six-line music <lb/> manuscript paper ruled in blue, with <lb/> line border in red.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref58" level="subseries">
+               <did>
+                  <unittitle>[REICHARDT, JOHANN FRIEDRICH], 1752-1814</unittitle>
+               </did>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>[Jery und Bätely. Singspiel in 1 Akt von Goethe]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_7cc80246c10abb78280421e0f60c5001"
+                                type="box">1</container>
+                     <container id="aspace_34fd9e1a14ffe6648268d04a1d5c4ab3"
+                                type="folder"
+                                parent="aspace_7cc80246c10abb78280421e0f60c5001">14</container>
+                  </did>
+                  <scopecontent id="aspace_039e44559ff440095a1f58d10fba1db6">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. of the songs only. <lb/> [188] p. 34 cm. <lb/> On p. 1: Ouverture zu Bätely und <lb/> Jeri. For solo voices, chorus, and <lb/> orchestra. Full score. <lb/> On wrapper, Henriette Kühne-Harkort. <lb/> Madame Kühne-Harkort was a singer <lb/> who appeared in concert and oratorio <lb/> about 1836 and 1838. She is referred <lb/> to as "Dilettante und echte Künstlerin" <lb/> Cf. Allgemeine musikalische Zeitung, <lb/> Bd. 38, no. 23, col. 765, 1836.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref61" level="subseries">
+               <did>
+                  <unittitle>RÜFER, PHILIPP, 1810-1891</unittitle>
+               </did>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>[Meeresstille und glückliche fahrt]</unittitle>
+                     <unitdate type="inclusive">1872</unitdate>
+                     <container label="Mixed Materials (39002091629429)"
+                                id="aspace_47b525984d20d8108a44f49724ec51ee"
+                                type="box">1</container>
+                     <container id="aspace_3104b28048ee93721b13e6cc30991ed8"
+                                type="folder"
+                                parent="aspace_47b525984d20d8108a44f49724ec51ee">15</container>
+                  </did>
+                  <scopecontent id="aspace_0ecf9179e1ab31086defc1ff67150d24">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., fragment. <lb/> [4] p. 32 x 26 cm. <lb/> For four voices with pianoforte <lb/> accompaniment. Two poems by Goethe, <lb/> unfinished, ending with the first <lb/> line of the second poem, Die Nebel <lb/> zerreissen. In pencil, at head of <lb/> p. [1]: Manuscript v. Philipp Rüfer. <lb/> 1872. Willi Müller.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref64" level="subseries">
+               <did>
+                  <unittitle>RUNGENHAGEN, CARL FRIEDRICH, 1778-1851</unittitle>
+               </did>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>Drey Gedichte von Göthe und Novalis. Musik von C:F: Rungenhagen</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_512ea3bc5dc37abb54f612c75ac9ea8c"
+                                type="box">2</container>
+                     <container id="aspace_5e4e06efc50b7bce74fe8a765a0269e9"
+                                type="folder"
+                                parent="aspace_512ea3bc5dc37abb54f612c75ac9ea8c">16</container>
+                  </did>
+                  <scopecontent id="aspace_890b7c1869c5693ad7153e30ca548801">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [14] p. 24 x 30 cm. <lb/> The first and third songs are for <lb/> one voice with piano accompaniment, <lb/> the second for soprano, alto, tenor <lb/> and bass, with soprano solo and <lb/> piano accompaniment; the second <lb/> in strophic form. On t.-p.: <lb/> Der Königl. Preuss. ersten Sängerin <lb/> Frau Milder Hauptmann ergebenst <lb/> zugeeignet vom Verfasser.</p>
+                  </scopecontent>
+                  <scopecontent id="aspace_57961745d7cd6a0b3cbab413cc50d6c3">
+                     <head>Scope and Contents</head>
+                     <p>Contents: <lb/> 1. Gretchen vor einem Andachtsbild <lb/> der Mater Dolorosa, aus Göthe's <lb/> Faust: Ach neige, du Schmerzensreiche. <lb/> 2. Trost in Thränen, von Göthe: Wie <lb/> kommts, dass du so traurig bist. <lb/> 3. Maria, von Novalis: Ich sehe <lb/> dich in tausend Bildern.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>Lebensmelodien. Gedicht von A.W. Schlegel. Music von C.F. Rungenhagen.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_5542bc3e1c1acf73338a7f6c1c8552da"
+                                type="box">2</container>
+                     <container id="aspace_2f80a52d4785192b9a8beb863116d09e"
+                                type="folder"
+                                parent="aspace_5542bc3e1c1acf73338a7f6c1c8552da">17</container>
+                  </did>
+                  <scopecontent id="aspace_ffe401dd90e77be2348f6fed88b634d3">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [9] p. 24 x 30 cm. <lb/> Three songs, two for one voice with <lb/> piano accompaniment, the third for <lb/> two voices and piano, all in strophic <lb/> form. On t.-p.: Der Königl. Sängerin <lb/> Madame Milder von Componisten. Contents: <lb/> Der Schwan. <lb/> Der Adler. <lb/> Die Tauben.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref70" level="subseries">
+               <did>
+                  <unittitle>SCHACHNER, JOSEPH, 1816-1876</unittitle>
+               </did>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>Rondeau pour le Piano-forte sur un theme favori de Robert le Diable composé et tres humble et tres soumis serviteur Jos. Schachner</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_5f241beba41c98ce258ac94f8acaa726"
+                                type="box">2</container>
+                     <container id="aspace_e9734312e912cb5ba95c262b7b0a8b45"
+                                type="folder"
+                                parent="aspace_5f241beba41c98ce258ac94f8acaa726">18</container>
+                  </did>
+                  <scopecontent id="aspace_da4f801e4237237fb3e51d0f28b58b53">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> 1p.l., [23] p. 30 cm. <lb/> Presumably the composer's autograph <lb/> ms., except for the t.-p. which is <lb/> in calligraphic hand, decorated with <lb/> scrolls and flourishes. <title type="simple" render="italic">
+                           Robert le Diable
+                        </title>, <lb/> an opera by Giacomo Meyerbeer, <lb/> was performed for the first time in 1831. <lb/> "Dédié à Sa Majesté la Reine Caroline <lb/> de Baviére."</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref73" level="subseries">
+               <did>
+                  <unittitle>SCHLEUSSNER</unittitle>
+               </did>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>Lieder von Schleussner. Eigene Handschrift</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_fb810f5a9b2a1b09eaa74f7286b04568"
+                                type="box">2</container>
+                     <container id="aspace_28bf03cab63335f0cf9ff8178eb78c36"
+                                type="folder"
+                                parent="aspace_fb810f5a9b2a1b09eaa74f7286b04568">19</container>
+                  </did>
+                  <scopecontent id="aspace_61b2bc1d90e8a342b670806ac62a2643">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [26] p. 24 x 31 cm. <lb/> Songs for one or two voices, with <lb/> accompaniment for piano or guitar. <lb/> One song, Sieh mich Heil'ger wie <lb/> ich bin, has accompaniment of <lb/> violins, oboe obbligato, viola, <lb/> and bass. The title is in Zelter's <lb/> handwriting, cf. pencil note <lb/> on t.-p. The page references <lb/> for the Goethe songs are to the <lb/> edition pub. by Göschen, Leipzig, 1790.</p>
+                  </scopecontent>
+                  <scopecontent id="aspace_c197fd3bfe6241a7b783590be91b4301">
+                     <head>Scope and Contents</head>
+                     <p>Contents: <lb/> 1. Unser süsster Beruf [Text von] <lb/> Gotter <lb/> 2. Mädel schau mir ins Gesicht [Text <lb/> von] Bürger. <lb/> 3. Ein Pilgermädel jung und schön <lb/> [Text von] Bürgers Gedichte, 2., s. 102. <lb/> 4. Ich und der Bach: Hier unterm <lb/> stillen Hüttendach [Text von] Werthing. <lb/> 5. Willst du frey und lustig gehn <lb/> [Text von] Jacobi. <lb/> 6. Dich sanfter Jüngling [Text von] <lb/> Tiedge. <lb/> 7. Der Storch bring nun ein Brüderlein <lb/> [Text von] Claudius. <lb/> 8. Als ich einige Gräber: Süsser Mohn <lb/> umkränzt [Text] von Soph. Albrecht. <lb/> 9. Selma: Sie liebt mich, liebt <lb/> der Auserwählte [Text] von Voss. <lb/> 10. Es war ein König in Tule [Von] <lb/> Göthe's Schriften, 7. Bd. Faust, S. 94 <lb/> 11. Meine Ruh ist hin [Von] Göthe's <lb/> Schriften, 7. Bd. Faust, S. 133. <lb/> 12. Freude, schöner Götterfunken <lb/> [Text von Schiller] <lb/> 13. Ein Veilchen auf der Wiese stand <lb/> [Von] Göthe's Schriften, 5. Bd. Erwin <lb/> und Elmire, s. 338. <lb/> 14. Wer nie in schnöder Wollust <lb/> Schoss [Von] Bürger's Gedichte.</p>
+                  </scopecontent>
+                  <scopecontent id="aspace_cd73003fbeb30f32b86230cfa0509fd3">
+                     <head>Scope and Contents</head>
+                     <p>15. Der Feind ist da, die Schlacht <lb/> beginnt [Text von] Klopstock. <lb/> 16. Sieh mich Hielger wie ich bin <lb/> [Text von] Erwin und Elmire v. <lb/> Göthe [two settings] <lb/> 17. Que le jour me dure passé <lb/> loin de toi [Anon.]</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref78" level="subseries">
+               <did>
+                  <unittitle>SPOHR, LUDWIG, 1784-1859</unittitle>
+               </did>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>Bruchstück aus den für England 1852 nachcomponirten recitativen etc. zu seiner Oper "Faust".</unittitle>
+                     <unitdate type="inclusive">1852</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_feda33df787a99f4b361342924f36693"
+                                type="box">2</container>
+                     <container id="aspace_cdb4e5b8acba0740700edce50bf29e53"
+                                type="folder"
+                                parent="aspace_feda33df787a99f4b361342924f36693">20</container>
+                  </did>
+                  <scopecontent id="aspace_3f3db4ba137db0cb156ef6cbd42b7613">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [2] p. 21 x 34 cm. <lb/> For one voice with piano accompaniment. <lb/> A sketch from Act 3, no. 19; the <lb/> words: tobenden Flammen. der <lb/> sterbende grauenvollen Bilder, die <lb/> mich gleich Furien geschrecht im <lb/> Augenblick der höchsten Freude? <lb/> Wie? war vie-[lleicht es meine <lb/> Letzte? die Letzte? ja, sie soll's <lb/> ge]-wesen sien! Hiermit entsage ich <lb/> der Hölle Banden, die mir nicht <lb/> loren! Ihr stolzen Träume, die ihr <lb/> mich verführtet, fahrt hin! ich kenne <lb/> nun die Schranken, die Sterbliche <lb/> nicht überspringen sollen. <lb/> Note at head of p. [1]: Dass dieses <lb/> Manuscriptstück Sporhs eigne <lb/> Handschrift ist, bescheinigt <lb/> dessen Wittwe Marianne Spohr, <lb/> geb. Pfeiffer. Cassel, Nov. 1880. <lb/> With ALS from Ad. Harvier to Carl <lb/> Pollitz, Cassel 6 Nov 1880, forwarding <lb/> this ms. The text as here given varies <lb/> only slightly from that in the published <lb/> score. The music shows slight <lb/> differences throughout.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>Neue Liebe, neues Leben (von Göthe). Lied für eine Singstimme mit Begleitung des Pianoforte, componirt von L. Spohr. revidirt von Carl Rundnagel</unittitle>
+                     <unitdate type="inclusive">[1858]</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_da920d5a01dc7534f6d233d4583af34d"
+                                type="box">2</container>
+                     <container id="aspace_543957db841dba8292eb362f4c681ae3"
+                                type="folder"
+                                parent="aspace_da920d5a01dc7534f6d233d4583af34d">21</container>
+                  </did>
+                  <scopecontent id="aspace_1a6ed6cb632a73cb77d2084b976544e7">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [3] p. 35 cm. <lb/> In caption-title: Componirt 1858; <lb/> [footnote:] Letzte Gesangcomposition <lb/> des Meisters. Composed in 1858, <lb/> for the Deutscher Musenalmanach, at the <lb/> request of the editor, Christian Schad. <lb/> cf. Spohr, Selbstbiographie, Bd. 2, <lb/> p. 395-6. According to Goedeke it was <lb/> not published.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref83" level="subseries">
+               <did>
+                  <unittitle>VOLKMANN, ROBERT, 1815-1883</unittitle>
+               </did>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>Die Bekehrte von Göthe, für Sopran mit Clavierbegleitung componirt von Robert Volkmann [op. 54] Mit Clavierbegleitung componirt von Robert Volkmann [op. 54]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_4bb7644897d6b2a45b57b406c6bc50ca"
+                                type="box">2</container>
+                     <container id="aspace_85909fcc1fbd2ebf40bcd7b72fd47c9f"
+                                type="folder"
+                                parent="aspace_4bb7644897d6b2a45b57b406c6bc50ca">22</container>
+                  </did>
+                  <scopecontent id="aspace_19c55d931746e4911cda0b573ce102b5">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [1], 6. p. 33 cm. <lb/> Begins: Bei dem Glanz der Abendröthe. <lb/> Published by B. Schott's Söhne, Mainz, <lb/> ca. 1867.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref86" level="subseries">
+               <did>
+                  <unittitle>WAGNER, RICHARD, 1813-1883</unittitle>
+               </did>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>[Eine Faust Ouvertüre]</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_6475061fb1ea6ff42e2d222fe710854c"
+                                type="box">2</container>
+                     <container id="aspace_50bb394d00958fa38b00a236c912b306"
+                                type="folder"
+                                parent="aspace_6475061fb1ea6ff42e2d222fe710854c">23</container>
+                  </did>
+                  <scopecontent id="aspace_09c603d146a1addf63f6775b8c2e0743">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., fragment, bars 61-240, <lb/> of the first version, with corrections. <lb/> 2 p. 36 x 27 cm. Fragment of sketch <lb/> for the first version of the work, <lb/> completed in 1840 and given the title <lb/> Ouvertüre zu Goethe's 'Faust', Ier Theil. <lb/> This version is also known as Der <lb/> einsame Faust (or: Faust in der <lb/> Einsamkeit); ein Tongedicht für das <lb/> Orchester. Fragment corresponds to <lb/> measures 59-257 of the final version, <lb/> printed by Breitkopf &amp; Härtel in 1855, <lb/> which incorporates major revisions.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref89" level="subseries">
+               <did>
+                  <unittitle>WEITZMANN, KARL FRIEDRICH, 1808-1880</unittitle>
+               </did>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Mignon in Engelskleidern v. Göthe, comp. v. C. Weitzmann.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_ead1698243bd239cbbab57e84e92f06a"
+                                type="box">2</container>
+                     <container id="aspace_d8dcb5555ffe91d3fbcafe0b80e8773e"
+                                type="folder"
+                                parent="aspace_ead1698243bd239cbbab57e84e92f06a">24</container>
+                  </did>
+                  <scopecontent id="aspace_a4a334bfbf05da04cf9610de3241d7da">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [7] p. 9 x 11 cm. <lb/> Caption-title: Mignon v. Göthe. <lb/> For one voice with piano accompaniment. <lb/> Begins: So lasst mich scheinen. From <lb/> Goethe's Wilhelm Meisters Lehrjahre. <lb/> Apparently unpublished.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref92" level="subseries">
+               <did>
+                  <unittitle>ZELTER, CARL FRIEDRICH, 1758-1832</unittitle>
+               </did>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>An Mignon [and] Wonne der Wehmuth</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_f3b3e6403e25fb0c13539664f6282e45"
+                                type="box">2</container>
+                     <container id="aspace_8dcb5654c078ef579bb72ae980a72bdf"
+                                type="folder"
+                                parent="aspace_f3b3e6403e25fb0c13539664f6282e45">25</container>
+                  </did>
+                  <scopecontent id="aspace_d94a48b53be9d4125a1d0abe6d3e0671">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms., signed. <lb/> [2] p. 27 x 33 cm. <lb/> Caption titles. An Mignon: Ueber <lb/> Thal und Fluss getragen, song for <lb/> one voice with piano accompaniment. <lb/> Words of the first stanza with <lb/> music; second-fourth stanzas at <lb/> bottom of page. At end: Göthe. Mus. <lb/> v. Zelter. Wonne der Wehmuth: <lb/> Trocknet nicht, song for one voice <lb/> with piano accompaniment. <lb/> At end: Göthe. Mus. v. Zelter. <lb/> An Mignon, with the melody as in <lb/> the ms., but with different <lb/> accompaniment, was pub. in Melodien <lb/> zum Schillerschen Musenalmanach, <lb/> 1798, and again in Zelter's <lb/> Zwölf Lieder am Klavier zu singen, <lb/> Berlin, 1801, bei G.F. Starke. <lb/> Wonne der Wehmuth is apparently <lb/> unpublished. A second ms., in the <lb/> Preussische Staats-Bibliothek Berlin, <lb/> differs slightly. - cf. Letter from A. <lb/> Kippenberg, Sept. 3, 1931 <lb/> [in folder with ms.]</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref95" level="subseries">
+               <did>
+                  <unittitle>UNIDENTIFIED COMPOSERS</unittitle>
+               </did>
+               <c id="ref96" level="file">
+                  <did>
+                     <unittitle>Gesänge mit Begleitung des Piano-forte</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_2cde7f9b2ead1533b3d9c363fc973805"
+                                type="box">2</container>
+                     <container id="aspace_5180b7c974b7227cd353a1d38af354b5"
+                                type="folder"
+                                parent="aspace_2cde7f9b2ead1533b3d9c363fc973805">26</container>
+                  </did>
+                  <scopecontent id="aspace_9ee83a13fd38db2cb728eda3a3bdbd48">
+                     <head>Scope and Contents</head>
+                     <p>Manuscript copy of a collection <lb/> of songs wrongly attributed to <lb/> Joh. Fried. Reichardt. <lb/> [23] p. 19 x 34 cm. <lb/> At bottom of t.-p., in another hand, <lb/> Joh. Fried. Reichardt; in pencil, <lb/> Reichardt. A comparison of the <lb/> handwriting with that of Reichardt's <lb/> manuscripts shows it not to be his. <lb/> Reichardt composed music for no. 1 <lb/> and no. 8, but his settings differ <lb/> from those given here. None of the <lb/> remaining songs listed in any of his <lb/> published collections. The music for <lb/> "Der König in Thule" is composed by <lb/> Johann George Wilhelm Schneider.</p>
+                  </scopecontent>
+                  <scopecontent id="aspace_54ff1e5aa9d47f51ecb9f6d5661db139">
+                     <head>Scope and Contents</head>
+                     <p>Contents: <lb/> 1. Treulieb: Treulieb ist nimmer <lb/> weit [at end] Tiek Strenbald [i.e. <lb/> from Tieck's romance, Franz <lb/> Sternbalds Wanderungen] <lb/> 2. Lied: Süsse Ahndungsschauer <lb/> gleiten [at end] Tiek. Phantasie. <lb/> 3. Geistliches Lied: Wenn ich nur <lb/> habe [at end] Novalis. <lb/> 4. Sehnsuchtrufen: Holdes holdes <lb/> Sehnsuchtrufen [at end] Tiek <lb/> Sternbald. <lb/> 5. An den Erlöser: Löser Sünden <lb/> erlöse mich. <lb/> 6. Ballad: Nacht wie so schaurig <lb/> 7. An den Erlöser: Du der in Schmach <lb/> und Hohne [at end] Giesebracht [?] <lb/> 8. Der König in Tule: Es war ein <lb/> König in Tule [at end] Göthe. <lb/> 9. Lied: O alte Heimath süss <lb/> [at end] Tiek <lb/> 10. Komm herbei Tod [at end] <lb/> Schakspear <lb/> 11. Lied des Aladdin am Grabe <lb/> seiner Mutter: Schlafe Kind im <lb/> Blumenbeet</p>
+                  </scopecontent>
+               </c>
+               <c id="ref99" level="file">
+                  <did>
+                     <unittitle>Mignon. Klavierauszug.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_5cd15999ea8d50c14690fd9cdb494da4"
+                                type="box">2</container>
+                     <container id="aspace_91fdeef7ba59b290cc034de4a6b771c6"
+                                type="folder"
+                                parent="aspace_5cd15999ea8d50c14690fd9cdb494da4">27</container>
+                  </did>
+                  <scopecontent id="aspace_c6b2d6a79b5686d13654acef58157d5b">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [55] p. 35 cm. <lb/> For double chorus with piano <lb/> accompaniment, which was originally <lb/> for orchestra. The Requiem für <lb/> Mignon from Goethe's Wilhelm Meister's <lb/> Lehrjahre; begins: Wen bringt ihr <lb/> uns zur stillen Gesellschaft?</p>
+                  </scopecontent>
+               </c>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>Nein! Darf ich zu deinem Preise, nach treuer Sänger-weise, ein kleines Lied dir weih'n!</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_ff91aa9608f3baff667672b2761ad8e0"
+                                type="box">2</container>
+                     <container id="aspace_4e805380dee76f57fcfa8a932f04994c"
+                                type="folder"
+                                parent="aspace_ff91aa9608f3baff667672b2761ad8e0">28</container>
+                  </did>
+                  <scopecontent id="aspace_d7ff2686bf3b748ac997810a0a207ea3">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> [3] p. 14 x 18 cm. <lb/> Song for one voice with piano <lb/> accompaniment Signed, N. Huber. Within <lb/> blind embossed border. "Fanny Miller" <lb/> and "von Göthe" written above title, <lb/> but the text apparently is not by Göthe</p>
+                  </scopecontent>
+               </c>
+               <c id="ref103" level="file">
+                  <did>
+                     <unittitle>Sammlung v. Liedern für Guitarre u. Klavier</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091629437)"
+                                id="aspace_8ce98095373923b8852f7455efd5ffc3"
+                                type="box">2</container>
+                     <container id="aspace_5b0e17846b79a2752e7fa4d9c1dc5a42"
+                                type="folder"
+                                parent="aspace_8ce98095373923b8852f7455efd5ffc3">29</container>
+                  </did>
+                  <scopecontent id="aspace_ada8f9756b31abcb96c627b610f7f24c">
+                     <head>Scope and Contents</head>
+                     <p>Autograph ms. <lb/> 78 p. of music. 17 x 20 cm. <lb/> Transcriber unknown. Text by Goethe, <lb/> Schiller, and others; music by Zelter, <lb/> Zumsteeg, Harder, and others. Partial <lb/> contents: <lb/> Goethe: 1. An die Erwahlte! (Hand in <lb/> Hand und Lipp auf Lippe). <lb/> 5. Stirbt der Fuchs (Nach Mittage sassen <lb/> wir junges Volk) <lb/> 6. Frühlings Orachel! (Du prophetscher <lb/> Vogel). <lb/> 15. An die Entfernte (So hab ich <lb/> wirklich dich verloren?). <lb/> 27. Gedicht [Mignon] (Kennst du das <lb/> Land?) [music by Hausler]. <lb/> Schiller: 30. Monolog der Maria Stuart <lb/> (O Dank! Dank diesen freundlich grünen <lb/> Bäumen) [music by Zumsteeg] <lb/> 31. Abschieds Lied Johannes aus Schillers <lb/> Jungfrau von Orleans (Lebt wohl irh Berge, <lb/> ihr geliebten Triften) [music by <lb/> Zumsteeg] <lb/> One sheet of music for piano [?] laid in.</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.0017">mssa.ms.0017</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the George G. Phelps Family Papers
+ </titleproper>
+            <titleproper type="filing">Phelps (George G) Papers</titleproper>
+            <author>Compiled by Staff of Manuscripts and Archives under the supervision of Francis Radvonovsky</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>September 1969</date>
+            <num>MS 17</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Saturday December  8, 2018 at 08:16</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>George G. Phelps Family papers</unittitle>
+         <unitid>MS 17</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1838/1927">1838-1927</unitdate>
+         
+         <abstract id="aspace_ce228bfd35cf14bf2c5d31681e5729c7">Correspondence and business papers of George G. Phelps, farmer and businessman, and other members of the Phelps family of Hebron, Meriden and Wallingford, Connecticut.</abstract>
+         <origination label="creator">
+            <persname rules="aacr" source="local">
+               Phelps, George G.
+            </persname>
+         </origination>
+    
+      </did>
+      <prefercite id="aspace_617178f41e8067dc6c53de69ba180ffc">
+         <head>Preferred Citation</head>
+         <p>George G. Phelps Family Papers (MS 17). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <acqinfo id="aspace_1bf2d95befcc15ac90235291c4762a76">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased from George L. Gaines, Jr., in 1942.</p>  
+      </acqinfo>
+      <arrangement id="aspace_c72613c3cc83852e4a0bac17513045ef">
+         <head>Arrangement</head>
+         <p>I. Correspondence. II. General Subject Files.</p>  
+      </arrangement>
+      <accessrestrict id="aspace_41b038a955063833ceeb601dbd1a9265">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_7014e0a646606a1f2c359d34b6b32560">
+         <head>Scope and Contents</head>
+         <p>The papers of George G. Phelps and other members of the Phelps Family of Hebron, Meriden and Wallingford, Connecticut, consist primarily of family letters, business letters and papers for the period 1838-1928. Most of the correspondence is concentrated in the period 1855-1859 and concerns Mr. Phelps' farm in Manchester, various real estate interests in Hebron, Grand Lodge matters and proceedings on financial notes. The 173 piece collection was purchased from George L. Gaines, Jr., in 1942, and is of limited historical interest, providing some information on the business of farming in Connecticut in the mid-nineteenth century and on the local history of the towns discussed in the letters.</p>  
+      </scopecontent>
+      <userestrict id="aspace_258005e72095650e8807f23ee2dd5b5f">
+         <head>Conditions Governing Use</head>
+         <p>Unpublished materials authored or otherwise produced by the creator(s) of this collection are in the public domain. There are no restrictions on use. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <controlaccess>
+         <subject source="local">
+            Agriculture -- Connecticut
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85002415"
+                  source="lcsh">
+            Agriculture
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009"
+                  source="lcsh">
+            Families
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n79074102"
+                   source="lcsh">
+            Connecticut
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n81018402"
+                   source="lcsh">
+            Manchester (Conn.)
+         </geogname>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047270"
+                  source="lcsh">
+            Farmers
+         </subject>
+         <persname rules="aacr" source="local">
+            Phelps, George G.
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85100657"
+                  source="lcsh">
+            Phelps family
+         </famname>
+      </controlaccess>
+      <dsc>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1854-1859, 1926-1927</unitdate>
+               <physdesc id="aspace_ec2b478cf1399a442d7d5ad9e1b9377a">3" 1/2 Box</physdesc>
+            </did>
+            <scopecontent id="aspace_2ab96005800ce593a652e3a3f082a046">
+               <head>Scope and Contents</head>
+               <p>Correspondence contains family and business letters written to George G. Phelps, Mary Page Phelps, Elizabeth Phelps, Harriet C. Phelps, and Emma K. Foskett. The letters are arranged alphabetically by name of author for each member of the family.</p>
+               <p>Topics covered in letters include George G. Phelps' farm in Wallingford, real estate interests and Grand Lodge matters.</p>
+            </scopecontent>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Letters to George G. Phelps</emph>
+                  </unittitle>
+               </did>
+               <c id="ref12" level="file">
+                  <did>
+                     <unittitle>Bissel, [P?]</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_a43b28b8c5910f12bc3234d018c64a9d"
+                                type="box">1</container>
+                     <container id="aspace_6089d31247926d8c28d73ab9f07fa0bf"
+                                type="folder"
+                                parent="aspace_a43b28b8c5910f12bc3234d018c64a9d">1</container>
+                  </did>
+               </c>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Bishop, Alfred</unittitle>
+                     <unitdate type="inclusive">1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b2ef10e3f7ea8196ebd3b5b5c3ab3266"
+                                type="box">1</container>
+                     <container id="aspace_b92f31581129ab882bf050cb5d3c8ab6"
+                                type="folder"
+                                parent="aspace_b2ef10e3f7ea8196ebd3b5b5c3ab3266">2</container>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Bliss, B.S.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_e2f9e6243f321d991a908a5c3d3a1499"
+                                type="box">1</container>
+                     <container id="aspace_bbcbdbe590560f55c5f8278484bdb696"
+                                type="folder"
+                                parent="aspace_e2f9e6243f321d991a908a5c3d3a1499">3</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Campbell, James</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_81184a22407efc4db3ff56e62f97106e"
+                                type="box">1</container>
+                     <container id="aspace_de357ca412eceda9fd772fe1df5fb8ec"
+                                type="folder"
+                                parent="aspace_81184a22407efc4db3ff56e62f97106e">4</container>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Elliot, George</unittitle>
+                     <unitdate type="inclusive">1855-1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b2ab7fe6f3229e77e47b552f0a6f40e8"
+                                type="box">1</container>
+                     <container id="aspace_095086634cb701059b3df1b7cecbb183"
+                                type="folder"
+                                parent="aspace_b2ab7fe6f3229e77e47b552f0a6f40e8">5</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Fitch, Henry H.</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_21d2525bcf3bc738eacf6b193a399770"
+                                type="box">1</container>
+                     <container id="aspace_390c0c853537b966726d0d44c437343d"
+                                type="folder"
+                                parent="aspace_21d2525bcf3bc738eacf6b193a399770">6</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Fitch, S.S.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_67b9a3e4240106031c91aba87dc919ca"
+                                type="box">1</container>
+                     <container id="aspace_e3f872d6d8dde2b41c855591542c5a40"
+                                type="folder"
+                                parent="aspace_67b9a3e4240106031c91aba87dc919ca">7</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Gilbert, Leyton R.</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_7d6be78f6667ab148b3bae4df8b63d97"
+                                type="box">1</container>
+                     <container id="aspace_f259bda7b30da9b011cd130c05c26bfb"
+                                type="folder"
+                                parent="aspace_7d6be78f6667ab148b3bae4df8b63d97">8</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Gillet, N.</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_a6617e4a6c68375e78f8557bf681cc01"
+                                type="box">1</container>
+                     <container id="aspace_6b0e12bf79ffeaa3b1e41649bef80000"
+                                type="folder"
+                                parent="aspace_a6617e4a6c68375e78f8557bf681cc01">9</container>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Gillett, G.</unittitle>
+                     <unitdate type="inclusive">1858-1859</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_c428511b9aa7f6fb0b4b8675e482416b"
+                                type="box">1</container>
+                     <container id="aspace_0f37cf3ccbfa96763fdb38ea6b15972e"
+                                type="folder"
+                                parent="aspace_c428511b9aa7f6fb0b4b8675e482416b">10</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Hanks, F.F.</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_70cdc124886b2cb64ba90850bd1aaf3a"
+                                type="box">1</container>
+                     <container id="aspace_268fe02de4baabe5903bc300a98ab401"
+                                type="folder"
+                                parent="aspace_70cdc124886b2cb64ba90850bd1aaf3a">11</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Harris, S.H.</unittitle>
+                     <unitdate type="inclusive">1855-1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_cf4881cfbf09fd90f443845bbbf0bb10"
+                                type="box">1</container>
+                     <container id="aspace_957cbbf57c1771d552af4782fd0d560b"
+                                type="folder"
+                                parent="aspace_cf4881cfbf09fd90f443845bbbf0bb10">12</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Hyde, A.P.</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_c91d9c8fa7f2f9de223ec7c6770c7865"
+                                type="box">1</container>
+                     <container id="aspace_f19a72c54bfdc608a1cc525db986ec83"
+                                type="folder"
+                                parent="aspace_c91d9c8fa7f2f9de223ec7c6770c7865">13</container>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Jones, Amos</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_38700363bb138bbf74937e4c817cac5c"
+                                type="box">1</container>
+                     <container id="aspace_17cdce0e2a0549d2b1c62f80dbfbcb70"
+                                type="folder"
+                                parent="aspace_38700363bb138bbf74937e4c817cac5c">14</container>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Lewis, William</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_438081df11fbe96752c66e8ee441ec54"
+                                type="box">1</container>
+                     <container id="aspace_d9d2fbcbcf5dde166683a70793bd2c01"
+                                type="folder"
+                                parent="aspace_438081df11fbe96752c66e8ee441ec54">15</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Page, Ebenezer B.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b2e79df4a9245ed24d3cf1d7bf59f5d4"
+                                type="box">1</container>
+                     <container id="aspace_5de8935660ec48c1a4178e229fd38f6f"
+                                type="folder"
+                                parent="aspace_b2e79df4a9245ed24d3cf1d7bf59f5d4">16</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Page, Jonathan G.</unittitle>
+                     <unitdate type="inclusive">1855-1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_ecb7af2aaa42fc5e81febf8a3de7022a"
+                                type="box">1</container>
+                     <container id="aspace_4df155ee2917eed565b9a083fdade439"
+                                type="folder"
+                                parent="aspace_ecb7af2aaa42fc5e81febf8a3de7022a">17</container>
+                  </did>
+               </c>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Parker, Phiny</unittitle>
+                     <unitdate type="inclusive">1854-1859, undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_1cef24b0c0268414a27f48ba910fa583"
+                                type="box">1</container>
+                     <container id="aspace_d5e90ec9563d86d50c46c454c1c94ac0"
+                                type="folder"
+                                parent="aspace_1cef24b0c0268414a27f48ba910fa583">18</container>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Phelps, Alfred M.</unittitle>
+                     <unitdate type="inclusive">1855-1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_536b554824ecb93623b3f31c47333c9f"
+                                type="box">1</container>
+                     <container id="aspace_d554090b852858a5508b25b38ef66b28"
+                                type="folder"
+                                parent="aspace_536b554824ecb93623b3f31c47333c9f">19</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Phelps, Elizabeth</unittitle>
+                     <unitdate type="inclusive">1855-1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_1de26e331227a6b02d747a0770b40238"
+                                type="box">1</container>
+                     <container id="aspace_aa190fecf7b72dbe960c7e41eb51ad24"
+                                type="folder"
+                                parent="aspace_1de26e331227a6b02d747a0770b40238">20</container>
+                  </did>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Phelps, George G.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b6f03a58069ff17328b22eda8bc9cdf5"
+                                type="box">1</container>
+                     <container id="aspace_d738e95072fa7cbbe4c7c2462423b0fa"
+                                type="folder"
+                                parent="aspace_b6f03a58069ff17328b22eda8bc9cdf5">21</container>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Phelps, Mary</unittitle>
+                     <unitdate type="inclusive">1858-1859, undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_546f079d1ff4516852376051e355c260"
+                                type="box">1</container>
+                     <container id="aspace_3a86eade84d28db80f6a90f0d387b4a0"
+                                type="folder"
+                                parent="aspace_546f079d1ff4516852376051e355c260">22</container>
+                  </did>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Root, Austin</unittitle>
+                     <unitdate type="inclusive">1856-1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_9fa8fb93172e92be028ce2ed311fc130"
+                                type="box">1</container>
+                     <container id="aspace_b97cbd72feaab598317370db49b2a189"
+                                type="folder"
+                                parent="aspace_9fa8fb93172e92be028ce2ed311fc130">23</container>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Root, Marvia</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_bc08562b0df70d90c898b1bd47091fba"
+                                type="box">1</container>
+                     <container id="aspace_785ab4b6dea9a2e1c97ed7d34450f5a2"
+                                type="folder"
+                                parent="aspace_bc08562b0df70d90c898b1bd47091fba">24</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Letters to Mary Page Phelps</emph>
+                  </unittitle>
+               </did>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Brown, S.L.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_aba25821712857c0097db58f120c5515"
+                                type="box">1</container>
+                     <container id="aspace_92eec393e5c230a9225c46caa41f534a"
+                                type="folder"
+                                parent="aspace_aba25821712857c0097db58f120c5515">25</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>Fitch, Dr. S.S.</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_aaaf7e9d457623cc08bee39dc3f28a26"
+                                type="box">1</container>
+                     <container id="aspace_bd8512d336c535bcc4965830ecf9ee5f"
+                                type="folder"
+                                parent="aspace_aaaf7e9d457623cc08bee39dc3f28a26">26</container>
+                  </did>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Hanks, Abby</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_378edb595d4acd74f19b6bf6848acb05"
+                                type="box">1</container>
+                     <container id="aspace_6f6ca599302b7effafcd697a00c8b000"
+                                type="folder"
+                                parent="aspace_378edb595d4acd74f19b6bf6848acb05">27</container>
+                  </did>
+               </c>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Hanks, C.F.</unittitle>
+                     <unitdate type="inclusive">1858</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_61cfa04f669e53337cc458ff0e0a5a7d"
+                                type="box">1</container>
+                     <container id="aspace_0a5fc6d13493524ab2493f3112bf543b"
+                                type="folder"
+                                parent="aspace_61cfa04f669e53337cc458ff0e0a5a7d">28</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Hanks, E.P.</unittitle>
+                     <unitdate type="inclusive">1854</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_d5fd55e27379048380c406621781b3e5"
+                                type="box">1</container>
+                     <container id="aspace_08a789f593432e790794fbcdb62b03ca"
+                                type="folder"
+                                parent="aspace_d5fd55e27379048380c406621781b3e5">29</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Hanson, D.D.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b000b18a4cc9d642d216e037f54f3d26"
+                                type="box">1</container>
+                     <container id="aspace_58f86e29dab87b0e2dfb5d12a36204b5"
+                                type="folder"
+                                parent="aspace_b000b18a4cc9d642d216e037f54f3d26">30</container>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Harris, Eliz. Mary</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_c585f01df0d4a28bc8c58e951fd28670"
+                                type="box">1</container>
+                     <container id="aspace_196b07784d6d82930463edb93f1510a1"
+                                type="folder"
+                                parent="aspace_c585f01df0d4a28bc8c58e951fd28670">31</container>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Page, I.</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_ca2b464d6e7ffa1d64115a62e3747961"
+                                type="box">1</container>
+                     <container id="aspace_2217a84656bad90b97938687cff20bdc"
+                                type="folder"
+                                parent="aspace_ca2b464d6e7ffa1d64115a62e3747961">32</container>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Phelps, Harriet C.</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_1e2f7279143445a51204eba7bced144d"
+                                type="box">1</container>
+                     <container id="aspace_03019c3eeb4a5944dc95358e5a3e70a7"
+                                type="folder"
+                                parent="aspace_1e2f7279143445a51204eba7bced144d">33</container>
+                  </did>
+               </c>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>Root, Marvia</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_fab6e02eb0edfde521acb498db8d7655"
+                                type="box">1</container>
+                     <container id="aspace_b133f9b2df98feb06b68edde550447f1"
+                                type="folder"
+                                parent="aspace_fab6e02eb0edfde521acb498db8d7655">34</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Letters to Elizabeth Phelps</emph>
+                  </unittitle>
+               </did>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Parker, Phiny</unittitle>
+                     <unitdate type="inclusive">1857, undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_63c0f255eeebaaeecb477fe0e09b80c9"
+                                type="box">1</container>
+                     <container id="aspace_efc51a95e90574bfbaf164aed4003e66"
+                                type="folder"
+                                parent="aspace_63c0f255eeebaaeecb477fe0e09b80c9">35</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>Phelps, Harriet C.</unittitle>
+                     <unitdate type="inclusive">1856, undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_b88f04fc1d495a219284e4307e7e1484"
+                                type="box">1</container>
+                     <container id="aspace_da1619310a84a2cb34c52f79a0990462"
+                                type="folder"
+                                parent="aspace_b88f04fc1d495a219284e4307e7e1484">36</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Unknown sender</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_249e44626c9a71a8582506b619dde577"
+                                type="box">1</container>
+                     <container id="aspace_a210a3ea4a388b1f491dfbe415f1cedb"
+                                type="folder"
+                                parent="aspace_249e44626c9a71a8582506b619dde577">37</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref51" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Letters to Harriet C. Phelps</emph>
+                  </unittitle>
+               </did>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>Buck, Dorliski, E.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_052f64310187bf52ee1e651fa1753d1f"
+                                type="box">1</container>
+                     <container id="aspace_f9c3b74825284d20af3ba67d9471a401"
+                                type="folder"
+                                parent="aspace_052f64310187bf52ee1e651fa1753d1f">38</container>
+                  </did>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Parker, Andrew</unittitle>
+                     <unitdate type="inclusive">1855</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_178c68a10a01426bd637271a08f079d0"
+                                type="box">1</container>
+                     <container id="aspace_9dbbc584c7a194f8a68611566c6b9d8c"
+                                type="folder"
+                                parent="aspace_178c68a10a01426bd637271a08f079d0">39</container>
+                  </did>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>Parker, Phiny</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_593beb84bfd7924a861fb8d5226eb08a"
+                                type="box">1</container>
+                     <container id="aspace_b3dcafcc0b10e001b5d07321b98c6a50"
+                                type="folder"
+                                parent="aspace_593beb84bfd7924a861fb8d5226eb08a">40</container>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Tuttle, A.E.</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_28a9f402a5cd2baebac51f1a79cb284a"
+                                type="box">1</container>
+                     <container id="aspace_fd62a85347e945a9112cf1605be73e84"
+                                type="folder"
+                                parent="aspace_28a9f402a5cd2baebac51f1a79cb284a">41</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Ellen (her cousin)</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_c338877dc2778c90e799759ddcc86411"
+                                type="box">1</container>
+                     <container id="aspace_8abee501eb37f0b084a656f8f4c85363"
+                                type="folder"
+                                parent="aspace_c338877dc2778c90e799759ddcc86411">42</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Letters to Emma K. Foskett</emph>
+                  </unittitle>
+               </did>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Seymour, George N.</unittitle>
+                     <unitdate type="inclusive">1926-1927</unitdate>
+                     <container label="Mixed Materials (39002042550369)"
+                                altrender="archive letter"
+                                id="aspace_cd24fad0522937ad57cae0874144091f"
+                                type="box">1</container>
+                     <container id="aspace_556957d81562b76e4f1879c49ff3b81d"
+                                type="folder"
+                                parent="aspace_cd24fad0522937ad57cae0874144091f">43</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref60" level="series">
+            <did>
+               <unittitle>General subject file</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1838-1888</unitdate>
+               <physdesc id="aspace_6e23ca40869033d5385e127b3ba0bc88">3" 1/2 Box</physdesc>
+            </did>
+            <scopecontent id="aspace_0d9656cd9fb4340cbdeb4f6828e5c41e">
+               <head>Scope and Contents</head>
+               <p>This series includes appointment certificates, minutes, Grand Lodge communications, receipts and printed material.</p>
+            </scopecontent>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Appointment Certificates</unittitle>
+                  <unitdate type="inclusive">1850, 1853</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_a24e61d8d8349f8a885e0529d10e5572"
+                             type="box">1</container>
+                  <container id="aspace_ad9e7d190504738a1ed211d4f100b70c"
+                             type="folder"
+                             parent="aspace_a24e61d8d8349f8a885e0529d10e5572">44</container>
+               </did>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>Minutes of Meetings</unittitle>
+                  <unitdate type="inclusive">1838, 1856</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_2a8e8f2b9c3552d1c553c664374ed1c5"
+                             type="box">1</container>
+                  <container id="aspace_ea8081d1d374be18ab4fb73fbf0eb682"
+                             type="folder"
+                             parent="aspace_2a8e8f2b9c3552d1c553c664374ed1c5">45</container>
+               </did>
+            </c>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>Grand Lodge of Connecticut Communications</unittitle>
+                  <unitdate type="inclusive">1851-1852, undated</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_09ae2a4a2708aa6c2fa10cac5616c842"
+                             type="box">1</container>
+                  <container id="aspace_391b1c3a369e9ee8ffd8758c25b85073"
+                             type="folder"
+                             parent="aspace_09ae2a4a2708aa6c2fa10cac5616c842">46</container>
+               </did>
+            </c>
+            <c id="ref65" level="file">
+               <did>
+                  <unittitle>Receipts</unittitle>
+                  <unitdate type="inclusive">1855-1857</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_7a397496a02dc5345631500e765fa47d"
+                             type="box">1</container>
+                  <container id="aspace_e222ea414a7ef4567d9206361110fa41"
+                             type="folder"
+                             parent="aspace_7a397496a02dc5345631500e765fa47d">47</container>
+               </did>
+            </c>
+            <c id="ref66" level="file">
+               <did>
+                  <unittitle>Advertisement Leaflets</unittitle>
+                  <unitdate type="inclusive">1852, 1859</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_aa287f6b4f8323e921a49a1aaf2a87f0"
+                             type="box">1</container>
+                  <container id="aspace_58f715da133e57ae82728c646ba06a4a"
+                             type="folder"
+                             parent="aspace_aa287f6b4f8323e921a49a1aaf2a87f0">48</container>
+               </did>
+            </c>
+            <c id="ref67" level="file">
+               <did>
+                  <unittitle>Prayer Meeting Schedule</unittitle>
+                  <unitdate type="inclusive">Spring, 1888</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_4b19b5b93c7daea9a7a0ddcb67615f21"
+                             type="box">1</container>
+                  <container id="aspace_3515729f4533f4609c341fd6c19d061b"
+                             type="folder"
+                             parent="aspace_4b19b5b93c7daea9a7a0ddcb67615f21">49</container>
+               </did>
+            </c>
+            <c id="ref68" level="file">
+               <did>
+                  <unittitle>Newspaper Clipping about Escaped Slave Family</unittitle>
+                  <unitdate type="inclusive">February 28, 1856</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_e1d5854e31f6e118a1313aefd63cf478"
+                             type="box">1</container>
+                  <container id="aspace_f1af707b454c8ae895d10e464d1394e4"
+                             type="folder"
+                             parent="aspace_e1d5854e31f6e118a1313aefd63cf478">50</container>
+               </did>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>Calling Card</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_b557f78e3899b8f7f9d16843d65f0dc4"
+                             type="box">1</container>
+                  <container id="aspace_f9ac6c405b2cd955aa37fee6c9940113"
+                             type="folder"
+                             parent="aspace_b557f78e3899b8f7f9d16843d65f0dc4">51</container>
+               </did>
+            </c>
+            <c id="ref70" level="file">
+               <did>
+                  <unittitle>Personal Note</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002042550369)"
+                             altrender="archive letter"
+                             id="aspace_15bf481b58e727a1169c7267c71ddffa"
+                             type="box">1</container>
+                  <container id="aspace_d6b42a56972e844d3888ed810a665eab"
+                             type="folder"
+                             parent="aspace_15bf481b58e727a1169c7267c71ddffa">51</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

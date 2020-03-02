@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::2000-64::Wesleyan Student Assembly Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/we2000-64.html">we2000-64</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Wesleyan Student Assembly Records,
+		<lb/><date normal="1969/2005">1969 - 2005</date>
+		</titleproper>
+        <author>Processed by: Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: June 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Wesleyan Student Assembly Records, <date type="span">1969 - 2005</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University. Wesleyan Student Assembly.</corpname></origination><unittitle label="Title" encodinganalog="245">Wesleyan Student Assembly Records, <unitdate normal="1969/2005" type="inclusive">1969 - 2005</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">2000-64</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">11.4</extent></physdesc><physdesc label="Archival Boxes"><extent>21</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The Wesleyan Student Assembly (WSA) was formed in 1978. It is the legislative and deliberative student body at Wesleyan University.</abstract><abstract encodinganalog="520">The Wesleyan Student Assembly Records include minutes, subject files, memoranda, reports, publications, flyers, and other materials related to the student government of Wesleyan University. Topics include campus speakers and visitors, facilities, offices and buildings, courses, departments, and issues involving professors and curriculum. The Administrative Files series is not processed, but a general listing of its contents is included.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Wesleyan Student Assembly Records, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Given by the Wesleyan Student Assembly in 2000, 2001, and 2005.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Valerie Gillispie, Melanie McCrea (Class of 2006), and Alexis Pancrazi (Class of 2008), February 2006-June 2006</p>
+        <p>Encoded by Valerie Gillispie, June 2006</p>
+        <p>Additions to this collection are anticipated.</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The following historical note was taken from the WSA's website, <extref href="http://www.wesleyan.edu/wsa/about/history.htm" show="new" actuate="onrequest" linktype="simple">http://www.wesleyan.edu/wsa/about/history.htm</extref>, on 21 June 2006.</p>
+      <p>The Wesleyan Student Assembly (WSA) is the legislative and deliberative body of the Wesleyan College Body. The WSA is comprised of 37 members and consists of nine standing committees: the Executive Committee, Coordinating Committee, Community Outreach Committee, Educational Policy Committee, Finance and Facilities Committee, Student Affairs Committee, Student Budget Committee, Independent Projects Committee, Student Trustees Committee and the Student Institutional Advisory Priorities Committee. The WSA responsibilities include allocating the College Body Tax to the 170+ student groups, meeting regularly with President Bennet, serving on the standing committees of the Board of Trustees, affecting academic and non-academic policy and improving Wesleyan-Middletown relations. The WSA maintains its offices at 190 High St. Cari Macdermott served as the WSA office coordinator from 1978 until her retirement in the spring of 2005. She was replaced by Lisa Hendrix, the new WSA office coordinator.</p>
+      <p>Student government originated as the College Body Senate in 1903. "The College Body of Wesleyan University" was formed in 1963 in response to a desire for better organization and was directed by the College Body Committee, comprised of five elected undergraduates. In 1975, the Wesleyan Students' Union was to fill the need for an organization to lobby specifically on behalf of student interests. A $1 membership was required. In 1978, 89% of the voting population approved a campus-wide referendum and the Wesleyan Student Assembly was formed. The Assembly was comprised of seven standing committees with 45 members serving during the fall term and 38 members during the spring term. Membership was distributed across the geographic boundaries of the campus stretching from In-Town to Butterfield.</p>
+      <p>The WSA has undergone a number of changes in composition throughout its history. In 1980, the Assembly had 37 members, in 1981 the membership was 27 members. The Assembly was again altered in 1984 to 28 members and persisted in this form until 1992 when the organization was expanded to 40 members. Representation has been changed from geographically based to year based and the leadership was shifted from the Coordinator position to a President, Vice-President format during the 1990's. In 1997, the WSA underwent its last iteration and now stands at 37 members.</p>
+      <p>The WSA enjoys a storied history of successes, reforms and restructurings as well as dramatic resignations and heated debate. In 1994, the Assembly experienced the "comedy of errors" when WSA elections were invalidated when an inadequate number of representatives were elected. In 1998, the absence of funding for the Film Board sparked the Film Series Controversy. Over the previous two academic years, the Assembly has played an integral role in the University's recent efforts at curricular renewal and reform of graduation requirements as well as influencing party policy, residential life issues and supporting efforts at responsible investing.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Wesleyan Student Assembly Records include minutes, subject files, memoranda, reports, publications, flyers, and other materials related to the student government of Wesleyan University. Topics include campus speakers and visitors, facilities, offices and buildings, courses, departments, and issues involving professors and curriculum. The Administrative Files series is not processed, but a general listing of its contents is included.</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Series 1. Minutes (Acc. 2000-64)</p>
+        <p>Series 2. Subject Files (Acc. 2001-41)</p>
+        <p>Series 3. Administrative Files (Acc. 2001-42, Acc. 2005-17, 2005-96)</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Wesleyan Student Assembly. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Presidents. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Curricula. </corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty. </corpname>
+      <subject source="lcsh" encodinganalog="650">Student government. </subject>
+      <subject source="lcsh" encodinganalog="650">College student government--United States. </subject>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Buildings. </corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1. Minutes, 1978-2005 (Accession 2000-64)</unittitle>
+        </did>
+        <scopecontent>
+          <p>Consists of minutes of WSA meetings.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>1978-1979</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>1979-1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>1981-1982</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>1982-1983</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>1983-1984</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>1984-1985</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>1985-1986</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>1989-1990</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>1999-2000</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10-11</container>
+            <unittitle>2000-2001</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>2004-2005</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Subject Files, 1969-2001 (Accession 2001-41)</unittitle>
+        </did>
+        <scopecontent>
+          <p>Included are campus and outside correspondence, clippings, events posters, photographs, and memos documenting the WSA's involvement in campus issues and activities and occasional state or local legislative policymaking. File subjects include campus speakers and visitors, facilities, offices and buildings, courses, departments, and issues involving professors and curriculum. Files of extensive coverage include: divestment; Howard Bernstein; financial aid; Residential Life Task Force; sexual harrassment and assult; and the Student Budget Committee. The arrangement is alphabetical by subject.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1-2</container>
+            <unittitle>Academic Planning Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Accreditation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Admissions Reports</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Adult Students</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Affirmative Action</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Afro-Am Studies</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8-9</container>
+            <unittitle>Aid-Blind Admissions</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Alcohol Policy</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Alumni</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Asian Alums</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>American Studies</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Anthropology Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Area Coordinators</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Art Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Astronomy Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Athletics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Attendance Policy--WSA</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Bail Policy and Contract</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Howard Bernstein</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>BGLAD</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Biology Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15-16</container>
+            <unittitle>Board of Trustees (General)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Budget Advisory Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Budget Reports</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Calendar</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Campus Center</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4-5</container>
+            <unittitle>Career Planning Center</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Carepackages.com</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Center for Fine Arts</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">1</container>
+            <unittitle>William Chace</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Chemistry Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3-4</container>
+            <unittitle>Class/Dept. Enrollment</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Classics Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Cognitive Science</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Colin Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>College of Letters</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>College of Social Studies</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Committee on Human Rights and Relations</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Computers</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Conferences (Student)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Dance Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Davidson Art Center</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Dean's Office</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Dining and Food Service</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Dining Task Force</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">1-4</container>
+            <unittitle>Divestment - General</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Divestment - Social Implications Sub-Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Divestment - Sit-In, April 1988</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Drug Policy and Controversy</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Earth &amp; Environmental Sciences Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>East Asian Studies</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Economics Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Education Committee - General</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">7</container>
+            <container type="Folder">1</container>
+            <unittitle>Education Committee - Trustees Committee, 1987-1989, and Tenure Decision</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Education Committee, 1978-1979</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Education Committee, 1979-1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Education Committee, 1981-1983</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-6</container>
+            <unittitle>Educational Policy Committee Minutes</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Educational Studies Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Educational Philosophy</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Elections and Appointments</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>English Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Facilities Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Faculty Compensation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">8</container>
+            <container type="Folder">1</container>
+            <unittitle>Faculty Meetings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Faculty, Minority</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Farrakahn</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Fayerweather Survey/Space Needs Report</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5-7</container>
+            <unittitle>Film Series</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8-9</container>
+            <unittitle>Financial Aid</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Financial Planning Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">9</container>
+            <container type="Folder">1</container>
+            <unittitle>Financial Planning Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Fire Bombing/Racial Tension, Spring 1990</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Flag Burning</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Fraternities Co-education</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Freeman Center Sports Complex</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Freshman Integrated Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Freshman Letter Fall (WSA)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Gay Rights</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>General Education</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>G.L.A. Task Force</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Geographic Rep. Report</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>German Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Government Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Graduate Liberal Studies Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Group Tutorials</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Grants (outside faculty)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Nick Haddad</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>Harrington Lodge</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>Health Services</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">20</container>
+            <unittitle>History Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">10</container>
+            <container type="Folder">1</container>
+            <unittitle>Honors and General Education</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Honor System</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Housing</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Human Rights and Relations Commission</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Impeachment Warning/Form Letter</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Insider's Guide to Wesleyan</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Investments Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Latin-American Studies Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Leave of Absence/Sabbaticals</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Legal Problems/Litigation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Leonard Prize</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Libraries</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Linguistics Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">11</container>
+            <container type="Folder">1</container>
+            <unittitle>Math Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Majors Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Molecular Biology &amp; Biochemistry Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Music Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Nuclear Freeze Issues</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Off Campus Housing</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Olin Dedication Party</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Orientation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Over-Subscription</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Philosophy Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Physical Education</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Physics Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <container type="Folder">1</container>
+            <unittitle>Planning Report, 1975-1980</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2-3</container>
+            <unittitle>Preregistration</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Presidential Search Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Psychology Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Public Affairs Center</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Public Safety</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Racism and Race Relations</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Jordan Rau</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">13</container>
+            <container type="Folder">1</container>
+            <unittitle>Religion Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Reproductive Rights</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3-4</container>
+            <unittitle>Residential Life Task Force</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Reunion/Commencement</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Romance Languages Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Russian Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Science in Society Program</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Sesquicentennial</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Sexual Harrassment &amp; Assault</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">14</container>
+            <container type="Folder">1</container>
+            <unittitle>Sexual Harrassment &amp; Assault</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Sexual Abuse Policies Task Force</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>SIPAC</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Social Events</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Sloan Grant</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Sociology Dept.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Solomen Amendment</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Student Affairs Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Student Affairs Committee, 1994-1995</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Student Budget Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">15</container>
+            <container type="Folder">1</container>
+            <unittitle>Student Empowerment Rally</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Student Judiciary Board</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Student Planning Committee</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Teacher Evaluations</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Teaching Assistants and Apprentices</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Telephone System</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Tenure</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Theater Department</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Transfer Credit</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Tuition</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>University Courses</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>University Ministry</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>University Plan, March 1992</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Vice President Search</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Administrative Files, 1979-2001 (Accessions 2001-42, 2005-17, 2005-96)</unittitle>
+        </did>
+        <scopecontent>
+          <p>The Administrative Files are arranged by their accession numbers. Materials within each accession have not been processed, but a general listing of the contents is provided.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Accession 2001-42</unittitle>
+          </did>
+          <scopecontent>
+            <p>The contents of this accession are from circa 1979-1986.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Box">16</container>
+              <unittitle>WSA Bulletin</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Constitution and Amendments</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan Student Union</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Wesleyan University Press</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whitebook Responses (4 folders)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Whitebook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Women's Studies Prog.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Withdrawal Policy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Academic Planning Group</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Academic Planning Committee</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trustee Committees and Divestments</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Public Relations/Student Communications</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Student Affairs Committee</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">17</container>
+              <unittitle>Educational Policy Committee</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Gay and Lesbian Issues</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Constitutional Reform</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Financial Aid and Tuition</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Accession 2005-17</unittitle>
+          </did>
+          <scopecontent>
+            <p>The contents of this accession are from circa 1986-2001.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Box">18</container>
+              <unittitle>Memos, Reports, 1991-1993</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Financial Binder, 1999-2000</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder - Minutes, 2000-2001</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder, 1986-1987</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">19</container>
+              <unittitle>Folder - general institutional documents, circa 1992-1994</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Folder - SCSG, circa 1992-1993</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder - <title render="doublequote">Theard, 1989-1990</title></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder - <title render="doublequote">CC 93-94 Coordinator</title>, 1993-1994</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder, 1987-1988</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">20</container>
+              <unittitle>Binder - <title render="doublequote">1988-1989, Eric Greene, Coordinator</title>, 1988-1989</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder - <title render="doublequote">CC 93-94 Jin's</title>, 1993-1994</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder, 1990-1991</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Binder - <title render="doublequote">CSA</title>, Connecticut Student Association, 1986</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Accession 2005-96</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">21</container>
+              <unittitle>Film flyers</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Speaker flyers</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Student publications</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BA"
+             url="http://hdl.handle.net/10079/fa/ycba.ia.A028">ycba.ia.A028</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Yale Center for British Art Rare Books and Manuscripts Department records </titleproper>
+            <titleproper type="filing">Yale Center for British Art Rare Books and Manuscripts Department records</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Center for British Art, Institutional Archives</publisher>
+            <address>
+               <addressline>Institutional Archives</addressline>
+               <addressline>1080 Chapel Street</addressline>
+               <addressline>P. O. Box 208280</addressline>
+               <addressline>New Haven, CT 06520-8280</addressline>
+               <addressline altrender="email">ycba.institutionalarchives@yale.edu</addressline>
+            </address>
+            <num>A028</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 16, 2019 at 21:03</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Yale Center for British Art Rare Books and Manuscripts Department records</unittitle>
+         <unitid>A028</unitid>
+         <repository>
+            <corpname>
+               Yale Center for British Art, Institutional Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">37</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(37 boxes)</physdesc>
+         <physdesc>
+            <extent unit="Gigabytes">8.33</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1974/2018">1974-2018</unitdate>
+         
+         <origination label="creator">
+            <corpname rules="rda" source="local_ycba_ia">
+               Yale Center for British Art. Rare Books and Manuscripts Department
+            </corpname>
+         </origination>
+      </did>
+      <scopecontent id="aspace_ee2f1a73bab283c6786351ab57da9e05">
+         <head>Scope and Contents</head>
+         <p>The Rare Books and Manuscripts department records comprise general administrative records, correspondence, and exhibition records. Additionally, there are rare book dealer files that document the acquisition of books by the department.</p>  
+      </scopecontent>
+      <bioghist id="aspace_80f1333c1d2da76c4b24e47e31edca72">
+         <head>Biographical / Historical</head>
+         <p>The Rare Books and Manuscripts department holds approximately 35,000 volumes. The collection represents a broad range of material relating to the visual arts and cultural life in the United Kingdom and the former British Empire, dating from the fifteenth century to the present. Particular strengths include illustrated "color-plate" books from the renowned J. R. Abbey collection, drawing manuals, sporting books and manuscripts, early maps and atlases, early printed books by William Caxton and his contemporaries, private press and contemporary artists' books, as well as archival and manuscript material relating to British artists, writers, and travelers of all periods.</p>  
+      </bioghist>
+      <accessrestrict id="aspace_0fa89b3b142b5b43103b081c3b8b8432">
+         <head>Conditions Governing Access</head>
+         <p>This collection is unprocessed and may not be available for immediate access.</p>  
+      </accessrestrict>
+  
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007472"
+                  source="lcsh">
+            Art -- Collectors and collecting
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007581"
+                  source="lcsh">
+            Art, British
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2009001462"
+                  source="lcsh">
+            Art museum curators -- United States
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n77005277"
+                   source="naf">
+            Yale Center for British Art
+         </corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

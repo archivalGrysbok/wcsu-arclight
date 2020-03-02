@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.wilsonj">beinecke.wilsonj</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the John Wilson Papers
+ </titleproper>
+            <titleproper type="filing">Wilson (John) Papers</titleproper>
+            <author>by Diane J. Ducharme</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>March 2003</date>
+            <num>OSB MSS 45</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday January 22, 2019 at 06:53</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>John Wilson papers</unittitle>
+         <unitid>OSB MSS 45</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.41</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1810/1844">1810-1844</unitdate>
+         
+         <abstract id="aspace_83eadf45d9a3c416a349b26306f5a74a">The papers consist of correspondence concerning the publication and subscription sales of Wilson's works, especially his long poem "The Isle of Palms" (1812). In addition to letters between Wilson and the Glasgow booksellers John Smith and Son, there are also letters from subscribers, other booksellers, and customers to John Smith concerning the availability and distribution of the poem, including James and John Ballantyne and Longmans Ltd. The collection also contains a poem by Wilson, "Lines Raised to the memory of the Rev. James Grahame," and a subscription list for "The Isle of Palms."</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n79066598"
+                      source="naf">
+               Wilson, John, 1785-1854
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n96021273"
+                      rules="aacr"
+                      source="naf">
+               Smith, John, approximately 1784-1871
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_fd7799e272294ccf535c66bf3a9905d2">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased on the James Marshall and Marie-Louise Osborn Fund, 1974. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <userestrict id="aspace_cdfad79ff9c795a31b4ee6e3982c5d9f">
+         <head>Conditions Governing Use</head>
+         <p>The John Wilson Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_9a80c95a39823eddc36eda169ed3262f">
+         <head>Preferred Citation</head>
+         <p>John Wilson Papers. James Marshall and Marie-Louise Osborn Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_433010271aa24951435e0da4b67cede9">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_fb81df42de3228c9d1bddd9fd60ffe12">
+         <head>Processing Information</head>
+         <p>This finding aid was produced in part from a previously existing card set in the Manuscripts Catalog, or from another inventory. All pertinent bibliographical information has been retained.</p>  
+      </processinfo>
+      <bioghist id="aspace_69f6ceb1cee9d1d4fcf69097a1b991b9">
+         <head>JOHN WILSON, 1785-1854</head>
+         <p>John Wilson was born in Paisley on May 18, 1785, and was educated at Glasgow University and Magdalen College, Oxford, from which he received his M.A. in 1810. He then took up residence at Elleray in Windermere, married Jane Penny, and devoted himself to writing poetry. <title type="simple" render="italic">
+               The Isle of Palms, and Other Poems
+            </title>, was published in 1812.</p>
+         <p>In 1815 Wilson lost his inheritance due to a relative's mismanagement and returned to Scotland, where he was called to the bar in 1815. But his first interest continued to be literature, and in 1817 he joined with William Blackwood and John Gibson Lockhart to found <title type="simple" render="italic">
+               Blackwood's Magazine.
+            </title> An ardent Tory, in 1820 Wilson was appointed to the Chair of Moral Philosophy at Edinburgh University through the support of his political allies. Despite the controversy that greeted his appointment, Wilson won respect as a dedicated and inspiring lecturer.</p>
+         <p>Wilson continued to be a prolific and frequent contributor to <title type="simple" render="italic">
+               Blackwood's
+            </title> until the death of his wife in 1837. Some of his more popular pieces were collected and published as <title type="simple" render="italic">
+               Lights and Shadows of Scottish Life
+            </title> (1822) and <title type="simple" render="italic">
+               Noctes Ambrosianae
+            </title>, which appeared posthumously.</p>
+         <p>Wilson retired from his professorship in 1851 due to ill-health, and died in Edinburgh on April 3, 1854.</p>  
+      </bioghist>
+      <scopecontent id="aspace_f08b18161636becab1de4de9c082cd22">
+         <head>Scope and Contents</head>
+         <p>The John Wilson Papers contain correspondence and a few other papers mostly relating to the publication of Wilson's first book, <title type="simple" render="italic">
+               The Isle of Palms.
+            </title> The papers span the dates 1810-1844 and are organized into two series.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref11">Series I, <title type="simple" render="italic">
+                  Correspondence
+               </title> 
+            </ref>, is housed in folders 1-26 and arranged alphabetically by correspondent. The majority of the letters are addressed to the Glasgow booksellers John Smith &amp; Son and concern the publication and distribution of <title type="simple" render="italic">
+               The Isle of Palms.
+            </title> Correspondents include other booksellers; subscribers to the first edition; and customers of the Glasgow firm. Individual letters have been more fully described in the box and folder listing.</p>
+         <p>Folders 16-26 contain letters from Wilson himself to John Smith, Jr., who became a friend as well as a business associate. The first 28 letters date from 1810-1812 and are mostly concerned with Wilson's poetry and his keen interest in all aspects of the publication and sales of his first work. The remainder are briefer but contain personal news, requests for shipments of books and magazines, and occasional comments on Wilson's work for <title type="simple" render="italic">
+               Blackwood's
+            </title>.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref62">Series II, <title type="simple" render="italic">
+                  Other Papers
+               </title> 
+            </ref>, contains a holograph of Wilson's "Lines Raised to the Memory of the Rev. James Grahame;" copies of sonnets and of "The Endless Stream," all by Wilson; and a copy of the 1812 subscription list for <title type="simple" render="italic">
+               The Isle of Palms
+            </title>.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            Authors and publishers -- Great Britain -- 19th century
+         </subject>
+         <subject source="local">
+            Booksellers and bookselling -- Scotland -- Glasgow
+         </subject>
+         <subject source="local">
+            Publishers and publishing -- Scotland -- History -- 19th century
+         </subject>
+         <occupation source="local">
+            Booksellers and bookselling -- Scotland
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no89014399"
+                   source="naf">
+            Ballantyne, James, 1772-1833
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no89014401"
+                   rules="aacr"
+                   source="naf">
+            Ballantyne, John, 1774-1821
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79066598"
+                   source="naf">
+            Wilson, John, 1785-1854
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n81053696"
+                   source="naf">
+            Longman (Firm)
+         </corpname>
+         <persname rules="aacr" source="local">
+            Constable, Archibald, 1774-1827
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1810-1844</unitdate>
+               <physdesc id="aspace_51108d778cfee6be2775e13c0f6904fa">0.30' (0.75 box)</physdesc>
+            </did>
+            <scopecontent id="aspace_86839ce59c66d4ea4352d9ade0370b75">
+               <head>Scope and Contents</head>
+               <p>Series I, <title type="simple" render="italic">
+                     Correspondence
+                  </title>, is alphabetically arranged by correspondent.</p>
+            </scopecontent>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>ANDERSON, JAMES</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>2 ALS to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1812 Feb</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_c7a8ffb9420a32b78fb3896c0ba0d0df"
+                                type="box">1</container>
+                     <container id="aspace_467cef4a623549dc36fcb2dc05b3f14d"
+                                type="folder"
+                                parent="aspace_c7a8ffb9420a32b78fb3896c0ba0d0df">1</container>
+                  </did>
+                  <scopecontent id="aspace_504585a2165028af3048777d1ccf61ce">
+                     <head>Scope and Contents</head>
+                     <p>About John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref16" level="subseries">
+               <did>
+                  <unittitle>ANDERSON, JOHN</unittitle>
+               </did>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>2 LS (in another hand), to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1812 Feb, n.d.</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_1cb23940c838acf57d61ca8238d64367"
+                                type="box">1</container>
+                     <container id="aspace_dd33e72fb0e9437f2ad2aaaa1f84c905"
+                                type="folder"
+                                parent="aspace_1cb23940c838acf57d61ca8238d64367">2</container>
+                  </did>
+                  <scopecontent id="aspace_772b46c837b6dc1f716d1f323be221c9">
+                     <head>Scope and Contents</head>
+                     <p>About the arrival of copies of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref19" level="subseries">
+               <did>
+                  <unittitle>BALLANTYNE, JAMES, 1772-1833</unittitle>
+               </did>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>4 LS (in another hand) to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1811-12</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_215a5cc710a7e07fd4bd26bb9923ac9e"
+                                type="box">1</container>
+                     <container id="aspace_9576bf998d01b539838af64c04294dbe"
+                                type="folder"
+                                parent="aspace_215a5cc710a7e07fd4bd26bb9923ac9e">3</container>
+                  </did>
+                  <scopecontent id="aspace_7e017733b3694b6f74312edce2948bff">
+                     <head>Scope and Contents</head>
+                     <p>On the printing of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref22" level="subseries">
+               <did>
+                  <unittitle>BALLANTYNE, JOHN, 1774-1821</unittitle>
+               </did>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>5 LS (in another hand) to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1811-12</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_94cf2a13bb3135f769ed779e7497f9d1"
+                                type="box">1</container>
+                     <container id="aspace_bdfdaf43d1d9b9e0f8e3840a3db25144"
+                                type="folder"
+                                parent="aspace_94cf2a13bb3135f769ed779e7497f9d1">4</container>
+                  </did>
+                  <scopecontent id="aspace_259d0fda13075e503b7c3f9fc5e2c8de">
+                     <head>Scope and Contents</head>
+                     <p>On John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref25" level="subseries">
+               <did>
+                  <unittitle>BLAIR, ALEXANDER</unittitle>
+               </did>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>"To John Wilson"</unittitle>
+                     <unitdate type="inclusive">[1810?]</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_d44e5211187f89e0b233488c11aa7960"
+                                type="box">1</container>
+                     <container id="aspace_a02d4200225a4865756cb5b6351dbf01"
+                                type="folder"
+                                parent="aspace_d44e5211187f89e0b233488c11aa7960">5</container>
+                  </did>
+                  <scopecontent id="aspace_bff094ca356fb5108c71eb4d265e4d72">
+                     <head>Scope and Contents</head>
+                     <p>Holograph verse letter.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref28" level="subseries">
+               <did>
+                  <unittitle>BLISS, ROBERT</unittitle>
+               </did>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>ALS to John Smith, Jr.; Oxford</unittitle>
+                     <unitdate type="inclusive">1812 Feb 12</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_07db58d06050c17766fef710538a3708"
+                                type="box">1</container>
+                     <container id="aspace_8e48f659e8b6f6a8f0f0a4b3ec91a2ed"
+                                type="folder"
+                                parent="aspace_07db58d06050c17766fef710538a3708">6</container>
+                  </did>
+                  <scopecontent id="aspace_11add154de9deb3449a7a0f7a2714b1e">
+                     <head>Scope and Contents</head>
+                     <p>Agrees to be placed on the subscription list of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref31" level="subseries">
+               <did>
+                  <unittitle>CONSTABLE, ARCHIBALD, 1774-1827</unittitle>
+               </did>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>ALS to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1812 Feb 18</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_d961d488633ff4f19495c11c87bef219"
+                                type="box">1</container>
+                     <container id="aspace_93ac125dd1c62a4d416ae66470d48578"
+                                type="folder"
+                                parent="aspace_d961d488633ff4f19495c11c87bef219">7</container>
+                  </did>
+                  <scopecontent id="aspace_852a671ca6bb888bdba5800c372fc3bb">
+                     <head>Scope and Contents</head>
+                     <p>On John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref34" level="subseries">
+               <did>
+                  <unittitle>LONGMANS, GREEN, AND CO.</unittitle>
+               </did>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>ALS to John Smith, Jr.; London</unittitle>
+                     <unitdate type="inclusive">1812 Feb 22</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_f7677d0ec878c4e3fc3a3728ac9d3843"
+                                type="box">1</container>
+                     <container id="aspace_de5b09b2fd1e4094cb3a32e340b36882"
+                                type="folder"
+                                parent="aspace_f7677d0ec878c4e3fc3a3728ac9d3843">8</container>
+                  </did>
+                  <scopecontent id="aspace_ea61b67284475c51fbe3b46d5a7a63ba">
+                     <head>Scope and Contents</head>
+                     <p>On John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref37" level="subseries">
+               <did>
+                  <unittitle>MANNERS AND MILLER</unittitle>
+               </did>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>2 ALS to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1812 Mar, Jul</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_5cc6a853d5ba63a23d2bc99a27092511"
+                                type="box">1</container>
+                     <container id="aspace_ffab4b03868401b7d1f2581fc9de0f26"
+                                type="folder"
+                                parent="aspace_5cc6a853d5ba63a23d2bc99a27092511">9</container>
+                  </did>
+                  <scopecontent id="aspace_73c99b91d7f1225a3ca87fb6b8f5a419">
+                     <head>Scope and Contents</head>
+                     <p>Discusses the sale of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref40" level="subseries">
+               <did>
+                  <unittitle>MUNDY AND SLATTER</unittitle>
+               </did>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Letter to John Smith, Jr., Oxford</unittitle>
+                     <unitdate type="inclusive">1812 Feb 11</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_8369a17d0e8b677b213056b341786761"
+                                type="box">1</container>
+                     <container id="aspace_ae20914785cfbbcedc47eaa9fcea9620"
+                                type="folder"
+                                parent="aspace_8369a17d0e8b677b213056b341786761">10</container>
+                  </did>
+                  <scopecontent id="aspace_5c3b77fabbbcb36fc0fd0fe2db365653">
+                     <head>Scope and Contents</head>
+                     <p>On the publication of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref43" level="subseries">
+               <did>
+                  <unittitle>PARKER, JOSEPH</unittitle>
+               </did>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>ALS to John Smith, Jr.; Oxford</unittitle>
+                     <unitdate type="inclusive">1812 Feb 11</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_00903fe4bce7296adbece673156121fc"
+                                type="box">1</container>
+                     <container id="aspace_98f24d436bff899cc18bfb322711dd9c"
+                                type="folder"
+                                parent="aspace_00903fe4bce7296adbece673156121fc">11</container>
+                  </did>
+                  <scopecontent id="aspace_1bbf33fc3f4f85811741e58d8e98e057">
+                     <head>Scope and Contents</head>
+                     <p>On his subscription to John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref46" level="subseries">
+               <did>
+                  <unittitle>SMITH, JOHN, JR.</unittitle>
+               </did>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Letter (draft) to John Ballantyne; Glasgow</unittitle>
+                     <unitdate type="inclusive">1811 Oct 2</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_280e1cd26c65c6c4523e72532004f937"
+                                type="box">1</container>
+                     <container id="aspace_2103b00c9067027e7d58dcc68df7c8d6"
+                                type="folder"
+                                parent="aspace_280e1cd26c65c6c4523e72532004f937">12</container>
+                  </did>
+                  <scopecontent id="aspace_db1217e1f4cf90376da2957d6e57456d">
+                     <head>Scope and Contents</head>
+                     <p>Discusses John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>ALS to John Wilson; Glasgow</unittitle>
+                     <unitdate type="inclusive">1811 Oct 17</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_0c29ce9c2f1ee130fa6af6cdb9f91cdb"
+                                type="box">1</container>
+                     <container id="aspace_9f0cdac072fff8fd61701e287054b8b4"
+                                type="folder"
+                                parent="aspace_0c29ce9c2f1ee130fa6af6cdb9f91cdb">13</container>
+                  </did>
+                  <scopecontent id="aspace_e2fcfab3159facd369388fd4e7ff1247">
+                     <head>Scope and Contents</head>
+                     <p>On the proofs of John Wilson's <title type="simple" render="italic">
+                           Isle of Palms
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>8 letters (holograph, draft) to John Wilson; Glasgow</unittitle>
+                     <unitdate type="inclusive">1810-20</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_653d6a856eef875f15173ecc72f5ee6e"
+                                type="box">1</container>
+                     <container id="aspace_4c7d3291d536ae6a53d36ae41d79c689"
+                                type="folder"
+                                parent="aspace_653d6a856eef875f15173ecc72f5ee6e">14</container>
+                  </did>
+                  <scopecontent id="aspace_c91f6f9dd581e3d9458d83e50108a399">
+                     <head>Scope and Contents</head>
+                     <p>Discussing Wilson's publications.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref53" level="subseries">
+               <did>
+                  <unittitle>VINCENT, C.</unittitle>
+               </did>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>ALS to John Smith, Jr.; Oxford</unittitle>
+                     <unitdate type="inclusive">1812 Feb 11</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_80dada10d69a159206640abbc626e6de"
+                                type="box">1</container>
+                     <container id="aspace_601c2c29cc9762abc94ccecf92d5150e"
+                                type="folder"
+                                parent="aspace_80dada10d69a159206640abbc626e6de">15</container>
+                  </did>
+                  <scopecontent id="aspace_c6f5dcdcd0d22cb530b9a5b39dc164ba">
+                     <head>Scope and Contents</head>
+                     <p>Mr. Cooke has no objection to affixing his name to the publication of Mr. Wilson.</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref56" level="subseries">
+               <did>
+                  <unittitle>WILSON, JOHN, 1785-1854</unittitle>
+               </did>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>28 ALS to John Smith, Jr., Elleray</unittitle>
+                     <unitdate type="inclusive">1810-12</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_be8f35aebe3bf5e10f5f191ce30d01fa"
+                                type="box">1</container>
+                     <container id="aspace_0467bf2c1af04d7dcfaa4c2c28b55338"
+                                type="folder"
+                                parent="aspace_be8f35aebe3bf5e10f5f191ce30d01fa">16-21</container>
+                  </did>
+                  <scopecontent id="aspace_94067872929d85fd795f66edb387e76d">
+                     <head>Scope and Contents</head>
+                     <p>On the publication of <title type="simple" render="italic">
+                           The Isle of Pines
+                        </title> and personal matters.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>26 ALS to John Smith, Jr.; Edinburgh</unittitle>
+                     <unitdate type="inclusive">1815-44</unitdate>
+                     <container label="Mixed Materials (39002099370778)"
+                                id="aspace_29be2da3bd7b74eb7b817c123c598079"
+                                type="box">1</container>
+                     <container id="aspace_12c31d926223be311f6a1832d8e2f1dc"
+                                type="folder"
+                                parent="aspace_29be2da3bd7b74eb7b817c123c598079">22-26</container>
+                  </did>
+                  <scopecontent id="aspace_60f0b48fb907f5a91bbc993696d4e8ca">
+                     <head>Scope and Contents</head>
+                     <p>Letters discuss his publications and personal life.</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c id="ref62" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1811-1812</unitdate>
+               <physdesc id="aspace_5d05cf5a34732360fe50d44ba0051f97">0.11' (0.25 box)</physdesc>
+            </did>
+            <scopecontent id="aspace_234108159e7dda4fb9c1d6a5e25e3018">
+               <head>Scope and Contents</head>
+               <p>Series II, <title type="simple" render="italic">
+                     Other Papers
+                  </title>, is arranged alphabetically by title.</p>
+            </scopecontent>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>"Lines raised to the memory of the Rev. James Grahame"</unittitle>
+                  <unitdate type="inclusive">[1811 or later]</unitdate>
+                  <container label="Mixed Materials (39002099370778)"
+                             id="aspace_e22d38b43814798c9b2fffd47fd8d8c7"
+                             type="box">1</container>
+                  <container id="aspace_462948fbe598c4c428e21b32a684267a"
+                             type="folder"
+                             parent="aspace_e22d38b43814798c9b2fffd47fd8d8c7">27</container>
+               </did>
+               <scopecontent id="aspace_7d36dfda381b7231c534a33a30b9cd32">
+                  <head>Scope and Contents</head>
+                  <p>Holograph.</p>
+               </scopecontent>
+            </c>
+            <c id="ref66" level="file">
+               <did>
+                  <unittitle>"Sonnets"</unittitle>
+                  <unitdate type="inclusive">[1811 or later]</unitdate>
+                  <container label="Mixed Materials (39002099370778)"
+                             id="aspace_c69fef2d0b9203aeb2d7c21d98f60f26"
+                             type="box">1</container>
+                  <container id="aspace_9414fb83034eb977eae9239f8387783b"
+                             type="folder"
+                             parent="aspace_c69fef2d0b9203aeb2d7c21d98f60f26">28-29</container>
+               </did>
+               <scopecontent id="aspace_355d1b7b243f0f5be32907e3378e579a">
+                  <head>Scope and Contents</head>
+                  <p>Holograph. With "The Endless Stream" and several holograph fragments.</p>
+               </scopecontent>
+            </c>
+            <c id="ref68" level="file">
+               <did>
+                  <unittitle>Subscription list for <title type="simple" render="italic">
+                        The Isle of Palms
+                     </title>
+                  </unittitle>
+                  <unitdate type="inclusive">[1812]</unitdate>
+                  <container label="Mixed Materials (39002099370778)"
+                             id="aspace_c03094e6d37f837d996eb34d0e632426"
+                             type="box">1</container>
+                  <container id="aspace_4ce9f73677f87226505ac433d418967f"
+                             type="folder"
+                             parent="aspace_c03094e6d37f837d996eb34d0e632426">30</container>
+               </did>
+               <scopecontent id="aspace_4dc2f898738113963eb145f9964669be">
+                  <head>Scope and Contents</head>
+                  <p>Manuscript copy. Signed by John Ballantyne, Manners and Miller, Archibald Constable, John Anderson, and William Blackwood.</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

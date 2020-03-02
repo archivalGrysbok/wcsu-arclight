@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="US-CtU" countrycode="US">MSS19970066</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Joseph A. Smith Papers</titleproper>
+			<author>Finding aid prepared by M. Wendy Hennequin.</author>
+	
+</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2004  University of Connecticut</publisher>
+	<date type="publication">January 2005</date>
+
+	<address><addressline1>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline1><addressline2>405 Babbidge Road, Unit 1205</addressline2><addressline3>Storrs, Connecticut  06269-1205</addressline3></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by M. Wendy Hennequin in January 2005.</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Smith, Joseph A.</persname>
+		<persname encodinganalog="100">Smith, Jos. A.</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Joseph A. Smith Papers.</unittitle>
+
+	<unitdate label="Dates:">1983-2002.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">491 linear feet.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Joseph A[nthony] Smith, children's author/illustrator and artist received his BFA from the Pratt Institute in 1960, where he began teaching in 1961.  He continues to teach  there in the Department of Painting and Drawing.  The collection contains artwork for over thirty children's books.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="UCW">MSS19970066</unitid>
+
+	<langmaterial><language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biography</head>
+	<p>Joseph A[nthony] Smith was born in <geogname>Bellefonte, Pennsylvania</geogname> in 1936.  He studied with <persname>Hobson Pittman</persname> at the <corpname>Pennsylvania State University</corpname> from 1955-1957 and received his BFA from the <corpname>Pratt Institute</corpname> in 1960, where he began teaching in 1961.  He continues to teach  there in the Department of Painting and Drawing.</p>
+	<p>Smith has also worked as a professional artist since 1961.  He has exhibited his work at the <corpname>Pennsylvania Academy for Fine Arts</corpname> (1961, 1967, 1969), at the <corpname>Staten Island Institute of Arts and Sciences</corpname> (1966), at the Bethel Gallery in <geogname>Connecticut</geogname> (1978), at the Newhouse Gallery in Staten Island (1982), at <corpname>Adirondak Community College</corpname> in New York ( 1987), at the Trenton City Museum (1992), at the Staemfli Gallery in New York (1992), at  the Esther Allen Green Museum in Ohio, and at the Thomas J. Dodd Research Center in <geogname>Connecticut</geogname> (2004).  Though these exhibitions were independent, Smith has also worked extensively with other artists.  Smith has also employed his art by  working as a design consultant, an exhibition designer, and a member of the Board of Directors on the Staten Island Council of Arts (1971-1976).</p>
+	<p>Smith's art has been recognized by his peers with several prestigious awards, including the Mary S. Litt Award for Watercolor, 100th Annual American Watercolor Society (1967) and the New York Society of Illustrators Merit Award (1973, 1974, 1979, 1982, 1998).</p>
+
+
+<note><p><bibref>Bunton, Donald, Jr., et al., <title render="italic">Who's Who in American Art: 2001-2002</title>, <imprint>New Providence, New Jersey, <publisher>Marquis Who's Who</publisher>, <date type="publication">2001</date>. 1116.</imprint></bibref></p></note>
+
+
+<note><p>      <emph render="bold">Published Works:</emph></p>
+<p>      <emph render="bold">Books by Smith</emph></p>
+
+<list type="simple">
+<item><bibref><title render="italic">The Pen and Ink Book: Materials and Techniques for Today's Artist.</title>  <imprint><publisher>Watson-Guptill Publications</publisher>, <date type="publication">1992</date>.</imprint></bibref></item>
+<item><bibref><title render="italic">Circus Train.</title>  <imprint><publisher></publisher>Harry N. Abrams, <date type="publication">2001</date>.</imprint></bibref></item>
+</list>
+</note>
+<note><p>      <emph render="bold">Books Illustrated by Smith.</emph></p>
+
+<list type="simple">
+<item><bibref>Martin, Bill, <title render="italic">Knots on a Counting Rope</title>, <imprint><publisher>Holt, Rinehart, and Winston</publisher>, <date type="publication"></date>1966.</imprint></bibref></item>
+<item><bibref>Epstein, Sam and Beryl Williams Epstein, <title render="italic">European Folk Festivals</title>, <imprint><publisher>Garrard Publishing Company</publisher>, <date type="publication">1968</date>.</imprint></bibref></item>
+<item><bibref>Conrad, Joseph, <title render="italic">Heart of Darkness and Other Tales</title>, <imprint><publisher>Franklin Library</publisher>, <date type="publication">1982</date>.</imprint></bibref></item>
+<item><bibref>Evslin, Bernard, <title render="italic">Hercules.</title>, <imprint><publisher>Morrow</publisher>, <date type="publication">1984</date>.</imprint><imprint><publisher>Trumpet Club</publisher>, <date type="publication">1991</date>.</imprint></bibref></item>
+<item><bibref>Hautzig, Deborah, and Frank L. Baum, <title render="italic">The Wizard of Oz</title>, <imprint><publisher>Random House</publisher>, <date type="publication">1984</date>.</imprint></bibref></item>
+<item><bibref>MacDonald, George, <title render="italic">The Princess and the Goblin</title>, <imprint><publisher>Grosset and Dunlap</publisher>, <date type="publication">1985</date>.</imprint><imprint><publisher>Scholastic</publisher>, <date type="publication">1990</date>.</imprint></bibref></item>
+<item><bibref>McKinley, Robin, and Rudyard Kipling, <title render="italic">Tales from the Jungle Book</title>, <imprint><publisher>Random House</publisher>, <date type="publication">1985</date>.</imprint></bibref></item>
+
+<item><bibref>Segel, Elizabeth, <title render="italic">Short Takes: A Short Story Collection for Young Readers</title>, <imprint><publisher>Lothrop, Lee, and Shepard Books</publisher>, <date type="publication">1986</date>.</imprint><imprint><publisher>Dell Publishing</publisher>, <date type="publication">1992</date>.</imprint></bibref></item>
+<item><bibref>Overton, Jenny, <title render="italic">The Thirteen Days of Christmas</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1987</date>.</imprint></bibref></item>
+<item><bibref>Guiberson, Brenda Z., <title render="italic">Turtle People</title>, <imprint><publisher>Atheneum Books</publisher>, <date type="publication">1990</date>.</imprint></bibref></item>
+<item><bibref>Cooper, Susan, <title render="italic">Matthew's Dragon</title>, <imprint><publisher>M.K. McElderry Books</publisher>, <date type="publication">1990</date>.</imprint><imprint><publisher>Aladdin Books</publisher>, <date type="publication">1994</date>.</imprint></bibref></item>
+<item><bibref>Banks, Lynne Reid, <title render="italic">The Adventures of King Midas</title>, <imprint><publisher>Morrow Junior Books</publisher>, <date type="publication">1992</date>.</imprint></bibref></item>
+<item><bibref>Fleishman, Sid, <title render="italic">Jim Ugly</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1992</date>.</imprint><imprint><publisher>Harper Trophy</publisher>, <date type="publication">2003</date></imprint>.</bibref></item>
+<item><bibref>Griffith, Helen V., <title render="italic">"Mine Will," Said John</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1992</date>.</imprint></bibref></item>
+<item><bibref>Serfozo, Mary, <title render="italic">Benjamin Bigfoot</title>, <imprint><publisher>M.K. McElderry Books</publisher>, <date type="publication">1993</date>.</imprint></bibref></item>
+<item><bibref>Hass, Jessie, <title render="italic">Chipmunk!</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1993</date>.</imprint></bibref></item>
+<item><bibref>Cooper, Susan, <title render="italic">Danny and the Kings</title>, <imprint><publisher>Margaret K. McElderry Books</publisher>, <date type="publication">1993</date>.</imprint></bibref></item>
+<item><bibref>Jones, Diana Wynne, <title render="italic">Stopping for a Spell: Three Fantasies</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1993</date>.</imprint><imprint><publisher>Puffin Books</publisher>, <date type="publication">1996</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">Mowing</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1994</date>.</imprint></bibref></item>
+<item><bibref>Levin, Betty, <title render="italic">Starshine and Sunglow</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1994</date>.</imprint></bibref></item>
+<item><bibref>Wolkstein, Diane, <title render="italic">Step by Step</title>, <imprint><publisher>Morrow Junior Books</publisher>, <date type="publication">1994</date>.</imprint><imprint><publisher>Harcourt</publisher>, <date type="publication">2000</date>.</imprint></bibref></item>
+<item><bibref>Whitcraft, Melissa, <title render="italic">Tales from One Street Over</title>, <imprint><publisher>Avon Books</publisher>, <date type="publication">1994</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">A Blue for Beware</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1995 </date>.</imprint></bibref></item>
+<item><bibref>Heller, Nicholas, <title render="italic">Goblins in Green</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1995</date>.</imprint><imprint><publisher>Mulberry Books</publisher>, <date type="publication">1999</date>.</imprint></bibref></item>
+<item><bibref>Gellman, Mark, and Thomas Hartman, <title render="italic">How Do You Spell God?: Answers to the Big Questions from Around the World</title>, <imprint><publisher>Morrow Junior Books</publisher>, <date type="publication">1995</date>.</imprint><imprint><publisher>Beech Tree</publisher>, <date type="publication">1998</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">No Foal Yet</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1995</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">Be Well, Beware</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1996</date>.</imprint></bibref></item>
+<item><bibref>Levin, Betty, <title render="italic">Gift Horse</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1996</date>.</imprint><imprint><publisher>Scholastic</publisher>, <date type="publication">1997</date>.</imprint></bibref></item>
+<item><bibref>Farmer, Nancy, <title render="italic">Runnery Granary</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1996</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">Sugaring</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1996</date>.</imprint></bibref></item>
+<item><bibref>Ginsburg, Mirra, <title render="italic">Clay Boy</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1997</date>.</imprint></bibref></item>
+<item><bibref>Heller, Nicholas, <title render="italic">The Giant</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1997</date>.</imprint></bibref></item>
+<item><bibref>Fleischman, Sid, <title render="italic">Bandit's Moon</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1998</date>.</imprint></bibref></item>
+<item><bibref>Huck, Charlotte H., <title render="italic">A Creepy Countdown</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1998</date>.</imprint></bibref></item>
+<item><bibref>Levin, Betty, <title render="italic">Creature Crossing</title>, <imprint><publisher>Greenwilow Books</publisher>, <date type="publication">1999</date>.</imprint></bibref></item>
+<item><bibref>Heller, Nicholas, <title render="italic">Ogres! Ogres! Ogres!</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">1999</date>.</imprint><imprint><publisher>Scholastic</publisher><date type="publication">2000</date>.</imprint></bibref></item>
+<item><bibref>Heller, Nicholas, <title render="italic">Elwood and the Witch</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">2000</date>.</imprint></bibref></item>
+<item><bibref>Haas, Jessie, <title render="italic">Hurry!</title>, <imprint><publisher>Greenwillow Books</publisher>, <date type="publication">2000</date>.</imprint></bibref></item>
+<item><bibref>Rubin, Susan Goldman, <title render="italic">The Yellow House: Vincent van Gogh and Paul Gauguin Side by Side</title>, <imprint><publisher>Harry N. Abrams</publisher>, <date type="publication">2001</date>.</imprint></bibref></item>
+<item><bibref>Gowler, Rhonda, <title render="italic">Eek! Creak! Snicker, Sneak</title>, <imprint><publisher>Atheneum Books for Young Readers</publisher>, <date type="publication">2002</date>.</imprint></bibref></item>
+<item><bibref>Armstrong, Jennifer, <title render="italic">Audubon: Painter of Birds in the Wild Frontier</title>, <imprint><publisher>H.N. Abrams</publisher>, <date type="publication">2003</date>.</imprint></bibref></item>
+<item><bibref>Jong, Erica, <title render="italic">Witches</title>, <imprint><publisher>Harry N. Abrams</publisher>, <date type="publication">2004</date>.</imprint></bibref></item>
+
+
+</list>
+
+
+<p></p>
+
+</note>
+
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The <persname>Joseph A. Smith</persname> Papers contain work by and documents  pertaining to Joseph A. (Jos. A.) Smith's career as an illustrator of children's books.   The collection consists, in the main, of original artwork by Smith and color proofs.  The contents of the collection date from roughly 1983 to 2002.  The majority of the collection dates from the 1990s.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>The <persname>Joseph A. Smith</persname> Papers contains only one series: Children's Literature.  The collection does not include any of Joseph A. Smith's works in other genres at this time.</p>
+
+<p>For ease of research, the collection is arranged alphabetically by book title.  When necessary, there has been some separation of materials according to physical size.   This separation is reflected in the finding aid by box numbers and locations.</p>
+
+<p><emph render="bold">Series I: Children's Literature (undated, 1983-2002).</emph></p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of children's literature artwork and children's literature.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=1">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Smith, Joseph A. (Joseph Anthony), 1936- </persname>
+			
+		</controlaccess>
+
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Children's literature, American Illustrations.</subject>
+			<subject encodinganalog="650" source="local">Illustrations of books--United States.</subject>
+			<subject encodinganalog="650" source="local">Children's literature--Connecticut illustrators.</subject>
+	<subject encodinganalog="650" source="local">Illustrated children's books.</subject>
+
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform> 
+<genreform encodinganalog="655" source="local">Publications.</genreform>
+<genreform encodinganalog="655" source="local">Press releases.</genreform>
+<genreform encodinganalog="655" source="local">Artwork.</genreform>
+<genreform encodinganalog="655" source="local">Fliers. [printed matter]</genreform>
+<genreform encodinganalog="655" source="local">Illustrations.</genreform>
+<genreform encodinganalog="655" source="local">Manuscripts.</genreform>
+<genreform encodinganalog="655" source="local">Galley proofs.</genreform>
+<genreform encodinganalog="655" source="local">Typescripts.</genreform>
+<genreform encodinganalog="655" source="local">Photocopies.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+<genreform encodinganalog="655" source="local">Sketches.</genreform>
+<genreform encodinganalog="655" source="local">Drawings.</genreform>
+<genreform encodinganalog="655" source="local">Speeches.</genreform>
+
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Occupations:</head>
+			<occupation encodinganalog="656" source="local">Illustrator.</occupation>
+			<occupation encodinganalog="656" source="local">Artist.</occupation>
+			<occupation encodinganalog="656" source="local">Author.</occupation>			
+		</controlaccess>
+		</controlaccess>
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions for this collection.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#],  <persname>Joseph A. Smith</persname> Papers.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The materials in this collection were received from Joseph A. Smith in three installments.  The first and largest accession was received in 1997, and two smaller and later donations were received in 2001 and 2003.</p>
+</acqinfo>
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series I:  Children's Literature, </unittitle>
+	<unitdate>undated, 1983-2002</unitdate>
+    </did>	
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">The Adventures of King Midas</title></unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">39</container>
+	<unittitle>Black and white illustrations, </unittitle>
+	<unitdate>ca. 1992</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+	<did>
+	<unittitle><title render="italic">Audubon: Painter of Birds in the Wild Frontier</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">64</container>
+	<unittitle>Preliminary artwork, small, </unittitle>
+	<unitdate>ca. 2002</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">65</container>
+	<unittitle>Partial paste-up dummy, </unittitle>
+	<unitdate>ca. 2002</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">65a</container>
+	<unittitle>Preliminary artwork, large, </unittitle>
+	<unitdate>ca. 2002</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">66</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>2002</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Bandit's Moon</title>, </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">1</container>
+	<unittitle>Cover, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">67</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>1997</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Benjamin Bigfoot</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">2</container>
+	<unittitle>Sketch dummy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">3</container>
+	<unittitle>Copies of dummies and annotations, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">4</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">40</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">68</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">69</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+		<unittitle><title render="italic">Cart and Cwidder</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">41</container>
+	<unittitle>Dust jackets, </unittitle>
+	<unitdate>1995</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Chipmunk</title> </unittitle>
+    </did>	
+
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">5</container>
+	<unittitle>Cover Sketch, </unittitle>
+	<unitdate>ca. 1992 July 15</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">6</container>
+	<unittitle>Paste-up dummies (2) and copies, </unittitle>
+	<unitdate>ca. 1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">7</container>
+	<unittitle>Color artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">70</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">71</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">8: </container>
+	<container type="Folder">72</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+
+	<unittitle><title render="italic">Circus Train</title></unittitle>
+	</did>	
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">73</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>ca. 2000</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">74</container>
+	<unittitle>Paste-up dummy, </unittitle>
+	<unitdate>ca. 2000</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">75</container>
+	<unittitle>Poster, </unittitle>
+	<unitdate>2001</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">76</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>2000</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Clay Boy</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">77</container>
+	<unittitle>Dust jacket, </unittitle>
+	<unitdate>ca. 1997</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">78</container>
+	<unittitle>Color tests, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">79</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>1996 July</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">80</container>
+	<unittitle>Promotional poster, </unittitle>
+	<unitdate>ca. 1997</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">9: </container>
+	<container type="Folder">81</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Contrary</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">82</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>1990</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Creature Crossing</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">8</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">42</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">83</container>
+	<unittitle>Dust jacket, </unittitle>
+	<unitdate>ca. 1999</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">A Creepy Countdown</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">9</container>
+	<unittitle>Cover mock-up, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">47</container>
+	<unittitle>Font sample, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">48</container>
+	<unittitle>Typescript by <persname>Charlotte Huck</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">49</container>
+	<unittitle>Small color artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">50</container>
+	<unittitle>Dummy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">51</container>
+	<unittitle>Black and white sketches, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">52</container>
+	<unittitle>"Halloween Countdown" cover sketches, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">53</container>
+	<unittitle>Large color artwork, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03><c03 level="file">
+   <did>
+	<container type="Box">4: </container>
+	<container type="Folder">54</container>
+	<unittitle>Mounted color artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">5: </container>
+	<container type="Folder">[no folders]</container>
+	<unittitle>Mounted black and white artwork, pages 1-2, 4-9, 11-12, </unittitle>
+	<unitdate>1997</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">6: </container>
+	<container type="Folder">[no folders]</container>
+	<unittitle>Mounted black and white artwork, pages 13-14, 16-24,</unittitle>
+	<unitdate>1997</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">84</container>
+	<unittitle>Second proofs, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">85</container>
+	<unittitle>Third proofs, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">86</container>
+	<unittitle>Unidentified proofs, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">87</container>
+	<unittitle>Artwork, unnumbered, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">148</container>
+	<unittitle>Oversize uncut proofs, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">149</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1998</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Danny and the Kings</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">10</container>
+	<unittitle>Copies of paste-up dummies (2), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">11</container>
+	<unittitle>Color proofs (partial), </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">11a</container>
+	<unittitle>Correspondence, </unittitle>
+	<unitdate>1991-1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">11b</container>
+	<unittitle>Typescripts, </unittitle>
+	<unitdate>1992 January</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">11c</container>
+	<unittitle>"The Gift of the Magi" [teleplay], </unittitle>
+	<unitdate>1990 October</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">45</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">43</container>
+	<unittitle>Small artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">44</container>
+	<unittitle>Large artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">10: </container>
+	<container type="Folder">88</container>
+	<unittitle>Dust jacket paste-ups and proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">146</container>
+	<unittitle>Uncut proofs, </unittitle>
+	<unitdate>ca. 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">147</container>
+	<unittitle>Oversize original artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Elwood and the Witch</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">12</container>
+	<unittitle>Color Proofs (1 of 2), </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">13</container>
+	<unittitle>Color proofs (2 of 2), </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">89</container>
+	<unittitle>Dust jacket, </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">90</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">The Giant</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">14</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>ca. 1997</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">91</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">92</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">93</container>
+	<unittitle>Dust jacket proofs and color tests, </unittitle>
+	<unitdate>ca. 1996-1997</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Gift Horse</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">3: </container>
+	<container type="Folder">46</container>
+	<unittitle>Black and white illustrations, </unittitle>
+	<unitdate>1996</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Goblins in Green</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">15</container>
+	<unittitle>Notes, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">16</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">55</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">12: </container>
+	<container type="Folder">98</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">12: </container>
+	<container type="Folder">99</container>
+	<unittitle>Covers and dust jackets, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">12: </container>
+	<container type="Folder">100</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1994-1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">12: </container>
+	<container type="Folder">101</container>
+	<unittitle>Poster proofs and posters, </unittitle>
+	<unitdate>1995 January</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">12: </container>
+	<container type="Folder">102</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">17</container>
+	<unittitle>Greenwillow Books Fact Sheet, </unittitle>
+	<unitdate>ca. 1999</unitdate>
+    </did>	
+</c02>
+
+<c02 level="file">
+   <did>
+		<unittitle><title render="italic">Hercules</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">56</container>
+	<unittitle>Preliminary sketches, </unittitle>
+	<unitdate>ca. 1983</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">57</container>
+	<unittitle>Pen and ink illustrations, </unittitle>
+	<unitdate>1983</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">94</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1983</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Hurry!</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">1: </container>
+	<container type="Folder">18</container>
+	<unittitle>Dummy, </unittitle>
+	<unitdate>ca. 1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">95</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>2000</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">96</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">11: </container>
+	<container type="Folder">97</container>
+	<unittitle>Dust jacket, </unittitle>
+	<unitdate>2000</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">144</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 2000</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">145</container>
+	<unittitle>Oversize and uncut proofs, </unittitle>
+	<unitdate>2000</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Matthew's Dragon</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">19</container>
+	<unittitle>Artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">103</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1990</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">104</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>1991</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">"Mine Will," said John</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">105</container>
+	<unittitle>Original color art, </unittitle>
+	<unitdate>ca. 1991</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">106</container>
+	<unittitle>Color proofs, </unittitle>
+	<unitdate>1991-1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">107</container>
+	<unittitle>Dust jacket and jacket proofs, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Mowing</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">20</container>
+	<unittitle>Typescript by <persname>Jessie Haas</persname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">21</container>
+	<unittitle>Research, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">22</container>
+	<unittitle>Sketches and copies, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">23</container>
+	<unittitle>Paste-up dummies and copies, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">14: </container>
+	<container type="Folder">109</container>
+	<unittitle>First proofs, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">14: </container>
+	<container type="Folder">110</container>
+	<unittitle>Second proofs, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">14: </container>
+	<container type="Folder">111</container>
+	<unittitle>Jacket and cover proofs, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">14: </container>
+	<container type="Folder">112</container>
+	<unittitle>Unidentified proofs, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">14: </container>
+	<container type="Folder">113</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">142</container>
+	<unittitle>Galleys, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">The Nature of the Beast</title></unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">13: </container>
+	<container type="Folder">108</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">No Foal Yet</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">24</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">25</container>
+	<unittitle>Sketches, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">15: </container>
+	<container type="Folder">114</container>
+	<unittitle>First proofs, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">15: </container>
+	<container type="Folder">115</container>
+	<unittitle>Second proofs, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">15: </container>
+	<container type="Folder">116</container>
+	<unittitle>Unidentified proofs, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">15: </container>
+	<container type="Folder">117</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">15: </container>
+	<container type="Folder">118</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Ogres! Ogres! Ogres!</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">16: </container>
+	<container type="Folder">119</container>
+	<unittitle>Paste-up cover dummies, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">16: </container>
+	<container type="Folder">120</container>
+	<unittitle>First and second proofs, </unittitle>
+	<unitdate>1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">16: </container>
+	<container type="Folder">121</container>
+	<unittitle>Cut proofs, </unittitle>
+	<unitdate>ca. 1999</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">16: </container>
+	<container type="Folder">122</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1998</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">OS: </container>
+	<container type="Folder">143</container>
+	<unittitle>Oversize uncut proofs, </unittitle>
+	<unitdate>ca. 1999</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Runnery Granary</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">26</container>
+	<unittitle>Copies of text and sketches, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">27</container>
+	<unittitle>Ink sketches and copies, </unittitle>
+	<unitdate>1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">27a</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">28</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">29</container>
+	<unittitle>Cover page plan, </unittitle>
+	<unitdate>ca. 1995</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">30</container>
+	<unittitle>Proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">17: </container>
+	<container type="Folder">123</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">17: </container>
+	<container type="Folder">124</container>
+	<unittitle>First proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">17: </container>
+	<container type="Folder">125</container>
+	<unittitle>Second proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">17: </container>
+	<container type="Folder">126</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">17: </container>
+	<container type="Folder">127</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1995</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+		<unittitle><title render="italic">Starshine and Sunglow</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">58</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>1993</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><title render="italic">Step by Step</title></unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">31</container>
+	<unittitle>Correspondence, </unittitle>
+	<unitdate>1993 March</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">32</container>
+	<unittitle>Typescript copies, </unittitle>
+	<unitdate>1993 February</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">33</container>
+	<unittitle>Jacket blurbs [t.s. copies], </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">34</container>
+	<unittitle>Galley copies and transparancies, </unittitle>
+	<unitdate>1993 January</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">35</container>
+	<unittitle>Research for sketches, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">36</container>
+	<unittitle>Sketches, </unittitle>
+	<unitdate>ca. 1993 March</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">37</container>
+	<unittitle>Jacket and cover plans, </unittitle>
+	<unitdate>1992 November</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">19: </container>
+	<container type="Folder">133</container>
+	<unittitle>Partial proofs, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">19: </container>
+	<container type="Folder">134</container>
+	<unittitle>Galleys, </unittitle>
+	<unitdate>1992-1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">19: </container>
+	<container type="Folder">135</container>
+	<unittitle>Color dummy [incomplete], </unittitle>
+	<unitdate>ca. 1992</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">19: </container>
+	<container type="Folder">136</container>
+	<unittitle>Dust jacket, </unittitle>
+	<unitdate>ca. 1994</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">19: </container>
+	<container type="Folder">137</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1993</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+		<unittitle><title render="italic">Stopping for a Spell</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">59</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>1992</unitdate>
+    </did>	
+</c03>
+</c02>
+
+
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Sugaring</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">2: </container>
+	<container type="Folder">38</container>
+	<unittitle>Paste-up dummy and copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+		<unittitle><title render="italic">Turtle People</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">60</container>
+	<unittitle>Cover art, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">18: </container>
+	<container type="Folder">128</container>
+	<unittitle>First proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">18: </container>
+	<container type="Folder">129</container>
+	<unittitle>Second proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">18: </container>
+	<container type="Folder">130</container>
+	<unittitle>Final proofs, </unittitle>
+	<unitdate>1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">18: </container>
+	<container type="Folder">131</container>
+	<unittitle>Jacket proofs, </unittitle>
+	<unitdate>ca. 1996</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">18: </container>
+	<container type="Folder">132</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>1995</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">Tales from the Jungle Book</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">20: </container>
+	<container type="Folder">138</container>
+	<unittitle>Original artwork, </unittitle>
+	<unitdate>ca. 1985</unitdate>
+    </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">20: </container>
+	<container type="Folder">139</container>
+	<unittitle>Unidentified artwork, </unittitle>
+	<unitdate>1984-1995</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">The Wizard of Oz</title> </unittitle>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">21 </container>
+	<container type="Folder"></container>
+	<unittitle>Original artwork, cover to page 17, </unittitle>
+	<unitdate>ca. 1984</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">22 </container>
+	<container type="Folder"></container>
+	<unittitle>Original artwork, pages 18 to 35, </unittitle>
+	<unitdate>ca. 1984</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">23 </container>
+	<container type="Folder"></container>
+	<unittitle>Original artwork, pages 37 to end, </unittitle>
+	<unitdate>ca. 1984</unitdate>
+    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<unittitle><title render="italic">The Yellow House</title> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">61</container>
+	<unittitle>Mounted pencil sketches, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">62</container>
+	<unittitle>Map copy, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">7: </container>
+	<container type="Folder">63</container>
+	<unittitle>Preliminary color artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">24: </container>
+	<container type="Folder">140</container>
+	<unittitle>Medium color artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">24: </container>
+	<container type="Folder">142</container>
+	<unittitle>Large color artwork, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+</c02>
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

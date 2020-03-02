@@ -1,0 +1,2800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.020">divinity.020</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Albert and Celia Steward Papers
+ </titleproper>
+            <titleproper type="filing">Steward (Albert and Celia) Papers</titleproper>
+            <author>Compiled by Martha Lund Smalley and Nathan H. Price</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>1991, 1999</date>
+            <num>RG 20</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Monday March 25, 2019 at 22:04</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Albert and Celia Steward Papers</unittitle>
+         <unitid>RG 20</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">7.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(16 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1908/1979">1908-1979</unitdate>
+         
+         <abstract id="aspace_f4ea7adb53bfe26e1c6aec4bf907b487">The papers document the Steward's missionary work and personal lives, detailing their daily activities and political and social conditions in China. Albert Newton Steward (1897-1959) and Celia Belle Speak Steward (1897-1992) were stationed in Nanking, China as educational missionaries under the Methodist Board of Missions. Albert taught botany at the University of Nanking. During World War II, Albert was interned at Chapei Camp, Shanghai from 1943-1945. In 1951, Albert became curator of the Herbarium and professor at Oregon State College.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85809626"
+                      rules="aacr"
+                      source="naf">
+               Steward, Albert Newton, 1897-
+            </persname>
+         </origination>
+    
+      </did>
+      <accessrestrict id="aspace_1d989472e7f5d746032217af0d19fa33">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_fe0b4bcd51ccf5dcadfa690ea0dd93ab">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of the Steward family.</p>  
+      </acqinfo>
+      <prefercite id="aspace_411e5057c85080ef01e35516698e8d6b">
+         <head>Preferred Citation</head>
+         <p>Albert and Celia Steward Papers (RG 20), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_174037642cb2d8709f5ae9c5c9f27f5d">
+         <head>Biographical / Historical</head>
+         <chronlist>
+            <chronitem>
+               <date>1897</date>
+               
+                  <event>Albert Newton Steward born in California</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1897</date>
+               
+                  <event>Celia Belle Speak born in Kentucky</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1918</date>
+               
+                  <event>ANS and CSS married (Children: Margaret, 1919; Newton, 1920; Leland, 1922; Virginia, 1924; Ruth, 1937; David, 1938)</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1921</date>
+               
+                  <event>ANS - B.S. from Oregon Agricultural College</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1921-1926</date>
+               
+                  <event>Stationed in Nanking as educational missionaries under the Methodist Board of Missions; ANS taught botany at University of Nanking.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1926-1930</date>
+               
+                  <event>On extended furlough in U.S.; ANS received Ph.D. in Biology from Harvard</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1930-1937</date>
+               
+                  <event>Stationed in Nanking</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1932</date>
+               
+                  <event>Celia's mother, Sarah Speak, on year long visit to China</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1937 Aug</date>
+               
+                  <event>Family evacuated from China</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1938 Sep</date>
+               
+                  <event>ANS returned to China; CSS and children remained in California</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1939Jul</date>
+               
+                  <event>CSS and three younger children returned to China</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1941 Jan</date>
+               
+                  <event>CSS and children returned to U.S.; ANS stayed in Nanking</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1942 fall</date>
+               
+                  <event>ANS living in Shanghai</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1943 Feb</date>
+               
+                  <event>ANS interned at Chapei Camp, Shanghai</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1945 Sep</date>
+               
+                  <event>ANS released from internment camp; remained in China to look after affairs of University of Nanking</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1946 Mar</date>
+               
+                  <event>ANS returned to U.S.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1947 Aug</date>
+               
+                  <event>ANS, CSS, Ruth and David to China</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1948 Nov</date>
+               
+                  <event>Ruth and David returned to U.S.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1949 Oct</date>
+               
+                  <event>CSS returned to U.S.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1950 Sep</date>
+               
+                  <event>ANS returned to U.S.; family lived in Auburndale, MA while ANS worked on <title type="simple" render="italic">
+                        Manual of Vascular Plants of the Lower Yangtze Valley
+                     </title>(published 1958) at Harvard's Arnold Arboretum under Guggenheim grant.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1951</date>
+               
+                  <event>ANS became curator of Herbarium and professor at Oregon State College.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1959 Jun</date>
+               
+                  <event>ANS died</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1967</date>
+               
+                  <event>CSS chosen Oregon Mother-of-the-Year</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1979</date>
+               
+                  <event>CSS entered nursing home in Oregon</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1990</date>
+               
+                  <event>CSS died</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_318424ecd25bd10cbaf82138a27714c6">
+         <head>Scope and Contents</head>
+         <p>The missionary work and personal lives of Albert and Celia Steward are well documented in these papers. Based at the University of Nanking, Albert Steward combined devotion to science, Christian outreach to students, and community involvement in his active missionary service in China. Celia Steward's years in China, though defined to a significant degree by her devotion to her six children, were notable for her openness to the Chinese people and her efforts to improve the lives of people, particularly of women, in China. Celia used her skills of cooking, sewing, singing, teaching, typing and entertaining to interact with the Chinese people and with fellow missionaries, and to aid her husband in his work. More so than many missionaries, the Stewards opened their home to the Chinese and developed longstanding relationships with students and colleagues.</p>
+         <p>The Stewards maintained close ties with their families in the United States and sent regular, detailed letters which describe their daily activities and political and social conditions in China. Albert's experience in the Japanese internment camp of Chapei is well documented, as is the period following the Communist takeover in Nanking. The Stewards also retained in their files many invitations, notes, programs and other ephemeral documents which provide insight into the flow and tone of daily missionary life.</p>
+         <p>The Steward Papers are complemented by various other collections held at the Yale Divinity School Library. Extensive files documenting the University of Nanking in Record Group No. 11, include additional correspondence and writings of Albert Steward. The Library also holds papers of the Hayes family, Bates family and other close missionary friends of the Stewards. Taken in conjunction, these sources provide excellent insight into the missionary community and modes of mission in Nanking during the 1920s through 1950.</p>
+         <p>Series I, Correspondence, includes family correspondence, circular letters sent out by the Stewards, correspondence with Western colleagues and with Chinese colleagues and students. The early part of the Stewards' service in China is most thoroughly documented in letters sent to the extended family; by the 1940s the older Steward children were living in the United States and received the most detailed letters. Regular circular letters sent by the Stewards provide a convenient overview of their experiences. Samples of family correspondence from the period after 1950 have been retained in the collection.</p>
+         <p>The second series, Writings, Talks, includes material ranging from formal reflections on the Stewards' missionary experience to scientific writings by Albert to notes for numerous talks. Both Celia and Albert were clearly popular speakers before churches and civic groups while in the United States. The presentations they made to these groups provide interesting evaluation and anecdotal documentation of their work in China. The documented interaction between the Stewards and the church groups in the U.S. which supported them also provides insight into the impact of the missionary movement upon American religious life.</p>
+         <p>Series III, Subject File, includes an interesting variety of material, primarily collected in China. Of particular interest are the materials related to the Communist takeover in China, materials related to Nanking, and documentation of the Saturday Evening Group held for Chinese students and colleagues in the Stewards' home.</p>
+         <p>Series IV, Biographical Material, provides very thorough documentation of the background and lives of the Stewards. A couple of papers written by students about Celia Steward are included, as well as a wealth of documentation prepared at the time of her selection as Oregon Mother-of-the-Year.</p>
+         <p>Series V, Photographs, includes relatively few items documenting the Steward family. Photographs related to the University of Nanking in Record Group No. 11 would supplement those available in this collection. Addendum: four cases of slides used by the Stewards in presentations to churches about mission work in China.</p>  
+      </scopecontent>
+      <arrangement id="aspace_5445851d0ffa18746724999b141f1033">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Correspondence, 1908-1979</item>
+            <item>II. Writings, Talks, 1930-1959</item>
+            <item>III. Subject File, 1933-1950</item>
+            <item>IV. Biographical Material, 1913-1977, n.d.</item>
+            <item>V. Photographs, 1934-1946, n.d.</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Concentration camps -- China
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008107861"
+                  source="lcsh">
+            Missions -- China
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85086017"
+                  source="lcsh">
+            Missionaries
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85809626"
+                   rules="aacr"
+                   source="naf">
+            Steward, Albert Newton, 1897-
+         </persname>
+         <persname rules="aacr" source="local">
+            Steward, Celia Speak
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n80021644"
+                   source="naf">
+            Methodist Episcopal Church -- Missions -- China
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/no95038590"
+                   rules="aacr"
+                   source="naf">
+            Methodist Episcopal Church. Board of Foreign Missions
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1908-1979</unitdate>
+            </did>
+            <c id="ref12" level="subseries">
+               <did>
+                  <unittitle>Family Correspondence</unittitle>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Albert to/from Celia</unittitle>
+                     <unitdate type="inclusive">1931-1939</unitdate>
+                     <container label="Mixed Materials (39002022291364)"
+                                id="aspace_28fde3732787b4430f8b05b1a98e2c4d"
+                                type="box">1</container>
+                     <container id="aspace_ab6aca53b74514c19aa44d071b506eb8"
+                                type="folder"
+                                parent="aspace_28fde3732787b4430f8b05b1a98e2c4d">1-2</container>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Celia to Albert</unittitle>
+                     <unitdate type="inclusive">1941 -1950</unitdate>
+                     <container label="Mixed Materials (39002043979062)"
+                                id="aspace_42153d680a1e6cbd1699c215106c4a37"
+                                type="box">16</container>
+                     <container id="aspace_31c006bb819e510db3c5afc7ce4182b1"
+                                type="folder"
+                                parent="aspace_42153d680a1e6cbd1699c215106c4a37">281-301</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Albert to Celia</unittitle>
+                     <unitdate type="inclusive">1941- 1950</unitdate>
+                     <container label="Mixed Materials (39002043979062)"
+                                id="aspace_ef0407251d04e7aca53b24dba1aff47e"
+                                type="box">16</container>
+                     <container id="aspace_381bf887fd7d5817707bb9b0868729a0"
+                                type="folder"
+                                parent="aspace_ef0407251d04e7aca53b24dba1aff47e">302-320</container>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Summary of Celia's letters to Albert (1941-1950)</unittitle>
+                     <container label="Mixed Materials (39002043979062)"
+                                id="aspace_9ea16ab86e211af9b03889147a980dac"
+                                type="box">16</container>
+                     <container id="aspace_3b59ac2c500bf36b378cd5e604e71c3c"
+                                type="folder"
+                                parent="aspace_9ea16ab86e211af9b03889147a980dac">321</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Summary of Albert's letters to Celia (1941-1950)</unittitle>
+                     <container label="Mixed Materials (39002043979062)"
+                                id="aspace_068a9083a28c667f6b25003c081c9f05"
+                                type="box">16</container>
+                     <container id="aspace_5d5c2cdb2d45040557209b94c2be396e"
+                                type="folder"
+                                parent="aspace_068a9083a28c667f6b25003c081c9f05">322</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Albert / Celia</unittitle>
+                     <unitdate type="inclusive">1946-1957, n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291364)"
+                                id="aspace_6c8d466231e651bf09f23be145e5ad84"
+                                type="box">1</container>
+                     <container id="aspace_2be9e64904715944f2ce9d848007e2f5"
+                                type="folder"
+                                parent="aspace_6c8d466231e651bf09f23be145e5ad84">3-4</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Albert, Celia to/from their children</unittitle>
+                     <unitdate type="inclusive">1931-1949</unitdate>
+                     <container label="Mixed Materials (39002022291364)"
+                                id="aspace_4252002a80c4bf87bd6c2e2404d5df81"
+                                type="box">1</container>
+                     <container id="aspace_064369d97223b316444c09362cfb46fd"
+                                type="folder"
+                                parent="aspace_4252002a80c4bf87bd6c2e2404d5df81">5-21</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Albert, Celia to/from their children</unittitle>
+                     <unitdate type="inclusive">1950-1976,n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291364)"
+                                id="aspace_c011cfcf390e03b22834ed5ad35311a9"
+                                type="box">1</container>
+                     <container id="aspace_87bf2ed35b9093bce505e0ba2a17e6d2"
+                                type="folder"
+                                parent="aspace_c011cfcf390e03b22834ed5ad35311a9">22</container>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Albert, Celia to/from extended family</unittitle>
+                     <unitdate type="inclusive">1910,1918-1931</unitdate>
+                     <container label="Mixed Materials (39002022291372)"
+                                id="aspace_9df9b68f9463d989e658ef2367d132f5"
+                                type="box">2</container>
+                     <container id="aspace_8fa7dd56bcba6ccc4163c82fa25b7ad6"
+                                type="folder"
+                                parent="aspace_9df9b68f9463d989e658ef2367d132f5">23-42</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Albert, Celia to/from extended family</unittitle>
+                     <unitdate type="inclusive">1932 -1950, n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291380)"
+                                id="aspace_ef2e054eee3184cda652252a8c745d95"
+                                type="box">3</container>
+                     <container id="aspace_99cc1dcdc301e2670a24a19a6caadda1"
+                                type="folder"
+                                parent="aspace_ef2e054eee3184cda652252a8c745d95">43-66</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Other Speak/Steward family correspondence</unittitle>
+                     <unitdate type="inclusive">1908-1976</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_9a76b93db8003f50194dbc7940d27847"
+                                type="box">4</container>
+                     <container id="aspace_fd478052d3598f1eb330cdaf3cf687f7"
+                                type="folder"
+                                parent="aspace_9a76b93db8003f50194dbc7940d27847">67-72</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Other correspondence of Sarah Speak, mother of Celia</unittitle>
+                     <unitdate type="inclusive">1922-1934,n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_6ef201ea8da73a856c48adc1044b6ec0"
+                                type="box">4</container>
+                     <container id="aspace_bd4aa2fab2b2a692c41127dc5ba9f3cf"
+                                type="folder"
+                                parent="aspace_6ef201ea8da73a856c48adc1044b6ec0">73</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref25" level="subseries">
+               <did>
+                  <unittitle>Circular letters sent out by Albert and Celia Steward</unittitle>
+               </did>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Circular letters</unittitle>
+                     <unitdate type="inclusive">1924,1931-1950</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_63593e163382dff16dbc81db0c58f008"
+                                type="box">4</container>
+                     <container id="aspace_cc1a8d5bb6ad3ecdab1fb4be3bf01a74"
+                                type="folder"
+                                parent="aspace_63593e163382dff16dbc81db0c58f008">74-83</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Circular letters</unittitle>
+                     <unitdate type="inclusive">1951-1977</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_7094c439e48b919c6b646115f317774c"
+                                type="box">4</container>
+                     <container id="aspace_672987262bedf12562cb7f5e7cfba0f1"
+                                type="folder"
+                                parent="aspace_7094c439e48b919c6b646115f317774c">82</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref28" level="subseries">
+               <did>
+                  <unittitle>General Correspondence: Western Colleagues and Acquaintances</unittitle>
+               </did>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>A</unittitle>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_2474ea3ba2f2deb053ca9e012143d36d"
+                                type="box">4</container>
+                     <container id="aspace_2e9fa757edcb20f31e29a3f82147a709"
+                                type="folder"
+                                parent="aspace_2474ea3ba2f2deb053ca9e012143d36d">83</container>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Anderson, Hilda</unittitle>
+                     <unitdate type="inclusive">1938-1948</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_b2d30d6e0ee4385417f5939b021bd7df"
+                                type="box">4</container>
+                     <container id="aspace_e72fe33205728b2d71771462b9bb33b6"
+                                type="folder"
+                                parent="aspace_b2d30d6e0ee4385417f5939b021bd7df">84</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Atwood, W. M. B</unittitle>
+                     <unitdate type="inclusive">1931-1950</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_188561e3e33cd221ca5ccec8b03892bb"
+                                type="box">4</container>
+                     <container id="aspace_f95f7a8ed47b84f9e86da029343ee7e6"
+                                type="folder"
+                                parent="aspace_188561e3e33cd221ca5ccec8b03892bb">85</container>
+                  </did>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Baldwin, Raymond and Rachel</unittitle>
+                     <unitdate type="inclusive">1948-1979</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_13633cc14f81024037e78aee0667a7c8"
+                                type="box">4</container>
+                     <container id="aspace_e90d4c9b6aebc8972f15a49020b81f15"
+                                type="folder"
+                                parent="aspace_13633cc14f81024037e78aee0667a7c8">86</container>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Bates, Miner Searle</unittitle>
+                     <unitdate type="inclusive">1949-1950,n.d</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_26ffccf890d8e8bb72126e1a00cfd487"
+                                type="box">4</container>
+                     <container id="aspace_3f474c73106b4b2506a56f30f2f774a6"
+                                type="folder"
+                                parent="aspace_26ffccf890d8e8bb72126e1a00cfd487">87</container>
+                  </did>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Bauer, Grace</unittitle>
+                     <unitdate type="inclusive">1939-1946</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_4cf73ac6d082deb68747675a3b2c086d"
+                                type="box">4</container>
+                     <container id="aspace_70189667c99290d0ed474c82bab12b4b"
+                                type="folder"
+                                parent="aspace_4cf73ac6d082deb68747675a3b2c086d">87</container>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Buck, J. Lossing</unittitle>
+                     <unitdate type="inclusive">1951</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_b3e81711cc8c6e9657162c82cdc8618d"
+                                type="box">4</container>
+                     <container id="aspace_9b2102fcf5c082230582d33e99550773"
+                                type="folder"
+                                parent="aspace_b3e81711cc8c6e9657162c82cdc8618d">88</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>C</unittitle>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_db3f8f1ccafc58f844e688fcc06f6387"
+                                type="box">4</container>
+                     <container id="aspace_0daab9e6e2962e6abd1debbcd39b92a5"
+                                type="folder"
+                                parent="aspace_db3f8f1ccafc58f844e688fcc06f6387">89</container>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>China Christian Educational Association</unittitle>
+                     <unitdate type="inclusive">1949-1950</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_c08dadc1446c20befa5db5daefde476f"
+                                type="box">4</container>
+                     <container id="aspace_71e0fef27f5ac13e1c3f982dbb1f6520"
+                                type="folder"
+                                parent="aspace_c08dadc1446c20befa5db5daefde476f">90</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>D</unittitle>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_2b53bec85770c8bad22ec11b034feed4"
+                                type="box">4</container>
+                     <container id="aspace_1c7c66a6653a90788b6b64ff84637589"
+                                type="folder"
+                                parent="aspace_2b53bec85770c8bad22ec11b034feed4">91</container>
+                  </did>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Daniels, J. Horton</unittitle>
+                     <unitdate type="inclusive">1944-1950</unitdate>
+                     <container label="Mixed Materials (39002022291398)"
+                                id="aspace_b9e73b9a1c785add75bd0c6a82ffd602"
+                                type="box">4</container>
+                     <container id="aspace_e008de8295e361dfd8b140e95e16d33c"
+                                type="folder"
+                                parent="aspace_b9e73b9a1c785add75bd0c6a82ffd602">92</container>
+                  </did>
+               </c>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>DeVol, Charles E.</unittitle>
+                     <unitdate type="inclusive">1934-1958</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_3033ecfcf8c57a93322817126756dcb7"
+                                type="box">5</container>
+                     <container id="aspace_cf681b90b1adf1cd63ded6390461cf7f"
+                                type="folder"
+                                parent="aspace_3033ecfcf8c57a93322817126756dcb7">93</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>E,F</unittitle>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_6dbf0318977524fadbafb8634e5dbda8"
+                                type="box">5</container>
+                     <container id="aspace_8fcedb95f2fbf39d008edf36fbcdcafa"
+                                type="folder"
+                                parent="aspace_6dbf0318977524fadbafb8634e5dbda8">94</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>G</unittitle>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_4086d07f62dcdfb5c3213fc169b130be"
+                                type="box">5</container>
+                     <container id="aspace_52db93717fd07fd533228df3046e8121"
+                                type="folder"
+                                parent="aspace_4086d07f62dcdfb5c3213fc169b130be">95</container>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Gale, Frank and Ailie</unittitle>
+                     <unitdate type="inclusive">1941-1949</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_9c2aaf48603127e33bd500a19686f8df"
+                                type="box">5</container>
+                     <container id="aspace_4036488040f0b8d0f899e91db5e1f4cb"
+                                type="folder"
+                                parent="aspace_9c2aaf48603127e33bd500a19686f8df">96</container>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Gilkey, Helen</unittitle>
+                     <unitdate type="inclusive">1919-1941</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_51352c3f67bcb1aa565cbd2fdd9c3dbd"
+                                type="box">5</container>
+                     <container id="aspace_e78bf906e0f5b7873d1f0a801237bf74"
+                                type="folder"
+                                parent="aspace_51352c3f67bcb1aa565cbd2fdd9c3dbd">97</container>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Gilkey, Helen</unittitle>
+                     <unitdate type="inclusive">1942-1950</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_2a72ed99ca31409aae82dcc52ecf17e0"
+                                type="box">5</container>
+                     <container id="aspace_9756723aa51f24c5bddc230fae23313d"
+                                type="folder"
+                                parent="aspace_2a72ed99ca31409aae82dcc52ecf17e0">98</container>
+                  </did>
+               </c>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>Gilkey, Helen</unittitle>
+                     <unitdate type="inclusive">1951-1962</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_28c6e49f20865a89003835586312168d"
+                                type="box">5</container>
+                     <container id="aspace_77159ac307b210f5c75668f9a7a61242"
+                                type="folder"
+                                parent="aspace_28c6e49f20865a89003835586312168d">99</container>
+                  </did>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Guggenheim Foundation H</unittitle>
+                     <unitdate type="inclusive">1951-1954</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_cf5bb3ed1911028f6e730ba4449e39c5"
+                                type="box">5</container>
+                     <container id="aspace_b5472b709d36e5c26c814148cc17beb1"
+                                type="folder"
+                                parent="aspace_cf5bb3ed1911028f6e730ba4449e39c5">100</container>
+                  </did>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Hale, Elizabeth</unittitle>
+                     <unitdate type="inclusive">1947-1951</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_2884b041d58e5a31a2471a78fbfa0905"
+                                type="box">5</container>
+                     <container id="aspace_6647f155a7ddf6aa42508f21e811e7e3"
+                                type="folder"
+                                parent="aspace_2884b041d58e5a31a2471a78fbfa0905">102</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>Hayes, Paul and Helen</unittitle>
+                     <unitdate type="inclusive">1937-1950</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_d54c963cd9629c886f3c6451db3efcb5"
+                                type="box">5</container>
+                     <container id="aspace_2c6552f7d433fb5de1c8a54f983cf9be"
+                                type="folder"
+                                parent="aspace_d54c963cd9629c886f3c6451db3efcb5">103</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Henderson, Aurelie</unittitle>
+                     <unitdate type="inclusive">1947-1949</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_7938840b4445e955b17b0fcd30e9ee87"
+                                type="box">5</container>
+                     <container id="aspace_57184bf8be2ff74793d3152ceee094b9"
+                                type="folder"
+                                parent="aspace_7938840b4445e955b17b0fcd30e9ee87">104</container>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>Humphrey family</unittitle>
+                     <unitdate type="inclusive">1949-1950</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_9bf32293ed36a3898c291f6a281ce6ce"
+                                type="box">5</container>
+                     <container id="aspace_2451a884406e186e1d4eb7620d5aa3c1"
+                                type="folder"
+                                parent="aspace_9bf32293ed36a3898c291f6a281ce6ce">106</container>
+                  </did>
+               </c>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>Illick, Theron and Bernice J</unittitle>
+                     <unitdate type="inclusive">1943-1958</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_5b39bfd3f2a705c4a78493601a880871"
+                                type="box">5</container>
+                     <container id="aspace_fe5ab5f24533b1d23b9dea55ea2b0020"
+                                type="folder"
+                                parent="aspace_5b39bfd3f2a705c4a78493601a880871">107</container>
+                  </did>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Jones, Lucile and Francis</unittitle>
+                     <unitdate type="inclusive">1942-1954</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_a5e27471588f12778612d6724d903024"
+                                type="box">5</container>
+                     <container id="aspace_be4fd6c35d48acffd1f5c8b4ba25a635"
+                                type="folder"
+                                parent="aspace_a5e27471588f12778612d6724d903024">109</container>
+                  </did>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>Jones, Tracey K., Jr. (see also: Methodist Church, Board of Missions)</unittitle>
+                     <unitdate type="inclusive">1948</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_d828acb263610f3101f493dea67a2e9d"
+                                type="box">5</container>
+                     <container id="aspace_e60fe11d3cfadaaa61f3f00677ce0660"
+                                type="folder"
+                                parent="aspace_d828acb263610f3101f493dea67a2e9d">109</container>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>K</unittitle>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_cac129356fa33bc2e3bb2eef10f77d2e"
+                                type="box">5</container>
+                     <container id="aspace_2d1199e610519bc1260297fbacc95962"
+                                type="folder"
+                                parent="aspace_cac129356fa33bc2e3bb2eef10f77d2e">110</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>L</unittitle>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_9a5808d7e5e6887c03d212a3e5a93e9f"
+                                type="box">5</container>
+                     <container id="aspace_d50b43d8df051fe8659b64c2331d287f"
+                                type="folder"
+                                parent="aspace_9a5808d7e5e6887c03d212a3e5a93e9f">111</container>
+                  </did>
+               </c>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>Lacy, Creighton and Frances</unittitle>
+                     <unitdate type="inclusive">1949-1951</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_e1e4ae645768bb3c5d179e16296ef419"
+                                type="box">5</container>
+                     <container id="aspace_18a8170d08e035a755b357a27a37cad2"
+                                type="folder"
+                                parent="aspace_e1e4ae645768bb3c5d179e16296ef419">112</container>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>M</unittitle>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_bf40bb1a2f70183da38f213b26eb843d"
+                                type="box">5</container>
+                     <container id="aspace_48af42363a759643a8a261890f2007d6"
+                                type="folder"
+                                parent="aspace_bf40bb1a2f70183da38f213b26eb843d">113</container>
+                  </did>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>McCain, Pearle</unittitle>
+                     <unitdate type="inclusive">1949-1951</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_d833d7eb9905df8817c66f7170af2e5d"
+                                type="box">5</container>
+                     <container id="aspace_559488d5dc70707d6afacf12bbbd9a2b"
+                                type="folder"
+                                parent="aspace_d833d7eb9905df8817c66f7170af2e5d">114</container>
+                  </did>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1937-1945</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_0599df2a58922a8b4d4101c9beb0fb77"
+                                type="box">5</container>
+                     <container id="aspace_d596f922e68ee3a6ace1be8fce16238b"
+                                type="folder"
+                                parent="aspace_0599df2a58922a8b4d4101c9beb0fb77">115</container>
+                  </did>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1947-1949</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_c118b965b2dc00e2dc6aeaa91aabd73e"
+                                type="box">5</container>
+                     <container id="aspace_64dd72162d1b4cd0dad033046cb55f2b"
+                                type="folder"
+                                parent="aspace_c118b965b2dc00e2dc6aeaa91aabd73e">116</container>
+                  </did>
+               </c>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_38e51666f288be99103e748602272185"
+                                type="box">5</container>
+                     <container id="aspace_23471243fbdb8697183d19b250c3b0c6"
+                                type="folder"
+                                parent="aspace_38e51666f288be99103e748602272185">117</container>
+                  </did>
+               </c>
+               <c id="ref63" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1951</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_cf2a92eec65e7f3570e4014e87f1e9ce"
+                                type="box">5</container>
+                     <container id="aspace_d5caac81d01ccf71050b62b3b410b10d"
+                                type="folder"
+                                parent="aspace_cf2a92eec65e7f3570e4014e87f1e9ce">118</container>
+                  </did>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1952-1955</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_5530002f4ce04faf509b83fa8e5cd4e0"
+                                type="box">5</container>
+                     <container id="aspace_802a92fbc2193ffa7c64fdb91bd6cbb1"
+                                type="folder"
+                                parent="aspace_5530002f4ce04faf509b83fa8e5cd4e0">119</container>
+                  </did>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>Methodist Church, Board of Missions</unittitle>
+                     <unitdate type="inclusive">1956-1957</unitdate>
+                     <container label="Mixed Materials (39002022291406)"
+                                id="aspace_cc81f055f380d24a8f228adf4499b78a"
+                                type="box">5</container>
+                     <container id="aspace_a8718aabeafd9b8066770aade14b75b8"
+                                type="folder"
+                                parent="aspace_cc81f055f380d24a8f228adf4499b78a">120</container>
+                  </did>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>Mills, W. Plumer</unittitle>
+                     <unitdate type="inclusive">1942-1948</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_8fd403fa2aa3fae9e9a8a41e19cf04ee"
+                                type="box">6</container>
+                     <container id="aspace_f2147600b98820406ad7028afbfe76a7"
+                                type="folder"
+                                parent="aspace_8fd403fa2aa3fae9e9a8a41e19cf04ee">121</container>
+                  </did>
+               </c>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>Moffet, Anna</unittitle>
+                     <unitdate type="inclusive">1938-1944</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_39b702be7acee8d29100f32997504c4c"
+                                type="box">6</container>
+                     <container id="aspace_e47919fda34a61e3415eecad13b80640"
+                                type="folder"
+                                parent="aspace_39b702be7acee8d29100f32997504c4c">122</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>N,O</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_6db1a8204f87e09e9364c22f19cf135c"
+                                type="box">6</container>
+                     <container id="aspace_d0674be0ba72e71a771585ea0f7ba0d4"
+                                type="folder"
+                                parent="aspace_6db1a8204f87e09e9364c22f19cf135c">123</container>
+                  </did>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>Oregon Agricultural College</unittitle>
+                     <unitdate type="inclusive">1921-1925</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_057112053735fb6ad8dfa8dbcbbbd469"
+                                type="box">6</container>
+                     <container id="aspace_17dcc17562fe5adf39a59ed5e3d0afa3"
+                                type="folder"
+                                parent="aspace_057112053735fb6ad8dfa8dbcbbbd469">124</container>
+                  </did>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>Oregon State College</unittitle>
+                     <unitdate type="inclusive">1947-1959</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_cca1d05f251d1b12e036027a3a36959a"
+                                type="box">6</container>
+                     <container id="aspace_c3125abdbfd4abe64e75ffc3b426914b"
+                                type="folder"
+                                parent="aspace_cca1d05f251d1b12e036027a3a36959a">125</container>
+                  </did>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>P</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_73b29a86716804395b4d20176271734b"
+                                type="box">6</container>
+                     <container id="aspace_90d9043cff6f366a9e123fa19466ebf1"
+                                type="folder"
+                                parent="aspace_73b29a86716804395b4d20176271734b">126</container>
+                  </did>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>Poo Shan Tong Relief Association, Nanking</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_e4f3af7d598e8241e650d4700e5f70b2"
+                                type="box">6</container>
+                     <container id="aspace_0bd7e7a010b014264c5036f0eca71736"
+                                type="folder"
+                                parent="aspace_e4f3af7d598e8241e650d4700e5f70b2">127</container>
+                  </did>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>Price, P. Frank</unittitle>
+                     <unitdate type="inclusive">1941-1949</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_899c208d78792f31eb4546171be8086e"
+                                type="box">6</container>
+                     <container id="aspace_e7260e3e8955a4d9c36a0cfcf08238b5"
+                                type="folder"
+                                parent="aspace_899c208d78792f31eb4546171be8086e">128</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>Priest, Elsie R</unittitle>
+                     <unitdate type="inclusive">1938-1956</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_7d0ab1fe14ad441f71e319cf9c4a7cf4"
+                                type="box">6</container>
+                     <container id="aspace_0dbf354734c0a6506012588ad46eac1b"
+                                type="folder"
+                                parent="aspace_7d0ab1fe14ad441f71e319cf9c4a7cf4">129</container>
+                  </did>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>Rouse, Marguerite</unittitle>
+                     <unitdate type="inclusive">1936-1950</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_5d77aafa6fdfa51c841286d561c38478"
+                                type="box">6</container>
+                     <container id="aspace_a1fdc0457450bcc4d812ef67a2e5a1e1"
+                                type="folder"
+                                parent="aspace_5d77aafa6fdfa51c841286d561c38478">131</container>
+                  </did>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>S</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_e45071774acd059c911d66d301eb0d87"
+                                type="box">6</container>
+                     <container id="aspace_e991317234377d29aad2e1637e48fc79"
+                                type="folder"
+                                parent="aspace_e45071774acd059c911d66d301eb0d87">132</container>
+                  </did>
+               </c>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>Slocum, Burl and Esther</unittitle>
+                     <unitdate type="inclusive">1932-1962</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_b96a64395595190b88e5e568f0a0c100"
+                                type="box">6</container>
+                     <container id="aspace_f76d99bf3868ae25b86de6e100f7f973"
+                                type="folder"
+                                parent="aspace_b96a64395595190b88e5e568f0a0c100">133</container>
+                  </did>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>Smith, Dorothy and Stanley</unittitle>
+                     <unitdate type="inclusive">1943-1948,n.d</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_5040b74e9789b13f4f994c4b55f454fc"
+                                type="box">6</container>
+                     <container id="aspace_368507eaacc969ab81092c669974a308"
+                                type="folder"
+                                parent="aspace_5040b74e9789b13f4f994c4b55f454fc">134</container>
+                  </did>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>Stuart, J. Leighton</unittitle>
+                     <unitdate type="inclusive">1949</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_0df513e5d56aef5ea2e4ebf268ce003e"
+                                type="box">6</container>
+                     <container id="aspace_6b7ab62460cf9c7b333114190be85a36"
+                                type="folder"
+                                parent="aspace_0df513e5d56aef5ea2e4ebf268ce003e">135</container>
+                  </did>
+               </c>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>Supporting churches and women's groups in U.S.</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_3b9d3091b9c1cfe154688c042895a36d"
+                                type="box">6</container>
+                     <container id="aspace_fba47193cd67d8286f4d93d2e0ff3625"
+                                type="folder"
+                                parent="aspace_3b9d3091b9c1cfe154688c042895a36d">136</container>
+                  </did>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>T</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_0db26c69a518753e9515f39d5c5a760a"
+                                type="box">6</container>
+                     <container id="aspace_0fea71825fde963415e8be0195d4c944"
+                                type="folder"
+                                parent="aspace_0db26c69a518753e9515f39d5c5a760a">137</container>
+                  </did>
+               </c>
+               <c id="ref82" level="file">
+                  <did>
+                     <unittitle>Thompson, May Bel</unittitle>
+                     <unitdate type="inclusive">1948</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_143795f0278fbc79069516a9522a2917"
+                                type="box">6</container>
+                     <container id="aspace_aa804fbeec9837ffb2193fd2fe8c534c"
+                                type="folder"
+                                parent="aspace_143795f0278fbc79069516a9522a2917">138</container>
+                  </did>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>Trimmer, Peter and Ruth</unittitle>
+                     <unitdate type="inclusive">1938-1959</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_eff8db3fab80010cebd9a76fdeb43b73"
+                                type="box">6</container>
+                     <container id="aspace_48fdd967fce6e9bc543fdac2e3b5e36c"
+                                type="folder"
+                                parent="aspace_eff8db3fab80010cebd9a76fdeb43b73">139</container>
+                  </did>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>U</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_af8d8261cadedc9d020ce2a9d486a23a"
+                                type="box">6</container>
+                     <container id="aspace_3eeba7fc2e9935a0b4407d3eb03fcd5a"
+                                type="folder"
+                                parent="aspace_af8d8261cadedc9d020ce2a9d486a23a">140</container>
+                  </did>
+               </c>
+               <c id="ref85" level="file">
+                  <did>
+                     <unittitle>United Board for Christian Colleges in China/ United Board for Christian Higher Education in Asia</unittitle>
+                     <unitdate type="inclusive">1949-1958</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_1e098c161366eb0d0613935ad04b2cab"
+                                type="box">6</container>
+                     <container id="aspace_68e72d133479295269d77a8a8389b2a0"
+                                type="folder"
+                                parent="aspace_1e098c161366eb0d0613935ad04b2cab">141</container>
+                  </did>
+               </c>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>Upham, Ethel</unittitle>
+                     <unitdate type="inclusive">1947-1951</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_65f7d0bbc304eca67f37c4e2efcd5274"
+                                type="box">6</container>
+                     <container id="aspace_d04cdbf3ff407a6649990be7d5747c41"
+                                type="folder"
+                                parent="aspace_65f7d0bbc304eca67f37c4e2efcd5274">142</container>
+                  </did>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>V,W</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_4b801867a6457fd6556620578646edc1"
+                                type="box">6</container>
+                     <container id="aspace_3d82eff9b58c99bab9287e191fc87708"
+                                type="folder"
+                                parent="aspace_4b801867a6457fd6556620578646edc1">143</container>
+                  </did>
+               </c>
+               <c id="ref88" level="file">
+                  <did>
+                     <unittitle>Ward, Ralph A. and Mildred</unittitle>
+                     <unitdate type="inclusive">1942-1956</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_e22b6930c60587e4ae10c56aefb99b32"
+                                type="box">6</container>
+                     <container id="aspace_19cce72573d5a0f627f423c772371c5f"
+                                type="folder"
+                                parent="aspace_e22b6930c60587e4ae10c56aefb99b32">144</container>
+                  </did>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>Watters, Hyla</unittitle>
+                     <unitdate type="inclusive">1939-1950,n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_6d606c50658c447bb958dba553951252"
+                                type="box">6</container>
+                     <container id="aspace_a3074edb1b0c32d613601b9b69861ce4"
+                                type="folder"
+                                parent="aspace_6d606c50658c447bb958dba553951252">145</container>
+                  </did>
+               </c>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Wharton, Joseph</unittitle>
+                     <unitdate type="inclusive">1953-1956</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_4bc698fd4d5fe813970bda4dcf392e01"
+                                type="box">6</container>
+                     <container id="aspace_c5b00559433ffb78a9b985ba25d1be07"
+                                type="folder"
+                                parent="aspace_4bc698fd4d5fe813970bda4dcf392e01">146</container>
+                  </did>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>Whitmer, Harriet</unittitle>
+                     <unitdate type="inclusive">1944-1951</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_6bd8aa5fea742d1951e664d8b51b0e64"
+                                type="box">6</container>
+                     <container id="aspace_4c03d758c20697f94ec17c87579d54b0"
+                                type="folder"
+                                parent="aspace_6bd8aa5fea742d1951e664d8b51b0e64">147</container>
+                  </did>
+               </c>
+               <c id="ref92" level="file">
+                  <did>
+                     <unittitle>Wolcott, Jessie</unittitle>
+                     <unitdate type="inclusive">1946-1950</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_759dd0563a17cbb006e8c77ac5032d4d"
+                                type="box">6</container>
+                     <container id="aspace_d03c7af867494766cccc7fccfcede06b"
+                                type="folder"
+                                parent="aspace_759dd0563a17cbb006e8c77ac5032d4d">148</container>
+                  </did>
+               </c>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>World Peace Committee, First Methodist Church Corvallis, Oregon</unittitle>
+                     <unitdate type="inclusive">1956-1959</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_59b1006348b5bb76f830909c8bd94d29"
+                                type="box">6</container>
+                     <container id="aspace_53c3ce944c156640c2c52020c8aa8154"
+                                type="folder"
+                                parent="aspace_59b1006348b5bb76f830909c8bd94d29">149</container>
+                  </did>
+               </c>
+               <c id="ref94" level="file">
+                  <did>
+                     <unittitle>Y</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_e574ec427d3e58c3cdbcfabe89e5bb66"
+                                type="box">6</container>
+                     <container id="aspace_685d9900292e4e4fdd8a44928108435e"
+                                type="folder"
+                                parent="aspace_e574ec427d3e58c3cdbcfabe89e5bb66">150</container>
+                  </did>
+               </c>
+               <c id="ref95" level="file">
+                  <did>
+                     <unittitle>Yale Divinity School Library - China Records Project</unittitle>
+                     <unitdate type="inclusive">1968-1972</unitdate>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_7995e5c844852e4ae219e11083305d68"
+                                type="box">6</container>
+                     <container id="aspace_635c936eb96d5e547e6a75ebb6935aef"
+                                type="folder"
+                                parent="aspace_7995e5c844852e4ae219e11083305d68">151</container>
+                  </did>
+               </c>
+               <c id="ref96" level="file">
+                  <did>
+                     <unittitle>first names and unidentified</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_11122263b2690187ad8b0c6eedcd2029"
+                                type="box">6</container>
+                     <container id="aspace_2960c18726b4146e3aead143e1710467"
+                                type="folder"
+                                parent="aspace_11122263b2690187ad8b0c6eedcd2029">151</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref97" level="subseries">
+               <did>
+                  <unittitle>General Correspondence: Chinese Colleagues and Acquaintances</unittitle>
+               </did>
+               <c id="ref98" level="file">
+                  <did>
+                     <unittitle>Ahn - Cheng</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_58c7113b0340f0cce39cbaaf5376a00a"
+                                type="box">6</container>
+                     <container id="aspace_627725b66c91e96b55ed159978e9a807"
+                                type="folder"
+                                parent="aspace_58c7113b0340f0cce39cbaaf5376a00a">153</container>
+                  </did>
+               </c>
+               <c id="ref99" level="file">
+                  <did>
+                     <unittitle>Cheo - Chow</unittitle>
+                     <container label="Mixed Materials (39002022291414)"
+                                id="aspace_8aa18de44785b41c3987fd6963f88818"
+                                type="box">6</container>
+                     <container id="aspace_c519700cbede83a45109532e7ba5a8fd"
+                                type="folder"
+                                parent="aspace_8aa18de44785b41c3987fd6963f88818">154</container>
+                  </did>
+               </c>
+               <c id="ref100" level="file">
+                  <did>
+                     <unittitle>Dang</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_6f241227f85fbf5fa88026df590d6fd8"
+                                type="box">7</container>
+                     <container id="aspace_1e6fd0c673f52070313f1eb86bc5e8d2"
+                                type="folder"
+                                parent="aspace_6f241227f85fbf5fa88026df590d6fd8">155</container>
+                  </did>
+               </c>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>Dju - Feng</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_30d71d7be6ae385027349b3c041a5911"
+                                type="box">7</container>
+                     <container id="aspace_09853a2f2e5e52d30111c2e7ebb61e4f"
+                                type="folder"
+                                parent="aspace_30d71d7be6ae385027349b3c041a5911">156</container>
+                  </did>
+               </c>
+               <c id="ref102" level="file">
+                  <did>
+                     <unittitle>Gee</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_e3a1bde2b8753e0fefb0ca063079d29a"
+                                type="box">7</container>
+                     <container id="aspace_7a9b1b47be4058bfdda34c6d7c4d2738"
+                                type="folder"
+                                parent="aspace_e3a1bde2b8753e0fefb0ca063079d29a">157</container>
+                  </did>
+               </c>
+               <c id="ref103" level="file">
+                  <did>
+                     <unittitle>Han - Hsia</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_80b3276622b822e7ade19a0ca952c655"
+                                type="box">7</container>
+                     <container id="aspace_28bfabef4f9543bc856c921d54f81307"
+                                type="folder"
+                                parent="aspace_80b3276622b822e7ade19a0ca952c655">158</container>
+                  </did>
+               </c>
+               <c id="ref104" level="file">
+                  <did>
+                     <unittitle>Hsu - Hu</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_79e7087d415fe2fad9c169476fc578d4"
+                                type="box">7</container>
+                     <container id="aspace_c49f5223eb0a402f488a3a62ecb1ce9a"
+                                type="folder"
+                                parent="aspace_79e7087d415fe2fad9c169476fc578d4">159</container>
+                  </did>
+               </c>
+               <c id="ref105" level="file">
+                  <did>
+                     <unittitle>Huang</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_116ddbb6a11cc17f0af9865982d80315"
+                                type="box">7</container>
+                     <container id="aspace_fff06d8a461e4525b4413bc19312b15d"
+                                type="folder"
+                                parent="aspace_116ddbb6a11cc17f0af9865982d80315">160</container>
+                  </did>
+               </c>
+               <c id="ref106" level="file">
+                  <did>
+                     <unittitle>Jen - Lin</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_97f5ebfb053edcf2e508ee122cbe5ddd"
+                                type="box">7</container>
+                     <container id="aspace_e7ed34fb4c6c76b65738b8015f0cf0b2"
+                                type="folder"
+                                parent="aspace_97f5ebfb053edcf2e508ee122cbe5ddd">161</container>
+                  </did>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>Ling - Ren</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_fa994a9e2d4e6dc3ad6073a0c27658c8"
+                                type="box">7</container>
+                     <container id="aspace_6a9fac539ceaaf2e079ac895ef01680d"
+                                type="folder"
+                                parent="aspace_fa994a9e2d4e6dc3ad6073a0c27658c8">162</container>
+                  </did>
+               </c>
+               <c id="ref108" level="file">
+                  <did>
+                     <unittitle>Shih - Sie</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_3417cc05ae274753c7af452f7552e5fa"
+                                type="box">7</container>
+                     <container id="aspace_ebef52a75ccb83aa742cf3ffad55c96f"
+                                type="folder"
+                                parent="aspace_3417cc05ae274753c7af452f7552e5fa">163</container>
+                  </did>
+               </c>
+               <c id="ref109" level="file">
+                  <did>
+                     <unittitle>Teng - Tsao</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_cf540bd4e6c3ab8bda64ba9a25b96acc"
+                                type="box">7</container>
+                     <container id="aspace_ec0721d66e9632b176632c79702d2757"
+                                type="folder"
+                                parent="aspace_cf540bd4e6c3ab8bda64ba9a25b96acc">164</container>
+                  </did>
+               </c>
+               <c id="ref110" level="file">
+                  <did>
+                     <unittitle>Wang</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_a9dd792f168f713a70a7ebedadc8588a"
+                                type="box">7</container>
+                     <container id="aspace_ff596722aba6d4707bb76577d3941b1c"
+                                type="folder"
+                                parent="aspace_a9dd792f168f713a70a7ebedadc8588a">165</container>
+                  </did>
+               </c>
+               <c id="ref111" level="file">
+                  <did>
+                     <unittitle>Wei, C.T. - Wu, Blanche</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_79af9a6a6690ea0222781be99e706437"
+                                type="box">7</container>
+                     <container id="aspace_841ff3709308eeeb0ca79f8ca461df26"
+                                type="folder"
+                                parent="aspace_79af9a6a6690ea0222781be99e706437">166</container>
+                  </did>
+               </c>
+               <c id="ref112" level="file">
+                  <did>
+                     <unittitle>Wu Yi-Fang - Zau, given names only</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_aae2874a03c5e4f745e8a6a70c127528"
+                                type="box">7</container>
+                     <container id="aspace_9ebf1c7187c8c8732acfaea3cce44693"
+                                type="folder"
+                                parent="aspace_aae2874a03c5e4f745e8a6a70c127528">167</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref113" level="subseries">
+               <did>
+                  <unittitle>Topical File of Correspondence</unittitle>
+               </did>
+               <c id="ref114" level="file">
+                  <did>
+                     <unittitle>China era: corres. with agencies and companies</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_f92f41e309097bb51fa6f578788c5396"
+                                type="box">7</container>
+                     <container id="aspace_0252b8660f9662d4cc07170b03bea89f"
+                                type="folder"
+                                parent="aspace_f92f41e309097bb51fa6f578788c5396">169</container>
+                  </did>
+               </c>
+               <c id="ref115" level="file">
+                  <did>
+                     <unittitle>China era: invitations</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_2844d958ea42755f169ff17513042c60"
+                                type="box">7</container>
+                     <container id="aspace_96c37a08d25f154f4229f840b33c05c4"
+                                type="folder"
+                                parent="aspace_2844d958ea42755f169ff17513042c60">170</container>
+                  </did>
+               </c>
+               <c id="ref116" level="file">
+                  <did>
+                     <unittitle>China era: short notes from missionary colleagues</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_cb9147c4cac83a1ec12ae56188713bc6"
+                                type="box">7</container>
+                     <container id="aspace_89de5a90964078fda6b64b5c1897cdd3"
+                                type="folder"
+                                parent="aspace_cb9147c4cac83a1ec12ae56188713bc6">171</container>
+                  </did>
+               </c>
+               <c id="ref117" level="file">
+                  <did>
+                     <unittitle>China era: short notes from Chinese colleagues and acquaintances</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_12df23000d7b58a1c3c91ae3a0b3c005"
+                                type="box">7</container>
+                     <container id="aspace_864b4e037d8996a2bfcccc1ac94529e5"
+                                type="folder"
+                                parent="aspace_12df23000d7b58a1c3c91ae3a0b3c005">172</container>
+                  </did>
+               </c>
+               <c id="ref118" level="file">
+                  <did>
+                     <unittitle>Corres. with miscellaneous non-Chinese foreign students</unittitle>
+                     <container label="Mixed Materials (39002022291422)"
+                                id="aspace_f3b70fd22ba7334904d69611901c4201"
+                                type="box">7</container>
+                     <container id="aspace_5e3036d101090339a8eb282539b9bb66"
+                                type="folder"
+                                parent="aspace_f3b70fd22ba7334904d69611901c4201">168</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref119" level="series">
+            <did>
+               <unittitle>Writings, Talks</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1930-1959</unitdate>
+            </did>
+            <c id="ref120" level="subseries">
+               <did>
+                  <unittitle>Jointly Written by Albert and Celia Steward</unittitle>
+               </did>
+               <c id="ref121" level="file">
+                  <did>
+                     <unittitle>"Our First Missionary Journey"</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_fb437ce855800605bf5e2a42fdbebec4"
+                                type="box">8</container>
+                     <container id="aspace_839e756c6bc39c9d3c1822af6f3313b7"
+                                type="folder"
+                                parent="aspace_fb437ce855800605bf5e2a42fdbebec4">173</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref122" level="subseries">
+               <did>
+                  <unittitle>Written by Celia Steward</unittitle>
+               </did>
+               <c id="ref123" level="file">
+                  <did>
+                     <unittitle>"Incidents and Impressions from Nanking"</unittitle>
+                     <unitdate type="inclusive">1949</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_ef199ed6d712cb0c5c278b2878939a7b"
+                                type="box">8</container>
+                     <container id="aspace_40e871f7adfefaf34467eebb6f5002a1"
+                                type="folder"
+                                parent="aspace_ef199ed6d712cb0c5c278b2878939a7b">174</container>
+                  </did>
+               </c>
+               <c id="ref124" level="file">
+                  <did>
+                     <unittitle>Miscellaneous short writings</unittitle>
+                     <unitdate type="inclusive">1939</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_4504739aeeda623e1932d4065b41ceca"
+                                type="box">8</container>
+                     <container id="aspace_03797bb4152eaa39685154c7ee67268a"
+                                type="folder"
+                                parent="aspace_4504739aeeda623e1932d4065b41ceca">175</container>
+                  </did>
+               </c>
+               <c id="ref125" level="file">
+                  <did>
+                     <unittitle>Talks</unittitle>
+                     <unitdate type="inclusive">1934-1939</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_8b15f550e43ad54e25f1a120c7da5f26"
+                                type="box">8</container>
+                     <container id="aspace_71b6abc32188cb63ed8e571693bf5c6e"
+                                type="folder"
+                                parent="aspace_8b15f550e43ad54e25f1a120c7da5f26">176</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref126" level="subseries">
+               <did>
+                  <unittitle>Written by Albert Steward</unittitle>
+               </did>
+               <c id="ref127" level="file">
+                  <did>
+                     <unittitle>"California to Szechuan" (second copy in Box 16, Folder 323)</unittitle>
+                     <unitdate type="inclusive">1938</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_b45f1ff80d86789fe3d6948299d100e2"
+                                type="box">8</container>
+                     <container id="aspace_f918e9a52dea1795f019f3aec5919779"
+                                type="folder"
+                                parent="aspace_b45f1ff80d86789fe3d6948299d100e2">179</container>
+                  </did>
+               </c>
+               <c id="ref128" level="file">
+                  <did>
+                     <unittitle>re. Manual of the Vascular Plants of the Lower Yangtze Valley</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_5a93238291d969dd992eb955fdd0ec0c"
+                                type="box">8</container>
+                     <container id="aspace_4fbbfd409702521f0b7f51572cdd40e2"
+                                type="folder"
+                                parent="aspace_5a93238291d969dd992eb955fdd0ec0c">180</container>
+                  </did>
+               </c>
+               <c id="ref129" level="file">
+                  <did>
+                     <unittitle>"Oregon Gardens 100 Years Ago"</unittitle>
+                     <unitdate type="inclusive">1959</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_1b799006d218f42e2e178de19f6b81dc"
+                                type="box">8</container>
+                     <container id="aspace_94137fd0b3bc4a1c0c07d4a838779d2a"
+                                type="folder"
+                                parent="aspace_1b799006d218f42e2e178de19f6b81dc">181</container>
+                  </did>
+               </c>
+               <c id="ref130" level="file">
+                  <did>
+                     <unittitle>"The Polygoneae of Eastern Asia"</unittitle>
+                     <unitdate type="inclusive">1930</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_823b6a725b7e617da46924e586fd1b32"
+                                type="box">8</container>
+                     <container id="aspace_330043b0c587074c7bdf67386d1a230b"
+                                type="folder"
+                                parent="aspace_823b6a725b7e617da46924e586fd1b32">182</container>
+                  </did>
+               </c>
+               <c id="ref131" level="file">
+                  <did>
+                     <unittitle>"Vascular Plants of the Lower Yangtze Valley- II Spermatophyta" (typescript)</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_d333a3c5dd08ba745320f02ce9ff4f3b"
+                                type="box">8</container>
+                     <container id="aspace_4d8f38b3b11042cd1e85bb71695ba419"
+                                type="folder"
+                                parent="aspace_d333a3c5dd08ba745320f02ce9ff4f3b">183</container>
+                  </did>
+               </c>
+               <c id="ref132" level="file">
+                  <did>
+                     <unittitle>Brief scientific articles</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_2584a19d7673f0d60b1fc5d1f754a632"
+                                type="box">8</container>
+                     <container id="aspace_249f6c14f874249ea1257ff24c757932"
+                                type="folder"
+                                parent="aspace_2584a19d7673f0d60b1fc5d1f754a632">184</container>
+                  </did>
+               </c>
+               <c id="ref133" level="file">
+                  <did>
+                     <unittitle>Miscellaneous short writings</unittitle>
+                     <unitdate type="inclusive">1945-1957</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_7ff0304d52f9c36ee6be9d38c5a32f5d"
+                                type="box">8</container>
+                     <container id="aspace_b0083a358424586619b29e48e5edd5d6"
+                                type="folder"
+                                parent="aspace_7ff0304d52f9c36ee6be9d38c5a32f5d">185</container>
+                  </did>
+               </c>
+               <c id="ref134" level="file">
+                  <did>
+                     <unittitle>Notes for talks re. Communism in China</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_b88c0fcf2f219254b44dc9e893debf05"
+                                type="box">8</container>
+                     <container id="aspace_44c133ff80960db452097fb79e2698e8"
+                                type="folder"
+                                parent="aspace_b88c0fcf2f219254b44dc9e893debf05">186</container>
+                  </did>
+               </c>
+               <c id="ref135" level="file">
+                  <did>
+                     <unittitle>Notes for talks re. agriculture, rural work</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_642a40e54bce05543715fd433969335f"
+                                type="box">8</container>
+                     <container id="aspace_0314cebdafef000bc1ecc3ddac31b8c9"
+                                type="folder"
+                                parent="aspace_642a40e54bce05543715fd433969335f">187</container>
+                  </did>
+               </c>
+               <c id="ref136" level="file">
+                  <did>
+                     <unittitle>Notes for talks re. world peace</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_504121e62ef33f324efc3ae8e3de5043"
+                                type="box">8</container>
+                     <container id="aspace_e29a3f270dac615880f72b05d07a85ff"
+                                type="folder"
+                                parent="aspace_504121e62ef33f324efc3ae8e3de5043">188</container>
+                  </did>
+               </c>
+               <c id="ref137" level="file">
+                  <did>
+                     <unittitle>Notes for talks - miscellaneous</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_c2d6ddd1ff23f404ba1dcece3e73bd0e"
+                                type="box">8</container>
+                     <container id="aspace_add26ec8b5e9385d4ed64612b6fc51f4"
+                                type="folder"
+                                parent="aspace_c2d6ddd1ff23f404ba1dcece3e73bd0e">189, 190</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref138" level="subseries">
+               <did>
+                  <unittitle>Written by others</unittitle>
+               </did>
+               <c id="ref139" level="file">
+                  <did>
+                     <unittitle>Written by Newton Steward</unittitle>
+                     <unitdate type="inclusive">1935</unitdate>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_fe291ffce606c75000cf7f1e3f495bc4"
+                                type="box">8</container>
+                     <container id="aspace_a96d5acb38913c2ffa88de232fae2c3d"
+                                type="folder"
+                                parent="aspace_fe291ffce606c75000cf7f1e3f495bc4">191</container>
+                  </did>
+               </c>
+               <c id="ref140" level="file">
+                  <did>
+                     <unittitle>Short writings, authors unidentified</unittitle>
+                     <container label="Mixed Materials (39002022291430)"
+                                id="aspace_de00d3afa8290e03a020980d488a30bc"
+                                type="box">8</container>
+                     <container id="aspace_ca59a784285dce27a098c4fa8f57112a"
+                                type="folder"
+                                parent="aspace_de00d3afa8290e03a020980d488a30bc">192</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref141" level="series">
+            <did>
+               <unittitle>Subject File</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1933-1950</unitdate>
+            </did>
+            <scopecontent id="aspace_4921584460a4952dc63976ca833254a0">
+               <head>Scope and Contents</head>
+               <p>This series is arranged alphabetically by topic.</p>
+            </scopecontent>
+            <c id="ref142" level="file">
+               <did>
+                  <unittitle>Agriculture, food in China Agriculture, food in China</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_f7d4daad5835089be543bdcfd215a6d2"
+                             type="box">9</container>
+                  <container id="aspace_4380b96fa5394c6ec21473b3dea98ccf"
+                             type="folder"
+                             parent="aspace_f7d4daad5835089be543bdcfd215a6d2">193</container>
+               </did>
+            </c>
+            <c id="ref143" level="file">
+               <did>
+                  <unittitle>Berkeley, CA - Old China Hands roster</unittitle>
+                  <unitdate type="inclusive">1945</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_edf7c96eb1b5b8400c206befe54534e9"
+                             type="box">9</container>
+                  <container id="aspace_a813b16e1bb4f5e639bc9f10b710f087"
+                             type="folder"
+                             parent="aspace_edf7c96eb1b5b8400c206befe54534e9">194</container>
+               </did>
+            </c>
+            <c id="ref144" level="file">
+               <did>
+                  <unittitle>Blind in China</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_9f6de153fe581a14f3eff0b1d1228e64"
+                             type="box">9</container>
+                  <container id="aspace_efb3d9454c3ed02f69cdeb4d1c312a02"
+                             type="folder"
+                             parent="aspace_9f6de153fe581a14f3eff0b1d1228e64">195</container>
+               </did>
+            </c>
+            <c id="ref145" level="file">
+               <did>
+                  <unittitle>Canton, bombing of</unittitle>
+                  <unitdate type="inclusive">1938</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_0d08e7981e25c5cafacd3d86a1643851"
+                             type="box">9</container>
+                  <container id="aspace_6f9741067f8d500fc10fc9c268551458"
+                             type="folder"
+                             parent="aspace_0d08e7981e25c5cafacd3d86a1643851">196</container>
+               </did>
+            </c>
+            <c id="ref146" level="file">
+               <did>
+                  <unittitle>Chiang Kai-shek</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_cda1a39da7985606ddf0b486123eb7d9"
+                             type="box">9</container>
+                  <container id="aspace_456ce3762f7fdb33ba3e546cf5365ffe"
+                             type="folder"
+                             parent="aspace_cda1a39da7985606ddf0b486123eb7d9">197</container>
+               </did>
+            </c>
+            <c id="ref147" level="file">
+               <did>
+                  <unittitle>Chiang Kai-shek, Madame (Soong Mei-ling)</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_d2c346aa3b1875180ed705f3f545a79f"
+                             type="box">9</container>
+                  <container id="aspace_270fe04443106309cf5eab536fdd8c41"
+                             type="folder"
+                             parent="aspace_d2c346aa3b1875180ed705f3f545a79f">198</container>
+               </did>
+            </c>
+            <c id="ref148" level="file">
+               <did>
+                  <unittitle>China - map</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_0db94ba2e23ab33763b24cf0693713b0"
+                             type="box">9</container>
+                  <container id="aspace_2ec6c29430fff9fb5602b38c5716b686"
+                             type="folder"
+                             parent="aspace_0db94ba2e23ab33763b24cf0693713b0">199</container>
+               </did>
+            </c>
+            <c id="ref149" level="file">
+               <did>
+                  <unittitle>China - post 1960</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_ecf1fdd8511f84057062c587be2e3b77"
+                             type="box">9</container>
+                  <container id="aspace_a026a37646d7aa5ffd27ebe4bde222e2"
+                             type="folder"
+                             parent="aspace_ecf1fdd8511f84057062c587be2e3b77">200</container>
+               </did>
+            </c>
+            <c id="ref150" level="file">
+               <did>
+                  <unittitle>Chinese language material</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_44147d18b5a961b61711063368854223"
+                             type="box">9</container>
+                  <container id="aspace_1d0e93bea563055ed78e28ea6a5e0d2a"
+                             type="folder"
+                             parent="aspace_44147d18b5a961b61711063368854223">201</container>
+               </did>
+            </c>
+            <c id="ref151" level="file">
+               <did>
+                  <unittitle>Chinese-Soviet Friendship Association</unittitle>
+                  <unitdate type="inclusive">1950</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_b359696a9c613271ed9cd22ce31bdd23"
+                             type="box">9</container>
+                  <container id="aspace_c1bfe8eb4dae78151b4e19a3b190c16a"
+                             type="folder"
+                             parent="aspace_b359696a9c613271ed9cd22ce31bdd23">202</container>
+               </did>
+            </c>
+            <c id="ref152" level="file">
+               <did>
+                  <unittitle>Chinese theater</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_7f9b68e9b237c06eb32a7edc65e8c61e"
+                             type="box">9</container>
+                  <container id="aspace_93fcd71582fe76b9d2ff8d57f295cbee"
+                             type="folder"
+                             parent="aspace_7f9b68e9b237c06eb32a7edc65e8c61e">203</container>
+               </did>
+            </c>
+            <c id="ref153" level="file">
+               <did>
+                  <unittitle>Christian higher education in China</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_95dc9caeca25f5ae82aeb4c3b698498b"
+                             type="box">9</container>
+                  <container id="aspace_c955b939411534afbe8f8182476727f3"
+                             type="folder"
+                             parent="aspace_95dc9caeca25f5ae82aeb4c3b698498b">204</container>
+               </did>
+            </c>
+            <c id="ref154" level="file">
+               <did>
+                  <unittitle>Citizens Committee to Repeal Chinese Exclusion</unittitle>
+                  <unitdate type="inclusive">ca. 1943</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_dd7fff96abaa7c80de2e62a7eb35833a"
+                             type="box">9</container>
+                  <container id="aspace_d503983794293cf4890244e81199946f"
+                             type="folder"
+                             parent="aspace_dd7fff96abaa7c80de2e62a7eb35833a">205</container>
+               </did>
+            </c>
+            <c id="ref155" level="file">
+               <did>
+                  <unittitle>Committee on American Principles and Fair Play</unittitle>
+                  <unitdate type="inclusive">1943</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_b3c7e1db28cf1061843aaa24e609b4b5"
+                             type="box">9</container>
+                  <container id="aspace_9ec3d3e0b2e8c063c7d01eacf5b6cb11"
+                             type="folder"
+                             parent="aspace_b3c7e1db28cf1061843aaa24e609b4b5">206</container>
+               </did>
+            </c>
+            <c id="ref156" level="file">
+               <did>
+                  <unittitle>Communist takeover in China -general</unittitle>
+                  <unitdate type="inclusive">1949-1951</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_ab300dd8cac10366a227d72b6c30cc37"
+                             type="box">9</container>
+                  <container id="aspace_e94c23d269e17238b4d84a7c364ac78e"
+                             type="folder"
+                             parent="aspace_ab300dd8cac10366a227d72b6c30cc37">207</container>
+               </did>
+            </c>
+            <c id="ref157" level="file">
+               <did>
+                  <unittitle>Communist takeover in China -impact on Christian activity</unittitle>
+                  <unitdate type="inclusive">1948-1951</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_e8172ad0d11818f32f200da257308a37"
+                             type="box">9</container>
+                  <container id="aspace_1a1a0b40ff9c94686691ac606bae24f7"
+                             type="folder"
+                             parent="aspace_e8172ad0d11818f32f200da257308a37">208</container>
+               </did>
+            </c>
+            <c id="ref158" level="file">
+               <did>
+                  <unittitle>Communist takeover in China -Chinese periodicals</unittitle>
+                  <unitdate type="inclusive">1949-1950</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_aaa59e936190700aefe9dfb71a5cd047"
+                             type="box">9</container>
+                  <container id="aspace_fd9e872fc835b96ba200ae63643a3497"
+                             type="folder"
+                             parent="aspace_aaa59e936190700aefe9dfb71a5cd047">209</container>
+               </did>
+            </c>
+            <c id="ref159" level="file">
+               <did>
+                  <unittitle>Communist takeover in China -propaganda posters</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_e8191afaa6fff2718b22a5a16339815c"
+                             type="box">9</container>
+                  <container id="aspace_e4c97772628f24cdc5f9cf99211f6620"
+                             type="folder"
+                             parent="aspace_e8191afaa6fff2718b22a5a16339815c">210</container>
+               </did>
+            </c>
+            <c id="ref160" level="file">
+               <did>
+                  <unittitle>Cooperative forest at Ch'ing Lung Shan</unittitle>
+                  <unitdate type="inclusive">1941</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_89c943a1ceb00d10f69cb88ba60c5be9"
+                             type="box">9</container>
+                  <container id="aspace_abf3208a0dec49ae385ffbf971aa4690"
+                             type="folder"
+                             parent="aspace_89c943a1ceb00d10f69cb88ba60c5be9">211</container>
+               </did>
+            </c>
+            <c id="ref161" level="file">
+               <did>
+                  <unittitle>Feng Yu Hsiang</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_5aaaa31e17c1b4e7e92f278682f010be"
+                             type="box">9</container>
+                  <container id="aspace_10a4fedd1e0d2df06362c3dbbb9e8715"
+                             type="folder"
+                             parent="aspace_5aaaa31e17c1b4e7e92f278682f010be">212</container>
+               </did>
+            </c>
+            <c id="ref162" level="file">
+               <did>
+                  <unittitle>Gilkey, Helen</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_85c3c5dfcda6691bde82ab1a3c21b13f"
+                             type="box">9</container>
+                  <container id="aspace_f7fc4631c6ad4e16a9a6669a09ff45fd"
+                             type="folder"
+                             parent="aspace_85c3c5dfcda6691bde82ab1a3c21b13f">213</container>
+               </did>
+            </c>
+            <c id="ref163" level="file">
+               <did>
+                  <unittitle>Hillcrest School (Nanking American School)</unittitle>
+                  <unitdate type="inclusive">1934</unitdate>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_89dc8d23fac7fb6b77caee8c4f38999e"
+                             type="box">9</container>
+                  <container id="aspace_276c4efb6baaa8fb14f1fa96a6d2397a"
+                             type="folder"
+                             parent="aspace_89dc8d23fac7fb6b77caee8c4f38999e">214</container>
+               </did>
+            </c>
+            <c id="ref164" level="file">
+               <did>
+                  <unittitle>Internment of missionaries by Japanese</unittitle>
+                  <container label="Mixed Materials (39002022291448)"
+                             id="aspace_0a7ca61c518417bc6225bb066df31ca0"
+                             type="box">9</container>
+                  <container id="aspace_35413b0018eac42ee5fbbaaa6d12dda5"
+                             type="folder"
+                             parent="aspace_0a7ca61c518417bc6225bb066df31ca0">215</container>
+               </did>
+            </c>
+            <c id="ref165" level="file">
+               <did>
+                  <unittitle>Kuling American School Laubach, Frank C.</unittitle>
+                  <unitdate type="inclusive">1935</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_36ae1cef5e7f938d925c4a1697300281"
+                             type="box">10</container>
+                  <container id="aspace_ceddde58a961203ec79c6bf779009179"
+                             type="folder"
+                             parent="aspace_36ae1cef5e7f938d925c4a1697300281">216</container>
+               </did>
+            </c>
+            <c id="ref166" level="file">
+               <did>
+                  <unittitle>Methodist missions in China</unittitle>
+                  <unitdate type="inclusive">1936-1950</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_76fa132ab80151594ba0e435a3d47161"
+                             type="box">10</container>
+                  <container id="aspace_ef0196b372f76ee6f5fa6ed1ea55eef8"
+                             type="folder"
+                             parent="aspace_76fa132ab80151594ba0e435a3d47161">218</container>
+               </did>
+            </c>
+            <c id="ref167" level="file">
+               <did>
+                  <unittitle>Missionaries returning from China</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_eb2b48d501507cfd2657af47c12e3293"
+                             type="box">10</container>
+                  <container id="aspace_eb38996d3f23ec21cbc976c639a47d93"
+                             type="folder"
+                             parent="aspace_eb2b48d501507cfd2657af47c12e3293">219</container>
+               </did>
+            </c>
+            <c id="ref168" level="file">
+               <did>
+                  <unittitle>Nanking-conditions during Sino-Japanese war</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_b014232f5f0d14a905c85238a09d1ef4"
+                             type="box">10</container>
+                  <container id="aspace_9e1a53609fdc081cc0b363692505c13c"
+                             type="folder"
+                             parent="aspace_b014232f5f0d14a905c85238a09d1ef4">220</container>
+               </did>
+            </c>
+            <c id="ref169" level="file">
+               <did>
+                  <unittitle>Nanking-cultural events, opportunities</unittitle>
+                  <unitdate type="inclusive">1934-1949,n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_ff4d29dd5a844c9bd71b4b6d96c954b9"
+                             type="box">10</container>
+                  <container id="aspace_460429c677075d90422b599c999ded42"
+                             type="folder"
+                             parent="aspace_ff4d29dd5a844c9bd71b4b6d96c954b9">221</container>
+               </did>
+            </c>
+            <c id="ref170" level="file">
+               <did>
+                  <unittitle>Nanking-description of, map</unittitle>
+                  <unitdate type="inclusive">1933, n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_d25f3b23c1d92750edf3b0a865862b72"
+                             type="box">10</container>
+                  <container id="aspace_2a09d60baba479b5f24ab4e9df72b475"
+                             type="folder"
+                             parent="aspace_d25f3b23c1d92750edf3b0a865862b72">222</container>
+               </did>
+            </c>
+            <c id="ref171" level="file">
+               <did>
+                  <unittitle>Nanking-Christian missions in</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_e2ef003f21e766ea159acf5a6d31c780"
+                             type="box">10</container>
+                  <container id="aspace_ce1cbd9bc0b771efb9f098fdffddf39b"
+                             type="folder"
+                             parent="aspace_e2ef003f21e766ea159acf5a6d31c780">223</container>
+               </did>
+            </c>
+            <c id="ref172" level="file">
+               <did>
+                  <unittitle>Nanking Foreign Cemetery</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_09edaa3d5895c48fddf865bdff630761"
+                             type="box">10</container>
+                  <container id="aspace_5337ff7467ea4b6b6057a368b8a183a0"
+                             type="folder"
+                             parent="aspace_09edaa3d5895c48fddf865bdff630761">224</container>
+               </did>
+            </c>
+            <c id="ref173" level="file">
+               <did>
+                  <unittitle>Nanking Union Church</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_4a9ed2c3b425947582408dbccc343078"
+                             type="box">10</container>
+                  <container id="aspace_2fcded64aa203bcd6af91927a279cdb1"
+                             type="folder"
+                             parent="aspace_4a9ed2c3b425947582408dbccc343078">225</container>
+               </did>
+            </c>
+            <c id="ref174" level="file">
+               <did>
+                  <unittitle>Nanking, University of -audio-visual education</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_a9c8876e0fa041576a0ab75551de2e07"
+                             type="box">10</container>
+                  <container id="aspace_adbb95572c7e2d9b0b86cc5f4b7bc65e"
+                             type="folder"
+                             parent="aspace_a9c8876e0fa041576a0ab75551de2e07">226</container>
+               </did>
+            </c>
+            <c id="ref175" level="file">
+               <did>
+                  <unittitle>Nanking, University of-College of Agriculture and Forestry</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_69f2453043be5785aad3d99774c0fb3b"
+                             type="box">10</container>
+                  <container id="aspace_a19eb3ca9f803867af3c965ed41fe84a"
+                             type="folder"
+                             parent="aspace_69f2453043be5785aad3d99774c0fb3b">227</container>
+               </did>
+            </c>
+            <c id="ref176" level="file">
+               <did>
+                  <unittitle>Nanking, University of -miscellaneous</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_1bcbdcb23e04a51db44be8a19a35e1f5"
+                             type="box">10</container>
+                  <container id="aspace_6670ff50900fc76474ec526f0b3ed624"
+                             type="folder"
+                             parent="aspace_1bcbdcb23e04a51db44be8a19a35e1f5">228</container>
+               </did>
+            </c>
+            <c id="ref177" level="file">
+               <did>
+                  <unittitle>Nanking, University of -newsletters</unittitle>
+                  <unitdate type="inclusive">1937-1946</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_98505c23c268a4e6e286eb97d676b103"
+                             type="box">10</container>
+                  <container id="aspace_9f3b2e22104a042a2443eae9ae960b50"
+                             type="folder"
+                             parent="aspace_98505c23c268a4e6e286eb97d676b103">229</container>
+               </did>
+            </c>
+            <c id="ref178" level="file">
+               <did>
+                  <unittitle>Nanking, University of -religious life</unittitle>
+                  <unitdate type="inclusive">1937,1950</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_e091907a1020087c1d1e3d3c906f0f48"
+                             type="box">10</container>
+                  <container id="aspace_658a9e20a9f28cbe9b27dbc6cef88a81"
+                             type="folder"
+                             parent="aspace_e091907a1020087c1d1e3d3c906f0f48">230</container>
+               </did>
+            </c>
+            <c id="ref179" level="file">
+               <did>
+                  <unittitle>Plants in China</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_ae07b6913bb3cbe415bf492fae980f2a"
+                             type="box">10</container>
+                  <container id="aspace_27f4653a3ed90a71e1fe710cb07d1de9"
+                             type="folder"
+                             parent="aspace_ae07b6913bb3cbe415bf492fae980f2a">231</container>
+               </did>
+            </c>
+            <c id="ref180" level="file">
+               <did>
+                  <unittitle>Rural work in China</unittitle>
+                  <unitdate type="inclusive">1931,1950</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_45943e7d17c6aae24e77b42fc3db0e42"
+                             type="box">10</container>
+                  <container id="aspace_c6479297a363bdcf54c8fdc7d2fcb454"
+                             type="folder"
+                             parent="aspace_45943e7d17c6aae24e77b42fc3db0e42">232</container>
+               </did>
+            </c>
+            <c id="ref181" level="file">
+               <did>
+                  <unittitle>Saturday Evening Student Group - held at Stewards' home</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_763a446714f2f460e363990019162543"
+                             type="box">10</container>
+                  <container id="aspace_910745f762c37dfd4e369494e8d6fa2a"
+                             type="folder"
+                             parent="aspace_763a446714f2f460e363990019162543">233</container>
+               </did>
+            </c>
+            <c id="ref182" level="file">
+               <did>
+                  <unittitle>Shanghai - refugees</unittitle>
+                  <unitdate type="inclusive">1943</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_6864137ab718526879395181de5cff22"
+                             type="box">10</container>
+                  <container id="aspace_d982017b423f05a3021e3cffdc87d918"
+                             type="folder"
+                             parent="aspace_6864137ab718526879395181de5cff22">234</container>
+               </did>
+            </c>
+            <c id="ref183" level="file">
+               <did>
+                  <unittitle>Shaw, Ella C.</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_cec275db483ddc856fd9e3dce3b290af"
+                             type="box">10</container>
+                  <container id="aspace_71b4903131c6dcd57f52e35746f3359b"
+                             type="folder"
+                             parent="aspace_cec275db483ddc856fd9e3dce3b290af">235</container>
+               </did>
+            </c>
+            <c id="ref184" level="file">
+               <did>
+                  <unittitle>Silkworms</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_41fcf8264eb540a15da509f84a3c211e"
+                             type="box">10</container>
+                  <container id="aspace_3e7a74503dd5bcd6b8bd823fc75d3259"
+                             type="folder"
+                             parent="aspace_41fcf8264eb540a15da509f84a3c211e">236</container>
+               </did>
+            </c>
+            <c id="ref185" level="file">
+               <did>
+                  <unittitle>Women in China</unittitle>
+                  <unitdate type="inclusive">1937,1945</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_1624fe17915660452a5a10a1fab39ec3"
+                             type="box">10</container>
+                  <container id="aspace_fd13fd2bbd57aca1d72bf42457243716"
+                             type="folder"
+                             parent="aspace_1624fe17915660452a5a10a1fab39ec3">237</container>
+               </did>
+            </c>
+            <c id="ref186" level="file">
+               <did>
+                  <unittitle>Yenching University, survey of religious life</unittitle>
+                  <unitdate type="inclusive">1936-1937</unitdate>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_41d507d4426bbe043babec363b43ba2f"
+                             type="box">10</container>
+                  <container id="aspace_e6c0b87028acf4e102a6b5a1e30c9ef1"
+                             type="folder"
+                             parent="aspace_41d507d4426bbe043babec363b43ba2f">238</container>
+               </did>
+            </c>
+            <c id="ref187" level="file">
+               <did>
+                  <unittitle>Ephemeral collected material</unittitle>
+                  <container label="Mixed Materials (39002022291455)"
+                             id="aspace_a5ae53ac02626d29df48f66041b2ef4d"
+                             type="box">10</container>
+                  <container id="aspace_3a4620c07363eca697de55a5501e9125"
+                             type="folder"
+                             parent="aspace_a5ae53ac02626d29df48f66041b2ef4d">239</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref189" level="series">
+            <did>
+               <unittitle>Biographical Material</unittitle>
+               <unitid>Series IV</unitid>
+               <unitdate type="inclusive">1913-1977, n.d</unitdate>
+            </did>
+            <c id="ref190" level="subseries">
+               <did>
+                  <unittitle>Related to ANS and/or CSS and Children</unittitle>
+               </did>
+               <c id="ref191" level="file">
+                  <did>
+                     <unittitle>Address books, lists, calling cards</unittitle>
+                     <container label="Mixed Materials (39002022291455)"
+                                id="aspace_d4354dffdbe4296df58c94c9ddc6c76f"
+                                type="box">10</container>
+                     <container id="aspace_32870e2283070d53857708c301ab9c80"
+                                type="folder"
+                                parent="aspace_d4354dffdbe4296df58c94c9ddc6c76f">240</container>
+                  </did>
+               </c>
+               <c id="ref192" level="file">
+                  <did>
+                     <unittitle>Documentation of life in Nanking</unittitle>
+                     <unitdate type="inclusive">1945-1950,n.d.</unitdate>
+                     <container label="Mixed Materials (39002022291455)"
+                                id="aspace_e40451b3798aefa965fc491dfcde9e78"
+                                type="box">10</container>
+                     <container id="aspace_83616870d43841ba6edca807411085a3"
+                                type="folder"
+                                parent="aspace_e40451b3798aefa965fc491dfcde9e78">241</container>
+                  </did>
+               </c>
+               <c id="ref193" level="file">
+                  <did>
+                     <unittitle>Financial records</unittitle>
+                     <container label="Mixed Materials (39002022291463)"
+                                id="aspace_8c6780e1d8e080632efd51b85048089a"
+                                type="box">11</container>
+                     <container id="aspace_7292d55aff6860c3d81bb1336d0d9644"
+                                type="folder"
+                                parent="aspace_8c6780e1d8e080632efd51b85048089a">242</container>
+                  </did>
+               </c>
+               <c id="ref194" level="file">
+                  <did>
+                     <unittitle>Medical records</unittitle>
+                     <container label="Mixed Materials (39002022291463)"
+                                id="aspace_512eb1de6f06082d311416be0ca845ec"
+                                type="box">11</container>
+                     <container id="aspace_8d3dc33bcb7b1aed6c928cd3e3ceec73"
+                                type="folder"
+                                parent="aspace_512eb1de6f06082d311416be0ca845ec">243, 244</container>
+                  </did>
+               </c>
+               <c id="ref195" level="file">
+                  <did>
+                     <unittitle>Passports, birth certificates</unittitle>
+                     <container label="Mixed Materials (39002022291463)"
+                                id="aspace_b6819aa8147ff5c88f8b3092b6538173"
+                                type="box">11</container>
+                     <container id="aspace_b655b2091da1d3abf2a399fe74bfe3ca"
+                                type="folder"
+                                parent="aspace_b6819aa8147ff5c88f8b3092b6538173">245</container>
+                  </did>
+               </c>
+               <c id="ref196" level="file">
+                  <did>
+                     <unittitle>Records of guests in Steward home</unittitle>
+                     <container label="Mixed Materials (39002022291463)"
+                                id="aspace_5abf57f47464e0ea314390f6f86a1065"
+                                type="box">11</container>
+                     <container id="aspace_b96c86846ec13568d3b78b660c4a0a57"
+                                type="folder"
+                                parent="aspace_5abf57f47464e0ea314390f6f86a1065">246</container>
+                  </did>
+               </c>
+               <c id="ref197" level="file">
+                  <did>
+                     <unittitle>Records of guests in Steward home</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_8c89c571b801df98f657e921d2d5c95f"
+                                type="box">12</container>
+                     <container id="aspace_e1b4ea85abd2564b39ed24b82384baf9"
+                                type="folder"
+                                parent="aspace_8c89c571b801df98f657e921d2d5c95f">247</container>
+                  </did>
+               </c>
+               <c id="ref198" level="file">
+                  <did>
+                     <unittitle>Records of mail, packages sent/received</unittitle>
+                     <unitdate type="inclusive">1948,1959</unitdate>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_48732e4b4879d849c270366de2398e80"
+                                type="box">12</container>
+                     <container id="aspace_643d87bad552b7f73e961cd71fb80499"
+                                type="folder"
+                                parent="aspace_48732e4b4879d849c270366de2398e80">248</container>
+                  </did>
+               </c>
+               <c id="ref199" level="file">
+                  <did>
+                     <unittitle>Travels to/from China</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_223c58b979aa2a3750bb1e3e68c0cafb"
+                                type="box">12</container>
+                     <container id="aspace_462cfb94914039b14d4bc48a490fe40e"
+                                type="folder"
+                                parent="aspace_223c58b979aa2a3750bb1e3e68c0cafb">249</container>
+                  </did>
+               </c>
+               <c id="ref200" level="file">
+                  <did>
+                     <unittitle>Travels in United States</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_d6ee3e995741af55da9b186a8885b955"
+                                type="box">12</container>
+                     <container id="aspace_3d5958bbd7d2c6d14dd79299dbdbeaac"
+                                type="folder"
+                                parent="aspace_d6ee3e995741af55da9b186a8885b955">250</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref201" level="subseries">
+               <did>
+                  <unittitle>Related to ANS</unittitle>
+               </did>
+               <c id="ref202" level="file">
+                  <did>
+                     <unittitle>Appointment book</unittitle>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_29974999b4147b8f139d609e06cefe1f"
+                                type="box">12</container>
+                     <container id="aspace_2f86794d336221d0ab0c80554a41680b"
+                                type="folder"
+                                parent="aspace_29974999b4147b8f139d609e06cefe1f">251</container>
+                  </did>
+               </c>
+               <c id="ref203" level="file">
+                  <did>
+                     <unittitle>Autograph book</unittitle>
+                     <unitdate type="inclusive">ca.1913</unitdate>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_2e66affb2e7c5d0aae8a565a5a27c15f"
+                                type="box">12</container>
+                     <container id="aspace_4f73d6ec57fb705e626896bd1346f785"
+                                type="folder"
+                                parent="aspace_2e66affb2e7c5d0aae8a565a5a27c15f">251</container>
+                  </did>
+               </c>
+               <c id="ref204" level="file">
+                  <did>
+                     <unittitle>Autobiographical/biographical statements</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_e78bf162d0876833450b1e41dacaa761"
+                                type="box">12</container>
+                     <container id="aspace_3e9abdc64ad14cfcd3bb5b752bfb11a4"
+                                type="folder"
+                                parent="aspace_e78bf162d0876833450b1e41dacaa761">252</container>
+                  </did>
+               </c>
+               <c id="ref205" level="file">
+                  <did>
+                     <unittitle>Biographical newspaper clippings</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_2d0abfb8b4dacadeeeaa53b7c2c93aae"
+                                type="box">12</container>
+                     <container id="aspace_a682b65fb34c847e4d20f1a48753ae18"
+                                type="folder"
+                                parent="aspace_2d0abfb8b4dacadeeeaa53b7c2c93aae">253</container>
+                  </did>
+               </c>
+               <c id="ref206" level="file">
+                  <did>
+                     <unittitle>Citations, awards, certificates</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_bce0a183bd30d0796eeb4641f6f6c342"
+                                type="box">12</container>
+                     <container id="aspace_dc15604810c7322449aeedb5e39b2ff0"
+                                type="folder"
+                                parent="aspace_bce0a183bd30d0796eeb4641f6f6c342">254</container>
+                  </did>
+               </c>
+               <c id="ref207" level="file">
+                  <did>
+                     <unittitle>Education, research and writing grants</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_663c6a694dc803caca1d6093079a65e3"
+                                type="box">12</container>
+                     <container id="aspace_6ac31554c9a34ea5fd30032eebbcfadd"
+                                type="folder"
+                                parent="aspace_663c6a694dc803caca1d6093079a65e3">255</container>
+                  </did>
+               </c>
+               <c id="ref208" level="file">
+                  <did>
+                     <unittitle>Internment by Japanese</unittitle>
+                     <container label="Mixed Materials (39002022291471)"
+                                id="aspace_5e3d0f7a648a2a974891c1e1e1bb98d8"
+                                type="box">12</container>
+                     <container id="aspace_3a0be9a7b21d000604c50938a7996a08"
+                                type="folder"
+                                parent="aspace_5e3d0f7a648a2a974891c1e1e1bb98d8">256</container>
+                  </did>
+               </c>
+               <c id="ref209" level="file">
+                  <did>
+                     <unittitle>List of scientific publications</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_4e1e63291666d77fd6ddf592d14b2f5e"
+                                type="box">13</container>
+                     <container id="aspace_197c1542fe358756ff7e35653fa195af"
+                                type="folder"
+                                parent="aspace_4e1e63291666d77fd6ddf592d14b2f5e">257</container>
+                  </did>
+               </c>
+               <c id="ref210" level="file">
+                  <did>
+                     <unittitle>Oregon State College years</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_a4001dea462facb3d1b362b936234252"
+                                type="box">13</container>
+                     <container id="aspace_f7e38d440d04cee4e5409b8b5b431af4"
+                                type="folder"
+                                parent="aspace_a4001dea462facb3d1b362b936234252">258</container>
+                  </did>
+               </c>
+               <c id="ref211" level="file">
+                  <did>
+                     <unittitle>Search for employment</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_dc9a7fd49ff922f07318e54571c59596"
+                                type="box">13</container>
+                     <container id="aspace_ed92e7a3552219519eaf286c791f449e"
+                                type="folder"
+                                parent="aspace_dc9a7fd49ff922f07318e54571c59596">259</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref212" level="subseries">
+               <did>
+                  <unittitle>Related to CSS</unittitle>
+               </did>
+               <c id="ref213" level="file">
+                  <did>
+                     <unittitle>Autobiographical/biographical statements</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_da69a43f4dd1f02aac01f5cd98b1aa06"
+                                type="box">13</container>
+                     <container id="aspace_cdd84101e0f37508a43f9ad7ab526698"
+                                type="folder"
+                                parent="aspace_da69a43f4dd1f02aac01f5cd98b1aa06">260</container>
+                  </did>
+               </c>
+               <c id="ref214" level="file">
+                  <did>
+                     <unittitle>Biographical newspapers clippings</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_ca5263757d2372f7112aa849f6f6f6f2"
+                                type="box">13</container>
+                     <container id="aspace_120c2bff1dd03db14510d3f7f4ca5f84"
+                                type="folder"
+                                parent="aspace_ca5263757d2372f7112aa849f6f6f6f2">261</container>
+                  </did>
+               </c>
+               <c id="ref215" level="file">
+                  <did>
+                     <unittitle>Birthday book</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_8ca8e1e117e2215477a00b341c396d5e"
+                                type="box">13</container>
+                     <container id="aspace_643358d7c67f775c8f903a27e7d663cf"
+                                type="folder"
+                                parent="aspace_8ca8e1e117e2215477a00b341c396d5e">262</container>
+                  </did>
+               </c>
+               <c id="ref216" level="file">
+                  <did>
+                     <unittitle>Selection as Oregon Mother-of-the-Year, 1967</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_2917bff2bb8ffeeb1a798bd138b70110"
+                                type="box">13</container>
+                     <container id="aspace_893ff471e98f5b91ebd3e810e42edd9a"
+                                type="folder"
+                                parent="aspace_2917bff2bb8ffeeb1a798bd138b70110">263, 264</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref217" level="subseries">
+               <did>
+                  <unittitle>Related to Children of ANS and CSS</unittitle>
+               </did>
+               <c id="ref218" level="file">
+                  <did>
+                     <unittitle>David Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_9cc42e13df209e902832b4115f47ab2a"
+                                type="box">13</container>
+                     <container id="aspace_f225085e47f162993d6074d201466763"
+                                type="folder"
+                                parent="aspace_9cc42e13df209e902832b4115f47ab2a">265</container>
+                  </did>
+               </c>
+               <c id="ref219" level="file">
+                  <did>
+                     <unittitle>Leland Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_f757ca7971cc98d295a56c85a7abbb59"
+                                type="box">13</container>
+                     <container id="aspace_dccc01e4b9b4e45c369fd65e88654674"
+                                type="folder"
+                                parent="aspace_f757ca7971cc98d295a56c85a7abbb59">266</container>
+                  </did>
+               </c>
+               <c id="ref220" level="file">
+                  <did>
+                     <unittitle>Margaret Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_605f618daeaf787e3d3867f1eb459a08"
+                                type="box">13</container>
+                     <container id="aspace_834d53ceb291da98761969269298b095"
+                                type="folder"
+                                parent="aspace_605f618daeaf787e3d3867f1eb459a08">267</container>
+                  </did>
+               </c>
+               <c id="ref221" level="file">
+                  <did>
+                     <unittitle>Newton Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_8a0102838247f3f25174b189e1e94ee8"
+                                type="box">13</container>
+                     <container id="aspace_ac97fa5643d69288540773a65c7a3a89"
+                                type="folder"
+                                parent="aspace_8a0102838247f3f25174b189e1e94ee8">268</container>
+                  </did>
+               </c>
+               <c id="ref222" level="file">
+                  <did>
+                     <unittitle>Ruth Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_223aae63bc47d23c6c39f21369ef597b"
+                                type="box">13</container>
+                     <container id="aspace_6eccf4ca58a1fe3562f314293cbe891f"
+                                type="folder"
+                                parent="aspace_223aae63bc47d23c6c39f21369ef597b">269</container>
+                  </did>
+               </c>
+               <c id="ref223" level="file">
+                  <did>
+                     <unittitle>Virginia Steward</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_a9246abedef1f928676d5334aba950f0"
+                                type="box">13</container>
+                     <container id="aspace_d4bf02c0439fc6e2710c1cf566db228f"
+                                type="folder"
+                                parent="aspace_a9246abedef1f928676d5334aba950f0">270</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref224" level="subseries">
+               <did>
+                  <unittitle>Related to Grandchildren of ANS and CSS</unittitle>
+               </did>
+               <c id="ref225" level="file">
+                  <did>
+                     <unittitle>Misc.</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_7b3a8d3b909046b7bdd4f0e68307f9c4"
+                                type="box">13</container>
+                     <container id="aspace_c3f38eacbb89bb2918336c702c94b192"
+                                type="folder"
+                                parent="aspace_7b3a8d3b909046b7bdd4f0e68307f9c4">271</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref226" level="subseries">
+               <did>
+                  <unittitle>Related to Parents of ANS and CSS</unittitle>
+               </did>
+               <c id="ref227" level="file">
+                  <did>
+                     <unittitle>Misc.</unittitle>
+                     <container label="Mixed Materials (39002022291489)"
+                                id="aspace_d5af5f81155948611c865fddf6b1abcf"
+                                type="box">13</container>
+                     <container id="aspace_932b0406a93722d0f7adfae31c48d08c"
+                                type="folder"
+                                parent="aspace_d5af5f81155948611c865fddf6b1abcf">272</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref228" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series V</unitid>
+               <unitdate type="inclusive">1934-1946, n.d.</unitdate>
+            </did>
+            <c id="ref229" level="file">
+               <did>
+                  <unittitle>Family Photographs</unittitle>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_bd55fb24b70ebb2d055868aa040c47bd"
+                             type="box">13</container>
+                  <container id="aspace_b844c237444d95948dae5a34654cdc9f"
+                             type="folder"
+                             parent="aspace_bd55fb24b70ebb2d055868aa040c47bd">273</container>
+               </did>
+            </c>
+            <c id="ref230" level="file">
+               <did>
+                  <unittitle>"Graduates of Ginling College"</unittitle>
+                  <unitdate type="inclusive">1934</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_56ffe056d636494675fc13ae32e13220"
+                             type="box">13</container>
+                  <container id="aspace_5c63f897d6ee8e30263a02035735d6fd"
+                             type="folder"
+                             parent="aspace_56ffe056d636494675fc13ae32e13220">274</container>
+               </did>
+            </c>
+            <c id="ref231" level="file">
+               <did>
+                  <unittitle>"Farewell to Bates and Sone, International Relief Committee"</unittitle>
+                  <unitdate type="inclusive">1941</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_b3f91c6367169852693b31ac4705dc63"
+                             type="box">13</container>
+                  <container id="aspace_6e9ec9f096b7d6ae14d6ed354ebac5aa"
+                             type="folder"
+                             parent="aspace_b3f91c6367169852693b31ac4705dc63">275</container>
+               </did>
+            </c>
+            <c id="ref232" level="file">
+               <did>
+                  <unittitle>"Students of University of Nanking school to train rural workers"</unittitle>
+                  <unitdate type="inclusive">1941</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_7f2cd904c7da6554fad4ce491422d4ee"
+                             type="box">13</container>
+                  <container id="aspace_89c3ca913421d5a2d45498ef4e22f068"
+                             type="folder"
+                             parent="aspace_7f2cd904c7da6554fad4ce491422d4ee">276</container>
+               </did>
+            </c>
+            <c id="ref233" level="file">
+               <did>
+                  <unittitle>"Child Welfare Project, Bible Teachers' Training School, Nanking"</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_66d97949fec598c5c7cdc361bac2eb8f"
+                             type="box">13</container>
+                  <container id="aspace_709ae5dbbcfdf41368117fc26e7d8bef"
+                             type="folder"
+                             parent="aspace_66d97949fec598c5c7cdc361bac2eb8f">277</container>
+               </did>
+            </c>
+            <c id="ref234" level="file">
+               <did>
+                  <unittitle>Chinese Colleagues</unittitle>
+                  <unitdate type="inclusive">1940-1946, n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_e0a506701dfe083254ae46acfddf329e"
+                             type="box">13</container>
+                  <container id="aspace_4b76aeeb39dfaef280423e0557244e0f"
+                             type="folder"
+                             parent="aspace_e0a506701dfe083254ae46acfddf329e">278</container>
+               </did>
+            </c>
+            <c id="ref235" level="file">
+               <did>
+                  <unittitle>Scenes in China, incl. cotton mill in Shanghai</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_dc9386b4b8ed3a2d3c73950c7feb50dd"
+                             type="box">13</container>
+                  <container id="aspace_2f89438b834382ceb2f229ea73c50747"
+                             type="folder"
+                             parent="aspace_dc9386b4b8ed3a2d3c73950c7feb50dd">279</container>
+               </did>
+            </c>
+            <c id="ref236" level="file">
+               <did>
+                  <unittitle>Photos from Audio-visual education dept., University of Nanking</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002022291489)"
+                             id="aspace_17c8acd02bc0a3630ec933cb2b2ffee5"
+                             type="box">13</container>
+                  <container id="aspace_6a656f109a12844743a1f7cf9a7edb4c"
+                             type="folder"
+                             parent="aspace_17c8acd02bc0a3630ec933cb2b2ffee5">280</container>
+               </did>
+            </c>
+            <c id="ref237" level="file">
+               <did>
+                  <unittitle>Lantern slides (2 cases; approx. 70 slides) Scenes from throughout China, incl. Peking, Nanking, Shanghai; countryside and city scenes</unittitle>
+                  <container label="Mixed Materials (39002022291497)"
+                             id="aspace_e9a101b2123d1d1db4839c6178fedf43"
+                             type="box">14</container>
+               </did>
+            </c>
+            <c id="ref238" level="file">
+               <did>
+                  <unittitle>Lantern Slides (1 case; approx. 50 slides) Miscellaneous scenes in China</unittitle>
+                  <container label="Mixed Materials (39002022291505)"
+                             id="aspace_f6f4d4385fbd40b48441d87c950fe7ba"
+                             type="box">15</container>
+               </did>
+            </c>
+            <c id="ref239" level="file">
+               <did>
+                  <unittitle>35 mm slides (1 case; 27 slides) Slides and accompanying booklet "West of the Gorges" distributed by Department of Visual Education of the Methodist Church; full set of slide presentation would be 40 slides.</unittitle>
+                  <container label="Mixed Materials (39002022291505)"
+                             id="aspace_f8637a61cb51fad3ac6888eaad95c33d"
+                             type="box">15</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

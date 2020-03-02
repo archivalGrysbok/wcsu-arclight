@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.digby">beinecke.digby</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Kenelm Henry Digby Collection
+ </titleproper>
+            <titleproper type="filing">Digby (Kenelm Henry) Collection</titleproper>
+            <author>by Diane J. Ducharme</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>March 2003</date>
+            <num>OSB MSS 81</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday January 22, 2019 at 06:55</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Kenelm Henry Digby collection</unittitle>
+         <unitid>OSB MSS 81</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="fre">French</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.41</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1815/1918">1815-1918</unitdate>
+         
+         <abstract id="aspace_db04e36da7e4586d48e89732a1c05ee3">The collection contains letters from various Digby family members and friends, including Marcella Digby; the comte d'Esgrigny; Henry Edward, Cardinal Manning; Montalembert; and Robert Hare. Letters from Ambrose Lisle Phillipps discuss Catholicism in England, recent conversions, and the early Oxford Movement; letters from Charles Julius Hare comment unfavorably on Digby's attacks on Protestantism. There is also a small amount of research correspondence with Bernard Holland, author of Memoir of Kenelm Henry Digby (1919).<lb/>The collection also includes newspaper clippings of reviews of Digby's later works; obituaries of Digby; and a sketchbook.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n86802459"
+                      rules="aacr"
+                      source="naf">
+               Digby, Kenelm Henry, 1800-1880
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_a9dc09badfc30c527a5080bba667c5be">
+         <head>Immediate Source of Acquisition</head>
+         <p>Purchased on the James Marshall and Marie-Louise Osborn Fund, 2002</p>  
+      </acqinfo>
+      <userestrict id="aspace_43f0e5062c1e75b8d61e0454f5ff0ab3">
+         <head>Conditions Governing Use</head>
+         <p>The Kenelm Henry Digby Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_ed7876f5f84d1b4fc83f9ac1c86ef1e5">
+         <head>Preferred Citation</head>
+         <p>Kenelm Henry Digby Collection. James Marshall and Marie-Louise Osborn Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_d5dc14acabce70a3f052668c447164ba">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <bioghist id="aspace_6fb3600d904c6178e9e1c5758c01e5c5">
+         <head>KENELM HENRY DIGBY, 1800-1880</head>
+         <p>Kenelm Henry Digby, youngest son of William Digby, Anglican Dean of Clonfert, was born in Ireland in 1800 and took his B.A. at Trinity College, Cambridge in 1819. In 1822 he published <title type="simple" render="italic">
+               The Broad Stone of Honour
+            </title>, a lengthy but popular and influental work on chivalry.</p>
+         <p>Digby converted to Roman Catholicism in 1825 and published a much rewritten version of <title type="simple" render="italic">
+               Broad Stone
+            </title> in 1826-27. <title type="simple" render="italic">
+               Mores Catholici
+            </title>, an eleven-volume work on medieval Catholicism and culture, appeared in 1831-40, and <title type="simple" render="italic">
+               Compitum, or, The Meeting of the Ways at the Catholic Church,
+            </title> a Catholic apologetic, in 1848. In addition to these, Digby published several collections of poetry; the meditative <title type="simple" render="italic">
+               The Lover's Seat
+            </title> (1856); <title type="simple" render="italic">
+               The Chapel of St. John, or, A Life of Faith in the Nineteenth Century
+            </title> (1861), dedicated to his late wife; and <title type="simple" render="italic">
+               Evenings on the Thames, or, Serene Hours and What They Require
+            </title> (1864).</p>
+         <p>Digby married Jane Mary Dillon in 1833; the couple had seven children, one of whom, Marcella Digby, was received into the Convent of the Sacred Heart at Roehampton in 1859 against her father's wishes. The Digbys spent much time in France during the 1840s and 1850s. After Jane Digby's death in 1860, Digby led an increasingly retired life at his home in Kensington until his own death on March 22, 1880.</p>  
+      </bioghist>
+      <scopecontent id="aspace_4f3e037233542463d843053ce6538984">
+         <head>Scope and Contents</head>
+         <p>The Kenelm Henry Digby Collection consists of papers relating to the faith and literary career of Kenelm Henry Digby, possibly collected by Bernard Holland in the course of his research for <title type="simple" render="italic">
+               Memoir of Kenelm Henry Digby
+            </title> (1919). The collection has been organized into two series: Series I. <title type="simple" render="italic">
+               Correspondence
+            </title>, and Series II, <title type="simple" render="italic">
+               Other Papers.
+            </title> The papers span the dates 1815-1918.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref10">Series I, <title type="simple" render="italic">
+                  Correspondence
+               </title> 
+            </ref>, spans the years 1815-1918 and is organized into two subseries: Digby Family Correspondence and Research Correspondence. Each subseries is arranged alphabetically by name of correspondent.</p>
+         <p>The first subseries, Digby Family Correspondence, contains a few letters by members of Digby's family, including his brother Richard and his daughter Marcella, who speaks of their shared faith and her life as a nun in Chile. There is also a letter from Hubert Dormer to his future wife Mary Digby discussing plans for the couple to live with Digby after their marriage. A few correspondents are represented only by letters of condolence written on the death of Digby, including Edward John Tilt and Cardinal Manning.</p>
+         <p>In addition to these, there are letters to Digby from various friends, in particular the comte d'Esgrigny, whom Digby and his family visited many times. The letters in the collection date from the last years of Digby's life and contain family and personal news; wishes for Digby's improved health; and comments on faith and the political situation of the Catholic Church in France.</p>
+         <p>The fourteen letters from Ambrose Lisle Phillipps contain much discussion of English Catholic teachings and practices; news of and reflections on the early progress of what came to be known as the Oxford Movement; reports on Movement figures such as Wiseman, Newman, and Manning; and commentary on the increase in conversions among the English and the popular and political reactions against them.</p>
+         <p>Other friends represented in the collection include Robert Hare, George Spencer, and the Anglican Julius Charles Hare, who in two 1842 letters expresses his anger at Digby's "virulent bigotry" against Protestantism in general and the Church of England in particular. There is also one 1858 letter to Digby from Montalembert, in English, praising his <title type="simple" render="italic">
+               Lover's Seat.
+            </title>
+         </p>
+         <p>The second subseries, Research Correspondence, consists of letters to Bernard Holland written in response to his requests for information on Digby's life. Folder 31 contains a biographical sketch of his daughter Marcella, which was enclosed in a letter to Holland. There are also letters from his publisher concerning publication details.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref86">Series II, <title type="simple" render="italic">
+                  Other Papers
+               </title> 
+            </ref>, is housed in folders 39-45 and contains newspaper clippings relating to various works by Digby; obituary notices for him; one folder of research notes; and a sketchbook holding a variety of landscape drawings in pencil and ink.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85005058"
+                  source="lcsh">
+            Anglo-Catholicism
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85021233"
+                  source="lcsh">
+            Catholics -- England
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85043969"
+                  source="lcsh">
+            English prose literature -- 19th century
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85096303"
+                  source="lcsh">
+            Oxford movement
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009793"
+                  source="lcsh">
+            Authors
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86802459"
+                   rules="aacr"
+                   source="naf">
+            Digby, Kenelm Henry, 1800-1880
+         </persname>
+         <persname source="local">
+            Digby, Marcella
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85252259"
+                   rules="aacr"
+                   source="naf">
+            Hare, Julius Charles, 1795-1855
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80123543"
+                   source="naf">
+            Holland, Bernard, 1856-1926
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr99011561"
+                   rules="aacr"
+                   source="naf">
+            Jouenne d'Esgrigny d'Herville, Marie François Jules de
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85098882"
+                   rules="aacr"
+                   source="naf">
+            Manning, Henry Edward, 1808-1892
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83025559"
+                   source="naf">
+            Montalembert, Charles Forbes, comte de, 1810-1870
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no89014220"
+                   rules="aacr"
+                   source="naf">
+            Phillipps, Ambrose Lisle, 1809-1878
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref10" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1815-1918</unitdate>
+               <physdesc id="aspace_5acd4a7d2cbf0372f8f1373218ae39f8">0.30' (0.75 box)</physdesc>
+            </did>
+            <scopecontent id="aspace_ec5a98fe8d8f1be3e9e9044e975c466b">
+               <head>Scope and Contents</head>
+               <p>Series I, <title type="simple" render="italic">
+                     Correspondence
+                  </title>, is organized into two subseries and arranged alphabetically by correspondent within each.</p>
+            </scopecontent>
+            <c id="ref12" level="subseries">
+               <did>
+                  <unittitle>DIGBY FAMILY CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Arundel and Surrey, Countess of</unittitle>
+                  </did>
+                  <c id="ref14" level="file">
+                     <did>
+                        <unittitle>ALS to David Lewis</unittitle>
+                        <unitdate type="inclusive">[1849 Mar]</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_2ca37c6ed56bf8617443c3c6594d7f05"
+                                   type="box">1</container>
+                        <container id="aspace_4b8b94ccc6ba9c37c4959323d16a13e7"
+                                   type="folder"
+                                   parent="aspace_2ca37c6ed56bf8617443c3c6594d7f05">1</container>
+                     </did>
+                     <scopecontent id="aspace_d2f0bdf1fadcaa3f58d2ee7193a89d9d">
+                        <head>Scope and Contents</head>
+                        <p>Inviting the recipient and "Mr. Newman"(John Henry Newman?) to Easter dinner</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>de Bistolli, G.; Paris</unittitle>
+                  </did>
+                  <c id="ref17" level="file">
+                     <did>
+                        <unittitle>ALS to [KHD]</unittitle>
+                        <unitdate type="inclusive">1845 Mar 14</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_5cc35e92dd705a7b3308dd88a2ac8ed5"
+                                   type="box">1</container>
+                        <container id="aspace_5427b0ee080d297b14b09c4a77aedcfd"
+                                   type="folder"
+                                   parent="aspace_5cc35e92dd705a7b3308dd88a2ac8ed5">2</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Digby, B.</unittitle>
+                  </did>
+                  <c id="ref19" level="file">
+                     <did>
+                        <unittitle>ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1842 Jan 25</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_8c822c069d5566e2991547c16722fdec"
+                                   type="box">1</container>
+                        <container id="aspace_2ea03df75239427cb098db09d1f97a14"
+                                   type="folder"
+                                   parent="aspace_8c822c069d5566e2991547c16722fdec">3</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Digby, Kenelm Henry, 1800-1880</unittitle>
+                  </did>
+                  <c id="ref21" level="file">
+                     <did>
+                        <unittitle>ALS draft to "My dear mother"</unittitle>
+                        <unitdate type="inclusive">1815 Feb 9</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_593d5c016c9149ac49a1aae0a3c57622"
+                                   type="box">1</container>
+                        <container id="aspace_342bbac996e16b6f84d79dc074953821"
+                                   type="folder"
+                                   parent="aspace_593d5c016c9149ac49a1aae0a3c57622">4</container>
+                     </did>
+                  </c>
+                  <c id="ref22" level="file">
+                     <did>
+                        <unittitle>2 ALS to "Madame la Baronne d'Erval"</unittitle>
+                        <unitdate type="inclusive">1822, 1823</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_ba2f318415ef8739a46e78f8a317baeb"
+                                   type="box">1</container>
+                        <container id="aspace_59928cd8eccf594e7da835fcfbe7202e"
+                                   type="folder"
+                                   parent="aspace_ba2f318415ef8739a46e78f8a317baeb">5</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Digby, Marcella</unittitle>
+                  </did>
+                  <c id="ref24" level="file">
+                     <did>
+                        <unittitle>ALS to KHD; Valparaiso, Chile</unittitle>
+                        <unitdate type="inclusive">1879 Dec</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_54df3dfd8bf160c111112fdecf690725"
+                                   type="box">1</container>
+                        <container id="aspace_debc54c6688412061d77065b6daac6e4"
+                                   type="folder"
+                                   parent="aspace_54df3dfd8bf160c111112fdecf690725">6</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Digby, Richard, d. 1820</unittitle>
+                  </did>
+                  <c id="ref26" level="file">
+                     <did>
+                        <unittitle>ALS to "My dear mother"</unittitle>
+                        <unitdate type="inclusive">1817 Aug 1</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_dc7d086bded2ff778495b1a8cc0bcf29"
+                                   type="box">1</container>
+                        <container id="aspace_a51482c29bc96c1936a1362ddeddd863"
+                                   type="folder"
+                                   parent="aspace_dc7d086bded2ff778495b1a8cc0bcf29">7</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Dormer, Hubert</unittitle>
+                  </did>
+                  <c id="ref28" level="file">
+                     <did>
+                        <unittitle>ALS to Mary Digby Dormer</unittitle>
+                        <unitdate type="inclusive">1865 Aug 2</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_a1148e54ccb38707c9f32da3b59f01b1"
+                                   type="box">1</container>
+                        <container id="aspace_b2d16d73927ba0e2385cb9f4c91d42ee"
+                                   type="folder"
+                                   parent="aspace_a1148e54ccb38707c9f32da3b59f01b1">8</container>
+                     </did>
+                     <scopecontent id="aspace_ccca76a84e02497e2561042e3c794f0d">
+                        <head>Scope and Contents</head>
+                        <p>On her acceptance of his proposal</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Hare, Julius Charles, 1795-1855</unittitle>
+                  </did>
+                  <c id="ref31" level="file">
+                     <did>
+                        <unittitle>2 ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1842</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_30164188a541c475867814a39b8d34de"
+                                   type="box">1</container>
+                        <container id="aspace_96f8fc77ea604a71e0ec7ed406ca14d4"
+                                   type="folder"
+                                   parent="aspace_30164188a541c475867814a39b8d34de">9</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Hare, Robert, 1781-1858</unittitle>
+                  </did>
+                  <c id="ref33" level="file">
+                     <did>
+                        <unittitle>ALS to KHD; Winkfield Park</unittitle>
+                        <unitdate type="inclusive">n.y. Jul 1</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_b220a3d3522b90fc2d51166f41d5d70c"
+                                   type="box">1</container>
+                        <container id="aspace_1032da042debfb1d42a5b0d56b80e7ce"
+                                   type="folder"
+                                   parent="aspace_b220a3d3522b90fc2d51166f41d5d70c">10</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Jouenne d'Esgrigny d'Herville, L.</unittitle>
+                  </did>
+                  <c id="ref35" level="file">
+                     <did>
+                        <unittitle>7 ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1878-80, n.d.</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_b616a8ee61f8c50f626e28b6ff8e9095"
+                                   type="box">1</container>
+                        <container id="aspace_7c153ee9caaae8a1497441016a2ce143"
+                                   type="folder"
+                                   parent="aspace_b616a8ee61f8c50f626e28b6ff8e9095">11</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Jouenne d'Esgrigny d'Herville, Marie François Jules de</unittitle>
+                  </did>
+                  <c id="ref37" level="file">
+                     <did>
+                        <unittitle>29 ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1876-80, n.d.</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_6b7aff8e884127a710f53f2f31b47119"
+                                   type="box">1</container>
+                        <container id="aspace_2db935566d52785b651e3d0dd177e40a"
+                                   type="folder"
+                                   parent="aspace_6b7aff8e884127a710f53f2f31b47119">12-16</container>
+                     </did>
+                     <scopecontent id="aspace_373c7308eb2797b7cc91f57eefa4a8a2">
+                        <head>Scope and Contents</head>
+                        <p>With: ALS to Hubert Dormer, 1880 Mar 25, on the death of KHD</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>La Bourdennaye de Blossac, comte de</unittitle>
+                  </did>
+                  <c id="ref40" level="file">
+                     <did>
+                        <unittitle>ALS to KHD; Hotel de la Varenne</unittitle>
+                        <unitdate type="inclusive">n.y. Oct 12</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_e8608e92e8a7799ca754e6c80f7fb508"
+                                   type="box">1</container>
+                        <container id="aspace_d79643cb85dde66548826da7b8d14e66"
+                                   type="folder"
+                                   parent="aspace_e8608e92e8a7799ca754e6c80f7fb508">17</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Manning, Henry Edward, 1808-1892</unittitle>
+                  </did>
+                  <c id="ref42" level="file">
+                     <did>
+                        <unittitle>ALS to Mary Digby Dormer; Westminster</unittitle>
+                        <unitdate type="inclusive">1880 Mar 24</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_2b6c3a81ed65ad6a928e898cb23010f9"
+                                   type="box">1</container>
+                        <container id="aspace_c95bfd38ca59f77e9c0c9910e68dcd6e"
+                                   type="folder"
+                                   parent="aspace_2b6c3a81ed65ad6a928e898cb23010f9">18</container>
+                     </did>
+                     <scopecontent id="aspace_e9f5ccfabbd11b772bf4fc6da0482552">
+                        <head>Scope and Contents</head>
+                        <p>On the death of KHD</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Molesworth, B.</unittitle>
+                  </did>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>ALS to Mary Digby Dormer; Monastery of St Ann</unittitle>
+                        <unitdate type="inclusive">[1880 Mar]</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_dde1f90d261042ee5d64837eb3024e2e"
+                                   type="box">1</container>
+                        <container id="aspace_4cc2071befe91895e4f1559d0a13c121"
+                                   type="folder"
+                                   parent="aspace_dde1f90d261042ee5d64837eb3024e2e">19</container>
+                     </did>
+                     <scopecontent id="aspace_1497a06d06094df40e8272c5115375b5">
+                        <head>Scope and Contents</head>
+                        <p>On the death of KHD Also signed: "Teresa of Jesus"</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Montaigu, M. de</unittitle>
+                  </did>
+                  <c id="ref48" level="file">
+                     <did>
+                        <unittitle>3 ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1870-79, n.d.</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_768dbdd1d19611b99283702fe52552a1"
+                                   type="box">1</container>
+                        <container id="aspace_ae7b876d1b16d8a77d4b5345d445fc95"
+                                   type="folder"
+                                   parent="aspace_768dbdd1d19611b99283702fe52552a1">20</container>
+                     </did>
+                     <scopecontent id="aspace_f2ff4361cebb0d03e6bdcda17d01a3a9">
+                        <head>Scope and Contents</head>
+                        <p>With: ALS to Hubert Dormer, 1880 Mar 31, on the death of KHD</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Montalembert, Charles Forbes, comte de, 1810-1870</unittitle>
+                  </did>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>ALS to KHD; Athenaeum Club</unittitle>
+                        <unitdate type="inclusive">1858 May 22</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_6a02414145b5cfd4ed18dc959726bde8"
+                                   type="box">1</container>
+                        <container id="aspace_8fcd217e960ff5a8b370fcf196870b65"
+                                   type="folder"
+                                   parent="aspace_6a02414145b5cfd4ed18dc959726bde8">21</container>
+                     </did>
+                     <scopecontent id="aspace_7dc7657ceb0b1d4414af00eadacc4c52">
+                        <head>Scope and Contents</head>
+                        <p>Praising <title type="simple" render="italic">
+                              The Lover's Seat
+                           </title>
+                        </p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Murray, E.</unittitle>
+                  </did>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1826 Jan 7</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_f494290ada9e4a9d25ccb54b8f2e62a0"
+                                   type="box">1</container>
+                        <container id="aspace_92bfd95d3a31507e39081b6b059b4375"
+                                   type="folder"
+                                   parent="aspace_f494290ada9e4a9d25ccb54b8f2e62a0">22</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Phillipps, Ambrose Lisle, 1809-1878</unittitle>
+                  </did>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>14 ALS to KHD</unittitle>
+                        <unitdate type="inclusive">1827-42</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_b0299ea9af922ccd05fc3ebd393912df"
+                                   type="box">1</container>
+                        <container id="aspace_3aa519b6ef5eb9c910aaeba7576a152b"
+                                   type="folder"
+                                   parent="aspace_b0299ea9af922ccd05fc3ebd393912df">23-25</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>Shadwell, Cayley</unittitle>
+                  </did>
+                  <c id="ref58" level="file">
+                     <did>
+                        <unittitle>2 ALS to KHD; Upper Gower Street</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_1c560f9bf8247770a3751af4f8c76ecd"
+                                   type="box">1</container>
+                        <container id="aspace_97e91932adb32d0eb4561fe37cd26d25"
+                                   type="folder"
+                                   parent="aspace_1c560f9bf8247770a3751af4f8c76ecd">26</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>Spencer, George, 1799-1864</unittitle>
+                  </did>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>ALS to KHD; St. Mary's Abbey</unittitle>
+                        <unitdate type="inclusive">1841 Nov 3</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_57bf09a06d0ef4c6ad1ae366374042af"
+                                   type="box">1</container>
+                        <container id="aspace_c37272c3f7ebb64fb69b40fbf7cfc102"
+                                   type="folder"
+                                   parent="aspace_57bf09a06d0ef4c6ad1ae366374042af">27</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>Tilt, Edward John, 1815-1893</unittitle>
+                  </did>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>ALS to Hubert Dormer; 27 Seymour St, Portman Square</unittitle>
+                        <unitdate type="inclusive">1880 Mar 24</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_008d0f79852696350e364557fb992366"
+                                   type="box">1</container>
+                        <container id="aspace_9f1f16e467c9b0a625ec765ce4914d08"
+                                   type="folder"
+                                   parent="aspace_008d0f79852696350e364557fb992366">28</container>
+                     </did>
+                     <scopecontent id="aspace_78a1aa78475a5024f755fe2a8061b20b">
+                        <head>Scope and Contents</head>
+                        <p>On the death of KHD</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Unidentified</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099340284)"
+                                id="aspace_84f68029ac7062c0c3ce70788311a208"
+                                type="box">1</container>
+                     <container id="aspace_d77c22b2deefc06ef6ba4e90a6842804"
+                                type="folder"
+                                parent="aspace_84f68029ac7062c0c3ce70788311a208">29</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref65" level="subseries">
+               <did>
+                  <unittitle>RESEARCH CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>Butler, Henry Montagu, 1822-1918</unittitle>
+                  </did>
+                  <c id="ref67" level="file">
+                     <did>
+                        <unittitle>2 ALS to Bernard Holland; Trinity College, Cambridge</unittitle>
+                        <unitdate type="inclusive">1916 Jul</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_262626d6b8efc803b812dc3b51276dca"
+                                   type="box">1</container>
+                        <container id="aspace_04d1c9dba94f2cb4071c859b3ba94c7b"
+                                   type="folder"
+                                   parent="aspace_262626d6b8efc803b812dc3b51276dca">30</container>
+                     </did>
+                     <scopecontent id="aspace_41f0ba7ed10d20a768dcbc75d9ff2349">
+                        <head>Scope and Contents</head>
+                        <p>Enclosure: TLS from W. W. Rouse Ball to Butler, 1916 Jul 10</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>D'Arcy, M.</unittitle>
+                  </did>
+                  <c id="ref70" level="file">
+                     <did>
+                        <unittitle>ALS to Bernard Holland; Convent of the Sacred Heart, Roehampton</unittitle>
+                        <unitdate type="inclusive">1916 Jul 29</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_6f0ae07633147e3164ab9a322e134377"
+                                   type="box">1</container>
+                        <container id="aspace_0bcf75bc86b4c295d2a2dd9ab52d75fc"
+                                   type="folder"
+                                   parent="aspace_6f0ae07633147e3164ab9a322e134377">31</container>
+                     </did>
+                     <scopecontent id="aspace_3108110195a8cdfb0e1c1551d327d131">
+                        <head>Scope and Contents</head>
+                        <p>With "Madame Marcella Digby," biographical sketch, in French, of KHD's daughter</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>Digby, John</unittitle>
+                  </did>
+                  <c id="ref73" level="file">
+                     <did>
+                        <unittitle>ALS to Geta Dormer; 43 St. Georges Road</unittitle>
+                        <unitdate type="inclusive">1916 Jun 14</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_e39c629ec177111db88860908a87dcdf"
+                                   type="box">1</container>
+                        <container id="aspace_54ae372b40cdd990b430071a7af5a54d"
+                                   type="folder"
+                                   parent="aspace_e39c629ec177111db88860908a87dcdf">32</container>
+                     </did>
+                  </c>
+                  <c id="ref74" level="file">
+                     <did>
+                        <unittitle>ALS to Bernard Holland; 43 St. Georges Road</unittitle>
+                        <unitdate type="inclusive">1916 Jul 28</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_22cec27d3dd25cb5ac24d1592532f9df"
+                                   type="box">1</container>
+                        <container id="aspace_8b000cb88624c0cffb14c3e6f8eaf533"
+                                   type="folder"
+                                   parent="aspace_22cec27d3dd25cb5ac24d1592532f9df">33</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>Dormer, Geta [Gertrude]</unittitle>
+                  </did>
+                  <c id="ref76" level="file">
+                     <did>
+                        <unittitle>6 ALS to Bernard Holland</unittitle>
+                        <unitdate type="inclusive">1916 Jun-Jul</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_24506fe75597bc2e2d70225e9dd4409b"
+                                   type="box">1</container>
+                        <container id="aspace_7f6d66cc68b4cbf2d84c00ebcb5ffb35"
+                                   type="folder"
+                                   parent="aspace_24506fe75597bc2e2d70225e9dd4409b">34</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>Dormer, May</unittitle>
+                  </did>
+                  <c id="ref78" level="file">
+                     <did>
+                        <unittitle>2 ALS to Bernard Holland</unittitle>
+                        <unitdate type="inclusive">1916 Jul</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_5a7cda25df72dd7b1536ff2cdae05002"
+                                   type="box">1</container>
+                        <container id="aspace_0cd50237b47c69a675d7b1188c528410"
+                                   type="folder"
+                                   parent="aspace_5a7cda25df72dd7b1536ff2cdae05002">35</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>Longman, Thomas Norton, 1849-1930</unittitle>
+                  </did>
+                  <c id="ref80" level="file">
+                     <did>
+                        <unittitle>4 TLS to Bernard Holland</unittitle>
+                        <unitdate type="inclusive">1918 Jul-Oct</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_ac31e71f22605b94d52bc8bc3df37eec"
+                                   type="box">1</container>
+                        <container id="aspace_92a5983d8609b040c2c9cc2126bd084c"
+                                   type="folder"
+                                   parent="aspace_ac31e71f22605b94d52bc8bc3df37eec">36</container>
+                     </did>
+                     <scopecontent id="aspace_7b06590001139a67cd14005e44a20420">
+                        <head>Scope and Contents</head>
+                        <p>With: publication contract for <title type="simple" render="italic">
+                              Memoir of Kenelm Henry Digby
+                           </title> from Longmans, Green, and Co., 1918 Oct 2</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref82" level="file">
+                  <did>
+                     <unittitle>Palmer, Aidan, O.S.P.</unittitle>
+                  </did>
+                  <c id="ref83" level="file">
+                     <did>
+                        <unittitle>3 ALS to Bernard Holland</unittitle>
+                        <unitdate type="inclusive">1916 Jul</unitdate>
+                        <container label="Mixed Materials (39002099340284)"
+                                   id="aspace_23ea506826345811ebea085b0a41a647"
+                                   type="box">1</container>
+                        <container id="aspace_42612b8cf1ff45e1afadf7982d9c2447"
+                                   type="folder"
+                                   parent="aspace_23ea506826345811ebea085b0a41a647">37</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>Empty envelopes</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099340284)"
+                                id="aspace_098fc067969be532e28d97dd59e98a2b"
+                                type="box">1</container>
+                     <container id="aspace_fc8180d8f64c56d5928c7ba42a13e732"
+                                type="folder"
+                                parent="aspace_098fc067969be532e28d97dd59e98a2b">38</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref86" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1856-1880</unitdate>
+               <physdesc id="aspace_04ddc31d7647bdf8e5fe721aaf6b738d">0.10' (0.25 box)</physdesc>
+            </did>
+            <scopecontent id="aspace_09b9d7b78893bcc7830474ee351d1104">
+               <head>Scope and Contents</head>
+               <p>Series II, <title type="simple" render="italic">
+                     Other Papers
+                  </title>, is arranged alphabetically by type of material,</p>
+            </scopecontent>
+            <c id="ref88" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate type="inclusive">1856-58</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_f372da003e72c7b034323f2450064a62"
+                             type="box">1</container>
+                  <container id="aspace_c22cd43882519d9b4a996e7285d138a5"
+                             type="folder"
+                             parent="aspace_f372da003e72c7b034323f2450064a62">39</container>
+               </did>
+               <scopecontent id="aspace_10fa1e8646d623638cb38fd6877224e1">
+                  <head>Scope and Contents</head>
+                  <p>Notebook containing mainly reviews of <title type="simple" render="italic">
+                        The Lover's Seat
+                     </title>
+                  </p>
+               </scopecontent>
+            </c>
+            <c id="ref90" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate type="inclusive">1858-63</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_c8cf3ec95ccb1f9287de62ed5c2d9f2c"
+                             type="box">1</container>
+                  <container id="aspace_c438a682d6492445b8fd882b3758fb5b"
+                             type="folder"
+                             parent="aspace_c8cf3ec95ccb1f9287de62ed5c2d9f2c">40</container>
+               </did>
+               <scopecontent id="aspace_bd5544b169c15399c0fc46a36618fd32">
+                  <head>Scope and Contents</head>
+                  <p>Notebook containing mainly reviews of <title type="simple" render="italic">
+                        The Children's Bower
+                     </title> and <title type="simple" render="italic">
+                        The Chapel of St. John
+                     </title>
+                  </p>
+               </scopecontent>
+            </c>
+            <c id="ref92" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate type="inclusive">1860-72</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_632e79398b1e0bc5bafc931eb0c32bd7"
+                             type="box">1</container>
+                  <container id="aspace_47a19b038b3f3e0372f3e1cf173d7f28"
+                             type="folder"
+                             parent="aspace_632e79398b1e0bc5bafc931eb0c32bd7">41</container>
+               </did>
+               <scopecontent id="aspace_f0d49ac5cf975f8850f2fc4adb22b74c">
+                  <head>Scope and Contents</head>
+                  <p>Notebook containing reviews of <title type="simple" render="italic">
+                        Evenings on the Thames
+                     </title> and several collections of poems by KHD</p>
+               </scopecontent>
+            </c>
+            <c id="ref94" level="file">
+               <did>
+                  <unittitle>Newspaper clipping</unittitle>
+                  <unitdate type="inclusive">1877 Sep 28</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_35c8c604f8b744fa2e18b1363657f70d"
+                             type="box">1</container>
+                  <container id="aspace_2f80c41f4f2e7a62ac7ea6ab5ad281bf"
+                             type="folder"
+                             parent="aspace_35c8c604f8b744fa2e18b1363657f70d">42</container>
+               </did>
+               <scopecontent id="aspace_ad0e364c1ddf02598d2f882829ae752f">
+                  <head>Scope and Contents</head>
+                  <p>Essay on <title type="simple" render="italic">
+                        The Broad Stone of Honour
+                     </title> from <title type="simple" render="italic">
+                        The Morning Post
+                     </title>
+                  </p>
+               </scopecontent>
+            </c>
+            <c id="ref96" level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate type="inclusive">1880 Mar</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_6faefa404d193755e6a9f70d24fba274"
+                             type="box">1</container>
+                  <container id="aspace_b8db32a85a64118a5851ed23c483d175"
+                             type="folder"
+                             parent="aspace_6faefa404d193755e6a9f70d24fba274">43</container>
+               </did>
+               <scopecontent id="aspace_4d4cfec056297b7a0e8564c1823cf614">
+                  <head>Scope and Contents</head>
+                  <p>Obituary notices for KHD</p>
+               </scopecontent>
+            </c>
+            <c id="ref98" level="file">
+               <did>
+                  <unittitle>Research notes</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_1055f67317ba66ac83d7e783568ae928"
+                             type="box">1</container>
+                  <container id="aspace_ef69081f816fa567c9faf8182e211b7e"
+                             type="folder"
+                             parent="aspace_1055f67317ba66ac83d7e783568ae928">44</container>
+               </did>
+            </c>
+            <c id="ref99" level="file">
+               <did>
+                  <unittitle>Sketchbook</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099340284)"
+                             id="aspace_e01376fb3b5bb27710b5c13e6f764f24"
+                             type="box">1</container>
+                  <container id="aspace_d09dfb13dd5da03dac20274faa3fa45c"
+                             type="folder"
+                             parent="aspace_e01376fb3b5bb27710b5c13e6f764f24">45</container>
+               </did>
+               <scopecontent id="aspace_b0c3703318e082d09c9d9eba3e8f7910">
+                  <head>Scope and Contents</head>
+                  <p>Landscape sketches in pencil and ink by an unidentified artist</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

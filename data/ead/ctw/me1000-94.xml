@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-94::William E. Mead Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/me1000-94.html">me1000-94</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William E. Mead Papers,
+		<lb/><date normal="1880/1944">1880 - 1944</date>
+		</titleproper>
+        <author>Processed by: Patricia Bodak Stark; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: February 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the William E. Mead Papers, <date type="span">1880 - 1944</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Mead, William Edward, 1860-1949.</persname></origination><unittitle label="Title" encodinganalog="245">William E. Mead Papers, <unitdate normal="1880/1944" type="inclusive">1880 - 1944</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-94</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">4.5</extent></physdesc><physdesc label="Archival Boxes"><extent>9</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">William E. Mead was an alumnus of Wesleyan University and served as professor at the school, in addition to teaching and administration at high schools. His wife, Kate Mead Hurd, was a physician and author. The Meads travelled extensively in Europe and other parts of the world.</abstract><abstract encodinganalog="520">The William E. Mead papers include diaries recording his life and travels, correspondence and other materials removed from the diaries, and journals and a photograph album of a trip to Iceland in 1891.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], William E. Mead Papers, Collection #1000-94, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Unknown. It appears that the papers probably came to Wesleyan shortly after Mead’s death in 1949 because there was a note that papers could not be examined until 1974, which would be 25 years after his death. Mead bequeathed his personal library of almost 4,000 volumes to the Wesleyan Library.  He had donated 200 volumes to the Library in 1927. </p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Patricia Bodak Stark, 2004</p>
+        <p>Encoded by Valerie Gillispie, February 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>William Edward Mead was born on October 25, 1860 in Gallupville, New York. His father, Merritt B. Mead was a Methodist minister. He attended Wesleyan and graduated with the Class of 1881 with special honors in English literature. He stayed at Wesleyan as a graduate student and assistant librarian until 1882 when he became the associate principal of Ansonia high school in Ansonia, Connecticut. In 1884, he returned to Wesleyan as assistant in rhetoric and also teaching history at the Normal School in New Britain. The following year, Mead became principal of a high school in Troy, New York. He went abroad to study for the next five years in Germany, Paris, and London. While abroad, he became acquainted with Kate Hurd who was traveling for pleasure. Mead returned to Wesleyan in 1890 as Associate Professor of English, became full professor in 1893, and emeritus in 1925. A listing of many of Mead’s many publications can be found by searching the Wesleyan Library Catalog and the separate card files of faculty and alumni publications in Special Collections and Archives.</p>
+      <p>Kate Campbell Hurd was the daughter of Dr. Hurd of Newburyport, Massachusetts. She was born on April 6, 1867 in Danville, Quebec, Canada, and graduated from the Woman’s Medical College of Pennsylvania in 1888. She continued her medical studies at New England Hospital in Boston and at various universities in Europe and the Johns Hopkins Medical School. From 1890-93, she was medical director at the Bryn Mawr School in Baltimore.</p>
+      <p>William Mead married Kate Hurd on June 23, 1893.  After their wedding, they went on a trip to Norway and Europe. They took up residence in Middletown and stayed until 1929 when they moved to Sunnymede, a house overlooking the Connecticut River, in Haddam.  A photograph of the house appears in the 1932 correspondence folder (Series II, Box 9, folder 49). The Meads traveled extensively throughout the world, especially after Professor Mead’s retirement from Wesleyan in 1925. </p>
+      <p>Kate Hurd Mead died at her home of a heart attack while assisting a groundskeeper who had collapsed while fighting a brush fire on the Mead estate. At the time of her death on January 1, 1941, at age 73, Kate was a widely known medical author and practicing physician. She was the first woman doctor in Middletown.  She had published A History of Women in Medicine, covering ancient times through the 18th century. A second volume was at the printers, and a third volume was almost finished.</p>
+      <p>Professor Mead died on July 12, 1949 at Middlesex Hospital in Middletown. He was 88. The Meads had no children.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>The Mead Papers consist primarily of diaries, with one volume for each year from 1880 to 1944, with the exception of 1887 and 1922 for which no volumes exist. These volumes are arranged chronologically in Series I, Boxes 1-8, folders 1-30.</p><p>Mead inserted, pasted, or paper-clipped correspondence, newspaper clippings, photographs, and other such items into his diaries. Until about 1920, few such items appeared and they have usually been left in place, especially if the item was small and related to the diary entry for a particular day. After 1920, Mead inserted more things into the front or back covers of the diary. These loose items, especially folded correspondence, programs, and clippings, were removed from the diary and placed in Series II in chronological order. </p><p>For 1891, the year that Mead traveled to Iceland, there is one separate two-volume journal and one photograph album covering the period 1891 July 8 to September 1. These items are housed in Series III,  Box 9, folders 58-60. For the period before and after the Iceland trip in 1891, there is an 1891 diary housed in Series I, Box 1, folder 4. The diaries provide insight into the daily life style of a well-established Wesleyan faculty member. Entries relate to weather, visitors and visiting, travel, and reading. Some entries mention his wife, but for the most part, they are concerned with what William did. When traveling, many of the entries give a location with the date.</p>   
+
+ 
+
+<p>The Mead diaries are noteworthy for recording the amount of traveling that Mead did both before he married Kate, and throughout their married years, especially in the 1920s and 1930s. In a May 1922 article for the Wesleyan Alumnus, Mead writes about their travels to Paris, Rome, Cairo, and Jerusalem. They were again on a world tour after Meads retirement from Wesleyan in 1925. This tour lasted about five years. They spent much of 1926 touring Europe, London, Spain, Francis, Tunis. An article in the December 1926 issue of the Wesleyan Alumnus mentions that Professor and Mrs. Mead have postponed their visit to China. (The Meads did not travel to China until 1936.) In 1927, they journeyed to the Canary Islands, Naples, Pompeii, Athens, Tripoli. In 1928, they were in Rangoon, Bombay, Athens; and 1929 London, Paris Rome. They returned home to Haddam on October 4, 1929. Another item of note that appear in the collection is a ten page typescript by Kate, dated May 30, 1932, (Box 8, folder 49) giving an account of a trip soth to New Orleans. Diaries entries give location where the entry is written:  Haddam, at sea, etc. Traveling continued until Kate’s death. </p><p>In 1936, the Meads traveled to China. They began their journey from Connecticut to China on January 4 when they drove from Haddam to New Haven and took a train to New York. By the morning of January 7, they crossed the Mexican border at the Rio Grande at Laredo. On January 8, they were in Mexico City, and on the 24th they boarded the President Hoover in San Francisco, and arrived in Honolulu on the 29th. On the 28th of February the Meads were in Shanghai where they were met by John McGregor Gibb, Wesleyan Class of 1904, who was in the exporting business. The Meads were in Canton in early March. They had dinner with E.K. Smith, Wesleyan Class of 1895, on March 23 and  visited the Great Wall on March 24. William’s diary provides a daily record of the China trip from the time he and Kate left Haddam in January until they returned home to Haddam on May 17.</p><p>The summer of 1937 found the Meads in London, Paris and Amsterdam.  In April 1938, William broke his hip. There was not much traveling until May 1939 when they drove cross country. In July 1940 through August, the Meads drove to Canada and Nova Scotia. William notes in his diary that he is now 80 years old.</p><p>Although Mead was associate principal of Ansonia high school for only two years, he seemed to maintain contact and interest in the school. In the correspondence files, there is a copy of a graduation program for March 28, 1884 and photograph of students and teachers dated 1883 (Series II, Box 8, folder 31). An article about the retirement of Mary E. Lathrop as Librarian of Derby High School, from the Ansonia Evening Sentinel, dated July 29, 1932, is filed in the 1932 correspondence folder (Series II, Box 9, folder 49). The 1933 folder (Series II, Box 9, folder 50) contains an article from The Observer titled, “1933 Looks Back to 1883,” by Lois Davidson about the first class to graduate Ansonia High School in 1883 that mentions Mead.</p><p>The collections contains some family correspondence especially with Kate’s sister, Mabeth Hurd Paige. Mabeth was a member of the Minnesota state legislature. Her husband, James Paige, died on February 4, 1940. Mabeth had two daughters, Emma and Elizabeth. Kate’s brother, Randolph Campbell Hurd (1872-1956) was a member of the Wesleyan Class of 1895, but left school in his sophomore year. He received an M.D. degree from Harvard in 1897.</p><p>Kate Mead seemed to forsee her death. In November 1940, on a trip to New York with her sister, Mabeth Hurd Paige, Kate discusses how William should be cared for in the event of her death. Shortly after Kate’s death, Mabeth typed up a document outlining Kate’s wishes that William signed. This <emph render="doublequote">contract</emph> appears near the front cover of the 194l diary. With Kate’s death, William appeared to decline quickly. His handwriting deteriorated, entries became shorter, and he did not travel or want travel. His last diary entry is for April 5, 1944, five years before his death: <emph render="doublequote">Haddam Overcast . . . ? Read as usual.</emph> William died in 1949 at the age of 88.  </p><arrangement><head>Collection Arrangement</head><p>The collection is arranged into three series: Diaries, Correspondence, and Icelandic Journals.
+</p></arrangement></scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Mead, William Edward, 1860-1949.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <persname source="lcnaf" encodinganalog="600">Hurd-Mead, Kate Campbell, 1867-1941.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <geogname source="lcnaf" encodinganalog="651">Iceland--Pictorial works.</geogname>
+      <subject source="aat" encodinganalog="655">Diaries.</subject>
+      <subject source="lcsh" encodinganalog="650">Travel writing.</subject>
+      <subject source="aat" encodinganalog="655">Photographs.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined"><head>Detailed Description of the Collection</head><!-- use component levels clips to enter in the description of subordinate components --><c01 level="series"><did><unittitle>Series I: Diaries</unittitle></did><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>1880-1882</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>1883-1885</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>1886; 1888-1889</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>1890-1892</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">5</container><unittitle>1893-1894</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">6</container><unittitle>1895-1896</unittitle></did></c02><c02><did><container type="Box">2</container><container type="Folder">7</container><unittitle>1897-1898</unittitle></did></c02>                                                     
+<c02><did><container type="Box">2</container><container type="Folder">8</container><unittitle>1899-1900</unittitle></did></c02> 
+<c02><did><container type="Box">2</container><container type="Folder">9</container><unittitle>1901-1902</unittitle></did></c02>                                                      
+<c02><did><container type="Box">3</container><container type="Folder">10</container><unittitle>1903-1904</unittitle></did></c02> 
+<c02><did><container type="Box">3</container><container type="Folder">11</container><unittitle>1905-1906</unittitle></did></c02>  
+<c02><did><container type="Box">3</container><container type="Folder">12</container><unittitle>1907-1908</unittitle></did></c02> 
+<c02><did><container type="Box">3</container><container type="Folder">13</container><unittitle>1909-1910</unittitle></did></c02>                                                     
+<c02><did><container type="Box">4</container><container type="Folder">14</container><unittitle>1911-1912</unittitle></did></c02> 
+<c02><did><container type="Box">4</container><container type="Folder">15</container><unittitle>1913-1914</unittitle></did></c02>                                                      
+<c02><did><container type="Box">4</container><container type="Folder">16</container><unittitle>1915-1916</unittitle></did></c02> 
+<c02><did><container type="Box">4</container><container type="Folder">17</container><unittitle>1917-1918</unittitle></did></c02> 
+<c02><did><container type="Box">4</container><container type="Folder">18</container><unittitle>1919-1920</unittitle></did></c02> 
+<c02><did><container type="Box">5</container><container type="Folder">19</container><unittitle>1921, 1923</unittitle></did></c02> 
+<c02><did><container type="Box">5</container><container type="Folder">20</container><unittitle>1924-1925</unittitle></did></c02><c02><did><container type="Box">5</container><container type="Folder">21</container><unittitle>1926-1927</unittitle></did></c02>                                                    
+<c02><did><container type="Box">5</container><container type="Folder">22</container><unittitle>1928-1929</unittitle></did></c02>                                                  
+<c02><did><container type="Box">6</container><container type="Folder">23</container><unittitle>1930-1931</unittitle></did></c02> 
+<c02><did><container type="Box">6</container><container type="Folder">24</container><unittitle>1932-1933</unittitle></did></c02> 
+<c02><did><container type="Box">6</container><container type="Folder">25</container><unittitle>1934-1935</unittitle></did></c02> 
+<c02><did><container type="Box">7</container><container type="Folder">26</container><unittitle>1936-1937</unittitle></did></c02><c02><did><container type="Box">7</container><container type="Folder">27</container><unittitle>1938-1939</unittitle></did></c02>                                                        
+<c02><did><container type="Box">7</container><container type="Folder">28</container><unittitle>1940-1941</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">29</container><unittitle>1942-1943</unittitle></did></c02>                                                   
+<c02><did><container type="Box">8</container><container type="Folder">30</container><unittitle>1944</unittitle></did></c02>  
+</c01><c01 level="series"><did><unittitle>Series II: Correspondence</unittitle></did><c02><did><container type="Box">8</container><container type="Folder">31</container><unittitle>Ansonia High School, 1883</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">32</container><unittitle>Judson, H.P., October 28, 1890</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">33</container><unittitle>Hurd, Mabeth, April 8 and May 22, 1891</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">34</container><unittitle>Hurd, S.E.C., January 10 and May 12, 1891</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">35</container><unittitle>King of Norway photograph by Max Behrends, undated</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">36</container><unittitle>Miscellaneous from diary, 1917-1918</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">37</container><unittitle>Miscellanous and clippings, 1920</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">38</container><unittitle>Aunt Julia, May 21, 1921</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">39</container><unittitle>Keller, Sara B., March 11, 1923</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">40</container><unittitle>Miscellaneous correspondence, March-December, 1924</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">41</container><unittitle>Miscellaneous correspondence, clippings, photo, 1925</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">42</container><unittitle>Miscellaneous correspondence, 1926</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">43</container><unittitle>Miscellaneous correspondence, clippings, 1927</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">44</container><unittitle>Miscellaneous correspondence, clippings, 1928</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">45</container><unittitle>Hazen, Edward W., Estate, August 24, 1929</unittitle></did></c02><c02><did><container type="Box">8</container><container type="Folder">46</container><unittitle>Family correspondence, 1930</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">47</container><unittitle>Miscellaneous correspondence, clippings, 1931</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">48</container><unittitle>Photos removed from 1939 diary, 1921, 1931</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">49</container><unittitle>Miscellaneous and travel account, 1932</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">50</container><unittitle>Miscellaneous correspondence, clippings, 1933</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">51</container><unittitle>Family correspondence, 1935</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">52</container><unittitle>Miscellaneous clippings, photos, 1936</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">53</container><unittitle>Paige, James obituary, February 4, 1940</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">54</container><unittitle>Miscellaneous correspondence, clippings, 1940</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">55</container><unittitle>Mead, Kate Hurd obituary, January 1, 1941</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">56</container><unittitle>Paige, Mabeth; Terry, Flora, May 20 and December 15, 1942</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">57</container><unittitle>Miscellaneous, 1943</unittitle></did></c02></c01><c01 level="series"><did><unittitle>Series III:  Icelandic Journals</unittitle></did><c02><did><container type="Box">9</container><container type="Folder">58</container><unittitle>Iceland Journal, July 8-August 10, 1891</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">59</container><unittitle>Iceland Journal, August 15-September 1, 1891</unittitle></did></c02><c02><did><container type="Box">9</container><container type="Folder">60</container><unittitle>Photograph album of Iceland, 1891</unittitle></did></c02></c01>                             
+
+</dsc>
+  </archdesc>
+</ead>

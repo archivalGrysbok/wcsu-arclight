@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.039">divinity.039</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Horace Bushnell Papers
+ </titleproper>
+            <titleproper type="filing">Bushnell (Horace) Papers</titleproper>
+            <author>Compiled by Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>1977</date>
+            <num>RG 39</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday March 26, 2019 at 22:17</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Horace Bushnell Papers</unittitle>
+         <unitid>RG 39</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(5 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1832/1902">1832-1902</unitdate>
+         
+         <abstract id="aspace_2b9c9d337adb44ca68e6d03d2cd32e83">The collection includes five diaries containing valuable biographical information and documenting Bushnell's trip abroad, 1845-1846, and manuscript sermons, 1832-1875, which give insight into the less formal aspects of Bushnell's thought. The material written about Bushnell during his lifetime pertains to the controversy associated with his theological beliefs. Horace Bushnell was born in Bantam, Connecticut on April 14, 1802. He was educated at Yale (B.A., 1827; M.A., 1830; B.D., 1833), and received degrees from Wesleyan University, Harvard, and Yale. He served as pastor of North Church, Hartford, CT from 1833-1859. He was the author of<title type="simple" render="italic">
+               God in Christ
+            </title> (1849) and <title type="simple" render="italic">
+               Christ in Theology
+            </title> (1851), as well as other works uncongenial to the orthodox theology of his times.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n80040829"
+                      source="naf">
+               Bushnell, Horace, 1802-1876
+            </persname>
+         </origination>
+    
+      </did>
+      <accessrestrict id="aspace_4db66f4a1b6a0898ac8a8b766be969ac">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_b55716dc02921aa59ba77d22daad2ca6">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Howell Cheney, 1945.</p>  
+      </acqinfo>
+      <prefercite id="aspace_0e1f8d4ee754c5f55dfb397afa7cee5c">
+         <head>Preferred Citation</head>
+         <p>Horace Bushnell Papers (RG 39), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_99a3f5ec35d28c7dde196b9f52113e90">
+         <head>Biographical / Historical</head>
+         <chronlist>
+            <chronitem>
+               <date>1802 Apr 14</date>
+               
+                  <event>Born in Bantam, CT</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1827</date>
+               
+                  <event>B.A., Yale</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1829-1831</date>
+               
+                  <event>Tutor in Yale College</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1830</date>
+               
+                  <event>M.A., Yale</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1833</date>
+               
+                  <event>B.D., Yale</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1833</date>
+               
+                  <event>Ordained pastor of the North Church, Hartford, CT</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1842</date>
+               
+                  <event>D.D., Wesleyan University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1845-1846</date>
+               
+                  <event>Year spent abroad in Europe</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1849</date>
+               
+                  <event>Published <title type="simple" render="italic">
+                        God in Christ
+                     </title>, a work uncongenial to the orthodoxy of the times. Conservative ministers in Connecticut sought to bring Bushnell to trial for heresy.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1851</date>
+               
+                  <event>Published , <title type="simple" render="italic">
+                        Christ in Theology,
+                     </title> which answered his critics.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1852</date>
+               
+                  <event>S.T.D., Harvard</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1856</date>
+               
+                  <event>Traveled to California for health reasons, became interested in the problems of developing the region.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1859</date>
+               
+                  <event>Retired from the ministry for health reasons but continued to write and publish.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1871</date>
+               
+                  <event>L.L.D., Yale</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1876Feb 17</date>
+               
+                  <event>Died</event>
+               
+            </chronitem>
+         </chronlist>
+         <p>Biographical information taken from: <title type="simple" render="italic">
+               Historical Register of Yale University, 1701-1937
+            </title> and <title type="simple" render="italic">
+               Dictionary of American Biography
+            </title>
+         </p>  
+      </bioghist>
+      <scopecontent id="aspace_220b4f4e9ace8ef2923b34c03af3c54b">
+         <head>Scope and Contents</head>
+         <list>
+            <item>
+               <ref xlink:actuate="onRequest" xlink:show="replace" target="ref16">I. Correspondence, 1848, n.d.</ref>
+            </item>
+            <item>
+               <ref xlink:actuate="onRequest" xlink:show="replace" target="ref19">II. Diaries, 1845-1846.</ref>
+            </item>
+            <item>
+               <ref xlink:actuate="onRequest" xlink:show="replace" target="ref25">III. Writings of Bushnell, 1832-1875.</ref>
+            </item>
+            <item>
+               <ref xlink:actuate="onRequest" xlink:show="replace" target="ref108">IV. Material written about Bushnell, 1843-1902, n.d.</ref>
+            </item>
+            <item>
+               <ref xlink:actuate="onRequest" xlink:show="replace" target="ref120">V. Personal Items and Memorabilia, 1849-1902, n.d.</ref>
+            </item>
+         </list>
+         <p>The correspondence section consists of two letters written and signed by Bushnell, their recipients unidentified.</p>
+         <p>The diaries of Series II are a five volume record of Bushnell's impressions during his trip abroad in 1845-1846. These journals would be of greatest value for biographical research. Excerpts from them have been published in Bushnell's daughter's book,<title type="simple" render="italic">
+               Life and Letters of Horace Bushnell
+            </title>.</p>
+         <p>The writings of Bushnell are divided into three sections:</p>    
+         <list>
+            <item>A. Manuscript sermons and discourses (1832-1875, n.d.)</item>
+            <item>B. Published sermons and discourses (1839-1959, n.d.)</item>
+            <item>C. Miscellaneous (1839-1873, n.d.)</item>
+         </list>
+         <p>The manuscript sermons give valuable insight into the less formal aspects of Bushnell's thought. Some of these sermons have been published in whole or in part, largely in Bushnell's posthumous volume, <title type="simple" render="italic">
+               The Spirit in Man.
+            </title> Although many of them were not considered sufficiently valuable or well organized to be included in his published works as entire sermons, these unpublished writings contain material that can assist in tracing the development of his thought. In many cases the unpublished portions of the sermons contain statements of doctrine that were apparently omitted as not being of interest to the general reader.</p>
+         <p>The published sermons and discourses are largely duplicates of ones already cataloged in the Library's collection, and are included with Bushnell's papers to provide consolidated access. The miscellaneous writings of Bushnell included newspaper articles, a prayer for a wedding, and explanations of two patents obtained by him.</p>
+         <p>The material written about Bushnell during his lifetime pertains to the controversy associated with his theological beliefs. Bushnell's opposition to the rigid rationalism of his times and his attempts to redefine Christianity in terms of human experience were the cause of much accusation and debate. Additional material in this section stems from the centenary celebration of Bushnell's birth in 1902. Series V includes a letter from Amos Cheseborough to T.T. Munger, biographer of Bushnell, that traces Bushnell's genealogical descent.</p>  
+      </scopecontent>
+      <arrangement id="aspace_b04894557a4311918d9c53f142ce9547">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Correspondence, 1848, n.d. </item>
+            <item>II. Diaries, 1845-1846</item>
+            <item>III. Writings of Bushnell, 1832-1875</item>
+            <item>IV. Material written about Bushnell, 1843-1902, n.d. </item>
+            <item>V. Personal Items and Memorabilia, 1849-1902, n.d.</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85025778"
+                  source="lcsh">
+            Church work
+         </subject>
+         <subject source="local">
+            Congregational churches -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85134665"
+                  source="lcsh">
+            Theology
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300027112" source="aat">
+            Diaries
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300026669" source="aat">
+            Sermons
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009793"
+                  source="lcsh">
+            Authors
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026944"
+                  source="lcsh">
+            Clergy
+         </subject>
+         <occupation source="local">
+            Theologians
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80040829"
+                   source="naf">
+            Bushnell, Horace, 1802-1876
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref16" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>To: "George"</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_a31076079e2d2b1163efe5a4aaac9827"
+                             type="box">1</container>
+                  <container id="aspace_8e2199bf9d9e9b6a1baf18c0226b9209"
+                             type="folder"
+                             parent="aspace_a31076079e2d2b1163efe5a4aaac9827">1</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>To: "Dear Sir"</unittitle>
+                  <unitdate type="inclusive">1848</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_1422c56716fc6be4f853f46ee0f8c7fe"
+                             type="box">1</container>
+                  <container id="aspace_f658f5fd5651ffdd9a7500cc2ad8f8db"
+                             type="folder"
+                             parent="aspace_1422c56716fc6be4f853f46ee0f8c7fe">1</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref19" level="series">
+            <did>
+               <unittitle>Diaries</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1845 Jul 11-1845 Oct 11</unitdate>
+            </did>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Diary of trip abroad: Volume I</unittitle>
+                  <unitdate type="inclusive">1845 Jul 11-1845 Oct 11</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_a83c2d4493cd1d25696c2dad6a7f8f3d"
+                             type="box">1</container>
+                  <container id="aspace_f31f9b0627dfedeedc61cc2469c80c1d"
+                             type="folder"
+                             parent="aspace_a83c2d4493cd1d25696c2dad6a7f8f3d">2</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Volume II</unittitle>
+                  <unitdate type="inclusive">1845 Oct 12-1845 Nov 25</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_a95e20dd29c02e8df46860ea134ca2ac"
+                             type="box">1</container>
+                  <container id="aspace_3f7d5a81ac031a1e8060b46df6d10200"
+                             type="folder"
+                             parent="aspace_a95e20dd29c02e8df46860ea134ca2ac">3</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>Volume III</unittitle>
+                  <unitdate type="inclusive">1845 Nov 25-1845 Dec 19</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_799fb444e93d111189396377d02a50a1"
+                             type="box">1</container>
+                  <container id="aspace_adc7a60e6c5cac137292234780b7e44e"
+                             type="folder"
+                             parent="aspace_799fb444e93d111189396377d02a50a1">4</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Volume IV</unittitle>
+                  <unitdate type="inclusive">1845 Dec 20-1846 Feb 17</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_13224567d6c2f9ef2e40188a120d0393"
+                             type="box">1</container>
+                  <container id="aspace_fb060c5d186b456c7176356cd0fce20d"
+                             type="folder"
+                             parent="aspace_13224567d6c2f9ef2e40188a120d0393">5</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Volume V</unittitle>
+                  <unitdate type="inclusive">1846 Feb 19-1846 May 1</unitdate>
+                  <container label="Mixed Materials (39002022294483)"
+                             id="aspace_6bb6aa768fe679df5cde1626443bbfea"
+                             type="box">1</container>
+                  <container id="aspace_60531f2fafb1bd9a4a7cac56b78296cd"
+                             type="folder"
+                             parent="aspace_6bb6aa768fe679df5cde1626443bbfea">6</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref25" level="series">
+            <did>
+               <unittitle>Writings of Bushnell</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <c id="ref26" level="subseries">
+               <did>
+                  <unittitle>Manuscript Sermons and Discourses</unittitle>
+               </did>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Christ the Form of the Soul</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_0e91b7779117994e72281ae4c1ae334c"
+                                type="box">1</container>
+                     <container id="aspace_c74c69c6fe511497a18ff0f07cbc2cf1"
+                                type="folder"
+                                parent="aspace_0e91b7779117994e72281ae4c1ae334c">7</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>The Church Catalogue of Rome II</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_0ed5de57e88ec30a5fbe3852b01a41d1"
+                                type="box">1</container>
+                     <container id="aspace_5101ab00731f5ee1f6ccf9ac523a9cf5"
+                                type="folder"
+                                parent="aspace_0ed5de57e88ec30a5fbe3852b01a41d1">7</container>
+                  </did>
+               </c>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Corinthians 3:8</unittitle>
+                     <unitdate type="inclusive">1841</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_4f6f66a777564e5faf3c4a938ee710e1"
+                                type="box">1</container>
+                     <container id="aspace_a0d8d960c2ba7e77229f3bd0ab93483a"
+                                type="folder"
+                                parent="aspace_4f6f66a777564e5faf3c4a938ee710e1">7</container>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>The Course of the World</unittitle>
+                     <unitdate type="inclusive">1854</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_c0667b635822aa3db90f122ba6fde60a"
+                                type="box">1</container>
+                     <container id="aspace_2192f08bb812ad15baadb7280b562fc6"
+                                type="folder"
+                                parent="aspace_c0667b635822aa3db90f122ba6fde60a">8</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Death Abolished</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_ee33d250107141ba2542cb061115e28c"
+                                type="box">1</container>
+                     <container id="aspace_5299f3fcedcd93547e33127619b3110a"
+                                type="folder"
+                                parent="aspace_ee33d250107141ba2542cb061115e28c">8</container>
+                  </did>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Death a Leveller of Distinctions</unittitle>
+                     <unitdate type="inclusive">1850</unitdate>
+                     <container label="Mixed Materials (39002022294483)"
+                                id="aspace_605f90b0be3e8b82ef26b16506ee5d07"
+                                type="box">1</container>
+                     <container id="aspace_35641146d34c5f72fba7f5bc6e442cc9"
+                                type="folder"
+                                parent="aspace_605f90b0be3e8b82ef26b16506ee5d07">8</container>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>The Doctrine of Prayer</unittitle>
+                     <unitdate type="inclusive">1865</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_693401f1dec4f28715141342ba76fc32"
+                                type="box">2</container>
+                     <container id="aspace_0bfc345e592e5dda8cc90c33e80ecc4e"
+                                type="folder"
+                                parent="aspace_693401f1dec4f28715141342ba76fc32">9</container>
+                  </did>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>The Eternity of Love</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_56aa244a7ba37669e7d03a601eb0852d"
+                                type="box">2</container>
+                     <container id="aspace_7538444485571293800aed1a9940ca96"
+                                type="folder"
+                                parent="aspace_56aa244a7ba37669e7d03a601eb0852d">9</container>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>The Everlasting Gospel (incomplete)</unittitle>
+                     <unitdate type="inclusive">1847</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_e118d1e55771d793e3e43e91edeb9fbb"
+                                type="box">2</container>
+                     <container id="aspace_7d40c213dfd40d38720a496c04616eb0"
+                                type="folder"
+                                parent="aspace_e118d1e55771d793e3e43e91edeb9fbb">9</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Existence Consummated in a State of Praise</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_6fbb7112bef1038120798e33a6ff670c"
+                                type="box">2</container>
+                     <container id="aspace_bf21a5b90b1d5d3c13bf83bd48b77af5"
+                                type="folder"
+                                parent="aspace_6fbb7112bef1038120798e33a6ff670c">10</container>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Giving Account Each One to God</unittitle>
+                     <unitdate type="inclusive">1858</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_6165dd9ac403baa2a8d484bf7e3e363f"
+                                type="box">2</container>
+                     <container id="aspace_8898345a4816403ad7a3bf6910377906"
+                                type="folder"
+                                parent="aspace_6165dd9ac403baa2a8d484bf7e3e363f">10</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>God' Meaning in Probation</unittitle>
+                     <unitdate type="inclusive">1851</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_2eec8f14cab130cf79c951fafb3baa8a"
+                                type="box">2</container>
+                     <container id="aspace_ab3f3ea305885f390893e0dfb9c43b1e"
+                                type="folder"
+                                parent="aspace_2eec8f14cab130cf79c951fafb3baa8a">10</container>
+                  </did>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Gods One Family</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_4c6176dbe9657665d856f90b85fadb7e"
+                                type="box">2</container>
+                     <container id="aspace_a4d6402566f963dec0142ed63ecab328"
+                                type="folder"
+                                parent="aspace_4c6176dbe9657665d856f90b85fadb7e">11</container>
+                  </did>
+               </c>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>God's Way of Establishing the Nation</unittitle>
+                     <unitdate type="inclusive">1865</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_fdadf98970fd9bf0865f5c360f0a1429"
+                                type="box">2</container>
+                     <container id="aspace_12d33a193960d23fded616ca692e912b"
+                                type="folder"
+                                parent="aspace_fdadf98970fd9bf0865f5c360f0a1429">11</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>The Good Wine Last</unittitle>
+                     <unitdate type="inclusive">(1853?)</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_f3f0262887ab6c4ea9132d0c0df12af5"
+                                type="box">2</container>
+                     <container id="aspace_7434c0d386c5c46cd2eb599aa925f33c"
+                                type="folder"
+                                parent="aspace_f3f0262887ab6c4ea9132d0c0df12af5">11</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Grace Dispensed by a Law</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_5052b205b8a86f42cd63c8d980f39f9b"
+                                type="box">2</container>
+                     <container id="aspace_56ad35199eb4b54ab9aad0e602b3b0c4"
+                                type="folder"
+                                parent="aspace_5052b205b8a86f42cd63c8d980f39f9b">12</container>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Grace Dispensed by Law</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_d634c280773b0c2554451670e76393b8"
+                                type="box">2</container>
+                     <container id="aspace_7546bbfe77158cff44ef07c2abfada44"
+                                type="folder"
+                                parent="aspace_d634c280773b0c2554451670e76393b8">12</container>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>A Great Life Begins Early</unittitle>
+                     <unitdate type="inclusive">1852</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_36b12084b7c586db6f4b67979072c5f6"
+                                type="box">2</container>
+                     <container id="aspace_60cf91ddd1b68661b368b59897a5759a"
+                                type="folder"
+                                parent="aspace_36b12084b7c586db6f4b67979072c5f6">12</container>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Heavenly State No. I, No. II, No. III, No. IV</unittitle>
+                     <unitdate type="inclusive">1842-1843, n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_ee918d1d44a48522904f544a09d9e768"
+                                type="box">2</container>
+                     <container id="aspace_582ae888c301cca683f62e1a55872800"
+                                type="folder"
+                                parent="aspace_ee918d1d44a48522904f544a09d9e768">13</container>
+                  </did>
+               </c>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>The Holy Spirit (incomplete)</unittitle>
+                     <unitdate type="inclusive">ca. 1875</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_208b31d9ac43fa4be1d3690b38fbe051"
+                                type="box">2</container>
+                     <container id="aspace_b29da87b09aff788aa7cc381b0ab73e0"
+                                type="folder"
+                                parent="aspace_208b31d9ac43fa4be1d3690b38fbe051">14</container>
+                  </did>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Hosea 6:3</unittitle>
+                     <unitdate type="inclusive">1837</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_04470745acb31a91441f2dfa5b05e375"
+                                type="box">2</container>
+                     <container id="aspace_cb32e0f5d02bee99d89a5832112955d0"
+                                type="folder"
+                                parent="aspace_04470745acb31a91441f2dfa5b05e375">14</container>
+                  </did>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Inspiration</unittitle>
+                     <unitdate type="inclusive">1875</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_c9d2527a98087aecf8bb801551c55a8c"
+                                type="box">2</container>
+                     <container id="aspace_5912733562bc07c30aa3d2bbb1145ba4"
+                                type="folder"
+                                parent="aspace_c9d2527a98087aecf8bb801551c55a8c">14</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>John 14:2</unittitle>
+                     <unitdate type="inclusive">1843</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_087a6f5a5a524b1c5bcd27c8c5ba400d"
+                                type="box">2</container>
+                     <container id="aspace_091f2e2b7d327605f91029670cf527a1"
+                                type="folder"
+                                parent="aspace_087a6f5a5a524b1c5bcd27c8c5ba400d">15</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Long Suffering</unittitle>
+                     <unitdate type="inclusive">1862</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_e6ad75217fca137bb535db617c8d830c"
+                                type="box">2</container>
+                     <container id="aspace_ad3aa2030675f62f24fe153f6ae3743c"
+                                type="folder"
+                                parent="aspace_e6ad75217fca137bb535db617c8d830c">15</container>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>The Largest Love</unittitle>
+                     <unitdate type="inclusive">1870</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_d1ee3ba4356ee04d3560fc0035366498"
+                                type="box">2</container>
+                     <container id="aspace_e4a292c4854b974e8b8d8f17757cc70d"
+                                type="folder"
+                                parent="aspace_d1ee3ba4356ee04d3560fc0035366498">15</container>
+                  </did>
+               </c>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>Luke 10:20</unittitle>
+                     <unitdate type="inclusive">1842</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_d0dab0d8c8b504102ae951bf1bde0d08"
+                                type="box">2</container>
+                     <container id="aspace_d2d91ab3b77a4221c8f65dc9bf1567ca"
+                                type="folder"
+                                parent="aspace_d0dab0d8c8b504102ae951bf1bde0d08">16</container>
+                  </did>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Meaning of the Supper</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_c1072f2fc15a523a0298ae9e7714fd4d"
+                                type="box">2</container>
+                     <container id="aspace_8ea3050bf1518d5c8969ebd0e7f71b2d"
+                                type="folder"
+                                parent="aspace_c1072f2fc15a523a0298ae9e7714fd4d">16</container>
+                  </did>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>The Motions of Sin</unittitle>
+                     <unitdate type="inclusive">1853</unitdate>
+                     <container label="Mixed Materials (39002022294491)"
+                                id="aspace_0429739643942b44a33f3946ce2365db"
+                                type="box">2</container>
+                     <container id="aspace_deafef6b3cd35424a69d5fa24d4f78d2"
+                                type="folder"
+                                parent="aspace_0429739643942b44a33f3946ce2365db">16</container>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Natural Science and Moral Philosophy</unittitle>
+                     <unitdate type="inclusive">1832</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_5f31a81c6f24b242a78863c846a3dc16"
+                                type="box">3</container>
+                     <container id="aspace_e872fae756b7e3b2de07f6b072eb1e3f"
+                                type="folder"
+                                parent="aspace_5f31a81c6f24b242a78863c846a3dc16">17</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Nothing in God's Attributes to be Spared</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_da5a42cd08a28ffc41aeed099f9c0f1a"
+                                type="box">3</container>
+                     <container id="aspace_9fc38d21d81cc63cf97c5a07ec5e26dd"
+                                type="folder"
+                                parent="aspace_da5a42cd08a28ffc41aeed099f9c0f1a">17</container>
+                  </did>
+               </c>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>Our Unthanking Way Accounted For</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_2e5d0d496e156ef8c2b0b62e8f734874"
+                                type="box">3</container>
+                     <container id="aspace_1cbbe1fb19d134182e0450378552aaaa"
+                                type="folder"
+                                parent="aspace_2e5d0d496e156ef8c2b0b62e8f734874">17</container>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Personality Developed by Religion</unittitle>
+                     <unitdate type="inclusive">1854</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_ae3b2f9d0a87c885670c5605aade7ce4"
+                                type="box">3</container>
+                     <container id="aspace_0b649783290ad9a6ab616662a7a6b2c7"
+                                type="folder"
+                                parent="aspace_ae3b2f9d0a87c885670c5605aade7ce4">18</container>
+                  </did>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>Power From On High</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_c687b4ca39240d25e9d9ddb1d90d72b4"
+                                type="box">3</container>
+                     <container id="aspace_b290aab6618316c5eabf98e769faf1c5"
+                                type="folder"
+                                parent="aspace_c687b4ca39240d25e9d9ddb1d90d72b4">18</container>
+                  </did>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>The Prayer of Expectation</unittitle>
+                     <unitdate type="inclusive">ca. 1850</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_2c53a1ec2bdfecf327410855b64297fa"
+                                type="box">3</container>
+                     <container id="aspace_27bee22743804900d60a66bea7aa923b"
+                                type="folder"
+                                parent="aspace_2c53a1ec2bdfecf327410855b64297fa">18</container>
+                  </did>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>The Preparations of Eternity</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_e99b29b88ff69ac7a4d05e9b8958f647"
+                                type="box">3</container>
+                     <container id="aspace_e97ad56052523b8a3ea7b870fd7e271f"
+                                type="folder"
+                                parent="aspace_e99b29b88ff69ac7a4d05e9b8958f647">19</container>
+                  </did>
+               </c>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>Psalm 125</unittitle>
+                     <unitdate type="inclusive">1843</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_05a4deb862240ad7584702ccb9cae3a9"
+                                type="box">3</container>
+                     <container id="aspace_aca2d5511d68f2cfaf26993a0df6e632"
+                                type="folder"
+                                parent="aspace_05a4deb862240ad7584702ccb9cae3a9">19</container>
+                  </did>
+               </c>
+               <c id="ref63" level="file">
+                  <did>
+                     <unittitle>Psalm 126:5</unittitle>
+                     <unitdate type="inclusive">1843</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_e6bff5e1df6ffe60a17f763f2d27fe87"
+                                type="box">3</container>
+                     <container id="aspace_0872146cbbbe6db0fab5a15178e6a389"
+                                type="folder"
+                                parent="aspace_e6bff5e1df6ffe60a17f763f2d27fe87">19</container>
+                  </did>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Pure Love</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_0f0ae838a19aeec22616ef1663ed3753"
+                                type="box">3</container>
+                     <container id="aspace_84630fceda34cbc70ec0aaff1bc7d162"
+                                type="folder"
+                                parent="aspace_0f0ae838a19aeec22616ef1663ed3753">20</container>
+                  </did>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>Revelation</unittitle>
+                     <unitdate type="inclusive">1839</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_58fec1ba83342df563a0dd688a79222f"
+                                type="box">3</container>
+                     <container id="aspace_3e15d00451c4c6732c993139f6038ecb"
+                                type="folder"
+                                parent="aspace_58fec1ba83342df563a0dd688a79222f">20</container>
+                  </did>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>The Sin of Being Only Negative to God</unittitle>
+                     <unitdate type="inclusive">1858</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_3612fc0439c1f6edb945abe57b94bc01"
+                                type="box">3</container>
+                     <container id="aspace_f6ac4ee1e9961d31f1e2205eafede7ca"
+                                type="folder"
+                                parent="aspace_3612fc0439c1f6edb945abe57b94bc01">20</container>
+                  </did>
+               </c>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>Souls Enobled by Nearness to God</unittitle>
+                     <unitdate type="inclusive">1853</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_1c027ff9a72f08c139a2b5472585dc4a"
+                                type="box">3</container>
+                     <container id="aspace_be8d0141b42de64444328eb6de67da22"
+                                type="folder"
+                                parent="aspace_1c027ff9a72f08c139a2b5472585dc4a">21</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>Spiritual Things the Only Solid</unittitle>
+                     <unitdate type="inclusive">1850</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_e90ada10412d0fee4811065b9bb0f966"
+                                type="box">3</container>
+                     <container id="aspace_7ebdbd859a2ff1d7bfdba9f5dbdc9608"
+                                type="folder"
+                                parent="aspace_e90ada10412d0fee4811065b9bb0f966">21</container>
+                  </did>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>Subdue Evil by Enduring Evil</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_161547239baeea28a46715081545ef12"
+                                type="box">3</container>
+                     <container id="aspace_b56c52bcee38379e891c90b16e991df8"
+                                type="folder"
+                                parent="aspace_161547239baeea28a46715081545ef12">21</container>
+                  </did>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>There is a Moral Governor</unittitle>
+                     <unitdate type="inclusive">1832</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_cb999169505852f8779227c8d6c9e293"
+                                type="box">3</container>
+                     <container id="aspace_c3943e5fbc84da76a0801be8e51f44df"
+                                type="folder"
+                                parent="aspace_cb999169505852f8779227c8d6c9e293">22</container>
+                  </did>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>Unconscious Prophecy</unittitle>
+                     <unitdate type="inclusive">1854</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_7265968caecc0f254c4d03a5082a7c64"
+                                type="box">3</container>
+                     <container id="aspace_5b0957e4173956ecf6c33dbfeb5a20fe"
+                                type="folder"
+                                parent="aspace_7265968caecc0f254c4d03a5082a7c64">22</container>
+                  </did>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>What is Faith?</unittitle>
+                     <unitdate type="inclusive">1843</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_565e7f97506a0016dee99b7c6db0de5f"
+                                type="box">3</container>
+                     <container id="aspace_7d8fcec98a0b04028fdfcd5e9d6f319a"
+                                type="folder"
+                                parent="aspace_565e7f97506a0016dee99b7c6db0de5f">22</container>
+                  </did>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>The Word Grace Revived</unittitle>
+                     <unitdate type="inclusive">1869</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_925af982583c36d5cbb196e1eea8e8f4"
+                                type="box">3</container>
+                     <container id="aspace_e5ca72f9c5c6925a0abfe632ac059d07"
+                                type="folder"
+                                parent="aspace_925af982583c36d5cbb196e1eea8e8f4">22</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>Fragments</unittitle>
+                     <unitdate type="inclusive">1848-1857, n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_6694d644f84c3887b6fd2a21fd447d29"
+                                type="box">3</container>
+                     <container id="aspace_92cc71683f3cae8f03d3529b5d58f816"
+                                type="folder"
+                                parent="aspace_6694d644f84c3887b6fd2a21fd447d29">23</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref75" level="subseries">
+               <did>
+                  <unittitle>Published sermons and discourses</unittitle>
+               </did>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>Address before the Hartford Co. Agricultural Society</unittitle>
+                     <unitdate type="inclusive">1847</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_e31a10ee19e660ad4faedec321a35e2d"
+                                type="box">3</container>
+                     <container id="aspace_8e12421078d6b84904fb40895c4e40d7"
+                                type="folder"
+                                parent="aspace_e31a10ee19e660ad4faedec321a35e2d">24</container>
+                  </did>
+               </c>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>Argument fo "Discourses on Christian Nurture"</unittitle>
+                     <unitdate type="inclusive">1847</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_8907988ae8541a960fc6f2e2ec130acd"
+                                type="box">3</container>
+                     <container id="aspace_e8026efbf791322c4720cf765efea412"
+                                type="folder"
+                                parent="aspace_8907988ae8541a960fc6f2e2ec130acd">24</container>
+                  </did>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>Barbarism the First Danger</unittitle>
+                     <unitdate type="inclusive">1847</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_0310cc49f2708f41bda44d0793fb1f43"
+                                type="box">3</container>
+                     <container id="aspace_4312ac0ccf6b193415d6b4f42f491d19"
+                                type="folder"
+                                parent="aspace_0310cc49f2708f41bda44d0793fb1f43">24</container>
+                  </did>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>The Character of Jesus</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_86d2074647be2ee85e274ee0c600ec42"
+                                type="box">3</container>
+                     <container id="aspace_5cd8fd58e3107acbb1cc06cc6e9d8eb4"
+                                type="folder"
+                                parent="aspace_86d2074647be2ee85e274ee0c600ec42">25</container>
+                  </did>
+               </c>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>Commemorative Discourse delivered in North Church, Hartford</unittitle>
+                     <unitdate type="inclusive">1853</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_feaa8bd8aa892053f0038558e289b9af"
+                                type="box">3</container>
+                     <container id="aspace_4c0640f58d348287212707e00e957d15"
+                                type="folder"
+                                parent="aspace_feaa8bd8aa892053f0038558e289b9af">25</container>
+                  </did>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>Common Schools</unittitle>
+                     <unitdate type="inclusive">1853</unitdate>
+                     <container label="Mixed Materials (39002022294509)"
+                                id="aspace_6cdcc8a25ce2df6ec4d9acee26914119"
+                                type="box">3</container>
+                     <container id="aspace_aa0b44b0f69624127ce6c89c529eb940"
+                                type="folder"
+                                parent="aspace_6cdcc8a25ce2df6ec4d9acee26914119">25</container>
+                  </did>
+               </c>
+               <c id="ref82" level="file">
+                  <did>
+                     <unittitle>The Day of Roads</unittitle>
+                     <unitdate type="inclusive">1846</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_d0116292097e52b6ff02f50942848599"
+                                type="box">4</container>
+                     <container id="aspace_91b5379f8426de6bbcfe4c1347513c23"
+                                type="folder"
+                                parent="aspace_d0116292097e52b6ff02f50942848599">26</container>
+                  </did>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>Discourse on the Slavery Question</unittitle>
+                     <unitdate type="inclusive">1839</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_cf5cc4613504eea7b68ba1052bc6e528"
+                                type="box">4</container>
+                     <container id="aspace_a2bb9843312d574c6e6ba099a5d8d318"
+                                type="folder"
+                                parent="aspace_cf5cc4613504eea7b68ba1052bc6e528">26</container>
+                  </did>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>The Fathers of New England</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_5b4986aca00dabf36ee0fe55d8fbeab5"
+                                type="box">4</container>
+                     <container id="aspace_3ef136ccd41a77512054b4c930c99acd"
+                                type="folder"
+                                parent="aspace_5b4986aca00dabf36ee0fe55d8fbeab5">26</container>
+                  </did>
+               </c>
+               <c id="ref85" level="file">
+                  <did>
+                     <unittitle>Moral Tendencies and Results of Human History</unittitle>
+                     <unitdate type="inclusive">1843</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_e7817571d6dfea4f81e495adaf69a2f4"
+                                type="box">4</container>
+                     <container id="aspace_9118c6bbf1731539d2757cf3415ed406"
+                                type="folder"
+                                parent="aspace_e7817571d6dfea4f81e495adaf69a2f4">27</container>
+                  </did>
+               </c>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>The Moral Uses of Great Pestilences</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_c77286f058f4c9500bf1817f71e0d6c6"
+                                type="box">4</container>
+                     <container id="aspace_cfc6f47ee972de6cb571b2a86e8b7a0a"
+                                type="folder"
+                                parent="aspace_c77286f058f4c9500bf1817f71e0d6c6">27</container>
+                  </did>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>The Moral Uses of the Sea</unittitle>
+                     <unitdate type="inclusive">1845</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_8e91824f8afc3ec60264341b9a937a3d"
+                                type="box">4</container>
+                     <container id="aspace_90bc224f2c63027a81531071ffb4b295"
+                                type="folder"
+                                parent="aspace_8e91824f8afc3ec60264341b9a937a3d">27</container>
+                  </did>
+               </c>
+               <c id="ref88" level="file">
+                  <did>
+                     <unittitle>The Northern Iron</unittitle>
+                     <unitdate type="inclusive">1854</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_53a84e40bde04546f82e4769ecdca3ee"
+                                type="box">4</container>
+                     <container id="aspace_5e31748393f1dd5b5b4770c4bedae7f3"
+                                type="folder"
+                                parent="aspace_53a84e40bde04546f82e4769ecdca3ee">28</container>
+                  </did>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>Oration delivered before the Society of Phi Beta Kappa</unittitle>
+                     <unitdate type="inclusive">1848</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_799357b5b53c34df4ca7870fa4373270"
+                                type="box">4</container>
+                     <container id="aspace_e9d760604358bec6eaccfeca0fecd479"
+                                type="folder"
+                                parent="aspace_799357b5b53c34df4ca7870fa4373270">28</container>
+                  </did>
+               </c>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Parting Words</unittitle>
+                     <unitdate type="inclusive">1859</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_604f8b462d4a35d759a1aaa82d964849"
+                                type="box">4</container>
+                     <container id="aspace_f7667df10c4661b6719fc384a6a01ee0"
+                                type="folder"
+                                parent="aspace_604f8b462d4a35d759a1aaa82d964849">28</container>
+                  </did>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>Politics Under the Law of God</unittitle>
+                     <unitdate type="inclusive">1844</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_e4a4227617935351a0693f55efab79dd"
+                                type="box">4</container>
+                     <container id="aspace_7ac10f2894b113d45fe94cc836fb7117"
+                                type="folder"
+                                parent="aspace_e4a4227617935351a0693f55efab79dd">29</container>
+                  </did>
+               </c>
+               <c id="ref92" level="file">
+                  <did>
+                     <unittitle>Popular Government by Divine Right</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_a6361a7a341db3c2b76ea37471c4663d"
+                                type="box">4</container>
+                     <container id="aspace_463562cf7ee178c07864f7a783919ed0"
+                                type="folder"
+                                parent="aspace_a6361a7a341db3c2b76ea37471c4663d">29</container>
+                  </did>
+               </c>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>Position and Power</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_eabd1e066db489bbfa180e3715589759"
+                                type="box">4</container>
+                     <container id="aspace_551603689fc1b9901e2dc0bdb8a3ec56"
+                                type="folder"
+                                parent="aspace_eabd1e066db489bbfa180e3715589759">29</container>
+                  </did>
+               </c>
+               <c id="ref94" level="file">
+                  <did>
+                     <unittitle>Prosperity Our Duty</unittitle>
+                     <unitdate type="inclusive">1847</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_6b36dbd94d2c3d5a411cd76591b51bea"
+                                type="box">4</container>
+                     <container id="aspace_3d9d1ac197102ec73af15a7fee19c3b0"
+                                type="folder"
+                                parent="aspace_6b36dbd94d2c3d5a411cd76591b51bea">29</container>
+                  </did>
+               </c>
+               <c id="ref95" level="file">
+                  <did>
+                     <unittitle>Religious Music</unittitle>
+                     <unitdate type="inclusive">1852</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_2485672eb50acd1094c8b3d3097fac00"
+                                type="box">4</container>
+                     <container id="aspace_47be0b0fb73d824672bf66c8c34a4ac1"
+                                type="folder"
+                                parent="aspace_2485672eb50acd1094c8b3d3097fac00">30</container>
+                  </did>
+               </c>
+               <c id="ref96" level="file">
+                  <did>
+                     <unittitle>Reverses Needed</unittitle>
+                     <unitdate type="inclusive">1861</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_05f034760de19f15ce8b483e5e938411"
+                                type="box">4</container>
+                     <container id="aspace_0eb6acb82157930da71dfd773de379a4"
+                                type="folder"
+                                parent="aspace_05f034760de19f15ce8b483e5e938411">30</container>
+                  </did>
+               </c>
+               <c id="ref97" level="file">
+                  <did>
+                     <unittitle>Society and Religion: A Sermon for California</unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_19b18e3f790656f4c3052439a1cf7ab0"
+                                type="box">4</container>
+                     <container id="aspace_0c12d593ceea33a876a2bd25e76b6d79"
+                                type="folder"
+                                parent="aspace_19b18e3f790656f4c3052439a1cf7ab0">30</container>
+                  </did>
+               </c>
+               <c id="ref98" level="file">
+                  <did>
+                     <unittitle>Speech for Connecticut</unittitle>
+                     <unitdate type="inclusive">1851</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_864912ae08ad2b7801bfc9db7fc14b60"
+                                type="box">4</container>
+                     <container id="aspace_8eafd98199be4a306f28cc590548c72e"
+                                type="folder"
+                                parent="aspace_864912ae08ad2b7801bfc9db7fc14b60">30</container>
+                  </did>
+               </c>
+               <c id="ref99" level="file">
+                  <did>
+                     <unittitle>Spiritual Dislodgements</unittitle>
+                     <unitdate type="inclusive">1857</unitdate>
+                     <container label="Mixed Materials (39002022294517)"
+                                id="aspace_554679969fc4d0d5e6348072542cfa96"
+                                type="box">4</container>
+                     <container id="aspace_eac7835b471752e49ba12a807c4df634"
+                                type="folder"
+                                parent="aspace_554679969fc4d0d5e6348072542cfa96">30</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref100" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous writings</unittitle>
+               </did>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>The Faith-Talent Wanting Education for the Pulpit</unittitle>
+                     <unitdate type="inclusive">1873</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_7ea2d1db6b19352c622a7b33006a703c"
+                                type="box">5</container>
+                     <container id="aspace_3007f19e8124af2780776e0ed594beed"
+                                type="folder"
+                                parent="aspace_7ea2d1db6b19352c622a7b33006a703c">31</container>
+                  </did>
+               </c>
+               <c id="ref102" level="file">
+                  <did>
+                     <unittitle>Letter to <title type="simple" render="italic">
+                           The Independent
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1856</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_0ec2d039b0be43e2644849d0d9dcf144"
+                                type="box">5</container>
+                     <container id="aspace_b8972ed410cc74d204bda8de4bbf899c"
+                                type="folder"
+                                parent="aspace_0ec2d039b0be43e2644849d0d9dcf144">31</container>
+                  </did>
+               </c>
+               <c id="ref103" level="file">
+                  <did>
+                     <unittitle>Need of Regeneration (sermon extract)</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_ed5cf2497c685ad06b3fe2b292e8d14f"
+                                type="box">5</container>
+                     <container id="aspace_e2d921b2a9c14e370d79dc35393b489b"
+                                type="folder"
+                                parent="aspace_ed5cf2497c685ad06b3fe2b292e8d14f">31</container>
+                  </did>
+               </c>
+               <c id="ref104" level="file">
+                  <did>
+                     <unittitle>Patent No. 1177 (Heating stove)</unittitle>
+                     <unitdate type="inclusive">1839</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_63cb4364efed317b30d243a78c4a4c33"
+                                type="box">5</container>
+                     <container id="aspace_3d2138a4b85c54b2b5fcca97bea02593"
+                                type="folder"
+                                parent="aspace_63cb4364efed317b30d243a78c4a4c33">32</container>
+                  </did>
+               </c>
+               <c id="ref105" level="file">
+                  <did>
+                     <unittitle>Patent No. 6238 (Air-heating furnace)</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_c37c0f56d6a0f9a4b4241ff4afc0eacf"
+                                type="box">5</container>
+                     <container id="aspace_d2b4085e617682a3121a15790a7a410a"
+                                type="folder"
+                                parent="aspace_c37c0f56d6a0f9a4b4241ff4afc0eacf">32</container>
+                  </did>
+               </c>
+               <c id="ref106" level="file">
+                  <did>
+                     <unittitle>Prayer for a wedding</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_f08f306035f1fa2ec8a2019794a557fb"
+                                type="box">5</container>
+                     <container id="aspace_069e5cd7ef2e10413218ba3ad53bceee"
+                                type="folder"
+                                parent="aspace_f08f306035f1fa2ec8a2019794a557fb">32</container>
+                  </did>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>The Religious Situation in New England</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_1de47adee1bb66623acffe678f293599"
+                                type="box">5</container>
+                     <container id="aspace_09e77ddc71da3edf99af2097a8430ba9"
+                                type="folder"
+                                parent="aspace_1de47adee1bb66623acffe678f293599">32</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref108" level="series">
+            <did>
+               <unittitle>Material Written about Bushnell</unittitle>
+               <unitid>Series IV</unitid>
+               <unitdate type="inclusive">1843</unitdate>
+            </did>
+            <c id="ref109" level="file">
+               <did>
+                  <unittitle>Letter Written to Dr. Bushnell, of Hartford, on the Certain Passages of his Address...</unittitle>
+                  <unitdate type="inclusive">1843</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_f400f8589a4ee343aa7e1d882a2b3c67"
+                             type="box">5</container>
+                  <container id="aspace_5952e467c6d1ea90a55761b4962eb9e9"
+                             type="folder"
+                             parent="aspace_f400f8589a4ee343aa7e1d882a2b3c67">33</container>
+               </did>
+            </c>
+            <c id="ref110" level="file">
+               <did>
+                  <unittitle>Printed letter from B. Tyler to Bushnell</unittitle>
+                  <unitdate type="inclusive">1847</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_7570ae2271e018ffc69d5411db3910a2"
+                             type="box">5</container>
+                  <container id="aspace_9e3f7d6fc8e0ae1c206be8e26b090000"
+                             type="folder"
+                             parent="aspace_7570ae2271e018ffc69d5411db3910a2">33</container>
+               </did>
+            </c>
+            <c id="ref111" level="file">
+               <did>
+                  <unittitle>What Does Dr. Bushnell Mean?</unittitle>
+                  <unitdate type="inclusive">1847</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_372cfdc8d174233fdcd4364f489c6f61"
+                             type="box">5</container>
+                  <container id="aspace_ba0e2b334a61d7873286fef308b44310"
+                             type="folder"
+                             parent="aspace_372cfdc8d174233fdcd4364f489c6f61">33</container>
+               </did>
+            </c>
+            <c id="ref112" level="file">
+               <did>
+                  <unittitle>Contribution of CC., now declared in full as Criticus Critorium</unittitle>
+                  <unitdate type="inclusive">1849</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_3f22cc7a7c8c43f9450fd92744010484"
+                             type="box">5</container>
+                  <container id="aspace_031033d437c7ee5b918a5e70226fde34"
+                             type="folder"
+                             parent="aspace_3f22cc7a7c8c43f9450fd92744010484">33</container>
+               </did>
+            </c>
+            <c id="ref113" level="file">
+               <did>
+                  <unittitle>Remonstrance and Complaint of the Association of Fairfield West to the Hartford Central Assn.</unittitle>
+                  <unitdate type="inclusive">1850</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_25ebbafc25a385fd7db6427dc87fb28a"
+                             type="box">5</container>
+                  <container id="aspace_53f9c071b6677aa6d615c3355cfd98d8"
+                             type="folder"
+                             parent="aspace_25ebbafc25a385fd7db6427dc87fb28a">34</container>
+               </did>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>Appeal of the Association of Fairfield West to the Associated Ministers of the General Assn. Of CT</unittitle>
+                  <unitdate type="inclusive">1852</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_3abb1d266815d26189450dd57b3e8572"
+                             type="box">5</container>
+                  <container id="aspace_52601745ac4aa6e27f584adf58472d61"
+                             type="folder"
+                             parent="aspace_3abb1d266815d26189450dd57b3e8572">34</container>
+               </did>
+            </c>
+            <c id="ref115" level="file">
+               <did>
+                  <unittitle>The Doctrines Held by Dr. Bushnell</unittitle>
+                  <unitdate type="inclusive">1872</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_75b5b73860b55e795ac2e21d5bf9dc6c"
+                             type="box">5</container>
+                  <container id="aspace_00522a67b98931c8a8124bb2efb33cf0"
+                             type="folder"
+                             parent="aspace_75b5b73860b55e795ac2e21d5bf9dc6c">35</container>
+               </did>
+            </c>
+            <c id="ref116" level="file">
+               <did>
+                  <unittitle>Address by Dr. T.T. Munger</unittitle>
+                  <unitdate type="inclusive">1902</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_4f791cf5e33fa515e7beced1679534eb"
+                             type="box">5</container>
+                  <container id="aspace_7ffe435c83042cd437a1071af1b97a5b"
+                             type="folder"
+                             parent="aspace_4f791cf5e33fa515e7beced1679534eb">35</container>
+               </did>
+            </c>
+            <c id="ref117" level="file">
+               <did>
+                  <unittitle>Bushnell Centenary - 193rd Annual Meeting of General Assn. of CT</unittitle>
+                  <unitdate type="inclusive">1902</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_d94e7ad03757a2bf9d3cbd9b6fd00c94"
+                             type="box">5</container>
+                  <container id="aspace_965ee0afeaaf06e628199fb8a4b1287d"
+                             type="folder"
+                             parent="aspace_d94e7ad03757a2bf9d3cbd9b6fd00c94">35</container>
+               </did>
+            </c>
+            <c id="ref118" level="file">
+               <did>
+                  <unittitle>Newspaper clippings from: <title type="simple" render="italic">
+                        The Hartford Courant
+                     </title> and <title type="simple" render="italic">
+                        The Hartford Weekly Times
+                     </title>
+                  </unittitle>
+                  <unitdate type="inclusive">1902</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_14bcafd802eca6e91c89aed4e8b11993"
+                             type="box">5</container>
+                  <container id="aspace_ecc58c300e0de95b9a2d799ac38fac93"
+                             type="folder"
+                             parent="aspace_14bcafd802eca6e91c89aed4e8b11993">36</container>
+               </did>
+            </c>
+            <c id="ref119" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002022294525)"
+                             id="aspace_1fd96cadc1bd60e9bd63f5f46f08d22d"
+                             type="box">5</container>
+                  <container id="aspace_95eb151640d8f64f5296845a6b2ce2e1"
+                             type="folder"
+                             parent="aspace_1fd96cadc1bd60e9bd63f5f46f08d22d">37</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref120" level="series">
+            <did>
+               <unittitle>Personal Items and Memorabilia</unittitle>
+               <unitid>Series V</unitid>
+            </did>
+            <c id="ref121" level="subseries">
+               <did>
+                  <unittitle>Biographical and genealogical material</unittitle>
+               </did>
+               <c id="ref122" level="file">
+                  <did>
+                     <unittitle>Letter from A. Cheseborough to Dr. Munger</unittitle>
+                     <unitdate type="inclusive">1902</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_d54da5aab730290e032b173839d15ea8"
+                                type="box">5</container>
+                     <container id="aspace_bf0aaf362a69dea4b49fbc20a8e732e7"
+                                type="folder"
+                                parent="aspace_d54da5aab730290e032b173839d15ea8">38</container>
+                  </did>
+               </c>
+               <c id="ref123" level="file">
+                  <did>
+                     <unittitle>Notes</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_2905bb43178008ac7f81f080183f30ea"
+                                type="box">5</container>
+                     <container id="aspace_02fe0e84c2796c899fea23cac7ab6436"
+                                type="folder"
+                                parent="aspace_2905bb43178008ac7f81f080183f30ea">38</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref124" level="subseries">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+               <c id="ref125" level="file">
+                  <did>
+                     <unittitle>Certificate of church standing signed by Bushnell</unittitle>
+                     <unitdate type="inclusive">1849</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_f60e23832040d39c6df70aad6bfab4a0"
+                                type="box">5</container>
+                     <container id="aspace_f2d4ad8de041206fff001acae2d4c620"
+                                type="folder"
+                                parent="aspace_f60e23832040d39c6df70aad6bfab4a0">39</container>
+                  </did>
+               </c>
+               <c id="ref126" level="file">
+                  <did>
+                     <unittitle>Illustration of Bushnell</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002022294525)"
+                                id="aspace_52214964378ccd8e625eb99230e7dff5"
+                                type="box">5</container>
+                     <container id="aspace_e83ef7b66f6653be0fa4f3ae326b6197"
+                                type="folder"
+                                parent="aspace_52214964378ccd8e625eb99230e7dff5">39</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

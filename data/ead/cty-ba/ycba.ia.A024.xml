@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BA"
+             url="http://hdl.handle.net/10079/fa/ycba.ia.A024">ycba.ia.A024</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Yale Center for British Art Paintings and Sculpture Department records </titleproper>
+            <titleproper type="filing">Yale Center for British Art Paintings and Sculpture Department records</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Center for British Art, Institutional Archives</publisher>
+            <address>
+               <addressline>Institutional Archives</addressline>
+               <addressline>1080 Chapel Street</addressline>
+               <addressline>P. O. Box 208280</addressline>
+               <addressline>New Haven, CT 06520-8280</addressline>
+               <addressline altrender="email">ycba.institutionalarchives@yale.edu</addressline>
+            </address>
+            <num>A024</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 16, 2019 at 21:02</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Yale Center for British Art Paintings and Sculpture Department records</unittitle>
+         <unitid>A024</unitid>
+         <repository>
+            <corpname>
+               Yale Center for British Art, Institutional Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">54</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(54 boxes)</physdesc>
+         <physdesc>
+            <extent unit="Gigabytes">7.87</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1976/2013">1976-2013</unitdate>
+         
+         <origination label="creator">
+            <corpname rules="rda" source="local_ycba_ia">
+               Yale Center for British Art. Paintings and Sculpture Department
+            </corpname>
+         </origination>
+      </did>
+      <scopecontent id="aspace_11134b8568289ee5448f81c47f7f3ab6">
+         <head>Scope and Contents</head>
+         <p>The Paintings and Sculpture department records consist of curatorial records dating from 1977 to 2013.</p>  
+      </scopecontent>
+      <bioghist id="aspace_79c0f1eaa724116cda3103b6be127718">
+         <head>Biographical / Historical</head>
+         <p>The Paintings and Sculpture department is responsible for a collection of approximately 2,000 paintings and 200 sculptures. Particularly strong in the period from 1700–1850, the collection ranges from a medieval Nottingham alabaster to works by contemporary artists. Thanks to the special interests of founder Paul Mellon, the Center also has one of the greatest collections of British sporting and animal paintings in the world. It was known as the Paintings department until 1996, when the scope was expanded to include sculpture.</p>
+         <p>Major exhibitions produced by the department have included "The Grosvenor Gallery: A Palace of Art in Victorian England" (1996), "This Other Eden: British Paintings from the Paul Mellon Collection at Yale" (1998, the Center's largest ever traveling exhibition), and "Edwardian Opulence: British Art at the Dawn of the Twentieth Century" (2013).</p>  
+      </bioghist>
+      <accessrestrict id="aspace_2b739b9d15547f9183526a087ca6754c">
+         <head>Conditions Governing Access</head>
+         <p>This collection is unprocessed and may not be available for immediate access.</p>  
+      </accessrestrict>
+  
+  
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008026"
+                  source="lcsh">
+            Art museums
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2009001462"
+                  source="lcsh">
+            Art museum curators -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007472"
+                  source="lcsh">
+            Art -- Collectors and collecting
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007581"
+                  source="lcsh">
+            Art, British
+         </subject>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n77005277"
+                   source="naf">
+            Yale Center for British Art
+         </corpname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

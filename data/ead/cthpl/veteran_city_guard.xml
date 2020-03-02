@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1"
+        dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="cthpl"
+            url="http://hhc2.hplct.org/veteran_city_guard.html">veteran_city_guard</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Veteran City Guard of Hartford Collection</titleproper>
+                <subtitle encodinganalog="245$b">A Guide to the collection at the Hartford History
+                    Center</subtitle>
+                <author>Nancy Finlay</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hartford History Center, Hartford Public Library</publisher>
+                <address>
+          <addressline>500 Main Street</addressline>
+          <addressline>Hartford, CT 06103</addressline>
+        </address>                                                                                                                                                                                      
+                <p>Copyright 2019, Hartford Public Library</p>
+                <date>January 2019</date>
+            </publicationstmt>
+        </filedesc>            
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Collection Overview</head>
+            <repository encodinganalog="852$a" label="Repository:">
+                <corpname>Hartford History Center, Hartford Public Library </corpname>
+                <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+            </repository>
+            <origination encodinganalog="110" label="Creator:">Veteran City Guard of Hartford</origination>
+            <unittitle encodinganalog="245$a" label="Title:">Veteran City Guard of Hartford Collection</unittitle>
+            <unitdate encodinganalog="245$f" label="Dates: ">1861-1946</unitdate>
+            <physdesc encodinganalog="300$a" label="Extent:">
+                <extent>20 linear feet</extent>
+            </physdesc>
+            <abstract encodinganalog="520$a" label="Abstract:">Records, photographs, and artifacts relating to the Veteran City Guard of Hartford</abstract>
+            <physloc label="Location:" altrender="Location:">HHC Closed Stacks, Range 12</physloc>
+            <langmaterial encodinganalog="546">English</langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>The Hartford City Guard was formed on January 8, 1861.  The Veteran Association of the Hartford City Guard was organized on November 26, 1867.	All past and honorary members of the Hartford City Guard prior to July 5, 1865 were eligible for membership.  Members took part in parades, receptions, dinners, and excursions, frequently in association with other semi-military groups.  Every year they held a reunion and organized an impressive Memorial Day ceremony.  During World War I, they raised a war fund and took part in numerous patriotic activities. At the group’s fiftieth reunion in 1917, they decided not to hold any additional reunions.</p>                    
+        </bioghist>
+       
+        <scopecontent encodinganalog="520$a">
+            <head>Scope and Content</head>
+            <p>The Veteran City Guard Collection in the Hartford History Center includes scrapbooks, photograph albums, company orders, meeting minutes, ledgers, roll books, record books, reports, and trophies documenting the history of the organization from 1861 to 1916.  Records from some years are lacking.</p>
+        </scopecontent>
+        <accessrestrict>
+            <head>Access Restrictions</head>
+            <p>The records are stored in a restricted area and therefore may not be available on a
+                same-day basis. </p>
+        </accessrestrict>
+        <userestrict>
+            <head>Use Restrictions</head>
+            <p>See Hartford History Center’s Collection Use policy. Permission to publish from the Veteran City Guard of Hartford Collection
+                must be obtained in writing from the Executive Director of the Hartford History Center, and a copy of
+                the published work may be requested by the Hartford History Center. The Hartford History Center
+                reserves the right to refuse permission to publish, etc. to those who have not complied with its
+                policies. Use of the collections will normally not be permitted for the purpose of promotion of
+                commercial products and services or political campaigns. Hartford History Center at Hartford Public
+                Library reserves the right to limit the number of photographic prints/captures and to restrict the
+                use or reproduction of rare, fragile, or valuable objects. Some scrapbooks are in poor condition and will require special handling.
+            </p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Item, Collection Title, Collection number (Box #, Folder #). Hartford History Center,
+                Hartford Public Library, Hartford, Connecticut.</p>
+        </prefercite>
+        <processinfo>
+            <head>Processing Details</head>
+            <p>Collection was processed by Donald C. Eiler and Nancy Finlay.</p>
+            <p>EAD Finding Aid created by Kathy Foulke in January 2019.</p>
+        </processinfo>
+        <arrangement><head>Arrangement</head>
+            <p>The collection is arranged in numbered volumes and four boxes. Documents in Boxes 1 and 2 are filed alphabetically in folders, some according to sender, recipient, or company.</p></arrangement>
+        <controlaccess>
+            <head>Subject Headings</head>
+            <controlaccess>
+                <head>Corporate Names</head>
+                <corpname encodinganalog="610">Veteran City Guard (Hartford, Conn.)</corpname>
+                <corpname encodinganalog="610" >United States. Army
+                </corpname>
+                <corpname encodinganalog="610" >United States. Army--History--Punitive Expedition into Mexico
+                </corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subjects</head>
+                <subject encodinganalog="650" >Dinners and dining
+                </subject>
+                <subject encodinganalog="650" >Memorial Day
+                </subject>
+                <subject encodinganalog="650" >Parades
+                </subject>
+                <subject encodinganalog="650" >Portraits
+                </subject>
+                <subject encodinganalog="650" >Target practice
+                </subject>
+                <subject encodinganalog="650" >Veterans
+                </subject>
+                <subject encodinganalog="650" >World War, 1914-1918
+                </subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Geographic names</head>
+                <subject encodinganalog="651">Hartford (Conn.)</subject>
+            </controlaccess>
+            <controlaccess>
+                    <head>Genre Terms</head>
+                <subject encodinganalog="655">Ledgers (Account books)</subject>
+                <subject encodinganalog="655">Minutes (Administrative records)</subject>
+                    <subject encodinganalog="655">Scrapbooks</subject>                    
+                    <subject encodinganalog="655">Photograph albums</subject>                                
+                </controlaccess>                
+            </controlaccess>
+          <dsc type="combined">
+            <head>Contents:</head>
+                   <c01 level="series">
+                      <did>
+                          <unitid>Volumes</unitid>
+                      </did>
+                      <c02>
+                          <did>
+                              <container type="Item">1</container>
+                              <unittitle>Scrapbook, </unittitle><unitdate>1861</unitdate>
+                          </did>
+                      </c02>
+                      <c02>
+                          <did>
+                              <container type="Item">2</container>
+                              <unittitle>Scrapbook, </unittitle>
+                              <unitdate>1865-1877</unitdate>
+                          </did>
+                      </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">3</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">4</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1869</unitdate>
+                           </did>
+                       </c02>  
+                       <c02>
+                           <did>
+                               <container type="Item">5</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1881</unitdate>
+                           </did>
+                       </c02>  
+                       <c02>
+                           <did>
+                               <container type="Item">6</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02>  
+                       <c02>
+                           <did>
+                               <container type="Item">7</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02>  
+                       <c02>
+                           <did>
+                               <container type="Item">8</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">9</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">10</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1890</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">11</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1892</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">12</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1894</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">13</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1915</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">14</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1916</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">15</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1916</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">16</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1916</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">17</container>
+                               <unittitle>Scrapbook, </unittitle>
+                               <unitdate>1946</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">18</container>
+                               <unittitle>Album, Battalion Photo Portraits, 
+                               </unittitle><unitdate>1881</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">19</container>
+                               <unittitle>Album, Battalion Photo Portraits, </unittitle>
+                               <unitdate>Undated</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">20</container>
+                               <unittitle>Album, Battalion Photo Portraits, </unittitle>
+                               <unitdate>Undated</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">21</container>
+                               <unittitle>Album, Battalion Photo Portraits, </unittitle>
+                               <unitdate>Undated</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">22</container>
+                               <unittitle>Company Orders: Battery D, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">23</container>
+                               <unittitle>Company Orders: Company F, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">24</container>
+                               <unittitle>Company Orders: Company F, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">25</container>
+                               <unittitle>Company Orders: Company F, </unittitle>
+                               <unitdate>1888</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">26</container>
+                               <unittitle>Company Orders: Company F, no entries, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">27</container>
+                               <unittitle>Company Orders: Company F, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">28</container>
+                               <unittitle>Company Orders: Company F, </unittitle>
+                               <unitdate>1903-1926</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">29</container>
+                               <unittitle>Guards Constitution, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">30</container>
+                               <unittitle>Guards Constitution, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">31</container>
+                               <unittitle>Guards Constitution, </unittitle>
+                               <unitdate>1880</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">32</container>
+                               <unittitle>Guards Constitution, </unittitle>
+                               <unitdate>1892</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">33</container>
+                               <unittitle>Guards Constitution, </unittitle>
+                               <unitdate>1902</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">34</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1860</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">35</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1869</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">36</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">37</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">38</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02> 
+                       <c02>
+                           <did>
+                               <container type="Item">39</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1890</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">40</container>
+                               <unittitle>Guards Meeting, Minutes, </unittitle>
+                               <unitdate>1895</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">41</container>
+                               <unittitle>Records, Company C Muster, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">42</container>
+                               <unittitle>Ledger, Company F Quartermaster, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">43</container>
+                               <unittitle>Ledger, Company F Quartermaster, </unittitle>
+                               <unitdate>1903</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">44</container>
+                               <unittitle>Ledger, Company F Quartermaster Property, </unittitle>
+                               <unitdate>1916</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">45</container>
+                               <unittitle>Ledger, Property Book, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">46</container>
+                               <unittitle>Ledger, Receipts, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">47</container>
+                               <unittitle>Ledger, Receipts, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">48</container>
+                               <unittitle>Ledger, Battalion D Descriptive Roll, </unittitle>
+                               <unitdate>1861</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">49</container>
+                               <unittitle>Ledger, Cash, </unittitle>
+                               <unitdate>1874</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">50</container>
+                               <unittitle>Ledger, Cash, </unittitle>
+                               <unitdate>1883</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">51</container>
+                               <unittitle>Roll Book, Company D, </unittitle>
+                               <unitdate>1865</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">52</container>
+                               <unittitle>Roll Book, Company D, </unittitle>
+                               <unitdate>1868</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">53</container>
+                               <unittitle>Roll Book, Company D, </unittitle>
+                               <unitdate>1872</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">54</container>
+                               <unittitle>Roll Book, Company F, </unittitle>
+                               <unitdate>1873</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">55</container>
+                               <unittitle>Roll Book, Company F, </unittitle>
+                               <unitdate>1887</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">56</container>
+                               <unittitle>Roll Book, Company F, </unittitle>
+                               <unitdate>1890</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">57</container>
+                               <unittitle>Roll Book, Company F, </unittitle>
+                               <unitdate>1900</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">58</container>
+                               <unittitle>Rule Book, Company A, </unittitle>
+                               <unitdate>1862</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">59</container>
+                               <unittitle>Sick Book, Company F, </unittitle>
+                               <unitdate>1885</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">60</container>
+                               <unittitle>Sick Book, Company F, </unittitle>
+                               <unitdate>1898</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">61</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1860-1869</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">62</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1874</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">63</container>
+                               <unittitle>Record Book, Company F, no entries, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">64</container>
+                               <unittitle>Record Book, Company F, no entries, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">65</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1880</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">66</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1886</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">67</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1895</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">68</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1903</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">69</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1913</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">70</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1867</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">71</container>
+                               <unittitle>Record Book, Company F, </unittitle>
+                               <unitdate>1897</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">72</container>
+                               <unittitle>Reports, Company F, Morning, </unittitle>
+                               <unitdate>1885</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">73</container>
+                               <unittitle>Reports, Company F, Morning, </unittitle>
+                               <unitdate>1890</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">74</container>
+                               <unittitle>Reports, Company F, Morning, </unittitle>
+                               <unitdate>1892</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">75</container>
+                               <unittitle>Reports, Target Practice, </unittitle>
+                               <unitdate>1878</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">76</container>
+                               <unittitle>Reports, Target Practice, </unittitle>
+                               <unitdate>1888</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">77</container>
+                               <unittitle>Military Tournament, </unittitle>
+                               <unitdate>1910</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">78</container>
+                               <unittitle>Company History, </unittitle>
+                               <unitdate>Various</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">79</container>
+                               <unittitle>Book of the National Guardsmen, Vol. 1, </unittitle>
+                               <unitdate>1877</unitdate>
+                           </did>
+                       </c02>
+                       <c02>
+                           <did>
+                               <container type="Item">80</container>
+                               <unittitle>Record of Pictures and Trophies, </unittitle>
+                               <unitdate>1884</unitdate>
+                           </did>
+                       </c02>
+              </c01>
+              <c01 level="series">
+                  <did>
+                      <unitid>Documents, Photographs and Artifact</unitid>
+                  </did>
+                  <c02 level="file">
+                      <did>
+                          <unittitle>Correspondence, </unittitle><unitdate>1884-1917</unitdate>
+                          <container type="Box">1</container>
+                      </did>
+                  </c02>
+                  <c02 level="file">
+                      <did>
+                          <unittitle>Miscellaneous documents, </unittitle><unitdate>1878-1927</unitdate>
+                          <container type="Box">2</container>
+                      </did>
+                  </c02>
+                  <c02 level="file">
+                      <did>
+                          <unittitle>Rolled photographs, </unittitle><unitdate>1914-1918</unitdate><note><p>Includes a number of photos of the Border Campaign into Mexico.</p></note>
+                          <container type="Box">3</container>
+                      </did>
+                  </c02>
+                  <c02 level="file">
+                      <did>
+                          <unittitle>Veteran City Guards metal storage box</unittitle>
+                          <container type="Box">4</container>
+                      </did>
+                  </c02>
+              </c01>
+                      
+          </dsc>
+    </archdesc>
+</ead>

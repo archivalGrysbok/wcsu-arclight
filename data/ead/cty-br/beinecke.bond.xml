@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.bond">beinecke.bond</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Marshall Bond Papers
+ </titleproper>
+            <titleproper type="filing">Bond (Marshall) Papers</titleproper>
+            <author>by Ellen Doon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>February 2000</date>
+            <num>WA MSS S-2358</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 23, 2019 at 03:35</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Marshall Bond papers</unittitle>
+         <unitid>WA MSS S-2358</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.21</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">7 boxes</physdesc>
+         
+            <unitdate type="inclusive" normal="1869/1976">1869-1976</unitdate>
+         
+         <abstract id="aspace_401a15efc72514ed48594c3dba3d20c2">The papers document the life, work, and adventures of Marshall Bond between 1897 and 1935, and also include a few papers of his father, Hiram G. Bond, and his son, Marshall Bond, Jr. Bond's Klondike experience is well documented by his diary from 1897-98, letters to his family, draft chapters of a memoir about his experiences, and photographs. The photographs include one of the dog who inspired Jack London's novel The Call of the Wild; several of the Bond family's California home, on which London based the setting for the beginning of the novel; and forty-five commercially produced photos of the Klondike region and Dawson by E. A. Hegg and other photographers.<lb/>The bulk of the collection is correspondence, which includes Bond's letters to his family from the Klondike, from Goldfield, Nevada in 1904, from Mexican villages under attack by Pancho Villa in 1918, and from hunting trips in Alaska in 1911 and Africa in 1927. It also includes his incoming and outgoing correspondence with business associates and friends, which documents mining ventures and other matters, including a plan to settle Boer refugees in Mexico. Bond's letters to Herbert H. White report intelligence about Germans in the American Southwest during World War I.<lb/>The correspondence includes one letter from Jack London to Marshall Bond, in which London confirms that the character "Buck" was indeed based on the Bonds' dog, and Judge Miller's house in the novel on Judge Bond's house in Santa Clara.<lb/>The collection also includes photographs taken in 1926 of surviving associates of Billy the Kid, a few World War I letters from the front, copies of newspaper articles by Bond, maps of the Yukon Territory, and a typescript of a book by Marshall Bond, Jr.</abstract>
+         <physdesc id="aspace_56ecaf25fbac576d9402ceecee8c0e43">Other Storage Formats: 2 broadside folders</physdesc>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/nr95001104"
+                      rules="aacr"
+                      source="naf">
+               Bond, Marshall, 1867-1941
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_a49749b26b38f90a4d5f08b28155e9ef">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Richard M. and Marshall Bond, Jr., 1952-1976</p>  
+      </acqinfo>
+      <userestrict id="aspace_60c236f646374f3454512bf217e3a4bb">
+         <head>Conditions Governing Use</head>
+         <p>The Marshall Bond Papers are the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_3a5c3ddfeb332286eac2f725d0f2d90a">
+         <head>Preferred Citation</head>
+         <p>Marshall Bond Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_4a8600afc91fdac5a387e85ce685497c">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>Restricted Fragile material in box 7 may be consulted only with permission of the appropriate curator. Preservation photocopies for reference use have been substituted in the main files.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_055d236bc82c769c9e88e39d58bea875">
+         <head>Processing Information</head>
+         <p>The letter from Jack London to Marshall Bond, 1903 Dec 17, and the photograph autographed by Jack London were formerly cataloged as part of the ZA Letter File.</p>  
+      </processinfo>
+      <bioghist id="aspace_33618796ab80e9e6ebf7556aa791068e">
+         <head>MARSHALL BOND</head>
+         <p>Marshall Bond (1867-1941) was born in Richmond, Virginia, the second son of Federal Judge Hiram G. Bond and Laura Higgins Bond. The family moved to Denver, Colorado in 1870, and therafter continued to relocate frequently to be near the Judge's mining investments and other business concerns. Marshall Bond attended St. Paul's School, in New Hampshire, and Yale College, graduating in 1888.</p>
+         <p>After college, he worked for his father's mining company in Seattle and formed a real estate partnership with Oliver H. P. La Farge. In July of 1897, Marshall Bond, his brother Louis Bond, La Farge, and Stanley Pearce left Seattle for the Klondike gold rush, settling in Dawson City, Northwest Territories for the winter of 1897-98. There, the Bond brothers befriended Jack London, who later based <title type="simple" render="italic">
+               The Call of the Wild
+            </title> on Louis Bond's dog Jack and used New Park, Judge Bond's home in Santa Clara, California, as the setting for the beginning of the novel.</p>
+         <p>Although his Klondike venture was not profitable, Bond continued to work in gold mining for most of his life, investing in claims independently and with various business partners, working as a special correspondent to several West coast newspapers from Goldfield, Nevada in 1904-05, and as a consultant to mining companies, including the Alvarado Mining and Milling Company in Chihuahua, Mexico, during a period of raids by Pancho Villa in 1918. His last mining interest was in the Mohave desert in the 1930s. At other times he worked as director of his father's companies and as a stockbroker, and seems to have served as a domestic intelligence agent during World War I. Other projects included an official visit to Mexico City in 1902 with Boer General W. D. Snyman to discuss the permanent relocation of Boer refugees to Mexico.</p>
+         <p>Bond was an avid adventurer and big game hunter. In addition to regular camping trips with friends and family, he went on at least two major hunting expeditions: one on the Stikine River in Alaska in 1911, the other an extended trip through Africa in 1927.</p>
+         <p>Marshall Bond married Amy Louise Burnett of Seattle. They had two children: Richard M. Bond, born in 1903, and Marshall Bond, Jr., born in 1908. Both sons are Yale graduates.</p>  
+      </bioghist>
+      <scopecontent id="aspace_23d402f29d967da14a590fddcc956814">
+         <head>Scope and Contents</head>
+         <p>The Marshall Bond Papers document the life of gold miner and adventurer Marshall Bond (1867-1941), and his family. The papers span the years 1869-1976, with the bulk falling between 1897 and 1935. The papers are organized into four series: <title type="simple" render="italic">
+               Correspondence
+            </title>, <title type="simple" render="italic">
+               Writings
+            </title>, <title type="simple" render="italic">
+               Other Papers
+            </title>, and <title type="simple" render="italic">
+               Photographs
+            </title>.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref12">Series I, <title type="simple" render="italic">
+                  Correspondence
+               </title> 
+            </ref>, is organized into two subseries: Family Correspondence and Other Correspondence. The first, Family Correspondence, contains letters to and from Bond family members. It is arranged chronologically, and consists chiefly of long, detailed letters from Marshall Bond to his parents, his wife, and his sons. The most extensive group are letters written from the Klondike in 1897-98. Other letters from Bond to his family document a brief trip to Manila in 1899; his trip to Mexico in 1902 with E. Reeve Merritt and Boer General W. D. Synman; his experiences in Goldfield, Nevada, during the mining boom there in 1904; the Pancho Villa attacks on villages in Chihuahua, Mexico in 1918; and his tour through Africa in 1927. Other family correspondence includes a letter to Bond from his father, letters from his nephew Marshall Bond regarding a mining venture, and letters from cousins, including two letters from a cousin serving at the front in France during World War I. Also included in this subseries is a letter to Marshall Bond, Jr., from his cousin Edward Bond, Louis Bond's son, which contains a transcription of a letter from Jack London to Louis Bond, and of London's inscription in Louis Bond's copy of <title type="simple" render="italic">
+               Call of the Wild
+            </title>.</p>
+         <p>Other Correspondence consists of letters written by non family members to Marshall Bond, Hiram G. Bond, Louis W. and Mary Bond, and Marshall Bond, Jr., as well as a few letters written to other parties. This subseries is arranged alphabetically under headings for each recipient. It consists chiefly of letters to Marshall Bond from business associates and friends, but also includes letters written to and on behalf of his father, Judge Hiram G. Bond, regarding a federal judgeship appointment in 1869, copies of letters from Mrs. Jack London to Louis and Mary Bond, and one letter to Marshall Bond, Jr., from his father's friend Osborne Beauclerk, Duke of St. Albans. Copies of Marshall Bond's outgoing correspondence can be found throughout this subseries, interfiled with incoming letters from each correspondent. The letters to Marshall Bond document his mining investments and consultant work, other business ventures, and the plan to settle the Boers in Mexico in 1902, as well as his friendships with classmates from Yale and St. Paul's, business partners and associates, adventurers such as Warburton Pike and Belmore Browne, and writer Jack London. There is one letter from Jack London to Marshall Bond in the collection, in which London confirms that "Buck" in <title type="simple" render="italic">
+               The Call of the Wild
+            </title> was indeed based on the Bonds' dog. The most substantial files in this subseries are those of Bond's correspondence with Richard M. Hurd, Oliver H. P. La Farge, George H. Mairs, Robert Rea, A. P. Rogers, and Lady Glover. Correspondence with Herbert H. White concerns Bond's role as an intelligence agent in an unnamed organization during World War I. Third party correspondence includes two letters from the Klondike in 1898 written by a man named Charlie, a typescript of a World War I letter from A. B. E. Cator, and copies of letters concerning Warburton Pike.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref110">Series II, <title type="simple" render="italic">
+                  Writings
+               </title> 
+            </ref>, includes Bond's diary from the Klondike in 1897-98 and draft chapters of an uncompleted book about his Klondike experience; clippings of newspaper articles he wrote about the gold rush in Goldfield, Nevada, and Idaho in 1902-5 and about Pancho Villa in 1918; and a typescript carbon of his diary from his hunting trip on the Stikine River in 1911. Other writings include a short story about Africa, which accompanies a letter and is stored with the letter in Series I, and pages of his diary documenting a 1926 trip with New Mexico Governor Miguel Otero to interview surviving associates of Billy the Kid in Lincoln County, New Mexico, which are in his photo album from that trip, in Series IV.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref145">Series III, <title type="simple" render="italic">
+                  Other Papers
+               </title> 
+            </ref>, includes a contract between Marshall Bond and L. W. Fox of Dawson City in 1897, witnessed by Jack London and Louis Bond; maps of the Yukon Territory and Alaska; a copy of a mine report; and an essay by Oliver H. P. La Farge about a camping trip he took with the Bonds. Also present is a bound typescript of a book by Marshall Bond, Jr., <title type="simple" render="italic">
+               Adventures with Peons, Princes and Tycoons
+            </title>, with photographs tipped in (this book was later published by Star Rover House, 1983).</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref155">Series IV, <title type="simple" render="italic">
+                  Photographs
+               </title> 
+            </ref>, contains one photograph of Marshall Bond in his undergraduate years at Yale; forty-five commercially produced photographs of Dawson City and the Klondike region, the majority of them by Eric A. Hegg, with a few by Larss and Duclos, one by Case and Draper, and one by M. Craig; two personal photographs of the Bonds' cabin in Dawson and its inhabitants, one of which includes the dog that inspired Jack London's <title type="simple" render="italic">
+               The Call of the Wild
+            </title>; photographs of Judge Bond and his wife Laura, Louis and Mary Bond and their children, and Marshall and Amy Bond with their son Richard in 1906 at New Park, the Judge's Santa Clara house on which London based the setting of the beginning of <title type="simple" render="italic">
+               The Call of the Wild
+            </title>, as well as photos of the interior and exterior of the house itself; a portrait of Marshall Bond with Boer General W. D. Snyman and E. Reeve Merritt taken in Mexico City during their official visit on behalf of Boer refugees in 1902; snapshots of the Goldfield, Nevada mines, miners, and the Bond family's cabin there in 1904; two photos of miners in Jarbridge, Nevada in 1910; and a studio portrait of Marshall Bond in middle-age.</p>
+         <p>There are also two photo albums in this series. One documents Bond's hunting trip on the Stikine River in Alaska in 1911, and includes photos of Warburton Pike, Lord Osborne Beauclerk (later Duke of St. Albans), and Bond's older son Richard. The other album documents a trip Bond took in 1926 with his son Marshall, New Mexico Governor Miguel Otero, and Mrs. Otero to interview surviving associates of Billy the Kid; it includes pictures of Frank and George Coe and their wives, Susan E. (McSween) Barber, and others. Also present are loose commercial reproductions of photos of Billy the Kid and other Wild West figures such as the James Gang.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            Afrikaners -- Mexico -- History
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85013955"
+                  source="lcsh">
+            Big game hunting
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh97000825"
+                  source="lcsh">
+            Gold mines and mining -- Alaska
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh89006136"
+                  source="lcsh">
+            Gold mines and mining -- Idaho
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh93002389"
+                  source="lcsh">
+            Gold mines and mining -- Mexico
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85055736"
+                  source="lcsh">
+            Gold mines and mining -- Nevada
+         </subject>
+         <subject source="local">
+            Gold mines and mining -- Yukon -- Klondike River Valley
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85085603"
+                  source="lcsh">
+            Miners
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2011005140"
+                  source="lcsh">
+            Silver mines and mining -- Mexico
+         </subject>
+         <subject source="local">
+            World War, 1914-1918 -- Intelligence service
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85001543"
+                   source="lcsh">
+            Africa -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85003144"
+                   source="lcsh">
+            Alaska -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Alaska -- Gold discoveries
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh2008114632"
+                   source="lcsh">
+            Chihuahua (Mexico : State) -- History
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n82258069"
+                   source="lcsh">
+            Dawson (Yukon)
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n82144166"
+                   source="lcsh">
+            Goldfield (Nev.)
+         </geogname>
+         <geogname source="local">
+            Klondike River Valley (Yukon) -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85072653"
+                   source="lcsh">
+            Klondike River Valley (Yukon) -- Gold discoveries
+         </geogname>
+         <geogname source="local">
+            Lincoln County (N.M.) -- History
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85084548"
+                   source="lcsh">
+            Mexico -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Mexico -- Foreign relations -- South Africa
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85084590"
+                   source="lcsh">
+            Mexico -- History -- Revolution, 1910-1920
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85125678"
+                   source="lcsh">
+            Southwest, New -- History -- 1848-
+         </geogname>
+         <geogname source="local">
+            Stikine River (B.C. and Alaska) -- Description and travel
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300027112" source="aat">
+            Diaries
+         </genreform>
+         <genreform source="local">
+            Gold rush diaries
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300028094" source="aat">
+            Maps (documents)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300026695" source="aat">
+            Photograph albums
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300127104" source="aat">
+            Photographic prints
+         </genreform>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79055264"
+                   source="naf">
+            Billy, the Kid, 1859-1881
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no2005106917"
+                   rules="aacr"
+                   source="naf">
+            Bond, Amy K.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84031447"
+                   rules="aacr"
+                   source="naf">
+            Bond, Hiram Gilbert, 1838-1906
+         </persname>
+         <persname rules="aacr" source="local">
+            Bond, Louis W.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr95001104"
+                   rules="aacr"
+                   source="naf">
+            Bond, Marshall, 1867-1941
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84031448"
+                   source="naf">
+            Bond, Marshall
+         </persname>
+         <persname source="local">
+            Bond, Marshall ( Adventures with peons, princes and tycoons)
+         </persname>
+         <persname source="local">
+            Bond, Richard M.
+         </persname>
+         <persname rules="aacr" source="local">
+            Brown, Belmore, 1880-1954
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83167076"
+                   rules="aacr"
+                   source="naf">
+            Carter, George Robert, 1866-1933
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n86071758"
+                   rules="aacr"
+                   source="naf">
+            Hegg, Eric A., 1867-1948
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87150277"
+                   rules="aacr"
+                   source="naf">
+            Hurd, Richard M. (Richard Melancthon), 1865-1941
+         </persname>
+         <persname rules="aacr" source="local">
+            La Farge, Oliver H. P.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr93013488"
+                   rules="aacr"
+                   source="naf">
+            Langford, George
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87887730"
+                   rules="aacr"
+                   source="naf">
+            London, Charmian, 1871-1955
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79125605"
+                   rules="aacr"
+                   source="naf">
+            London, Jack, 1876-1916 ( Call of the wild)
+         </persname>
+         <persname rules="aacr" source="local">
+            Mairs, George H.
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr99023166"
+                   source="naf">
+            Pike, Warburton, 1861-1915
+         </persname>
+         <persname source="local">
+            Pomeroy, Daniel Eleazer, 1868-1965
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no2009161544"
+                   rules="aacr"
+                   source="naf">
+            Rea, Robert
+         </persname>
+         <persname source="local">
+            Rives, A. L.
+         </persname>
+         <persname rules="aacr" source="local">
+            Rogers, Alexander P.
+         </persname>
+         <persname source="local">
+            Snyman, W. D.
+         </persname>
+         <persname source="local">
+            St. Albans, Osborne de Vere Beauclerk
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50014661"
+                   source="naf">
+            Train, Arthur, 1875-1945
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50013996"
+                   source="naf">
+            Villa, Pancho, 1878-1923
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88059241"
+                   rules="aacr"
+                   source="naf">
+            Waring, Guy, 1859?-1936
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n90698532"
+                   rules="aacr"
+                   source="naf">
+            White, Herbert
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.84</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(2 boxes)</physdesc>
+               <unitdate type="inclusive">1869-1962</unitdate>
+            </did>
+            <scopecontent id="aspace_9bcaaf6fad71362135818474851ee6b1">
+               <head>Scope and Contents</head>
+               <p>This series is organized into two subseries: Family Correspondence and Other Correspondence.</p>
+            </scopecontent>
+            <c id="ref14" level="subseries">
+               <did>
+                  <unittitle>FAMILY CORRESPONDENCE</unittitle>
+               </did>
+               <scopecontent id="aspace_d532dde276d8c6d6d09ec09e127e0d7f">
+                  <head>Scope and Contents</head>
+                  <p>This subseries is organized under two headings: Marshall Bond and Marshall Bond, Jr. It is arranged chronologically.</p>
+               </scopecontent>
+               <c id="ref15" level="subseries">
+                  <did>
+                     <unittitle>Marshall Bond</unittitle>
+                  </did>
+                  <c id="ref16" level="file">
+                     <did>
+                        <unittitle>MB to his parents and to his wife Amy Burnett Bond from the Klondike</unittitle>
+                        <unitdate type="inclusive">1897-98</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_376d09c6757c9ad2b114c762f3b142b7"
+                                   type="box">1</container>
+                        <container id="aspace_3f73d977d1f514527af187c74fa76fca"
+                                   type="folder"
+                                   parent="aspace_376d09c6757c9ad2b114c762f3b142b7">1</container>
+                     </did>
+                     <scopecontent id="aspace_167abd486cfad20c27a3b201a2168f9d">
+                        <head>Scope and Contents</head>
+                        <p>Typed carbon transcripts accompany some of the letters</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref18" level="file">
+                     <did>
+                        <unittitle>MB to ABB, from Manila</unittitle>
+                        <unitdate type="inclusive">1899 Oct 9</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_ded7b091b379f8f36f8a702a9bad8053"
+                                   type="box">1</container>
+                        <container id="aspace_f51f222779b7100c1d1e03c22a5758f8"
+                                   type="folder"
+                                   parent="aspace_ded7b091b379f8f36f8a702a9bad8053">2</container>
+                     </did>
+                  </c>
+                  <c id="ref19" level="file">
+                     <did>
+                        <unittitle>Hiram G. Bond to MB</unittitle>
+                        <unitdate type="inclusive">1901 Nov 17</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_0033b880fe79f0d55c2941df1ac36a09"
+                                   type="box">1</container>
+                        <container id="aspace_d5173f3d84a4dce6abd1bf751081189d"
+                                   type="folder"
+                                   parent="aspace_0033b880fe79f0d55c2941df1ac36a09">3</container>
+                     </did>
+                  </c>
+                  <c id="ref20" level="file">
+                     <did>
+                        <unittitle>MB to ABB from Idaho</unittitle>
+                        <unitdate type="inclusive">1902 Apr 5</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_da65c6272076931eece296fd7e450521"
+                                   type="box">1</container>
+                        <container id="aspace_862aa41435def23e3c7b2208e9cdf53b"
+                                   type="folder"
+                                   parent="aspace_da65c6272076931eece296fd7e450521">4</container>
+                     </did>
+                  </c>
+                  <c id="ref21" level="file">
+                     <did>
+                        <unittitle>MB to ABB from Mexico</unittitle>
+                        <unitdate type="inclusive">1902 Oct</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_96d24b823f58acca617e158a1e808d89"
+                                   type="box">1</container>
+                        <container id="aspace_7e206835382b0eb33482eabffecf24a0"
+                                   type="folder"
+                                   parent="aspace_96d24b823f58acca617e158a1e808d89">5</container>
+                     </did>
+                  </c>
+                  <c id="ref22" level="file">
+                     <did>
+                        <unittitle>MB to ABB from Goldfield, Nevada</unittitle>
+                        <unitdate type="inclusive">1904 Aug 17</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_401b63fdbdfca4984fddea27b9f9ca5e"
+                                   type="box">1</container>
+                        <container id="aspace_34eea9a815b3c4d04a8b28b77eeac0e9"
+                                   type="folder"
+                                   parent="aspace_401b63fdbdfca4984fddea27b9f9ca5e">6</container>
+                     </did>
+                  </c>
+                  <c id="ref23" level="file">
+                     <did>
+                        <unittitle>Esther Gardner [cousin] to MB</unittitle>
+                        <unitdate type="inclusive">[1905?] Apr 13</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_015481e1fbe2c16e553d55ef783d1dc6"
+                                   type="box">1</container>
+                        <container id="aspace_97d1d098f779a7737fc2e47b7b9d8979"
+                                   type="folder"
+                                   parent="aspace_015481e1fbe2c16e553d55ef783d1dc6">7</container>
+                     </did>
+                  </c>
+                  <c id="ref24" level="file">
+                     <did>
+                        <unittitle>MB to ABB from Dease Lake, B.C. (photocopy)</unittitle>
+                        <unitdate type="inclusive">1911 Aug 22</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_1dfb6c4d397fc38bf5dd85d919f74b88"
+                                   type="box">1</container>
+                        <container id="aspace_2987e33fa329c35604e9c55890c64998"
+                                   type="folder"
+                                   parent="aspace_1dfb6c4d397fc38bf5dd85d919f74b88">8</container>
+                     </did>
+                  </c>
+                  <c id="ref25" level="file">
+                     <did>
+                        <unittitle>MB to ABB and sons from Mexico, regarding Pancho Villa</unittitle>
+                        <unitdate type="inclusive">1918 Sep</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_b6f33692db1a3a5570d86e0a4ff5624b"
+                                   type="box">1</container>
+                        <container id="aspace_ecd4e6731212ce27d1e6ab884fa8fdb6"
+                                   type="folder"
+                                   parent="aspace_b6f33692db1a3a5570d86e0a4ff5624b">9</container>
+                     </did>
+                     <scopecontent id="aspace_1e328abaac2aabf21fc218b659a5fdb1">
+                        <head>Scope and Contents</head>
+                        <p>Letter of Sep 25 encloses a photograph of Villa, Trilla, and Morales</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref27" level="file">
+                     <did>
+                        <unittitle>Parton Swift [cousin] to MB, 2 ALS from France, with photograph and postcard</unittitle>
+                        <unitdate type="inclusive">1918 Nov</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_f2b3a0189db7dc1b1762cf55e3cbf59a"
+                                   type="box">1</container>
+                        <container id="aspace_55293d523738f05d7a0c4c27ae043653"
+                                   type="folder"
+                                   parent="aspace_f2b3a0189db7dc1b1762cf55e3cbf59a">10</container>
+                     </did>
+                  </c>
+                  <c id="ref28" level="file">
+                     <did>
+                        <unittitle>MB to ABB and sons, TLS, and 2 carbon copies of typed letters to son Dick</unittitle>
+                        <unitdate type="inclusive">1919-24</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_25a34a59a9aac2399b61756fa282edb0"
+                                   type="box">1</container>
+                        <container id="aspace_e285e86930f04c3e9421cc757de81576"
+                                   type="folder"
+                                   parent="aspace_25a34a59a9aac2399b61756fa282edb0">11</container>
+                     </did>
+                  </c>
+                  <c id="ref29" level="file">
+                     <did>
+                        <unittitle>MB to ABB and MB Jr. from Africa</unittitle>
+                        <unitdate type="inclusive">1927</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_9a7df7a2bcdc7c3d922dc3fd28f222e9"
+                                   type="box">1</container>
+                        <container id="aspace_12ba2054c16452b4b57c624fca764f3b"
+                                   type="folder"
+                                   parent="aspace_9a7df7a2bcdc7c3d922dc3fd28f222e9">12</container>
+                     </did>
+                     <scopecontent id="aspace_7601d72cbdbc71ffef5900f2c531698b">
+                        <head>Scope and Contents</head>
+                        <p>Letter of Apr 28 encloses typescript carbon of story by MB, "Bmali of the Lurio"</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref31" level="file">
+                     <did>
+                        <unittitle>MB to ABB from New York City</unittitle>
+                        <unitdate type="inclusive">1930 Jul 12</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_a557a1a9edec5c6728025347ff1d76ca"
+                                   type="box">1</container>
+                        <container id="aspace_08fffc59942cb367aedf224303e83331"
+                                   type="folder"
+                                   parent="aspace_a557a1a9edec5c6728025347ff1d76ca">13</container>
+                     </did>
+                  </c>
+                  <c id="ref32" level="file">
+                     <did>
+                        <unittitle>MB correspondence with Marshall Bond, Esq. [nephew]</unittitle>
+                        <unitdate type="inclusive">1934</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_3deebba8500f6f8f8cc5567640c967cc"
+                                   type="box">1</container>
+                        <container id="aspace_9490320be298b7d953597c82357ba7f9"
+                                   type="folder"
+                                   parent="aspace_3deebba8500f6f8f8cc5567640c967cc">14</container>
+                     </did>
+                  </c>
+                  <c id="ref33" level="file">
+                     <did>
+                        <unittitle>MB to MB, Jr.</unittitle>
+                        <unitdate type="inclusive">1934-36</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_883663938042b898e4ec3047ff6f0574"
+                                   type="box">1</container>
+                        <container id="aspace_66e591ae13accbdb4dd4a42094d3fa5e"
+                                   type="folder"
+                                   parent="aspace_883663938042b898e4ec3047ff6f0574">15</container>
+                     </did>
+                  </c>
+                  <c id="ref34" level="file">
+                     <did>
+                        <unittitle>Parton Swift to MB</unittitle>
+                        <unitdate type="inclusive">1935 Aug 30</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_16c8de8cb207cdba0c8a559db6173644"
+                                   type="box">1</container>
+                        <container id="aspace_433f9b929aa45139ea23da7d98f4ae7c"
+                                   type="folder"
+                                   parent="aspace_16c8de8cb207cdba0c8a559db6173644">16</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref35" level="subseries">
+                  <did>
+                     <unittitle>Marshall Bond, Jr.</unittitle>
+                  </did>
+                  <c id="ref36" level="file">
+                     <did>
+                        <unittitle>Edward L. Bond to MB Jr., containing transcript of Jack London letter and inscription to Louis W. Bond, 1907-08</unittitle>
+                        <unitdate type="inclusive">1962 Nov 3</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_cef28f15ca798ca6f5c401218575c9ff"
+                                   type="box">1</container>
+                        <container id="aspace_38bffe6adbd0e544ac02a52af90b2a1c"
+                                   type="folder"
+                                   parent="aspace_cef28f15ca798ca6f5c401218575c9ff">17</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c id="ref38" level="subseries">
+               <did>
+                  <unittitle>OTHER CORRESPONDENCE</unittitle>
+               </did>
+               <scopecontent id="aspace_0290160dd5ecfec40837af953e757ebc">
+                  <head>Scope and Contents</head>
+                  <p>This subseries is organized under five headings: Hiram G. Bond, Louis W. and Mary Bond, Marshall Bond, Marshall Bond, Jr., and Third Party Correspondence. The headings and the correspondence under each are arranged alphabetically. Copies of Marshall Bond's outgoing correspondence can be found throughout.</p>
+               </scopecontent>
+               <c id="ref39" level="subseries">
+                  <did>
+                     <unittitle>Hiram G. Bond</unittitle>
+                  </did>
+                  <c id="ref40" level="file">
+                     <did>
+                        <unittitle>Rives, Alexander to HGB</unittitle>
+                        <unitdate type="inclusive">1869 Mar 26</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_ec2c5c9f7ba2915364c7b808a6c5263a"
+                                   type="box">1</container>
+                        <container id="aspace_d43a6199d618c7caf042dde600cbbdc7"
+                                   type="folder"
+                                   parent="aspace_ec2c5c9f7ba2915364c7b808a6c5263a">18</container>
+                     </did>
+                  </c>
+                  <c id="ref41" level="file">
+                     <did>
+                        <unittitle>Letters of recommendation for U. S. Circuit Judgeship in Richmond, Virginia</unittitle>
+                        <unitdate type="inclusive">1869 Apr-Aug</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_a125a92ba4e3ba0f00ad320d15e27662"
+                                   type="box">1</container>
+                        <container id="aspace_021719015d79f09d0e98602c7fffacc9"
+                                   type="folder"
+                                   parent="aspace_a125a92ba4e3ba0f00ad320d15e27662">19</container>
+                     </did>
+                     <scopecontent id="aspace_47ae31752fe0c50051420a770431fd32">
+                        <head>Scope and Contents</head>
+                        <p>To President Grant from various colleagues; to Major General Canby from Alex Rives and H. H. Wells</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref43" level="subseries">
+                  <did>
+                     <unittitle>Louis W. and Mary Bond</unittitle>
+                  </did>
+                  <c id="ref44" level="file">
+                     <did>
+                        <unittitle>London, Charmian Kittredge [Mrs. Jack London], photocopies of three letters</unittitle>
+                        <unitdate type="inclusive">1907</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_8371278bc55e5533cd8caf0c2f6ea655"
+                                   type="box">1</container>
+                        <container id="aspace_dfce05a312821eee489c6d6e6c251330"
+                                   type="folder"
+                                   parent="aspace_8371278bc55e5533cd8caf0c2f6ea655">20</container>
+                     </did>
+                  </c>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>London, Jack [transcription]</unittitle>
+                        <unitdate type="inclusive">1907-08</unitdate>
+                     </did>
+                     <relatedmaterial id="aspace_ba2e76ce192d941995e003364c8648ff">
+                        <head>Related Archival Materials note</head>
+                        <p>
+                           <ref xlink:actuate="onRequest" xlink:show="replace" target="ref36">See: box 1, folder 17</ref>
+                        </p>
+                     </relatedmaterial>
+                  </c>
+               </c>
+               <c id="ref47" level="subseries">
+                  <did>
+                     <unittitle>Marshall Bond</unittitle>
+                  </did>
+                  <c id="ref48" level="file">
+                     <did>
+                        <unittitle>American Engineering and Operating Company (Alvarado Mining and Milling), George Millar and A. W. Morris</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_a72729efa5d70d0bbfe66d1c22614e65"
+                                   type="box">1</container>
+                        <container id="aspace_f64ebf9fa08d3cc6394c85d95a47dadb"
+                                   type="folder"
+                                   parent="aspace_a72729efa5d70d0bbfe66d1c22614e65">21</container>
+                     </did>
+                  </c>
+                  <c id="ref49" level="file">
+                     <did>
+                        <unittitle>Beauclerk, Osborne [Duke of St. Albans] (photocopy)</unittitle>
+                        <unitdate type="inclusive">1915-20</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_974f943ed4cab4617767d0a56734ecd8"
+                                   type="box">1</container>
+                        <container id="aspace_2a125e95baba92a0faed193fb48c0f84"
+                                   type="folder"
+                                   parent="aspace_974f943ed4cab4617767d0a56734ecd8">22</container>
+                     </did>
+                  </c>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>Boone and Crockett Club, signed Kermit Roosevelt</unittitle>
+                        <unitdate type="inclusive">1923-36</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_4a0db57ba72ee82e1fa2cedd195a958c"
+                                   type="box">1</container>
+                        <container id="aspace_a31df0291aa07a8d100767315a5ad114"
+                                   type="folder"
+                                   parent="aspace_4a0db57ba72ee82e1fa2cedd195a958c">23</container>
+                     </did>
+                  </c>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>Browne, Belmore</unittitle>
+                        <unitdate type="inclusive">[1924]</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_6a72833b6e16591669c6f798e747616f"
+                                   type="box">1</container>
+                        <container id="aspace_a4dbcd57abe797740ecbe5158526acd1"
+                                   type="folder"
+                                   parent="aspace_6a72833b6e16591669c6f798e747616f">24</container>
+                     </did>
+                  </c>
+                  <c id="ref52" level="file">
+                     <did>
+                        <unittitle>Bronimann, Emilio</unittitle>
+                        <unitdate type="inclusive">1919 Nov 8</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_85e7545c04239bc1129e782061a31697"
+                                   type="box">1</container>
+                        <container id="aspace_db70a42beab738855a5164d18e29fdae"
+                                   type="folder"
+                                   parent="aspace_85e7545c04239bc1129e782061a31697">25</container>
+                     </did>
+                  </c>
+                  <c id="ref53" level="file">
+                     <did>
+                        <unittitle>Canada Geological Survey</unittitle>
+                        <unitdate type="inclusive">1923 Jul 17</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_9a6fb38a9e050ec77644c999c3650b7c"
+                                   type="box">1</container>
+                        <container id="aspace_ef03b33fbfd82cc50145dd118fe483a0"
+                                   type="folder"
+                                   parent="aspace_9a6fb38a9e050ec77644c999c3650b7c">26</container>
+                     </did>
+                  </c>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>Carrell, William A.</unittitle>
+                        <unitdate type="inclusive">1929-30</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_4c28236528dceb429e396cda84d7c2fc"
+                                   type="box">1</container>
+                        <container id="aspace_d78a68fc30bae4ec4e3731175ad50440"
+                                   type="folder"
+                                   parent="aspace_4c28236528dceb429e396cda84d7c2fc">27</container>
+                     </did>
+                  </c>
+                  <c id="ref55" level="file">
+                     <did>
+                        <unittitle>Carter, George R.</unittitle>
+                        <unitdate type="inclusive">1917-23</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_5f32711e1795f4685e3625167a09ef8d"
+                                   type="box">1</container>
+                        <container id="aspace_63a3313450900d96c2a6dde7e5f069a5"
+                                   type="folder"
+                                   parent="aspace_5f32711e1795f4685e3625167a09ef8d">28</container>
+                     </did>
+                  </c>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>Duane, William North, copy of outgoing letter only</unittitle>
+                        <unitdate type="inclusive">1926 Jan 30</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_c9782e4fcfa2e467e7daa0f632026cef"
+                                   type="box">1</container>
+                        <container id="aspace_176561fce0d717af14d56a352e50231a"
+                                   type="folder"
+                                   parent="aspace_c9782e4fcfa2e467e7daa0f632026cef">29</container>
+                     </did>
+                  </c>
+                  <c id="ref57" level="file">
+                     <did>
+                        <unittitle>F general</unittitle>
+                        <unitdate type="inclusive">1923-34</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_ffc2d580d8acc48265135233b2584320"
+                                   type="box">1</container>
+                        <container id="aspace_7b5a89fc5f3d98df7e2352d61bf9c5f2"
+                                   type="folder"
+                                   parent="aspace_ffc2d580d8acc48265135233b2584320">30</container>
+                     </did>
+                  </c>
+                  <c id="ref58" level="file">
+                     <did>
+                        <unittitle>Glover, Lady</unittitle>
+                        <unitdate type="inclusive">1915-21</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_d46e14da1f527d440277e1a6093fdb40"
+                                   type="box">1</container>
+                        <container id="aspace_18c3dbffa1fa55789793ad9813eedc5a"
+                                   type="folder"
+                                   parent="aspace_d46e14da1f527d440277e1a6093fdb40">31</container>
+                     </did>
+                     <scopecontent id="aspace_6aa05f8d4d3ed1e028109da27105a55e">
+                        <head>Scope and Contents</head>
+                        <p>Letter of 1916 Mar 9 encloses clipping "Women and Farm Work: Object Lesson from France"</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>H general</unittitle>
+                        <unitdate type="inclusive">1914-22</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_003f8cf3abbdc6485a9dfbc32e7ced27"
+                                   type="box">1</container>
+                        <container id="aspace_6a813b488acc81f59346341a218a415c"
+                                   type="folder"
+                                   parent="aspace_003f8cf3abbdc6485a9dfbc32e7ced27">32</container>
+                     </did>
+                  </c>
+                  <c id="ref61" level="file">
+                     <did>
+                        <unittitle>Herter, Adele</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_868443e6fe70d4f2031553cebb9b35e5"
+                                   type="box">1</container>
+                        <container id="aspace_7b6a2dba552563d2f56ef1f2eb057d84"
+                                   type="folder"
+                                   parent="aspace_868443e6fe70d4f2031553cebb9b35e5">33</container>
+                     </did>
+                  </c>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>Hunt, Leigh</unittitle>
+                        <unitdate type="inclusive">1921-23</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_4b19c3d8f01a0d327625fb70c8c48a8d"
+                                   type="box">1</container>
+                        <container id="aspace_26138db65b7d019a72a5710523de7347"
+                                   type="folder"
+                                   parent="aspace_4b19c3d8f01a0d327625fb70c8c48a8d">34</container>
+                     </did>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>Hurd, Richard M.</unittitle>
+                        <unitdate type="inclusive">1916-35</unitdate>
+                        <container label="Mixed Materials (39002091347279)"
+                                   id="aspace_c1ae062f3a867909bf039f20fa1c5d07"
+                                   type="box">1</container>
+                        <container id="aspace_62bcfdfab85056d3bdcd14b8f538b54d"
+                                   type="folder"
+                                   parent="aspace_c1ae062f3a867909bf039f20fa1c5d07">35</container>
+                     </did>
+                  </c>
+                  <c id="ref64" level="file">
+                     <did>
+                        <unittitle>Kelleher, Daniel and Elise</unittitle>
+                        <unitdate type="inclusive">1920</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_ce7789503782af950fd21c27f5583629"
+                                   type="box">2</container>
+                        <container id="aspace_a268903e05c88ae6c34a7ce3c86d6f4d"
+                                   type="folder"
+                                   parent="aspace_ce7789503782af950fd21c27f5583629">36</container>
+                     </did>
+                  </c>
+                  <c id="ref65" level="file">
+                     <did>
+                        <unittitle>La Farge, Oliver H. P.</unittitle>
+                        <unitdate type="inclusive">1919-26</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_6e9ccf907ca03a56dc5e9ffb437efd21"
+                                   type="box">2</container>
+                        <container id="aspace_2916b2fd92d5fddf5fb55b38573a454b"
+                                   type="folder"
+                                   parent="aspace_6e9ccf907ca03a56dc5e9ffb437efd21">37</container>
+                     </did>
+                  </c>
+                  <c id="ref66" level="file">
+                     <did>
+                        <unittitle>Langford, George</unittitle>
+                        <unitdate type="inclusive">1923</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_1a3406c785c1ca444a802a051516e20b"
+                                   type="box">2</container>
+                        <container id="aspace_0b372b881ec019cdb1f8737476693560"
+                                   type="folder"
+                                   parent="aspace_1a3406c785c1ca444a802a051516e20b">38</container>
+                     </did>
+                     <scopecontent id="aspace_e7edddcaffb1f8fcfa87415afdfb0573">
+                        <head>Scope and Contents</head>
+                        <p>With carbon copy of letter from Franklin Wheaton Smith to Langford</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref68" level="file">
+                     <did>
+                        <unittitle>Lavell Gold Mining Company</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_5771127fc70f7240d60fe012a053c474"
+                                   type="box">2</container>
+                        <container id="aspace_73f75c789e6453a72097ef67353efb69"
+                                   type="folder"
+                                   parent="aspace_5771127fc70f7240d60fe012a053c474">39</container>
+                     </did>
+                  </c>
+                  <c id="ref69" level="file">
+                     <did>
+                        <unittitle>Little, Brown, and Co.</unittitle>
+                        <unitdate type="inclusive">1934 Oct 24</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_e630342bc1938304df09222a970b1199"
+                                   type="box">2</container>
+                        <container id="aspace_e92e1f743e77b01851180c47b02d0978"
+                                   type="folder"
+                                   parent="aspace_e630342bc1938304df09222a970b1199">40</container>
+                     </did>
+                  </c>
+                  <c id="ref70" level="file">
+                     <did>
+                        <unittitle>London, Jack</unittitle>
+                        <unitdate type="inclusive">1903 Dec 17</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_105459c6a638fdbb4db90a08c84585ea"
+                                   type="box">2</container>
+                        <container id="aspace_1faea40bd912398f330d533fe4fb1170"
+                                   type="folder"
+                                   parent="aspace_105459c6a638fdbb4db90a08c84585ea">40a</container>
+                     </did>
+                  </c>
+                  <c id="ref71" level="file">
+                     <did>
+                        <unittitle>Mairs, George H.</unittitle>
+                        <unitdate type="inclusive">1914-26</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_b734977074ba4f72d8fe84014be7c83b"
+                                   type="box">2</container>
+                        <container id="aspace_6cd4590e4388c4e231ce28b97d6eaebf"
+                                   type="folder"
+                                   parent="aspace_b734977074ba4f72d8fe84014be7c83b">41</container>
+                     </did>
+                  </c>
+                  <c id="ref72" level="file">
+                     <did>
+                        <unittitle>Marston, Fred</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_ee5b88aea04903d5ba101302f0b0bbf8"
+                                   type="box">2</container>
+                        <container id="aspace_a5f4c65df2c55a59b3fc765c2b57e791"
+                                   type="folder"
+                                   parent="aspace_ee5b88aea04903d5ba101302f0b0bbf8">42</container>
+                     </did>
+                  </c>
+                  <c id="ref73" level="file">
+                     <did>
+                        <unittitle>Merritt, Reeve</unittitle>
+                        <unitdate type="inclusive">1921</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_50a615010643a6b4488f59794ad31c0f"
+                                   type="box">2</container>
+                        <container id="aspace_308682b3164c4ca688116b9ec7203763"
+                                   type="folder"
+                                   parent="aspace_50a615010643a6b4488f59794ad31c0f">43</container>
+                     </did>
+                  </c>
+                  <c id="ref74" level="file">
+                     <did>
+                        <unittitle>Nora, copy of outgoing only, regarding Joseph Grafton Minot</unittitle>
+                        <unitdate type="inclusive">1939 Jun 22</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_9c1f597b92681649a6740a65ec118cf1"
+                                   type="box">2</container>
+                        <container id="aspace_7db3d933c1487859b9eea870e1774528"
+                                   type="folder"
+                                   parent="aspace_9c1f597b92681649a6740a65ec118cf1">44</container>
+                     </did>
+                  </c>
+                  <c id="ref75" level="file">
+                     <did>
+                        <unittitle>P general</unittitle>
+                        <unitdate type="inclusive">1918-34</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_8dff1c5795b6e8d974050f4413931d02"
+                                   type="box">2</container>
+                        <container id="aspace_dfd0f973ded4c3eb0a760722d2761956"
+                                   type="folder"
+                                   parent="aspace_8dff1c5795b6e8d974050f4413931d02">45</container>
+                     </did>
+                  </c>
+                  <c id="ref76" level="file">
+                     <did>
+                        <unittitle>Penton, John A.</unittitle>
+                        <unitdate type="inclusive">1934</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_a49b46158ad335a3b645010285f93d71"
+                                   type="box">2</container>
+                        <container id="aspace_a3f2f336fe9dba7af867330eb80236c9"
+                                   type="folder"
+                                   parent="aspace_a49b46158ad335a3b645010285f93d71">46</container>
+                     </did>
+                     <scopecontent id="aspace_7edabee7e7db57de239e350b0a84405e">
+                        <head>Scope and Contents</head>
+                        <p>With copies of three reports to Penton from E. C. Barringer</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref78" level="file">
+                     <did>
+                        <unittitle>Pike, Warburton and Marmaduke, with obituaries of Warburton Pike (photocopies)</unittitle>
+                        <unitdate type="inclusive">1912-15</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_85ed06699be4523f59b6043708df65b9"
+                                   type="box">2</container>
+                        <container id="aspace_7967f2693c0fd02916748b8b7411bf92"
+                                   type="folder"
+                                   parent="aspace_85ed06699be4523f59b6043708df65b9">47</container>
+                     </did>
+                  </c>
+                  <c id="ref79" level="file">
+                     <did>
+                        <unittitle>Pomeroy, Daniel E.</unittitle>
+                        <unitdate type="inclusive">1921 Apr</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_e964d15bbcdf6e0e574686e05d2e15b8"
+                                   type="box">2</container>
+                        <container id="aspace_505d1b4344529c7d7f5b019c4627c298"
+                                   type="folder"
+                                   parent="aspace_e964d15bbcdf6e0e574686e05d2e15b8">48</container>
+                     </did>
+                  </c>
+                  <c id="ref80" level="file">
+                     <did>
+                        <unittitle>Ratibor, Egon</unittitle>
+                        <unitdate type="inclusive">1916</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_3cd9db7ee427284062225378713a5a15"
+                                   type="box">2</container>
+                        <container id="aspace_79bc5e52f8518129a113744be2912e91"
+                                   type="folder"
+                                   parent="aspace_3cd9db7ee427284062225378713a5a15">49</container>
+                     </did>
+                  </c>
+                  <c id="ref81" level="file">
+                     <did>
+                        <unittitle>Rea, Robert</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_5c959a27d0978a3cad5a3597ac029159"
+                                   type="box">2</container>
+                        <container id="aspace_54ac01489f4c6303e021c6bbddd8178c"
+                                   type="folder"
+                                   parent="aspace_5c959a27d0978a3cad5a3597ac029159">50</container>
+                     </did>
+                  </c>
+                  <c id="ref82" level="file">
+                     <did>
+                        <unittitle>Richards, W. P.</unittitle>
+                        <unitdate type="inclusive">1919-20</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_3a9b0e50fa5d98fdc4c5882af96a1108"
+                                   type="box">2</container>
+                        <container id="aspace_f9506f5b689eb58e582272a8720f5e27"
+                                   type="folder"
+                                   parent="aspace_3a9b0e50fa5d98fdc4c5882af96a1108">51</container>
+                     </did>
+                  </c>
+                  <c id="ref83" level="file">
+                     <did>
+                        <unittitle>Ripley, Thomas E.</unittitle>
+                        <unitdate type="inclusive">1933-34</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_b7c2b6f7cf51ed875b1084ed26ad009e"
+                                   type="box">2</container>
+                        <container id="aspace_305bc90d6086821ff825aac15c249485"
+                                   type="folder"
+                                   parent="aspace_b7c2b6f7cf51ed875b1084ed26ad009e">52</container>
+                     </did>
+                  </c>
+                  <c id="ref84" level="file">
+                     <did>
+                        <unittitle>Rogers, Alexander P.</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_7f1032fe36bc5351053da206ae679221"
+                                   type="box">2</container>
+                        <container id="aspace_4acc0d85d2b9919fc15d625006b2f8b9"
+                                   type="folder"
+                                   parent="aspace_7f1032fe36bc5351053da206ae679221">53</container>
+                     </did>
+                  </c>
+                  <c id="ref85" level="file">
+                     <did>
+                        <unittitle>S general</unittitle>
+                        <unitdate type="inclusive">1919-33</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_ecfffc8d46dedc74b7e18c0221090e7e"
+                                   type="box">2</container>
+                        <container id="aspace_70f015b0e9376c2bcd54e8e1e4d60a19"
+                                   type="folder"
+                                   parent="aspace_ecfffc8d46dedc74b7e18c0221090e7e">54</container>
+                     </did>
+                  </c>
+                  <c id="ref86" level="file">
+                     <did>
+                        <unittitle>Scarborough, O. C.</unittitle>
+                        <unitdate type="inclusive">1919</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_c4cbf6e0fd1cc996cc363b4041143c8a"
+                                   type="box">2</container>
+                        <container id="aspace_6b948c6dd4d4cc79ca65730f737eafc2"
+                                   type="folder"
+                                   parent="aspace_c4cbf6e0fd1cc996cc363b4041143c8a">55</container>
+                     </did>
+                  </c>
+                  <c id="ref87" level="file">
+                     <did>
+                        <unittitle>Smith, Franklin Wheaton</unittitle>
+                        <unitdate type="inclusive">1920-35</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_e6d5ecc5cc7074e067b41b22aae92a0d"
+                                   type="box">2</container>
+                        <container id="aspace_0bce7fec155e54cccd780ba0fddb652a"
+                                   type="folder"
+                                   parent="aspace_e6d5ecc5cc7074e067b41b22aae92a0d">56</container>
+                     </did>
+                  </c>
+                  <c id="ref88" level="file">
+                     <did>
+                        <unittitle>Snyman, W. D. and Hardus</unittitle>
+                        <unitdate type="inclusive">1915-16</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_7825a6eadaa972738bedfbf81301cefd"
+                                   type="box">2</container>
+                        <container id="aspace_98bad74119b56062eab1092bf8ab43db"
+                                   type="folder"
+                                   parent="aspace_7825a6eadaa972738bedfbf81301cefd">57</container>
+                     </did>
+                     <scopecontent id="aspace_64f2e66c89bd99e5570a0e6fba97fb10">
+                        <head>Scope and Contents</head>
+                        <p>With telegram from Frank L. Peckham informing MB of General Snyman's death</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref90" level="file">
+                     <did>
+                        <unittitle>Somers [or Somerwell?], from Italy</unittitle>
+                        <unitdate type="inclusive">1934-38</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_a46f80e1eefcac18b99f19585052328f"
+                                   type="box">2</container>
+                        <container id="aspace_bc8e8a515fe43e48eb96bb87790d3bac"
+                                   type="folder"
+                                   parent="aspace_a46f80e1eefcac18b99f19585052328f">58</container>
+                     </did>
+                  </c>
+                  <c id="ref91" level="file">
+                     <did>
+                        <unittitle>Townsend, Mary [Mrs. George]</unittitle>
+                        <unitdate type="inclusive">n.y. Aug 4</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_b0a09860ce4a6f24e66344354bca8c35"
+                                   type="box">2</container>
+                        <container id="aspace_d17c4ac20247255ef1402ce316cf1dd0"
+                                   type="folder"
+                                   parent="aspace_b0a09860ce4a6f24e66344354bca8c35">59</container>
+                     </did>
+                  </c>
+                  <c id="ref92" level="file">
+                     <did>
+                        <unittitle>Train, Arthur Cheney</unittitle>
+                        <unitdate type="inclusive">1922-27</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_fdae970cffc3362cd00ccdc228775d05"
+                                   type="box">2</container>
+                        <container id="aspace_5537d0b20a8d2c918b81fe97b27541d0"
+                                   type="folder"
+                                   parent="aspace_fdae970cffc3362cd00ccdc228775d05">60</container>
+                     </did>
+                  </c>
+                  <c id="ref93" level="file">
+                     <did>
+                        <unittitle>Warburg, James P.</unittitle>
+                        <unitdate type="inclusive">1934 Oct 1</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_36b80ea3c888336d341b4b8828b69004"
+                                   type="box">2</container>
+                        <container id="aspace_0ef42e552e00363d21bdd569560967a6"
+                                   type="folder"
+                                   parent="aspace_36b80ea3c888336d341b4b8828b69004">61</container>
+                     </did>
+                  </c>
+                  <c id="ref94" level="file">
+                     <did>
+                        <unittitle>Waring, Guy</unittitle>
+                        <unitdate type="inclusive">1922-23</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_de11be196037f41b5f12cf16ec135951"
+                                   type="box">2</container>
+                        <container id="aspace_adcdc8c428209fdf56a3e82a41fd26d6"
+                                   type="folder"
+                                   parent="aspace_de11be196037f41b5f12cf16ec135951">62</container>
+                     </did>
+                     <scopecontent id="aspace_405b05b9d4ffeb43ce25377332eb042f">
+                        <head>Scope and Contents</head>
+                        <p>One letter is written on the verso of a letter from La Farge to Waring</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref96" level="file">
+                     <did>
+                        <unittitle>White, Herbert H.</unittitle>
+                        <unitdate type="inclusive">1917-18</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_3f8056b56837b7d67ae91a831e739ad9"
+                                   type="box">2</container>
+                        <container id="aspace_514d1a143101522bc5553aa719ad637d"
+                                   type="folder"
+                                   parent="aspace_3f8056b56837b7d67ae91a831e739ad9">63</container>
+                     </did>
+                     <altformavail id="aspace_3da4c0120d119562b5b0376fb3a43cae">
+                        <head>Existence and Location of Copies</head>
+                        <p>Preservation photocopies provided for fragile originals; digital versions also available for the items linked above.</p>
+                     </altformavail>
+                  </c>
+                  <c id="ref98" level="file">
+                     <did>
+                        <unittitle>Wodehouse, Norman</unittitle>
+                        <unitdate type="inclusive">1921-22</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_e31ecc6a5600026d647f384f0bbe429f"
+                                   type="box">2</container>
+                        <container id="aspace_f29c56ee2288c005eb3ac0748b842e22"
+                                   type="folder"
+                                   parent="aspace_e31ecc6a5600026d647f384f0bbe429f">64</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref99" level="subseries">
+                  <did>
+                     <unittitle>Marshall Bond, Jr.</unittitle>
+                  </did>
+                  <c id="ref100" level="file">
+                     <did>
+                        <unittitle>Beauclerk, Osborne [Duke of St. Albans]</unittitle>
+                        <unitdate type="inclusive">1954 Aug 7</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_df205f3874121082ba9934375d68ed4e"
+                                   type="box">2</container>
+                        <container id="aspace_38bc2140cddbb392a21b0250ca57f358"
+                                   type="folder"
+                                   parent="aspace_df205f3874121082ba9934375d68ed4e">65</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref101" level="subseries">
+                  <did>
+                     <unittitle>Third Party Correspondence</unittitle>
+                  </did>
+                  <c id="ref102" level="file">
+                     <did>
+                        <unittitle>Beauclerk, Osborne [Duke of St. Albans] to C. Karl Coudenhove, regarding Warburton Pike (photocopy)</unittitle>
+                        <unitdate type="inclusive">1915 Dec 21</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_4abec683328f5353e4d75afa9d485948"
+                                   type="box">2</container>
+                        <container id="aspace_9ebcbb212a2520fa042862925b88c13b"
+                                   type="folder"
+                                   parent="aspace_4abec683328f5353e4d75afa9d485948">66</container>
+                     </did>
+                  </c>
+                  <c id="ref103" level="file">
+                     <did>
+                        <unittitle>Byam, Dr., typed copies of letters from R. Slatin and E. A. Stanton, and printed Christmas card from the Byams</unittitle>
+                        <unitdate type="inclusive">1926-27</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_5f7f64dddb7aa52bd817bd2d87529ec9"
+                                   type="box">2</container>
+                        <container id="aspace_aa44248e701d31b030d522586fdda932"
+                                   type="folder"
+                                   parent="aspace_5f7f64dddb7aa52bd817bd2d87529ec9">67</container>
+                     </did>
+                  </c>
+                  <c id="ref104" level="file">
+                     <did>
+                        <unittitle>Cator, A. B. E., to unknown recipient, typescript carbon, regarding World War I battle</unittitle>
+                        <unitdate type="inclusive">1914 Oct 27</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_f9e2e15eaf37159b8c35edc947949d68"
+                                   type="box">2</container>
+                        <container id="aspace_7747c249eef37770012087b89ff0fe59"
+                                   type="folder"
+                                   parent="aspace_f9e2e15eaf37159b8c35edc947949d68">68</container>
+                     </did>
+                  </c>
+                  <c id="ref105" level="file">
+                     <did>
+                        <unittitle>Charlie, 2 ALS to May, from Dawson City</unittitle>
+                        <unitdate type="inclusive">1898-99</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_71f689aa9da6519e75a059e9bf6e0155"
+                                   type="box">2</container>
+                        <container id="aspace_a4cc96e8de3a669896d662d94fbd64f0"
+                                   type="folder"
+                                   parent="aspace_71f689aa9da6519e75a059e9bf6e0155">69</container>
+                     </did>
+                  </c>
+                  <c id="ref106" level="file">
+                     <did>
+                        <unittitle>Hunter, Fenley, TLS to Colonel W. L. Hallahan, regarding Warburton Pike monument at Dease Lake</unittitle>
+                        <unitdate type="inclusive">1956 Mar 15</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_96a061eaf14e907334e1e14531ebdd64"
+                                   type="box">2</container>
+                        <container id="aspace_b399a3108361022e475caf615588c493"
+                                   type="folder"
+                                   parent="aspace_96a061eaf14e907334e1e14531ebdd64">70</container>
+                     </did>
+                  </c>
+                  <c id="ref107" level="file">
+                     <did>
+                        <unittitle>Little, Archie to H. H. Webb, carbon copy of typed letter</unittitle>
+                        <unitdate type="inclusive">1933 Sep 4</unitdate>
+                        <container label="Mixed Materials (39002091347287)"
+                                   id="aspace_1109b4abdd7dceb7330dae277a9ac5d4"
+                                   type="box">2</container>
+                        <container id="aspace_54e322ef1a16edfa3274e042d70bca7a"
+                                   type="folder"
+                                   parent="aspace_1109b4abdd7dceb7330dae277a9ac5d4">71</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+         </c>
+         <c id="ref110" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.4</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1897-1927</unitdate>
+            </did>
+            <scopecontent id="aspace_256b63e8f5a6409f593c3a315380a4d8">
+               <head>Scope and Contents</head>
+               <p>Arranged in chronological order of the events described.</p>
+            </scopecontent>
+            <c id="ref112" level="file">
+               <did>
+                  <unittitle>Klondike diary</unittitle>
+                  <unitdate type="inclusive">1897-98</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_b9d9b9f7a976985636287d022ec3b7f0"
+                             type="box">3</container>
+                  <container id="aspace_d161e44616f143cf239778ce80b54f9a"
+                             type="folder"
+                             parent="aspace_b9d9b9f7a976985636287d022ec3b7f0">72</container>
+               </did>
+            </c>
+            <c id="ref113" level="file">
+               <did>
+                  <unittitle>Klondike diary chronology, manuscript and draft narrative fragment</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_fff123305f55d6e682fded3e87e146db"
+                             type="box">3</container>
+                  <container id="aspace_253bb3ac1d59f4e47aba7850eaafd120"
+                             type="folder"
+                             parent="aspace_fff123305f55d6e682fded3e87e146db">73</container>
+               </did>
+            </c>
+            <c id="ref114" level="file">
+               <did>
+                  <unittitle>Klondike diary chronology, typescript</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_ded25de11c5ed878dfead06c77d26428"
+                             type="box">3</container>
+                  <container id="aspace_a3e5d4f8da29cba8531be4c6ef983322"
+                             type="folder"
+                             parent="aspace_ded25de11c5ed878dfead06c77d26428">74</container>
+               </did>
+            </c>
+            <c id="ref115" level="file">
+               <did>
+                  <unittitle>Research notes on the Yukon</unittitle>
+               </did>
+               <c id="ref116" level="file">
+                  <did>
+                     <unittitle>Notes from "Along Alaska's Great River" by Schwatka, typescript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_76c79da2a5e44743eeeeb7e7f96d012f"
+                                type="box">3</container>
+                     <container id="aspace_b974797c25e8c5c2caaf5923a3ec4074"
+                                type="folder"
+                                parent="aspace_76c79da2a5e44743eeeeb7e7f96d012f">75</container>
+                  </did>
+               </c>
+               <c id="ref117" level="file">
+                  <did>
+                     <unittitle>Notes from "Early Days on the Yukon" by W. Ogilvie, typescript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_b0c5c2b6e1e0793a91936b0c0c0c38a1"
+                                type="box">3</container>
+                     <container id="aspace_45b51b087d633ac7e22f5026b8056108"
+                                type="folder"
+                                parent="aspace_b0c5c2b6e1e0793a91936b0c0c0c38a1">76</container>
+                  </did>
+               </c>
+               <c id="ref118" level="file">
+                  <did>
+                     <unittitle>Notes from Hudson Stuck's "Voyages on the Yukon and its Tributaries," typescript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_c475c52fe8a81e4b0ff638690ad1cd69"
+                                type="box">3</container>
+                     <container id="aspace_2e540f88cd05026f35664d5300ce1746"
+                                type="folder"
+                                parent="aspace_c475c52fe8a81e4b0ff638690ad1cd69">77</container>
+                  </did>
+               </c>
+               <c id="ref119" level="file">
+                  <did>
+                     <unittitle>"The Klondike Discovery" by Dr. A. E. Wills (acting mining recorder at Forty Mile), printed article</unittitle>
+                     <unitdate type="inclusive">1923 Feb 17</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_295fffbd4f13926ee033e03365a570f8"
+                                type="box">3</container>
+                     <container id="aspace_f6739b6e96713f9735b1a5e1756d4ff6"
+                                type="folder"
+                                parent="aspace_295fffbd4f13926ee033e03365a570f8">78</container>
+                  </did>
+                  <scopecontent id="aspace_f7fa2d6df088d764a3104fa7127320a8">
+                     <head>Scope and Contents</head>
+                     <p>From <title type="simple" render="italic">
+                           Engineering and Mining Journal-Press
+                        </title>
+                     </p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref121" level="file">
+               <did>
+                  <unittitle>Draft chapters on the Klondike and Yukon Country</unittitle>
+               </did>
+               <c id="ref122" level="file">
+                  <did>
+                     <unittitle>"Robert Campbell, at Fort Selkirk, as early as 1850 [...]," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_7221ab31259013f67164a795f15d894d"
+                                type="box">3</container>
+                     <container id="aspace_883600ed3c81db753e45134b263f326d"
+                                type="folder"
+                                parent="aspace_7221ab31259013f67164a795f15d894d">79</container>
+                  </did>
+               </c>
+               <c id="ref123" level="file">
+                  <did>
+                     <unittitle>"Vanity is often the unseen spur," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_5716080d3314bf72cb90df58bca8dbc6"
+                                type="box">3</container>
+                     <container id="aspace_acad707b6625fc7bf0717747bf30331f"
+                                type="folder"
+                                parent="aspace_5716080d3314bf72cb90df58bca8dbc6">80</container>
+                  </did>
+               </c>
+               <c id="ref124" level="file">
+                  <did>
+                     <unittitle>"But, O vain boast!/Who can control his fate?", typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_7ccef6dfc71ef10a3107ff0d0c093af3"
+                                type="box">3</container>
+                     <container id="aspace_ae1fd4535df7bbc8890b0541bd92f13e"
+                                type="folder"
+                                parent="aspace_7ccef6dfc71ef10a3107ff0d0c093af3">81</container>
+                  </did>
+               </c>
+               <c id="ref125" level="file">
+                  <did>
+                     <unittitle>"1. The handful of claimholders [...]," manuscript and typescript carbon, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_9f0676c91dd24fd1875498d83fa4e7e9"
+                                type="box">3</container>
+                     <container id="aspace_b4fd197bb22de7ee698454c4aed6de52"
+                                type="folder"
+                                parent="aspace_9f0676c91dd24fd1875498d83fa4e7e9">82</container>
+                  </did>
+               </c>
+               <c id="ref126" level="file">
+                  <did>
+                     <unittitle>"The White Pass," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_ae1a5e3212fb4d41092caddaca17e269"
+                                type="box">3</container>
+                     <container id="aspace_593cb1ba9ee3eb88a594e0b4c7056507"
+                                type="folder"
+                                parent="aspace_ae1a5e3212fb4d41092caddaca17e269">83</container>
+                  </did>
+               </c>
+               <c id="ref127" level="file">
+                  <did>
+                     <unittitle>"Chap III. The Yukon has its beginning [...]," manuscript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_f6d32042a3426ba94cf08a3614fc2f85"
+                                type="box">3</container>
+                     <container id="aspace_07c5653461e7e6bf09541661852a2cab"
+                                type="folder"
+                                parent="aspace_f6d32042a3426ba94cf08a3614fc2f85">84</container>
+                  </did>
+               </c>
+               <c id="ref128" level="file">
+                  <did>
+                     <unittitle>"1. Down Lakes and River," manuscript and typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_c46620da78164f6d4e81e2fac609e349"
+                                type="box">3</container>
+                     <container id="aspace_e727ab6d83d50e2c079a5bc86d4bfd60"
+                                type="folder"
+                                parent="aspace_c46620da78164f6d4e81e2fac609e349">85</container>
+                  </did>
+               </c>
+               <c id="ref129" level="file">
+                  <did>
+                     <unittitle>"The Klondike Rush of 1897," typescript of three chapters, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_9492a5c9c9a4a43429d080867afcb9ed"
+                                type="box">3</container>
+                     <container id="aspace_917ee8ff92b0f99411e288dfd6d6ce6d"
+                                type="folder"
+                                parent="aspace_9492a5c9c9a4a43429d080867afcb9ed">86</container>
+                  </did>
+                  <scopecontent id="aspace_0023fc9876aba9cb8ba369275ed21c51">
+                     <head>Scope and Contents</head>
+                     <p>Includes "The White Horse Pass Trail" and "Down Lakes and River"</p>
+                  </scopecontent>
+               </c>
+               <c id="ref131" level="file">
+                  <did>
+                     <unittitle>"Dawson," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_1528a32bbc9b8dbf3860ac087aa51511"
+                                type="box">3</container>
+                     <container id="aspace_ea43dc9707a9420f74730107652e0aa7"
+                                type="folder"
+                                parent="aspace_1528a32bbc9b8dbf3860ac087aa51511">87</container>
+                  </did>
+               </c>
+               <c id="ref132" level="file">
+                  <did>
+                     <unittitle>"Life in Dawson," manuscript</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_219016a62a522f38cf897ce8f2dfc60b"
+                                type="box">3</container>
+                     <container id="aspace_ab6e5b418d71f4e6088146f1240f1c3b"
+                                type="folder"
+                                parent="aspace_219016a62a522f38cf897ce8f2dfc60b">88</container>
+                  </did>
+               </c>
+               <c id="ref133" level="file">
+                  <did>
+                     <unittitle>"The Arrival of the Cheechakos," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_d4251eccd1548faa9dca1ea159b70260"
+                                type="box">3</container>
+                     <container id="aspace_415b989d01f3a3128a66a33083389186"
+                                type="folder"
+                                parent="aspace_d4251eccd1548faa9dca1ea159b70260">89</container>
+                  </did>
+               </c>
+               <c id="ref134" level="file">
+                  <did>
+                     <unittitle>"Jack London," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_e1ad000cb07fa091b613f6376833e2ee"
+                                type="box">3</container>
+                     <container id="aspace_505aa837b8b6968dee30eb7871121207"
+                                type="folder"
+                                parent="aspace_e1ad000cb07fa091b613f6376833e2ee">90</container>
+                  </did>
+               </c>
+               <c id="ref135" level="file">
+                  <did>
+                     <unittitle>"The Diggings," typescript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_25625330543afab082ae6bf914ab19e8"
+                                type="box">3</container>
+                     <container id="aspace_87a61d65eab08aec0adfd16afee8233d"
+                                type="folder"
+                                parent="aspace_25625330543afab082ae6bf914ab19e8">91</container>
+                  </did>
+               </c>
+               <c id="ref136" level="file">
+                  <did>
+                     <unittitle>"The Northwest Mounted Police," typescript, corrected and typescript carbon, uncorrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347295)"
+                                id="aspace_33649fa013d3079d3bea8da05e244694"
+                                type="box">3</container>
+                     <container id="aspace_6ed3f9162b910471ffedca8b7ca1141f"
+                                type="folder"
+                                parent="aspace_33649fa013d3079d3bea8da05e244694">92</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref137" level="file">
+               <did>
+                  <unittitle>Newspaper articles by MB about mining in Idaho and Nevada, mounted, with manuscript annotations</unittitle>
+                  <unitdate type="inclusive">1902-05</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_9d210ba4332da86729ca55ff89aa004e"
+                             type="box">3</container>
+                  <container id="aspace_296c9b4f45fd4e4829393c066d1e5d05"
+                             type="folder"
+                             parent="aspace_9d210ba4332da86729ca55ff89aa004e">93</container>
+               </did>
+            </c>
+            <c id="ref138" level="file">
+               <did>
+                  <unittitle>Stikine River diary transcript, carbon typescript, corrected</unittitle>
+                  <unitdate type="inclusive">[1911]</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_81658da10a8e075975361859445eeb98"
+                             type="box">3</container>
+                  <container id="aspace_10da2baa70d9a642b4e69da65eb71c51"
+                             type="folder"
+                             parent="aspace_81658da10a8e075975361859445eeb98">94</container>
+               </did>
+            </c>
+            <c id="ref139" level="file">
+               <did>
+                  <unittitle>Newspaper article by MB about Pancho Villa, from the <title type="simple" render="italic">
+                        Sun
+                     </title>, with manuscript corrections</unittitle>
+                  <unitdate type="inclusive">1919 Apr 20</unitdate>
+                  <container label="Mixed Materials (39002091347659)"
+                             id="aspace_060d68643cc19a2c595ddcdba1386fcf"
+                             type="box">Bsd, folder 95</container>
+               </did>
+            </c>
+            <c id="ref140" level="file">
+               <did>
+                  <unittitle>Diary of trip to Lincoln County, New Mexico to interview associates of Billy the Kid</unittitle>
+                  <unitdate type="inclusive">1926</unitdate>
+               </did>
+               <relatedmaterial id="aspace_70f0590544f9cfcbd2fc457b18a5497b">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref170">See: Box 4, folder 111</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref142" level="file">
+               <did>
+                  <unittitle>"Bmali of the Lurio," short story</unittitle>
+                  <unitdate type="inclusive">1927</unitdate>
+               </did>
+               <relatedmaterial id="aspace_6ec77ff38825d893822257e10f7addee">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref29">See: Box 1, folder 12</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+         </c>
+         <c id="ref145" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="folders">3</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 volume)</physdesc>
+               <unitdate type="inclusive">1897-1974</unitdate>
+            </did>
+            <c id="ref147" level="file">
+               <did>
+                  <unittitle>Contract between MB and L. W. Fox, Dawson City, N.W.T., witnessed by Jack London and Louis W. Bond</unittitle>
+                  <unitdate type="inclusive">1897 Nov 18</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_e9bb4f158961610794cd53b9c81ea12c"
+                             type="box">3</container>
+                  <container id="aspace_8c533f417a30c59f3f1b731e7a925870"
+                             type="folder"
+                             parent="aspace_e9bb4f158961610794cd53b9c81ea12c">96</container>
+               </did>
+               <scopecontent id="aspace_0b8eba26bf14cc890c586f89b09ef38e">
+                  <head>Scope and Contents</head>
+                  <p>With account sheet for 1897, audited by Fox 1898 Jul 19</p>
+               </scopecontent>
+            </c>
+            <c id="ref149" level="file">
+               <did>
+                  <unittitle>Maps of the Yukon Territory and Alaska</unittitle>
+                  <unitdate type="inclusive">1905-09</unitdate>
+                  <container label="Mixed Materials (39002091347667)"
+                             id="aspace_7368401b05690604ea93e628d50995db"
+                             type="box">Bsd, folder 97</container>
+               </did>
+               <scopecontent id="aspace_ed36ade116ee619de98c1207e377ec3f">
+                  <head>Scope and Contents</head>
+                  <p>Two Canada Geologic Survey maps, one of the Yukon Territory and one showing auriferous gravels on Bonanza and Hunter Creeks, and one USGS map showing areas affected by an 1899 earthquake near Yakutat Bay</p>
+               </scopecontent>
+            </c>
+            <c id="ref151" level="file">
+               <did>
+                  <unittitle>Skidoo Gold Mines, Summary of General Report, typescript carbon</unittitle>
+                  <unitdate type="inclusive">1915</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_73d33ddc8780a84a4c39ba276e600dd8"
+                             type="box">3</container>
+                  <container id="aspace_8993c26cd26d868f8b7a996c48ecf7b6"
+                             type="folder"
+                             parent="aspace_73d33ddc8780a84a4c39ba276e600dd8">98</container>
+               </did>
+            </c>
+            <c id="ref152" level="file">
+               <did>
+                  <unittitle>"Candelabria de Dios," article by Oliver H. P. La Farge, typescript carbon</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347295)"
+                             id="aspace_9d7d91d68371f30fd48ea4b3858c9557"
+                             type="box">3</container>
+                  <container id="aspace_debc3c52edbc71470048eb03f404af21"
+                             type="folder"
+                             parent="aspace_9d7d91d68371f30fd48ea4b3858c9557">99</container>
+               </did>
+            </c>
+            <c id="ref153" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Adventures with Peons, Princes and Tycoons
+                     </title> by Marshall Bond, Jr., bound typescript with photographs</unittitle>
+                  <unitdate type="inclusive">[1974]</unitdate>
+                  <container label="Mixed Materials (39002098925440)"
+                             id="aspace_bf0132c2e2f43253ce42097ee9fcab30"
+                             type="box">4</container>
+               </did>
+               <scopecontent id="aspace_36af5524df925e4ff8b59f952d7253b1">
+                  <head>Scope and Contents</head>
+                  <p>Published in 1983 by Star Rover House, Oakland, California</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref155" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series IV</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.54</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box) + 1 volume</physdesc>
+               <unitdate type="inclusive">1888-1926</unitdate>
+            </did>
+            <scopecontent id="aspace_4940a27500e81d5f84ec0513a4bb6359">
+               <head>Scope and Contents</head>
+               <p>Arranged chronologically.</p>
+            </scopecontent>
+            <c id="ref157" level="file">
+               <did>
+                  <unittitle>MB at Yale</unittitle>
+                  <unitdate type="inclusive">1888</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_402d4556d27aa173242ed288c5561db0"
+                             type="box">5</container>
+                  <container id="aspace_8ec8af6bd02be3c24f93a6eb4c407527"
+                             type="folder"
+                             parent="aspace_402d4556d27aa173242ed288c5561db0">100</container>
+               </did>
+            </c>
+            <c id="ref158" level="file">
+               <did>
+                  <unittitle>"Our Klondike cabin," shows MB, Oliver H. P. La Farge, Stanley Pearce, Lyman Colt, and dogs Jack ("Buck") and Pat</unittitle>
+                  <unitdate type="inclusive">1898</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_e36109ee958d0619fa7cdc587fb885c6"
+                             type="box">5</container>
+                  <container id="aspace_cd1c0c0a809edc12615e68ff1b8b9981"
+                             type="folder"
+                             parent="aspace_e36109ee958d0619fa7cdc587fb885c6">101</container>
+               </did>
+               <scopecontent id="aspace_c777e98533d199f115aa8029a03e49e4">
+                  <head>Scope and Contents</head>
+                  <p>Two contemporary photos, one with the dogs, one without, and three later copies of the one including the dogs; one of these copies, dated 1908, is autographed by Jack London, and the other two are copies of the autographed copy</p>
+               </scopecontent>
+            </c>
+            <c id="ref160" level="file">
+               <did>
+                  <unittitle>Commercially produced photographs of the Klondike region and Dawson</unittitle>
+               </did>
+               <c id="ref161" level="file">
+                  <did>
+                     <unittitle>E. A. Hegg, 32 views of Chilkoot Pass, Klondike River, and Dawson, signed in the negative</unittitle>
+                     <unitdate type="inclusive">1898-1904</unitdate>
+                     <container label="Mixed Materials (39002091347303)"
+                                id="aspace_d4948b3cfb9615a576f43831a7d7c793"
+                                type="box">5</container>
+                     <container id="aspace_1a8b824ade35e950aadff4acbd092c8b"
+                                type="folder"
+                                parent="aspace_d4948b3cfb9615a576f43831a7d7c793">102-103</container>
+                  </did>
+                  <scopecontent id="aspace_c8d83209513dd0ad5b31828393587771">
+                     <head>Scope and Contents</head>
+                     <p>Many are also stamped in the negative: "By F. H. Nowell"</p>
+                  </scopecontent>
+               </c>
+               <c id="ref163" level="file">
+                  <did>
+                     <unittitle>Larss and Duclos, "Midnight Bird's Eye View of Dawson," and two photos of mines and miners</unittitle>
+                     <unitdate type="inclusive">1899-1901</unitdate>
+                     <container label="Mixed Materials (39002091347303)"
+                                id="aspace_cb7f97e02dc82224804aef22de4b9672"
+                                type="box">5</container>
+                     <container id="aspace_c58c155270684bb34f36849d0334b703"
+                                type="folder"
+                                parent="aspace_cb7f97e02dc82224804aef22de4b9672">104</container>
+                  </did>
+               </c>
+               <c id="ref164" level="file">
+                  <did>
+                     <unittitle>Case and Draper, one photo of Miles Canyon on the Klondike River</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347303)"
+                                id="aspace_bf10d71238546ae933376b1b13702c2b"
+                                type="box">5</container>
+                     <container id="aspace_f68a4260a9e5de0591484291a8656ca9"
+                                type="folder"
+                                parent="aspace_bf10d71238546ae933376b1b13702c2b">105</container>
+                  </did>
+               </c>
+               <c id="ref165" level="file">
+                  <did>
+                     <unittitle>M. Craig, one photo of Dawson by the light of Aurora Borealis [owned by Frank H. Nowell]</unittitle>
+                     <unitdate type="inclusive">1908</unitdate>
+                     <container label="Mixed Materials (39002091347303)"
+                                id="aspace_f7944e1fb8f4615131a8708558dd3f08"
+                                type="box">5</container>
+                     <container id="aspace_a3a94c52bae80012a022436b19924e81"
+                                type="folder"
+                                parent="aspace_f7944e1fb8f4615131a8708558dd3f08">106</container>
+                  </did>
+               </c>
+               <c id="ref166" level="file">
+                  <did>
+                     <unittitle>Unidentified photographers, 9 photos of Dawson, Forty Mile, Northwest Mounted Police, boats, and miners</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091347303)"
+                                id="aspace_76a189efc2e80b10df3e468142bed52c"
+                                type="box">5</container>
+                     <container id="aspace_5dea9b53c1fd15cc3f3b8c42b5b8b3fd"
+                                type="folder"
+                                parent="aspace_76a189efc2e80b10df3e468142bed52c">107</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref167" level="file">
+               <did>
+                  <unittitle>Studio portrait of MB with E. Reeve Merritt and General Snyman, Mexico</unittitle>
+                  <unitdate type="inclusive">1902</unitdate>
+                  <container label="Mixed Materials (39002104731295)"
+                             id="aspace_e427e921b3e6868c62ea561f8cb2d212"
+                             type="box">8</container>
+                  <container id="aspace_1c3eea87a8c8eb67ddbd701363caa275"
+                             type="folder"
+                             parent="aspace_e427e921b3e6868c62ea561f8cb2d212">108</container>
+               </did>
+            </c>
+            <c id="ref168" level="file">
+               <did>
+                  <unittitle>Goldfield, Nevada snapshots</unittitle>
+                  <unitdate type="inclusive">1904</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_61b76bed6a572d6f61b8217e7c592c01"
+                             type="box">5</container>
+                  <container id="aspace_9f03a2926614afd59bc8b0d3f0109094"
+                             type="folder"
+                             parent="aspace_61b76bed6a572d6f61b8217e7c592c01">109</container>
+               </did>
+            </c>
+            <c id="ref169" level="file">
+               <did>
+                  <unittitle>Bond family and house and grounds at New Park, Santa Clara, California</unittitle>
+                  <unitdate type="inclusive">ca. 1906</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_570bcb0066dff7442ea7478da0f0988c"
+                             type="box">5</container>
+                  <container id="aspace_8d7e450a9a6206d57c71b5959ebf668f"
+                             type="folder"
+                             parent="aspace_570bcb0066dff7442ea7478da0f0988c">110</container>
+               </did>
+            </c>
+            <c id="ref170" level="file">
+               <did>
+                  <unittitle>New Park, Santa Clara, California, home of Hiram G. and Laura Bond</unittitle>
+                  <unitdate type="inclusive">[ca. 1906]</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_8415875eb0420471cea0315bf1548e24"
+                             type="box">5</container>
+                  <container id="aspace_bac6a8c6d93b2a7e9e75b8dced973190"
+                             type="folder"
+                             parent="aspace_8415875eb0420471cea0315bf1548e24">111</container>
+               </did>
+            </c>
+            <c id="ref171" level="file">
+               <did>
+                  <unittitle>Jarbridge, Nevada</unittitle>
+                  <unitdate type="inclusive">1910</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_8627ca8fb51a68cc6cc9f2c616173602"
+                             type="box">5</container>
+                  <container id="aspace_435c9b6fdb4646f3d17b2d18d4f62e75"
+                             type="folder"
+                             parent="aspace_8627ca8fb51a68cc6cc9f2c616173602">112</container>
+               </did>
+            </c>
+            <c id="aspace_d40a0505d6fd7741ddb7ba03a6b714b4" level="file">
+               <did>
+                  <unittitle>Photograph album of a shooting trip, Stikine River, British Columbia</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1911">1911-</unitdate>
+                  
+                  <container label="Mixed Materials (39002098925457)"
+                             id="aspace_e13cff29d80949dd147a7e256aa5faa4"
+                             type="box">6</container>
+               </did>
+            </c>
+            <c id="ref174" level="file">
+               <did>
+                  <unittitle>Photo album and diary of trip to Lincoln County, New Mexico</unittitle>
+                  <unitdate type="inclusive">1926</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_8f7f39e8037bc3c139258dcd0d7da4b0"
+                             type="box">5</container>
+                  <container id="aspace_b7d3f2a959d72ab23eefd209c6b49a76"
+                             type="folder"
+                             parent="aspace_8f7f39e8037bc3c139258dcd0d7da4b0">113</container>
+               </did>
+            </c>
+            <c id="ref175" level="file">
+               <did>
+                  <unittitle>Commercial reproductions of photos of Billy the Kid and associates, the James Gang, and other wild west figures</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_3be18a6385c27993cc6cbbc79a5b59a7"
+                             type="box">5</container>
+                  <container id="aspace_32f7efa5636e0d300437c59939b4b8bd"
+                             type="folder"
+                             parent="aspace_3be18a6385c27993cc6cbbc79a5b59a7">114</container>
+               </did>
+               <scopecontent id="aspace_d182ee06b59e41789208ec655f862f9a">
+                  <head>Scope and Contents</head>
+                  <p>Some bear stamps on the verso identifying them as "prints from the Famous Rose Collection of Old Time Photographs. N. H. Rose, Photographer"</p>
+               </scopecontent>
+            </c>
+            <c id="ref177" level="file">
+               <did>
+                  <unittitle>MB in middle age, studio portrait</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002091347303)"
+                             id="aspace_06b093ebc6e47ce2b2fbde5dd7df1c9c"
+                             type="box">5</container>
+                  <container id="aspace_46bcfc3dd352aa0549dd2dfa87b13f23"
+                             type="folder"
+                             parent="aspace_06b093ebc6e47ce2b2fbde5dd7df1c9c">115</container>
+               </did>
+            </c>
+            <c id="aspace_d455bbcc70925d1123f67f894a3f14dc" level="file">
+               <did>
+                  <unittitle>Judge Hiram G. Bond ("Judge Miller" in <title>
+                        The Call of the Wild
+                     </title>)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002104731295)"
+                             id="aspace_8c7c567426f2e08d0cf652328644bfb5"
+                             type="box">8</container>
+                  <container id="aspace_74d72b2a1c54b09b0d3057709d7572a8"
+                             type="folder"
+                             parent="aspace_8c7c567426f2e08d0cf652328644bfb5">146</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref179" level="series">
+            <did>
+               <unittitle>Restricted Fragile</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">0.21</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+            </did>
+            <accessrestrict id="aspace_e61192832a05d771fa2f173f2e78f927">
+               <head>Conditions Governing Access</head>
+               <p>Box 7 contains fragile originals. Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</p>
+            </accessrestrict>
+            <c id="ref181" level="file">
+               <did>
+                  <unittitle>Box 1, folder 11</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_ec48b43e5b5c775402ebbf1dee9d4e9c"
+                             type="box">7</container>
+                  <container id="aspace_8bdb9fd134dacfff6fa02268851300fe"
+                             type="folder"
+                             parent="aspace_ec48b43e5b5c775402ebbf1dee9d4e9c">116</container>
+               </did>
+            </c>
+            <c id="ref182" level="file">
+               <did>
+                  <unittitle>Box 1, folder 14</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_4c9074ab323e47499a6179227c51ba66"
+                             type="box">7</container>
+                  <container id="aspace_d6a532060e3aa669f2570d2f2e9a9713"
+                             type="folder"
+                             parent="aspace_4c9074ab323e47499a6179227c51ba66">117</container>
+               </did>
+            </c>
+            <c id="ref183" level="file">
+               <did>
+                  <unittitle>Box 1, folder 23</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_f4e21ec4a5074adc3c5d8f337ac67461"
+                             type="box">7</container>
+                  <container id="aspace_ae53bfd3b9715843cb7f19b766241a4f"
+                             type="folder"
+                             parent="aspace_f4e21ec4a5074adc3c5d8f337ac67461">118</container>
+               </did>
+            </c>
+            <c id="ref184" level="file">
+               <did>
+                  <unittitle>Box 1, folder 25</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_cc6d7578188855c97a29239621ec98ee"
+                             type="box">7</container>
+                  <container id="aspace_90730c3c337b8b7dafcb68d9219d9ef5"
+                             type="folder"
+                             parent="aspace_cc6d7578188855c97a29239621ec98ee">119</container>
+               </did>
+            </c>
+            <c id="ref185" level="file">
+               <did>
+                  <unittitle>Box 1, folder 28</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_3d908eeb2f2e67d6fd3a086f39dfe23c"
+                             type="box">7</container>
+                  <container id="aspace_0766574254c54caae3ced42cdf6365ed"
+                             type="folder"
+                             parent="aspace_3d908eeb2f2e67d6fd3a086f39dfe23c">120</container>
+               </did>
+            </c>
+            <c id="ref186" level="file">
+               <did>
+                  <unittitle>Box 1, folder 30</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_1d34c77b774088df1d8e03317499f506"
+                             type="box">7</container>
+                  <container id="aspace_b89e9c810f757f23a039a3ca03b94fec"
+                             type="folder"
+                             parent="aspace_1d34c77b774088df1d8e03317499f506">121</container>
+               </did>
+            </c>
+            <c id="ref187" level="file">
+               <did>
+                  <unittitle>Box 1, folder 32</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_db113fef665c87a009e1091351a88185"
+                             type="box">7</container>
+                  <container id="aspace_0de2912d9e5defd9d4aa093388ff5429"
+                             type="folder"
+                             parent="aspace_db113fef665c87a009e1091351a88185">122</container>
+               </did>
+            </c>
+            <c id="ref188" level="file">
+               <did>
+                  <unittitle>Box 1, folder 35</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_5978d40e3def5ebf233d9bf7882206c0"
+                             type="box">7</container>
+                  <container id="aspace_0602d7d19903910002ef0680696c3edf"
+                             type="folder"
+                             parent="aspace_5978d40e3def5ebf233d9bf7882206c0">123</container>
+               </did>
+            </c>
+            <c id="ref189" level="file">
+               <did>
+                  <unittitle>Box 1, folder 35</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_e8366b761f2a73131fab16508205d707"
+                             type="box">7</container>
+                  <container id="aspace_83f379403c4ac3dc0b98589ddb0d0309"
+                             type="folder"
+                             parent="aspace_e8366b761f2a73131fab16508205d707">124</container>
+               </did>
+            </c>
+            <c id="ref190" level="file">
+               <did>
+                  <unittitle>Box</unittitle>
+                  <unitdate type="inclusive">2, folder 36</unitdate>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_8c53ccc31e0afc101ae94cbc8772facc"
+                             type="box">7</container>
+                  <container id="aspace_d3cbdd8868024e2480aabcfcc1404826"
+                             type="folder"
+                             parent="aspace_8c53ccc31e0afc101ae94cbc8772facc">125</container>
+               </did>
+            </c>
+            <c id="ref191" level="file">
+               <did>
+                  <unittitle>Box 2, folder 37</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_6a7a154d70cf0ff151d4bfb57bf5c60d"
+                             type="box">7</container>
+                  <container id="aspace_57c0c2ba2ed8604518071a87f40ea819"
+                             type="folder"
+                             parent="aspace_6a7a154d70cf0ff151d4bfb57bf5c60d">126</container>
+               </did>
+            </c>
+            <c id="ref192" level="file">
+               <did>
+                  <unittitle>Box 2, folder 38</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_6b3b6221fda3ec8998bd8120d9b541b5"
+                             type="box">7</container>
+                  <container id="aspace_b37ecf57eb9f8f116c3b84bc37af7149"
+                             type="folder"
+                             parent="aspace_6b3b6221fda3ec8998bd8120d9b541b5">127</container>
+               </did>
+            </c>
+            <c id="ref193" level="file">
+               <did>
+                  <unittitle>Box 2, folder 41</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_9816f23aa08e83ef5a7f21bb8d9acb19"
+                             type="box">7</container>
+                  <container id="aspace_1025e9d1951ecf546f6b8a102f583cc7"
+                             type="folder"
+                             parent="aspace_9816f23aa08e83ef5a7f21bb8d9acb19">128</container>
+               </did>
+            </c>
+            <c id="ref194" level="file">
+               <did>
+                  <unittitle>Box 2, folder 42</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_09c249c2d03ddb34ee332f6ee53ec8cd"
+                             type="box">7</container>
+                  <container id="aspace_8f1da160e01f5de87aa8c6f5a0cd6937"
+                             type="folder"
+                             parent="aspace_09c249c2d03ddb34ee332f6ee53ec8cd">129</container>
+               </did>
+            </c>
+            <c id="ref195" level="file">
+               <did>
+                  <unittitle>Box 2, folder 43</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_fb543ebb6a93fe9665d02c431ce9f6c4"
+                             type="box">7</container>
+                  <container id="aspace_b526fceab3ea8648e4b20a52e9628f78"
+                             type="folder"
+                             parent="aspace_fb543ebb6a93fe9665d02c431ce9f6c4">130</container>
+               </did>
+            </c>
+            <c id="ref196" level="file">
+               <did>
+                  <unittitle>Box 2, folder 45</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_e72a7f673c9a7aca1fc4bea61daf356d"
+                             type="box">7</container>
+                  <container id="aspace_5d1588be1b2d5d15962393ceb036804e"
+                             type="folder"
+                             parent="aspace_e72a7f673c9a7aca1fc4bea61daf356d">131</container>
+               </did>
+            </c>
+            <c id="ref197" level="file">
+               <did>
+                  <unittitle>Box 2, folder 48</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_d509ff7127712b12708f63f036a05c3f"
+                             type="box">7</container>
+                  <container id="aspace_eff6d5d7faec5974128581ebc38e6f9c"
+                             type="folder"
+                             parent="aspace_d509ff7127712b12708f63f036a05c3f">132</container>
+               </did>
+            </c>
+            <c id="ref198" level="file">
+               <did>
+                  <unittitle>Box 2, folder 50</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_ab5196a6bf0f348c5099ab01e84a3bee"
+                             type="box">7</container>
+                  <container id="aspace_41fd74c9635602921bf82fa322ef439f"
+                             type="folder"
+                             parent="aspace_ab5196a6bf0f348c5099ab01e84a3bee">133</container>
+               </did>
+            </c>
+            <c id="ref199" level="file">
+               <did>
+                  <unittitle>Box 2, folder 51</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_279230678f6c16c29964123acd90fcff"
+                             type="box">7</container>
+                  <container id="aspace_8f650b74da2835012016b41f0bcad2f8"
+                             type="folder"
+                             parent="aspace_279230678f6c16c29964123acd90fcff">134</container>
+               </did>
+            </c>
+            <c id="ref200" level="file">
+               <did>
+                  <unittitle>Box 2, folder 53</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_f5da2f768f748138d53990609f4ccd63"
+                             type="box">7</container>
+                  <container id="aspace_a9dd5f68afd7fd115cbffcba439c93f7"
+                             type="folder"
+                             parent="aspace_f5da2f768f748138d53990609f4ccd63">135</container>
+               </did>
+            </c>
+            <c id="ref201" level="file">
+               <did>
+                  <unittitle>Box 2, folder 54</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_18325c7113383fb52f056ce94ba47ac8"
+                             type="box">7</container>
+                  <container id="aspace_e07cb9d7f1e814cf369d76c4714af505"
+                             type="folder"
+                             parent="aspace_18325c7113383fb52f056ce94ba47ac8">136</container>
+               </did>
+            </c>
+            <c id="ref202" level="file">
+               <did>
+                  <unittitle>Box 2, folder 56</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_57a44a94dd32e6780a00f35e49d33b16"
+                             type="box">7</container>
+                  <container id="aspace_798d8751997542b0901b2582ade236e8"
+                             type="folder"
+                             parent="aspace_57a44a94dd32e6780a00f35e49d33b16">137</container>
+               </did>
+            </c>
+            <c id="ref203" level="file">
+               <did>
+                  <unittitle>Box 2, folder 57</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_75f8740f377ddcce31a08ed11bf64d62"
+                             type="box">7</container>
+                  <container id="aspace_ae1c50193de33dc4d0f4a06d1df9fd19"
+                             type="folder"
+                             parent="aspace_75f8740f377ddcce31a08ed11bf64d62">138</container>
+               </did>
+            </c>
+            <c id="ref204" level="file">
+               <did>
+                  <unittitle>Box 2, folder 58</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_3014dc916bad422a5229567d53d2194d"
+                             type="box">7</container>
+                  <container id="aspace_e0992bf57e3e6e363c3a3b7e82b759be"
+                             type="folder"
+                             parent="aspace_3014dc916bad422a5229567d53d2194d">139</container>
+               </did>
+            </c>
+            <c id="ref205" level="file">
+               <did>
+                  <unittitle>Box 2, folder 60</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_4d2d8f95df2a2b653bf48b4f3dc84867"
+                             type="box">7</container>
+                  <container id="aspace_3c83d8cc35c41d814da3352fa4fa11ce"
+                             type="folder"
+                             parent="aspace_4d2d8f95df2a2b653bf48b4f3dc84867">140</container>
+               </did>
+            </c>
+            <c id="ref206" level="file">
+               <did>
+                  <unittitle>Box 2, folder 63</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_0a6c0913b38eef88e984de898e19dee6"
+                             type="box">7</container>
+                  <container id="aspace_e1bce4011fe39d75c7a32abff087784e"
+                             type="folder"
+                             parent="aspace_0a6c0913b38eef88e984de898e19dee6">141</container>
+               </did>
+            </c>
+            <c id="ref207" level="file">
+               <did>
+                  <unittitle>Box 2, folder 64</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_0a8e2f745617af0646a961b962672ee1"
+                             type="box">7</container>
+                  <container id="aspace_1ceac111ba7b75aec54b2df54ea9ad11"
+                             type="folder"
+                             parent="aspace_0a8e2f745617af0646a961b962672ee1">142</container>
+               </did>
+            </c>
+            <c id="ref208" level="file">
+               <did>
+                  <unittitle>Box 2, folder 68</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_273cc19909a5ba13af4631f2df416c80"
+                             type="box">7</container>
+                  <container id="aspace_de012ee22eb3ddd2ad234ada4ba94884"
+                             type="folder"
+                             parent="aspace_273cc19909a5ba13af4631f2df416c80">143</container>
+               </did>
+            </c>
+            <c id="ref209" level="file">
+               <did>
+                  <unittitle>Box 2, folder 71</unittitle>
+                  <container label="Mixed Materials (39002091347311)"
+                             id="aspace_8f6b94ecacdf18a4d35f774bfb30d50b"
+                             type="box">7</container>
+                  <container id="aspace_3ebe0b892eaa4511b46ee86aef6266ec"
+                             type="folder"
+                             parent="aspace_8f6b94ecacdf18a4d35f774bfb30d50b">144</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.westhf">beinecke.westhf</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Herbert F. West Collection of A. Hugh Fisher
+ </titleproper>
+            <titleproper type="filing">West (Herbert F.) Collection of A. Hugh Fisher</titleproper>
+            <author>by Sandra Markham</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2011</date>
+            <num>GEN MSS 795</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday March 22, 2019 at 03:01</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Herbert F. West collection of A. Hugh Fisher</unittitle>
+         <unitid>GEN MSS 795</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.54</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(9 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1860/1945">1860-1945</unitdate>
+         
+         
+            <unitdate type="bulk" normal="1901/1945">1901-1945</unitdate>
+         
+         <abstract id="aspace_c477690e5af6db9abfd8cf6a236063c9">The Herbert F. West Collection of A. Hugh Fisher consists of correspondence, writings, clippings, tearsheets, and fine art sent to Herbert West by the artist Alfred Hugh Fisher between 1938 and 1945. It includes over 300 letters from Fisher to West, 1938-1945; autobiographical memoirs by Fisher; volumes of travel journals (in the form of letters to his colleague Halford Mackinder) covering Fisher's work with the Visual Instruction Committee of the British Colonial Office and recording his visits to Australia, Borneo, Canada, China, Fiji, Gibraltar, Hong Kong, Japan, Malta, New Zealand, Singapore, Sri Lanka, Tasmania, and Tonga, 1907-1910; various articles, clippings, notes, manuscripts, and ephemera; and a selection of drawings, paintings, and prints by Fisher whose subjects include the home of writer Margaret Leigh, and portraits of his contemporaries Lascelles Abercrombie, Walter de la Mare, T. Sturge Moore, George W. Russell, and W. B. Yeats, among others. Also present is an etching by Hungarian printmaker Gyula (Julius) Komjati, whom Fisher visited in 1932. Although West and Fisher never met in person, their long-distance friendship gave the artist someone to whom he could entrust his work and legacy, a particularly important concern when British citizens were anticipating Germany's impending attack. In addition to describing daily life in wartime Britain, Fisher's letters to West provide further personal history and context for the material West was receiving.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/nr99038457"
+                      role="col"
+                      rules="aacr"
+                      source="naf">
+               West, Herbert Faulkner, 1898-1974
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no2011129201"
+                      rules="aacr"
+                      source="naf">
+               Komjati, Gyula, 1894-1958
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_cad65d7e2bfdc4740129df6b86562a8d">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Herbert F. West, 1954-1957; letter to Miss Pye, gift of Bertram Rota, 1958; "Lycidas" woodcuts, gift of Robert Barry, 1953.</p>  
+      </acqinfo>
+      <custodhist id="aspace_106e53ea138cf44cf0c9e9cbe948bb81">
+         <head>Custodial History</head>
+         <p>West described his relationship with Fisher, and the circumstances surrounding the collection and its transfer to Yale, in an essay published in <title type="simple" render="italic">
+               Yale University Library Gazette
+            </title> 29, no. 1 (July 1954): 2-8.</p>  
+      </custodhist>
+      <accessrestrict id="aspace_f587665149742a3368f349ecce1fcd2b">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_598983eb6ade115a922217aab4c3de91">
+         <head>Conditions Governing Use</head>
+         <p>The Herbert F. West Collection of A. Hugh Fisher is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_04c27987ff7816d103bb3e51a397a666">
+         <head>Preferred Citation</head>
+         <p>Herbert F. West Collection of A. Hugh Fisher. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <processinfo id="aspace_6b784c89d2d87f6fc8c01ad7e7d38506">
+         <head>Processing Information</head>
+         <p>The collection was formerly filed under the call number MS Vault Fisher AH, and was housed in buckram-covered acidic containers created for Herbert West; they were discarded in 2011.</p>  
+      </processinfo>
+      <relatedmaterial id="aspace_08f59b69ff5ba02f8fa544fbeec7ad8c">
+         <head>Associated Materials</head>
+         <p>West's collection of books inscribed by Fisher were cataloged separately. Fisher's letters to William Rose Benet, also a gift to the library from Herbert West, are filed in the Benet Family Papers. Albums of photographs taken by Fisher during his time with the Colonial Office Visual Instruction Committee are in the Royal Commonwealth Society Collections at the University of Cambridge Library, Cambridge, England.</p>  
+      </relatedmaterial>
+      <bioghist id="aspace_b591cd595b0ee1760056ef7fc3101f82">
+         <head>Alfred Hugh Fisher (1867-1945)</head>
+         <p>Alfred Hugh Fisher, a painter, printmaker, photographer, illustrator, poet, essayist, and critic known professionally as A. Hugh Fisher and to his friends as Hugh, was born in the Brixton district of London on February 8, 1867, the son of Alfred George Fisher and Isabella Read Smith Fisher. After some schooling he obtained a position as a junior clerk at George Street &amp; Company, an advertising agency, in 1884. As a youth Fisher had declared his intent to become an artist; he exhibited his first watercolor at the Royal Academy in 1887, and in the 1880s began his career as an illustrator for a variety of popular periodicals. He received formal art education through a scholarship awarded him by the National Art Training School (now the Royal College of Art) from 1894 to 1897, after which he studied for six months with Benjamin Constant and Jean-Paul Laurens at the Académie Julian in Paris. Beginning in 1901, Fisher traveled and worked in Europe and England, painting and drawing as well as turning out illustrations for publishers, particularly the <title type="simple" render="italic">
+               Illustrated London News
+            </title>. In 1907 he was appointed to the position of artist for the British Colonial Office's Visual Instruction Committee (COVIC) under the direction of Halford Mackinder. The agency's intention was to create a series of lectures that would acquaint British children with their empire's varied geography, and Fisher was assigned to visit as many colonial possessions as he could within three years, to paint and photograph scenes to be turned into lantern slides to illustrate Mackinder's talks. His travels took him through Ceylon, India, and Burma (1907), Aden, Somaliland, Cyprus, Canada, China, Hong Kong, and Singapore (1908), Borneo, Gibraltar, Malta, and Australia (1909), and Tasmania, New Zealand, Samoa, Tonga, and Fiji (1910). In addition, a steamship accident in 1909 allowed him to spend a few days in Japan. Aside from the thousands of images he made for the committee, Fisher's journey resulted in his own volumes <title type="simple" render="italic">
+               Through India and Burmah with Pen and Brush
+            </title> (1911) and <title type="simple" render="italic">
+               India
+            </title> (1913). Throughout the 1920s and 1930s he regularly spent time in France, Italy, Belgium, and Germany. His friendship with the Hungarian etcher Gyula (Julius) Komjati (1894-1958), who was working in England in 1927, led Fisher to spend three months in Hungary and Czechoslovakia in 1932.</p>
+         <p>Fisher began producing etchings in the 1890s, and was elected to membership in the Royal Society of Painters and Etchers in 1898. He was also the author of <title type="simple" render="italic">
+               The Cathedral Church of Hereford
+            </title> (1898), a few volumes of poetry, a novel titled <title type="simple" render="italic">
+               Quix
+            </title> (1931), and many essays, obituaries, and book reviews, the latter also published under his pseudonym Caleb Reade. In 1909 Fisher married his second wife, Lilias Cecile Wyman (1875-1930), whom he had met at the offices of the <title type="simple" render="italic">
+               Illustrated London News
+            </title>. He died on July 2, 1945, after having suffered a stroke, and was buried in North Curry, Somerset, England.</p>  
+      </bioghist>
+      <bioghist id="aspace_1ce8024f4f6ece385452f5ca155dd6c4">
+         <head>Herbert Faulkner West (1989-1974)</head>
+         <p>Herbert F. West, teacher, author, publisher, and Anglophile, taught comparative literature at Dartmouth College from 1925 to 1964, and was professor emeritus until his death. He received degrees from Dartmouth College and Harvard University, and founded Westholm Publications, which issued several titles between 1955 and 1972.</p>  
+      </bioghist>
+      <scopecontent id="aspace_2083003f12fbb8ef2a18df2cd26d30de">
+         <head>Scope and Contents</head>
+         <p>The Herbert F. West Collection of A. Hugh Fisher consists of correspondence, writings, clippings, tearsheets, and fine art sent to Herbert West by the artist Alfred Hugh Fisher between 1938 and 1945. It includes over 300 letters from Fisher to West, 1938-1945; autobiographical memoirs by Fisher; volumes of travel journals (in the form of letters to his colleague Halford Mackinder) covering Fisher's work with the Visual Instruction Committee of the British Colonial Office and recording his visits to Australia, Borneo, Canada, China, Fiji, Gibraltar, Hong Kong, Japan, Malta, New Zealand, Singapore, Sri Lanka, Tasmania, and Tonga, 1907-1910; various articles, clippings, notes, manuscripts, and ephemera; and a selection of drawings, paintings, and prints by Fisher whose subjects include the home of writer Margaret Leigh, and portraits of his contemporaries Lascelles Abercrombie, Walter de la Mare, T. Sturge Moore, George W. Russell, and W. B. Yeats, among others. Also present is an etching by Hungarian printmaker Gyula (Julius) Komjati, whom Fisher visited in 1932.</p>
+         <p>Although West and Fisher never met in person, their long-distance friendship gave the artist someone to whom he could entrust his work and legacy, a particularly important concern when British citizens were anticipating Germany's impending attack. In addition to describing daily life in wartime Britain, Fisher's letters to West provide further personal history and context for the material West was receiving.</p>  
+      </scopecontent>
+      <arrangement id="aspace_ebc9bd308f68167eea2ec0cc93d98fc0">
+         <head>Arrangement</head>
+         <p>Organized into three series: I. Correspondence, 1913-1954. II. Writings, Ephemera, and Photographs, 1860-1945. III. Fine Art, 1881-1941.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Artists, English -- 20th Century
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009858"
+                  source="lcsh">
+            Authors, English -- 20th Century
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh95001642"
+                  source="lcsh">
+            World War, 1939-1945 -- England
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85009579"
+                   source="lcsh">
+            Australia -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh2008114515"
+                   source="lcsh">
+            Budapest (Hungary) -- Pictorial works
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85035300"
+                   source="lcsh">
+            Czechoslovakia -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Fiji -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Gibraltar -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Hammersmith and Fulham (London, England) -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh2008115357"
+                   source="lcsh">
+            Hong Kong (China) -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85069398"
+                   source="lcsh">
+            Japan -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85080200"
+                   source="lcsh">
+            Malta -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85091493"
+                   source="lcsh">
+            New Zealand -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh2008116974"
+                   source="lcsh">
+            Singapore -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh87000018"
+                   source="lcsh">
+            Sri Lanka -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh88006700"
+                   source="lcsh">
+            Tasmania -- Description and travel
+         </geogname>
+         <geogname source="local">
+            Tonga -- Description and travel
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300033973" source="aat">
+            Drawings (visual works)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300041365" source="aat">
+            Etchings (prints)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300033799" source="aat">
+            Oil paintings (visual works)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300046300" source="aat">
+            Photographs
+         </genreform>
+         <genreform source="local">
+            Travel journals
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300078925" source="aat">
+            Watercolors (paintings)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300041405" source="aat">
+            Woodcuts (prints)
+         </genreform>
+         <persname rules="aacr" source="local">
+            Abercrombie, Lascelles, 1881-1938 -- Portraits
+         </persname>
+         <persname rules="aacr" source="local">
+            AE, 1867-1935 -- Portraits
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50041368"
+                   rules="aacr"
+                   source="naf">
+            Buday, György, 1907-1990
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80060345"
+                   source="naf">
+            Bottomley, Gordon, 1874-1948 -- Portraits
+         </persname>
+         <persname rules="aacr" source="local">
+            Cutler, Jennie La Forge
+         </persname>
+         <persname source="local">
+            Darwin, Erasmus Alvey, 1804-1881
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80057178"
+                   source="naf">
+            De la Mare, Walter, 1873-1956 -- Portraits
+         </persname>
+         <persname rules="aacr" source="local">
+            Fisher, Alfred George, d. 1902
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr93014634"
+                   rules="aacr"
+                   source="naf">
+            Fisher, A. Hugh (Alfred Hugh), 1867-1945
+         </persname>
+         <persname rules="aacr" source="local">
+            Fisher, Isabella Read Smith, 1844-1928
+         </persname>
+         <persname rules="aacr" source="local">
+            Fisher, Lilias Cecile Wyman, 1875-1930
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no2011129201"
+                   rules="aacr"
+                   source="naf">
+            Komjati, Gyula, 1894-1958
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n97097467"
+                   rules="aacr"
+                   source="naf">
+            Leigh, Margaret, 1894-1973
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87901106"
+                   source="naf">
+            Levy, Oscar, 1867-1946 -- Portraits
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50042166"
+                   source="naf">
+            Mackinder, Halford John, 1861-1947
+         </persname>
+         <persname rules="aacr" source="local">
+            Milton, John, 1608-1674 ( Lycidas,  Illustrations)
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50078828"
+                   rules="aacr"
+                   source="naf">
+            Moore, T. Sturge (Thomas Sturge), 1870-1944
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79124616"
+                   rules="aacr"
+                   source="naf">
+            Russell, George William, 1867-1935 -- Portraits
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87112802"
+                   rules="aacr"
+                   source="naf">
+            Stephens, Frederic George, 1828-1907
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr99038457"
+                   rules="aacr"
+                   source="naf">
+            West, Herbert Faulkner, 1898-1974
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n92104094"
+                   rules="aacr"
+                   source="naf">
+            Whitmore, Elizabeth Manning
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78095579"
+                   source="naf">
+            Yeats, W. B. (William Butler), 1865-1939 -- Portraits
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nb2007008523"
+                   source="naf">
+            Great Britain. Colonial Office. Visual Instruction Committee
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref14" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.83</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(2 boxes)</physdesc>
+               <unitdate type="inclusive">1913-1954</unitdate>
+            </did>
+            <arrangement id="aspace_b60e0e792da27ca2bb4e8835b52aba7a">
+               <head>Arrangement</head>
+               <p>Series I is organized into two subseries: A. Hugh Fisher and Herbert F. West</p>
+            </arrangement>
+            <scopecontent id="aspace_825c15ed3c245f11d0de14b8c65b443d">
+               <head>Scope and Contents</head>
+               <p>The series contains letters to and from A. Hugh Fisher, with some letters between Herbert West and others. Letters to Fisher appear in the first subseries and include thirty from friends who had read his 1913 book of poems. The second subseries holds the bulk of the material, more than three hundred letters written by Fisher to West between August 1938 and June 19, 1945, two weeks before he died. Also present is correspondence with two of Fisher's friends and his American print dealer, regarding the placement of West's collection of Fisher's papers.</p>
+               <p>Of special interest in the letters from Fisher to West is one dated March 19, 1939, enclosing the eulogy he had delivered at the memorial service held for his wife Lilias in 1931; in the letter Fisher disclosed the story of his first marriage.</p>
+            </scopecontent>
+            <c id="ref16" level="subseries">
+               <did>
+                  <unittitle>A. Hugh Fisher</unittitle>
+               </did>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Letters from friends "about my first book of poems"</unittitle>
+                     <unitdate type="inclusive">1913</unitdate>
+                     <container label="Mixed Materials (39002099255987)"
+                                id="aspace_c211a7d064e7d48d72906733d1e24aa7"
+                                type="box">1</container>
+                     <container id="aspace_026069c4d18e9e37594f9a060cfc86c7"
+                                type="folder"
+                                parent="aspace_c211a7d064e7d48d72906733d1e24aa7">1</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Correspondence with Board of Education, Trenton, New Jersey</unittitle>
+                     <unitdate type="inclusive">1925-1926</unitdate>
+                     <container label="Mixed Materials (39002099255987)"
+                                id="aspace_3b944608f2875777c252ad342690494d"
+                                type="box">1</container>
+                     <container id="aspace_0068654b348a2680077d65448629f85c"
+                                type="folder"
+                                parent="aspace_3b944608f2875777c252ad342690494d">2</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Letter and cards from György (George) Buday</unittitle>
+                     <unitdate type="inclusive">1939</unitdate>
+                     <container label="Mixed Materials (39002099255987)"
+                                id="aspace_1caf4ed2e649ad7e0a13a70f73790770"
+                                type="box">1</container>
+                     <container id="aspace_cf5d1c70285f6c47c3165b03e83ba7b8"
+                                type="folder"
+                                parent="aspace_1caf4ed2e649ad7e0a13a70f73790770">3</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Letter to Miss Pye</unittitle>
+                     <unitdate type="inclusive">1924 Feb 25</unitdate>
+                     <container label="Mixed Materials (39002099255987)"
+                                id="aspace_88fca500c725bcf072956440f941f6e5"
+                                type="box">1</container>
+                     <container id="aspace_334448933e751c88bc9e13a5a59a350e"
+                                type="folder"
+                                parent="aspace_88fca500c725bcf072956440f941f6e5">4</container>
+                  </did>
+                  <odd id="aspace_f52a1868e1409ea2cf8f247b7ae02717">
+                     <head>General note</head>
+                     <p>Possibly Sibyl Pye (1879-1958); accompanied by three autograph manuscript sonnets: "On the Sea at Night," "A Lodging for the Night," and "Shelley," plus a typescript book review</p>
+                     <p>Removed from A. Hugh Fisher, <title type="simple" render="italic">
+                           Poems
+                        </title> (1913); gift of Bertram Rota.</p>
+                  </odd>
+               </c>
+            </c>
+            <c id="ref22" level="subseries">
+               <did>
+                  <unittitle>Herbert F. West</unittitle>
+               </did>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Letters from A. Hugh Fisher</unittitle>
+                     <unitdate type="inclusive">1938-1940 Aug</unitdate>
+                     <container label="Mixed Materials (39002099255987)"
+                                id="aspace_d2cea39299cd7a145b1d2b0d1a562724"
+                                type="box">1</container>
+                     <container id="aspace_13c9d1eb58db9af6698dbc6adf8183d8"
+                                type="folder"
+                                parent="aspace_d2cea39299cd7a145b1d2b0d1a562724">5-15</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Letters from A. Hugh Fisher</unittitle>
+                     <unitdate type="inclusive">1940 Sep-1945, undated</unitdate>
+                     <container label="Mixed Materials (39002099255995)"
+                                id="aspace_e4222224167a0cd8e3838aae08864814"
+                                type="box">2</container>
+                     <container id="aspace_fbc4d19196ae1e14aa128d8d2b050514"
+                                type="folder"
+                                parent="aspace_e4222224167a0cd8e3838aae08864814">16-29</container>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Letters from Dorothy Andrews</unittitle>
+                     <unitdate type="inclusive">1941, 1945</unitdate>
+                     <container label="Mixed Materials (39002099255995)"
+                                id="aspace_07e07391ab562bb67b430476c9d45b43"
+                                type="box">2</container>
+                     <container id="aspace_48f215f3c8cc1f8e0b62e4e4d6b1f61a"
+                                type="folder"
+                                parent="aspace_07e07391ab562bb67b430476c9d45b43">30</container>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Correspondence with Mary Bernhard-Smith</unittitle>
+                     <unitdate type="inclusive">1945-1954</unitdate>
+                     <container label="Mixed Materials (39002099255995)"
+                                id="aspace_0c36cb6aeebde27dc028862e5c916715"
+                                type="box">2</container>
+                     <container id="aspace_5c9c5cc04153044f31ecaa82aeab0d10"
+                                type="folder"
+                                parent="aspace_0c36cb6aeebde27dc028862e5c916715">31</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Correspondence with Elizabeth Manning Whitmore</unittitle>
+                     <unitdate type="inclusive">1946-1950</unitdate>
+                     <container label="Mixed Materials (39002099255995)"
+                                id="aspace_4bcdc43625400837e3f6ec589c810c34"
+                                type="box">2</container>
+                     <container id="aspace_42ce4f6b50b1bcc2b75985d05fd0b2d0"
+                                type="folder"
+                                parent="aspace_4bcdc43625400837e3f6ec589c810c34">32</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref30" level="series">
+            <did>
+               <unittitle>Writings, Ephemera, and Photographs</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">1.25</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(3 boxes)</physdesc>
+               <unitdate type="inclusive">1860-1945</unitdate>
+            </did>
+            <arrangement id="aspace_d45ed72c6b1d58614c93a47db048e939">
+               <head>Arrangement</head>
+               <p>Series II is organized into three subseries: Writings, Ephemera, and Photographs</p>
+            </arrangement>
+            <scopecontent id="aspace_a162c0b498deb55cf0f71ca1c6be13d9">
+               <head>Scope and Contents</head>
+               <p>Fisher had hopes that West would write his biography, and supplied him with many types of source material including his own memoirs, a mix of manuscripts, typescripts, and carbon copies. Some appear to have been written in the 1930s, but also present are the original commercial duplicate books in which Fisher recorded his COVIC observations, in the form of "diary letters" to Halford Mackinder; the volumes retain the carbon pages and, in some cases, the torn-out top sheets. Fisher's memoir of Hammersmith concentrates on his neighbors, the art critic and historian Frederic George Stephens and his family, as well as May Morris, Emery Walker, and others living nearby. Many of Fisher's letters to West (in Series I) also recount episodes of his life, so should also be consulted for biographical information. Other writings include essays, short stories, and book reviews, some of which Fisher wrote under his pseudonym of Caleb Reade.</p>
+               <p>Ephemera contains catalogues and tickets from Fisher's exhibitions in Liverpool (1905) and London (1913), various promotional materials, clippings about his COVIC service (1907), and music by Jennie La Forge Cutler to Fisher's poem "Song of the Wind" (1914). A folder of photographs holds four snapshots and two formal portraits of Fisher; a large-format mounted photograph, taken while Fisher sat for his portrait to be carved in marble by means of a three-dimensional pantograph, is in Box 7.</p>
+            </scopecontent>
+            <c id="ref32" level="subseries">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Autobiographical and travel writings</unittitle>
+                  </did>
+                  <odd id="aspace_43d23d3a1614139bc42a832211eb12a5">
+                     <head>General note</head>
+                     <p>Arranged in chronological order by content</p>
+                  </odd>
+                  <c id="ref34" level="file">
+                     <did>
+                        <unittitle>Timeline of life events, 1867-1945</unittitle>
+                        <unitdate type="inclusive">1939, 1945</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_3337d341c9ba3a10835e74df18c707bd"
+                                   type="box">3</container>
+                        <container id="aspace_0e208d0374c01107b3df4b0840933998"
+                                   type="folder"
+                                   parent="aspace_3337d341c9ba3a10835e74df18c707bd">33</container>
+                     </did>
+                     <odd id="aspace_426822dfd3ca1704bf629b0a4af4af51">
+                        <head>General note</head>
+                        <p>See letter to West of April 4, 1939</p>
+                     </odd>
+                  </c>
+                  <c id="ref36" level="file">
+                     <did>
+                        <unittitle>Timeline of life events, 1914-1933</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_57caac3ca4da634dff4e53ca057edc9b"
+                                   type="box">3</container>
+                        <container id="aspace_04c43585344525653c792646cbdec714"
+                                   type="folder"
+                                   parent="aspace_57caac3ca4da634dff4e53ca057edc9b">34</container>
+                     </did>
+                  </c>
+                  <c id="ref37" level="file">
+                     <did>
+                        <unittitle>Memoir of his mother, Isabella Read Smith Fisher</unittitle>
+                        <unitdate type="inclusive">1860-circa 1939</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_35ce5ac7a187a8079f2f1f2b25d2d7ca"
+                                   type="box">3</container>
+                        <container id="aspace_6d6252ae729292cd8f600f4c21d5db12"
+                                   type="folder"
+                                   parent="aspace_35ce5ac7a187a8079f2f1f2b25d2d7ca">35</container>
+                     </did>
+                     <odd id="aspace_cb94161c6e50f33e44512635cd2e9841">
+                        <head>General note</head>
+                        <p>Includes portrait photograph (1916) and letter from Erasmus Alvey Darwin (1804-1881) to Isabella Smith (1860)</p>
+                     </odd>
+                  </c>
+                  <c id="ref39" level="file">
+                     <did>
+                        <unittitle>Memoir of the years from 1866-1900</unittitle>
+                        <unitdate type="inclusive">circa 1939</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_bc44eba374244cd552865b41e7182398"
+                                   type="box">3</container>
+                        <container id="aspace_4800e5213da3327e24a10c03a3fa9a84"
+                                   type="folder"
+                                   parent="aspace_bc44eba374244cd552865b41e7182398">36</container>
+                     </did>
+                     <odd id="aspace_8eacd6dbe0156819a5a0de07ff9cff15">
+                        <head>General note</head>
+                        <p>Includes biographical information about his father, Alfred George Fisher</p>
+                     </odd>
+                  </c>
+                  <c id="ref41" level="file">
+                     <did>
+                        <unittitle>Memoir of the years in Hammersmith, 1901-1907</unittitle>
+                        <unitdate type="inclusive">1940</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_b1a209145decbf296074139b3b280ff8"
+                                   type="box">3</container>
+                        <container id="aspace_ce5c6d3602362fad3300435c1ce67b90"
+                                   type="folder"
+                                   parent="aspace_b1a209145decbf296074139b3b280ff8">37</container>
+                     </did>
+                  </c>
+                  <c id="ref42" level="file">
+                     <did>
+                        <unittitle>Memoir of the years in Hammersmith, 1902-1904</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_d66c68bcf02ecac200cabe5027dd730b"
+                                   type="box">3</container>
+                        <container id="aspace_79f6806bb9d648837dff755dec17af0b"
+                                   type="folder"
+                                   parent="aspace_d66c68bcf02ecac200cabe5027dd730b">38</container>
+                     </did>
+                  </c>
+                  <c id="ref43" level="file">
+                     <did>
+                        <unittitle>Memoir of London, 1903-1904</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_e2462598a4150449a4fd9b4690d91e42"
+                                   type="box">3</container>
+                        <container id="aspace_b473a999947d17a25908cc03cbd2498b"
+                                   type="folder"
+                                   parent="aspace_e2462598a4150449a4fd9b4690d91e42">39</container>
+                     </did>
+                  </c>
+                  <c id="ref44" level="file">
+                     <did>
+                        <unittitle>Journal: Ceylon</unittitle>
+                        <unitdate type="inclusive">1907</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_8c7f18c1f09d38fc55389fb0d282c317"
+                                   type="box">3</container>
+                        <container id="aspace_43adc02c1173b16950d53b3520a2cd2f"
+                                   type="folder"
+                                   parent="aspace_8c7f18c1f09d38fc55389fb0d282c317">40</container>
+                     </did>
+                  </c>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>Journal: Canada, China, Japan, Singapore, Borneo, and Canada, 1908-1909</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_1a9ad1afaac618ee513a1f526e57d219"
+                                   type="box">3</container>
+                        <container id="aspace_5637af5b18ff6b169e5eda1d01abe88d"
+                                   type="folder"
+                                   parent="aspace_1a9ad1afaac618ee513a1f526e57d219">41-42</container>
+                     </did>
+                     <odd id="aspace_2cfff0f8ced70c17442270ee3a0b3674">
+                        <head>General note</head>
+                        <p>Typed transcription from journal books not present in the collection</p>
+                     </odd>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>Journal: Hong Kong and Japan</unittitle>
+                        <unitdate type="inclusive">1908-1909</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_1fdcf5723823da97cdca58e6f7908123"
+                                   type="box">3</container>
+                        <container id="aspace_4c644ff179814017db782b3a2d1b0482"
+                                   type="folder"
+                                   parent="aspace_1fdcf5723823da97cdca58e6f7908123">43</container>
+                     </did>
+                  </c>
+                  <c id="ref48" level="file">
+                     <did>
+                        <unittitle>Transcript of honeymoon diary kept by Lilias Fisher, June 1909</unittitle>
+                        <unitdate type="inclusive">1940</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_995bb898b727c5f7e1be74d155ab5505"
+                                   type="box">3</container>
+                        <container id="aspace_84c68c272837223a49b0806b4173a646"
+                                   type="folder"
+                                   parent="aspace_995bb898b727c5f7e1be74d155ab5505">44</container>
+                     </did>
+                  </c>
+                  <c id="ref49" level="file">
+                     <did>
+                        <unittitle>Journal: Gibraltar and Malta</unittitle>
+                        <unitdate type="inclusive">1909</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_bb8be0e49cc9effa2d41cf77f7d4e6ae"
+                                   type="box">3</container>
+                        <container id="aspace_340c23d808043cba443743bd4dcba934"
+                                   type="folder"
+                                   parent="aspace_bb8be0e49cc9effa2d41cf77f7d4e6ae">45</container>
+                     </did>
+                  </c>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>Journal: Malta and Australia</unittitle>
+                        <unitdate type="inclusive">1909-1910</unitdate>
+                        <container label="Mixed Materials (39002099256001)"
+                                   id="aspace_2ea8377cb924d5f2506f5691d1e1989c"
+                                   type="box">3</container>
+                        <container id="aspace_2f00c75c530916a13b5f17ae8651b848"
+                                   type="folder"
+                                   parent="aspace_2ea8377cb924d5f2506f5691d1e1989c">46</container>
+                     </did>
+                  </c>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>Journal: Tasmania and New Zealand</unittitle>
+                        <unitdate type="inclusive">1910</unitdate>
+                        <container label="Mixed Materials (39002099256019)"
+                                   id="aspace_7c07d3b265f66cb4bd498a447a51cc96"
+                                   type="box">4</container>
+                        <container id="aspace_44703580f09de03df952cb8a1e2a75c2"
+                                   type="folder"
+                                   parent="aspace_7c07d3b265f66cb4bd498a447a51cc96">47</container>
+                     </did>
+                  </c>
+                  <c id="ref52" level="file">
+                     <did>
+                        <unittitle>Journal: New Zealand and Tonga</unittitle>
+                        <unitdate type="inclusive">1910</unitdate>
+                        <container label="Mixed Materials (39002099256019)"
+                                   id="aspace_fc53fb3b087f4c728184490425c1bd17"
+                                   type="box">4</container>
+                        <container id="aspace_40f385523edcc7e96a91f71a27b65e3a"
+                                   type="folder"
+                                   parent="aspace_fc53fb3b087f4c728184490425c1bd17">48</container>
+                     </did>
+                  </c>
+                  <c id="ref53" level="file">
+                     <did>
+                        <unittitle>Journal: Tonga and Fiji</unittitle>
+                        <unitdate type="inclusive">1910</unitdate>
+                        <container label="Mixed Materials (39002099256019)"
+                                   id="aspace_8f041776b1da8cfda565f3d44f338356"
+                                   type="box">4</container>
+                        <container id="aspace_912bc7ee7c8df45d9251b17719421372"
+                                   type="folder"
+                                   parent="aspace_8f041776b1da8cfda565f3d44f338356">49</container>
+                     </did>
+                  </c>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>Journal: Fiji and Australia</unittitle>
+                        <unitdate type="inclusive">1910</unitdate>
+                        <container label="Mixed Materials (39002099256019)"
+                                   id="aspace_a565097fafb2fee1caa422ed9c205599"
+                                   type="box">4</container>
+                        <container id="aspace_381d43450413981ea0f57c6db3753cd3"
+                                   type="folder"
+                                   parent="aspace_a565097fafb2fee1caa422ed9c205599">50</container>
+                     </did>
+                  </c>
+                  <c id="ref55" level="file">
+                     <did>
+                        <unittitle>Journal: Australia</unittitle>
+                        <unitdate type="inclusive">1910</unitdate>
+                        <container label="Mixed Materials (39002099256019)"
+                                   id="aspace_5ef943bb1a980cc53384f10e746220c6"
+                                   type="box">4</container>
+                        <container id="aspace_3724eb851dff7b8f7d20615efd928c7b"
+                                   type="folder"
+                                   parent="aspace_5ef943bb1a980cc53384f10e746220c6">51</container>
+                     </did>
+                  </c>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>Notes on travels in Hungary and Czechoslovakia, 1932</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_fc883008e5b8e0c05a27c078c6766414"
+                                   type="box">5</container>
+                        <container id="aspace_eb5ac6f078d8de56a8e345aa98a381f3"
+                                   type="folder"
+                                   parent="aspace_fc883008e5b8e0c05a27c078c6766414">52-53</container>
+                     </did>
+                  </c>
+                  <c id="ref57" level="file">
+                     <did>
+                        <unittitle>Miscellaneous memoirs</unittitle>
+                        <unitdate type="inclusive">1903-1925</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_4ff6e09fafd74fab391d510f476866d4"
+                                   type="box">5</container>
+                        <container id="aspace_b96f1fb93503d8e5d9afb89ff38f8fdf"
+                                   type="folder"
+                                   parent="aspace_4ff6e09fafd74fab391d510f476866d4">54</container>
+                     </did>
+                     <odd id="aspace_a7bd744786edc2924e34c2ad457535f6">
+                        <head>General note</head>
+                        <p>Includes "About George Moore"</p>
+                     </odd>
+                  </c>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>Other writings</unittitle>
+                  </did>
+                  <c id="ref61" level="file">
+                     <did>
+                        <unittitle>Book reviews by A. Hugh Fisher and Caleb Reade</unittitle>
+                        <unitdate type="inclusive">1906-1926</unitdate>
+                        <physloc id="aspace_1717e767d61876da05a0ff62d1b8ca8d">Stored in: Oversize, Box 7, folder 70</physloc>
+                     </did>
+                  </c>
+                  <c id="ref63" level="file">
+                     <did>
+                        <unittitle>Notes regarding T. Sturge Moore</unittitle>
+                        <unitdate type="inclusive">1903-1938</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_46c1ee58996c7331d20a885db67bb657"
+                                   type="box">5</container>
+                        <container id="aspace_1fdd772ac51bdcf6b979485edb66f887"
+                                   type="folder"
+                                   parent="aspace_46c1ee58996c7331d20a885db67bb657">55</container>
+                     </did>
+                  </c>
+                  <c id="ref64" level="file">
+                     <did>
+                        <unittitle>Obituaries for Frederic Stevens and T. Sturge Moore</unittitle>
+                        <unitdate type="inclusive">1907, 1941</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_736ba2a9a847506a47e0667b2b340cf8"
+                                   type="box">5</container>
+                        <container id="aspace_9d21115c9aa565e920782f53d4d6a972"
+                                   type="folder"
+                                   parent="aspace_736ba2a9a847506a47e0667b2b340cf8">56</container>
+                     </did>
+                  </c>
+                  <c id="ref65" level="file">
+                     <did>
+                        <unittitle>Poems (manuscripts, tear sheets, and clippings from periodicals)</unittitle>
+                        <unitdate type="inclusive">1896-1929</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_893ab279b2186c4a99da4d4cc5594064"
+                                   type="box">5</container>
+                        <container id="aspace_2f1d57218cdb2cd5fb635df3b734748d"
+                                   type="folder"
+                                   parent="aspace_893ab279b2186c4a99da4d4cc5594064">57</container>
+                     </did>
+                  </c>
+                  <c id="ref66" level="file">
+                     <did>
+                        <unittitle>Travel writings, published (tear sheets and clippings from periodicals)</unittitle>
+                        <unitdate type="inclusive">1901-1914</unitdate>
+                        <physloc id="aspace_bff7c8208b38f6b81d9a31086646fcf4">Also stored in: Oversize, Box 7, folder 71</physloc>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_1110b3fa4ccb91a0cd3bb8ae6ef5356a"
+                                   type="box">5</container>
+                        <container id="aspace_62af0558146e4e4d9f014a9439ba1186"
+                                   type="folder"
+                                   parent="aspace_1110b3fa4ccb91a0cd3bb8ae6ef5356a">58</container>
+                     </did>
+                  </c>
+                  <c id="ref68" level="file">
+                     <did>
+                        <unittitle>Miscellaneous essays, letters to editors, short stories, and talks</unittitle>
+                        <unitdate type="inclusive">1896-1933, undated</unitdate>
+                        <container label="Mixed Materials (39002099256027)"
+                                   id="aspace_bf23c3b5ecdbd568ff60dc6a105180de"
+                                   type="box">5</container>
+                        <container id="aspace_f7a3e0e60bf43b3974fd9bb4dd97ffa9"
+                                   type="folder"
+                                   parent="aspace_bf23c3b5ecdbd568ff60dc6a105180de">59-60</container>
+                     </did>
+                     <odd id="aspace_f9932424e77972356d9184b03b4f8506">
+                        <head>General note</head>
+                        <p>Includes autograph manuscripts, typescripts, and clippings</p>
+                     </odd>
+                  </c>
+               </c>
+            </c>
+            <c id="ref70" level="subseries">
+               <did>
+                  <unittitle>Ephemera</unittitle>
+               </did>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>Ephemera</unittitle>
+                     <unitdate type="inclusive">1899-1942</unitdate>
+                     <physloc id="aspace_b444815b39a85000751d03261fd8e24a">Also stored in: Oversize, Box 7, folder 72</physloc>
+                     <container label="Mixed Materials (39002099256027)"
+                                id="aspace_5da0ea6e613810fc543354f223292cef"
+                                type="box">5</container>
+                     <container id="aspace_5c62881ccf716dce95b0abf8c4fab039"
+                                type="folder"
+                                parent="aspace_5da0ea6e613810fc543354f223292cef">61</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref73" level="subseries">
+               <did>
+                  <unittitle>Photographs</unittitle>
+               </did>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>Photographs</unittitle>
+                     <unitdate type="inclusive">1886-1932, undated</unitdate>
+                     <physloc id="aspace_04dbaf290a2fadfd6765de6daa61aa97">Also stored in: Oversize, Box 7, folder 73</physloc>
+                     <container label="Mixed Materials (39002099256027)"
+                                id="aspace_b785721e16328b2e9f47c09d3368134f"
+                                type="box">5</container>
+                     <container id="aspace_fa297d01e462504ecdc9719c868de305"
+                                type="folder"
+                                parent="aspace_b785721e16328b2e9f47c09d3368134f">62</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref78" level="series">
+            <did>
+               <unittitle>Fine Art</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.21</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1881-1941</unitdate>
+            </did>
+            <arrangement id="aspace_e28a1df5e8e12e6e887a7e068092f691">
+               <head>Arrangement</head>
+               <p>Series III is organized into four subseries: Drawings, Paintings, Prints, and Reproductions.</p>
+            </arrangement>
+            <scopecontent id="aspace_511e81fb70cf1cb2649b808963647ffd">
+               <head>Scope and Contents</head>
+               <p>Drawn and etched portraits include Fisher's literary friends Walter de la Mare, George W. Russell ("A.E."), and W. B. Yeats, among others, as well as the author/artist T. Sturge Moore. There are two self-portraits, two portraits of Fisher's second wife Lilias, and two of the printmaker Gyula (Julius) Komjati; many of the prints were inscribed by the artist to Herbert West. The Paintings subseries primarily contains watercolors, with one work in oil, and includes two views of the home of author Margaret Leigh. Box 9 holds two mats specially designed for the watercolors "Rocks at Low Tide" and "Wagon Shed, France" (stored in Box 8; see August 13, 1939, letter from Fisher to West). Prints also holds a series of woodcuts Fisher made to accompany Milton's "Lycidas," which were meant to be published by the Black Cat Press in Chicago; the volume was never issued. The subseries ends with one etching by Gyula Komjati. Reproductions contains photographs and photostats of Fisher's work, as well as some of his illustrations in clippings and tearsheets from publications.</p>
+            </scopecontent>
+            <c id="ref80" level="subseries">
+               <did>
+                  <unittitle>Drawings</unittitle>
+               </did>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>England</unittitle>
+                     <unitdate type="inclusive">1881, 1940</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_4bed34b13da05f611b5edc4f4aa4d991"
+                                type="box">6</container>
+                     <container id="aspace_df77cc1caa4bbd4d0b1880930711ccf2"
+                                type="folder"
+                                parent="aspace_4bed34b13da05f611b5edc4f4aa4d991">63</container>
+                  </did>
+                  <odd id="aspace_236da85aec268f28b8d7d26ecfe79cc2">
+                     <head>General note</head>
+                     <p>Contains "Cornwall" (1881) and "All Souls" (1940)</p>
+                  </odd>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>"The Gods at Golf," illustrated poem</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_d89f0eb1bc7b01031e0465439326b0bd"
+                                type="box">6</container>
+                     <container id="aspace_ffb0b118ac2821f563151e9d7e0511f9"
+                                type="folder"
+                                parent="aspace_d89f0eb1bc7b01031e0465439326b0bd">64</container>
+                  </did>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>Portraits</unittitle>
+                     <unitdate type="inclusive">1919-1941</unitdate>
+                     <physloc id="aspace_d33e7a56bc8b500d586945d17df031c0">Stored in: Oversize, Box 7, folder 74</physloc>
+                  </did>
+                  <odd id="aspace_fc625ddbb67536fff6a77035715fdb8d">
+                     <head>General note</head>
+                     <p>Contains Lascelles Abercrombie (1919), Felix Andrews (1938), Gordon Bottomley (1921), Walter de la Mare (undated), A. Hugh Fisher (2 self-portraits, 1938 and 1941), Lilias Fisher (1927), Oscar Levy (1941), T. Sturge Moore (1922), George W. Russell (1934), and W. B. Yeats (1932)</p>
+                  </odd>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>Sketches from classical sculptures (2)</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <physloc id="aspace_07036e9076e3e062aeb783d62e227163">Stored in: Oversize, Box 7, folder 75</physloc>
+                  </did>
+               </c>
+            </c>
+            <c id="ref89" level="subseries">
+               <did>
+                  <unittitle>Paintings</unittitle>
+               </did>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Coastal scene, watercolor</unittitle>
+                     <unitdate type="inclusive">1939</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_6c0d1fbc991becadb472487c45282806"
+                                type="box">6</container>
+                     <container id="aspace_0c9577e9e951360d9e140a3fa7ad649d"
+                                type="folder"
+                                parent="aspace_6c0d1fbc991becadb472487c45282806">65</container>
+                  </did>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>Calf, oil on canvas mounted on board</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <physloc id="aspace_a9161f9ef37bca23734222d0ed6291ab">Stored in: Oversize, Box 8, folder 76</physloc>
+                  </did>
+               </c>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>Margaret Leigh's home on Bodmin Moor, Cornwall, watercolor (2 scenes)</unittitle>
+                     <unitdate type="inclusive">[1936]</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_643230de33e0fbf53aad596a9a99b1bd"
+                                type="box">6</container>
+                     <container id="aspace_05fe1d30fbf365cb173ca0147ab20183"
+                                type="folder"
+                                parent="aspace_643230de33e0fbf53aad596a9a99b1bd">66</container>
+                  </did>
+               </c>
+               <c id="ref94" level="file">
+                  <did>
+                     <unittitle>"Rocks and Low Tide," watercolor on paper</unittitle>
+                     <unitdate type="inclusive">1939</unitdate>
+                     <physloc id="aspace_1a7651ab96b08106f5035dacae9b1a56">Stored in: Oversize, Box 8, folder 77</physloc>
+                  </did>
+               </c>
+               <c id="ref96" level="file">
+                  <did>
+                     <unittitle>Scenes on Bodmin Moor, Cornwall (3), watercolor on paper mounted on board</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <physloc id="aspace_9ce1758391e4ac8f70aebb129382e658">Stored in: Oversize, Box 8, folder 78</physloc>
+                  </did>
+               </c>
+               <c id="ref98" level="file">
+                  <did>
+                     <unittitle>"Wagon Shed, France," watercolor on board</unittitle>
+                     <unitdate type="inclusive">1939</unitdate>
+                     <physloc id="aspace_532c6fae095da47654fb5dbd1eeeff53">Stored in: Oversize, Box 8, folder 79</physloc>
+                  </did>
+               </c>
+            </c>
+            <c id="ref100" level="subseries">
+               <did>
+                  <unittitle>Prints</unittitle>
+               </did>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>Birds and animals</unittitle>
+                     <unitdate type="inclusive">1928, undated</unitdate>
+                     <physloc id="aspace_9e92f0c41d68e385b1c1c58739fc05fd">Stored in: Oversize, Box 8, folder 80</physloc>
+                  </did>
+                  <odd id="aspace_4f394972c559296880818840ae91f599">
+                     <head>General note</head>
+                     <p>Contains "Jimmy the puma," "The Shearers," "Spectacled Owls" (1928), "Study of a Long-eared Owl," and "Study of a Rook"</p>
+                  </odd>
+               </c>
+               <c id="ref104" level="file">
+                  <did>
+                     <unittitle>Czechoslovakia and Hungary</unittitle>
+                     <unitdate type="inclusive">1933, undated</unitdate>
+                     <physloc id="aspace_ae46cb61ae882d199f03a5dad10ed9e4">Stored in: Oversize, Box 8, folder 81</physloc>
+                  </did>
+                  <odd id="aspace_02386fbf18409034269d08f0333a95ac">
+                     <head>General note</head>
+                     <p>Contains "Budapest Early Morning," "Budapest the Two-fold City," "Coronation Church, Budapest," "Czecho-Slovak peasant" (1933), "Daphnis and Chloe (Czecho-Slovakia)" (2 copies), "Firtrees, Brodyan, Czechoslovakia," "Hungarian Plain," "The Little Carpathians," and "The Mayor's Guard" (1933)</p>
+                  </odd>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>England</unittitle>
+                     <unitdate type="inclusive">1886-1927, undated</unitdate>
+                     <physloc id="aspace_959da98ee028cf02d2ec845fd987dd98">Stored in: Oversize, Box 8, folder 82</physloc>
+                  </did>
+                  <odd id="aspace_3e9060439fa7913fabd4a2b66d697263">
+                     <head>General note</head>
+                     <p>Contains "Looking towards Holmbury from Leith" (1886), "Princes Riseborough in Snow" (1927), and "The Square, Winchester" (undated)</p>
+                  </odd>
+               </c>
+               <c id="ref110" level="file">
+                  <did>
+                     <unittitle>"Lycidas" woodcuts made to accompany Milton poem</unittitle>
+                     <unitdate type="inclusive">circa 1923</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_ccd6525fdf7febdb219b99fe582b6be5"
+                                type="box">6</container>
+                     <container id="aspace_b44db4197f3bf0f0b4aa7ec5ae88d60c"
+                                type="folder"
+                                parent="aspace_ccd6525fdf7febdb219b99fe582b6be5">67</container>
+                  </did>
+                  <odd id="aspace_1e4346b670c1cbada6bc3d8e47e88157">
+                     <head>General note</head>
+                     <p>Also contains second set, trial proofs, inscribed to Roger Ingpen; gift of Robert Barry</p>
+                  </odd>
+               </c>
+               <c id="ref112" level="file">
+                  <did>
+                     <unittitle>Portraits</unittitle>
+                     <unitdate type="inclusive">1901-1936, undated</unitdate>
+                     <physloc id="aspace_d815301af0de47722e2a7e97b1235db6">Stored in: Oversize, Box 8, folder 83</physloc>
+                  </did>
+                  <odd id="aspace_b2b612a62f23244456562ae390298bfc">
+                     <head>General note</head>
+                     <p>Contains portraits of Lilias Fisher (titled "The French Hat," 1906), Gyula (Julius) Komjati (2 images, 1933), William F. Revell (2 copies, one titled "Portrait of a Philosopher," 1901), Béla Szylágyi (titled "Hungarian Calvinist Pastor," 1936), and W. B. Yeats</p>
+                  </odd>
+               </c>
+               <c id="ref115" level="file">
+                  <did>
+                     <unittitle>"Neer do well," etching by Gyula (Julius) Komjati</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_cca597872f6aabee638b96f44abc751e"
+                                type="box">6</container>
+                     <container id="aspace_ea7aa96551d3287ebcda30bca1c39d0d"
+                                type="folder"
+                                parent="aspace_cca597872f6aabee638b96f44abc751e">68</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref116" level="subseries">
+               <did>
+                  <unittitle>Reproductions</unittitle>
+               </did>
+               <c id="ref117" level="file">
+                  <did>
+                     <unittitle>Reproductions</unittitle>
+                     <unitdate type="inclusive">1893-1941</unitdate>
+                     <physloc id="aspace_81347cf09215cd12d674c79f556a3deb">Also stored in: Oversize, Box 8, folder 84</physloc>
+                     <container label="Mixed Materials (39002099256035)"
+                                id="aspace_46ca97fb4cc6b48a706f2a9c0980fb07"
+                                type="box">6</container>
+                     <container id="aspace_b06b8f0a9ce403104f5108c81e688bfc"
+                                type="folder"
+                                parent="aspace_46ca97fb4cc6b48a706f2a9c0980fb07">69</container>
+                  </did>
+                  <odd id="aspace_c384a1f8720d5248642e90269317c24c">
+                     <head>General note</head>
+                     <p>Includes contemporary photographs and photostats of Fisher's works, as well as printed reproductions and tear sheets; also includes reproduction of a portrait drawing of Fisher by A. Filmore Valentine</p>
+                  </odd>
+               </c>
+            </c>
+         </c>
+         <c id="ref122" level="series">
+            <did>
+               <unittitle>OVERSIZE</unittitle>
+            </did>
+            <c id="ref123" level="file">
+               <did>
+                  <unittitle>Writings: book reviews by A. Hugh Fisher and Caleb Reade (in Series II)</unittitle>
+                  <unitdate type="inclusive">1906-1926</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_0d14a9ae9da498bc5aaec587349d8ff8"
+                             type="box">7</container>
+                  <container id="aspace_55ed687d88ec899f5f0f645477dceadd"
+                             type="folder"
+                             parent="aspace_0d14a9ae9da498bc5aaec587349d8ff8">70</container>
+               </did>
+            </c>
+            <c id="ref124" level="file">
+               <did>
+                  <unittitle>Writings: travel writings, published (tear sheets and clippings from periodicals) (in Series II)</unittitle>
+                  <unitdate type="inclusive">1910-1913</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_2d15681803bb01f4e0238b9d35517528"
+                             type="box">7</container>
+                  <container id="aspace_b5ff05519ff422e9364d962cb50baa00"
+                             type="folder"
+                             parent="aspace_2d15681803bb01f4e0238b9d35517528">71</container>
+               </did>
+            </c>
+            <c id="ref125" level="file">
+               <did>
+                  <unittitle>Ephemera: music by Jennie La Forge Cutler (in Series II)</unittitle>
+                  <unitdate type="inclusive">1914</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_da20e4911c766222865d176c10df8375"
+                             type="box">7</container>
+                  <container id="aspace_c443bd8147ef1bb1acfcbb8577549009"
+                             type="folder"
+                             parent="aspace_da20e4911c766222865d176c10df8375">72</container>
+               </did>
+            </c>
+            <c id="ref126" level="file">
+               <did>
+                  <unittitle>Photograph of Fisher (in Series II)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_9d4b0a7bf51bce59b9ff58ef65425ead"
+                             type="box">7</container>
+                  <container id="aspace_d955b6b10cac54203d4ea1578f3c7346"
+                             type="folder"
+                             parent="aspace_9d4b0a7bf51bce59b9ff58ef65425ead">73</container>
+               </did>
+            </c>
+            <c id="ref127" level="file">
+               <did>
+                  <unittitle>Drawings: Portraits (in Series III)</unittitle>
+                  <unitdate type="inclusive">1919-1941</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_1f9a8e9833816a22488461914546ee27"
+                             type="box">7</container>
+                  <container id="aspace_9d2dbbad275fba4b1357d8ba4d65bc18"
+                             type="folder"
+                             parent="aspace_1f9a8e9833816a22488461914546ee27">74</container>
+               </did>
+            </c>
+            <c id="ref128" level="file">
+               <did>
+                  <unittitle>Drawings: Sketches from classical sculptures (2) (in Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099256043)"
+                             id="aspace_b4a9f3571a575708570a06d8393e034b"
+                             type="box">7</container>
+                  <container id="aspace_4e2459c349b28ec441eff713c49d01b2"
+                             type="folder"
+                             parent="aspace_b4a9f3571a575708570a06d8393e034b">75</container>
+               </did>
+            </c>
+            <c id="ref129" level="file">
+               <did>
+                  <unittitle>Paintings: Calf (in Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_599e2c4b4fbb34c73e21ca5428e78075"
+                             type="box">8</container>
+                  <container id="aspace_4ff236272161ffd3b4be4e17626076c1"
+                             type="folder"
+                             parent="aspace_599e2c4b4fbb34c73e21ca5428e78075">76</container>
+               </did>
+            </c>
+            <c id="ref130" level="file">
+               <did>
+                  <unittitle>Paintings: "Rocks and Low Tide" (in Series III)</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_55df4d1e8f9739718b46e16dcb22bf57"
+                             type="box">8</container>
+                  <container id="aspace_9746cf42ef9ae866be4315c959b10060"
+                             type="folder"
+                             parent="aspace_55df4d1e8f9739718b46e16dcb22bf57">77</container>
+               </did>
+            </c>
+            <c id="ref131" level="file">
+               <did>
+                  <unittitle>Paintings: Scenes on Bodmin Moor, Cornwall (3) (in Series III)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_62dd534a670f468bab8950e01c241057"
+                             type="box">8</container>
+                  <container id="aspace_70c496129746f765fc490b4e920dbec5"
+                             type="folder"
+                             parent="aspace_62dd534a670f468bab8950e01c241057">78</container>
+               </did>
+            </c>
+            <c id="ref132" level="file">
+               <did>
+                  <unittitle>Paintings: "Wagon Shed, France" (in Series III)</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_37153323194d22a001e0dbc51afcc153"
+                             type="box">8</container>
+                  <container id="aspace_190e2d343a135fcc6a907dd921898bae"
+                             type="folder"
+                             parent="aspace_37153323194d22a001e0dbc51afcc153">79</container>
+               </did>
+            </c>
+            <c id="ref133" level="file">
+               <did>
+                  <unittitle>Prints: Birds and animals (in Series III)</unittitle>
+                  <unitdate type="inclusive">1928, undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_746f8f99cad02dcffca5948eb6ce34e9"
+                             type="box">8</container>
+                  <container id="aspace_bbb001d8156cbf3098c06555105c8aa9"
+                             type="folder"
+                             parent="aspace_746f8f99cad02dcffca5948eb6ce34e9">80</container>
+               </did>
+            </c>
+            <c id="ref134" level="file">
+               <did>
+                  <unittitle>Prints: Czechoslovakia and Hungary (in Series III)</unittitle>
+                  <unitdate type="inclusive">1933, undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_90d187e58b18bbab9aaedb0cea57a54f"
+                             type="box">8</container>
+                  <container id="aspace_98c897faf6437dc8c371c6b069bb4eda"
+                             type="folder"
+                             parent="aspace_90d187e58b18bbab9aaedb0cea57a54f">81</container>
+               </did>
+            </c>
+            <c id="ref135" level="file">
+               <did>
+                  <unittitle>Prints: England (in Series III)</unittitle>
+                  <unitdate type="inclusive">1886-1927, undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_e1825fc9295320c318363016fb5352a5"
+                             type="box">8</container>
+                  <container id="aspace_6459e8ceae9634c436e605b49b3883ee"
+                             type="folder"
+                             parent="aspace_e1825fc9295320c318363016fb5352a5">82</container>
+               </did>
+            </c>
+            <c id="ref136" level="file">
+               <did>
+                  <unittitle>Prints: Portraits (in Series III)</unittitle>
+                  <unitdate type="inclusive">1901-1936, undated</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_50a87da6f6a6e15e9da9473ec433897f"
+                             type="box">8</container>
+                  <container id="aspace_969c21e245c3d02c12d0a3b0b52238d6"
+                             type="folder"
+                             parent="aspace_50a87da6f6a6e15e9da9473ec433897f">83</container>
+               </did>
+            </c>
+            <c id="ref137" level="file">
+               <did>
+                  <unittitle>Reproductions (in Series III)</unittitle>
+                  <unitdate type="inclusive">1893-1941</unitdate>
+                  <container label="Mixed Materials (39002099256050)"
+                             id="aspace_a57afd457ef15f03d36cdf0a58485eef"
+                             type="box">8</container>
+                  <container id="aspace_84246957f83fe5fc1eba9cd6fe90de77"
+                             type="folder"
+                             parent="aspace_a57afd457ef15f03d36cdf0a58485eef">84</container>
+               </did>
+            </c>
+            <c id="ref138" level="file">
+               <did>
+                  <unittitle>Special mats (2) created for watercolors (in Series III)</unittitle>
+                  <unitdate type="inclusive">1939</unitdate>
+                  <container label="Mixed Materials (39002099256068)"
+                             id="aspace_84998745ae9b7dcfdaaef58b9b71e8f8"
+                             type="box">9</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

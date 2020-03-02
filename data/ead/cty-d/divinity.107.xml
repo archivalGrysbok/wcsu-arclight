@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.107">divinity.107</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Council for Ecumenical Student Christian Ministry Records </titleproper>
+            <titleproper type="filing">Council for Ecumenical Student Christian Ministry Records</titleproper>
+            <author>Compiled by Sarah Scherschligt and Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2002</date>
+            <num>RG 107</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 23, 2019 at 22:00</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Council for Ecumenical Student Christian Ministry Records</unittitle>
+         <unitid>RG 107</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">7</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(15 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1956/2000">1956-2000</unitdate>
+         
+         <abstract id="aspace_35f19fbb1cd6c6addc6d44c27bdb554a">The Council for Ecumenical Student Christian Ministry (CESCM) was founded in 1987 to "in order to create new opportunities for involving students and campus ministries in the work to rebuild an ecumenical student Christian ministry in the United States." This record group contains material related to predecessor organizations and administrative files from CESCM from its inception in 1987 to 2000. The CESCM grew out of the National Ecumenical Student Christian Council (NESCC), which was preceeded by the National Ecumenical Student Conference (NESC) and the National Interim Committee (NIC). It has a relationship with global ecumenical student organizations through affiliate membership in the World Student Christian Federation.</abstract>
+         <origination label="creator">
+            <corpname source="local">
+               Council for Ecumenical Student Christian Ministry
+            </corpname>
+         </origination>
+    
+      </did>
+      <accessrestrict id="aspace_a930d1f600a2b1a45464716efc1d371c">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_6ae9b67bdc7651df5d88d8c749774066">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of CESCM</p>  
+      </acqinfo>
+      <prefercite id="aspace_22c68866f62a9e850a357e1fd1e95878">
+         <head>Preferred Citation</head>
+         <p>Council for Ecumenical Student Christian Ministry Records (RG 107), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_6af541f07b504262c0fa274d8f070b13">
+         <head>Biographical / Historical</head>
+         <chronlist>
+            <chronitem>
+               <date>1981 Aug 11-22</date>
+               
+                  <event>WSCF General Assembly in CA</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1981 Aug 21-25</date>
+               
+                  <event>National Ecumenical Student Conference (NESC) meets in Berkeley, CA</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1981</date>
+               
+                  <event>National Interim Committee is formed</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1983 Aug 11-15</date>
+               
+                  <event>2nd National Ecumenical Student Conference meets at University of Maryland, College Park</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1983 Aug</date>
+               
+                  <event>National Ecumenical Student Christian Council (NESCC) is formed</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1985Jul-Aug</date>
+               
+                  <event>NESCC General Assembly meets at DePaul University, Chicago</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1986 Feb 12-16</date>
+               
+                  <event>Leadership Development Conference sponsored by NESCC</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1986 Mar</date>
+               
+                  <event>NESCC collapsed in March 1986, shortly after the WSCF Mexico General Assembly; the North America Regional Committee (NARC) was disbanded; WSCF North America region effectively ceased to exist.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1987</date>
+               
+                  <event>Council for Ecumenical Student Christian Ministry is formed</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1988</date>
+               
+                  <event>CESCM recommends that WSCF North America staff be retained for two year interim.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1990 Dec 28 - 1991 Jan 1</date>
+               
+                  <event>"Celebrate" Conference (1)</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1994 Dec 28 - 1995 Jan 1</date>
+               
+                  <event>"Celebrate" Conference (2)</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1995</date>
+               
+                  <event>CESCM was affiliated with the WSCF as a member movement, joining student Christian movements from more than 80 countries</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1998 Dec 30 - 1999 Jan 3</date>
+               
+                  <event>"Celebrate" Conference (3)</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_00319b8b513f5da9eaa6cd5fc8bc1785">
+         <head>Scope and Contents</head>
+         <p>The records document ecumenical student Christian work in the United States and are valuable for the way in which they complement other archival collections at the Divinity Library. Added to papers of Ruth Harris, Margaret Flory, John R. Mott, Clarence P. Shedd, Robert Wilder, Luther Wishard, Henry Burt Wright and others, as well as the archives of the World Student Christian Federation, Student Volunteer Movement, Student Christian Movement in New England, New England Commission for United Ministries in Higher Education, National Campus Ministry Association and YMCA Student Division, the CESCM archives provide a detailed picture of the development of religious work among college and university students in the United States.</p>
+         <p>Series I contains background material and documents of the predecessor organizations of the CESCM, including the National Ecumenical Student Christian Council. Series II documents the "Celebrate" conferences - ecumenical student conferences coordinated by the CESCM. See YDSL Record groups 46A anad 46B for additional documentation of the World Student Christian Federation North America Region, with which the CESCM was affiliated.</p>
+         <p>Series III contains general adminstrative records of the CESCM: committee records, financial reports, staff reports, etc. It is divided into several subseries: Subseries 1: CESCM in formation; Subseries 2: Partners group; Subseries; 3: Steering and Administrative Committees; Subseries 4: Financial Records; Subseries 5: Staff Reports; Subseries 6: Program Activities; Subseries 7: CESCM Publications; Subseires 8: Correspondence files.</p>
+         <p>There is some overlap between the various subseries because the records came from the files of different individuals, particularly Ruth Harris and Gayla Spicknall. Gayla Spicknall was the primary CESCM staff member in its New York office from 1987 until 1992, when she was stricken with cancer. Ruth Harris was a CESCM "partner" representing the United Methodist Church.</p>  
+      </scopecontent>
+      <arrangement id="aspace_57604f4ed3d454d109220406fb4489b9">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Predecessor and Related Organizations</item>
+            <item>II. Celebrate Conferences</item>
+            <item>III. CESCM Administrative Files</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85025825"
+                  source="lcsh">
+            Church work with students
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028366"
+                  source="lcsh">
+            College students -- Religious life
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141138"
+                  source="lcsh">
+            Universities and colleges -- Religion
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041161"
+                  source="lcsh">
+            Educators
+         </subject>
+         <corpname source="local">
+            Council for Ecumenical Student Christian Ministry
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Predecessor and Related Organizations</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Misc. background documents incl. overview of United States Student Christian movements (1956); Constitution of WSCF(1973); By-laws of North American Regional Committee of WSCF (1975); "A Brief Research Sketch on the Goals and Objectives of the WSCF in North America" (ca. 1979); "Emerging from the Wilderness: Rebuilding an SCM in the United States" (ca. 1980)</unittitle>
+                  <unitdate type="inclusive">1956-1980</unitdate>
+                  <container label="Mixed Materials (39002038428844)"
+                             id="aspace_a14f26d219ca34921a20255bec0e2ae5"
+                             type="box">1</container>
+                  <container id="aspace_7339295328093210cfb44096d8f0a984"
+                             type="folder"
+                             parent="aspace_a14f26d219ca34921a20255bec0e2ae5">1</container>
+               </did>
+            </c>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Background articles on the demise of the University Christian Movement</unittitle>
+                  <unitdate type="inclusive">1969, 1972</unitdate>
+                  <container label="Mixed Materials (39002038428844)"
+                             id="aspace_84fa0a2471f7ce1f5d707b822fed46ef"
+                             type="box">1</container>
+                  <container id="aspace_656bff42d7d83f9dc2835b02663ad6c0"
+                             type="folder"
+                             parent="aspace_84fa0a2471f7ce1f5d707b822fed46ef">2</container>
+               </did>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Planning for North America - Asia project (WSCF)</unittitle>
+                  <unitdate type="inclusive">1978-1981</unitdate>
+                  <container label="Mixed Materials (39002038428844)"
+                             id="aspace_eaab2cb4c5d9568593a18b2013096269"
+                             type="box">1</container>
+                  <container id="aspace_56bc1dc811dc5653f83ae2f1c5fab6c5"
+                             type="folder"
+                             parent="aspace_eaab2cb4c5d9568593a18b2013096269">3</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>National Ecumenical Student Conference (NESC) - Steering Committee meetings and conference planning</unittitle>
+                  <unitdate type="inclusive">1980-1981</unitdate>
+                  <container label="Mixed Materials (39002038428844)"
+                             id="aspace_deda987f883e6a5152a6ae55c3e90d28"
+                             type="box">1</container>
+                  <container id="aspace_6fe17c7331f2a9d904a96b8b9d119d0f"
+                             type="folder"
+                             parent="aspace_deda987f883e6a5152a6ae55c3e90d28">4, 5</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>WSCF General Assembly, San Francisco</unittitle>
+                  <unitdate type="inclusive">1981 Aug</unitdate>
+                  <container label="Mixed Materials (39002038428844)"
+                             id="aspace_36b94348812186464ee6587666c95362"
+                             type="box">1</container>
+                  <container id="aspace_ab1b1584a7aa7a2ebf139e7d4cf1daa4"
+                             type="folder"
+                             parent="aspace_36b94348812186464ee6587666c95362">6-12</container>
+               </did>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>NESC planning, financial report, request for funding, mailing list</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_3bb130d9ab4f071f94b11ee53eacf1d8"
+                             type="box">2</container>
+                  <container id="aspace_ae7f592d82a97ac11e3f93a73ae140a6"
+                             type="folder"
+                             parent="aspace_3bb130d9ab4f071f94b11ee53eacf1d8">13</container>
+               </did>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>NESC Steering Committee: planning, minutes</unittitle>
+                  <unitdate type="inclusive">1980-1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_c6484d2e044eb1e65edd1641b4f7b14c"
+                             type="box">2</container>
+                  <container id="aspace_c48f9225a4989aa7615d3c1ce8b67047"
+                             type="folder"
+                             parent="aspace_c6484d2e044eb1e65edd1641b4f7b14c">14</container>
+               </did>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Press release, news articles re. NESC, Berkeley meeting</unittitle>
+                  <unitdate type="inclusive">1981 Aug</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_e79178a4fa7bc829896752080060fe20"
+                             type="box">2</container>
+                  <container id="aspace_2d8770859448cab258cd62fdfee27d87"
+                             type="folder"
+                             parent="aspace_e79178a4fa7bc829896752080060fe20">15</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>"Reflections on the NESC" by John C. O'Brien (typescript mimeographed document); holograph anonymous reflection</unittitle>
+                  <unitdate type="inclusive">ca. 1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_91936b905e98ff2de132150ba58ce9d0"
+                             type="box">2</container>
+                  <container id="aspace_bcad1c7118c1950546694b54dc891a4e"
+                             type="folder"
+                             parent="aspace_91936b905e98ff2de132150ba58ce9d0">16</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>"Statement of the Gay/Lesbian NESC Caucus"; info for workshop moderators; letter from National Ecumenical Movement of Puerto Rico; notes of Ruth Harris</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_aafcc527274aadb8c7a5f5b088aa1429"
+                             type="box">2</container>
+                  <container id="aspace_2a3ab9c3c0e31fb55eed825e772c2804"
+                             type="folder"
+                             parent="aspace_aafcc527274aadb8c7a5f5b088aa1429">17</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>NESC mailing list; list of WSCF delegates to NESC</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_fd77893daf91da2714ba04899d329444"
+                             type="box">2</container>
+                  <container id="aspace_85674a53b9b8575a70601c739a62b353"
+                             type="folder"
+                             parent="aspace_fd77893daf91da2714ba04899d329444">18</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>NESC Conference handbook; worship bulletin</unittitle>
+                  <unitdate type="inclusive">1981</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_df932c8c5d3e465d0773cd57c4d1eee4"
+                             type="box">2</container>
+                  <container id="aspace_2536b1e8692ef784f6a224074a54672f"
+                             type="folder"
+                             parent="aspace_df932c8c5d3e465d0773cd57c4d1eee4">19</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>NESC / National Interim Committee (NIC)correspondence; WSCF NA Update</unittitle>
+                  <unitdate type="inclusive">1981-1982</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_758c5f6696bb2d3a5bf4d6c49db9c261"
+                             type="box">2</container>
+                  <container id="aspace_1d15210f30ca636a2c5d10c9b674e729"
+                             type="folder"
+                             parent="aspace_758c5f6696bb2d3a5bf4d6c49db9c261">20</container>
+               </did>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Local Unit Development Manual - draft (Canadian SCM)</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_d3df9df87175dafce1607000c484e39b"
+                             type="box">2</container>
+                  <container id="aspace_ecfa6ff5c40b74b0471ff8d4330b07c3"
+                             type="folder"
+                             parent="aspace_d3df9df87175dafce1607000c484e39b">21</container>
+               </did>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>National Interim Committee (NIC) Atlanta meeting; notes, correspondence of Ruth Harris</unittitle>
+                  <unitdate type="inclusive">1982 Jan</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_75c49d7bbeb6c0b021bd6f3a3256dc85"
+                             type="box">2</container>
+                  <container id="aspace_1df5312ef7a009032ec3a795434bc6ab"
+                             type="folder"
+                             parent="aspace_75c49d7bbeb6c0b021bd6f3a3256dc85">22</container>
+               </did>
+            </c>
+            <c id="ref27" level="file">
+               <did>
+                  <unittitle>NIC / WSCF Church Relations Committee</unittitle>
+                  <unitdate type="inclusive">1982</unitdate>
+                  <container label="Mixed Materials (39002038428851)"
+                             id="aspace_e74cd687d8fe7ecd0ce1871d1a061910"
+                             type="box">2</container>
+                  <container id="aspace_c9240fbb495d247fb03416c881a6753d"
+                             type="folder"
+                             parent="aspace_e74cd687d8fe7ecd0ce1871d1a061910">23</container>
+               </did>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>NIC correspondence and reports</unittitle>
+                  <unitdate type="inclusive">1981-1982</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_0bc25ae7ea74192da687dd09f779b6a6"
+                             type="box">3</container>
+                  <container id="aspace_9960f2bc0cd90086b620b75f4b936d46"
+                             type="folder"
+                             parent="aspace_0bc25ae7ea74192da687dd09f779b6a6">24</container>
+               </did>
+            </c>
+            <c id="ref29" level="file">
+               <did>
+                  <unittitle>NIC correspondence and reports</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_22e4afc93757693e201ca5b28507f64c"
+                             type="box">3</container>
+                  <container id="aspace_5e60084aa737e19660750f654026d013"
+                             type="folder"
+                             parent="aspace_22e4afc93757693e201ca5b28507f64c">25</container>
+               </did>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>NIC / WSCF Church Relations Committee</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_2b368890617a1e79f951315582b58aa6"
+                             type="box">3</container>
+                  <container id="aspace_3081ac28e59981ba23d16068d7c3be5c"
+                             type="folder"
+                             parent="aspace_2b368890617a1e79f951315582b58aa6">26</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>NESC II: letter to participants: "Building a multi-racial movement: resolutions"</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_a4b372a7b60f2c81d696fdd19e5c3566"
+                             type="box">3</container>
+                  <container id="aspace_cd52e71cb4baa85ef2b8eb2960eb47a9"
+                             type="folder"
+                             parent="aspace_a4b372a7b60f2c81d696fdd19e5c3566">27</container>
+               </did>
+            </c>
+            <c id="ref32" level="file">
+               <did>
+                  <unittitle>NESC II: preparatory material for participants: application, "Background Information"</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_d2e8eec1fb9b32201b19393bd712c0f9"
+                             type="box">3</container>
+                  <container id="aspace_d8cde08d770998e18e8992125d11451f"
+                             type="folder"
+                             parent="aspace_d2e8eec1fb9b32201b19393bd712c0f9">28</container>
+               </did>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>Proposal for formation of National Ecumenical Student Christian Council (NESCC)</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_de89e1905a225972151dcef289681052"
+                             type="box">3</container>
+                  <container id="aspace_8314f0f823af1b7cdaa848479c0f4c4e"
+                             type="folder"
+                             parent="aspace_de89e1905a225972151dcef289681052">29</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Post NESC correspondence re. formation of NESCC</unittitle>
+                  <unitdate type="inclusive">1983-1984</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_ba03b9e8c1e36ed165c593877d726b20"
+                             type="box">3</container>
+                  <container id="aspace_2d4f8eac1348a346c10ad0d086b069cd"
+                             type="folder"
+                             parent="aspace_ba03b9e8c1e36ed165c593877d726b20">30</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>NESCC Statement of Purpose and administration</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_85712ba760eb7cae8147b7ebabb1c4f9"
+                             type="box">3</container>
+                  <container id="aspace_6f3ad8a27c8484c048fff899ae10be52"
+                             type="folder"
+                             parent="aspace_85712ba760eb7cae8147b7ebabb1c4f9">31</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Reports from related movements</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_a81fc219b42b1281d405ad4509652e6d"
+                             type="box">3</container>
+                  <container id="aspace_7f06430714ac2c151613f9be14615ad6"
+                             type="folder"
+                             parent="aspace_a81fc219b42b1281d405ad4509652e6d">32</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>WSCF Universal Day of Prayer for Students</unittitle>
+                  <unitdate type="inclusive">1983</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_464aa5dbc846088fdc296b88c11d900d"
+                             type="box">3</container>
+                  <container id="aspace_5565202ba6c7400e894fd5f6a37b775a"
+                             type="folder"
+                             parent="aspace_464aa5dbc846088fdc296b88c11d900d">33</container>
+               </did>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>WSCF: "North American Region - Comments on Ten Years of Regionalization" by Judy Skinner in consultation with John Huot</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_7e5bed0784c43920f3f8e2808bc50426"
+                             type="box">3</container>
+                  <container id="aspace_5ca080434dcecadc8b42f7bfcef80f44"
+                             type="folder"
+                             parent="aspace_7e5bed0784c43920f3f8e2808bc50426">34</container>
+               </did>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>Korea Exchange - NESCC - EYC (Ecumenical Youth Council)</unittitle>
+                  <unitdate type="inclusive">1984</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_43e60e3de5e5d2c19de0b9ca547c7fb1"
+                             type="box">3</container>
+                  <container id="aspace_308740645d4f7e7fb773dd9fba9ed273"
+                             type="folder"
+                             parent="aspace_43e60e3de5e5d2c19de0b9ca547c7fb1">35</container>
+               </did>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>NESCC Central Committee correspondence and minutes</unittitle>
+                  <unitdate type="inclusive">1983 Nov - 1984 Jul</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_61a95b9d829e5e6259a1fbfacb52be77"
+                             type="box">3</container>
+                  <container id="aspace_c01c659a1c093964628398ffc861b683"
+                             type="folder"
+                             parent="aspace_61a95b9d829e5e6259a1fbfacb52be77">36</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>NESCC Central Committee correspondence and minutes</unittitle>
+                  <unitdate type="inclusive">1984 Aug - Dec</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_889dc98166b2a037a87aaac74d194b02"
+                             type="box">3</container>
+                  <container id="aspace_6ed61cdba355106e453b3d0d5f89e169"
+                             type="folder"
+                             parent="aspace_889dc98166b2a037a87aaac74d194b02">37</container>
+               </did>
+            </c>
+            <c id="ref42" level="file">
+               <did>
+                  <unittitle>Regional activities: North Carolina Student Christian Movement</unittitle>
+                  <unitdate type="inclusive">1984</unitdate>
+                  <container label="Mixed Materials (39002038428869)"
+                             id="aspace_10550565a4f5a74ee9f8fce647682bac"
+                             type="box">3</container>
+                  <container id="aspace_b214efc85b833cdc6890acf9cc5e082c"
+                             type="folder"
+                             parent="aspace_10550565a4f5a74ee9f8fce647682bac">38-40</container>
+               </did>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>Regional activities: Summer work programs, etc.</unittitle>
+                  <unitdate type="inclusive">1981-1984</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_2fd1f5db3ba4fb740057b86c17ddbbd5"
+                             type="box">4</container>
+                  <container id="aspace_7daece860a5a1c93e8c9fba41179d520"
+                             type="folder"
+                             parent="aspace_2fd1f5db3ba4fb740057b86c17ddbbd5">41</container>
+               </did>
+            </c>
+            <c id="ref44" level="file">
+               <did>
+                  <unittitle>NESCC financial records</unittitle>
+                  <unitdate type="inclusive">1985-1986</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_fdb9d663aed3f41cb7c34da59386c2c1"
+                             type="box">4</container>
+                  <container id="aspace_70c174bc86eb2f0a6aea3da6629cd100"
+                             type="folder"
+                             parent="aspace_fdb9d663aed3f41cb7c34da59386c2c1">42-44</container>
+               </did>
+            </c>
+            <c id="ref45" level="file">
+               <did>
+                  <unittitle>NESCC Central Committee - crisis; NESCC Advisory Committee</unittitle>
+                  <unitdate type="inclusive">1985 Jan - May</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_18a680886518981289c4f5ae883b9bb4"
+                             type="box">4</container>
+                  <container id="aspace_58fd96a9b74444685cca68b918dc4f0b"
+                             type="folder"
+                             parent="aspace_18a680886518981289c4f5ae883b9bb4">45</container>
+               </did>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>NESCC Planning Committee</unittitle>
+                  <unitdate type="inclusive">1985 Jun- Sep</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_2889810eb9d9b776fcb9f0b9c82165d8"
+                             type="box">4</container>
+                  <container id="aspace_12f51d088967b4dfd02438afe6fc6a8f"
+                             type="folder"
+                             parent="aspace_2889810eb9d9b776fcb9f0b9c82165d8">46</container>
+               </did>
+            </c>
+            <c id="ref47" level="file">
+               <did>
+                  <unittitle>NESCC General Assembly</unittitle>
+                  <unitdate type="inclusive">1985 Jul 31 - Aug 4</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_4fce47d6968f1360a3243150b29e021f"
+                             type="box">4</container>
+                  <container id="aspace_874316f942629ec0afafc113b542b2bb"
+                             type="folder"
+                             parent="aspace_4fce47d6968f1360a3243150b29e021f">47</container>
+               </did>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>Proposals, notes, corres. re. structure of NESCC</unittitle>
+                  <unitdate type="inclusive">1985-1986</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_be867bef588cd6c82a544eda57155012"
+                             type="box">4</container>
+                  <container id="aspace_c43affd2724c6cdae78531bae4a9c568"
+                             type="folder"
+                             parent="aspace_be867bef588cd6c82a544eda57155012">48</container>
+               </did>
+            </c>
+            <c id="ref49" level="file">
+               <did>
+                  <unittitle>List of Regional / Organizational Contact Persons</unittitle>
+                  <unitdate type="inclusive">1986 Feb</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_654eadb96a94d1f66669af4af0c1153d"
+                             type="box">4</container>
+                  <container id="aspace_5327eb44c69f71e54a9f103f0e333ecd"
+                             type="folder"
+                             parent="aspace_654eadb96a94d1f66669af4af0c1153d">49</container>
+               </did>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Correspondence of Gayla Spicknall, NESCC staff person</unittitle>
+                  <unitdate type="inclusive">1986 Jan - Sep</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_640ac2c0782b8e898b29f23594fd7b11"
+                             type="box">4</container>
+                  <container id="aspace_e212b69400f63ac5e3810c3785f3cc23"
+                             type="folder"
+                             parent="aspace_640ac2c0782b8e898b29f23594fd7b11">50</container>
+               </did>
+            </c>
+            <c id="ref51" level="file">
+               <did>
+                  <unittitle>Letter from Gayla Spicknell to Bill Ellis re. history and status of NESCC, enclosing Constitution</unittitle>
+                  <unitdate type="inclusive">1986 Oct 15</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_c1da4443cf51bc5bec6f21c6aac216b5"
+                             type="box">4</container>
+                  <container id="aspace_5ea7e7bd40dd33d4d24b08643512b36b"
+                             type="folder"
+                             parent="aspace_c1da4443cf51bc5bec6f21c6aac216b5">51</container>
+               </did>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>NESCC Leadership Development Conference Planning Committee</unittitle>
+                  <unitdate type="inclusive">1985 Nov- Dec</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_d1dc39aa6786242455ebff58d62ae49f"
+                             type="box">4</container>
+                  <container id="aspace_01e76eea5cdc7f8ec26bff57f1367c15"
+                             type="folder"
+                             parent="aspace_d1dc39aa6786242455ebff58d62ae49f">52, 53</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>NESCC Leadership Development Conference</unittitle>
+                  <unitdate type="inclusive">1986 Feb 12-16</unitdate>
+                  <container label="Mixed Materials (39002038428877)"
+                             id="aspace_079bfba45ad84e5fde5ef1b92eb93cff"
+                             type="box">4</container>
+                  <container id="aspace_4ac64837a54d94d14ca8560f6890ba27"
+                             type="folder"
+                             parent="aspace_079bfba45ad84e5fde5ef1b92eb93cff">54</container>
+               </did>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>NESCC Leadership Development Conference</unittitle>
+                  <unitdate type="inclusive">1986 Feb 12-16</unitdate>
+                  <container label="Mixed Materials (39002038428885)"
+                             id="aspace_254cc91c6fa4a3e9ade6d86e30a12c9b"
+                             type="box">5</container>
+                  <container id="aspace_491eae665fabea54fabd3dfa6eb60a56"
+                             type="folder"
+                             parent="aspace_254cc91c6fa4a3e9ade6d86e30a12c9b">55-60</container>
+               </did>
+            </c>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>NESCC Denominational and Church Agency meeting</unittitle>
+                  <unitdate type="inclusive">1986 Oct 1-2</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_5aa279877fdaacffe8ccf34e3c32dd00"
+                             type="box">6</container>
+                  <container id="aspace_681aa9b0567326750b4f8c4aee49212f"
+                             type="folder"
+                             parent="aspace_5aa279877fdaacffe8ccf34e3c32dd00">61</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>NESCC Reports / Program proposals</unittitle>
+                  <unitdate type="inclusive">1986</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_4af35d344e40b293ba205eb0b0a67f3e"
+                             type="box">6</container>
+                  <container id="aspace_7be3c8acdc0ec060185613ea79e19e5a"
+                             type="folder"
+                             parent="aspace_4af35d344e40b293ba205eb0b0a67f3e">62</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>NESCC Newsletter</unittitle>
+                  <unitdate type="inclusive">1986</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_4d750de051a15a19c6f5e9b886b063d5"
+                             type="box">6</container>
+                  <container id="aspace_69b36a30c957956dd6841fca586953a0"
+                             type="folder"
+                             parent="aspace_4d750de051a15a19c6f5e9b886b063d5">63</container>
+               </did>
+            </c>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>NESCC correspondence of Gayla Spicknell and Ruth Harris; WSCF NA correspondence of John O'Brien</unittitle>
+                  <unitdate type="inclusive">1986</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_28712c55ef9def8565d4e66370d98432"
+                             type="box">6</container>
+                  <container id="aspace_082a1db2dece34f3ee590b625e1d2fd3"
+                             type="folder"
+                             parent="aspace_28712c55ef9def8565d4e66370d98432">64</container>
+               </did>
+            </c>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>NESCC meetings; Lutheran Student Movement national assembly</unittitle>
+                  <unitdate type="inclusive">1986</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_af8a58733c820432ef63becdc7a3ad1a"
+                             type="box">6</container>
+                  <container id="aspace_8262e9d1c2bae9daf28b8fe861c027a8"
+                             type="folder"
+                             parent="aspace_af8a58733c820432ef63becdc7a3ad1a">65</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>NESCC Financial records, budget</unittitle>
+                  <unitdate type="inclusive">1986</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_986b2e5ad5790c397ea7649ce06cded0"
+                             type="box">6</container>
+                  <container id="aspace_4f9a59160ea110427476c29bcc7e6bae"
+                             type="folder"
+                             parent="aspace_986b2e5ad5790c397ea7649ce06cded0">66</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Resources from the Student Christian Movement of Canada: Bible Studies</unittitle>
+                  <unitdate type="inclusive">1970s - 1980s</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_b7d1d89424eef94aa26bb57458658d19"
+                             type="box">6</container>
+                  <container id="aspace_6a16d7660d9f78d6bd53cc28ea0e19cd"
+                             type="folder"
+                             parent="aspace_b7d1d89424eef94aa26bb57458658d19">67</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Resources from the Student Christian Movement of Canada: Development manual</unittitle>
+                  <unitdate type="inclusive">1970s-1980s</unitdate>
+                  <container label="Mixed Materials (39002038428893)"
+                             id="aspace_74a93574cb8e46308fd914bc999bf0f2"
+                             type="box">6</container>
+                  <container id="aspace_1566e78bb24de332be40ad0dcd2c3c53"
+                             type="folder"
+                             parent="aspace_74a93574cb8e46308fd914bc999bf0f2">68</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref63" level="series">
+            <did>
+               <unittitle>"Celebrate" Conferences</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <c id="ref64" level="subseries">
+               <did>
+                  <unittitle>Pre-Celebrate</unittitle>
+               </did>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>WSCF-U.S. Churches Celebration, New York City</unittitle>
+                     <unitdate type="inclusive">1985 Nov 17-18</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_24588badcbc6a57b9de63a06ef652e12"
+                                type="box">6</container>
+                     <container id="aspace_ef7d78decef74cfa269c5d16c9a9629b"
+                                type="folder"
+                                parent="aspace_24588badcbc6a57b9de63a06ef652e12">69</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref66" level="subseries">
+               <did>
+                  <unittitle>Celebrate 1990-1991</unittitle>
+               </did>
+               <c id="ref67" level="file">
+                  <did>
+                     <unittitle>Celebrate - 1988 planning meeting (New York) incl. pre-meeting correspondence</unittitle>
+                     <unitdate type="inclusive">1988 Sep 30- Oct 1</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_02cd3be8a01050953bfd9b3a929024c8"
+                                type="box">6</container>
+                     <container id="aspace_3b1b696d5f3e0c0ea612bd1493705c48"
+                                type="folder"
+                                parent="aspace_02cd3be8a01050953bfd9b3a929024c8">70</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>1989 planning meetings (Illinois, Tennessee, Kentucky)</unittitle>
+                     <unitdate type="inclusive">1989 Jan, Apr, Oct</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_c8664c66d4ec04c1919a0b84ee419f46"
+                                type="box">6</container>
+                     <container id="aspace_254f14ee5ac0eb471d02ab01fe088294"
+                                type="folder"
+                                parent="aspace_c8664c66d4ec04c1919a0b84ee419f46">71</container>
+                  </did>
+               </c>
+               <c id="ref69" level="file">
+                  <did>
+                     <unittitle>1990 planning meetings (Illinois)</unittitle>
+                     <unitdate type="inclusive">1990 Jan, Oct, Dec</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_219c3a5944c192b7eda4eb1e1bc4b222"
+                                type="box">6</container>
+                     <container id="aspace_6b05e29f66bea2683701257b0f1a5f7d"
+                                type="folder"
+                                parent="aspace_219c3a5944c192b7eda4eb1e1bc4b222">72</container>
+                  </did>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>Planning: reports from CESCM Steering Committee</unittitle>
+                     <unitdate type="inclusive">1990 Sep 27-28</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_f8d06c1ad05185c337f259bdeb9a5c4d"
+                                type="box">6</container>
+                     <container id="aspace_f10b953528c695b8d40120708b94f8ff"
+                                type="folder"
+                                parent="aspace_f8d06c1ad05185c337f259bdeb9a5c4d">73</container>
+                  </did>
+               </c>
+               <c id="ref71" level="file">
+                  <did>
+                     <unittitle>Planning: WSCF: memos and correspondence, participants, Friends mailing list</unittitle>
+                     <unitdate type="inclusive">1989-1991</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_0d31f8fb99aebfe6658ee934337bb06c"
+                                type="box">6</container>
+                     <container id="aspace_0055df52d860316ae3ba15aa0dfeb925"
+                                type="folder"
+                                parent="aspace_0d31f8fb99aebfe6658ee934337bb06c">74</container>
+                  </did>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>International orientation</unittitle>
+                     <unitdate type="inclusive">1990 Dec 28</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_3fdcc674e30770bc75f130a52eaa045c"
+                                type="box">6</container>
+                     <container id="aspace_cbf7088ba81fa89884f56e443d69fc44"
+                                type="folder"
+                                parent="aspace_3fdcc674e30770bc75f130a52eaa045c">75</container>
+                  </did>
+               </c>
+               <c id="ref73" level="file">
+                  <did>
+                     <unittitle>Registration packet (Disciples of Christ)</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_fe99aed98c9f1d3cf5a3f91fedda272e"
+                                type="box">6</container>
+                     <container id="aspace_991ee614e8ed5b57bcb1bdae2cbe98f7"
+                                type="folder"
+                                parent="aspace_fe99aed98c9f1d3cf5a3f91fedda272e">76</container>
+                  </did>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>Denominational promotions: American Baptist, Disciples of Christ, Episcopal, Lutheran</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_bda134b1d7c9fd00b2ceeecd4c3460e9"
+                                type="box">6</container>
+                     <container id="aspace_3aba9263ec14b4ead667578313e9075e"
+                                type="folder"
+                                parent="aspace_bda134b1d7c9fd00b2ceeecd4c3460e9">77</container>
+                  </did>
+               </c>
+               <c id="ref75" level="file">
+                  <did>
+                     <unittitle>Denominational promotions: Moravian, Presbyterian, United Methodist, United Church of Christ</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_50664f78814672ba325fed76c25607a7"
+                                type="box">6</container>
+                     <container id="aspace_3bbe695dae43c64c1971fda4d81e70e4"
+                                type="folder"
+                                parent="aspace_50664f78814672ba325fed76c25607a7">78</container>
+                  </did>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>Ecumenical workshop application</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_bf646556f75f6aad75c543a7eeb0a47e"
+                                type="box">6</container>
+                     <container id="aspace_add962a49ea5d204bb604a7ba4b74d66"
+                                type="folder"
+                                parent="aspace_bf646556f75f6aad75c543a7eeb0a47e">79</container>
+                  </did>
+               </c>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>Worship Committee, incl. resources re communion</unittitle>
+                     <unitdate type="inclusive">1990-1991</unitdate>
+                     <container label="Mixed Materials (39002038428893)"
+                                id="aspace_80749ec0db148614d5a52965b8ee0291"
+                                type="box">6</container>
+                     <container id="aspace_9dab7feb8e7bb539d92ef4c408178006"
+                                type="folder"
+                                parent="aspace_80749ec0db148614d5a52965b8ee0291">80</container>
+                  </did>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>Bible study development</unittitle>
+                     <unitdate type="inclusive">1990-1991</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_63043e363aee09dea0680e409486279a"
+                                type="box">7</container>
+                     <container id="aspace_0a89e83f11d55b0e54c476e3e2d95808"
+                                type="folder"
+                                parent="aspace_63043e363aee09dea0680e409486279a">81</container>
+                  </did>
+               </c>
+               <c id="ref79" level="file">
+                  <did>
+                     <unittitle>Bible study</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_df4eb51fdf06455c2177b25330d608fe"
+                                type="box">7</container>
+                     <container id="aspace_17a29830f5be5c877b1c54070fa38429"
+                                type="folder"
+                                parent="aspace_df4eb51fdf06455c2177b25330d608fe">82</container>
+                  </did>
+               </c>
+               <c id="ref80" level="file">
+                  <did>
+                     <unittitle>Program booklet for "Celebrate" - A National Ecumenical Gathering of Student Christian Conference - December 28, 1990 through January 1, 1991 at the Galt House, Louisville, Kentucky</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_c9776b03718a98ec1648c633d93381b9"
+                                type="box">7</container>
+                     <container id="aspace_23522f913c70383d3cc3d6bd04d75b1c"
+                                type="folder"
+                                parent="aspace_c9776b03718a98ec1648c633d93381b9">83</container>
+                  </did>
+               </c>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>Financial records</unittitle>
+                     <unitdate type="inclusive">1988-1991</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_6260bd356026d634526e6447f0eabac4"
+                                type="box">7</container>
+                     <container id="aspace_928beaaccef536b271e43f1517df7ef1"
+                                type="folder"
+                                parent="aspace_6260bd356026d634526e6447f0eabac4">84</container>
+                  </did>
+               </c>
+               <c id="ref82" level="file">
+                  <did>
+                     <unittitle>Funding: pre-grant correspondence</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_29e13cf9e5aa40e38bc5e0e36447b8b1"
+                                type="box">7</container>
+                     <container id="aspace_559fbf2d93b4f9d5e5febbe10709133e"
+                                type="folder"
+                                parent="aspace_29e13cf9e5aa40e38bc5e0e36447b8b1">85</container>
+                  </did>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>Funding: Lilly proposal</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_20e4489d587d39f491fd8d453e4c12ef"
+                                type="box">7</container>
+                     <container id="aspace_ce228329da10e7519823f58526e2e847"
+                                type="folder"
+                                parent="aspace_20e4489d587d39f491fd8d453e4c12ef">86</container>
+                  </did>
+               </c>
+               <c id="ref84" level="file">
+                  <did>
+                     <unittitle>Fudning: Lilly correspondence</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_d1ce99a42eef6c92f0a6ae42359c88ea"
+                                type="box">7</container>
+                     <container id="aspace_18043ef4a0f69c8d523529d28d4789ff"
+                                type="folder"
+                                parent="aspace_d1ce99a42eef6c92f0a6ae42359c88ea">87</container>
+                  </did>
+               </c>
+               <c id="ref85" level="file">
+                  <did>
+                     <unittitle>Funding: correspondence, payments, receipts</unittitle>
+                     <unitdate type="inclusive">1990-1991</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_de340668ee3b4fbe34d5b1861bc32d65"
+                                type="box">7</container>
+                     <container id="aspace_37813f2b35bb049f1e263255c7d58a4d"
+                                type="folder"
+                                parent="aspace_de340668ee3b4fbe34d5b1861bc32d65">88</container>
+                  </did>
+               </c>
+               <c id="ref86" level="file">
+                  <did>
+                     <unittitle>Funding: Friendship Press proposal, correspondence</unittitle>
+                     <unitdate type="inclusive">1990-1991</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_d37dd760914007336b0154cfd1d96e0e"
+                                type="box">7</container>
+                     <container id="aspace_ef2d108dbab0bb6a3eb4f7e3011929d2"
+                                type="folder"
+                                parent="aspace_d37dd760914007336b0154cfd1d96e0e">89</container>
+                  </did>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>Funding: final report to Lilly</unittitle>
+                     <unitdate type="inclusive">1991 Apr 30</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_22a54a3fb6f6f6b023e86fe1f15b0479"
+                                type="box">7</container>
+                     <container id="aspace_6b7053787695cbe43c48e33986cd9d09"
+                                type="folder"
+                                parent="aspace_22a54a3fb6f6f6b023e86fe1f15b0479">90</container>
+                  </did>
+               </c>
+               <c id="ref88" level="file">
+                  <did>
+                     <unittitle>Evaluation meeting (Chicago)</unittitle>
+                     <unitdate type="inclusive">1991 Feb</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_af83e1430db497052842b8b3ebfce291"
+                                type="box">7</container>
+                     <container id="aspace_dc0649e3205fa3012676d1b40086d967"
+                                type="folder"
+                                parent="aspace_af83e1430db497052842b8b3ebfce291">91</container>
+                  </did>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>Publications: study booklet - correspondence and editing</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_c2bdf1426a7fb818a18c6218a45fbb06"
+                                type="box">7</container>
+                     <container id="aspace_4f743eeab35b594d151a90ed3b5d56b2"
+                                type="folder"
+                                parent="aspace_c2bdf1426a7fb818a18c6218a45fbb06">92</container>
+                  </did>
+               </c>
+               <c id="ref90" level="file">
+                  <did>
+                     <unittitle>Publications: video - correspondence and editing</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_c1289fdcc09aa2f9a012e1c148b5b5e2"
+                                type="box">7</container>
+                     <container id="aspace_1f43ec8497e2da7a0bdd101261c5d83f"
+                                type="folder"
+                                parent="aspace_c1289fdcc09aa2f9a012e1c148b5b5e2">93</container>
+                  </did>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>Press: "Rattling the Dry Bones of the Student Christian Movement" by Donald G. Shockley, from <title type="simple" render="italic">
+                           The Christian Century
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1989 Nov 22</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_1e80964aa01c230ea0b9b8d3d933686d"
+                                type="box">7</container>
+                     <container id="aspace_1bc8e3de7202107763f0464304f9c71a"
+                                type="folder"
+                                parent="aspace_1e80964aa01c230ea0b9b8d3d933686d">94</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref92" level="subseries">
+               <did>
+                  <unittitle>Celebrate 94 Ecumenical Student Conference</unittitle>
+               </did>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>Press, correspondence, program booklet: "Gathering at the Crossroads - A National Ecumenical Christian Students Gathering - December 28, 1994 through January 1, 1995 in St. Louis, Missouri</unittitle>
+                     <unitdate type="inclusive">1993-1995</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_78222de5179e45c14c49961dd2983cd1"
+                                type="box">7</container>
+                     <container id="aspace_223375ed5afd074fd94247fd58af7053"
+                                type="folder"
+                                parent="aspace_78222de5179e45c14c49961dd2983cd1">95</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref94" level="subseries">
+               <did>
+                  <unittitle>Celebrate III</unittitle>
+               </did>
+               <c id="ref95" level="file">
+                  <did>
+                     <unittitle>Publicity, workshop information, program booklet: "back 2 faith: Faithful Living in a New Millennium - A National Ecumenical Christian Student Gathering - December 30, 1998 through January 3, 1999 in Ridgecrest, North Carolina</unittitle>
+                     <unitdate type="inclusive">1998-1999</unitdate>
+                     <container label="Mixed Materials (39002038428901)"
+                                id="aspace_03a4f03a4fa816bfd407fd1ed7ee053d"
+                                type="box">7</container>
+                     <container id="aspace_8bce27b5b263c2dd47ea871f27469ef6"
+                                type="folder"
+                                parent="aspace_03a4f03a4fa816bfd407fd1ed7ee053d">96</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref96" level="series">
+            <did>
+               <unittitle>Administrative Files</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <c id="ref97" level="subseries">
+               <did>
+                  <unittitle>CESCM in Formation</unittitle>
+               </did>
+               <c id="ref98" level="file">
+                  <did>
+                     <unittitle>CESCM Constitution, Statement of Purpose, Roles and Relationships</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_e6c19b748f82d6738d4fc07981dbaa59"
+                                type="box">8</container>
+                     <container id="aspace_2dadfd2d9aa374dcd5fdc6e09557b7f8"
+                                type="folder"
+                                parent="aspace_e6c19b748f82d6738d4fc07981dbaa59">97</container>
+                  </did>
+               </c>
+               <c id="ref99" level="file">
+                  <did>
+                     <unittitle>Development of CESCM</unittitle>
+                     <unitdate type="inclusive">1985-1987</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_49cd5dfb7ef2ed83cb639d655991c74e"
+                                type="box">8</container>
+                     <container id="aspace_09aac8bb36dcb2fca4483e26a7e3fb4d"
+                                type="folder"
+                                parent="aspace_49cd5dfb7ef2ed83cb639d655991c74e">98</container>
+                  </did>
+               </c>
+               <c id="ref100" level="file">
+                  <did>
+                     <unittitle>Planning Committee: minutes, correspondence</unittitle>
+                     <unitdate type="inclusive">1987</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_46c054edc2e6a45b81348f20e25d07ae"
+                                type="box">8</container>
+                     <container id="aspace_5bc517b8ea8a2ed1f848bd2416974c94"
+                                type="folder"
+                                parent="aspace_46c054edc2e6a45b81348f20e25d07ae">99</container>
+                  </did>
+               </c>
+               <c id="ref101" level="file">
+                  <did>
+                     <unittitle>Meetings of NESCC staff, Denominational and Church Agency staff, WSCF NA staff</unittitle>
+                     <unitdate type="inclusive">1986</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_dadd4d24c783e8720e67af0bedb66691"
+                                type="box">8</container>
+                     <container id="aspace_b1246d6a86888a2916c33e1139c6a272"
+                                type="folder"
+                                parent="aspace_dadd4d24c783e8720e67af0bedb66691">100</container>
+                  </did>
+               </c>
+               <c id="ref102" level="file">
+                  <did>
+                     <unittitle>"Campus Ministry / Global Ministry / WSCF NA Meeting" (Feb), " CESCM meeting (Nov), materials re. Presbyterian Church USA National Student Conference; CESCM Planning Consultation</unittitle>
+                     <unitdate type="inclusive">1987-1988</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_6ab0c371db4582a281b8793616d69351"
+                                type="box">8</container>
+                     <container id="aspace_38a8932429d1300bcb4ca284abe487f1"
+                                type="folder"
+                                parent="aspace_6ab0c371db4582a281b8793616d69351">101</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref103" level="subseries">
+               <did>
+                  <unittitle>Partners group</unittitle>
+               </did>
+               <c id="ref104" level="file">
+                  <did>
+                     <unittitle>CESCM Partners meetings; address list for CESCM Partners</unittitle>
+                     <unitdate type="inclusive">1988 Apr, Sep</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_31cea3598e0b106337071459541f20d0"
+                                type="box">8</container>
+                     <container id="aspace_1150b2425ffa38c2c0f4e91ab55a6cdf"
+                                type="folder"
+                                parent="aspace_31cea3598e0b106337071459541f20d0">102</container>
+                  </did>
+               </c>
+               <c id="ref105" level="file">
+                  <did>
+                     <unittitle>Partners meetings, financial reports, correspondence</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_422ae7126827d2d860631ebca81c3672"
+                                type="box">8</container>
+                     <container id="aspace_0a6a27f7ad7ba6bad26d4542dd293ad1"
+                                type="folder"
+                                parent="aspace_422ae7126827d2d860631ebca81c3672">103</container>
+                  </did>
+               </c>
+               <c id="ref106" level="file">
+                  <did>
+                     <unittitle>Partners meetings, Steering Committee meetings, staff reports, Report of the Project Team, budget</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_341b1f6e0f40b4b8f4fb7646ba8cae08"
+                                type="box">8</container>
+                     <container id="aspace_847ea3b173de689197a4963f8d40a2d5"
+                                type="folder"
+                                parent="aspace_341b1f6e0f40b4b8f4fb7646ba8cae08">104</container>
+                  </did>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>Administrative Committee meetings, Partners meetings, Planning and Coordinating Committee meeting, meeting and proposals re. CESCM structure</unittitle>
+                     <unitdate type="inclusive">1991</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_6debce13ca01463ef5d2f9b047ededfd"
+                                type="box">8</container>
+                     <container id="aspace_f9a22a02ae55f3fe8416c313c91b74b4"
+                                type="folder"
+                                parent="aspace_6debce13ca01463ef5d2f9b047ededfd">105</container>
+                  </did>
+               </c>
+               <c id="ref108" level="file">
+                  <did>
+                     <unittitle>Special CESCM meetings: Jean Francois Deltiel; Structure Committee</unittitle>
+                     <unitdate type="inclusive">1991</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_866e5346e71fe759af03f3d6465be5f4"
+                                type="box">8</container>
+                     <container id="aspace_00b68b1718b12a4457f9855fa4e31fdd"
+                                type="folder"
+                                parent="aspace_866e5346e71fe759af03f3d6465be5f4">106</container>
+                  </did>
+               </c>
+               <c id="ref109" level="file">
+                  <did>
+                     <unittitle>Partners' meetings, Staff reports, CESCM colloquy, Gayla Spicknall correspondence</unittitle>
+                     <unitdate type="inclusive">1992</unitdate>
+                     <container label="Mixed Materials (39002038428919)"
+                                id="aspace_631051ee9530f32a6366dd996e9338ef"
+                                type="box">8</container>
+                     <container id="aspace_b09bc28231eb9ae6bcc683e29f548a9d"
+                                type="folder"
+                                parent="aspace_631051ee9530f32a6366dd996e9338ef">107</container>
+                  </did>
+               </c>
+               <c id="ref110" level="file">
+                  <did>
+                     <unittitle>Partners' meetings, Gayla Spicknall correspondence</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428927)"
+                                id="aspace_4e3b9f92b25cefc308545a127c143de3"
+                                type="box">9</container>
+                     <container id="aspace_d741cc7cac35ee2977a703c7cf8c81a5"
+                                type="folder"
+                                parent="aspace_4e3b9f92b25cefc308545a127c143de3">108</container>
+                  </did>
+               </c>
+               <c id="ref111" level="file">
+                  <did>
+                     <unittitle>Partners' meetings</unittitle>
+                     <unitdate type="inclusive">1994-1999</unitdate>
+                     <container label="Mixed Materials (39002038428927)"
+                                id="aspace_c9ef728e172038d17ae3b42f0bfc4c81"
+                                type="box">9</container>
+                     <container id="aspace_f8de32201c0e4262312d970bca9fdc01"
+                                type="folder"
+                                parent="aspace_c9ef728e172038d17ae3b42f0bfc4c81">109-116</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref112" level="subseries">
+               <did>
+                  <unittitle>Steering and Administrative Committees</unittitle>
+               </did>
+               <c id="ref113" level="file">
+                  <did>
+                     <unittitle>Meetings</unittitle>
+                     <unitdate type="inclusive">1987-1988</unitdate>
+                     <container label="Mixed Materials (39002038428927)"
+                                id="aspace_86afa29210dbf7dcf368dd4e6414524c"
+                                type="box">9</container>
+                     <container id="aspace_647cf6c2fc652e7449adeb0037b230bc"
+                                type="folder"
+                                parent="aspace_86afa29210dbf7dcf368dd4e6414524c">117-118</container>
+                  </did>
+               </c>
+               <c id="ref114" level="file">
+                  <did>
+                     <unittitle>Meetings; Proposal for a 1989 CESCM National Ecumenical Leadership Development Program for Students</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002038428927)"
+                                id="aspace_f21f7a918ae77c57d25985b5fbd4dddc"
+                                type="box">9</container>
+                     <container id="aspace_410052ae0ae17ada2bec033268041c8a"
+                                type="folder"
+                                parent="aspace_f21f7a918ae77c57d25985b5fbd4dddc">119</container>
+                  </did>
+               </c>
+               <c id="ref115" level="file">
+                  <did>
+                     <unittitle>Meetings</unittitle>
+                     <unitdate type="inclusive">1990-1993</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_ee8ae0122c180bca0f608bd98409ba04"
+                                type="box">10</container>
+                     <container id="aspace_e00a07d07c2909dfddc80fabe7a73b20"
+                                type="folder"
+                                parent="aspace_ee8ae0122c180bca0f608bd98409ba04">120-122</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref116" level="subseries">
+               <did>
+                  <unittitle>Financial Records</unittitle>
+               </did>
+               <c id="ref117" level="file">
+                  <did>
+                     <unittitle>NESCC WSCF North America Account</unittitle>
+                     <unitdate type="inclusive">1986</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_7476313f931861938b6b4742637802b6"
+                                type="box">10</container>
+                     <container id="aspace_630d317f65ecb885b8d2181dcdd5f09a"
+                                type="folder"
+                                parent="aspace_7476313f931861938b6b4742637802b6">123</container>
+                  </did>
+               </c>
+               <c id="ref118" level="file">
+                  <did>
+                     <unittitle>Audit for United Ministries in Education, which provided treasury services for CESCM</unittitle>
+                     <unitdate type="inclusive">1987</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_a1658080c7cd17fb480a966a96ecea61"
+                                type="box">10</container>
+                     <container id="aspace_f6f83e2885ed55c78780edbf5edd085b"
+                                type="folder"
+                                parent="aspace_a1658080c7cd17fb480a966a96ecea61">124</container>
+                  </did>
+               </c>
+               <c id="ref119" level="file">
+                  <did>
+                     <unittitle>Letter re. United Methodist funds; CESCM financial report</unittitle>
+                     <unitdate type="inclusive">1987</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_3dc9f79232d3f9cdc007127bd87cd28a"
+                                type="box">10</container>
+                     <container id="aspace_7a1a3746685410f73d66f23c68ee11ee"
+                                type="folder"
+                                parent="aspace_3dc9f79232d3f9cdc007127bd87cd28a">125</container>
+                  </did>
+               </c>
+               <c id="ref120" level="file">
+                  <did>
+                     <unittitle>CESCM budget, reports</unittitle>
+                     <unitdate type="inclusive">1988</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_4b22bd2beac9bf70184bcfd4341ef800"
+                                type="box">10</container>
+                     <container id="aspace_8bb5bb40c5d175a88fca2c82030bdb43"
+                                type="folder"
+                                parent="aspace_4b22bd2beac9bf70184bcfd4341ef800">126</container>
+                  </did>
+               </c>
+               <c id="ref121" level="file">
+                  <did>
+                     <unittitle>Memo to denominational campus ministry executives re. CESCM funding; financial reports</unittitle>
+                     <unitdate type="inclusive">1989-1990</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_529e5ba40818d11969fe46ca4eef5904"
+                                type="box">10</container>
+                     <container id="aspace_a2737aea1d74a330226e7e55fd21e737"
+                                type="folder"
+                                parent="aspace_529e5ba40818d11969fe46ca4eef5904">127-128</container>
+                  </did>
+               </c>
+               <c id="ref122" level="file">
+                  <did>
+                     <unittitle>Memo to CESCM Partners re. funding; financial reports</unittitle>
+                     <unitdate type="inclusive">1991</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_7c476c0a9acd3a400241805d07278f92"
+                                type="box">10</container>
+                     <container id="aspace_f756f21bacdf0d2d2570a7391244b906"
+                                type="folder"
+                                parent="aspace_7c476c0a9acd3a400241805d07278f92">129</container>
+                  </did>
+               </c>
+               <c id="ref123" level="file">
+                  <did>
+                     <unittitle>Memos from Episcopal Church; CESCM budget, financial reports</unittitle>
+                     <unitdate type="inclusive">1992</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_27b75bdcc2e50371a268cbdd5e2ac073"
+                                type="box">10</container>
+                     <container id="aspace_391abc515bb06d09a42a239155a7c191"
+                                type="folder"
+                                parent="aspace_27b75bdcc2e50371a268cbdd5e2ac073">130</container>
+                  </did>
+               </c>
+               <c id="ref124" level="file">
+                  <did>
+                     <unittitle>Memo to CESCM Partners re. funding; financial reports</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_90171af309dc60137611490cfeda9ac0"
+                                type="box">10</container>
+                     <container id="aspace_3c9cee5ce1ba5a35810360cb521bb565"
+                                type="folder"
+                                parent="aspace_90171af309dc60137611490cfeda9ac0">131</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref125" level="subseries">
+               <did>
+                  <unittitle>Staff Reports</unittitle>
+               </did>
+               <c id="ref126" level="file">
+                  <did>
+                     <unittitle>Reports from Gayla Spicknall; proposal re. conference</unittitle>
+                     <unitdate type="inclusive">1987</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_132de7ef037d1c6e23fbc59ad59674d9"
+                                type="box">10</container>
+                     <container id="aspace_43e61bcbac00f259e8eaf798d4c62f7c"
+                                type="folder"
+                                parent="aspace_132de7ef037d1c6e23fbc59ad59674d9">132</container>
+                  </did>
+               </c>
+               <c id="ref127" level="file">
+                  <did>
+                     <unittitle>Report from Gayla Spicknall; Report from Allan Burry, CESCM representative at WSCF Executive Committee meeting in Harare, Zimbabwe</unittitle>
+                     <unitdate type="inclusive">1988</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_7af9f66379690e05363584723f005034"
+                                type="box">10</container>
+                     <container id="aspace_b3fee73bb29a2d431929f9affcb8b5cd"
+                                type="folder"
+                                parent="aspace_7af9f66379690e05363584723f005034">133</container>
+                  </did>
+               </c>
+               <c id="ref128" level="file">
+                  <did>
+                     <unittitle>Reports from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1989-1992</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_32b940d2575bac5219ca21069d319ef1"
+                                type="box">10</container>
+                     <container id="aspace_4e20a9e8af32d8d5f1343d4eb3e514da"
+                                type="folder"
+                                parent="aspace_32b940d2575bac5219ca21069d319ef1">134-137</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref129" level="subseries">
+               <did>
+                  <unittitle>Program Activities</unittitle>
+               </did>
+               <c id="ref130" level="file">
+                  <did>
+                     <unittitle>European Student Chaplains' Conferences</unittitle>
+                     <unitdate type="inclusive">1989-1992</unitdate>
+                     <container label="Mixed Materials (39002038428935)"
+                                id="aspace_099de42e873f93e1c2714864af933b70"
+                                type="box">10</container>
+                     <container id="aspace_1463570e3a0990edd206717223f735fb"
+                                type="folder"
+                                parent="aspace_099de42e873f93e1c2714864af933b70">138-140</container>
+                  </did>
+               </c>
+               <c id="ref131" level="file">
+                  <did>
+                     <unittitle>European Student Chaplains' Conference</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_ceb6a9ea67069b8a24db269d8122cb89"
+                                type="box">11</container>
+                     <container id="aspace_5b3cd15f77acd3f97571128a28a8a5e3"
+                                type="folder"
+                                parent="aspace_ceb6a9ea67069b8a24db269d8122cb89">141</container>
+                  </did>
+               </c>
+               <c id="ref132" level="file">
+                  <did>
+                     <unittitle>CESCM Colloquy</unittitle>
+                     <unitdate type="inclusive">1992 Oct</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_616166f05a66115907274ef798ef242c"
+                                type="box">11</container>
+                     <container id="aspace_3822963b5d8c6b6d1865360abfe2581b"
+                                type="folder"
+                                parent="aspace_616166f05a66115907274ef798ef242c">142</container>
+                  </did>
+               </c>
+               <c id="ref133" level="file">
+                  <did>
+                     <unittitle>Solidarity Brigade to Cuba</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_bd2075f8a78fd69e9026f8f19cc289f0"
+                                type="box">11</container>
+                     <container id="aspace_66ac1766aa3255aeee716788d635b491"
+                                type="folder"
+                                parent="aspace_bd2075f8a78fd69e9026f8f19cc289f0">143, 144</container>
+                  </did>
+               </c>
+               <c id="ref134" level="file">
+                  <did>
+                     <unittitle>Ecumenical Global Gathering of Youth and Students (EGGYS) - updates, correspondence</unittitle>
+                     <unitdate type="inclusive">1990-1992</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_360e3c006e66fab1b19722128a21606e"
+                                type="box">11</container>
+                     <container id="aspace_725502a55bcd2f5821764a58bed31df5"
+                                type="folder"
+                                parent="aspace_360e3c006e66fab1b19722128a21606e">145</container>
+                  </did>
+               </c>
+               <c id="ref135" level="file">
+                  <did>
+                     <unittitle>EGGYS - reports, background papers</unittitle>
+                     <unitdate type="inclusive">1991-1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_24ac75bf36086b8d52f9e463e37b6c76"
+                                type="box">11</container>
+                     <container id="aspace_7902c8f1b5be1c36891e0473385d4956"
+                                type="folder"
+                                parent="aspace_24ac75bf36086b8d52f9e463e37b6c76">146</container>
+                  </did>
+               </c>
+               <c id="ref136" level="file">
+                  <did>
+                     <unittitle>EGGYS - minutes of planning committee</unittitle>
+                     <unitdate type="inclusive">1989-1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_f034bf1b85090d3305b0e2a6692d8832"
+                                type="box">11</container>
+                     <container id="aspace_3c40ee5c8e6f84a3eb7fba2502038497"
+                                type="folder"
+                                parent="aspace_f034bf1b85090d3305b0e2a6692d8832">147</container>
+                  </did>
+               </c>
+               <c id="ref137" level="file">
+                  <did>
+                     <unittitle>EGGYS - reports</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_962415fbc59d1e3f9a7b27d63923f34f"
+                                type="box">11</container>
+                     <container id="aspace_e6a65bd1c7ef43e8251f5d36085db414"
+                                type="folder"
+                                parent="aspace_962415fbc59d1e3f9a7b27d63923f34f">148</container>
+                  </did>
+               </c>
+               <c id="ref138" level="file">
+                  <did>
+                     <unittitle>EGGYS - newsletters</unittitle>
+                     <unitdate type="inclusive">1993</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_1172255a9afa2bc03696cad1bafd6718"
+                                type="box">11</container>
+                     <container id="aspace_dea97b92620a247a2497d849e071e213"
+                                type="folder"
+                                parent="aspace_1172255a9afa2bc03696cad1bafd6718">149</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref139" level="subseries">
+               <did>
+                  <unittitle>CESCM Publications</unittitle>
+               </did>
+               <c id="ref140" level="file">
+                  <did>
+                     <unittitle>CESCM web site printouts: CESCM homepage, "History of the SCM in the USA", CESCM brochure, list of CESCM partners, other links; CESCM printed brochure</unittitle>
+                     <unitdate type="inclusive">1995-2000</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_3c483efb029bcaad94bd9f968b8620fe"
+                                type="box">11</container>
+                     <container id="aspace_ba286abc64138f0d5187ab970d819e89"
+                                type="folder"
+                                parent="aspace_3c483efb029bcaad94bd9f968b8620fe">150</container>
+                  </did>
+               </c>
+               <c id="ref141" level="file">
+                  <did>
+                     <unittitle>CESCM web site printouts: WSCF information, WSCF directory,</unittitle>
+                     <unitdate type="inclusive">2000</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_61784e1e48a72f620ef0a969517cfbfa"
+                                type="box">11</container>
+                     <container id="aspace_650eefe99846f6a1bf9fafe0b6270fe3"
+                                type="folder"
+                                parent="aspace_61784e1e48a72f620ef0a969517cfbfa">151</container>
+                  </did>
+               </c>
+               <c id="ref142" level="file">
+                  <did>
+                     <unittitle>CESCM web site printouts: Reports on the Work and Gatherings of the WSCF and its Member SCMs</unittitle>
+                     <unitdate type="inclusive">2000</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_a586b9adf91aef3bcf52db5c6c07accc"
+                                type="box">11</container>
+                     <container id="aspace_41cf67d38f5f26859dd86eb5a01a8c67"
+                                type="folder"
+                                parent="aspace_a586b9adf91aef3bcf52db5c6c07accc">152</container>
+                  </did>
+               </c>
+               <c id="ref143" level="file">
+                  <did>
+                     <unittitle>CESCM web site printouts: Past and Present Celebrate Conference Information</unittitle>
+                     <unitdate type="inclusive">1999-2000</unitdate>
+                     <container label="Mixed Materials (39002038428943)"
+                                id="aspace_a55b91d290748b13ff52aac839e4e222"
+                                type="box">11</container>
+                     <container id="aspace_b06d436dc20ddf980635297fa3602507"
+                                type="folder"
+                                parent="aspace_a55b91d290748b13ff52aac839e4e222">153</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref144" level="subseries">
+               <did>
+                  <unittitle>CESCM Correspondence Files</unittitle>
+               </did>
+               <c id="ref145" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1987-1988</unitdate>
+                     <container label="Mixed Materials (39002038428950)"
+                                id="aspace_f90b1dc90f86352674e0b8436fc8d48e"
+                                type="box">12</container>
+                     <container id="aspace_5031fa385e7cbf53471c376a62521ee9"
+                                type="folder"
+                                parent="aspace_f90b1dc90f86352674e0b8436fc8d48e">154-158</container>
+                  </did>
+               </c>
+               <c id="ref146" level="file">
+                  <did>
+                     <unittitle>Financial Correspondence</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002038428950)"
+                                id="aspace_bbf1906e59b1907cf91e7dd32d1751e0"
+                                type="box">12</container>
+                     <container id="aspace_43d8b967b220e2f5c6a19d6ee809eddd"
+                                type="folder"
+                                parent="aspace_bbf1906e59b1907cf91e7dd32d1751e0">158a</container>
+                  </did>
+               </c>
+               <c id="ref147" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1989</unitdate>
+                     <container label="Mixed Materials (39002038428950)"
+                                id="aspace_fbea4c2c88282df9cf7564d8a2259ce0"
+                                type="box">12</container>
+                     <container id="aspace_f9337f32499d1cd97ca5feaa950d3a4c"
+                                type="folder"
+                                parent="aspace_fbea4c2c88282df9cf7564d8a2259ce0">159-162</container>
+                  </did>
+               </c>
+               <c id="ref148" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1990</unitdate>
+                     <container label="Mixed Materials (39002038428968)"
+                                id="aspace_15318762637c3bf4159e7f7635ab46ae"
+                                type="box">13</container>
+                     <container id="aspace_30f3a2112c6caf26070c8a08b4fc27ef"
+                                type="folder"
+                                parent="aspace_15318762637c3bf4159e7f7635ab46ae">163-166</container>
+                  </did>
+               </c>
+               <c id="ref149" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1991 Jan-1992 Mar</unitdate>
+                     <container label="Mixed Materials (39002038428976)"
+                                id="aspace_a5c7815286b1f7f81461cd87e982a16a"
+                                type="box">14</container>
+                     <container id="aspace_3a03a5968779ee077911a9602ce829c2"
+                                type="folder"
+                                parent="aspace_a5c7815286b1f7f81461cd87e982a16a">167-173</container>
+                  </did>
+               </c>
+               <c id="ref150" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall</unittitle>
+                     <unitdate type="inclusive">1992 Apr-Dec</unitdate>
+                     <container label="Mixed Materials (39002038428984)"
+                                id="aspace_465ff25602b4c0ed4d30f57c04ce6b5b"
+                                type="box">15</container>
+                     <container id="aspace_1b3fcdc638707db1d8bf67538b1cea07"
+                                type="folder"
+                                parent="aspace_465ff25602b4c0ed4d30f57c04ce6b5b">174-176</container>
+                  </did>
+               </c>
+               <c id="ref151" level="file">
+                  <did>
+                     <unittitle>Correspondence primarily to/from Gayla Spicknall re. WSCF Regional office</unittitle>
+                     <unitdate type="inclusive">1992</unitdate>
+                     <container label="Mixed Materials (39002038428984)"
+                                id="aspace_7e89afb3707b7ee4b73fb4b7e850973a"
+                                type="box">15</container>
+                     <container id="aspace_9c8f092e0be83841fb6a23a79b52d0bb"
+                                type="folder"
+                                parent="aspace_7e89afb3707b7ee4b73fb4b7e850973a">177</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

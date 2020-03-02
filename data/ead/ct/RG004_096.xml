@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004096.html" countrycode="us">RG004_096</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:096, New Milford Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">February 23, 2012</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2012</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>February 23, 2012</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (New Milford District)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">New Milford Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1787/2006">1787-2006</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">189.75 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Record books, 1787-2006; Probate files, 1787-1947.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_096</unitid>
+	<unitid label="Accession: ">1917-002, 2009-013, 2010-038</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>New Milford, Litchfield County, Town established in October 1712
+</p>
+<p>
+The New Milford Probate District was constituted May 1787, from the Danbury, Sharon, and Woodbury Probate Districts. The New Milford Probate District merged with the Brookfield and New Fairfield Probate Districts on January 5, 2011 to create the Housatonic Probate District which serves the municipalities of Bridgewater, Brookfield, New Fairfield, New Milford, and Sherman.
+The New Milford Probate District also included at various times the municipalities of Kent, May 1787-May 25, 1831; New Fairfield, May 1787-October 1822 (north society of town only which became town of Sherman in October 1802); Sherman, October 1802-June 3, 1846.
+</p>
+
+<p>
+Town of New Milford, Probate District chronology:
+</p>
+<p>
+October 1712 - October 1719, New Haven District<lb/>
+October 1719 - May 1787, Woodbury District<lb/>
+May 1787 - January 4, 2011, New Milford District<lb/>
+January 5, 2011 - Present, Housatonic District
+</p>
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Probate record books, 1787-2006. Contact the probate court to access record books after Volume 244. See Alternative Form Available note below.</p>
+	<p>Probate files, 1787-1947. Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. See Alternative Form Available note below.</p>
+	<p>Inventory control book, 1787-1947 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+</scopecontent> 
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Record books are numbered from 1 to 244.</p>
+	<p>Probate files arranged alphabetically.</p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Original record books, volumes 1, 2, 6, 10, 13, 15, 16, 22, and 56 are at the New Milford Historical Society.</p>
+</relatedmaterial>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+<p>Record Books: Index cards for the record books have been scanned. Ask History and Genealogy staff for assistance. Note: CSL does not hold any original record books. See Alternate Form Available section for volumes available on microfilm.</p>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in Accession 1917-002 are represented in this index.
+</p>
+</otherfindaid>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Kent</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- New Fairfield</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- New Milford</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Sherman</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Kent (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">New Fairfield (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">New Milford (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Sherman (Conn.)</geogname>
+	</controlaccess>
+	
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+	<p>Probate files from 1921-1947 are <emph render="bold">RESTRICTED</emph> as they may contain confidential documents. Tax returns (succession, transfer and estate tax returns and all attachments) from January 1, 1921 and later are confidential per Connecticut General Statutes §12-15.</p>
+
+ <p>Accessions 2009-013 and 2010-038, Record books, 1787-2006, are stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, volumes 1-56, 1787-1920 (except for volumes 21, 25, 29, 33, 37, 39, 42, 50, 54); probate files, 1787-1880; and inventory control book (Godard Digest) were microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>
+The probate files in accession 1917-003 were transferred to the Connecticut State Library on the following dates (with date span of files): September 27, 1917 (1787-1914); November 28, 1930 (1858-1926); May 13, 1938 (1899-1929); September 9, 1942 (1921-1941);
+November 18, 1946 (1925-1947); February 18, 1948 (1925-1947); January 6, 1949 (1925-1947); December 16, 1949 (1911-1947). They have been interfiled into one alphabetic series.
+</p>
+<p>
+The record books in accession 2009-013 were transferred to the Connecticut State Library on December 5, 2008.
+</p>
+<p>
+The record books in accession 2010-038 were transferred to the Connecticut State Library on May 13, 2010.
+</p>
+</acqinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Record books</unittitle>
+	<unitdate datechar="creation" normal="1787/2006">1787-2006</unitdate>
+	<physdesc><extent>94.5 cubic feet (260 volumes)</extent></physdesc>
+	<unitid label="Accession: ">2009-013 and 2010-038</unitid>
+ </did>	
+<note><p>Accession: 2009-013: Volumes 1 and 2 are reproductions and bound together; Volumes 5 and 6 are reproductions and bound together; Volumes 9-11, 13-25, 33, and 56 are reproductions.
+Accession: 2010-038: Originals of Volumes 5, 9, 11, 17-21, 23-25, 33.</p></note>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">1-244</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1787-2006</unitdate>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1787/1947">1787-1947</unitdate>
+	<physdesc><extent>41.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1917-002</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Drawer</entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Drawer">1</container>
+	<unittitle>Abbott, C. - Allen, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">2</container>
+	<unittitle>Allen, I. - Baldwin, V.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">3</container>
+	<unittitle>Baldwin, W. - Beach, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">4</container>
+	<unittitle>Beach, K. - Bennett, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">5</container>
+	<unittitle>Bennett, H. - Booth, A.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">6</container>
+	<unittitle>Booth, B. - Botsford, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">7</container>
+	<unittitle>Botsford, M. - Buck, S.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">8</container>
+	<unittitle>Buck, T. - Camp, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">9</container>
+	<unittitle>Camp, H. - Carrington</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">10</container>
+	<unittitle>Carroll - Clark, Levi</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">11</container>
+	<unittitle>Clark, Lillian - Cummings, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">12</container>
+	<unittitle>Cummings, D. - Downs, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">13</container>
+	<unittitle>Downs, K. - Ett</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">14</container>
+	<unittitle>Eva - Ferriss, P.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">15</container>
+	<unittitle>Ferriss, Q. - Frink</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">16</container>
+	<unittitle>Frost - Gauson</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">17</container>
+	<unittitle>Gawel - Gaylord, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">18</container>
+	<unittitle>Gaylord, S. - Giddings, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">19</container>
+	<unittitle>Giddings, M. - Grabowski</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">20</container>
+	<unittitle>Grace - Gridley</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">21</container>
+	<unittitle>Griffin - Hallock, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">22</container>
+	<unittitle>Hallock, M. - Hartwell, C.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">23</container>
+	<unittitle>Hartwell, D. - Hatch, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">24</container>
+	<unittitle>Hatch, H. - Heacock, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">25</container>
+	<unittitle>Heacock, I. - Hill, Elizabeth</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">26</container>
+	<unittitle>Hill, Ellen - Hinckley</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">27</container>
+	<unittitle>Hine, A. - Hine, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">28</container>
+	<unittitle>Hine, N. - Honan</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">29</container>
+	<unittitle>Hopson - Hughes</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">30</container>
+	<unittitle>Hull - Hunt, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">31</container>
+	<unittitle>Hunt, N. - Jacklin</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">32</container>
+	<unittitle>Jackson - Jones, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">33</container>
+	<unittitle>Jones, E. - Karcher</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">34</container>
+	<unittitle>Keating - Kelley</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">35</container>
+	<unittitle>Kellogg - Kinney</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">36</container>
+	<unittitle>Kirsh - Knowles</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">37</container>
+	<unittitle>Koehler - Landon</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">38</container>
+	<unittitle>Lane - Lee</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">39</container>
+	<unittitle>Leonard - Lockwood</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">40</container>
+	<unittitle>Logan - Lyon, N.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">41</container>
+	<unittitle>Lyon, O. - MacGovern</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">42</container>
+	<unittitle>Logan - Lyon, N.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">43</container>
+	<unittitle>MacKay - MacMahon, O.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">44</container>
+	<unittitle>MacMahon, P. - Manville</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">45</container>
+	<unittitle>Marsh, G. - Maugum</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">46</container>
+	<unittitle>Maxwell - Merwin, G</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">47</container>
+	<unittitle>Merwin, H. - Miles, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">48</container>
+	<unittitle>Miles, F. - Moger</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">49</container>
+	<unittitle>Molloy - Morehouse, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">50</container>
+	<unittitle>Morehouse, K. - Morgan, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">51</container>
+	<unittitle>Morgan, S. - Murdock</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">52</container>
+	<unittitle>Murphy - Mygatt</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">53</container>
+	<unittitle>Nadradowski - Nichols, S.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">54</container>
+	<unittitle>Nichols, T. - Noble, I.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">55</container>
+	<unittitle>Noble, J. - Northrop, E.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">56</container>
+	<unittitle>Northrop, E. - Northrop, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">57</container>
+	<unittitle>Northrop, S. - Olson, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">58</container>
+	<unittitle>Olson, H. - Oviatt</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">59</container>
+	<unittitle>Owen - Parylak</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">60</container>
+	<unittitle>Patch - Peck, Q.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">61</container>
+	<unittitle>Peck, R. - Pepper, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">62</container>
+	<unittitle>Pepper, S. - Phippeny</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">63</container>
+	<unittitle>Pickett - Platt, F.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">64</container>
+	<unittitle>Platt, G. - Potter</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">65</container>
+	<unittitle>Power - Randall, F.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">66</container>
+	<unittitle>Randall, G. - Rose</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">67</container>
+	<unittitle>Rosen - Seiple</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">68</container>
+	<unittitle>Selva - Spencer L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">69</container>
+	<unittitle>Spencer, M. - Stone, L.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">70</container>
+	<unittitle>Stone, M. - Thomas, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">71</container>
+	<unittitle>Thomas, E. - Turrill, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">72</container>
+	<unittitle>Turrill, S. - Watson, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">73</container>
+	<unittitle>Watson, K. - Wilbur</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">74</container>
+	<unittitle>Whitney - Zoleski; Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1787-1947</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the four accessions of probate files now merged into accession 1917-002</p></note> 
+	<note><p>Date span is coverage</p></note>
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+
+</dsc>
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

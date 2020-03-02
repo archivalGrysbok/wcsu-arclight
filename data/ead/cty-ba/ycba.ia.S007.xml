@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BA"
+             url="http://hdl.handle.net/10079/fa/ycba.ia.S007">ycba.ia.S007</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Paul Mellon correspondence with E. Bartlett Barnes </titleproper>
+            <titleproper type="filing">Paul Mellon correspondence with E. Bartlett Barnes</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Center for British Art, Institutional Archives</publisher>
+            <address>
+               <addressline>Institutional Archives</addressline>
+               <addressline>1080 Chapel Street</addressline>
+               <addressline>P. O. Box 208280</addressline>
+               <addressline>New Haven, CT 06520-8280</addressline>
+               <addressline altrender="email">ycba.institutionalarchives@yale.edu</addressline>
+            </address>
+            <num>S007</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 16, 2019 at 21:03</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Paul Mellon correspondence with E. Bartlett Barnes</unittitle>
+         <unitid>S007</unitid>
+         <repository>
+            <corpname>
+               Yale Center for British Art, Institutional Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <container id="aspace_183a0390bac16125c94dc2ac9e600f5c"
+                    label="Mixed Materials"
+                    type="box">1124</container>
+         <physdesc>
+            <extent unit="Linear Feet">.209</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1991/2001">1991-2001</unitdate>
+         
+         <origination label="creator">
+            <persname rules="local" source="local_ycba_ia">
+               Barnes, E. Bartlett
+            </persname>
+         </origination>
+      </did>
+      <scopecontent id="aspace_0b6985041fa9865cd35cb4cad7b83ed6">
+         <head>Scope and Contents</head>
+         <p>This collection consists of correspondence between Paul Mellon (1907-1999) and E. Bartlett Barnes (1908-1994). Mellon often included in his correspondence information about accomplishments and news notes for the Yale '29 alumni column, which was written by Barnes. There is correspondence about "The Mountain Club," of which Mellon was a member at Yale, and newspaper clippings about Mellon's donation of art to the National Gallery (September 30, 1995). There are also significant materials related to Mellon's racing career including pamphlets from Rokeby Stables, a photograph of Sea Hero at the Kentucky Derby, and newspaper articles about Rokeby Stables.</p>  
+      </scopecontent>
+      <bioghist id="aspace_895cc9ee9cdfdeae50ca44d4784919c9">
+         <head>Biographical / Historical</head>
+         <p>E. Bartlett Barnes (1908-1994) was the scribe for the Yale '29 class column in the Yale Alumni Magazine, beginning in 1966.  He and Paul Mellon graduated in the same class at Yale and corresponded sporadically for 20 to 30 years.</p>
+         <p>Barnes was publisher and president of the Bristol Press, the local newspaper of Bristol, Connecticut, for three decades before his retirement in 1985.  He joined a small group of editors and publishers who launched a twenty year campaign, beginning in the mid-1950s, for the creation of a state Freedom of Information law.  He served as Chairman of the Bristol Board of Education and as Director of the Connecticut Freedom of Information commission from 1985 to 1989.  He was also a 67-year member and Paul Harris Fellow of the Bristol Rotary Club and a 50-year member and former deacon of the First Congregational Church in Bristol.  He is credited with transforming the New England Carousel Museum into a nonprofit group dedicated to preservation and education, and he was a senior member of the Bristol Yale Club whose members raised hundreds of thousands of dollars for scholarships for local students.  Barnes was also actively involved in providing guidance and support to local Bristol organizations including the Bristol Public Library, the American Clock and Watch Museum, the Family Center and the Barnes Nature Center.</p>  
+      </bioghist>
+      <accessrestrict id="aspace_7b69b9e14a3528c1a0288e252ac81d70">
+         <head>Conditions Governing Access</head>
+         <p>This collection is unprocessed and may not be available for immediate access.</p>  
+      </accessrestrict>
+  
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85007472"
+                  source="lcsh">
+            Art -- Collectors and collecting
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062110"
+                  source="lcsh">
+            Horse racing
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141093"
+                  source="lcsh">
+            Universities and colleges -- Alumni and alumnae
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50007219"
+                   rules="aacr"
+                   source="naf">
+            Mellon, Paul
+         </persname>
+      </controlaccess>
+      <dsc/>
+   </archdesc>
+</ead>

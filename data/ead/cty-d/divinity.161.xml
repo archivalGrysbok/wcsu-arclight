@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-D"
+             url="http://hdl.handle.net/10079/fa/divinity.161">divinity.161</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Albert Dewey Papers
+ </titleproper>
+            <titleproper type="filing">Dewey (Albert) Papers</titleproper>
+            <author>Compiled by Kathryn I. Lund and Martha Lund Smalley</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Divinity School Library</publisher>
+            <address>
+               <addressline>409 Prospect Street</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">divinity.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:title="http://web.library.yale.edu/divinity/special-collections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2000</date>
+            <num>RG 161</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Monday March 25, 2019 at 22:03</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Albert Dewey Papers</unittitle>
+         <unitid>RG 161</unitid>
+         <repository>
+            <corpname>
+               Yale University Divinity School Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(3 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1898/1958">1898-1958</unitdate>
+         
+         <abstract id="aspace_ed4d92058727d7628077132c66dedb8f">Detailed correspondence, writings, collected material, diaries, and photographs document the life and work of Albert Dewey and his family in Turkey. Albert Dewey was an American medical missionary serving under the American Board of Commissioners for Foreign Missions in Gaziantep (Aintab), Turkey from 1919 to 1959.</abstract>
+         <origination label="creator">
+            <persname source="local">
+               Dewey, Albert
+            </persname>
+         </origination>
+    
+      </did>
+      <accessrestrict id="aspace_be80d7d564024c43562ff1392cf7ed52">
+         <head>Conditions Governing Access</head>
+         <p>Open to qualified researchers.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_8f841ca2e3ce0453bae888b17d29ed47">
+         <head>Preferred Citation</head>
+         <p>Albert Dewey Paper (RG 161), Special Collections, Yale Divinity School Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_739bd6f719b45b5c3ff3139cf67e42d0">
+         <head>Biographical / Historical</head>
+         <p>Albert Dewey was educated at the University of Denver (B.A. 1913, M.A. 1915, M.D. 1917). He did graduate work at the University of Pennsylvania and in Vienna. In 1941 he was elected a Fellow of the American College of Physicians. He was in the U.S. Army during World War I and saw service in London and France. With his wife, Elsie Greene Dewey, he sailed to the Near East as a missionary of the American Board of Commissioners for Foreign Missions in 1919 for work in Talas and Merzifon. He worked for six years under Near East Relief in Turkey, Greece, Syria, and the Caucasus. He took charge of the Azariah Smith Memorial Hospital in Gaziantep, Turkey in 1929. Albert and Elsie Dewey had five children. Elsie died in 1940 and Albert married Dora Shank, a nursing supervisor in Turkey, in 1942. The Deweys retired from their work in 1959.</p>  
+      </bioghist>
+      <scopecontent id="aspace_19617d35e5dfd6674518e1caab624be6">
+         <head>Scope and Contents</head>
+         <p>Detailed correspondence to Dewey's parents, sibling, and children provides an excellent account of his work as a medical missionary at Gaziantep Hospital in Turkey. Further documentation is provided by diaries, writings, and collected material. These papers are complemented by the Merrill Isely Papers of YDSL Record Group No. 158. Isely was an American Board colleague of Dewey in Turkey.</p>  
+      </scopecontent>
+      <arrangement id="aspace_e6019e5d2908b8b8cd307df8eae349e4">
+         <head>Arrangement</head>
+         <list>
+            <item>I. Correspondence, 1898-1958</item>
+            <item>II. Writings, 1943-1946, n.d.</item>
+            <item>III. Collected Materials, 1931-1958</item>
+            <item>IV. Diaries, 1914-1938</item>
+            <item>V. Photographs, 1920-1921, n.d.</item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010102169"
+                  source="lcsh">
+            Missions -- Turkey
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85086017"
+                  source="lcsh">
+            Missionaries
+         </subject>
+         <persname source="local">
+            Dewey, Albert
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n50060748"
+                   source="naf">
+            American Board of Commissioners for Foreign Missions
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1898-1958</unitdate>
+            </did>
+            <c id="ref10" level="subseries">
+               <did>
+                  <unittitle>Family Correspondence</unittitle>
+               </did>
+               <c id="ref11" level="file">
+                  <did>
+                     <unittitle>To/ from parents of Albert Dewey</unittitle>
+                     <unitdate type="inclusive">1898-1915</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_7145b5feaee47ae7fc387c5d4c77ecd0"
+                                type="box">1</container>
+                     <container id="aspace_900be9ae0a32948e54bf9f4bc457bbc8"
+                                type="folder"
+                                parent="aspace_7145b5feaee47ae7fc387c5d4c77ecd0">1</container>
+                  </did>
+               </c>
+               <c id="ref12" level="file">
+                  <did>
+                     <unittitle>To/ from parents of Albert Dewey</unittitle>
+                     <unitdate type="inclusive">1918-1931</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_b86a3c7c7fcea53d862b43af7552db3a"
+                                type="box">1</container>
+                     <container id="aspace_06c8e9277eb1ff544b758aed78881a09"
+                                type="folder"
+                                parent="aspace_b86a3c7c7fcea53d862b43af7552db3a">2-34</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>To/from siblings of AD</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Alice Dewey</unittitle>
+                     <unitdate type="inclusive">1918-1928</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_815b0c00ec4dfa9bf6e7c66f44f9b65c"
+                                type="box">1</container>
+                     <container id="aspace_e52c2e1118d731c0feab608fe911ba3f"
+                                type="folder"
+                                parent="aspace_815b0c00ec4dfa9bf6e7c66f44f9b65c">35</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>David Dewey</unittitle>
+                     <unitdate type="inclusive">1918-1921</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_65e4573b07ff0b6dd599b25c750cc3a1"
+                                type="box">1</container>
+                     <container id="aspace_f82c4ab5fe380f52f52300777fcf42c2"
+                                type="folder"
+                                parent="aspace_65e4573b07ff0b6dd599b25c750cc3a1">36</container>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Edward Dewey</unittitle>
+                     <unitdate type="inclusive">1918-1940</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_20f1bb9814bdbd861b8514796a4aefc1"
+                                type="box">1</container>
+                     <container id="aspace_adc7eddbfd5ff23e04ea365c5e4b80dd"
+                                type="folder"
+                                parent="aspace_20f1bb9814bdbd861b8514796a4aefc1">37</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Clarence Dewey</unittitle>
+                     <unitdate type="inclusive">1920-1924</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_e081d7f40e91c1bbc953a3db6851ffcb"
+                                type="box">1</container>
+                     <container id="aspace_7dbee893a9bda5b5c3a63b4fb2a780f0"
+                                type="folder"
+                                parent="aspace_e081d7f40e91c1bbc953a3db6851ffcb">38</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Various</unittitle>
+                     <unitdate type="inclusive">1930-1947</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_a4eb93517f89d761c0c84e7330976741"
+                                type="box">1</container>
+                     <container id="aspace_a6831fcfe08735d2758a8a9a39a609c6"
+                                type="folder"
+                                parent="aspace_a4eb93517f89d761c0c84e7330976741">39</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>From others</unittitle>
+                     <unitdate type="inclusive">1923-1927</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_663ecb28a1f86f9666fb17a95b59d0d0"
+                                type="box">1</container>
+                     <container id="aspace_a27e31753e2d6e4cd1f7d34868601e7e"
+                                type="folder"
+                                parent="aspace_663ecb28a1f86f9666fb17a95b59d0d0">40</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref20" level="subseries">
+               <did>
+                  <unittitle>To/from children of AD</unittitle>
+               </did>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate type="inclusive">1932-1940 Jul</unitdate>
+                     <container label="Mixed Materials (39002035360784)"
+                                id="aspace_084d718ec40542185239ae56ae700de4"
+                                type="box">1</container>
+                     <container id="aspace_8bfd16a02497ecf35c0f8e6cfed68c18"
+                                type="folder"
+                                parent="aspace_084d718ec40542185239ae56ae700de4">41-47</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate type="inclusive">1940 Aug-1957</unitdate>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_378d5f5242a65a3858ca8ad42c7e69a3"
+                                type="box">2</container>
+                     <container id="aspace_6ee44cc9ea9ca83c7ffc33582b991a5b"
+                                type="folder"
+                                parent="aspace_378d5f5242a65a3858ca8ad42c7e69a3">48-56</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref23" level="subseries">
+               <did>
+                  <unittitle>Circular letters</unittitle>
+               </did>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate type="inclusive">1921-1958</unitdate>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_d1837fdb49a3aaf122170d54424aa91d"
+                                type="box">2</container>
+                     <container id="aspace_67ed87d313062fa7dc0a4e91f735bac0"
+                                type="folder"
+                                parent="aspace_d1837fdb49a3aaf122170d54424aa91d">57-69</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref25" level="subseries">
+               <did>
+                  <unittitle>General correspondence</unittitle>
+               </did>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Ansoy-Graham</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_0097325590cfa8fc6a620f49df3d48b9"
+                                type="box">2</container>
+                     <container id="aspace_897af0870992a161602aa032ef012ecd"
+                                type="folder"
+                                parent="aspace_0097325590cfa8fc6a620f49df3d48b9">70</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Greene, Mrs. T. C.</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_2423614eb336899db3a93ee73caeb7a6"
+                                type="box">2</container>
+                     <container id="aspace_70888bc10d4d6ac7d19fae8f90b85935"
+                                type="folder"
+                                parent="aspace_2423614eb336899db3a93ee73caeb7a6">71</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Harris - Mouammer</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_bc636a2f3084416eaed1c128cdfd76f6"
+                                type="box">2</container>
+                     <container id="aspace_ac36f50d411963ba76446571bd5fa4a6"
+                                type="folder"
+                                parent="aspace_bc636a2f3084416eaed1c128cdfd76f6">72</container>
+                  </did>
+               </c>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Phelps, Teda Belle</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_2150db405696f7fac9abbfff62921137"
+                                type="box">2</container>
+                     <container id="aspace_807bd7a5e6b968402931c2e4ffe5f2fb"
+                                type="folder"
+                                parent="aspace_2150db405696f7fac9abbfff62921137">73</container>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Packard - Willard</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_8b246f91f9c163f5d07cd31de0c9a398"
+                                type="box">2</container>
+                     <container id="aspace_dfa4efbecff735b301e06df0344de020"
+                                type="folder"
+                                parent="aspace_8b246f91f9c163f5d07cd31de0c9a398">74</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>first names only</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_ee1a0c4a46e432a6dc94f186dabd51d0"
+                                type="box">2</container>
+                     <container id="aspace_4f04b9df561163ea07ee67524c99a089"
+                                type="folder"
+                                parent="aspace_ee1a0c4a46e432a6dc94f186dabd51d0">75</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref32" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1943-1946, n.d.</unitdate>
+            </did>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>"A Review of some of the recent literature dealing with splenic enlargement" (Thesis submitted to Faculty of Graduate School of Medicine of University of Pennsylvania)</unittitle>
+                  <container label="Mixed Materials (39002035360776)"
+                             id="aspace_ebaae15b5f9e34d7d634d08d5775ce98"
+                             type="box">2</container>
+                  <container id="aspace_04716d04b72ddfa224a1fc7e8752fa9e"
+                             type="folder"
+                             parent="aspace_ebaae15b5f9e34d7d634d08d5775ce98">76</container>
+               </did>
+            </c>
+            <c id="ref34" level="file">
+               <did>
+                  <unittitle>Annual meeting sermon</unittitle>
+                  <unitdate type="inclusive">1943</unitdate>
+                  <container label="Mixed Materials (39002035360776)"
+                             id="aspace_b003901afe1545cd21e5730f128e0045"
+                             type="box">2</container>
+                  <container id="aspace_0abc26dcc801ad749505e637b56f57cb"
+                             type="folder"
+                             parent="aspace_b003901afe1545cd21e5730f128e0045">76</container>
+               </did>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>Statement of reasons for my presence in Turkey</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002035360776)"
+                             id="aspace_669363ae86eaee13e341d10143809568"
+                             type="box">2</container>
+                  <container id="aspace_45611e477bf37cd8766dd0edcdbebee3"
+                             type="folder"
+                             parent="aspace_669363ae86eaee13e341d10143809568">76</container>
+               </did>
+            </c>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>Annual meeting sermon</unittitle>
+                  <unitdate type="inclusive">1946</unitdate>
+                  <container label="Mixed Materials (39002035360776)"
+                             id="aspace_c8a8303217b45b0db18f91d4eaec0a9e"
+                             type="box">2</container>
+                  <container id="aspace_d0bf94c1c93f188dee1c9db3d94092f7"
+                             type="folder"
+                             parent="aspace_c8a8303217b45b0db18f91d4eaec0a9e">76</container>
+               </did>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002035360776)"
+                             id="aspace_b69d59377669d87816ff907c4d4e1365"
+                             type="box">2</container>
+                  <container id="aspace_8527ba4666d95c77fc13e198be934299"
+                             type="folder"
+                             parent="aspace_b69d59377669d87816ff907c4d4e1365">76</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref38" level="series">
+            <did>
+               <unittitle>Collected Material</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1931-1958</unitdate>
+            </did>
+            <c id="ref39" level="subseries">
+               <did>
+                  <unittitle>Related to American Board mission in Turkey</unittitle>
+               </did>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Re. Gaziantep Hospital - brief history</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_efa78f145f02369612a2d1c62bee4001"
+                                type="box">2</container>
+                     <container id="aspace_4dedf4f75e0ae9be0095bd03b5396b9e"
+                                type="folder"
+                                parent="aspace_efa78f145f02369612a2d1c62bee4001">77</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Re. Gaziantep Hospital, Talas Clinic, American Hospital Istanbul</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_c3669f038eca5d6a94942862d918df0c"
+                                type="box">2</container>
+                     <container id="aspace_60fd5a9907df9afb4479951f14099c24"
+                                type="folder"
+                                parent="aspace_c3669f038eca5d6a94942862d918df0c">78</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Re. Aintab Hospital (Gaziantep)</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_b5d530c16d44d9aed1b381035a9cec22"
+                                type="box">2</container>
+                     <container id="aspace_c84e47d22db55ba64e45bf1a5fb41ce7"
+                                type="folder"
+                                parent="aspace_b5d530c16d44d9aed1b381035a9cec22">79</container>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Re. American Board Mission in Turkey</unittitle>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_4a315e46a10b657e1966a3fcac26a350"
+                                type="box">2</container>
+                     <container id="aspace_5284f172b596afb35d9e48e2e308d893"
+                                type="folder"
+                                parent="aspace_4a315e46a10b657e1966a3fcac26a350">80</container>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Annual reports - Mission and Hospital</unittitle>
+                     <unitdate type="inclusive">1931-1949</unitdate>
+                     <container label="Mixed Materials (39002035360776)"
+                                id="aspace_898e1cef03b82c964dc7ed13c7126262"
+                                type="box">2</container>
+                     <container id="aspace_7c73140bf41a95d13b651eefde936eab"
+                                type="folder"
+                                parent="aspace_898e1cef03b82c964dc7ed13c7126262">81-83</container>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Annual reports - Mission and Hospital</unittitle>
+                     <unitdate type="inclusive">1950-1958</unitdate>
+                     <container label="Mixed Materials (39002035360768)"
+                                id="aspace_d8f63bd002ec13000a171498eb768bba"
+                                type="box">3</container>
+                     <container id="aspace_ec48caac7598a38ddd7b7e7c65954410"
+                                type="folder"
+                                parent="aspace_d8f63bd002ec13000a171498eb768bba">84-85</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref46" level="subseries">
+               <did>
+                  <unittitle>Other</unittitle>
+               </did>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Re. Near East Relief</unittitle>
+                     <container label="Mixed Materials (39002035360768)"
+                                id="aspace_74531d43fbb89493aaf9726391686d57"
+                                type="box">3</container>
+                     <container id="aspace_3520df908f6b9836f723beadca6f652c"
+                                type="folder"
+                                parent="aspace_74531d43fbb89493aaf9726391686d57">86</container>
+                  </did>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Re. earthquake in Turkey</unittitle>
+                     <unitdate type="inclusive">1940</unitdate>
+                     <container label="Mixed Materials (39002035360768)"
+                                id="aspace_6db50aea4c325bc673c6b1baf1da7d5f"
+                                type="box">3</container>
+                     <container id="aspace_71171cb128c7c0ea7077593245affd50"
+                                type="folder"
+                                parent="aspace_6db50aea4c325bc673c6b1baf1da7d5f">87</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>Travel</unittitle>
+                     <container label="Mixed Materials (39002035360768)"
+                                id="aspace_f357e86d6590814bb2dc83d077640c5f"
+                                type="box">3</container>
+                     <container id="aspace_cebbabe711c137c41d7f41d16b3c3c3c"
+                                type="folder"
+                                parent="aspace_f357e86d6590814bb2dc83d077640c5f">88</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Turkey</unittitle>
+                     <container label="Mixed Materials (39002035360768)"
+                                id="aspace_9dc22a3767e0a286263e5481853327e1"
+                                type="box">3</container>
+                     <container id="aspace_1a3a4274a3c2a6d6dca26d6b4140404a"
+                                type="folder"
+                                parent="aspace_9dc22a3767e0a286263e5481853327e1">89</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref51" level="series">
+            <did>
+               <unittitle>Personal Items and Memorabilia</unittitle>
+               <unitid>Series IV</unitid>
+               <unitdate type="inclusive">1914-1938</unitdate>
+            </did>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Miscellaneous</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_401f85d60adc8ac0d3f9a67acd842855"
+                             type="box">3</container>
+                  <container id="aspace_94ac32c8b253016ac90d45eab3d5d6fc"
+                             type="folder"
+                             parent="aspace_401f85d60adc8ac0d3f9a67acd842855">90</container>
+               </did>
+            </c>
+            <c id="ref53" level="file">
+               <did>
+                  <unittitle>Biographical documentation</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_fc6fe2b707a9f67a8004b107b8705ef7"
+                             type="box">3</container>
+                  <container id="aspace_0bd914d87a0f81fb8e1b7e80c9d843a1"
+                             type="folder"
+                             parent="aspace_fc6fe2b707a9f67a8004b107b8705ef7">91</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref54" level="series">
+            <did>
+               <unittitle>Diaries</unittitle>
+               <unitid>Series V</unitid>
+               <unitdate type="inclusive">1914-1938</unitdate>
+            </did>
+            <c id="ref55" level="file">
+               <did>
+                  <unittitle>Albert Dewey</unittitle>
+                  <unitdate type="inclusive">1933-1935, 1938</unitdate>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_ab038c3882459a2ef1c4731d61200504"
+                             type="box">3</container>
+                  <container id="aspace_01165600040d3f1d02364a5281c4371b"
+                             type="folder"
+                             parent="aspace_ab038c3882459a2ef1c4731d61200504">92</container>
+               </did>
+            </c>
+            <c id="ref56" level="file">
+               <did>
+                  <unittitle>Albert Dewey</unittitle>
+                  <unitdate type="inclusive">1914-1917</unitdate>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_3bd730990d686da148aa1ea2c38a7971"
+                             type="box">3</container>
+                  <container id="aspace_e1a24b62fe53f21e8e47f38f83f60f57"
+                             type="folder"
+                             parent="aspace_3bd730990d686da148aa1ea2c38a7971">93</container>
+               </did>
+            </c>
+            <c id="ref57" level="file">
+               <did>
+                  <unittitle>Elsie Dewey</unittitle>
+                  <unitdate type="inclusive">1929</unitdate>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_3193138a0e9f5a79956edc60b9764776"
+                             type="box">3</container>
+                  <container id="aspace_b7c2cacdb4683df2306ecad88c73c326"
+                             type="folder"
+                             parent="aspace_3193138a0e9f5a79956edc60b9764776">94</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref58" level="series">
+            <did>
+               <unittitle>Photographs</unittitle>
+               <unitid>Series VI</unitid>
+               <unitdate type="inclusive">1920-1921, n.d.</unitdate>
+            </did>
+            <c id="ref59" level="file">
+               <did>
+                  <unittitle>Friends and colleagues</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_50973fbfc72e9d2e989a73213f5b5a6e"
+                             type="box">3</container>
+                  <container id="aspace_2d5c6b8d59ed6c88f5f55dac08b3f5c6"
+                             type="folder"
+                             parent="aspace_50973fbfc72e9d2e989a73213f5b5a6e">95</container>
+               </did>
+            </c>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Travel in Near East</unittitle>
+                  <unitdate type="inclusive">1920-1921</unitdate>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_3908cd3b3fb8b99153d51e0586c3bd40"
+                             type="box">3</container>
+                  <container id="aspace_665cdb2dcab85da3030ad4da24d9fe98"
+                             type="folder"
+                             parent="aspace_3908cd3b3fb8b99153d51e0586c3bd40">96</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Family</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_0fe7dde5de930211d9b0602bbe3e69e0"
+                             type="box">3</container>
+                  <container id="aspace_8543de040b11893d920b7da141f14513"
+                             type="folder"
+                             parent="aspace_0fe7dde5de930211d9b0602bbe3e69e0">97</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>Scenery and buildings</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_b608c77be9447e72eb11323a9a2a7010"
+                             type="box">3</container>
+                  <container id="aspace_16aba526736f5c98643b30e4fcecca33"
+                             type="folder"
+                             parent="aspace_b608c77be9447e72eb11323a9a2a7010">98</container>
+               </did>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>American Board Hospital and Mission buildings</unittitle>
+                  <container label="Mixed Materials (39002035360768)"
+                             id="aspace_30dc1adad1fa7507fe92eeafa10a7b58"
+                             type="box">3</container>
+                  <container id="aspace_5ea816efd839c8657206b2fefc3e5574"
+                             type="folder"
+                             parent="aspace_30dc1adad1fa7507fe92eeafa10a7b58">99</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

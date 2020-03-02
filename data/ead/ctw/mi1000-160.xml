@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-160::Middletown Scientific Association Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/mi1000-160.html">mi1000-160</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Middletown Scientific Association Records,
+		<lb/><date normal="1871/1976">1871 - 1976</date>
+		</titleproper>
+        <author>Processed by: Andrea Benefiel; machine-readable finding aid created by: Andrea Benefiel</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>
+        <address>&hdrsca;</address>
+        <p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: September, 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Middletown Scientific Association Records, <date type="span">1871 - 1976</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/></publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Middletown Scientific Association (Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Middletown Scientific Association Records, <unitdate normal="1871/1976" type="inclusive">1871 - 1976</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-160</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">2</extent></physdesc><physdesc label="Archival Boxes"><extent>4</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+&hdrsca;<abstract label="Abstract" encodinganalog="545">The Middletown Scientific Association was founded on March 17, 1871 by Wesleyan University faculty and residents of Middletown, Connecticut. Its purpose was to encourage scientific investigation and curiosity among members and to receive papers from members and other scientists regarding popular topics in all fields of science, history of science, and education of science.</abstract><abstract encodinganalog="520">The Middletown Scientific Association Records include minutes, reports, a scrapbook, administrative records, and other historical materials which document the organization's operations from 1871 until it disbanded in 1968. </abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Middletown Scientific Association Records, Collection #1000-160, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Provenance unknown.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Andrea Benefiel, September, 2008</p>
+        <p>Encoded by Andrea Benefiel, September, 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>The Middletown Scientific Association was founded on March 17, 1871 by Wesleyan University faculty and residents of Middletown, Connecticut. Its purpose was to encourage scientific investigation and curiosity among members and to receive papers from members and other scientists regarding popular topics in all fields of science, history of science, and education of science. The association was one of the very first <emph render="doublequote">town and gown</emph> organizations at Wesleyan University. Founding members included John Johnston, E. P. Barrows, Frederic Gardiner, R. G. Pike, H. D. A. Ward, J. M. Van Vleck, J. C. Van Benschoten, W. N. Rice, C. T. Winchester, G. Browne Good, Noah Cressy, E. B. Nye, G. W. Burke, W. W. Coe, H. E. Sawyer, J. H. Emerson, F. D. Edgerton, J. P. Taylor, S. W. Noyes, F. H. Newhall, C. S. Harrington, Joseph Cummings, A. M. Shew, and A. W. Hazen. Members of the association, in addition to Wesleyan faculty, included physicians, ministers, and teachers. Women were admitted into membership beginning in 1880.</p>
+      <p>Regular meetings were often held in the Hall Laboratory of Chemistry, Scott Laboratory of Physics, and Shanklin Laboratory of Biology at Wesleyan University. Occasional field meetings were held, during which members would learn first-hand about botany, geology, and other topics of natural history. Early in the association's history, papers were given at regular meetings on a variety of scientific topics in all fields, usually by members of the association, and occasionally by outside scientific experts. As membership grew, lecturers were more frequently invited from abroad to speak to the association.</p>
+      <p>The Middletown Scientific Association disbanded in 1968, after attendance at regular meetings was limited to those members who had been invited to dinner to meet with the lecturer. Though membership numbers and satisfaction with the organization remained high, there appeared to be a consensus among members that individuals were <emph render="doublequote">too busy</emph> to attend. The final meeting was held on April 8, 1968.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>Collection contains the records of the Middletown Scientific Association, spanning the years 1871 to 1976. These records document the proceedings of meetings from the association's founding in 1871 until its cessation in 1968, the administration of the association, and its association with the town of Middletown and Wesleyan University. Included are minutes, meeting announcements, treasury and presidents' reports, clippings, a scrapbook, and other historical materials. Of note are the announcements and clippings regarding talks given to the association by prominent scientists such as Italian physicist and Nobel Prize winner Enrico Fermi in 1940, and the association's resolutions on matters effecting the scientific community at large. </p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Materials are organized into three series: Meeting Records, Administrative Materials, and Historical Materials. </p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Middletown Scientific Association (Conn.)</corpname>
+      <geogname source="lcsh" encodinganalog="651">Middletown (Conn.)--History.</geogname>
+      <subject source="lcsh" encodinganalog="650"> Science --Philosophy --History.</subject>
+      <subject source="lcsh" encodinganalog="650">Science --United States --Societies, etc.</subject>
+      <subject source="lcnaf" encodinganalog="650">Education--Science--United States.</subject>
+      <subject source="aat" encodinganalog="655">Scrapbooks.</subject>
+      <subject source="lcsh" encodinganalog="650">Science--United States--History. </subject>
+      <subject source="lcsh" encodinganalog="650">Scientists --Social aspects --United States.</subject>
+      <subject source="lcsh" encodinganalog="650">Science --Social aspects --United States.</subject>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Meeting Records, </unittitle>
+          <unitdate normal="1871/1968">1871-1968</unitdate>
+        </did>
+        <scopecontent>
+          <p>This series contains meeting records of the Middletown Scientific Association, spanning the years 1871 to 1968. It is primarily comprised of minutes and meeting announcements. Minute books also typically contain the association's constitution and bylaws, and one book of the secretary's records contains additional materials such as obituaries of prominent members and treasury reports. </p>
+        </scopecontent>
+        <arrangement>
+          <p>This series is organized into two subseries: Minutes and Meeting Announcements. Each subseries is arranged roughly in chronological order.</p>
+        </arrangement>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Minutes</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">1</container>
+              <unittitle>Minute book and constitution, </unittitle>
+              <unitdate>1871-1876</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">2</container>
+              <unittitle>Minute book and constitution, </unittitle>
+              <unitdate>1877-1885</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">3</container>
+              <unittitle>Annual address of the president, </unittitle>
+              <unitdate>1881 January 18</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">4</container>
+              <unittitle>Minute book and annual report, </unittitle>
+              <unitdate>1885-1896, 1902</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">5</container>
+              <unittitle>Secretary's records, </unittitle>
+              <unitdate>1896-1926</unitdate>
+            </did>
+            <scopecontent>
+              <p>Contains minutes, resolutions, annual reports, treasury reports, meeting notices, obituaries of prominent members, membership application cards, constitution, and list of members. </p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">6</container>
+              <unittitle>Minutes, </unittitle>
+              <unitdate>1940 January 12</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">7</container>
+              <unittitle>Minutes, </unittitle>
+              <unitdate>1956-1967</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Meeting Announcements</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <unittitle>Scrapbook, </unittitle>
+              <unitdate>1882-1937</unitdate>
+            </did>
+            <scopecontent>
+              <p>Contains annual reports, clippings, list of members, obituaries of prominent members, and meeting announcements.</p>
+            </scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">1-9</container>
+              <unittitle>Meeting announcements, </unittitle>
+              <unitdate>1897-1968</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Administrative Materials</unittitle>
+          <unitdate normal="1905/1971">1901-1971</unitdate>
+        </did>
+        <scopecontent>
+          <p>Contains correspondence and financial records, documenting the administration of the association from 1905 to 1971.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Correspondence, </unittitle>
+            <unitdate>1905, 1963-1968</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>Membership cards, </unittitle>
+            <unitdate>1936</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">3</container>
+            <unittitle>Cash book and ledger, </unittitle>
+            <unitdate>1940-1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">4</container>
+            <unittitle>Check stubs, </unittitle>
+            <unitdate>1954-1961</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">5</container>
+            <unittitle>Other financial records, </unittitle>
+            <unitdate>1963-1971</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Historical Materials</unittitle>
+          <unitdate normal="1871/1976">1871-1976</unitdate>
+        </did>
+        <scopecontent>
+          <p>Contains clippings, historical notes about the association, papers presented to the association, and other material pertaining to the history of the Middletown Scientific Association.</p>
+        </scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">6</container>
+            <unittitle>Clippings and printed material, </unittitle>
+            <unitdate>1871-1963</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">7</container>
+            <unittitle>Rice, W. N. "Middletown Scientific Association," </unittitle>
+            <unitdate>1937</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">8</container>
+            <unittitle>Burford, M. G. Brief history of Middletown Scientific Association, </unittitle>
+            <unitdate>1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">9</container>
+            <unittitle>Seeger, Raymond J. "On Galileo's Philosophy of Science - In Retrospect," </unittitle>
+            <unitdate>1964 September 16</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">10</container>
+            <unittitle>Sikorsky, Igor I. "VS-300 Helicopter," </unittitle>
+            <unitdate>1941 December 9</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">11</container>
+            <unittitle>WCNX Radio vignettes schedule, </unittitle>
+            <unitdate>undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

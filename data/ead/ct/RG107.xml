@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG107.html" countrycode="us">RG107</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 107, Hartford Woman's Club</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">April 16, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+	<p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Damon M. Munz on
+<date>April 16, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline></addressline><addressline></addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Hartford Woman's Club (Hartford, Conn.)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Hartford Woman's Club (Hartford, Conn.) records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" normal="1896/1923" encodinganalog="245$f">1896-1923</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.5 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Motherhood Club of Hartford was organized in 1896 by a group of young mothers “so burdened with the responsibilities of their lot that they chose to give their Club life to child problems rather than literary or social pleasures.”</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG107</unitid>
+		<unitid label="Accession: ">T001478</unitid>
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>The Motherhood Club of Hartford was organized in 1896 by a group of young mothers “so burdened with the responsibilities of their lot that they chose to give their Club life to child problems rather than literary or social pleasures.” At first a section of the Sociological Society, the Club adopted its own name in October 1897. The Club engaged in various philanthropic, educational, and fund-raising activities and had a membership of 200. In 1917 the General Assembly approved a charter that incorporated the Club. In June 1921 the name was changed to the Hartford Woman's Club.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>A majority of the records document the history of the Motherhood Club and include meeting minutes, annual reports, historical sketches, financial reports, publications, newspaper clippings, and photographs.</p>
+</scopecontent>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>None.</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Organizations:</head>
+ <corpname encodinganalog="710" source="lcnaf">Hartford Woman's Club (Hartford, Conn.)</corpname>
+			 <corpname encodinganalog="710" source="lcnaf">Motherhood Club of Hartford</corpname>
+	</controlaccess>
+ 
+ 	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">Women -- Connecticut -- Hartford -- Societies and clubs</subject>
+			<subject encodinganalog="650" source="lcsh">Clubs -- Connecticut -- Hartford</subject>
+ 			<subject encodinganalog="650" source="lcsh">Hartford Woman's Club (Hartford, Conn.) -- Records and correspondence</subject>
+ 			<subject encodinganalog="650" source="lcsh">Motherhood Club of Hartford -- Records and correspondence</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Minutes</genreform>
+			<genreform encodinganalog="655" source="aat">Reports</genreform>
+			<genreform encodinganalog="655" source="aat">Financial records</genreform>
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform>
+			<genreform encodinganalog="655" source="aat">Sketches</genreform>
+			<genreform encodinganalog="655" source="aat">Clippings</genreform>
+			<genreform encodinganalog="655" source="aat">Photographs</genreform>
+	</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+
+</userestrict>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+	<p>Julia Scrivener Dixon, President of the Hartford Woman's Club, donated these records to the Library in July 1924.</p>
+
+</acqinfo>
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation" normal="1896/1923">1896-1923</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry> </entry>
+ <entry>Box</entry>
+ </row>
+ </thead> 	
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle>1. Minutes of meetings</unittitle>
+	<unitdate datechar="creation">1896 February 3-1918 April 25</unitdate>
+ </did>
+<scopecontent><p>Includes some special and annual reports.</p></scopecontent>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>2. Executive Committee minutes</unittitle>
+	<unitdate datechar="creation">1900 June 12-1923 April 30</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>3. Domestic Science Section minutes</unittitle>
+	<unitdate datechar="creation">1908 November 9-1910 May 16</unitdate>
+ </did>	
+<scopecontent><p>Also includes minutes of the Home Economics Section, undated but presumably later.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle>4. Reports</unittitle>
+	<unitdate datechar="creation">1909-1918</unitdate>
+ </did>	
+<scopecontent><p>Annual and special reports and reports of committees, etc.</p></scopecontent>
+<arrangement><p>Arranged chronologically.</p></arrangement>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>5. History</unittitle>
+	<unitdate datechar="creation">1909, 1921</unitdate>
+ </did>	
+<scopecontent><p>Two historical sketches about the Motherhood Club, one by Lillian G. Middlebrook, October 4, 1909, and one by Mrs. Wilfred H. Dresser, February 7, 1921. Included is an example of the call for the first meeting in 1896.</p></scopecontent>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>6. Accounts and Treasurer's records, and reports</unittitle>
+	<unitdate datechar="creation">1900-1903</unitdate>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>7. <bibref><title><emph render="italic">Hartford Women</emph></title></bibref></unittitle>
+	<unitdate datechar="creation">1920-1922</unitdate>
+ </did>
+<scopecontent><p>Copies of and clippings from the weekly publication.</p></scopecontent>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle>8. Photographs of "Greenwich Village Fair"</unittitle>
+	<unitdate datechar="creation">1923 November</unitdate>
+ </did>	
+</c02>
+</c01>
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

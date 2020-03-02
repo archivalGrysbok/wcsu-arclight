@@ -1,0 +1,4140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG003_LCC_Files.html" countrycode="us">RG003_LCC_Files</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 003, Litchfield County, County Court Files</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Debra Pond.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">July 07, 2008</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2008</date> by the Connecticut State Library</p>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>July 07, 2008</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. County Court (Litchfield County)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Litchfield County, County Court files</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1751/1855">1751-1855</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">173.25 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:"><emph render="italic">Files</emph> hold the most detailed information available on a particular case. Files usually contain a summons or writ, a document that contains a variety of other useful information, and often one or more additional documents, such as a debt by note, debt by bond, a list of book debts, depositions and/or testimony of witnesses, pleadings by lawyers, power of attorney, an accounting of court costs, and occasionally summonses for witnesses and a copy of the jury verdict.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG003_LCC_Files</unitid>
+ <unitid label="Accession: ">1928-016</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="history" encodinganalog="545" id="a2">
+<head>Historical Note</head>
+<p>
+The first Connecticut judicial proceedings probably took place on April 26, 1636, at "A Corte holden in Newtown" [Hartford] under the commission granted to eight leaders of the infant colony by the General Court of Massachusetts.
+</p>
+<p>
+In 1638, the General Court established the Particular Court (often called the "Quarter Court" because it was required to meet every three months). While the General Court, later called the General Assembly, controlled the administration of justice, the Particular Court was the colony's principal judicial body until King Charles II granted Connecticut its Charter in 1662. Under the new Charter, the Particular Court was abolished and two new levels of courts established: the Court of Assistants in 1665 and county courts in 1666. Separate probate courts were established in 1698. The Court of Assistants was replaced by the Superior Court in 1711.
+</p>
+<p>
+County courts, sometimes called courts of common pleas, existed from 1666 to 1855, when the General Assembly divided the jurisdiction of the county court between the superior court and local town courts. This new two-tiered court system proved to be impractical and new courts of common pleas for each county were established as early as 1870.
+</p>
+<p>
+County courts considered appeals of from local justice courts and had original jurisdiction to try all civil and criminal cases except those concerning "life, limb, banishment, adultery, or divorce" and heard appeals from local justice courts. In the colonial era, all suits for debt for sums greater than forty shillings were heard by the county court. The county courts served as the "workhorses of the Connecticut judicial system" and usually met three times per year. 
+</p>
+<p>
+The rest of the county's towns were spun off from existing towns as their populations grew. Bethlem, now know as Bethlehem (1787) and Roxbury (1796) were taken from Woodbury. Plymouth (1795) was formerly a part of Watertown, which was itself divided off from Waterbury in 1780. Warren was incorporated in 1786 from the town of Kent, while the Town of Washington, incorporated in 1779, is made up of land taken from the towns of Woodbury, Litchfield, Kent and New Milford. It was the first town in the United States to be named after George Washington.
+</p>
+<p>
+Bridgewater (1856), incorporated from New Milford, North Canaan, which was created from Canaan in 1858, Morris (1859, formerly part of Litchfield), and Thomaston (1875, formerly a section of Plymouth), were incorporated after the dissolution of the County Court the papers of which are the subject of this finding aid.
+</p>
+<p>
+Located in the state's northwestern corner, Litchfield was the last county jurisdiction created by the Connecticut Colony. It was the most rural of the eight counties, the least settled and least economically developed. However, during the Revolutionary and Early National periods, it became an important legal and political center and served as a Federalist political stronghold.
+</p>
+<p>
+Owing in part to the operation of the court, the town of Litchfield became the center of the county's economy, as lawyers, judges, and businessmen gathered there for several days three times a year to conduct business. The town was also home to the Litchfield Law School, established by Judge Tapping Reeve in 1784. It is considered the first true American law school, as Reeve developed a formal curriculum for his students to follow rather than just providing an apprenticeship. Its graduates include Aaron Burr, Reeve's brother-in-law, and Vice President John C. Calhoun.
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content</head>
+<p>
+<emph render="italic">Files</emph> consist of 347 boxes containing the original materials filed with the Litchfield County Court. These are the documents that initiated civil lawsuits and criminal actions in the years between the county's founding in 1751 and 1855. While the records relating to each file vary by case, common documents include writs, summonses, motions filed by the parties, jury verdicts, and statements of court costs. Some cases include depositions made by witnesses or executions filed after a judgment was rendered. Many executions (authorizations from the court for the winning party to collect the amount owed to him) have been removed from Files and can now be found in <emph render="italic">Litchfield County. County Court. Papers by Subject: Executions.</emph> The same is true for some court costs. 
+</p>
+<p>
+Included after the run of Files are two boxes of Discontinuances, e.g. court cases dropped by the plaintiff. These cases most likely were settled out of court.
+</p>
+<p>
+Prominent individuals who may be found in Files include Oliver Wolcott Sr. (1726-1797) and his son Oliver Wolcott Jr. (1760-1833). Oliver Sr., a graduate of Yale College, served as the first county sheriff after having captained a company in the French and Indian war. He was appointed by Connecticut to represent it in Philadelphia at the 1776 Continental Congress and signed the Declaration of Independence on the state's behalf. Wolcott served in a number of positions during and after the Revolutionary War, including Commissioner of Indian Affairs. He was elected Lieutenant Governor of this state in 1786, followed by election as the state's third governor following Independence in 1796 after the death of Samuel Huntington.
+</p>
+<p>
+Wolcott provides an example of how court records can lend perspective to the lives and character of important historical figures. Often described in biographies as a man of integrity and a scholar of dignified character, when viewed through the lens of the county court files, Wolcott was an incompetent sheriff who allowed the vagrant thief Joseph Negro to escape from jail in 1754. . Wolcott was also sued by a neighbor for his cruel and tyrannical treatment of Wolcott's servant Lidia Collis. The girl had fled to the neighbors for protection only to be dragged home by her master.
+</p>
+<p>
+His son, Oliver Wolcott Jr., served in President Washington's cabinet as the second Secretary of the Treasury succeeding Alexander Hamilton for whom he had worked. He remained in that office until 1800 at which time he returned to Connecticut. Oliver Jr. was elected governor in 1817 and he served until 1827 when he retired to New York. During the 1818 state Constitutional Convention, he supported increased suffrage and the disestablishment of the Congregational Church. With his brother, Frederick Wolcott, (clerk of Litchfield's County and Superior courts), Oliver Jr. was involved in mercantile interests. An 1827 attachment filed by Phoenix Bank against Oliver Jr. and Frederick Wolcott contains an itemized six-page inventory of Oliver's library. Among the books Oliver owned was a copy of the "Alkoran." By the time Oliver's estate was inventoried for probate six years later, however, not one book remained in his possession. 
+</p>
+<p>
+Federalist-Republican disputes played a prominent role in Litchfield County litigation during the period 1805-07. Parties involved included newspaper publishers and editors and the county sheriff, and centered on Selleck Osborn, publisher or editor of <emph render="italic">The Witness,</emph> a Litchfield newspaper. Osborn, who was an outspoken Republican, was arrested and tried by the State for libel for his writing about the conduct of Judge Julius Deming at the September 1805 election in Litchfield. Republicans demonstrated outside the prison while Osborn was jailed, and Stiles Nichols, publisher of the <emph render="italic">Republican Farmer</emph> newspaper of Danbury, accused Litchfield Sheriff John Landon of mistreating Osborn and violating his rights while in Landon's care.
+</p>
+<p>
+In a climate of dueling editorials, Litchfield <emph render="italic">Monitor</emph> publisher Thomas Collier sued Osborn and his partner, Timothy Ashley. Collier disputed Osborn and Ashley's characterization of him as a liar, thief and dishonorable rascal. These suits played out at the county court level at the time of federal indictments of Hudson and Goodwin, publishers of the <emph render="italic">Connecticut Courant,</emph> a Federalist newspaper, by a Republican grand jury. This case went on to the US Supreme Court. Also indicted with Hudson and Goodwin were Litchfield Federalists Tapping Reeve, Thomas Collier, Thaddeus Osgood and the Reverend Azel Backus. 
+</p>
+<p>
+<emph render="bold">Commerce</emph><lb/>
+Court records are an excellent source of primary documentation for matters relating to commerce and industry. Merchants frequently brought suit against customers who had not paid their accounts. These suits for "debt by book" may be accompanied by a transcription of the debtor's transaction from the plaintiff's account ledger, complete with dates, prices, and description of items purchased. The wide range of information that can be gleaned from debt cases is illustrated by two cases filed in 1784 by Aaron Gregory against Jack Botsford, a free black of New Milford. In the first, a suit to collect a debt by book, Gregory has included his account of Botsford's purchases made between September and November 1783. Reading this document, we learn of Botsford's taste for store-bought clothing-a cloak, overalls, jacket and britches and a loose coat-and, from the entry "1/2 pint [brandy] by your wife," that he was married. His signature on the promissory note in the second case shows that Botsford was at least semi-literate. 
+</p>
+<p>
+Suits to collect debts from merchants can also provide valuable details of business practices, whether included in book accounts or in attachments of the shop's contents. For example, a suit brought in 1790 by James and Mason Cogswell of New York City against Roger Cogswell of Washington, the surviving partner of the firm of William and Roger Cogswell, contains a detailed accounting of herbal and medicinal ingredients and preparations. 
+</p>
+<p>
+The verso of each summons usually has a statement by one of the town constables stating that the document was properly served on the defendant and sometimes includes a description of the defendant's property attached to secure the amount of the suit. When New Milford merchants Beebe Hine and Gerardus Booth sued Harry Northrop, alias Henry Negro, to collect a £17 note in 1798, the constable attached three hogs and one-quarter of 12 acres of corn lying on Friend Northrop's land. Although Harry Northrop may never appear in a deed or probate register, this lawsuit provides researchers with clues about his residence and life. 
+</p>
+<p>
+Turning over a court document, however, can sometimes reveal a surprise. With paper often in short supply, it was used and reused for multiple purposes. The verso of William R. Phelps's 1802 promissory note to Aron Bradley &amp; Co. is decorated with a polychrome watercolor of bunches of cherries. The illustration seems to be a practice drawing, possibly made by a student, with the paper later made use of for a more mundane purpose. 
+</p>
+<p>
+Dairying was an important commodity for county residents in the early 19<emph render="super">th</emph> century, particularly in the town of Goshen, the cheese of which was renowned throughout the republic. For the year 1811, Goshen residents exported $49,010.33 worth of cheese plus an additional $5,330.55 of butter; together these comprise 84% of the town's total agricultural exports. Merchants bought the cheese produced by multiple farming families and combined them for export. In 1821, Andrew Pratt, a Winchester farmer, sued Winchester merchant Bissell Hinsdale, with whom he had contracted to sell four years of his cheese at ten cents per pound. During that time, Pratt delivered 5,773 pounds of cheese to Hinsdale, but had received no payment. 
+</p>
+<p>
+Dairy products were exported from Connecticut up and down the Atlantic seaboard, but the fragile cargos resulted in frequent litigation. Butter and cheese were shipped to ports as far away as Savannah (see <emph render="italic">Marshall v. Butler,</emph> 1810, Box 197 Folder 4); Baltimore (<emph render="italic">Bissell Hinsdale v. Kellogg &amp; Hutchinson</emph> seeking in 1812 to be paid for a cargo of cheese shipped from Middletown, Box 202 Folder 4); or Charleston (<emph render="italic">Battell v. Howe &amp; Fitch</emph> seeking an accounting for 53 casks of cheese consigned for sale, Box 259 Folder 17).
+</p>
+<p>
+<emph render="bold">Manufacturing</emph><lb/> 
+Connecticut had an important role in the story of American industry and manufacturing and Litchfield County was home to many of the state's first industries. The county was known for the early mass production of clocks, machine-made brass tools, and furniture using standardized parts and assembly. Many of Connecticut's industrial pioneers can be found in the county court records as they sued to collect debts, were sued themselves, or litigated contractual matters. Eli Terry, the Plymouth clock maker, sued Daniel Miller of Bristol in 1808 in a case concerning Terry's apprentice in making wooden-wheeled clocks. Benjamin Ely, the apprentice, had been assigned to Miller, who then did not pay Terry for Ely's services. Twenty-six wooden-wheeled clocks were assigned to secure the debt. Terry also sued Levi Lewis and Martin Byington during that same court session to collect on a note; the verso of the note contains Terry's signature. 
+</p>
+<p>
+Terry's son and later partner, Henry Terry, brought an action against William Matthews of Winchester, George Bryan of Watertown and Jonathan R. Pullington of Plymouth in 1835 in what seems to be a case of labor unrest. The three defendants were sued for pulling down and destroying the factory work rules that were posted on the factory wall, the last time while the rules were framed under glass. The rules, which are included verbatim, include the hours of work and code of conduct to which the workers had to adhere. 
+</p>
+<p>
+Seth Thomas began his career as a worker for Eli Terry before he went on to form his own firm. Thomas is famous for mass-producing clocks with precision cut brass gears, which were much more accurate than the wooden wheeled clocks. Apparently he began by making wooden works clocks of his own, as is demonstrated by a suit brought against him in 1820 by Sela Blakely of Medina, Ohio. Blakely claimed that 60 wooden-wheeled clocks known as "Terry's Patent Clocks" that he had purchased from Thomas were defective. 
+</p>
+<p>
+Clocks were not the only consumer goods that were mass-produced by Litchfield County manufacturers. Lambert Hitchcock of Barkhamsted developed a system of making painted wooden chairs from standardized parts that were sold inexpensively around the country. Producing large quantities of goods brought down the unit cost of production. In times of economic depression, however, this was a liability as unsold inventories ballooned and had to be sold at auction to raise cash.
+</p>
+<p>
+Hitchcock and other furniture makers who had adopted his techniques faced bankruptcy in the late 1820s and early 1830s. Denison and Nancy M. Crane of Hartland sued Hitchcock in 1829 for money he owed to Nancy, who worked for him weaving rush chair seats. Their complaint demonstrates that Hitchcock paid his workers in unsold furniture. In her account, Nancy Crane states that she had received from Hitchcock 1 bureau, 2 bedsteads, 1 table, 1 stand, 7 chairs and 1 rocking chair in addition to $17.89 from the company store toward the amount owed her for chair seats, which she wove for 23 cents each. 
+</p>
+<p>
+A worker also sued William Moore, a neighbor of Hitchcock's and fellow chair manufacturer. Liberty P. Ball, a painter and ornamenter of "fancy roll top chairs" was owed $500. The suit discussed the work performed, comparing it to that on Hitchcock's chairs. The competition between the two must have been friendly. Moore lent money to Hitchcock around this time, although he was forced to file two suits to collect the $400 and $800 owed to him. 
+</p>
+<p>
+<emph render="bold">Minorities</emph><lb/>
+One of the goals of the Court Records Project was to identify as many cases as possible that involve African Americans or Native Americans. These could be plaintiffs or defendants or, as in the case of 14-year-old Violet, a slave who was the subject matter of a lawsuit. David King and Samuel Baldwin, Violet's owners, sued Stephen Welton of Litchfield for taking the slave girl first to Canaan and then to the town of Cornwall in Addison County, Vermont. Allegedly aiding the defendant were Chauncey Woodruff and "sundry other persons." Violet was missing from September 1790 to March 1791 and the plaintiffs hired people to find her and return her to them, they alleged. 
+</p>
+<p>
+The case of Violet was not the only case that revealed anti-slavery activities. David Buckingham sued Jon Prindle for telling Buckingham's servant Jack Adolphus (also known as Jack or Adolphus) how to run away without detection. 
+</p>
+<p>
+Persons of color could also appear as mere afterthoughts, as is the case in the suit Joseph Weller brought against Litchfield County. In his itemized bill for a new well at the county jail, Weller note that he did not charge for time spent on the job by "his Negro."
+</p>
+<p>
+African Americans can also be found in defamation cases. In 1814, Henry S. Atwood sued Norman Atwood for defaming him by saying that Henry used to get his "black or Negro" women neighbors Betsy and Vi Mix drunk by offering them "cyder and pepper" and then have sex with them. African-Americans also sued for damage to their character, as may be seen from the following case. Phillis, a free black woman from Winchester, spent four months in jail after Ozias Brownson, with no grounds, told the grand juror that Phillis had called Roswell Coe's wife a bitch. Charges were brought against Phillis as a result of Brownson's complaint. Unable to post bond, she was arrested and jailed. Phillis and her husband London sued Brownson for damage to her "Name, Fame and Reputation" and also the "great Distress both of Body &amp; Mind . . . Trouble, Cost &amp; Expence" the couple had endured. London and Phillis were awarded £9 damages. 
+</p>
+<p>
+Native Americans appear in fewer cases than African Americans, although researchers must remember that minorities often intermarried and appellations of racial or ethnic heritage should be taken with a grain of salt. For example, in David Lusk's petition regarding debtor Charles Quomenor, the defendant is described as a "Negro man of Barkhamsted." Quomenor, however, is a Native American surname and Charles was probably of mixed blood. Quomenor was in prison as a result of two executions brought against him by Lusk, who in this case asked that Charles be assigned to him in service to work off his debt. 
+</p>
+<p>
+In fact, referring to someone as an Indian might simply have been a derogatory term rather than a statement in fact. The State brought charges against Jeremiah Barley of Sharon for assault of Andrew Abels of Sharon. Part of the behavior complained of was calling Abels that "damned old Indian." Without further research, however, we cannot be sure that Abels was actually of Native American descent.
+</p>
+<p>
+Some cases provide us with information about the lives of members of the Native American community at the time. In one case, Samuel Choggom or Shoggom of Sharon was described as living in a hut and growing beans and corn. Many cases concerning Native Americans involve crimes, whether as victims, perpetrators or both. Jonathan Cook of Harwinton was found guilty of lascivious carriage in the 1765 sexual assault on a Native American "squaw" named Judith by forcibly pulling up her clothes and molesting her, while an example of Native-on-Native crime can be found in the State's 1836 suit against Alexander Kelson of Kent for assaulting Eunice Mawwee also of Kent. 
+</p>
+<p>
+<emph render="italic">Women</emph>
+Documenting the customs and costs of early American childbirth can be difficult, as few women had the time, paper or literacy to leave a written record of this time in their lives. For the researcher, court records can be a rich source of contemporary detail of 18<emph render="super">th</emph> century childbirth. In her 1764 suit against Alexander Bryan, Ruth Ashman included in the account of her lying in her child's layette. This consisted of three blankets, four little shirts, five little caps, six bibs, two pairs of stockings and a pair of little shoes-plus only 18 "clouts," or diapers and a paper of little pins with which to fasten them. 
+</p>
+<p>
+We know from the records of the Litchfield County Court that women were not passive bystanders. Consider the case of Mrs. Hannah Tyler of Goshen, charged by the authorities with breach of law and assault on Samuel Pettibone. Pettibone was involved in litigation with Hannah's husband Benijah, and feelings must have been running high between the families when, on 13 July 1772, she marched to his gristmill and "with a wicked and mischievous Design to abuse injure and Affront the sd Samuel …purposely Empty her Chamber pott (filled with Chumberly and the Excrements of a human body) on the body of said Samuel &amp; thereby defiled his body and his apparrell." 
+</p>
+<p>
+Women can be found in cases with an economic basis. Mary Marks sued Dr. Lemuel Winslow to collect £12 for "tending people in a pox house by your request &amp; imployment 40 days at 6/p Day." Hepzibah Osborn was a party to the suit brought by her father against Jacob Peck for default on his contract for Hepzibah's apprenticeship to learn the "art and mystery of a weaver of linnen &amp; wollen." 
+</p>
+<p>
+Women even appear in cases involving false imprisonment. Cash Africa of Litchfield, reputed to have been among the blacks who served in the Revolutionary War, sued Deborah Marsh, complaining that she did, "on 15 September 1774 an Assault make upon the Plt and did then and there with force and arms unlawfully seise upon the person of the Plt … imprison the Plt and hold him to hard labour from that time to the Date of this writ" three years later. Deborah was found guilty and ordered to pay Cash £200. 
+</p>
+<p>
+<emph render="bold">Defamation</emph><lb/>
+Plaintiffs frequently sued over insults or rumors that struck at the heart of their place in society. These suits, containing as they do exact quotes from conversation or correspondence, provide us with a valuable window on the past. Ephraim Kirby of Litchfield sued Reverend Amos Chase for defamation in 1803. Kirby reported that, despite his sterling character, Chase said of him, "no man ought to vote for Col. Kirby to be Governor of this State, for he is a corrupt and vile character. Two young women which [sic] lived in his family were by him lately begotten with child, and he sent them away privately to prevent discovery." If people had not heard the story before, they knew all about it as a result of the court case. Kirby was unsuccessful in his suit, as was his gubernatorial campaign against Jonathan Trumbull.
+</p>
+<p>
+Lengthy transcriptions of correspondence can be found in two cases. In the first, William Kasson of Bethlem sued his sister Ruthan Kasson of the same town in 1815. Ruthan had written a letter, transcribed verbatim in the writ, to the fiancé of a young woman named Wealthy Steel who lodged with William and his family. In this letter, Ruthan accused Wealthy and William of committing adultery and engaging in other scandalous behavior. In the second case, a criminal case was brought against Ezra M. Howland of Kent in 1854 for the slander of Mrs. Eli Clark. The case revolved around a document prepared by Howland purporting to be the minutes of a town meeting called to discuss Mrs. Clark's behavior (possibly gossiping). Two copies of this vituperative diatribe, which contains racist and scatological language, are contained in the court file. 
+</p>
+<p>
+Mary Goodwin, a minor, and her father Thomas, sued over tales of her misbehavior at a dance held at Elihu Harrison's house in Litchfield in 1781. It was said that Mary had allowed David Harrison, Solomon Woodruff and John Woodruff to "debauch her chastity." Not so, say the plaintiffs. The young men, "instigated by … mear malice," "put into a Bowl of Toddy a quantity of Cantharides or Spanish flies and gave the same to the Plt to drink of . . . to deprive [her] of her reason that they might accomplish the vile purposes of their Heart." Chastity, for a young girl who relied on marriage to provide for her future, was her most valuable commodity, to be protected at all costs, in court if not at dances.
+</p>
+<p>
+For a businessman like David Buell, to be considered guilty of the "detestable crime of dishonesty" was to lose his livelihood. So when Edward Phelps questioned his integrity by publicly denouncing Buell in 1772, saying "he has no more honesty than the Devil nor never had [,] his Books are as false as the Alkoran," he filed suit and was successful. 
+</p>
+<p>
+Similarly, Robert Livingston Jr., of the Manor Livingston in Albany County, New York sued George Caldwell of Salisbury because the latter called him a rogue and knave who starved the workers at his ironworks and cheated them out of their wages. Justice of the Peace William Kellogg of Cornwall brought suit against Harley R. Ludington for saying that he "gave judgment in Catlin's favor because he owed Catlin for a hat." And Ephraim Hinman, brigadier general of the 8th Connecticut regiment, was said to be taking payoffs to grant discharges from military service, including silver spoons and a Merino ram Even the clergy were not immune. Rev. Samuel Whittlesey of Washington was said by Lewis Ford to be a thief: "I caught a man last night stealing [my] hens . . . it was Parson Whittlesey . . . should like [him] better if he would keep out of my hen roost. 
+</p>
+<p>
+Of course, success in a defamation case might not repair the plaintiff's reputation. Consider the suit of Elijah and Betsy Warner of Kent against John and Lydia Hopson. The Warners asserted that Lydia called Betsy and her children whores and thieves and said that, "burning is too good for them." Although the defendants were found guilty, the damages Mrs. Warner were received was only one cent. 
+</p>
+<p>
+<emph render="italic">Medicine</emph><lb/>
+Physicians also sued to counteract rumors of their malpractice. Dr. Oliver Fuller of Kent sued another Kent physician Benjamin Chase in 1770 for defaming his character and damaging his reputation. Chase was heard to say that Fuller's "devilish" medicine had killed Simon Geer's wife, and that he would never prescribe such things. Fuller prevailed and was awarded $2 damages. 
+</p>
+<p>
+Robert North, a transient who held himself out as a trained physician, was hired to treat Mrs. Avis Colver of Litchfield, the wife of Joshua Colver. In 1762 he dosed her with physick, making her quite ill. Depositions in the file reveal that North was in fact trained as a carpenter, but he had been unable to make a living in New York at that trade. The depositions in this case provide a remarkable amount of detail on the practice of medicine at the time. 
+</p>
+<p>
+Smallpox was a scourge that was feared by all throughout the early years of Litchfield County's existence, in part due to the fact that the cause of the disease and how it spread were unknown. The Connecticut Colony passed a law in 1732 requiring all dogs to be destroyed in any town where smallpox was suspected; this law stayed on the books until the early 19<emph render="super">th</emph> century. By the middle of the century, the state of knowledge about the disease and its prevention had advanced. Benjamin Franklin published a treatise while in London in 1759 titled "Some Account of the Success of Inoculation for the Smallpox in England and America," and Connecticut law was amended in 1760 to permit inoculation with the virus. However, this could only take place after two-thirds of the town's voter's approved, and those involved were required to be quarantined, either voluntarily or by force, in the same manner as those who acquired the disease through other means. 
+</p>
+<p>
+Smallpox broke out in Litchfield County in 1761, and there are a number of cases that provide insight into changing attitudes toward the disease. The King's Attorney filed three suits against Salisbury residents Amos Bird, Richard Brownson and Katharine Marsh for voluntarily receiving smallpox by inoculation "to the great terror of His Majesty's subjects.". The defendants were found not guilty. However, suits against Jonathan Hunter of Sharon, accused of leaving a house where smallpox infection was present although ordered to stay and nurse the widow Eleanor Crocker and Daniel Champion of Sharon, accused of throwing down a fence erected around Ensign Thomas Austin's house where smallpox existed, prevailed. 
+</p>
+<p>
+But even in 1801, physician Vine Utley of Winchester was charged with inoculating his wife Rebecca against smallpox without a license. By 1830, however, inoculation only appeared in the courts in allegations of malpractice, as when Harriet Ann Landon of Salisbury, a minor, sued Dr. Asahel Humphrey of Salisbury for malpractice. Landon claimed that Humphrey injured her while inoculating her for "kine pock" by cutting a tendon, ligament and nerve at her elbow, causing her to lose the use of her arm. 
+</p>
+<p>
+<emph render="bold">Amusements</emph><lb/>
+Entertainments of varying sorts can be found in the criminal cases, including playing at dice and charging admission to see performances of rope dancing and other feats of dexterity. One African-American husband and wife were charged with keeping a house of bawdry and Polly French of Salisbury seems to have been a dominatrix, charged with "restraining, correcting [,] suppressing &amp; punishing Rogues &amp;other <emph render="underline">lewd</emph> [emphasis original] &amp; idle dissolute persons." 
+</p>
+<p>
+In 1794 the state dropped a case against "Merryman" who, with his servant Don Pedro Clores, exhibited tightrope walking and other "feats of uncommon dexterity . . . tending to collect together spectators to gratify vain and useless curiosity" in Litchfield. The newspapers of the day contained large announcements of the spectacle, which seems to have been popular with area residents.
+</p>
+<p>
+While Hiram Walters was charged with running an illegal lottery in 1823, legal lotteries, e.g., those approved by the General Assembly, were a popular tool to raise constructions funds for churches and turnpikes. Disputes arose about prizes and payouts, though. The Bridgewater Society lottery seems to have been particularly ill managed, and the committee (Andrew Minor and Abijah Treat of New Milford and Truman Burch of Brookfield) had a number of suits filed against them. 
+</p>
+<p>
+Then as now, boys would be boys, and instances of goofing off can be found in the court records. Hiram Tyrol, apprenticed to Hezekiah Treadwell to learn house joinery and cabinet making, played at "unlawful games" instead of working at his tasks. John Roberts, a minor of Barkhamsted, and his friends gathered in the street in Barkhamsted on April 1, 1831, a day appointed by the Governor for public fasting, to play "games of sport and recreation called Ball and Quoit." Barkhamsted seems to have been a hotbed of such behavior: the State brought charges against Ralsemon Taylor, Sylvester Brown, Harlow Gillet and Henry Brown for breach of peace for assembling to play ball, cards, dice and tables, drink and carouse. 
+</p>
+
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>
+At some point before the records were received by the Connecticut state Archives, they were rearranged. The original arrangement was by year and court session, with each file identified by a docket number. This arrangement scheme is reflected in the contemporaneous record books listed below. 
+</p>
+<p>
+The papers contained in Files, however, are now arranged chronologically by year, merging the year's court sessions into one run. Within the year, individual cases are arranged alphabetically by the plaintiff's surname. The 2001-2004 Court Records Project has maintained this organization.
+</p>
+<p>
+For criminal cases, the plaintiff name varies by time period. Up to the Revolutionary War, suits were filed by the King's Attorney and the cases were styled: <emph render="italic">Rex</emph> versus the defendant. For about ten years after the start of the war, look under <emph render="italic">Gov[ernor] &amp; Co[mpany]</emph> for criminal matters. By 1784, criminal cases were brought on behalf of the <emph render="italic">State</emph> [of Connecticut].
+</p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>
+Additional information can be found in the following:
+</p>
+<p>Litchfield County Court <emph render="italic">Index to Records</emph>, 1751-1855 (11 volumes). See container list <emph render="bold">Litchfield County No. 1</emph>. 	The <emph render="italic">Index to Records</emph> is a master index to all the volumes, with entries by case name.</p>
+	<p>Litchfield County Court <emph render="italic">Records</emph>, 1751-1855 (22 volumes). See container list <emph render="bold">Litchfield County No. 2</emph>.</p>
+	<p>Litchfield County Count <emph render="italic">Dockets</emph>, 1759-1855 (19 volumes). See container list <emph render="bold">Litchfield County No. 6</emph>.</p>
+	<p>Litchfield County Court <emph render="italic">Executions</emph>, 1768-1855 (5 volumes). See container list <emph render="bold">Litchfield County No. 4</emph>.</p>
+	<p>Litchfield County Court <emph render="italic">Appeals</emph>, 1798-1854 (5 volumes); See <emph render="bold">Guide to the Records of the Judicial Department</emph>.</p>
+	<p>Litchfield County Court <emph render="italic">Defaults</emph>, 1798-1855 (16 volumes). See container list <emph render="bold">Litchfield County No. 7</emph>.</p>
+	<p><emph render="italic">Litchfield County. County Court. Papers by Subject</emph>. See separate finding aid. <emph render="italic">Papers by Subject</emph> is an artificial collection consisting of materials removed from Litchfield County Court <emph render="italic">Files</emph> series by State Library staff after the records were received from the Litchfield court. <emph render="italic">Papers by Subject</emph> consists of records in certain subject categories that were removed from Litchfield County Court <emph render="italic">Files</emph> as State Library staff reorganized them in the 1920s or 1930s. These artificial collections were pulled together to assist researchers by identifying material relating to topics of interest. For some subject categories, not all items were identified or removed by the processors. The 2001-2004 Court Records Project transferred many records from <emph render="italic">Files</emph> to <emph render="italic">Papers by Subject</emph>. However, isolated items remain in <emph render="italic">Files</emph>, particularly in these categories: Conservators &amp; Guardians, Costs, Executions, Licenses and Travel records relating to highways, bridges and turnpikes. To some extent, this reflects organization of the records. For example, in earlier years, Costs and Executions are often found interfiled with the court case to which they apply.</p>
+	<p>Closely related records are those of the Litchfield County Superior Court. This court heard appeals from cases decided by the county court and the bulk of cases heard by the Superior Court for each county consisted of appeals from the lower court.</p>
+	<p>In addition, many of the cases heard by the County Court originated in the local justice court, convened by the Justices of the Peace of each town. For more information about Justice of the Peace Courts, and for a list of the State Library's holdings, please see <emph render="bold">Guide to the Records of the Judicial Department, Second Edition</emph>, pages 57-61.</p>
+	<p>If a researcher is interested in records relating to will or estates, please check the Probate Court Records (RG 004). Land records for Connecticut towns can provide further information for matters relating to real estate. More importantly for the researcher, most land records have been indexed by both the Grantor (owner or seller) and Grantee (buyer or person with a claim to the property). In Connecticut, property deeds are recorded in the records of the town where the land is located, rather than on a county basis as is common in most parts of the country. The State Library has an extensive collection of microfilmed land record volumes and indexes from towns throughout the state.</p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+ <controlaccess>
+ <head>Organizations:</head>
+ <corpname encodinganalog="710" source="lcnaf">Connecticut. County Court (Litchfield County)</corpname>
+	</controlaccess>
+ 
+
+	<controlaccess>
+		<head>Subjects:</head>
+ 			<subject encodinganalog="650" source="lcsh">County courts -- Connecticut -- Litchfield County -- History</subject>
+ 			<subject encodinganalog="650" source="lcsh">Connecticut -- History -- Sources</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut. County Court (Litchfield County) -- History</subject>
+			<subject encodinganalog="650" source="lcsh">Connecticut. Judicial Dept. -- History</subject>
+	</controlaccess>
+
+
+	<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="aat">Civil court records</genreform>
+			<genreform encodinganalog="655" source="aat">Criminal Court records</genreform>
+			<genreform encodinganalog="655" source="aat">Judicial records</genreform> 
+	</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+<p>
+	Many of the papers found in <emph render="italic">Files</emph> for the Litchfield County Court are fragile and they must be handled with great care. Photocopies have been inserted in place of originals for materials on African Americans, Native Americans, and for other items considered to be particularly valuable or vulnerable. 
+</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>
+The county clerk was responsible for gathering, organizing, and preserving the records for the Litchfield County Court. They were transferred to the Connecticut State Library in 1921.
+</p>
+
+</acqinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+<c01 level="series">
+ <did>
+	<unittitle>Files</unittitle>
+	<unitdate datechar="creation">1751-1855</unitdate>
+ </did>	
+ <thead>
+ <row>
+ <entry>Box</entry>
+ <entry>Folder</entry>
+ </row>
+ </thead> 
+
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+ <unitdate datechar="creation">1751-1752</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">1-16</container>
+	<unittitle>Abbe-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+
+<c02 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1753</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">1</container>
+	<container type="Folder">17-20</container>
+	<unittitle>Abbe-Bellowes</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">2</container>
+	<container type="Folder"> </container>
+	<unittitle>Benton-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1754</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">3</container>
+	<container type="Folder"> </container>
+	<unittitle>Abbott-Sundry</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder">1-4 </container>
+	<unittitle>Swan-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1755</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">4</container>
+	<container type="Folder">5-20</container>
+	<unittitle>Adams-Welch</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder">1</container>
+	<unittitle>Weller-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1756</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder">2-14</container>
+	<unittitle>Adams-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1757</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">5</container>
+	<container type="Folder">15-20</container>
+	<unittitle>Allen-Helenbeck</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">1-10</container>
+	<unittitle>Holloway-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1758</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">6</container>
+	<container type="Folder">11-20</container>
+	<unittitle>Adam-Knowls</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<container type="Folder">1-9</container>
+	<unittitle>Lawrence-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">7</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1759</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">7</container>
+	<container type="Folder">10-18</container>
+	<unittitle>Adams-Litchfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">8</container>
+	<container type="Folder">1-11</container>
+	<unittitle>Livingston-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">8</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1760</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">8</container>
+	<container type="Folder">12-18</container>
+	<unittitle>Addams-Hinman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">9</container>
+	<container type="Folder"> </container>
+	<unittitle>Hitchcock-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1761</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">10</container>
+	<container type="Folder"> </container>
+	<unittitle>Allen-Hide</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">11</container>
+	<container type="Folder"> </container>
+	<unittitle>Hill-Skilton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">12</container>
+	<container type="Folder">1-10 </container>
+	<unittitle>Smedley-Unidentidied</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">12</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1762</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">12</container>
+	<container type="Folder">11-20</container>
+	<unittitle>Abbe-Camp</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">13</container>
+	<container type="Folder"> </container>
+	<unittitle>Canaan-Hopkins</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">14</container>
+	<container type="Folder"> </container>
+	<unittitle>Hopkins-Richmond</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<container type="Folder">1-13</container>
+	<unittitle>Robards-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">15</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1763</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">15</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Abbott-Bingham</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">16</container>
+	<container type="Folder"> </container>
+	<unittitle>Bird-Hinman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">17</container>
+	<container type="Folder"> </container>
+	<unittitle>Hoffman-Ray</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder">1-14</container>
+	<unittitle>Read-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1764</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">18</container>
+	<container type="Folder">15-20</container>
+	<unittitle>Adams-Bayard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">19</container>
+	<container type="Folder"> </container>
+	<unittitle>Beach-Governor</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">20</container>
+	<container type="Folder"> </container>
+	<unittitle>Grant-Moss</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">21</container>
+	<container type="Folder"> </container>
+	<unittitle>Munger-Westover</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder">1-4</container>
+	<unittitle>White-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1765</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">22</container>
+	<container type="Folder">5-20</container>
+	<unittitle>Allen-Dixon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">23</container>
+	<container type="Folder"></container>
+	<unittitle>Doud-Moody</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">24</container>
+	<container type="Folder"> </container>
+	<unittitle>Munger-Thomlison</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">25</container>
+	<container type="Folder">1-8 </container>
+	<unittitle>Thomlinson-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">25</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1766</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">25</container>
+	<container type="Folder">9-20</container>
+	<unittitle>Averet-Kelsey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">26</container>
+	<container type="Folder"> </container>
+	<unittitle>Kent-Undated</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">26</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1767</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">26</container>
+	<container type="Folder">12-20</container>
+	<unittitle>Allen-Diems</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">27</container>
+	<container type="Folder"> </container>
+	<unittitle>Donaghy-Tomlinson</unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">28</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Tomlinson-Unidentified</unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">28</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1768</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">28</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Adams-Governor</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">29</container>
+	<container type="Folder"> </container>
+	<unittitle>Grant-Woodward</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">30</container>
+	<container type="Folder">1</container>
+	<unittitle>Woodworth-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">30</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1769</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">30</container>
+	<container type="Folder">2-20</container>
+	<unittitle>Abernethy-Orton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">31</container>
+	<container type="Folder">1-12</container>
+	<unittitle>Painter-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">31</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1770</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">31</container>
+	<container type="Folder">13-20</container>
+	<unittitle>Adams-Chandler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">32</container>
+	<container type="Folder"> </container>
+	<unittitle>Chandler-Sacket</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">33</container>
+	<container type="Folder">1-11</container>
+	<unittitle>Salisbury-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">33</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1771</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">33</container>
+	<container type="Folder">12-20</container>
+	<unittitle>Abbot-Fuller</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">34</container>
+	<container type="Folder"> </container>
+	<unittitle>Gay-Stannard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">35</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Starr-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">35</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1772</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">35</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Ackley-Butler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">36</container>
+	<container type="Folder"> </container>
+	<unittitle>Canaan-Kilborn</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">37</container>
+	<container type="Folder"> </container>
+	<unittitle>Kingman-Sheldon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">38</container>
+	<container type="Folder">1-15</container>
+	<unittitle>Sheldon-Undated</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">38</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1773</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">38</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Abernarthy-Baldwin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">39</container>
+	<container type="Folder"> </container>
+	<unittitle>Barbur-Hazard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">40</container>
+	<container type="Folder"></container>
+	<unittitle>Hide-Pond</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">41</container>
+	<container type="Folder"> </container>
+	<unittitle>Pratt-Wheeler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">42</container>
+	<container type="Folder">1-3</container>
+	<unittitle>White-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">42</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1774</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">42</container>
+	<container type="Folder">4-20</container>
+	<unittitle>Adams-Catlin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">43</container>
+	<container type="Folder"> </container>
+	<unittitle>Catlin-Hoffman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">45</container>
+	<container type="Folder"> </container>
+	<unittitle>Hopkins-Prindle</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">45</container>
+	<container type="Folder"> </container>
+	<unittitle>Punderson-Vosburgh</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">46</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Vaughn-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">46</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1775</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">46</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Abbott-Clarke</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">47</container>
+	<container type="Folder"> </container>
+	<unittitle>Cockran-Pickett</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">48</container>
+	<container type="Folder">1-15</container>
+	<unittitle>Pitcher-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">48</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1776</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">48</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Agard-Kent</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">49</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Kilborn-Woodbury</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">49</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1777</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">49</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Africa-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">50</container>
+	<container type="Folder">1-3</container>
+	<unittitle>Starr-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">50</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1778</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">50</container>
+	<container type="Folder">4-15</container>
+	<unittitle>Atwood-Winchester</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">50</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1779</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">50</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Abbot-Freeman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">51</container>
+	<container type="Folder">1-16</container>
+	<unittitle>Frisbie-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">51</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1780</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">51</container>
+	<container type="Folder">17-20</container>
+	<unittitle>Adams-Canfield</unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">52</container>
+	<container type="Folder"> </container>
+	<unittitle>Carrington-Unidentified</unittitle>
+	<unitdate datechar="creation"></unitdate>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1781</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">53</container>
+	<container type="Folder"> </container>
+	<unittitle>Adams-Cook</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">54</container>
+	<container type="Folder"> </container>
+	<unittitle>Cooley-Lyman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">55</container>
+	<container type="Folder"> </container>
+	<unittitle>McLean-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">56</container>
+	<container type="Folder">1-13</container>
+	<unittitle>Smith-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">56</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1782</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">56</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Adams-Bennett</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">57</container>
+	<container type="Folder"> </container>
+	<unittitle>Bennett-Field</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">58</container>
+	<container type="Folder"> </container>
+	<unittitle>Foot-Lord</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">59</container>
+	<container type="Folder"> </container>
+	<unittitle>Lynde-Shethar</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">61</container>
+	<container type="Folder">1</container>
+	<unittitle>Yale-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">61</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1783</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">61</container>
+	<container type="Folder">2-20</container>
+	<unittitle>Adams-Bronson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">62</container>
+	<container type="Folder"> </container>
+	<unittitle>Brown-Fox</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">63</container>
+	<container type="Folder"> </container>
+	<unittitle>Gaplpin-Kettell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">64</container>
+	<container type="Folder"> </container>
+	<unittitle>Knowles-Ross</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">65</container>
+	<container type="Folder"> </container>
+	<unittitle>Ross-Tomlinson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">66</container>
+	<container type="Folder">1-13</container>
+	<unittitle>Tomlinson-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">66</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1784</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">66</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Adams-Baker</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">67</container>
+	<container type="Folder"> </container>
+	<unittitle>Balcom-Cutler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">68</container>
+	<container type="Folder"> </container>
+	<unittitle>Darling-Kingsbury</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">69</container>
+	<container type="Folder"> </container>
+	<unittitle>Knickerbacor-Richards</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">70</container>
+	<container type="Folder"> </container>
+	<unittitle>Richards-Tyler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">71</container>
+	<container type="Folder">1-9</container>
+	<unittitle>Van Ness-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">71</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1785</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">71</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Abernethy-Beach</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">72</container>
+	<container type="Folder"> </container>
+	<unittitle>Beach-Griffin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">73</container>
+	<container type="Folder"> </container>
+	<unittitle>Hall-New Milford</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">74</container>
+	<container type="Folder"> </container>
+	<unittitle>Nickelson-Thomas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">75</container>
+	<container type="Folder">1-9 </container>
+	<unittitle>Thorpe-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">75</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1786</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">75</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Ackley-Bissell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">76</container>
+	<container type="Folder"></container>
+	<unittitle>Blaklee-Long</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">77</container>
+	<container type="Folder"> </container>
+	<unittitle>Lord-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">78</container>
+	<container type="Folder">1-10</container>
+	<unittitle>Stannard-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">78</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1787</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">78</container>
+	<container type="Folder">11-20</container>
+	<unittitle>Adams-Bisco</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">79</container>
+	<container type="Folder"></container>
+	<unittitle>Bissell-Johnson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">80</container>
+	<container type="Folder"> </container>
+	<unittitle>Johnson-Simpson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">81</container>
+	<container type="Folder">1-13</container>
+	<unittitle>Skinner-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">81</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1788</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">81</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Abels-Bacon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">82</container>
+	<container type="Folder"> </container>
+	<unittitle>Baker-Deming</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">83</container>
+	<container type="Folder"> </container>
+	<unittitle>Deming-Livingston</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">84</container>
+	<container type="Folder"> </container>
+	<unittitle>Lloyd-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">85</container>
+	<container type="Folder">1-18</container>
+	<unittitle>Smith-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">85</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1789</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">85</container>
+	<container type="Folder">19-20</container>
+	<unittitle>Adams-Atwood</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">86</container>
+	<container type="Folder"></container>
+	<unittitle>Atwood-Desbroses</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">87</container>
+	<container type="Folder"> </container>
+	<unittitle>Dickinson-Mansell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">88</container>
+	<container type="Folder"> </container>
+	<unittitle>Marsh-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">89</container>
+	<container type="Folder">1-14 </container>
+	<unittitle>Smith-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">89</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1790</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">89</container>
+	<container type="Folder">15-20</container>
+	<unittitle>Adams-Boardman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">90</container>
+	<container type="Folder"> </container>
+	<unittitle>Bogardus-Lane</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">91</container>
+	<container type="Folder"> </container>
+	<unittitle>Lane-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">92</container>
+	<container type="Folder">1-11</container>
+	<unittitle>Smith-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">92</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1791</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">92</container>
+	<container type="Folder">12-20</container>
+	<unittitle>Adams-Canfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">93</container>
+	<container type="Folder"></container>
+	<unittitle>Carpenter-Lewis</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">94</container>
+	<container type="Folder"> </container>
+	<unittitle>Lilee-Stork</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">95</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Storm-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">95</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1792</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">95</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Ackley-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">96</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-Judd</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">97</container>
+	<container type="Folder"> </container>
+	<unittitle>Keep-Ruggles</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">98</container>
+	<container type="Folder">1-16</container>
+	<unittitle>Sackett-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">98</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1793</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">98</container>
+	<container type="Folder">17-20</container>
+	<unittitle>Adams-Bacon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">99</container>
+	<container type="Folder"></container>
+	<unittitle>Bacon-Fuller</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">100</container>
+	<container type="Folder"> </container>
+	<unittitle>Garritt-Penfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">101</container>
+	<container type="Folder"> </container>
+	<unittitle>Pepoon-Whittlesey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">102</container>
+	<container type="Folder">1-2</container>
+	<unittitle>Wickwire-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">102</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1794</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">102</container>
+	<container type="Folder">3-20</container>
+	<unittitle>Adams-Canfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">103</container>
+	<container type="Folder"> </container>
+	<unittitle>Carpenter-Holley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">104</container>
+	<container type="Folder"> </container>
+	<unittitle>Holley-Porter</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">105</container>
+	<container type="Folder"> </container>
+	<unittitle>Post-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1795</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">106</container>
+	<container type="Folder"> </container>
+	<unittitle>Adams-Church</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">107</container>
+	<container type="Folder"> </container>
+	<unittitle>Church-Judd</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">108</container>
+	<container type="Folder"> </container>
+	<unittitle>Judson-Sherman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">109</container>
+	<container type="Folder">1-15</container>
+	<unittitle>Shotwell-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">109</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1796</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">109</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Adams-Bacon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">110</container>
+	<container type="Folder"></container>
+	<unittitle>Baldwin-Fairchild</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">112</container>
+	<container type="Folder"> </container>
+	<unittitle>Fancher-Pearsall</unittitle>
+ </did>	
+</c03>
+
+<c03 level="file">
+ <did>
+	<container type="Box">113</container>
+	<container type="Folder"> </container>
+	<unittitle>Peck-Wadsworth</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">113</container>
+	<container type="Folder">1-5</container>
+	<unittitle>Wadsworth-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">113</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1797</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">113</container>
+	<container type="Folder">6-20</container>
+	<unittitle>Adams-Buell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">114</container>
+	<container type="Folder"> </container>
+	<unittitle>Buell-Gleason</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">115</container>
+	<container type="Folder"> </container>
+	<unittitle>Giddings-Lombard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">116</container>
+	<container type="Folder"> </container>
+	<unittitle>Loomis-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">117</container>
+	<container type="Folder"> </container>
+	<unittitle>Southbury-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1798</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">118</container>
+	<container type="Folder"> </container>
+	<unittitle>Akins-Buell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">119</container>
+	<container type="Folder"> </container>
+	<unittitle>Bulford-Douglas</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">120</container>
+	<container type="Folder"> </container>
+	<unittitle>Driggs-Johnson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">121</container>
+	<container type="Folder"> </container>
+	<unittitle>Johnson-Neely</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">122</container>
+	<container type="Folder"> </container>
+	<unittitle>New Hartford-Smedly</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">123</container>
+	<container type="Folder"> </container>
+	<unittitle>Smith-Wells</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">124</container>
+	<container type="Folder">1-5</container>
+	<unittitle>Wessells-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">124</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1799</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">124</container>
+	<container type="Folder">6-20</container>
+	<unittitle>Akins-Boardman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">125</container>
+	<container type="Folder"> </container>
+	<unittitle>Boardman-Church</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">126</container>
+	<container type="Folder"> </container>
+	<unittitle>Church-Gibbs</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">127</container>
+	<container type="Folder"> </container>
+	<unittitle>Giles-Landon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">128</container>
+	<container type="Folder"> </container>
+	<unittitle>Landon-Moore</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">129</container>
+	<container type="Folder"> </container>
+	<unittitle>Morey-Royce</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">130</container>
+	<container type="Folder"> </container>
+	<unittitle>Rudd-Tallmadge</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">131</container>
+	<container type="Folder">1-18</container>
+	<unittitle>Tallmadge-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">131</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1800</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">131</container>
+	<container type="Folder">19-20</container>
+	<unittitle>Abbott-Atwater</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">132</container>
+	<container type="Folder"> </container>
+	<unittitle>Atwood-Broome</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">133</container>
+	<container type="Folder"> </container>
+	<unittitle>Brown-Cutler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">134</container>
+	<container type="Folder"> </container>
+	<unittitle>Cutler-Haskell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">135</container>
+	<container type="Folder"> </container>
+	<unittitle>Haviland-Marshall</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">136</container>
+	<container type="Folder"> </container>
+	<unittitle>Martin-Rowe</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">137</container>
+	<container type="Folder"> </container>
+	<unittitle>Rowlee-Warner</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">138</container>
+	<container type="Folder">1-3</container>
+	<unittitle>Warner-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">138</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1801</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">138</container>
+	<container type="Folder">4-20</container>
+	<unittitle>Abernathy-Canfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">139</container>
+	<container type="Folder"> </container>
+	<unittitle>Canfield-Howes</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">140</container>
+	<container type="Folder"> </container>
+	<unittitle>Hubbard-Prndle</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">141</container>
+	<container type="Folder"> </container>
+	<unittitle>Prior-Wardwell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">142</container>
+	<container type="Folder">1-7 </container>
+	<unittitle>Warner-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">142</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1802</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">142</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Abeck-Canfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">143</container>
+	<container type="Folder"> </container>
+	<unittitle>Canfield-Humphrey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">144</container>
+	<container type="Folder"> </container>
+	<unittitle>Humphrey-Prior</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">145</container>
+	<container type="Folder"> </container>
+	<unittitle>Pritchard-Wakeman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">146</container>
+	<container type="Folder">1-7</container>
+	<unittitle>Walker-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">146</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1803</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">146</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Adams-Bowne</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">147</container>
+	<container type="Folder"> </container>
+	<unittitle>Bradley-Conklin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">148</container>
+	<container type="Folder"> </container>
+	<unittitle>Cook-Judson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">149</container>
+	<container type="Folder"> </container>
+	<unittitle>Kellogg-Nott</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">150</container>
+	<container type="Folder"></container>
+	<unittitle>Oconor-Stevens</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">151</container>
+	<container type="Folder">1-12</container>
+	<unittitle>Stiles-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">151</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1804</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">151</container>
+	<container type="Folder">13-20</container>
+	<unittitle>Abernathy-Blakesley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">152</container>
+	<container type="Folder"> </container>
+	<unittitle>Boardman-Collar</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">153</container>
+	<container type="Folder"></container>
+	<unittitle>Collier-Johnson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">154</container>
+	<container type="Folder"> </container>
+	<unittitle>Johnson-Orsborn</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">155</container>
+	<container type="Folder"> </container>
+	<unittitle>Orvis-Sterling</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">156</container>
+	<container type="Folder">1-16</container>
+	<unittitle>Stevens-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">156</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1805</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">156</container>
+	<container type="Folder">17-20</container>
+	<unittitle>Abbot-Bacon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">157</container>
+	<container type="Folder"> </container>
+	<unittitle>Bacon-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">158</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-Holabird</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">159</container>
+	<container type="Folder"> </container>
+	<unittitle>Holcomb-Nettleton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">160</container>
+	<container type="Folder"> </container>
+	<unittitle>Norton-Rockwell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">161</container>
+	<container type="Folder"></container>
+	<unittitle>Rockwell-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1806</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">162</container>
+	<container type="Folder"> </container>
+	<unittitle>Adams-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">163</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-Hopkins</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">164</container>
+	<container type="Folder"> </container>
+	<unittitle>Hough-Nott</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">165</container>
+	<container type="Folder"> </container>
+	<unittitle>Nott-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">166</container>
+	<container type="Folder">1-18 </container>
+	<unittitle>State-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">166</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1807</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">166</container>
+	<container type="Folder">19-20</container>
+	<unittitle>Abell-Allen</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">167</container>
+	<container type="Folder"> </container>
+	<unittitle>Andrews-Cameron</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">168</container>
+	<container type="Folder"> </container>
+	<unittitle>Camp-Goshen</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">169</container>
+	<container type="Folder"> </container>
+	<unittitle>Grant-Moseley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">170</container>
+	<container type="Folder"> </container>
+	<unittitle>Moulten- St. John</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">171</container>
+	<container type="Folder"> </container>
+	<unittitle>St. John-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1808</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">172</container>
+	<container type="Folder"> </container>
+	<unittitle>Abel-Beecher</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">173</container>
+	<container type="Folder"> </container>
+	<unittitle>Beecher-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">174</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-Gay</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">175</container>
+	<container type="Folder"> </container>
+	<unittitle>Gaylord-Lamson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">176</container>
+	<container type="Folder"> </container>
+	<unittitle>Landon-Pettibone</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">177</container>
+	<container type="Folder"> </container>
+	<unittitle>Phelps-Sanford</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">178</container>
+	<container type="Folder"> </container>
+	<unittitle>Sawyer=Walter</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">179</container>
+	<container type="Folder">1-9</container>
+	<unittitle>Warren-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">179</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1809</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">179</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Abel-Beecher</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">180</container>
+	<container type="Folder"> </container>
+	<unittitle>Beecher-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">181</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-Eno</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">182</container>
+	<container type="Folder"> </container>
+	<unittitle>Ensign-Hull</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">183</container>
+	<container type="Folder"> </container>
+	<unittitle>Humphraville-Mansfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">184</container>
+	<container type="Folder"> </container>
+	<unittitle>Manville-Reed</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">185</container>
+	<container type="Folder"> </container>
+	<unittitle>Reed0Studley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">186</container>
+	<container type="Folder"> </container>
+	<unittitle>Sutcliff-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1810</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">187</container>
+	<container type="Folder"> </container>
+	<unittitle>Abell-Calhoon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">188</container>
+	<container type="Folder"> </container>
+	<unittitle>Calhoon-Fenn</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">189</container>
+	<container type="Folder"> </container>
+	<unittitle>Fenn-Johnston</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">190</container>
+	<container type="Folder"> </container>
+	<unittitle>Jones-Northrop</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">191</container>
+	<container type="Folder"> </container>
+	<unittitle>Norton-Skinner</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">192</container>
+	<container type="Folder"> </container>
+	<unittitle>Slosson-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1811</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">193</container>
+	<container type="Folder"> </container>
+	<unittitle>Abernethy-Calhoon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">194</container>
+	<container type="Folder"> </container>
+	<unittitle>Calhoon-Curtis</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">195</container>
+	<container type="Folder"> </container>
+	<unittitle>Dakin-Heacock</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">196</container>
+	<container type="Folder"> </container>
+	<unittitle>Hendryx-Lusk</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">197</container>
+	<container type="Folder"> </container>
+	<unittitle>Lusk-Phelps</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">198</container>
+	<container type="Folder"> </container>
+	<unittitle>Phelps-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">199</container>
+	<container type="Folder">1-17 </container>
+	<unittitle>State-Woodward</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">199</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1812</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">199</container>
+	<container type="Folder">18-20</container>
+	<unittitle>Abbott-Barlow</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">200</container>
+	<container type="Folder"> </container>
+	<unittitle>Barnard-Colebrook</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">201</container>
+	<container type="Folder"> </container>
+	<unittitle>Cornstock-Hall</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">202</container>
+	<container type="Folder"> </container>
+	<unittitle>Hall-Mallery</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">203</container>
+	<container type="Folder"> </container>
+	<unittitle>Marshall-Seymour</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">204</container>
+	<container type="Folder"> </container>
+	<unittitle>Seymour-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1813</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">205</container>
+	<container type="Folder"> </container>
+	<unittitle>Adam-Church</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">206</container>
+	<container type="Folder"> </container>
+	<unittitle>Clarke-Hart</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">207</container>
+	<container type="Folder"> </container>
+	<unittitle>Harvey-Minott</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">208</container>
+	<container type="Folder"> </container>
+	<unittitle>Mitchell-Sterling</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">209</container>
+	<container type="Folder">1-12</container>
+	<unittitle>Stickles-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">209</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1814</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">209</container>
+	<container type="Folder">13-20</container>
+	<unittitle>Abernethy-Bradley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">210</container>
+	<container type="Folder"> </container>
+	<unittitle>Brewster-Gould</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">212</container>
+	<container type="Folder"> </container>
+	<unittitle>Lewis-Rosseter</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">213</container>
+	<container type="Folder"> </container>
+	<unittitle>Rowley-Wilcox</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">214</container>
+	<container type="Folder">1-4</container>
+	<unittitle>Wilcox-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">214</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1815</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">214</container>
+	<container type="Folder">5-20</container>
+	<unittitle>Aakins-Bradley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">215</container>
+	<container type="Folder"> </container>
+	<unittitle>Brewster-Cornwall</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">216</container>
+	<container type="Folder"> </container>
+	<unittitle>Cowles-Gunn</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">217</container>
+	<container type="Folder"> </container>
+	<unittitle>Gunn-Lambert</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">218</container>
+	<container type="Folder"> </container>
+	<unittitle>Lamson-Mitchell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">219</container>
+	<container type="Folder"> </container>
+	<unittitle>Morison-Raymond</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">220</container>
+	<container type="Folder"> </container>
+	<unittitle>Reed-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">221</container>
+	<container type="Folder">1-19</container>
+	<unittitle>Sterling-Youngs</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">221</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1816</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">221</container>
+	<container type="Folder">20</container>
+	<unittitle>Abbott-Adam</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">222</container>
+	<container type="Folder"> </container>
+	<unittitle>Alexander-Bostwick</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">223</container>
+	<container type="Folder"> </container>
+	<unittitle>Botsford-Chapin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">224</container>
+	<container type="Folder"> </container>
+	<unittitle>Chapman-Delavan</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">225</container>
+	<container type="Folder"> </container>
+	<unittitle>Deming-Griswold</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">226</container>
+	<container type="Folder"> </container>
+	<unittitle>Gross-Hubbard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">227</container>
+	<container type="Folder"> </container>
+	<unittitle>Hubbell-Lamb</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">228</container>
+	<container type="Folder"> </container>
+	<unittitle>Lamb-Mills</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">229</container>
+	<container type="Folder"> </container>
+	<unittitle>Mills-Porter</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">230</container>
+	<container type="Folder"> </container>
+	<unittitle>Porter-Shelton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">231</container>
+	<container type="Folder"> </container>
+	<unittitle>Shelton-Sturdevant</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">232</container>
+	<container type="Folder"> </container>
+	<unittitle>Sugden-Winchester</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">233</container>
+	<container type="Folder">1-2 </container>
+	<unittitle>Wolcott-Unidentified</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">233</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1817</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">233</container>
+	<container type="Folder">3-20</container>
+	<unittitle>Abernathy-Blake</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">234</container>
+	<container type="Folder"> </container>
+	<unittitle>Blake-Catlin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">235</container>
+	<container type="Folder"> </container>
+	<unittitle>Catlin-Cook</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">236</container>
+	<container type="Folder"> </container>
+	<unittitle>Cook-Garnsey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">237</container>
+	<container type="Folder"> </container>
+	<unittitle>Garnsey-Hockox</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">238</container>
+	<container type="Folder"> </container>
+	<unittitle>Hide-Johnston</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">239</container>
+	<container type="Folder"> </container>
+	<unittitle>Johnston-Lockwood</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">240</container>
+	<container type="Folder"> </container>
+	<unittitle>Lord-Northrop</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">241</container>
+	<container type="Folder"> </container>
+	<unittitle>Northrop-Russell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">242</container>
+	<container type="Folder"> </container>
+	<unittitle>Russell-Stoddard</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">243</container>
+	<container type="Folder"> </container>
+	<unittitle>Stone-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1818</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">244</container>
+	<container type="Folder"> </container>
+	<unittitle>Abernethy-Chittenden</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">245</container>
+	<container type="Folder"> </container>
+	<unittitle>Chittenden-DeForest</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">246</container>
+	<container type="Folder"> </container>
+	<unittitle>Deforest-Haydon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">247</container>
+	<container type="Folder"> </container>
+	<unittitle>Hazen-Lamb</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">248</container>
+	<container type="Folder"> </container>
+	<unittitle>Lamb-Noble</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">249</container>
+	<container type="Folder"> </container>
+	<unittitle>Norfolk-Seymour</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">250</container>
+	<container type="Folder"> </container>
+	<unittitle>Seymour-Wilcox</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">251</container>
+	<container type="Folder">1-2</container>
+	<unittitle>Williams-Youngs</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">251</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1819</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">251</container>
+	<container type="Folder">3-20</container>
+	<unittitle>Abbott-Bradley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">252</container>
+	<container type="Folder"> </container>
+	<unittitle>Bradley-Cook</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">253</container>
+	<container type="Folder"> </container>
+	<unittitle>Cook-Guild</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">254</container>
+	<container type="Folder"> </container>
+	<unittitle>Gunn-Johnston</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">255</container>
+	<container type="Folder"> </container>
+	<unittitle>Johnston-Lyman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">256</container>
+	<container type="Folder"> </container>
+	<unittitle>Lyman-Peters</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">257</container>
+	<container type="Folder"> </container>
+	<unittitle>Pettibone-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">258</container>
+	<container type="Folder"> </container>
+	<unittitle>Soule-Warner</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">259</container>
+	<container type="Folder">1-10</container>
+	<unittitle>Warner-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">259</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1820</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">259</container>
+	<container type="Folder">11-20</container>
+	<unittitle>Abernethy-Benham</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">260</container>
+	<container type="Folder"> </container>
+	<unittitle>Benjamin-Cowles</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">261</container>
+	<container type="Folder"> </container>
+	<unittitle>Crane-Harrison</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">262</container>
+	<container type="Folder"> </container>
+	<unittitle>Harrison-Lamson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">263</container>
+	<container type="Folder"> </container>
+	<unittitle>Landon-Mitchell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">264</container>
+	<container type="Folder"> </container>
+	<unittitle>Moore-Seymour</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">265</container>
+	<container type="Folder"> </container>
+	<unittitle>Seymour-Wadsworth</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">266</container>
+	<container type="Folder">1-15</container>
+	<unittitle>Wadsworth-Youlen</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">266</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1821</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">266</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Abernethy-Beers</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">267</container>
+	<container type="Folder"> </container>
+	<unittitle>Bellamy-Goshen</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">268</container>
+	<container type="Folder"></container>
+	<unittitle>Granger-Merrell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">269</container>
+	<container type="Folder"> </container>
+	<unittitle>Merrell-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">270</container>
+	<container type="Folder">1-15 </container>
+	<unittitle>Steele-Wordin</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">270</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1822</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">270</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Abernethy-Bradley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">271</container>
+	<container type="Folder"> </container>
+	<unittitle>Bragg-McMahon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">273</container>
+	<container type="Folder">1-6 </container>
+	<unittitle>Tucker-Woodward</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">273</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1823</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">273</container>
+	<container type="Folder">7-20</container>
+	<unittitle>Adam-Fuller</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">274</container>
+	<container type="Folder"> </container>
+	<unittitle>Galpin-Shelton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">275</container>
+	<container type="Folder">1-11 </container>
+	<unittitle>Shepard-Younglove</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">275</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1824</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">275</container>
+	<container type="Folder">12-20</container>
+	<unittitle>Abernethy-Clark</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">276</container>
+	<container type="Folder"> </container>
+	<unittitle>Cole-Peck</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">277</container>
+	<container type="Folder">1-17</container>
+	<unittitle>Peet-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">277</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1825</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">277</container>
+	<container type="Folder">18-20</container>
+	<unittitle>Adam-Bloss</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">278</container>
+	<container type="Folder"> </container>
+	<unittitle>Boardman-Litchfield</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">279</container>
+	<container type="Folder"> </container>
+	<unittitle>Lockwood-Winegar</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">280</container>
+	<container type="Folder">1 </container>
+	<unittitle>Winegar-Younglove</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">280</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1826</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">280</container>
+	<container type="Folder">2-20</container>
+	<unittitle>Abernethy-Hitchcock</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">281</container>
+	<container type="Folder"> </container>
+	<unittitle>Hoadley-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">282</container>
+	<container type="Folder">1-13 </container>
+	<unittitle>Smith-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">282</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1827</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">282</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Abernethy-Case</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">283</container>
+	<container type="Folder"> </container>
+	<unittitle>Catlin-Mygatt</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">284</container>
+	<container type="Folder"> </container>
+	<unittitle>New Hartford-Titus</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">285</container>
+	<container type="Folder">1-7 </container>
+	<unittitle>Tobey-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">285</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1828</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">285</container>
+	<container type="Folder">8-20</container>
+	<unittitle>Abbott-Dorr</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">286</container>
+	<container type="Folder"> </container>
+	<unittitle>Downs-Smith</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">287</container>
+	<container type="Folder">1-4 </container>
+	<unittitle>Smith-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">287</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1829</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">287</container>
+	<container type="Folder">15-20</container>
+	<unittitle>Abernethy-Butler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">288</container>
+	<container type="Folder"> </container>
+	<unittitle>Camp-Monson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">289</container>
+	<container type="Folder"> </container>
+	<unittitle>Morehouse-Strong</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">290</container>
+	<container type="Folder">1-8</container>
+	<unittitle>Stuart-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">290</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1830</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">290</container>
+	<container type="Folder">9-20</container>
+	<unittitle>Abbott-Cook</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">291</container>
+	<container type="Folder"> </container>
+	<unittitle>Cornish-Lyman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">292</container>
+	<container type="Folder"> </container>
+	<unittitle>McIntire-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">293</container>
+	<container type="Folder">1-9</container>
+	<unittitle>Sterling-Youngs</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">293</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1831</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">293</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Abbe-Clement</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">294</container>
+	<container type="Folder"> </container>
+	<unittitle>Colebrook-Pelton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">295</container>
+	<container type="Folder"> </container>
+	<unittitle>Pendleton-Watson</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">296</container>
+	<container type="Folder">1-3</container>
+	<unittitle>Wells-Woodruff</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">296</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1832</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">296</container>
+	<container type="Folder">4-20</container>
+	<unittitle>Abbe-Gregory</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">297</container>
+	<container type="Folder"> </container>
+	<unittitle>Harrison-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">298</container>
+	<container type="Folder">1-9</container>
+	<unittitle>State-Woodbury</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">298</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1833</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">298</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Abbe-Catlin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">299</container>
+	<container type="Folder"> </container>
+	<unittitle>Chaffee-Landon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">300</container>
+	<container type="Folder"> </container>
+	<unittitle>Langdon-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">301</container>
+	<container type="Folder">1-15</container>
+	<unittitle>State-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">301</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1834</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">301</container>
+	<container type="Folder">16-20</container>
+	<unittitle>Abbe-Boardman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">302</container>
+	<container type="Folder"></container>
+	<unittitle>Boardman-Humphrey</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">303</container>
+	<container type="Folder"> </container>
+	<unittitle>Humphrey-Stanley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">304</container>
+	<container type="Folder">1-13 </container>
+	<unittitle>State-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">304</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1835</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">304</container>
+	<container type="Folder">14-20</container>
+	<unittitle>Abbe-Bierce</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">305</container>
+	<container type="Folder"> </container>
+	<unittitle>Birge-Marsh</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">306</container>
+	<container type="Folder"> </container>
+	<unittitle>Merriam-Tuttle</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">307</container>
+	<container type="Folder">1-6 </container>
+	<unittitle>Tyler-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">307</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1836</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">307</container>
+	<container type="Folder">7-20</container>
+	<unittitle>Abbe-Gaoler</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">308</container>
+	<container type="Folder"> </container>
+	<unittitle>Gleason-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">309</container>
+	<container type="Folder"> </container>
+	<unittitle>State-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1837</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">310</container>
+	<container type="Folder"> </container>
+	<unittitle>Abbe-Hunt</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">311</container>
+	<container type="Folder"> </container>
+	<unittitle>Ives-Turner</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">312</container>
+	<container type="Folder">1-4</container>
+	<unittitle>Van Dusen-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">312</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1838</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">312</container>
+	<container type="Folder">5-20</container>
+	<unittitle>Adam-Fuller</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">313</container>
+	<container type="Folder"> </container>
+	<unittitle>Gaoler-Rowley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">314</container>
+	<container type="Folder"> </container>
+	<unittitle>Sage-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1839</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">315</container>
+	<container type="Folder"> </container>
+	<unittitle>Abernethy-Lyman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">316</container>
+	<container type="Folder"> </container>
+	<unittitle>Markham-Vincent</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">317</container>
+	<container type="Folder">1-2</container>
+	<unittitle>Wade-Winegar</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">317</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1840</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">317</container>
+	<container type="Folder">3-20</container>
+	<unittitle>Abbe-Green</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">318</container>
+	<container type="Folder"></container>
+	<unittitle>Hallock-Rowley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">319</container>
+	<container type="Folder">1-16</container>
+	<unittitle>Sage-Wyth</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">319</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1841</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">319</container>
+	<container type="Folder">17-20</container>
+	<unittitle>Abbe-Bellamy</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">320</container>
+	<container type="Folder"> </container>
+	<unittitle>Benedict-Mygatt</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">321</container>
+	<container type="Folder"> </container>
+	<unittitle>Newell-Sullivan</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">322</container>
+	<container type="Folder">1-6</container>
+	<unittitle>Talmadge-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">322</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1842</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">322</container>
+	<container type="Folder">7-20</container>
+	<unittitle>Adams-Judd</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">323</container>
+	<container type="Folder"> </container>
+	<unittitle>Kellogg-Woodruff</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1843</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">324</container>
+	<container type="Folder"> </container>
+	<unittitle>Abbe-Sperry</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">325</container>
+	<container type="Folder">1-12</container>
+	<unittitle>State-Wyant</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">325</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1844</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">325</container>
+	<container type="Folder">13-20 </container>
+	<unittitle>Agard-Lyman</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">326</container>
+	<container type="Folder"> </container>
+	<unittitle>McGregor-Woodward</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1845</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">327</container>
+	<container type="Folder"> </container>
+	<unittitle>Abel-Sperry</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">328</container>
+	<container type="Folder">1-8</container>
+	<unittitle>State-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">328</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1846</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">328</container>
+	<container type="Folder">9-20</container>
+	<unittitle>Abbott-Hyde</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">329</container>
+	<container type="Folder"> </container>
+	<unittitle>Jackson-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">330</container>
+	<container type="Folder">1-9</container>
+	<unittitle>State-Winchester</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">330</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1847</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">330</container>
+	<container type="Folder">10-20</container>
+	<unittitle>Abernathy-Griswold</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">331</container>
+	<container type="Folder"> </container>
+	<unittitle>Hard-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">332</container>
+	<container type="Folder"></container>
+	<unittitle>Stoddard-Woodruff</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1848</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">333</container>
+	<container type="Folder"> </container>
+	<unittitle>Ames-Sharon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">334</container>
+	<container type="Folder">1-19</container>
+	<unittitle>Shelton-Young</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">334</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1849</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">334</container>
+	<container type="Folder">20</container>
+	<unittitle>Alvord-Baker</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">335</container>
+	<container type="Folder"> </container>
+	<unittitle>Baldwin-Sharon</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">336</container>
+	<container type="Folder"> </container>
+	<unittitle>Skilton-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1850</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">337</container>
+	<container type="Folder"> </container>
+	<unittitle>Adams-Perry</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">338</container>
+	<container type="Folder"> </container>
+	<unittitle>Pettibone-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">339</container>
+	<container type="Folder">1-5</container>
+	<unittitle>State-Worthy</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">339</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1851</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">339</container>
+	<container type="Folder">6-20</container>
+	<unittitle>Adams-Riley</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">340</container>
+	<container type="Folder"> </container>
+	<unittitle>Roberts-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1852</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">341</container>
+	<container type="Folder"> </container>
+	<unittitle>Abernethy-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">342</container>
+	<container type="Folder">1-12</container>
+	<unittitle>State-Woodbury</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">342</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1853</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">342</container>
+	<container type="Folder">13-20</container>
+	<unittitle>Adam-Dayton</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">343</container>
+	<container type="Folder"> </container>
+	<unittitle>Demars-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">344</container>
+	<container type="Folder">1-16</container>
+	<unittitle>State-Woodworth</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">344</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1854</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">344</container>
+	<container type="Folder">17-20 </container>
+	<unittitle>Alvord-Bushnell</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">345</container>
+	<container type="Folder"> </container>
+	<unittitle>Canfield-State</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">346</container>
+	<container type="Folder">1-4 </container>
+	<unittitle>State-Wright</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box">346</container>
+	<container type="Folder"> </container>
+	<unitdate datechar="creation">1855</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">346</container>
+	<container type="Folder">5-10</container>
+	<unittitle>Averill-Woodruff</unittitle>
+ </did>	
+</c03>
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Box"></container>
+	<container type="Folder"> </container>
+	<unittitle>Discontinuances</unittitle>
+	<unitdate datechar="creation">1831-1855</unitdate>
+ </did>	
+<c03 level="file">
+ <did>
+	<container type="Box">347</container>
+	<container type="Folder"> </container>
+	<unittitle>Adams-Merwin</unittitle>
+ </did>	
+</c03>
+<c03 level="file">
+ <did>
+	<container type="Box">348</container>
+	<container type="Folder"> </container>
+	<unittitle>Merwin-Yale</unittitle>
+ </did>	
+</c03>
+</c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</c01>
+
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

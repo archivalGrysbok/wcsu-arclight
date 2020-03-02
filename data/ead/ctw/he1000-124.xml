@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-124::Henry Curtis Herge Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/he1000-124.html">he1000-124</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Henry Curtis Herge Papers,
+		<lb/><date normal="1942/1988">1942 - 1946, 1988</date>
+		</titleproper>
+        <author>Processed by: Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: July 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Henry Curtis Herge Papers, <date type="span">1942 - 1946, 1988</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><persname encodinganalog="100"> Herge, Henry C.</persname></origination><unittitle label="Title" encodinganalog="245">Henry Curtis Herge Papers, <unitdate normal="1942/1988" type="inclusive">1942 - 1946, 1988</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-124</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">2.5</extent></physdesc><physdesc label="Archival Boxes"><extent>5</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Henry Curtis Herge (1907-2003) was the Commanding Officer of the Navy College Training Program at Wesleyan University, known as the V-12. </abstract><abstract encodinganalog="520">Materials include items specifically related to Wesleyan's V-12 program as well as writings, research, and published works related to naval wartime training, the Navy V-12 program, naval curricula information, and higher education during wartime in general.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Henry Curtis Herge Papers, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Given by Henry Curtis Herge in 1988, 1990, and 1995.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Valerie Gillispie, July 2006</p>
+        <p>Encoded by Valerie Gillispie, July 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>The following is an obituary note submitted to Wesleyan University following Herge's death in 2003.</p>
+      <p>Henry Curtis Herge, 97, who served as Dean of the Rutgers University Graduate School of Education in New Brunswick, New Jersey from 1953 to 1964, died March 8, 2003 of pneumonia. He lived in Fleet Landing, a retirement community in Atlantic Beach, Florida, but he had a home in Middletown, Connecticut from 1943 to 1945.</p>
+      <p>Dr. Herge began his long career in domestic and international education in 1928 as an English instructor, school principal, and school supervisor in public school systems on Long Island, New York. During World War II, he enlisted in the U.S. Navy and, subsequently, became the Commanding Officer of the Navy College Training Program at Wesleyan University, Middletown, Connecticut, which graduated 6,000 Navy and Marine Corps officers between 1943 and 1945. Just after V-J Day, he became Associate Director of the American Council on Education in Washington, D.C.; and in 1946, he became State Director of Higher Education and Teacher Certification in the Connecticut State Department of Education in Hartford, Connecticut.</p>
+      <p>In 1953, Dr. Herge accepted the invitation of Rutgers, The State University of New Jersey, to become Dean and professor of the Graduate School of Education, in New Brunswick, New Jersey. Among his other achievements, Dean Herge spearheaded the funding, design and construction of the building which today houses the Graduate School of Education. He left Rutgers in 1964 for a series of appointments with the Agency for International Development and the Organization of American States in Paraguay, Jamaica, Zambia, Malawi, and Italy, where he assisted in developing teacher training and school management curricula and programs. He returned to Rutgers as a professor in the Graduate School of Education and as the Associate Director of the Rutgers Center for International Studies. He retired in 1975. </p>
+      <p>Born in Brooklyn, New York, Dr. Herge was the recipient of three degrees at New York University, a Ph.D. at Yale University, and an honorary degree at Wesleyan University. He was the author of <title render="italic">Wartime College Training Programs of the Armed Services</title> (1948); <title render="italic">The College Teacher</title> (1966); and <title render="italic">A Taut and Salty Ship, The V-12 at Wesleyan</title> (1991); and was the author of numerous articles in professional journals. He also served as an adjunct professor of education at Hartford University and Fairfield University, in Connecticut, and at the University of Southern California.</p>
+      <p>Survivors include his wife of twenty-six years, Alice Wolfgram Herge, of Atlantic Beach, Florida; two sons, J. Curtis Herge, of Potomac Falls, Virginia, and H. Curtis Herge, Jr., of Pittsford, New York; six grandchildren and two great-grandchildren. Dr. Herge's first wife, Josephine Breen Herge, died in 1975.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>Materials include items specifically related to Wesleyan's V-12 program as well as writings, research, and published works related to naval wartime training and higher education during wartime in general. The first series, Wesleyan Navy V-12 Program, includes correspondence belonging to Herge and other Wesleyan figures regarding V-12 at Wesleyan; student publications and other student guides and programs; articles about Wesleyan's V-12 program published in campus publications; a report assessing Wesleyan's program; and a list of people involved in the V-12 at Wesleyan. The second series, Research and Writings, includes writings by Herge as well as research reports and other data used in his writings. Most of the writings are undated but seem to date from the mid- to late-1940s and are mostly in a draft, typescript format. Topics of the writing and research are higher education during wartime and wartime training. The third series, Other Publications, consists of journals, pamphlets, and other published materials that belonged to Herge. The subjects include wartime naval training, the Navy V-12 program, naval curricula information, and higher education in general.
+</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Series 1: Wesleyan Navy V-12 Program</p>
+        <p>Series 2: Research and Writings</p>
+        <p>Series 3: Other Publications</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <persname source="lcnaf" encodinganalog="600">Herge, Henry C.</persname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy Dept. V-12 Program--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">United States. Navy--History--World War, 1939-1945.</corpname>
+      <subject source="lcsh" encodinganalog="650">Naval education--United States.</subject>
+      <corpname source="lcsh" encodinganalog="610">Soldiers--Education, Non-military--United States.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <relatedmaterial>
+      <head>Related Material</head>
+      <p>Navy V-5 and V-12 Training Unit Records, Special Collections &amp; Archives, Wesleyan University</p>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 1: Wesleyan Navy V-12 Program</unittitle>
+        </did>
+        <scopecontent>
+          <p>Materials include correspondence belonging to Herge and other Wesleyan figures regarding V-12 at Wesleyan; student publications and other student guides and programs; articles about Wesleyan's V-12 program published in campus publications; a report assessing Wesleyan's program; and a list of people involved in the V-12 at Wesleyan.</p>
+          <p>Materials are arranged in alphabetical order.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle><title render="italic">Air Scoop</title>, 1943-1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Articles, 1943-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Campus Directory, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Correspondence, 1942-1945, 1988</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Handbook, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Matriculation and Commencement Programs, 1943-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Personnel, Members, Rosters, 1943-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Photograph of Herge</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <scopecontent>
+            <p>These photographs are all related to Wesleyan. For other photographs of navy training programs, please see the photographs in the second series, Research and Writings.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Report of Inspection, 1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Variety Show Program, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle><title render="italic">WesNavNews</title>, 1944</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2: Research and Writings, 1942-1946</unittitle>
+        </did>
+        <scopecontent>
+          <p>Includes writings by Herge as well as research reports and other data used in his writings. Most of the writings are undated but seem to date from the mid- to late-1940s. The writings are mostly in a draft, typescript format. Topics of the writing and research are higher education during wartime and wartime training.</p>
+          <p>The collection is arranged with writings listed first, in alphabetical order. Research materials then appear in alphabetical order following the writings.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle><title render="italic">Educational Gains from Wartime Training</title>, Part Five</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>
+              <title render="italic">Financial Aspects of the College Training Programs</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle><title render="italic">History of the Standards and Curriculum Division</title>: <title render="doublequote">The Curriculum Unit</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle><title render="italic">History of the Standards and Curriculum Division</title>: <title render="doublequote">The Educational Services Program</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle><title render="italic">History of the Standards and Curriculum Division</title>: <title render="doublequote">The Enlisted Billet Analysis Section</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle><title render="italic">History of the Standards and Curriculum Division</title>: <title render="doublequote">The Instructor Training Section</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle><title render="italic">History of the Standards and Curriculum Division</title>: <title render="doublequote">The Training Courses Section</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">20</container>
+            <unittitle><title render="italic">How Higher Education Went to War</title>. Part I: Problems Created by World War II</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">21</container>
+            <unittitle>
+              <title render="italic">Implications of the Armed Forces College Training Programs</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1-2</container>
+            <unittitle>
+              <title render="italic">The Inception of the Programs</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>
+              <title render="doublequote">Part Two: Wesleyan Makes Its Contribution, Chapters V and VI</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>
+              <title render="doublequote">Part Two: Wesleyan Makes Its Contribution, Chapters VII and VIII</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>
+              <title render="doublequote">Psychological Testing and Research in the Bureau of Naval Personnel</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle><title render="doublequote">Some Implications of Armed Services College Training Programs,</title> 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7-8</container>
+            <unittitle><title render="italic">The War and Higher Education</title>. Tenth Copy</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>
+              <title render="italic">The War and Higher Education: Implications of the Armed Services College Training Programs</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle><title render="italic">The War and Higher Education</title>: <title render="doublequote">Part II, War Training Programs Described</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle><title render="italic">The War and Higher Education</title>: <title render="doublequote">Part III, Selected Features of Armed Services College Training</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle><title render="italic">The War and Higher Education</title>: <title render="doublequote">Part IV, The Outstanding Lessons of Wartime Training in Higher Educational Institutions</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>
+              <title render="italic">Wartime College Training Programs</title>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Untitled writings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>AGO Test Data</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Armed Services Educational Programs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Carnegie Institute of Technology items</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Curriculum Revision/Instructor Training, 1945, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Dartmouth College items</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Evaluation of Programs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Evaluation regarding armed services training</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Implications study</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>New York Times Survey of Colleges, 1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <scopecontent>
+            <p>These photographs are from navy training programs across the country. For photographs of the Wesleyan program, please see the photographs in the first series, Wesleyan Navy V-12 Program.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Questionnaire on armed services training programs, circa 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Research notes and articles, circa 1942-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Statistics, circa 1945-1946</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3: Other Publications, 1942-1946</unittitle>
+        </did>
+        <scopecontent>
+          <p>Materials include journals, pamphlets, and other published materials that belonged to Herge. The subjects include wartime naval training, the Navy V-12 program, naval curricula information, and higher education in general. </p>
+          <p>Materials are arranged in alphabetical order.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle><title render="italic">The Annals of the American Academy of Political and Social Science: Higher Education and the War</title>, January 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Army Specialized Training Bulletin, 1943-1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Articles and clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle><title render="italic">Bureau of Naval Personnel Training Bulletin</title>, 15 October 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle><title render="italic">Education in the Armed Services</title>, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle><title render="italic">The Educational Record</title>, July 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle><title render="doublequote">Essential Facts About the Army Specialized Training Program,</title> 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle><title render="doublequote">Fifty Questions and Answers on Army Specialized Training Program,</title> 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle><title render="doublequote">Fog,</title> Aerology Series, No. 3, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle><title render="italic">Higher Education Under War Conditions,</title> edited by Russell, 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle><title render="doublequote">Ice Formation on Aircraft,</title> Aerology Series, No. 1, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle><title render="italic">The Journal of Educational Sociology: Our Changing Armed Forces</title>, May 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle><title render="italic">The Journal of Higher Education</title>, March 1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">1</container>
+            <unittitle>Navy V-12 Bulletins, 1943-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle><title render="doublequote">Navy V-12 Curricula Schedule and Course Descriptions,</title> 1 June 1943</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle><title render="italic">Opinions on Gains for American Education from Wartime Armed Services Training</title>, Chambers, 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Training in the Armed Forces, 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle><title render="italic">The United States in the Second World War</title>, Harris, 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>War Department Press Releases, 1942-1945</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

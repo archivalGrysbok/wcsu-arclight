@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0202">mssa.ru.0202</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Jerome N. Frank Legal Services Organization, Yale Law School, Records
+ </titleproper>
+            <titleproper type="filing">Frank (Jerome N.) Legal Services Organization, Yale Law School, Records</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>November 2007</date>
+            <num>RU 202</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 08:04</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Jerome N. Frank Legal Services Organization, Yale Law School, records</unittitle>
+         <unitid>RU 202</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.25</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1993/1993">1993-1993</unitdate>
+         
+         <abstract id="aspace_4101f1c313ec2c563fb1f7a56bc75a26">The records consist of a report titled, "Residential Lending in New Haven County."</abstract>
+         <origination label="creator">
+            <corpname source="local">
+               Jerome N. Frank Legal Services Organization
+            </corpname>
+         </origination>
+         <origination label="creator">
+            <corpname authfilenumber="http://id.loc.gov/authorities/names/n81047894"
+                      source="naf">
+               Yale Law School
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_7eacb262b341f9034481413edb00b6ed">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 26-E (YRG 26-E), Records of departments, offices, programs, and projects of the Yale Law School.</p>  
+      </odd>
+      <accessrestrict id="aspace_d220529b099d8f53630532644ed8dd38">
+         <head>Conditions Governing Access</head>
+         <p>Access to the records is restricted. See Collection Contents for details.</p>  
+      </accessrestrict>
+      <prefercite id="aspace_2b8095156cb087089c49ff452aff4bd6">
+         <head>Preferred Citation</head>
+         <p>Jerome N. Frank Legal Services Organization, Yale Law School, Records (RU 202). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <processinfo id="aspace_a1d06cce4638021421d7b7b5b44c94ec">
+         <head>Processing Information</head>
+         <p>Yale University records are arranged and described at the accession level by the creating office. The University Archives creates collection level descriptive records, but typically does no further arrangement and description at the accession level.</p>  
+      </processinfo>
+      <scopecontent id="aspace_01c70374338abeae2961de1545fd4e65">
+         <head>Scope and Contents</head>
+         <p>The records consist of a report titled, "Residential Lending in New Haven County."</p>  
+      </scopecontent>
+      <controlaccess>
+         <corpname source="local">
+            Jerome N. Frank Legal Services Organization
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Residential Lending in New Haven County (report)</unittitle>
+               <unitid>Accession 1994-A-148</unitid>
+               <unitdate type="inclusive">1993</unitdate>
+            </did>
+            <accessrestrict id="aspace_bc1bfa3f442887407164c5e292363a88">
+               <head>Conditions Governing Access</head>
+               <p>Restricted until Jan 1, 2028</p>
+            </accessrestrict>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Residential Lending in New Haven County (report)</unittitle>
+                  <unitdate type="inclusive">1993</unitdate>
+                  <container label="Mixed Materials (39002075238395)"
+                             id="aspace_ea1bb346e36ab7dbc98f88d2567a3b4b"
+                             type="box">1</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

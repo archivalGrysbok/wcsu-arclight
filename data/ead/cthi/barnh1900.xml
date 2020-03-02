@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" mainagencycode="CtHi" url="http://www.chs.org/finding_aides/finding_aids/barnh1900.html">barnh1900</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Henry Barnard Papers</titleproper>
+        <subtitle encodinganalog="245$b">A Guide to the Henry Barnard Papers at the
+                    Connecticut Historical Society</subtitle>
+        <author>Compiled by CHS Staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Connecticut Historical Society</publisher>
+        <address>
+          <addressline>1 Elizabeth Street</addressline>
+          <addressline>Hartford, CT 06105</addressline>
+        </address>
+        <p>Copyright 2010, Connecticut Historical Society</p>
+        <date>December 2010</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Created by CHS Staff, <date>December 2010</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository :">
+        <corpname>Connecticut Historical Society, </corpname>
+        <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+      </repository>
+      <origination encodinganalog="100" label="Creator :">Barnard, Henry</origination>
+      <unittitle label="Title :">Henry Barnard Papers</unittitle>
+      <unitdate label="Dates : ">1828-1899</unitdate>
+      <physdesc label="Extent :">
+        <extent>0.40 linear feet (2 half-boxes)</extent>
+      </physdesc>
+      <abstract label="Abstract :">Collection consists predominantly of correspondence to and
+                from Henry Barnard</abstract>
+      <physloc label="Location:" altrender="Location :">Ms Barnh1900</physloc>
+      <langmaterial encodinganalog="546">English</langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Sketch</head>
+      <p>Henry Barnard was born January 24, 1811 in Hartford, Connecticut to Chauncey Barnard
+                and Elizabeth Andrus. He graduated from Yale College in 1830 and began teaching in
+                Pennsylvania at Wellsboro Academy. Barnard studied law with Willis Hall in New York
+                City and with William Hungerford in Hartford before entering Yale Law School in
+                1833. He was admitted to the Connecticut bar in 1835.</p>
+      <p>In 1835 Barnard was also elected to the Connecticut General Assembly and served for
+                three years. He framed a bill in 1838 for the State Board of School Commissioners,
+                which was passed as ‘An Act to provide for the better supervision of the common
+                schools.’ </p>
+      <p>Barnard was a founder of the Hartford Young Men's Institute (which later became the
+                Hartford Public Library) and served as secretary of the Connecticut Historical
+                Society. He remained in Hartford until 1845 when he was appointed Secretary of the
+                Board of Education of Rhode Island. Four years later Barnard returned to Connecticut
+                as Superintendent of Common Schools. Other positions Barnard held include Principal
+                of the Connecticut State Normal School in New Britain (1850-1854) and Chancellor of
+                the University of Wisconsin (1858-1860). In 1867 he became the first Commissioner of
+                Education in the country.</p>
+      <p>Barnard also edited the Connecticut Common School Journal, the Journal of the Rhode
+                Island Institute of Instruction, and the American Journal of Education. Work on
+                these publications earned Barnard national recognition, alongside Horace Mann, as an
+                educational reformer. </p>
+      <p>Henry Barnard married Josephine Desnoyers of Detroit in 1847. The couple had five
+                children. Barnard died in Hartford on July 5, 1900.</p>
+    </bioghist>
+    <otherfindaid>
+      <head>Related Material</head>
+      <p>An index of catalog cards is available to access Barnard related material in other
+                collections at the item level. Access is through writer, recipient and date. The
+                card catalog is located in the library reading room.</p>
+      <p>Other repositories holding Barnard related material include the Milton S. Eisenhower
+                Library, The Johns Hopkins University; Trinity College and the Watkinson Library;
+                Fales Library and the Elmer Holmes Bobst Library, New York University; Beinecke Rare
+                Book and Manuscript Library,Yale University; and Special Collections, James P. Adams
+                Library, Rhode Island College. </p>
+    </otherfindaid>
+    <scopecontent encodinganalog="520$a">
+      <head>Scope and Content</head>
+      <p>The collection consists predominantly of correspondence, both personal and business.
+                Of particular note are letters, addressed to Barnard as Corresponding Secretary of
+                the Connecticut Historical Society. They concern a celebration of the first
+                Constitution of Connecticut. The material has been divided into three series: the
+                Emily Barnard collection, the Henry Barnard papers, and Broadsides.</p>
+      <p><emph render="bold">Series I:The Emily Barnard</emph> series consists of letters to
+                Henry Barnard, poems regarding the first Constitution of Connecticut, and replies
+                from notable persons to invitations to the Connecticut Historical Society's
+                bicentennial celebration of the Constitution.</p>
+      <p>Letters to and from Henry Barnard comprise <emph render="bold">Series II: the Henry
+                    Barnard papers</emph>.</p>
+      <p><emph render="bold">Series III:&gt;Broadsides </emph>consists of an advertisement of a
+                lecture series at the Hartford Young Men's Institute.</p>
+    </scopecontent>
+    <accessrestrict>
+      <head>Access Restrictions</head>
+      <p>There are no restrictions on access to the collection.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Use Restrictions</head>
+      <p>Use of the material requires compliance with the Connecticut Historical Society's
+                Research Center regulations.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Item, Collection Title, Collection number (Box #, Folder #). Connecticut Historical
+                Society, Hartford, Connecticut.</p>
+    </prefercite>
+    <processinfo>
+      <head>Processing Details</head>
+      <p>Collection was processed by Marilyn Paul-Lewis under an NHPRC grant (#89-003) in
+                November 1998.</p>
+      <p>Finding aid and EAD instance compiled by Stephen Yearl in November, 1998.</p>
+      <p>Updated to EAD2002 in December 2010.</p>
+    </processinfo>
+    <accruals>
+      <head>Accruals</head>
+      <p>The collection is open, but additional material is not expected.</p>
+    </accruals>
+    <controlaccess>
+      <head>Subject Headings</head>
+      <controlaccess>
+        <head>Personal Names</head>
+        <persname encodinganalog="700">Barnard, Henry</persname>
+        <persname encodinganalog="700">Barnard, Eliza</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Corporate Names</head>
+        <corpname encodinganalog="610"> Young Men's Institute (Hartford, Conn.). </corpname>
+        <corpname encodinganalog="610"> Connecticut Historical Society (Hartford, Conn.).
+                </corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650"> Correspondence. </subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genre Forms</head>
+        <genreform encodinganalog="655"> Holographs; holographs, signed. </genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <head>Contents:</head>
+      <c01 level="series">
+        <did>
+          <unitid>I. Emily Barnard Collection</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Invitation, letter of introduction.</unittitle>
+            <physdesc>
+              <extent> (2 items) </extent>
+            </physdesc>
+            <unitdate>1833</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Letters to Henry Barnard, and of introduction.</unittitle>
+            <physdesc>
+              <extent> (3 items) </extent>
+            </physdesc>
+            <unitdate>1834</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Letters to Henry Barnard, and of introduction.</unittitle>
+            <physdesc>
+              <extent> (15 items) </extent>
+            </physdesc>
+            <unitdate>1835</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Letters to Henry Barnard, and of introduction.</unittitle>
+            <physdesc>
+              <extent> (7 items) </extent>
+            </physdesc>
+            <unitdate>1836</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Letters to Henry Barnard, and of introduction.</unittitle>
+            <physdesc>
+              <extent> (6 items) </extent>
+            </physdesc>
+            <unitdate>1838</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Letters to Henry Barnard. </unittitle>
+            <physdesc>
+              <extent> (6 items) </extent>
+            </physdesc>
+            <unitdate>1839</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Letters to Henry Barnard re. the Connecticut Historical Society's
+                            celebration of the first Constitution of Connecticut.</unittitle>
+            <physdesc>
+              <extent> (15 items) </extent>
+            </physdesc>
+            <unitdate>April 3-10, 1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Letters to Henry Barnard re. the Connecticut Historical Society's
+                            celebration of the first Constitution of Connecticut.</unittitle>
+            <physdesc>
+              <extent> (19 items)</extent>
+            </physdesc>
+            <unitdate>April 11-20, 1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Letters to Henry Barnard, and of introduction.</unittitle>
+            <physdesc>
+              <extent> (2 items)</extent>
+            </physdesc>
+            <unitdate>April 21-30, 1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Poems sent to Henry Barnard for the Connecticut Historical
+                            Society celebration of the first Constitution of
+                            Connecticut.</unittitle>
+            <physdesc>
+              <extent> (3 items) </extent>
+            </physdesc>
+            <unitdate>April, 1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Letters to Henry Barnard for the Connecticut Historical Society
+                            celebration of the first Constitution of Connecticut.</unittitle>
+            <physdesc>
+              <extent> (2 items) </extent>
+            </physdesc>
+            <unitdate>April, 1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Letter of introduction for Henry Barnard.</unittitle>
+            <physdesc>
+              <extent> (1 item) </extent>
+            </physdesc>
+            <unitdate>1888</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Letters to and concerning Henry Barnard.</unittitle>
+            <physdesc>
+              <extent> (5 items) </extent>
+            </physdesc>
+            <unitdate>[18--?]</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>II. Henry Barnard papers</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Letters to Eli Todd.</unittitle>
+            <physdesc>
+              <extent> (2 items) </extent>
+            </physdesc>
+            <unitdate>1828</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Letters of introduction for Henry Barnard (one in German). </unittitle>
+            <unittitle>Letter to Catherine Todd from Emma Willard. </unittitle>
+            <unittitle>Fragment of letter signed by Chalmers.</unittitle>
+            <physdesc>
+              <extent> (8 items) </extent>
+            </physdesc>
+            <unitdate>1830-1835</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Letters to Henry Barnard.</unittitle>
+            <physdesc>
+              <extent> (11 item) </extent>
+            </physdesc>
+            <unitdate>1836-1839</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Letters to Henry Barnard and supporting documents re. the
+                            Connecticut Historical Society's Celebration of the first Constitution
+                            of Connecticut.</unittitle>
+            <unittitle> Fragment of letter signed by Chalmers.</unittitle>
+            <physdesc>
+              <extent> (19 items) </extent>
+            </physdesc>
+            <unitdate>1840</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Letters to Henry Barnard.</unittitle>
+            <unittitle> Fragment of note from Emma Willard.</unittitle>
+            <physdesc>
+              <extent> (19 items) </extent>
+            </physdesc>
+            <unitdate>1841-1849</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Letters to Henry Barnard with supporting documents and letters of
+                            introduction. (One in French). </unittitle>
+            <physdesc>
+              <extent> (10 items) </extent>
+            </physdesc>
+            <unitdate>1850-1853</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Letters to Henry Barnard, and letters of
+                            introduction.</unittitle>
+            <physdesc>
+              <extent> (11 items) </extent>
+            </physdesc>
+            <unitdate>January - June, 1854</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Letters to Henry Barnard, and letters of introduction. (One in
+                            German, one in Dutch). </unittitle>
+            <physdesc>
+              <extent> (11 item) </extent>
+            </physdesc>
+            <unitdate>July - December, 1854</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Letters to Henry Barnard, and letters of
+                            introduction.</unittitle>
+            <physdesc>
+              <extent> (19 items) </extent>
+            </physdesc>
+            <unitdate>1855-1857</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>Letters to Henry Barnard, and letters of introduction. (One in
+                            German). </unittitle>
+            <unittitle>Letters from Emma Willard to Mrs. Eli Todd.</unittitle>
+            <physdesc>
+              <extent> (14 items) </extent>
+            </physdesc>
+            <unitdate>1858-1859</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>Letters to Henry Barnard, and letters of introduction. (One in
+                            German).</unittitle>
+            <physdesc>
+              <extent> (14 items) </extent>
+            </physdesc>
+            <unitdate>1860-1869</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>Correspondence of Henry Barnard, including letters in French and
+                            German).</unittitle>
+            <physdesc>
+              <extent>(20 items) </extent>
+            </physdesc>
+            <unitdate>1870-1879</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>Letters and, supporting documents, to Henry Barnard. </unittitle>
+            <unittitle>Letter to Mr. Smith. </unittitle>
+            <physdesc>
+              <extent> (11items) </extent>
+            </physdesc>
+            <unitdate>1880-1890</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14</container>
+            <unittitle>Letters to Henry Barnard.</unittitle>
+            <physdesc>
+              <extent> (4 items) </extent>
+            </physdesc>
+            <unitdate>1890-1899</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">15</container>
+            <unittitle>Letters to Henry Barnard.</unittitle>
+            <unittitle>Envelope containing dried flower specimen from T. H.
+                            Seymour.</unittitle>
+            <physdesc>
+              <extent> (20 items) </extent>
+            </physdesc>
+            <unitdate>18--?</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">16</container>
+            <unittitle>Letter to T. Bland from George Tucker.</unittitle>
+            <physdesc>
+              <extent> (1 item) </extent>
+            </physdesc>
+            <unitdate>Williamsburg, September 21, 1781</unitdate>
+            <note>
+              <p>Letter found in Barnard Papers. Provenance unknown.</p>
+            </note>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>III. Broadsides</unitid>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17</container>
+            <unittitle>Facsimile of a broadside advertising a series of lectures at the
+                            Hartford Young Men's Institute</unittitle>
+            <physdesc>
+              <extent> (1 item) </extent>
+            </physdesc>
+            <unitdate>1838</unitdate>
+            <note>
+              <p>Original transferred to the Broadside Collection.</p>
+            </note>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

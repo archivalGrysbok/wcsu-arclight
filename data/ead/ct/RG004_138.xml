@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+
+
+<eadid mainagencycode="US-ct" url="http://www.ctstatelibrary.org/RG004_138.html" countrycode="us">RG004_138</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>RG 004:138, Stratford Probate Court</titleproper>
+		<subtitle>Inventory of Records</subtitle>
+		<author>Finding aid prepared by Connecticut State Library staff.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Connecticut State Library</publisher>
+	<date type="publication">February 22, 2013</date>
+
+	<address><addressline>231 Capitol Avenue</addressline><addressline>Hartford, Connecticut, 06106-1537</addressline></address>
+ <p>Copyright © <date>2013</date> by the Connecticut State Library</p>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Paul E. Baran on
+<date>February 22, 2013</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Connecticut State Library</corpname>
+		<address><addressline> </addressline><addressline> </addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Connecticut. Probate Court (Stratford District)</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Stratford Probate Court records</unittitle>
+
+	<unitdate label="Dates:" datechar="creation" encodinganalog="245$f" normal="1781/1898">1781-1898</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">20.75 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Record books, 1782-1840; Probate files, 1781-1898.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-ct">RG004_138</unitid>
+	<unitid label="Accession: ">1916-006, 2011-006</unitid>
+
+	<langmaterial>The records are in <language langcode="eng">English</language>.
+	</langmaterial>
+</did>
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="history" encodinganalog="545" id="a2">
+	<head>Historical Note</head>
+	<p>Stratford, Fairfield County, Town settled in 1639
+</p>
+<p>
+Stratford Probate District was constituted May 1782, from the Fairfield Probate District. It also served the following municipalities at various times: Bridgeport, May 1821 - June 3, 1840; 
+Monroe, May 1823 - June 1840; Shelton, January 1789 - June 1840; Trumbull, October 1797 - June 1840. The records of the Stratford District from May 1782 to June 4, 1840, are found in the Bridgeport Probate District. The Stratford Probate District serves the municipality of Stratford.
+</p>
+<p>
+Town of Stratford, Probate District chronology:
+</p>
+<p>
+1639 - 1665, New Haven Colony Jurisdiction<lb/>
+1639 - May 1666, Hartford Particular Court Jurisdiction<lb/>
+1649 - May 1666, Fairfield Particular Court Jurisdiction<lb/>
+May 1666 - May 1782, Fairfield County Court &amp; District<lb/>
+May 1782 - Present, Stratford District
+</p>
+
+<p>For Probate Court contact information and hours of operation see, <extptr linktype="simple" href="http://www.ctprobate.gov/Pages/Directory.aspx" show="replace" actuate="onrequest" title="Probate Court Directory"/>.</p> 
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>Probate record books, volumes 1-10, 1782-1840. There is a separate index volume. Contact the probate court to access original record books after volume 10. See Alternative Form Available note below.</p>
+	<p>Probate files, 1781-1898. Probate files may consist of estates, conservatorships, guardianships, commitments, and insolvencies. See Alternative Form Available note below.</p>
+	<p>Inventory control book, 1781-1898 (coverage). Also known as the Godard Digest, it is a list of probate files transferred to the Connecticut State Library. It was compiled at the Connecticut State Library under the direction of State Librarian George S. Godard.</p>
+</scopecontent> 
+
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>Record books in accessions 2011-006 are numnbered 1 to 10. There are two volumes each for numbers 6, 7, 8, and 9, with one volume being for Records and the other for Journal. The index volume in unnumbered.</p>
+	<p>Probate files in accession 1916-006 are arranged alphabetically.</p>
+</arrangement>
+
+<otherfindaid encodinganalog="555" id="a8">
+	<head>Other Finding Aid</head>
+	<p>Probate Files: The Probate Estate Papers Index, located in the index corridor adjacent to the History and Genealogy Reading Room, has two parts, a general index covering most of the state, and a Hartford Probate District index covering Hartford and some surrounding towns, 1820-1920. The index cards are arranged alphabetically by individual's last name and first names. The cards have the individual's name, town of residence, probate district, and list of items contained in the estate packet. To request retrieval of an estate packet, copy at least the estate name, file date, and probate district name from the index card.
+The probate files in Accession 1916-006 are represented in this index.
+</p>
+</otherfindaid>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+
+	<controlaccess>
+		<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Bridgeport</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Monroe</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Shelton</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Stratford</subject>
+			<subject encodinganalog="650" source="lcsh">Probate records -- Connecticut -- Trumbull</subject>
+	</controlaccess>
+
+	<controlaccess>
+		<head>Places:</head>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Bridgeport (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Monroe (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Shelton (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Stratford (Conn.)</geogname>
+			<geogname encodinganalog="651" role="subject" source="lcsh">Trumbull (Conn.)</geogname>
+	</controlaccess>
+	
+</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+
+	<p>Researchers should first consult use copies when available. See Alternate Form Available Section below.</p>
+
+	<p>Accession 2011-006, Record books, 1782-1840, is stored at an off-site facility and therefore may not be available on a same-day basis.</p>
+
+	<p>Probate files dated 1921 or later are RESTRICTED pending review by State Archives staff as they may contain confidential documents. Tax returns (succession, transfer and estate tax returns and all attachments) from January 1, 1921 and later are confidential per Connecticut General Statutes §12-15. Adoptions (all documents) from January 1, 1944 and later are confidential per Connecticut General Statutes §45a-754. Removals of parent as guardian of minor (all documents) and terminations of parental rights (all documents) from October 1, 1975 and later are confidential per Connecticut General Statutes §45a-754. Contact State Archives staff for assistance. 
+Adoptions (all documents) from January 1, 1944 and later are confidential per Connecticut General Statutes §45a-754. Contact State Archives staff for assistance.</p>
+
+<p>See the <extptr linktype="simple" href="http://libguides.ctstatelibrary.org/hg/using-archival-records" show="replace" actuate="onrequest" title="Rules and Procedures for Researchers Using Archival Records and Secured Collections"/> policy. 
+</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+
+<p>See the <extptr linktype="simple" href="https://ctstatelibrary.org/reproduction-publication/" show="replace" actuate="onrequest" title=" Reproduction and Publications of State Library Collections"/> policy. 
+</p>
+</userestrict>
+
+
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Record books, volumes 1-12, 1782-1851; volumes 1-5, 9, 10, 13, 14, 17, 18, 20, 21, 1840-1917; probate files, 1766-1880 (Accession 1916-006); and inventory control book (Godard Digest) were microfilmed by the Genealogical Society of Utah and are available for use in the History and Genealogy reading room or through the <extptr linktype="simple" href="http://www.cslib.org/ldsmicro.htm" show="replace" actuate="onrequest" title="LDS Family History Centers"/>.</p>
+</altformavail>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Provenance</head>
+<p>The probate files in accession 1916-006 were transferred to the Connecticut State Library on the following dates (with date span of files): May 22, 1916 (1781-1898); June 17, 1932 (1782-1859); March 29, 1933 (1782-1859).
+They were interfiled into one alphbetic sequence.</p>
+<p>The record books in accession 2011-006 were transferred to the Connecticut State Library on July 26, 2010.</p>
+</acqinfo>
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Container List</head>
+
+
+<c01 level="series">
+ <did>
+	<unittitle>Record books</unittitle>
+	<unitdate datechar="creation" normal="1782/1840">1782-1840</unitdate>
+	<physdesc><extent>7.5 cubic feet (14 volumes)</extent></physdesc>
+	<unitid label="Accession: ">2011-006</unitid>
+ </did>	
+ <thead>
+ <row>
+ <entry></entry>
+ <entry>Volume</entry>
+ </row>
+ </thead>	
+<c02 level="item">
+ <did>
+	<container type="Volume">1</container>
+	<unittitle>Records and journal</unittitle>
+	<unitdate datechar="creation">1782-1788</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">2</container>
+	<unittitle>Records and journal</unittitle>
+	<unitdate datechar="creation">1788-1795</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">3</container>
+	<unittitle>Records and journal</unittitle>
+	<unitdate datechar="creation">1795-1801</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">4</container>
+	<unittitle>Records and journal</unittitle>
+	<unitdate datechar="creation">1801-1805</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">5</container>
+	<unittitle>Records and journal</unittitle>
+	<unitdate datechar="creation">1805-1813</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1813-1820</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">6</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1811-1826</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">7</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1820-1829</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">7</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1826-1831</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">8</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1829-1834</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">8</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1831-1836</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">9</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1834-1836</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">9</container>
+	<unittitle>Journal</unittitle>
+	<unitdate datechar="creation">1836-1840</unitdate>
+	<physdesc><physfacet>photostat</physfacet></physdesc>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">10</container>
+	<unittitle>Records</unittitle>
+	<unitdate datechar="creation">1836-1840</unitdate>
+ </did>	
+</c02>
+<c02 level="item">
+ <did>
+	<container type="Volume">unnumbered</container>
+	<unittitle>Index</unittitle>
+	<unitdate datechar="coverage">1782-1840</unitdate>
+ </did>	
+	<scopecontent><p>This index also covers the Easton-Weston Probate District, volumes 1-4, 1832-1878</p></scopecontent>
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Probate files</unittitle>
+	<unitdate normal="1781/1898">1781-1898</unitdate>
+	<physdesc><extent>13.25 cubic feet</extent></physdesc>
+	<unitid label="Accession: ">1916-006</unitid>
+ </did>
+ <thead>
+ <row>
+ <entry>Drawer</entry>
+ <entry></entry>
+ </row>
+ </thead>	
+<c02 level="file">
+ <did>
+	<container type="Drawer">1</container>
+	<unittitle>Adams - Beach, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">2</container>
+	<unittitle>Beach E. - Beardsley, C.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">3</container>
+	<unittitle>Beardsley, D. - Beardsley, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">4</container>
+	<unittitle>Beardsley, S. - Bennett</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">5</container>
+	<unittitle>Betts - Blackman</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">6</container>
+	<unittitle>Blagge - Brinsmade, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">7</container>
+	<unittitle>Brinsmade, E. - Burr</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">8</container>
+	<unittitle>Burritt - Burton</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">9</container>
+	<unittitle>Butler - Crofoot</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">10</container>
+	<unittitle>Crosby - Curtis, Henry</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">11</container>
+	<unittitle>Curtis, Hepsey - Curtis, S.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">12</container>
+	<unittitle>Curtis, T. - Edwards, A.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">13</container>
+	<unittitle>Edwards, B. - Fairchild, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">14</container>
+	<unittitle>Fairchild, E. - French, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">15</container>
+	<unittitle>French, N. - Hale</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">16</container>
+	<unittitle>Hall - Hawley, Emmeline</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">17</container>
+	<unittitle>Hawley, Ephraim - Hayt, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">18</container>
+	<unittitle>Hayt, H. - Hubbell, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">19</container>
+	<unittitle>Hubbell, I. - Hurd, Ebenezer</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">20</container>
+	<unittitle>Hurd, Electa - Judson, C.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">21</container>
+	<unittitle>Judson, D. - Lake</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">22</container>
+	<unittitle>Lamson - Lewis, G.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">23</container>
+	<unittitle>Lewis, H. - MacEwen, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">24</container>
+	<unittitle>MacEwen, E. - Mansfield</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">25</container>
+	<unittitle>Marks - Nails</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">26</container>
+	<unittitle>Newton - Nichols</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">27</container>
+	<unittitle>Northrop - Peck, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">28</container>
+	<unittitle>Peck, K. - Plumb, H.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">29</container>
+	<unittitle>Plumb, I. - Seeley, M.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">30</container>
+	<unittitle>Seeley, N. - Shelton, K.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">31</container>
+	<unittitle>Shelton, L. - Sherman</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">32</container>
+	<unittitle>Sherwood - Staples</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">33</container>
+	<unittitle>Sterling - Summers, R.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">34</container>
+	<unittitle>Summers, S. - Tomlinson, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">35</container>
+	<unittitle>Tomlinson, E. - Ufford, D.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">36</container>
+	<unittitle>Ufford, E. - Walker, J.</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">37</container>
+	<unittitle>Walker, K. - Wells</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">38</container>
+	<unittitle>West - Wheeler, John</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">39</container>
+	<unittitle>Wheeler, Joseph - Wilcoxson</unittitle>
+ </did>	
+</c02>
+<c02 level="file">
+ <did>
+	<container type="Drawer">40</container>
+	<unittitle>Williams - Z.; Miscellaneous</unittitle>
+ </did>	
+</c02>
+</c01>
+
+<c01 level="series">
+ <did>
+	<unittitle>Inventory Control Book</unittitle>
+	<unitdate datechar="coverage">1781-1898</unitdate>
+	<unitid label="Accession: ">T003073</unitid>
+ </did>	
+	<note><p>Index of the three accessions of probate files merged into accession 1916-006</p></note> 
+	<note><p>Also known as the Godard Digest</p></note>
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

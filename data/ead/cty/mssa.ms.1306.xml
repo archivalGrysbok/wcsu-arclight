@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.1306">mssa.ms.1306</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Albert Godfrey Conrad Papers
+ </titleproper>
+            <titleproper type="filing">Conrad (Albert Godfrey) Papers</titleproper>
+            <author>compiled by Staff of Manuscripts and Archives</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>October 1984</date>
+            <num>MS 1306</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Thursday January 10, 2019 at 10:44</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules/>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Albert Godfrey Conrad papers</unittitle>
+         <unitid>MS 1306</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.25</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(6 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1916/1993">1916-1993</unitdate>
+         
+         <abstract id="aspace_77cfc1b1ed2a07e9126d7f87d4db278a">The papers consist of office files from the first quarter-century of Albert G. Conrad's career as an instructor of electrical engineering at Yale and an autobiographical memoir. Materials include correspondence, writings, printed matter, photographs, and memorabilia, the latter including drawings, blueprints, charts, and a record of a speech by Conrad. The collection is especially rich in materials concerning life at Yale during World War II. The bulk of the papers concerns the Department of Electrical Engineering at Yale, during the chairmanships of Charles F. Scott (1920-1933), Robert E. Doherty (1933-1938), and Samuel W. Dudley (Acting Chairman, 1938-1943), and the beginning of Conrad's tenure as chairman. These papers document the department's administrative and financial affairs, and the research and testing conducted at Dunham Laboratory.</abstract>
+         <origination label="creator">
+            <persname rules="aacr" source="local">
+               Conrad, Albert Godfrey, 1902-
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_2c7e79d89292a4c0378bdaea180079f6">
+         <head>Immediate Source of Acquisition</head>
+         <p>Accession 1995-M-030 is the gift of W. Jack Cunningham, 1994. Transfer from Engineering and Applied Science Library, 2008.</p>  
+      </acqinfo>
+      <accessrestrict id="aspace_9bdeac1dd8540c81a13b6617408852a5">
+         <head>Conditions Governing Access</head>
+         <p>Student evaluations and grades in box 5 are restricted until January 1, 2018 as established by <ref xlink:actuate="onRequest"
+                 xlink:href="http://web.library.yale.edu/mssa/collections/research-use-of-yale-university-archives"
+                 xlink:show="new">Yale Corporation regulations.</ref>
+         </p>  
+      </accessrestrict>
+      <prefercite id="aspace_10eae878684db420987d9d270193f5ab">
+         <head>Preferred Citation</head>
+         <p>Albert Godfrey Conrad Papers (MS 1306). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <bioghist id="aspace_a74105b37ebcb516df937a350c41f574">
+         <head>Biographical / Historical</head>
+         <p>Albert Godfrey Conrad was born on May 19, 1902, in Norwalk, Ohio. He received a B.A. degree from Ohio State University for electrical engineering in 1925 and a M.S. degree in 1927. He was an instructor of electrical engineering at Yale University from 1928-1931, an assistant professor from 1931-1940, an associate professor from 1940-1944, and a professor from 1944-1962. Conrad was dean of the College of Engineering, University of California at Santa Barbara, from 1962-1970, and emeritus dean from 1970-. Conrad died on September 13, 1990, in Santa Barbara, California.</p>  
+      </bioghist>
+      <bioghist id="aspace_2b281f422d5552d13f1a4c98cb7e07e6">
+         <head>Chronology</head>
+         <chronlist>
+            <chronitem>
+               <date>1902</date>
+               
+                  <event>Born in Norwalk, Ohio, the son of Godfrey and Margaret (Moroney) Conrad</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1921-1922</date>
+               
+                  <event>Principal, Gratis High School, Ohio</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1922-1924</date>
+               
+                  <event>Instructor, Wheelersburg High School, Ohio</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1925</date>
+               
+                  <event>Received Bachelor of Electrical Engineering degree, Ohio State University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1927</date>
+               
+                  <event>Received M.S. degree, Ohio State Univeristy</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1927-1928</date>
+               
+                  <event>Worked for General Electric Company, Schenectady, N.Y.</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1928-1931</date>
+               
+                  <event>Instructor, electrical engineering, Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1931</date>
+               
+                  <event>Received E.E. degree, Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1931</date>
+               
+                  <event>Married Marion Finch</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1931-1940</date>
+               
+                  <event>Assistant professor, electrical engineering, Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1938-1962</date>
+               
+                  <event>Fellow of Timothy Dwight College, Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1940-1944</date>
+               
+                  <event>Associate professor</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1943-1962</date>
+               
+                  <event>Chairman, Department of Electrical Engineering, Yale University</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1944-1962</date>
+               
+                  <event>Professor</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1954</date>
+               
+                  <event>Co-author, <title render="italic">
+                        Alternating Current Machines
+                     </title>
+                  </event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1960</date>
+               
+                  <event>Consulting editor, <title render="italic">
+                        Encyclopedia of Science and Technology
+                     </title>
+                  </event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1962-1970</date>
+               
+                  <event>Dean, College of Engineering, University of California at Santa Barbara</event>
+               
+            </chronitem>
+            <chronitem>
+               <date>1970-</date>
+               
+                  <event>Dean emeritus</event>
+               
+            </chronitem>
+         </chronlist>
+      </bioghist>
+      <scopecontent id="aspace_bd4bae18588f318d8ec5908766e83ed5">
+         <head>Scope and Contents</head>
+         <p>The Albert G. Conrad Papers consist of office files from the first quarter-century of his career as an instructor of electrical engineering at Yale. The papers have been arranged in a single alphabetical sequence; materials include correspondence, writings, printed matter, photographs and memorabilia, the latter including drawings, blueprints, charts, and a record of a speech by Conrad.</p>
+         <p>The bulk of the papers concerns the Department of Electrical Engineering at Yale, during the chairmanships of Charles F. Scott (1920-1933), Robert E. Doherty (1933-1938), and Samuel W. Dudley (Acting Chairman, 1938-1943), and the beginning of Conrad's tenure as chairman. These papers document the department's administrative and financial affairs, and the research and testing conducted at Dunham Laboratory. Much of Conrad's own research concerned electro-physiology, and particularly a treatment for athlete's foot involving electrolysis. There are also course materials, including early materials of some of Conrad's older colleagues at Yale, among them Charles F. Scott, Russell G. Warner and Archer E. Knowlton. One folder of material (in box 5), concerning student evaluations and grades, is restricted until 2018.</p>
+         <p>The collection is especially rich in materials concerning life at Yale during World War II. Conrad was chief of the Timothy Dwight Fire Fighting Squad, and saved a number of materials concerning this group and general air raid drills and defense measures at Yale, including printed matter produced by the New Haven Defense Council. The collection also contains papers concerning courses taught as part of the Engineering Defense Training Program, printed matter concerning student preparation for war service, and papers documenting Conrad's efforts to obtain surplus equipment for Dunham Laboratory after the war.</p>
+         <p>Other materials in the collection concern electrical engineering professional organizations, the manufacture of Timothy Dwight College paperweights and other artifacts, and the estate of Charles F. Scott. The provenance of the papers is unknown.</p>
+         <p>For further papers concerning Conrad and the Department of Electrical Engineering during this period, readers should consult the School of Engineering Records, YRG 23, especially Series II, and the Charles Felton Scott Papers, MS #779.</p>  
+      </scopecontent>
+      <userestrict id="aspace_b36c0f57f86597329945871b57ab12e0">
+         <head>Conditions Governing Use</head>
+         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041666"
+                  source="lcsh">
+            Electrical engineering
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85043176"
+                  source="lcsh">
+            Engineering
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010118158"
+                  source="lcsh">
+            World War, 1939-1945 -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041161"
+                  source="lcsh">
+            Educators
+         </subject>
+         <occupation source="local">
+            Engineers
+         </occupation>
+         <persname rules="aacr" source="local">
+            Conrad, Albert Godfrey, 1902-
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Faculty
+         </corpname>
+         <corpname source="local">
+            Yale University. Dept. of Electrical Engineering
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>Inventory</unittitle>
+               <unitdate type="inclusive">1916-1954</unitdate>
+               <physdesc id="aspace_1c0d62027c335106f8889e2e35166cb3">2 linear feet (5 boxes)</physdesc>
+            </did>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>Army Air Forces</unittitle>
+                  <unitdate type="inclusive">1946-1947</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_1d937daaeb472c76f7b1d8947466b6d8"
+                             type="box">1</container>
+                  <container id="aspace_daa89cc16929be83082f65ebbf3b5590"
+                             type="folder"
+                             parent="aspace_1d937daaeb472c76f7b1d8947466b6d8">1</container>
+               </did>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Correspondence, general</unittitle>
+                  <unitdate type="inclusive">1936, 1940-1942</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_7d53173a0b4c062a39b696fc066ac6ad"
+                             type="box">1</container>
+                  <container id="aspace_01968844903d3d29a17f8076505c0b83"
+                             type="folder"
+                             parent="aspace_7d53173a0b4c062a39b696fc066ac6ad">2</container>
+               </did>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>Correspondence and papers re:</unittitle>
+               </did>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Consulting work and testing</unittitle>
+                     <unitdate type="inclusive">1929-1934, 1939-1943</unitdate>
+                     <container label="Mixed Materials (39002042348137)"
+                                altrender="archive legal"
+                                id="aspace_b15b6b2683a76e0298e6b224858dd294"
+                                type="box">1</container>
+                     <container id="aspace_e7bf3007f29d1d5ffaf528f2db6cb88e"
+                                type="folder"
+                                parent="aspace_b15b6b2683a76e0298e6b224858dd294">3-5</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Research</unittitle>
+                     <unitdate type="inclusive">1938-1941, undated</unitdate>
+                     <container label="Mixed Materials (39002042348137)"
+                                altrender="archive legal"
+                                id="aspace_15610bb2317c42169b53470849d74f6e"
+                                type="box">1</container>
+                     <container id="aspace_b9b61ce124eb65443d0c60eff906fe4a"
+                                type="folder"
+                                parent="aspace_15610bb2317c42169b53470849d74f6e">6</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref19" level="file">
+               <did>
+                  <unittitle>Printed matter, micellaneous</unittitle>
+                  <unitdate type="inclusive">1935-1949, undated</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_476fe0192a19c8014ebc6521b377d979"
+                             type="box">1</container>
+                  <container id="aspace_b00eb0abc26deabc07c1a3f4f5ef2112"
+                             type="folder"
+                             parent="aspace_476fe0192a19c8014ebc6521b377d979">7</container>
+               </did>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Scott, Charles Felton, Estate of</unittitle>
+                  <unitdate type="inclusive">1944-1945</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_0eb51f9e479878ff29b963e7a89793e8"
+                             type="box">1</container>
+                  <container id="aspace_cd0a3dd925d4a7abaee2f128ae4935dd"
+                             type="folder"
+                             parent="aspace_0eb51f9e479878ff29b963e7a89793e8">8</container>
+               </did>
+            </c>
+            <c id="ref21" level="file">
+               <did>
+                  <unittitle>Society for the Promotion of Engineering Education</unittitle>
+                  <unitdate type="inclusive">1938-1944, undated</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_375faa13b82b9a916215370255277e40"
+                             type="box">1</container>
+                  <container id="aspace_b67d313c00b618897947720b7f310d78"
+                             type="folder"
+                             parent="aspace_375faa13b82b9a916215370255277e40">9-10</container>
+               </did>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>War Assets Administration</unittitle>
+                  <unitdate type="inclusive">1946-1947</unitdate>
+                  <container label="Mixed Materials (39002042348137)"
+                             altrender="archive legal"
+                             id="aspace_25fe3be753be21ed853f4fc7a7a35047"
+                             type="box">1</container>
+                  <container id="aspace_12df26f0fbffb36d8f6084ccc5677173"
+                             type="folder"
+                             parent="aspace_25fe3be753be21ed853f4fc7a7a35047">11</container>
+               </did>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Yale Branch, American Institute of Electrical Engineers: exhibitions</unittitle>
+                  <unitdate type="inclusive">1936-1938</unitdate>
+                  <container label="Mixed Materials (39002042348145)"
+                             altrender="archive legal"
+                             id="aspace_cc38c174f34375026b6cd209fe40c313"
+                             type="box">2</container>
+                  <container id="aspace_be52095386fe90d8e2876a33a065dcfc"
+                             type="folder"
+                             parent="aspace_cc38c174f34375026b6cd209fe40c313">12</container>
+               </did>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>Yale University</unittitle>
+               </did>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>General, and student war service</unittitle>
+                     <unitdate type="inclusive">1936-1942, undated</unitdate>
+                     <container label="Mixed Materials (39002042348145)"
+                                altrender="archive legal"
+                                id="aspace_f60ece08282d36cd61710323b237aa02"
+                                type="box">2</container>
+                     <container id="aspace_3da7ae6bfc597a7e6579293b046dfb33"
+                                type="folder"
+                                parent="aspace_f60ece08282d36cd61710323b237aa02">13</container>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Commencements</unittitle>
+                     <unitdate type="inclusive">1936-1942, undated</unitdate>
+                     <container label="Mixed Materials (39002042348145)"
+                                altrender="archive legal"
+                                id="aspace_7442b03987441cb17236854f73284acd"
+                                type="box">2</container>
+                     <container id="aspace_f4efcab3032397bb98c3f9c88d2a8e22"
+                                type="folder"
+                                parent="aspace_7442b03987441cb17236854f73284acd">14</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Department of Electrical Engineering</unittitle>
+                  </did>
+                  <c id="ref28" level="file">
+                     <did>
+                        <unittitle>General</unittitle>
+                        <unitdate type="inclusive">1932-1943, undated</unitdate>
+                        <container label="Mixed Materials (39002042348145)"
+                                   altrender="archive legal"
+                                   id="aspace_e8c1b1a22a29d1c84b00c7502ac33e05"
+                                   type="box">2</container>
+                        <container id="aspace_b50ad976678d3c7b63e215bd40e8068a"
+                                   type="folder"
+                                   parent="aspace_e8c1b1a22a29d1c84b00c7502ac33e05">15</container>
+                     </did>
+                  </c>
+                  <c id="ref29" level="file">
+                     <did>
+                        <unittitle>Annual Reports</unittitle>
+                        <unitdate type="inclusive">1931-1942</unitdate>
+                        <container label="Mixed Materials (39002042348145)"
+                                   altrender="archive legal"
+                                   id="aspace_79d2c7535b54a95abfc12c935acc0a04"
+                                   type="box">2</container>
+                        <container id="aspace_98962b3347b76641a2a45da217283667"
+                                   type="folder"
+                                   parent="aspace_79d2c7535b54a95abfc12c935acc0a04">16</container>
+                     </did>
+                  </c>
+                  <c id="ref30" level="file">
+                     <did>
+                        <unittitle>Budgets, accounts</unittitle>
+                        <unitdate type="inclusive">1936-1944, undated</unitdate>
+                        <container label="Mixed Materials (39002042348145)"
+                                   altrender="archive legal"
+                                   id="aspace_0131d8e7015b45345d8fe053087b5f27"
+                                   type="box">2</container>
+                        <container id="aspace_ea1a5cc762e193b3aea92973baea3ee4"
+                                   type="folder"
+                                   parent="aspace_0131d8e7015b45345d8fe053087b5f27">17</container>
+                     </did>
+                  </c>
+                  <c id="ref31" level="file">
+                     <did>
+                        <unittitle>Course materials</unittitle>
+                     </did>
+                     <c id="ref32" level="file">
+                        <did>
+                           <unittitle>Engineering 10: introduction to engineering</unittitle>
+                           <unitdate type="inclusive">1934-1942, undated</unitdate>
+                           <container label="Mixed Materials (39002042348145)"
+                                      altrender="archive legal"
+                                      id="aspace_c1f57e18b763368cc82624d43058340b"
+                                      type="box">2</container>
+                           <container id="aspace_893c298de02e2b8b4334782d8f96f02d"
+                                      type="folder"
+                                      parent="aspace_c1f57e18b763368cc82624d43058340b">18</container>
+                        </did>
+                     </c>
+                     <c id="ref33" level="file">
+                        <did>
+                           <unittitle>E.E. 21: electrical engineering for non-majors</unittitle>
+                           <unitdate type="inclusive">1916-(1925-1942)</unitdate>
+                           <container label="Mixed Materials (39002042348145)"
+                                      altrender="archive legal"
+                                      id="aspace_9bd5db04f4043d2cfb78ca25d04df5ed"
+                                      type="box">2</container>
+                           <container id="aspace_9be230806a3f002a9ae887cf8c2e254d"
+                                      type="folder"
+                                      parent="aspace_9bd5db04f4043d2cfb78ca25d04df5ed">19-20</container>
+                        </did>
+                     </c>
+                     <c id="ref34" level="file">
+                        <did>
+                           <unittitle>E.E. 21: electrical engineering for non-majors</unittitle>
+                           <unitdate type="inclusive">1916-(1925-1942)</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_5f3d755a298d8a1e2c8219e748ede540"
+                                      type="box">3</container>
+                           <container id="aspace_36fc64928c231be895868b659ad9ba34"
+                                      type="folder"
+                                      parent="aspace_5f3d755a298d8a1e2c8219e748ede540">21-23</container>
+                        </did>
+                     </c>
+                     <c id="ref35" level="file">
+                        <did>
+                           <unittitle>E.E. 22b: principles of radio communications</unittitle>
+                           <unitdate type="inclusive">1942, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_c437b1200c1044b8cc40ad4ddd9b2e47"
+                                      type="box">3</container>
+                           <container id="aspace_f96935809061fa86d9b943ebf362ff02"
+                                      type="folder"
+                                      parent="aspace_c437b1200c1044b8cc40ad4ddd9b2e47">24</container>
+                        </did>
+                     </c>
+                     <c id="ref36" level="file">
+                        <did>
+                           <unittitle>E.E. 39s: electrical engineering testing</unittitle>
+                           <unitdate type="inclusive">1929-1931, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_9859d24fa7cc85e9419e213d41fa5ae3"
+                                      type="box">3</container>
+                           <container id="aspace_3a66fd64213d25f89d7cbfe64eeed2c7"
+                                      type="folder"
+                                      parent="aspace_9859d24fa7cc85e9419e213d41fa5ae3">24</container>
+                        </did>
+                     </c>
+                     <c id="ref37" level="file">
+                        <did>
+                           <unittitle>E.E. 42: alternating current machinery</unittitle>
+                           <unitdate type="inclusive">1931, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_6d79312df98db3805af255350b1e309a"
+                                      type="box">3</container>
+                           <container id="aspace_76d9594be2086ffe2b677fa2bd05c90c"
+                                      type="folder"
+                                      parent="aspace_6d79312df98db3805af255350b1e309a">24</container>
+                        </did>
+                     </c>
+                     <c id="ref38" level="file">
+                        <did>
+                           <unittitle>E.E. 43a: alternating current machinery laboratory</unittitle>
+                           <unitdate type="inclusive">1931, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_3d764919c818ae7f59c0181dffae2a58"
+                                      type="box">3</container>
+                           <container id="aspace_7cdaa7e8e18a21ea73801006b9793009"
+                                      type="folder"
+                                      parent="aspace_3d764919c818ae7f59c0181dffae2a58">24</container>
+                        </did>
+                     </c>
+                     <c id="ref39" level="file">
+                        <did>
+                           <unittitle>E.E. 44: electrical engineering practice</unittitle>
+                           <unitdate type="inclusive">1927-1930, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_346821b3ecd0631237649acb917feecf"
+                                      type="box">3</container>
+                           <container id="aspace_e4b544cf59b1a0e11bd423473208e948"
+                                      type="folder"
+                                      parent="aspace_346821b3ecd0631237649acb917feecf">25</container>
+                        </did>
+                     </c>
+                     <c id="ref40" level="file">
+                        <did>
+                           <unittitle>Electrical metering</unittitle>
+                           <unitdate type="inclusive">1925-1926</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_3316c78dc76dce3b77d731c9ac726699"
+                                      type="box">3</container>
+                           <container id="aspace_a00fe0bc1cf49d57f02b4f9d7ddfff52"
+                                      type="folder"
+                                      parent="aspace_3316c78dc76dce3b77d731c9ac726699">26</container>
+                        </did>
+                     </c>
+                     <c id="ref41" level="file">
+                        <did>
+                           <unittitle>Elecrical metering, for Engineering Defense Training Program</unittitle>
+                           <unitdate type="inclusive">1941</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_c84a4b25fe0db84c59a682974beda36a"
+                                      type="box">3</container>
+                           <container id="aspace_5c87fc7532c1086766fa1bffd935e269"
+                                      type="folder"
+                                      parent="aspace_c84a4b25fe0db84c59a682974beda36a">27</container>
+                        </did>
+                     </c>
+                     <c id="ref42" level="file">
+                        <did>
+                           <unittitle>Inspection trips</unittitle>
+                           <unitdate type="inclusive">1937-1941</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_886b5bdfccf80648243fc244d7803324"
+                                      type="box">3</container>
+                           <container id="aspace_5c327b51b7071230a67f4ffafc016110"
+                                      type="folder"
+                                      parent="aspace_886b5bdfccf80648243fc244d7803324">28</container>
+                        </did>
+                     </c>
+                     <c id="ref43" level="file">
+                        <did>
+                           <unittitle>Miscellaneous</unittitle>
+                           <unitdate type="inclusive">1923-1935, undated</unitdate>
+                           <container label="Mixed Materials (39002042348152)"
+                                      altrender="archive legal"
+                                      id="aspace_68276acd0bacdc6c045bbcc7f2571f82"
+                                      type="box">3</container>
+                           <container id="aspace_11facdfba13c4f331dc6e8b1b353e336"
+                                      type="folder"
+                                      parent="aspace_68276acd0bacdc6c045bbcc7f2571f82">29</container>
+                        </did>
+                     </c>
+                  </c>
+                  <c id="ref44" level="file">
+                     <did>
+                        <unittitle>Course schedules, lists of students, etc.</unittitle>
+                        <unitdate type="inclusive">1926-1943</unitdate>
+                        <container label="Mixed Materials (39002042348152)"
+                                   altrender="archive legal"
+                                   id="aspace_cc7017d9a2acfccdf9d1b36fc0aa248e"
+                                   type="box">3</container>
+                        <container id="aspace_6de10b475aa691fa9a34bf22b9370412"
+                                   type="folder"
+                                   parent="aspace_cc7017d9a2acfccdf9d1b36fc0aa248e">30</container>
+                     </did>
+                  </c>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>Course schedules, lists of students, etc.</unittitle>
+                        <unitdate type="inclusive">1946-1947, undated</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_45643bed7216395f343410f92764c2b1"
+                                   type="box">4</container>
+                        <container id="aspace_6222538437ff016d2930fd758abc1482"
+                                   type="folder"
+                                   parent="aspace_45643bed7216395f343410f92764c2b1">31</container>
+                     </did>
+                  </c>
+                  <c id="ref46" level="file">
+                     <did>
+                        <unittitle>Lectures, writings, printed matter on electrical engineering and the registration of engineers</unittitle>
+                        <unitdate type="inclusive">1936-1938, 1941, 1950-51, undated</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_97e7125d7dc2ad2375972bba22432667"
+                                   type="box">4</container>
+                        <container id="aspace_8782b0a268b82958698957e0fa3fb9b9"
+                                   type="folder"
+                                   parent="aspace_97e7125d7dc2ad2375972bba22432667">32</container>
+                     </did>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>Minutes of departmental meetings</unittitle>
+                        <unitdate type="inclusive">1933-1942</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_c536b4c2c83de2de06e6a128c99af85e"
+                                   type="box">4</container>
+                        <container id="aspace_fc724d723088324f77c63e2ee4aba552"
+                                   type="folder"
+                                   parent="aspace_c536b4c2c83de2de06e6a128c99af85e">33</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Faculty of Arts and Sciences</unittitle>
+                     <unitdate type="inclusive">1939-1941, undated</unitdate>
+                     <container label="Mixed Materials (39002042348160)"
+                                altrender="archive legal"
+                                id="aspace_ffa44397d0e5752975abf681e20ee5b0"
+                                type="box">4</container>
+                     <container id="aspace_46d13e4948eb850dcb9b0dd0d13ff5cf"
+                                type="folder"
+                                parent="aspace_ffa44397d0e5752975abf681e20ee5b0">34</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>School of Engineering</unittitle>
+                  </did>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>Committees</unittitle>
+                        <unitdate type="inclusive">1933-1943, 1954, undated</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_918b5ebfc25e02912cdcae633fed3534"
+                                   type="box">4</container>
+                        <container id="aspace_2b8f3deed6470f82bda30d1e605f0d0d"
+                                   type="folder"
+                                   parent="aspace_918b5ebfc25e02912cdcae633fed3534">35</container>
+                     </did>
+                  </c>
+                  <c id="ref51" level="file">
+                     <did>
+                        <unittitle>Freshman Counselor</unittitle>
+                        <unitdate type="inclusive">1937-1940, undated</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_807e06951a66471549bd3c5f7974301e"
+                                   type="box">4</container>
+                        <container id="aspace_a3eae20f8289079ef61d1f1d7f79c5bb"
+                                   type="folder"
+                                   parent="aspace_807e06951a66471549bd3c5f7974301e">36</container>
+                     </did>
+                  </c>
+                  <c id="ref52" level="file">
+                     <did>
+                        <unittitle>Regulations, miscellaneous</unittitle>
+                        <unitdate type="inclusive">1931-1933, 1942, undated</unitdate>
+                        <container label="Mixed Materials (39002042348160)"
+                                   altrender="archive legal"
+                                   id="aspace_b3ee2d3926aa7e2cf9d75d64e95ac085"
+                                   type="box">4</container>
+                        <container id="aspace_d169aa1971b41a1a43455cdc02fb61bb"
+                                   type="folder"
+                                   parent="aspace_b3ee2d3926aa7e2cf9d75d64e95ac085">37</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Timothy Dwight College</unittitle>
+                     <unitdate type="inclusive">1937-1954, undated</unitdate>
+                     <container label="Mixed Materials (39002042348160)"
+                                altrender="archive legal"
+                                id="aspace_2a5dab4641c566795808f5b61b560c54"
+                                type="box">4</container>
+                     <container id="aspace_0a9af233b1780dceb23c74c70910faba"
+                                type="folder"
+                                parent="aspace_2a5dab4641c566795808f5b61b560c54">38-39</container>
+                  </did>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>Timothy Dwight Fire Fighting Squad</unittitle>
+                     <unitdate type="inclusive">1942-1943, undated</unitdate>
+                     <container label="Mixed Materials (39002042348160)"
+                                altrender="archive legal"
+                                id="aspace_c007e1a9c1aeb096c32ccfc821427815"
+                                type="box">4</container>
+                     <container id="aspace_ea8f40ba1f2fec27bbd6117d038730ee"
+                                type="folder"
+                                parent="aspace_c007e1a9c1aeb096c32ccfc821427815">40</container>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Student evaluations and grades</unittitle>
+                     <unitdate type="inclusive">1931, 1941-1943, undated</unitdate>
+                     <container label="Mixed Materials (39002042348178)"
+                                altrender="archive half legal"
+                                id="aspace_5d65bd5715b771a4d9f75889ca133a9f"
+                                type="box">5</container>
+                     <container id="aspace_9ea498b556d103386ba8be40e93bd7a9"
+                                type="folder"
+                                parent="aspace_5d65bd5715b771a4d9f75889ca133a9f">41</container>
+                  </did>
+                  <accessrestrict id="aspace_7d5b23b7608fa10174891d6bde5ac23c">
+                     <head>Conditions Governing Access</head>
+                     <p>Student evaluations and grades are restricted until January 1, 2018 as established by <ref xlink:actuate="onRequest"
+                             xlink:href="http://web.library.yale.edu/mssa/collections/research-use-of-yale-university-archives"
+                             xlink:show="new">Yale Corporation regulations.</ref>
+                     </p>
+                  </accessrestrict>
+               </c>
+            </c>
+         </c>
+         <c id="ref56" level="series">
+            <did>
+               <unittitle>Additional Material</unittitle>
+               <unitid>Accession 1995-M-030</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.25</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">Circa 1979-1993</unitdate>
+            </did>
+            <scopecontent id="aspace_37423f4d46ef3558197e641866cfd330">
+               <head>Scope and Contents</head>
+               <p>Received from: W. Jack Cunningham, 1994 Sep 2</p>
+            </scopecontent>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Memoir: "As It Was"</unittitle>
+                  <unitdate type="inclusive">Circa 1979</unitdate>
+                  <container label="Mixed Materials (39002042348186)"
+                             altrender="archive half letter"
+                             id="aspace_7049bfbfb0ff50030409a4136a3c9a60"
+                             type="box">1</container>
+                  <container id="aspace_5d88dd6f740159aadd8566f23bb0e2d5"
+                             type="folder"
+                             parent="aspace_7049bfbfb0ff50030409a4136a3c9a60">1</container>
+               </did>
+            </c>
+            <c id="ref60" level="item">
+               <did>
+                  <unittitle>Correspondence and additional biographical material</unittitle>
+                  <unitdate type="inclusive">1980-1993</unitdate>
+                  <container label="Mixed Materials (39002042348186)"
+                             altrender="archive half letter"
+                             id="aspace_a7d980d30c84ae6b73d78a9ef6d8202b"
+                             type="box">1</container>
+                  <container id="aspace_80f33e0a1f588b7aa26ff0f2117a7e52"
+                             type="folder"
+                             parent="aspace_a7d980d30c84ae6b73d78a9ef6d8202b">2</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

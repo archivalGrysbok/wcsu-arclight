@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/findaids/bellingham/MSS20100055.html"  mainagencycode="US-CtU" countrycode="US">MSS20100055</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Bruce Bellingham Papers</titleproper>
+		<subtitle>An Inventory</subtitle>
+		<author>Inventory prepared by Betsy Pittman.</author>
+
+</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2011  University of Connecticut</publisher>
+	<date type="publication">June 2011</date>
+
+	<address><addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline><addressline>University of Connecticut Libraries</addressline><addressline>405 Babbidge Road, Unit 1205</addressline><addressline>Storrs, Connecticut  06269-1205</addressline><addressline>URL http://doddcenter.uconn.edu</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Inventory encoded by Betsy Pittman in June 2011.</creation>
+<langusage><language>eng</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Bellingham, Bruce.</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Bruce Bellingham Papers.</unittitle>
+
+	<unitdate label="Dates:">undated, 1945-2003.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">9.1  linear feet.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The collection contains notes, class materials, photocopies, transparencies, research, scores, correspondence and publications pertaining to Professor Bellingham's scholarly research in the history of music.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-UCW">MSS20100055</unitid>
+
+	<langmaterial><language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biography</head>
+	<p><persname>Bruce Bellingham</persname> joined the faculty of the <corpname>Eastman School of Music</corpname> in 1968, and came to the <corpname>University of Connecticut</corpname> as a professor of music history in the School of Fine Arts in 1974. In addition to teaching in the Music Department, Bellingham also gave pre-concert talks at the Jorgensen Center for the Performing Arts at UConn, taught at the Center for Learning in Retirement and the Adult Learning Program in West Hartford. He retired in 2003.</p>
+<p>An active member of the <corpname>New Britain Symphony</corpname>, the <corpname>Amphibian Jazz Ensemble</corpname>, and the <corpname>Viola de Gamba Society</corpname>, Bellingham was chairman of the <corpname>Hop River Chamber Music</corpname> series. He was also a long-time patron of the <corpname>Jorgensen Center for the Performing Arts</corpname> and a founding member of its volunteer organization, Co-Stars, he extended his support through many programs, especially the Jorgensen Outreach for Youth (JOY!). With his wife, <persname>Deborah Walsh Bellingham</persname>, he received the Outstanding Volunteer Award in 2009. </p>
+
+<p><persname>Bruce Bellingham</persname>, professor emeritus of music, died suddenly of a heart attack on <date>January 3, 2010</date>, at the age of 71.</p>
+
+<p></p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection contains notes, photocopies, transparencies, research, scores, correspondence and publications pertaining to Professor Bellingham's scholarly research in the history of music.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p></p>
+<p><emph render="bold">Series I: Inventory</emph> (<date>undated, 1945-2003</date>) </p>
+</arrangement>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to the University, its history, administration, faculty, staff and students.  For detailed information on these collections please contact the <extref href=" http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial> 
+
+
+
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Bellingham, Bruce.</persname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Organizations:</head>
+			<corpname encodinganalog="710" source="local">University of Connecticut.</corpname>
+	
+		</controlaccess>
+		
+			<controlaccess>
+			<head>Places:</head>
+			<geogname encodinganalog="651" source="local">Storrs (Conn.)</geogname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local"></subject>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Notebooks.</genreform>
+<genreform encodinganalog="655" source="local">Publications.</genreform>
+<genreform encodinganalog="655" source="local">Photocopies.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+
+		</controlaccess>
+		
+		
+		</controlaccess>
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+
+
+
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#], <persname>Bruce Bellingham</persname> Papers.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The materials were donated in 2010 by <persname>Deborah Walsh Bellingham</persname>.</p>
+
+</acqinfo>
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>Series I: Inventory, </unittitle>
+	<unitdate>undated, 1945-2003</unitdate>
+    </did>	
+
+<c02 level="file">
+   <did>
+	<container type="Box">1</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>	<c03 level="file">
+       <did>
+    	<container type="Box"></container>
+    	<container type="Folder"></container>
+    	<unittitle>Beethoven 5th, Bellingham's notes on Beethoven, </unittitle>
+    	<unitdate>undated</unitdate>
+        </did>	
+    </c03>
+   <c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>194 Class materials, revised, </unittitle>
+   	<unitdate>1980 Spring</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>194 Class materials, </unittitle>
+   	<unitdate>1984 Spring</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>193 Class materials, Master, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>20th century, Stravinsky materials, </unittitle>
+   	<unitdate>undated, 1970-1983</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Medieval motet, Paintings, Cathedral handouts, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Dufay: Supremum est mortalibus, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Dufay: Motet "Nuper Rosarum flores," </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Iconography lecture script (long), </unittitle>
+   	<unitdate>1971, 1973</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Viol Consort, </unittitle>
+   	<unitdate>1980</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle><persname>Ruth Markowitz</persname> thesis, </unittitle>
+   	<unitdate>1961</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Monteverdi "Dixit Dominus" from Vespers,  </unittitle><physdesc>[2 folders]</physdesc>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Gabrieli, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Symphony, </unittitle>
+   	<unitdate>undated, 1999</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Symphonic Poem 413, </unittitle>
+   	<unitdate>1982 Spring</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>D. Cooke, Wagner's Ring-Transparencies, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>193 Baroque, 1st outline, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>193 Medieval/Renaissance lecture notes, </unittitle>
+   	<unitdate>undated</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Syntagma musicum transparencies, </unittitle>
+   	<unitdate>1991, 1997</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Reviews and articles (photocopies), </unittitle>
+   	<unitdate>undated, 1945-1970</unitdate>
+       </did>	
+   </c03>
+<c03 level="file">
+      <did>
+   	<container type="Box"></container>
+   	<container type="Folder"></container>
+   	<unittitle>Beethoven, Violin Concerto, </unittitle>
+   	<unitdate>undated, 1958-1962</unitdate>
+       </did>	
+   </c03>
+    
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>String Literature, </unittitle>
+	<unitdate>1970 Spring</unitdate>
+    </did>	
+</c03>
+	<c03 level="file">
+	   <did>
+		<container type="Box"></container>
+		<container type="Folder"></container>
+		<unittitle>Chamber Music 215 materials and master copy, Classical on, </unittitle>
+		<unitdate>1978 Spring</unitdate>
+	    </did>	
+	</c03>
+	<c03 level="file">
+	   <did>
+		<container type="Box"></container>
+		<container type="Folder"></container>
+		<unittitle>Research notes, bibliography (card files), </unittitle>
+		<unitdate>undated</unitdate>
+	    </did>	
+	</c03>
+	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Research notes, bibliography (card files), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">4</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><corpname>Storrs Collegium Musicum</corpname>, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><persname>Josquin des Prez</persname>, Ave Maria, Rhetoric, transparencies and notes, </unittitle>
+	<unitdate>undated, 1993</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Italian Ricarari/Conzoni Bibliography, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Josquin Festival, </unittitle>
+	<unitdate>1971</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><persname>Amati Gaspar da Salo</persname>, notes, transparencies, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Correspondence (recital attendance), </unittitle>
+	<unitdate>2002-2003</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Notes, transparencies, maps, </unittitle>
+	<unitdate>undated, 1997, 2001 </unitdate>
+    </did>	
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>287 Music History 1600-1700 </unittitle>
+	<unitdate></unitdate>
+    </did>	
+</c04>
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>413 Fantasia and Instrumental music, <geogname>Italy</geogname>/<geogname>England</geogname> 1590-1646 </unittitle>
+	<unitdate></unitdate>
+    </did>	
+</c04>
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>287 Music History, <geogname>Greece</geogname> - 1600 </unittitle>
+	<unitdate></unitdate>
+    </did>	
+</c04>
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>413 Renaissance Seminar to Monteverdi, </unittitle>
+	<unitdate>1997 Spring</unitdate>
+    </did>	
+</c04>
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>20th Century, general </unittitle>
+	<unitdate></unitdate>
+    </did>	
+</c04>
+
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">5</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle> Notes, transparencies, maps, </unittitle>
+	<unitdate>undated, 2001</unitdate>
+    </did>	
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Symphony Analyses, 18th century, 19th century Italian, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c04>
+<c04 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>411 Mahler, </unittitle>
+	<unitdate>2001 Spring</unitdate>
+    </did>	
+</c04>
+
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle><corpname>Viola de Gamba Society</corpname> materials, </unittitle>
+	<unitdate>1982-1984, 1989</unitdate>
+    </did>	
+</c03>
+
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">6-7</container>
+	<container type="Folder"></container>
+	<unittitle> </unittitle>
+	<unitdate></unitdate>
+    </did>	
+<c03 level="file">
+   <did>
+	<container type="Box"></container>
+	<container type="Folder"></container>
+	<unittitle>Notes, transparencies, research, scores and correspondence pertaining to his research on <persname>Alfonso Ferrabosco</persname>, </unittitle>
+	<unitdate>1959-1980s</unitdate>
+    </did>	
+</c03>
+
+</c02>
+
+
+
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

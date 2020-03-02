@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.fisheram">beinecke.fisheram</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Alexander Metcalf Fisher Papers </titleproper>
+            <titleproper type="filing">Fisher (Alexander Metcalf) papers</titleproper>
+            <author>By Ève Bourbeau-Allard</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>May 2018</date>
+            <num>GEN MSS 1473</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday January 22, 2019 at 05:59</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Alexander Metcalf Fisher Papers</unittitle>
+         <unitid>GEN MSS 1473</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">5.8</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(16 boxes) + 1 art</physdesc>
+         
+            <unitdate type="inclusive" normal="1803/1898">1803-1898</unitdate>
+         
+         
+            <unitdate type="bulk" normal="1809/1822">1809-1822</unitdate>
+         
+         <abstract id="aspace_5e4b4c32d61f6707372c8b1191237ec1">The Alexander Metcalf Fisher papers consist of correspondence, scientific and personal writings, school notes, eulogies, and other material by or about the Yale College student (Class of 1813) and Yale professor. Drafts and calculations for articles on mathematics, physics, astronomy, and other subjects published between 1817 and 1822, as well as scripts for forty lectures in natural philosophy, illustrate Fisher's academic career in the context of contemporary scientific learning. Documenting the social, economic, religious, and emotional life of a young man living in New England during the Early Republic are extensive correspondence written by Fisher to his parents from 1809-1821, and eight personal and travel diaries. Correspondents also include other relatives, the Fisher family's pastor Nathanael Emmons, and Yale affiliates. Also contained in the collection is a portrait of Fisher engraved on copper by Simeon Smith Jocelyn.</abstract>
+         <langmaterial id="aspace_183f18603f185090ee670f7c8c8a9c87">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n84804075"
+                      source="naf">
+               Fisher, Alexander Metcalf, 1794-1822
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85286232"
+                      rules="aacr"
+                      source="naf">
+               Jocelyn, Simeon Smith, 1799-1879
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_a877e4c50171ecaab44ce58e2b9d6ca1">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_1b489e839d3dc3384924a46112f166a9">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Willard J. Fisher, 1921.</p>  
+      </acqinfo>
+      <arrangement id="aspace_ba7e4246092b556107a36f4712862a0c">
+         <head>Arrangement</head>
+         <p>Organized into three series: I. Correspondence, 1809-1825. II. Writings, 1803-1822. III. Personal and Family Papers, 1813-1898.</p>  
+      </arrangement>
+      <bioghist id="aspace_3d0cce9522418a0617c8595e4279e297">
+         <head>Biographical / Historical</head>
+         <p>Alexander Metcalf Fisher was born in 1794 in Franklin, Massachusetts, to Caleb Fisher (1768-1862) and Sarah Cushing Fisher (1771-1835). Fisher studied at Yale College from 1809-1813, and at the Andover Theological Seminary in 1814, before returning to Yale in 1815 to serve as a tutor. He was later promoted to Adjunct Professor (1817) and Full Professor (1819) of Mathematics and Natural Philosophy. Before his premature death in the wreck of the ship Albion on 1822 April 22, Fisher was engaged to women's education advocate Catharine Esther Beecher (1800-1878).</p>  
+      </bioghist>
+      <prefercite id="aspace_3c1f0b004f09ee38bdd64af4c886ae1b">
+         <head>Preferred Citation</head>
+         <p>Alexander Metcalf Fisher Papers. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <processinfo id="aspace_dc8cfed92c94b43d906d131370f5f056">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected.  The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>These materials have been arranged and described according to national and local standards.  For more information, please refer to the Beinecke Manuscript Unit Processing Manual.</p>
+         <p>Former call numbers: MS Vault Fisher AM, MS Vault Section 5 Drawer 3, Z150.</p>
+         <p>The collection was first inventoried and verified in 1921-1922, and received partial arrangement and file description circa 1966 and 2015. Notes in typescript created circa 1966 were left in the folders with the material they describe. A collection file containing the original collection inventory can be found in Box 1.</p>
+         <p>
+Printed materials listed in the original inventory or legacy catalog records not found as of April 2018: <title>
+               Works of Virgil
+            </title> ("2 volumes bound together, London, 1794"), <title>
+               American Journal of Science and Arts
+            </title> (unspecified issues), and <title>
+               Catalogue of the members of the Connecticut Alpha of [the Phi Beta Kappa...]
+            </title> (1813). 
+</p>  
+      </processinfo>
+      <scopecontent id="aspace_7f5ca38fc477ffa3fe4b84ef00352010">
+         <head>Scope and Contents</head>
+         <p>The Alexander Metcalf Fisher papers consist of correspondence, scientific and personal writings, school notes, eulogies, and other material by or about the Yale College student (Class of 1813) and Yale professor. Drafts and calculations for articles on mathematics, physics, astronomy, and other subjects published between 1817 and 1822, as well as scripts for forty lectures in natural philosophy, illustrate Fisher's academic career in the context of contemporary scientific learning. Documenting the social, economic, religious, and emotional life of a young man living in New England during the Early Republic are extensive correspondence written by Fisher to his parents from 1809-1821, and eight personal and travel diaries. Correspondents also include other relatives, the Fisher family's pastor Nathanael Emmons, and Yale affiliates. Also contained in the collection is a portrait of Fisher engraved on copper by Simeon Smith Jocelyn.</p>  
+      </scopecontent>
+      <separatedmaterial id="aspace_934cfdc4d07686780f7ee3fb688f21ea">
+         <head>Separated Materials</head>
+         <p>Thirteen printed items received with the collection, consisting largely of sermons, religious pamphlets, eulogies, and scientific texts, were removed for separate cataloging in April 2018. In the library's online catalog, those items are identified by the local note "From the Alexander Metcalf Fisher Papers", and the subject heading "Fisher, Alexander Metcalf, 1794-1822 -- Ownership". They can be found in the catalog by searching the phrase "Fisher, Alexander Metcalf" in the Special Collections Subject field.</p>  
+      </separatedmaterial>
+      <userestrict id="aspace_9d1f9029ef93ee6b519cb4330fdcf0fd">
+         <head>Conditions Governing Use</head>
+         <p>The Alexander Metcalf Fisher Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <controlaccess>
+         <subject source="local">
+            College teachers -- Connecticut -- New Haven
+         </subject>
+         <subject source="local">
+            College teachers -- Religious life -- Connecticut -- New Haven
+         </subject>
+         <subject source="local">
+            College students -- Connecticut -- New Haven
+         </subject>
+         <subject source="local">
+            College students -- Massachusetts -- Andover
+         </subject>
+         <subject source="local">
+            Physics -- Study and teaching -- Connecticut -- New Haven
+         </subject>
+         <geogname source="local">
+            New Haven (Conn.) -- Social life and customs -- 19th century
+         </geogname>
+         <genreform source="local">
+            Commonplace books -- United States -- 19th century
+         </genreform>
+         <genreform source="local">
+            Copper engravings (visual works) -- United States -- 19th century
+         </genreform>
+         <genreform source="local">
+            Diaries -- United States -- 19th century
+         </genreform>
+         <genreform source="local">
+            Lectures -- Connecticut -- New Haven -- 19th century
+         </genreform>
+         <occupation source="local">
+            College teachers -- Connecticut -- New Haven -- 19th century
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50008135"
+                   rules="aacr"
+                   source="naf">
+            Beecher, Catharine Esther, 1800-1878
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50008136"
+                   rules="aacr"
+                   source="naf">
+            Beecher, Edward, 1803-1895
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85007266"
+                   source="naf">
+            Day, Jeremiah, 1773-1867
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85024773"
+                   rules="aacr"
+                   source="naf">
+            Emmons, Nathanael, 1745-1840
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84804075"
+                   source="naf">
+            Fisher, Alexander Metcalf, 1794-1822
+         </persname>
+         <persname rules="aacr" source="local">
+            Fisher, Caleb, 1768-1862
+         </persname>
+         <persname source="local">
+            Fisher, Sarah Cushing, 1771-1835
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no98076431"
+                   source="naf">
+            Fisher, Willard, 1796-1866
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n82069855"
+                   rules="aacr"
+                   source="naf">
+            Andover Theological Seminary -- Students
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n84089402"
+                   source="naf">
+            Yale College (1718-1887) -- Faculty
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n84089402"
+                   source="naf">
+            Yale College (1718-1887) -- Religion
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n84089402"
+                   source="naf">
+            Yale College (1718-1887) -- Students
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="aspace_59d85c5ceb20ae340a49c434339d4d1e" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               
+                  <unitdate type="inclusive" normal="1809/1825">1809-1825</unitdate>
+               
+            </did>
+            <scopecontent id="aspace_54676c7092e8d5e6b130e3094947ad02">
+               <head>Scope and Contents</head>
+               <p>Series I. comprises correspondence to and from Fisher, family members, friends, and Yale affiliates. The bulk of the correspondence consists of letters sent by Fisher to his parents Caleb and Sarah over a period of thirteen years. Other correspondents include Fisher's siblings Nancy and Willard; Congregational minister Nathanael Emmons (1745-1840); theologian Edward Beecher (1803-1895), brother to Fisher's fiancée; President of Yale College Jeremiah Day (1773-1867); and Yale College Professor James Luce Kingsley (1778-1852). Most of the third-party correspondence documents the aftermath of Fisher's loss at sea in April 1822.</p>
+            </scopecontent>
+            <arrangement id="aspace_e89805a3ea0fa22bd0c828193324d26f">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by sender.</p>
+            </arrangement>
+            <c id="aspace_1874d068f595af1db202a1e0383ad858" level="file">
+               <did>
+                  <unittitle>Beecher, Edward to Caleb Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1822">1822</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_fbe5b545fface01ba337fde1a6f9a94b"
+                             type="box">1</container>
+                  <container id="aspace_20be6952a12b41f65e116dcf8cfafd9d"
+                             type="folder"
+                             parent="aspace_fbe5b545fface01ba337fde1a6f9a94b">1</container>
+               </did>
+               <scopecontent id="aspace_90dd4a15d73f744d9478af4636d038f1">
+                  <head>Scope and Contents</head>
+                  <p>Two letters regarding the settlement of Alexander Metcalf Fisher's estate, particularly the sale of his books.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_732cb95afc78e2643a6a1a746e968053" level="file">
+               <did>
+                  <unittitle>Beecher, Edward to Willard Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1824/1825">1824-1825</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_7d2015c408b4723f02ea4bdbc6e2e6b7"
+                             type="box">1</container>
+                  <container id="aspace_03869e18ccc257839611acfdfb355c74"
+                             type="folder"
+                             parent="aspace_7d2015c408b4723f02ea4bdbc6e2e6b7">2</container>
+               </did>
+               <scopecontent id="aspace_1ae38ff14ab88a61da5dcfee2477a8d2">
+                  <head>Scope and Contents</head>
+                  <p>Three letters written during Beecher's studies in Andover discussing Willard Fisher's religious feelings, and personal and family news.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_1555c38f9b1f5e5af42922c497c19738" level="file">
+               <did>
+                  <unittitle>Day, Jeremiah to Nathanael Emmons</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1822-05-29">1822-05-29</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_e6b591747f61c1ed800ba26814ba1530"
+                             type="box">1</container>
+                  <container id="aspace_7421b5a17a4a2ad9fafb368c6f1811aa"
+                             type="folder"
+                             parent="aspace_e6b591747f61c1ed800ba26814ba1530">3</container>
+               </did>
+            </c>
+            <c id="aspace_f6ccd092a01b76538a7e99d2762dc99f" level="file">
+               <did>
+                  <unittitle>Day, Jeremiah to Caleb Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1822-06-11">1822-06-11</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_f7cf77975ef7f359d258b72e5de94c89"
+                             type="box">1</container>
+                  <container id="aspace_88224db20d7bac4c76fb196f97c503f6"
+                             type="folder"
+                             parent="aspace_f7cf77975ef7f359d258b72e5de94c89">4</container>
+               </did>
+            </c>
+            <c id="aspace_def797de5d47a4e0911dfe90be5cc18f" level="file">
+               <did>
+                  <unittitle>Emmons, Nathanael to Alexander Metcalf Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1811-01-02">1811-01-02</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_172dc94cd6b4d0b0ef1759c9385ba43b"
+                             type="box">1</container>
+                  <container id="aspace_2af972604cb1c045d26b1f8f04f61200"
+                             type="folder"
+                             parent="aspace_172dc94cd6b4d0b0ef1759c9385ba43b">5</container>
+               </did>
+               <scopecontent id="aspace_8dd2bd2eeec3e33414243c3a5ec63362">
+                  <head>Scope and Contents</head>
+                  <p>Letter of advice for Fisher's conduct at Yale.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_b2f6a97469e17eaeae7aaa05740ce0d6" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to Jeremiah Day</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1815-09-22">1815-09-22</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_bd5b408f918f210d895faea5effcca1d"
+                             type="box">1</container>
+                  <container id="aspace_de252f262cb2cc815551f6a227ba5fa7"
+                             type="folder"
+                             parent="aspace_bd5b408f918f210d895faea5effcca1d">6</container>
+               </did>
+            </c>
+            <c id="aspace_8775abcde26e76f370815e63824dad27" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to Caleb and Sarah Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1809/1821">1809-1821</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_bceb95e36b863be1a81668dd3f6e3f6e"
+                             type="box">1</container>
+                  <container id="aspace_cf3a5bdbc858072bbbb86b784326f7bc"
+                             type="folder"
+                             parent="aspace_bceb95e36b863be1a81668dd3f6e3f6e">7-18</container>
+               </did>
+               <scopecontent id="aspace_a22d29121613692683f8872e0fab2408">
+                  <head>Scope and Contents</head>
+                  <p>Fifty-seven letters sent to his parents from New Haven, Connecticut, and from Andover, Massachussets, discussing his education, work as tutor and professor, health, financial needs, and family news.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_259975cb06e76b0a5eb8900b55a47129" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to Nancy Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1818/1821">1818-1821</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_ee52692c46a77f5938168973c9c7cc40"
+                             type="box">1</container>
+                  <container id="aspace_ef73dc31929807cb9e3630d2c073763f"
+                             type="folder"
+                             parent="aspace_ee52692c46a77f5938168973c9c7cc40">19</container>
+               </did>
+               <scopecontent id="aspace_450a0e769b7376beb016ef1be64a8518">
+                  <head>Scope and Contents</head>
+                  <p>Seven letters to his sister regarding her education, reading, and letter writing.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_87c60962c928eff4e94e8af34776a51e" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to James Luce Kingsley</unittitle>
+                  <unitdate type="inclusive">1815, 1822</unitdate>
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_2a5287e98725c6b99d64efa9c1d6b6d0"
+                             type="box">1</container>
+                  <container id="aspace_266b6f2cbd79026ab531ee94012a3033"
+                             type="folder"
+                             parent="aspace_2a5287e98725c6b99d64efa9c1d6b6d0">20</container>
+               </did>
+               <scopecontent id="aspace_7f07c71fed4286b546dadd920ec0635f">
+                  <head>Scope and Contents</head>
+                  <p>Includes a letter from aboard ship Albion, possibly Fisher's last extent correspondence.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_85672f14118afb2cfca777af8979803a" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to Princeton University</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1821-10-19">1821-10-19</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_867dc2a74ef60bea5d2fb17698342793"
+                             type="box">1</container>
+                  <container id="aspace_5876a65513c3260cd47046c10a8cba9b"
+                             type="folder"
+                             parent="aspace_867dc2a74ef60bea5d2fb17698342793">21</container>
+               </did>
+               <scopecontent id="aspace_ab52dd409ceead1788eb61e81aca91dc">
+                  <head>Scope and Contents</head>
+                  <p>Letter draft regarding a position offer at Princeton.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_3602267bf140520ca1fc28b99ca6c056" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to unidentified editors, drafts</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_43e85f9a838d7f4bc5b4152c9e143f7e"
+                             type="box">1</container>
+                  <container id="aspace_da9ced5e8a1c368f6bdd213767fdf57f"
+                             type="folder"
+                             parent="aspace_43e85f9a838d7f4bc5b4152c9e143f7e">22</container>
+               </did>
+            </c>
+            <c id="aspace_7a617c3e7b992c7ccc7b4f3bed96801b" level="file">
+               <did>
+                  <unittitle>Fisher, Alexander Metcalf to unidentified correspondent</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1820-03-23">1820-03-23</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_38f47e745ac6ea51941f1d362b7e1c9a"
+                             type="box">1</container>
+                  <container id="aspace_9ffc1eea25b30f75c5dbc08bbbb8aefc"
+                             type="folder"
+                             parent="aspace_38f47e745ac6ea51941f1d362b7e1c9a">23</container>
+               </did>
+            </c>
+            <c id="aspace_c83240a767cdb3322597f594ba399599" level="file">
+               <did>
+                  <unittitle>Kingsley, James Luce to Caleb Fisher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1822">1822</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260540)"
+                             altrender="archive legal"
+                             id="aspace_6e7a4935f075ad4eb52323ecdacde22d"
+                             type="box">1</container>
+                  <container id="aspace_f3387d1aab72b0ca701bb872db878b92"
+                             type="folder"
+                             parent="aspace_6e7a4935f075ad4eb52323ecdacde22d">24</container>
+               </did>
+               <scopecontent id="aspace_0eb314b3d8469fd4a3abc7e5d77bb4c0">
+                  <head>Scope and Contents</head>
+                  <p>Two letters, including a transcription of a witness account of the Albion shipwreck.</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="aspace_5c7fe5baa1f29a2715cc0eaec682ed98" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">3.5</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(13 boxes)</physdesc>
+               
+                  <unitdate type="inclusive" normal="1803/1822">1803-1822</unitdate>
+               
+            </did>
+            <arrangement id="aspace_f7e598ceb3684fa9a439a28e76e329d6">
+               <head>Arrangement</head>
+               <p>Organized into five subseries: Diaries, Scientific Articles, Lecture Scripts, Notes and Learning Exercises, and Other Writings. Files within subseries are arranged alphabetically.</p>
+            </arrangement>
+            <scopecontent id="aspace_91c8f6f3adaf936e6d7f96fb44655d50">
+               <head>Scope and Contents</head>
+               <p>Series II. contains holograph texts documenting Fisher's personal life, education, and academic work, in the form of diaries, article drafts, notebooks, commonplace books, lecture scripts, learning exercises, and school essays compiled during his primary schooling, collegiate education, and tenure as a Professor of Mathematics and Natural Philosophy at Yale College.</p>
+            </scopecontent>
+            <processinfo id="aspace_d461a72dd52730a9f5205be2bbe24f78">
+               <head>Processing Information</head>
+               <p>Groupings of unbound writings established by previous owners of the collection or library staff have been kept together during processing in 2018. Fragile volumes with deteriorated leather bindings are stored in separate boxes.</p>
+            </processinfo>
+            <c id="aspace_a6235c993e9267d2a598cdc5e262d6a6" level="subseries">
+               <did>
+                  <unittitle>Diaries</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1813/1820">1813-1820</unitdate>
+                  
+               </did>
+               <c id="aspace_f40c4a73dfe21e8f96b8d6c5f6bab0b4" level="file">
+                  <did>
+                     <unittitle>"Brief heads of the plans begun &amp; accomplished during 4 days past"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1815/1817">1815-1817</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_b91b5904616a848a9a23b3d75282a3b4"
+                                type="box">2</container>
+                     <container id="aspace_c6eb45cd48d02d68b6ce6db915a9e1c5"
+                                type="folder"
+                                parent="aspace_b91b5904616a848a9a23b3d75282a3b4">25</container>
+                  </did>
+                  <scopecontent id="aspace_e38cf6da6ab870459e3ff68153ad61a9">
+                     <head>Scope and Contents</head>
+                     <p>Short diary recorded in September 1815, followed by a twenty-four page commentary added in May 1817 on his mental health state during the recording of the original entry two years prior.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_ee09aa218883cbc20bd953b032cde5bc" level="file">
+                  <did>
+                     <unittitle>Personal notes</unittitle>
+                     <unitdate type="inclusive">circa 1815</unitdate>
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_2e728b96484a263a001833f5c17b13e1"
+                                type="box">2</container>
+                     <container id="aspace_9a3c760017027eec1f030d9bff774da0"
+                                type="folder"
+                                parent="aspace_2e728b96484a263a001833f5c17b13e1">26</container>
+                  </did>
+                  <processinfo id="aspace_765532c0c211010fc3d5cbf156ad9199">
+                     <head>Processing Information</head>
+                     <p>Formerly identified by owners of the collection or library staff as "Papers written during derangement".</p>
+                  </processinfo>
+               </c>
+               <c id="aspace_c24214c610c8d9f2dcab58f286629a35" level="file">
+                  <did>
+                     <unittitle>Religious diaries</unittitle>
+                     <physdesc>
+                        <extent unit="Volumes">3</extent>
+                     </physdesc>
+                     
+                        <unitdate type="inclusive" normal="1815/1819">1815-1819</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_16c6fb035188f3488da6b635fcec8df4"
+                                type="box">2</container>
+                     <container id="aspace_52521374e66a2bd9643bc364b23819d7"
+                                type="folder"
+                                parent="aspace_16c6fb035188f3488da6b635fcec8df4">27-29</container>
+                  </did>
+               </c>
+               <c id="aspace_32c71a69ea4bf936c8f4f59d70fbf6ab" level="file">
+                  <did>
+                     <unittitle>Travel diary through Vermont</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1813-10-04">1813-10-04</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_82d9f777057a91aa499051704d5e5aa3"
+                                type="box">2</container>
+                     <container id="aspace_dbdfc1363633af8ed66f813332e46715"
+                                type="folder"
+                                parent="aspace_82d9f777057a91aa499051704d5e5aa3">30</container>
+                  </did>
+               </c>
+               <c id="aspace_59a529af7e10f6ebf7ab5ece9953626d" level="file">
+                  <did>
+                     <unittitle>Travel diary from Litchfield, Connecticut, to Schenectady, New York</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1818-09">1818-09</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_490679dc400753461407b310dcd6e7b3"
+                                type="box">2</container>
+                     <container id="aspace_715f135f0049760d93343c023e4dc987"
+                                type="folder"
+                                parent="aspace_490679dc400753461407b310dcd6e7b3">31</container>
+                  </did>
+               </c>
+               <c id="aspace_f0490a56c863bcc34f3fd22c5bfe256a" level="file">
+                  <did>
+                     <unittitle>Travel diary through Rhode Island and Connecticut</unittitle>
+                     <unitdate type="inclusive">circa 1818</unitdate>
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_a52fe25d54f5f8f30d65ca4f2fea02e9"
+                                type="box">2</container>
+                     <container id="aspace_1bf054e03e56ad4128fea899283b121f"
+                                type="folder"
+                                parent="aspace_a52fe25d54f5f8f30d65ca4f2fea02e9">32</container>
+                  </did>
+               </c>
+               <c id="aspace_0a77820da9e1ce04bc17d043701fbbb3" level="file">
+                  <did>
+                     <unittitle>Travel diary "Journal to Philadelphia"</unittitle>
+                     <unitdate type="inclusive">circa 1820</unitdate>
+                     <container label="Mixed Materials (39002099260557)"
+                                altrender="archive half legal"
+                                id="aspace_6b54205991cc61f32a01ffaa0646802a"
+                                type="box">2</container>
+                     <container id="aspace_0965003001787f28899d9b72c4848123"
+                                type="folder"
+                                parent="aspace_6b54205991cc61f32a01ffaa0646802a">33</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_7daa2c32dcdc073aa4cfb33e0614866c" level="subseries">
+               <did>
+                  <unittitle>Scientific Articles</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1818/1821">1818-1821</unitdate>
+                  
+               </did>
+               <c id="aspace_08a4c22bac4fd940ba5c4b0049bf0522" level="file">
+                  <did>
+                     <unittitle>Annotations to the article "The Compressibility of Water" by Jacob Perkins</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1821">1821</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_603f5dcb5863bf3d87a76efab948dd1a"
+                                type="box">3</container>
+                     <container id="aspace_d107e15928035b8c866508c174085737"
+                                type="folder"
+                                parent="aspace_603f5dcb5863bf3d87a76efab948dd1a">34</container>
+                  </did>
+                  <scopecontent id="aspace_36e9cda3bed7a7da26a25aac71cdeaaa">
+                     <head>Scope and Contents</head>
+                     <p>Published in the <title>
+                           American Journal of Science and Arts
+                        </title> 3, no.2 (May 1821).</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_0a683c37b6b3a637e5c054ad7dc0dec9" level="file">
+                  <did>
+                     <unittitle>"Essay on musical temperament"</unittitle>
+                     <unitdate type="inclusive">circa 1818</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_0d0705bc2afc427fd9cc7f4714cadb23"
+                                type="box">3</container>
+                     <container id="aspace_47ba4cf5251b077d9018a877e1ececc8"
+                                type="folder"
+                                parent="aspace_0d0705bc2afc427fd9cc7f4714cadb23">35-37</container>
+                  </did>
+                  <scopecontent id="aspace_852b96764101fe6c1ff6184feda6e5c5">
+                     <head>Scope and Contents</head>
+                     <p>Published in the <title>
+                           American Journal of Science and Arts
+                        </title> 1 (1819).</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_4c8ef1801939f66498fb4a07ca764d8c" level="file">
+                  <did>
+                     <unittitle>Letters to the editors of <title>
+                           The Microscope
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1820 and undated</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_0fc418dd8c122b7a43fe0b36c2b0cee0"
+                                type="box">3</container>
+                     <container id="aspace_f686ae61f7243092d3c21bce3ada517e"
+                                type="folder"
+                                parent="aspace_0fc418dd8c122b7a43fe0b36c2b0cee0">38</container>
+                  </did>
+               </c>
+               <c id="aspace_1ce753ef89c967275b8c36e1641c9ab0" level="file">
+                  <did>
+                     <unittitle>Notebook containing reviews and other texts</unittitle>
+                     <unitdate type="inclusive">circa 1817-1821</unitdate>
+                     <container label="Mixed Materials (39002099260664)"
+                                altrender="custom box [vertical octavo, 1&amp;quot; wide]"
+                                id="aspace_d2f8c8619b0d25fe55f3dec7478a498b"
+                                type="box">12</container>
+                  </did>
+                  <scopecontent id="aspace_74f31a0ca491380626cff4dab40095b5">
+                     <head>Scope and Contents</head>
+                     <p>Bound manuscript containing solutions to mathematical problems published in contemporary journals, commentaries on the Gospels, solar eclipse calculations, notes titled "An improved method for solving some cases of maxima and minima" possibly relating to Fisher's published article on function extrema, and reviews of Jeremiah Day's <title>
+                           A course of mathematics
+                        </title>" (published in <title>
+                           Analectic Magazine
+                        </title> IX (June 1817)) and of <title>
+                           Memoirs of the Connecticut Academy of Science
+                        </title>.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_ed90f9ab0dd19bdb318ae3584a899bc0" level="file">
+                  <did>
+                     <unittitle>"Observations con[cerning] the management of algebraical problems"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_6bfaaf25ad81374c16203121955db7e0"
+                                type="box">3</container>
+                     <container id="aspace_4ec294270a817d73cebca278e8448a85"
+                                type="folder"
+                                parent="aspace_6bfaaf25ad81374c16203121955db7e0">39</container>
+                  </did>
+                  <scopecontent id="aspace_557cee4ac896de68aedfb2baf784e214">
+                     <head>Scope and Contents</head>
+                     <p>Accompanied by a letter to Yale professor and editor of the <title>
+                           American Journal of Science and Arts
+                        </title> Benjamin Silliman, in Fisher's hand, forwarding a Diophantine problem solution by professor Theodore Strong of Hamilton College, and by various mathematical equations.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_14ea2dfa9c166657f6e7d8e7a3d6b45b" level="file">
+                  <did>
+                     <unittitle>"Observations on the comet of 1819"</unittitle>
+                     <unitdate type="inclusive">[1819]</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_5f37f4482eeb2bb303e10fe0dc07e017"
+                                type="box">3</container>
+                     <container id="aspace_f143bd5f8cac73bebcc7706fbb9ae8b6"
+                                type="folder"
+                                parent="aspace_5f37f4482eeb2bb303e10fe0dc07e017">40</container>
+                  </did>
+               </c>
+               <c id="aspace_53be381b69827389be45cbdf53d03b8a" level="file">
+                  <did>
+                     <unittitle>"On maxima &amp; minima of functions of two variable quantities"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1818-08">1818-08</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_58299a0765d0fa8c8663a8f3057fecbf"
+                                type="box">3</container>
+                     <container id="aspace_1865d82f48e21f43c9e7c6061348a9bb"
+                                type="folder"
+                                parent="aspace_58299a0765d0fa8c8663a8f3057fecbf">41</container>
+                  </did>
+                  <scopecontent id="aspace_8e918cd7edbf1d90d8da4399df75a6ae">
+                     <head>Scope and Contents</head>
+                     <p>Published in the <title>
+                           American Journal of Science and Arts
+                        </title> 5, no. 1 (1822).</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_9ef0ed73ed81ed065e30f4d70981ab08" level="file">
+                  <did>
+                     <unittitle>"On some recent improvements in the construction of the printing press"</unittitle>
+                     <unitdate type="inclusive">circa 1821</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_eaa3d5c085cd325b3066ef18a6f018fe"
+                                type="box">3</container>
+                     <container id="aspace_0adbba74a5442a22bbbe5d8946f284ae"
+                                type="folder"
+                                parent="aspace_eaa3d5c085cd325b3066ef18a6f018fe">42</container>
+                  </did>
+                  <scopecontent id="aspace_9714ce27baf24b7887e4e0b446137bbb">
+                     <head>Scope and Contents</head>
+                     <p>Published in the <title>
+                           American Journal of Science and Arts
+                        </title> 3, no.2 (1821).</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_69786dc3941c9df8c10db7a502ccc85a" level="file">
+                  <did>
+                     <unittitle>"Remarks on Dr. Enfield's Institutes of Natural Philosophy"</unittitle>
+                     <unitdate type="inclusive">circa 1820</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_3472960481220d38654a48f9fa3eb3b4"
+                                type="box">3</container>
+                     <container id="aspace_203f4f2eb83b50a0208b77c85cd5f199"
+                                type="folder"
+                                parent="aspace_3472960481220d38654a48f9fa3eb3b4">43</container>
+                  </did>
+                  <scopecontent id="aspace_00d4eed1672e27fc6a0718380bd93942">
+                     <head>Scope and Contents</head>
+                     <p>Published in the <title>
+                           American Journal of Science and Arts
+                        </title> 3, no.1 (1821).</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_dd0e31736836d17458208004c14b0272" level="file">
+                  <did>
+                     <unittitle>Review of William Tudor's <title>
+                           Letters on the Eastern States
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">circa 1821</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_cb44a0db3ebb98bf7cb12993e013264d"
+                                type="box">3</container>
+                     <container id="aspace_e9af73716828d92c5ce2b2d7d941ce2c"
+                                type="folder"
+                                parent="aspace_cb44a0db3ebb98bf7cb12993e013264d">44</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_26447aa5254fe11e98e3279785371dd9" level="subseries">
+               <did>
+                  <unittitle>Lecture Scripts</unittitle>
+                  <unitdate type="inclusive">circa 1818-1822</unitdate>
+               </did>
+               <scopecontent id="aspace_928d9a03fe0df8e1516732b22e7a6426">
+                  <head>Scope and Contents</head>
+                  <p>The lectures in natural philosophy comprise forty sequential volumes, each containing the script of a lecture on the recto, with citations on the verso. Topics covered include gravitation, motion, pneumatics, electricity, optics, and magnetism.</p>
+               </scopecontent>
+               <c id="aspace_470109957c0c7e9060867b7b419c7b49" level="file">
+                  <did>
+                     <unittitle>Addresses to the Connecticut Academy [of Arts and Science] and to the Yale College junior class</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1818">1818</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_5221e2772aa22a9484112fde6f6bbde2"
+                                type="box">3</container>
+                     <container id="aspace_c0cc5fd1612a474c9aaeb817818fd2e3"
+                                type="folder"
+                                parent="aspace_5221e2772aa22a9484112fde6f6bbde2">45</container>
+                  </did>
+               </c>
+               <c id="aspace_b8956e0126f26e5d32c2bedeed1f9015" level="file">
+                  <did>
+                     <unittitle>"Lectures on magnetism etc"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260565)"
+                                altrender="archive legal"
+                                id="aspace_546dfed868353fa345f78518a0aa0772"
+                                type="box">3</container>
+                     <container id="aspace_ba397c74bfea462c92df65aa24fff530"
+                                type="folder"
+                                parent="aspace_546dfed868353fa345f78518a0aa0772">46</container>
+                  </did>
+               </c>
+               <c id="aspace_ecab60d442e555a70bceb415b01e3898" level="file">
+                  <did>
+                     <unittitle>Lectures in natural philosophy, no. I-XIII</unittitle>
+                     <unitdate type="inclusive">circa 1818-1822</unitdate>
+                     <container label="Mixed Materials (39002099260573)"
+                                altrender="archive legal"
+                                id="aspace_5d5cde025656d3087606ab5624a492e0"
+                                type="box">4</container>
+                     <container id="aspace_e667a4e9e7aed70ce42eefaeabe9249e"
+                                type="folder"
+                                parent="aspace_5d5cde025656d3087606ab5624a492e0">47-59</container>
+                  </did>
+               </c>
+               <c id="aspace_4c6bf41c3c9ea70f5e7877af82447628" level="file">
+                  <did>
+                     <unittitle>Lectures in natural philosophy, no. XIV-XXVIII</unittitle>
+                     <unitdate type="inclusive">circa 1818-1822</unitdate>
+                     <container label="Mixed Materials (39002099260581)"
+                                altrender="archive legal"
+                                id="aspace_0b653e8a2811de8b1839bd69742e70a1"
+                                type="box">5</container>
+                     <container id="aspace_52e4493bc147b5f7065a6d69eb58cb61"
+                                type="folder"
+                                parent="aspace_0b653e8a2811de8b1839bd69742e70a1">60-74</container>
+                  </did>
+               </c>
+               <c id="aspace_ef5522ae62fa3f85a8a61be742f816dc" level="file">
+                  <did>
+                     <unittitle>Lectures in natural philosophy, no. XXIX-XL</unittitle>
+                     <unitdate type="inclusive">circa 1818-1822</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_42f4f358b359f0868577a3a6bbe0e408"
+                                type="box">6</container>
+                     <container id="aspace_1c425690de499098d59fb271685e6206"
+                                type="folder"
+                                parent="aspace_42f4f358b359f0868577a3a6bbe0e408">75-86</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_c8e89a2481ab5b23c7f7a3827a117e0c" level="subseries">
+               <did>
+                  <unittitle>Notes and Learning Exercises</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1803/1822">1803-1822</unitdate>
+                  
+               </did>
+               <arrangement id="aspace_de584d57c1865fe11647a58fb474e88c">
+                  <head>Arrangement</head>
+                  <p>Arranged alphabetically by title, when present, or by discipline.</p>
+               </arrangement>
+               <scopecontent id="aspace_bf82bf08d31676ecf5815c13a84ade2a">
+                  <head>Scope and Contents</head>
+                  <p>Topical groupings may include notes from lectures, sermons, and publications; calculations; and short essays in response to question prompts.</p>
+               </scopecontent>
+               <c id="aspace_e5b639bdfc30d9e8598cee324d4070b0" level="file">
+                  <did>
+                     <unittitle>Astronomy</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_cb90419dc61fad825f9cc4b08839c540"
+                                type="box">6</container>
+                     <container id="aspace_d52e8681d762aefaf2734d3cddb8531e"
+                                type="folder"
+                                parent="aspace_cb90419dc61fad825f9cc4b08839c540">87</container>
+                  </did>
+               </c>
+               <c id="aspace_d42b9e2cd19c8ce109a430c4e07a22d0" level="file">
+                  <did>
+                     <unittitle>Bibliographies of scientific publications</unittitle>
+                     <unitdate type="inclusive">circa 1822</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_e1aab51861c178ce5a850551c8c853a1"
+                                type="box">6</container>
+                     <container id="aspace_2bff9846a8cd9adb03f2290923fd4c0c"
+                                type="folder"
+                                parent="aspace_e1aab51861c178ce5a850551c8c853a1">88</container>
+                  </did>
+               </c>
+               <c id="aspace_0dcfacf364e967a9e8309e98beebe7c6" level="file">
+                  <did>
+                     <unittitle>Chemistry (1 of 2)</unittitle>
+                     <unitdate type="inclusive">circa 1812-1814</unitdate>
+                     <container label="Mixed Materials (39002099260672)"
+                                altrender="custom box [vertical octavo, 1&amp;quot; wide]"
+                                id="aspace_3ff07adadbc037c5f40fdcbb4cbc9539"
+                                type="box">13</container>
+                  </did>
+                  <scopecontent id="aspace_f186daa3d2b2a16805ce9b26993b8935">
+                     <head>Scope and Contents</head>
+                     <p>First of two volumes covering 113 lectures attended by Fisher starting in 1812.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_6b1f16af6696a027d699f77d6f31a904" level="file">
+                  <did>
+                     <unittitle>Chemistry (2 of 2)</unittitle>
+                     <unitdate type="inclusive">circa 1812-1814</unitdate>
+                     <container label="Mixed Materials (39002099260680)"
+                                altrender="custom box [vertical octavo, 1&amp;quot; wide]"
+                                id="aspace_0754757e2b71710bea2d4a3db9ccb11d"
+                                type="box">14</container>
+                  </did>
+                  <scopecontent id="aspace_1ed93db4712060b702ebab3614fdcda9">
+                     <head>Scope and Contents</head>
+                     <p>Second of two volumes covering 113 lectures attended by Fisher starting in 1812. The second volume also contains transcriptions of Timothy Dwight's farewell address to the senior class of Yale College (circa 1814) and of remarks by Dwight on William Paley's philosophy.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_706c332d908160c454587016407e4090" level="file">
+                  <did>
+                     <unittitle>"A collection of phrases, containing many of the most common idiomatic expressions in the Latin language"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_1a376c1647b638cc9a1a520f032ba491"
+                                type="box">6</container>
+                     <container id="aspace_3f96860c7adc982118f1fc9e14603f48"
+                                type="folder"
+                                parent="aspace_1a376c1647b638cc9a1a520f032ba491">89</container>
+                  </did>
+               </c>
+               <c id="aspace_675f3634af97d1c9ac1383dd32188e4e" level="file">
+                  <did>
+                     <unittitle>"A commonplace book according to Locke's method"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1817-06">1817-06</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260698)"
+                                altrender="custom box [vertical octavo, 1&#34; wide]"
+                                id="aspace_63fedb0c835c3425a3f3992bb30ef182"
+                                type="box">15</container>
+                  </did>
+               </c>
+               <c id="aspace_1cf42b54934924a42b5814a606a04a2d" level="file">
+                  <did>
+                     <unittitle>"Discussions on religion"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_bb206acaaac79a5e554fb9a87ca1d711"
+                                type="box">6</container>
+                     <container id="aspace_562d8c2973a0569905fbe19e7e33b1b4"
+                                type="folder"
+                                parent="aspace_bb206acaaac79a5e554fb9a87ca1d711">90</container>
+                  </did>
+                  <scopecontent id="aspace_c949e5e2948c6d2df60b8d824ffd0fc0">
+                     <head>Scope and Contents</head>
+                     <p>Includes commentaries on theological works by William Paley and Charles Leslie.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_9ee32cd3397fabdecb99f3b69de39997" level="file">
+                  <did>
+                     <unittitle>Eclipse calculations and astronomical observations</unittitle>
+                     <unitdate type="inclusive">circa 1819-1820</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_70456555de408375a77c52709ede642b"
+                                type="box">6</container>
+                     <container id="aspace_ce76f1b2f102e81f5d3961d99bc5ff91"
+                                type="folder"
+                                parent="aspace_70456555de408375a77c52709ede642b">91</container>
+                  </did>
+               </c>
+               <c id="aspace_8b14ad582f2cbda71c0412a368ac2423" level="file">
+                  <did>
+                     <unittitle>Education</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_3b1651fe64cad6208341e001c82abf59"
+                                type="box">6</container>
+                     <container id="aspace_34d3020ed1248678d8e9d842daed25a8"
+                                type="folder"
+                                parent="aspace_3b1651fe64cad6208341e001c82abf59">92</container>
+                  </did>
+               </c>
+               <c id="aspace_571d8135dca347464dbde21682d39f19" level="file">
+                  <did>
+                     <unittitle>Electricity</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260599)"
+                                altrender="archive legal"
+                                id="aspace_062398b45e802f3889850c50a90e7c0a"
+                                type="box">6</container>
+                     <container id="aspace_ad598679ed3ce0f23c6ae5a372a47bc4"
+                                type="folder"
+                                parent="aspace_062398b45e802f3889850c50a90e7c0a">93</container>
+                  </did>
+               </c>
+               <c id="aspace_773c4dd12cbfdf2d3b89dfd349360ded" level="file">
+                  <did>
+                     <unittitle>"Facts and Sentiments on select topics"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_27b4c2caaab52d5390b1050071d5e55d"
+                                type="box">7</container>
+                     <container id="aspace_ee77e8ee533a2e316b93e0033e7e193f"
+                                type="folder"
+                                parent="aspace_27b4c2caaab52d5390b1050071d5e55d">94</container>
+                  </did>
+               </c>
+               <c id="aspace_9d3ac77ddc17087216cd635d6bfdaf70" level="file">
+                  <did>
+                     <unittitle>French grammar</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_eb27c8b9e1b42440be7b2cde5e369ca6"
+                                type="box">7</container>
+                     <container id="aspace_8c3e1d5fee38246db329671bd05a729d"
+                                type="folder"
+                                parent="aspace_eb27c8b9e1b42440be7b2cde5e369ca6">95</container>
+                  </did>
+               </c>
+               <c id="aspace_75e226bf269087ef47dfd643109a745d" level="file">
+                  <did>
+                     <unittitle>Geography</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_a5ccfb26c433fff44ca59cf2d62ae92c"
+                                type="box">7</container>
+                     <container id="aspace_80736e47b0a662fec098bc931d67abb0"
+                                type="folder"
+                                parent="aspace_a5ccfb26c433fff44ca59cf2d62ae92c">96</container>
+                  </did>
+               </c>
+               <c id="aspace_e47a22edcce6d93f1a9aa6d9caa3f715" level="file">
+                  <did>
+                     <unittitle>Government and society</unittitle>
+                     <unitdate type="inclusive">1810, 1811, and undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_610c43f4e496598d139a5fa4978412d9"
+                                type="box">7</container>
+                     <container id="aspace_252867624651c37bf67b8838ca8d8c94"
+                                type="folder"
+                                parent="aspace_610c43f4e496598d139a5fa4978412d9">97</container>
+                  </did>
+               </c>
+               <c id="aspace_cf033024403006bf3726bee732a51526" level="file">
+                  <did>
+                     <unittitle>"Heads of directions for accurate and expressive singing"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_fb956a0743c2acb4de50c76f76795045"
+                                type="box">7</container>
+                     <container id="aspace_f939abdda21f9ac84171363130d95ffc"
+                                type="folder"
+                                parent="aspace_fb956a0743c2acb4de50c76f76795045">98</container>
+                  </did>
+               </c>
+               <c id="aspace_72f9f5e3eb205ad4be1a761c766aebf6" level="file">
+                  <did>
+                     <unittitle>"Heads of sermons"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1818/1819">1818-1819</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_78469c7c4853d69a937a828fdda182c8"
+                                type="box">7</container>
+                     <container id="aspace_1171de52ccaf36097e7987c4fc70ebf3"
+                                type="folder"
+                                parent="aspace_78469c7c4853d69a937a828fdda182c8">99</container>
+                  </did>
+                  <scopecontent id="aspace_f5e8c42f16f18ad07f2a0b23b632326f">
+                     <head>Scope and Contents</head>
+                     <p>Notes on sermons delivered by Mr. Fitch, Mr. Beecher, Mr. Taylor, and Dr. Worcester.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_57a937e5416fea1f21e37a3ae148968f" level="file">
+                  <did>
+                     <unittitle>Hebrew grammar</unittitle>
+                     <unitdate type="inclusive">circa 1810</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_702377b2e50c0bb6843b5fcef55defb0"
+                                type="box">7</container>
+                     <container id="aspace_ce1e08db5d9af12f1c58d0ce3d99a670"
+                                type="folder"
+                                parent="aspace_702377b2e50c0bb6843b5fcef55defb0">100-102</container>
+                  </did>
+               </c>
+               <c id="aspace_f0048da25ffdaba13d0dceda319f780f" level="file">
+                  <did>
+                     <unittitle>Italian grammar</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_001d29209b7984a18632746d906301db"
+                                type="box">7</container>
+                     <container id="aspace_29cd9d0b9ba3ec3bffe6f28f90d2fe6e"
+                                type="folder"
+                                parent="aspace_001d29209b7984a18632746d906301db">103</container>
+                  </did>
+               </c>
+               <c id="aspace_5a30e0bd5020377da6d9104b6c6505ac" level="file">
+                  <did>
+                     <unittitle>Latin orations</unittitle>
+                     <unitdate type="inclusive">1812 and undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_cc62f55848666ad78d019918e339a6eb"
+                                type="box">7</container>
+                     <container id="aspace_4f29cd50d3f7343c885f335026924c8e"
+                                type="folder"
+                                parent="aspace_cc62f55848666ad78d019918e339a6eb">104</container>
+                  </did>
+               </c>
+               <c id="aspace_baabef8378faa62e4a1863911bcffb52" level="file">
+                  <did>
+                     <unittitle>Mathematics</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_c72fc1bd68052ebfe92657485493f63b"
+                                type="box">7</container>
+                     <container id="aspace_9cc545d2f08bec07cb1b6ab07dc60ab0"
+                                type="folder"
+                                parent="aspace_c72fc1bd68052ebfe92657485493f63b">105</container>
+                  </did>
+               </c>
+               <c id="aspace_df86d5048ab898eada473bcc318f1565" level="file">
+                  <did>
+                     <unittitle>Mechanics</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_f304404b12c79809fd76ee936e9887c9"
+                                type="box">7</container>
+                     <container id="aspace_70187939197b341e616939a4c0aa7718"
+                                type="folder"
+                                parent="aspace_f304404b12c79809fd76ee936e9887c9">106</container>
+                  </did>
+               </c>
+               <c id="aspace_e984d1a8b05d68067b88bdf1c778ff82" level="file">
+                  <did>
+                     <unittitle>"Miscellaneous hints on improvements in the arts"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_fb7aeaf4e4a4204a4c350a6a6fc2cb20"
+                                type="box">7</container>
+                     <container id="aspace_fc3819b4795a88b79504e56ccf3b92d4"
+                                type="folder"
+                                parent="aspace_fb7aeaf4e4a4204a4c350a6a6fc2cb20">107</container>
+                  </did>
+               </c>
+               <c id="aspace_1e64e1b3a6344fb4adb545390303efb5" level="file">
+                  <did>
+                     <unittitle>"Miscellaneous remarks on Locke's essay"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1816-10">1816-10</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_f6010ea33f98bc1f01312a058673fa85"
+                                type="box">7</container>
+                     <container id="aspace_e376f5f9dcb5be7a948d8997a99e5320"
+                                type="folder"
+                                parent="aspace_f6010ea33f98bc1f01312a058673fa85">108</container>
+                  </did>
+               </c>
+               <c id="aspace_15beae7579c87582484a152a442e1120" level="file">
+                  <did>
+                     <unittitle>Musical theory commonplace book</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_a4eb208056cc3fd810fef7c3f11d7fd3"
+                                type="box">7</container>
+                     <container id="aspace_69381dfcc94c86c6366c7867de24ea32"
+                                type="folder"
+                                parent="aspace_a4eb208056cc3fd810fef7c3f11d7fd3">109</container>
+                  </did>
+               </c>
+               <c id="aspace_ed27346a2b7a27d111b278123f846cdc" level="file">
+                  <did>
+                     <unittitle>Music notations</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_f92d0d1e920bbc90609fd4df16c0194d"
+                                type="box">7</container>
+                     <container id="aspace_b8b3d088c5985d29a5e768238adc6a52"
+                                type="folder"
+                                parent="aspace_f92d0d1e920bbc90609fd4df16c0194d">110</container>
+                  </did>
+               </c>
+               <c id="aspace_3829f2ad3bbc3cc4a36e6de096cb680f" level="file">
+                  <did>
+                     <unittitle>Natural philosophy</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_080b74566f252cb8e09b88322628d532"
+                                type="box">7</container>
+                     <container id="aspace_142da6f3e91db43e180188fa9da354b4"
+                                type="folder"
+                                parent="aspace_080b74566f252cb8e09b88322628d532">111-112</container>
+                  </did>
+               </c>
+               <c id="aspace_d69682664507ccc9d775dae5ceae5dbe" level="file">
+                  <did>
+                     <unittitle>"Notes from Biot's Magnetism"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_e7edd0c68a6fea5e3b6bb6814490eb21"
+                                type="box">7</container>
+                     <container id="aspace_99bd945d60a418d0008e7755f3205a58"
+                                type="folder"
+                                parent="aspace_e7edd0c68a6fea5e3b6bb6814490eb21">113</container>
+                  </did>
+               </c>
+               <c id="aspace_a515445b33a837c66430424c5eb01339" level="file">
+                  <did>
+                     <unittitle>Notes in shorthand</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_40252559391d3a89d6aaf50ecd866461"
+                                type="box">7</container>
+                     <container id="aspace_993d074c1774e56e7a0d542958130cfa"
+                                type="folder"
+                                parent="aspace_40252559391d3a89d6aaf50ecd866461">114</container>
+                  </did>
+               </c>
+               <c id="aspace_35b67fcf9a355fd42ac0c430d6b8b581" level="file">
+                  <did>
+                     <unittitle>Notes, miscellaneous</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260607)"
+                                altrender="archive legal"
+                                id="aspace_b2ec4d8d017d5002afca33e85808a4f0"
+                                type="box">7</container>
+                     <container id="aspace_57c6f0c9c03b280244df942bf38e478f"
+                                type="folder"
+                                parent="aspace_b2ec4d8d017d5002afca33e85808a4f0">115</container>
+                  </did>
+               </c>
+               <c id="aspace_4bd929a0c0cd0ee42c601d67191c5b7b" level="file">
+                  <did>
+                     <unittitle>Notebook, miscellaneous</unittitle>
+                     <unitdate type="inclusive">circa 1814-1819</unitdate>
+                     <container label="Mixed Materials (39002099260706)"
+                                altrender="custom box [vertical octavo, 1&amp;quot; wide]"
+                                id="aspace_ac676f5bb79b1c022021f8cb0ccd339b"
+                                type="box">16</container>
+                  </did>
+                  <scopecontent id="aspace_052764d6676d9ba97331a8d1f81dbaf4">
+                     <head>Scope and Contents</head>
+                     <p>Containing lecture notes, passages from theological and scholarly works, and other notes, including twenty pages titled "Public lectures on Christian theology by Dr. Woods" (presumably Leonard Woods (1774-1854), professor at Andover Theological Seminary), and "State of the philosophical apparatus of Yale College May 27, 1818", a seven page account of the scientific equipment procured by Yale College between 1769 and 1819 with their prices in pounds.</p>
+                  </scopecontent>
+               </c>
+               <c id="aspace_27ad146065ce8eb66df0353bf01493d5" level="file">
+                  <did>
+                     <unittitle>"On language"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_ea1a959a71536a525d054004c077405f"
+                                type="box">8</container>
+                     <container id="aspace_c3b2514c6d874bf1b4cb82d5cbe83174"
+                                type="folder"
+                                parent="aspace_ea1a959a71536a525d054004c077405f">116-118</container>
+                  </did>
+               </c>
+               <c id="aspace_b79d618ffc095f5ddea7faf0ca3fe92c" level="file">
+                  <did>
+                     <unittitle>"On the origins of springs"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1812-07">1812-07</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_2ededf4732a65892597ca793f2673e55"
+                                type="box">8</container>
+                     <container id="aspace_6620248f177ec0a7f50cfe4b385698f8"
+                                type="folder"
+                                parent="aspace_2ededf4732a65892597ca793f2673e55">119</container>
+                  </did>
+               </c>
+               <c id="aspace_956516fe7a4da8fb51c4e00fb71b5743" level="file">
+                  <did>
+                     <unittitle>Optics</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_60a202c55e6b12b95d90f9144ae840ee"
+                                type="box">8</container>
+                     <container id="aspace_804dc9e8d33fd783f56674ab3f0c2837"
+                                type="folder"
+                                parent="aspace_60a202c55e6b12b95d90f9144ae840ee">120</container>
+                  </did>
+               </c>
+               <c id="aspace_015b4e03d9f1d71dcbf4c93a3cbe67c2" level="file">
+                  <did>
+                     <unittitle>Physical sciences commonplace book</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_542f5892e90d099915903ace4066afe0"
+                                type="box">8</container>
+                     <container id="aspace_8048660f59256e334850838e447257c8"
+                                type="folder"
+                                parent="aspace_542f5892e90d099915903ace4066afe0">121</container>
+                  </did>
+               </c>
+               <c id="aspace_7d581d9da9c857af66fa61dd2f688d60" level="file">
+                  <did>
+                     <unittitle>"A practical arithmetic in manuscript"</unittitle>
+                     <physdesc>
+                        <extent unit="Volumes">2</extent>
+                     </physdesc>
+                     
+                        <unitdate type="inclusive" normal="1805/1806">1805-1806</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_c272438c1a355be3638d31d76e83ae77"
+                                type="box">8</container>
+                     <container id="aspace_eadcc0c26dcc9bcf3e3614a72606771b"
+                                type="folder"
+                                parent="aspace_c272438c1a355be3638d31d76e83ae77">122-123</container>
+                  </did>
+               </c>
+               <c id="aspace_36c29f8259c53eb42aa46a2229fcb232" level="file">
+                  <did>
+                     <unittitle>"A practical arithmetic in manuscript"</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1807">1807</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260714)"
+                                altrender="custom box [vertical quarto, 1&#34; wide]"
+                                id="aspace_800e806c2def36b1db40bd2e22253884"
+                                type="box">17</container>
+                  </did>
+               </c>
+               <c id="aspace_07b158f1e55bdda7f7aa734dae8a6f3a" level="file">
+                  <did>
+                     <unittitle>"Remarks on tunes in the Lock Hospital"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_2c46622e57109873a53229fc7528bf38"
+                                type="box">8</container>
+                     <container id="aspace_f04d38fb91446574777dc90b9be0ed0a"
+                                type="folder"
+                                parent="aspace_2c46622e57109873a53229fc7528bf38">124</container>
+                  </did>
+               </c>
+               <c id="aspace_cc3e04126775bb21e25e3aaa131de8f6" level="file">
+                  <did>
+                     <unittitle>Sketch of laboratory apparatus</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_fc707b202ba5dbcb600406ad0908a5c2"
+                                type="box">8</container>
+                     <container id="aspace_1b3e371df2f5f84ac6699fb0f495d9ca"
+                                type="folder"
+                                parent="aspace_fc707b202ba5dbcb600406ad0908a5c2">125</container>
+                  </did>
+               </c>
+               <c id="aspace_217d754f36a7cb761af4f05fd677f241" level="file">
+                  <did>
+                     <unittitle>Sunspot calculations</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_b7c4d25d341e6747d699b22c0f661f6c"
+                                type="box">8</container>
+                     <container id="aspace_f465949d1fb41f6108f890972e28daf6"
+                                type="folder"
+                                parent="aspace_b7c4d25d341e6747d699b22c0f661f6c">126</container>
+                  </did>
+               </c>
+               <c id="aspace_0a75f239ed6891299a16c42dcc26132a" level="file">
+                  <did>
+                     <unittitle>Theology, essays</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_f2eb07b2fb034b6b3f125ce100cab36e"
+                                type="box">8</container>
+                     <container id="aspace_7fc0f1c1e2e6a61a79cac3d8f9099dc7"
+                                type="folder"
+                                parent="aspace_f2eb07b2fb034b6b3f125ce100cab36e">127-130</container>
+                  </did>
+               </c>
+               <c id="aspace_62f5cebf771a3da80f46815295704f1d" level="file">
+                  <did>
+                     <unittitle>Theology, notes</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_92a0cb9abb6e5303f3a07a0ebe7100de"
+                                type="box">8</container>
+                     <container id="aspace_e8d46ce2ea8d56728eae4c206afd71d4"
+                                type="folder"
+                                parent="aspace_92a0cb9abb6e5303f3a07a0ebe7100de">131-132</container>
+                  </did>
+               </c>
+               <c id="aspace_adbe7a989c44b9821d757d43c0a4b851" level="file">
+                  <did>
+                     <unittitle>"What are the fundamental rules of interpretation of Scriptures?", thesis for examination</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1815-09">1815-09</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_0d4d55a80db9c4eee7645aadf5539a19"
+                                type="box">8</container>
+                     <container id="aspace_d8b790fc38de6b5241612a15c80bdb4d"
+                                type="folder"
+                                parent="aspace_0d4d55a80db9c4eee7645aadf5539a19">133</container>
+                  </did>
+               </c>
+               <c id="aspace_bd9f9346986aeb53108755d93f83d039" level="file">
+                  <did>
+                     <unittitle>Writing exercise</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1803">1803</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_9fc917453b0a922f0e16b4d322e1ba96"
+                                type="box">8</container>
+                     <container id="aspace_b1e08779ea4ad0669f176d68b4f51308"
+                                type="folder"
+                                parent="aspace_9fc917453b0a922f0e16b4d322e1ba96">134</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_b89f5b6b5ffa8920e9ef537cd92725b9" level="subseries">
+               <did>
+                  <unittitle>Other Writings</unittitle>
+                  <unitdate type="inclusive">1820 and undated</unitdate>
+               </did>
+               <c id="aspace_1764513e23db8a0d2d3ceeb8de4f6a7a" level="file">
+                  <did>
+                     <unittitle>By-laws of the Harmonic Society of New Haven County</unittitle>
+                     
+                        <unitdate type="inclusive" normal="1820">1820</unitdate>
+                     
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_b2bd748356585ea7716b7c593ed898a7"
+                                type="box">8</container>
+                     <container id="aspace_2429c3d5e01a16b5f19c4fb9258e437c"
+                                type="folder"
+                                parent="aspace_b2bd748356585ea7716b7c593ed898a7">135</container>
+                  </did>
+               </c>
+               <c id="aspace_f1937970b72fcbd72e7c964d4467b5cd" level="file">
+                  <did>
+                     <unittitle>"The death of Dr. B."</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_a7d22b111685dc4bcbc8331bf82d0108"
+                                type="box">8</container>
+                     <container id="aspace_5b9b77b1133ce33e69363b86824def92"
+                                type="folder"
+                                parent="aspace_a7d22b111685dc4bcbc8331bf82d0108">136</container>
+                  </did>
+               </c>
+               <c id="aspace_9cb5d2f61944f70fdb3d83ae2d42cdeb" level="file">
+                  <did>
+                     <unittitle>"Journey to the moon or some of the planets", fiction piece</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002099260615)"
+                                altrender="archive legal"
+                                id="aspace_5971b28fb6a632929b2eba63526beb68"
+                                type="box">8</container>
+                     <container id="aspace_9fbb6e1bd6dd1d2251d168f0e0b00069"
+                                type="folder"
+                                parent="aspace_5971b28fb6a632929b2eba63526beb68">137</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_a0280f21556b24f44468438eb0e8f7ac" level="series">
+            <did>
+               <unittitle>Personal and Family Papers</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">1.88</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(2 boxes) + 1 art</physdesc>
+               
+                  <unitdate type="inclusive" normal="1813/1898">1813-1898</unitdate>
+               
+            </did>
+            <arrangement id="aspace_59f68acda726ae4c4655696860b7eb23">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by document type.</p>
+            </arrangement>
+            <scopecontent id="aspace_6ad5523cabaae1f1982b163867f2c1ff">
+               <head>Scope and Contents</head>
+               <p>Series III. holds manuscript and printed items relating to Fisher, his fiancé Catharine Esther Beecher, and his siblings Willard, Nancy, and Sally. Of note are clippings, eulogies, and poems in memory of Fisher, and records of his Yale College graduation, as well as a copper plate engraved with a portrait of Fisher by Simeon Smith Jocelyn.</p>
+            </scopecontent>
+            <c id="aspace_694f47dc2c1b1883e7739838c8af0b95" level="file">
+               <did>
+                  <unittitle>Almanac by Willard Fisher, manuscript</unittitle>
+                  <unitdate type="inclusive">1820, 1824</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_ea431c7c80fb3b2ae80a88cd4daa8a10"
+                             type="box">9</container>
+                  <container id="aspace_68e498a3d2ba892f10e8a28ad2ca0255"
+                             type="folder"
+                             parent="aspace_ea431c7c80fb3b2ae80a88cd4daa8a10">138</container>
+               </did>
+            </c>
+            <c id="aspace_4e8fae0542d66d6a6d7793c8b2f345c6" level="file">
+               <did>
+                  <unittitle>Article by D. Olmstead, "Anecdotes of Prof. Fisher", manuscript</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_b151d6c3dd69472ea08af8eb420dc0f0"
+                             type="box">9</container>
+                  <container id="aspace_f652244814cd12cf17f4d1ea0b7bb456"
+                             type="folder"
+                             parent="aspace_b151d6c3dd69472ea08af8eb420dc0f0">139</container>
+               </did>
+               <scopecontent id="aspace_c3c073bfffa0754e113eb5db6a10219b">
+                  <head>Scope and Contents</head>
+                  <p>Published in <title>
+                        The New Englander
+                     </title>, no. IV (October 1843) as "Reminiscences of Alexander Metcalf Fisher".</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_d00177595b7ecac748ec4950cab05523" level="file">
+               <did>
+                  <unittitle>Clippings concerning the death of Alexander Metcalf Fisher</unittitle>
+                  <unitdate type="inclusive">[1822]</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_7f0eeec796c3fcf9ec735777659faccf"
+                             type="box">9</container>
+                  <container id="aspace_feb0f4987b7a34e32aa934800e367d2d"
+                             type="folder"
+                             parent="aspace_7f0eeec796c3fcf9ec735777659faccf">140</container>
+               </did>
+            </c>
+            <c id="aspace_15b2b8ad0f32df153683a93465cb7725" level="file">
+               <did>
+                  <unittitle>Clippings concerning the death of Catharine Esther Beecher</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1878">1878</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_fd6ce2b1d5181aa054879175c3aaac43"
+                             type="box">9</container>
+                  <container id="aspace_6d80936302c87b6c592017805f513423"
+                             type="folder"
+                             parent="aspace_fd6ce2b1d5181aa054879175c3aaac43">141</container>
+               </did>
+            </c>
+            <c id="aspace_7797d86847efbe70012bf67ee2b90886" level="file">
+               <did>
+                  <unittitle>Eclipse projections by Willard Fisher, manuscript</unittitle>
+                  <unitdate type="inclusive">circa 1830</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_9a949e44d788ffb14b3f37be8fab5d8f"
+                             type="box">9</container>
+                  <container id="aspace_43a7c1de58acf6cdb5dffb4936ce5e7f"
+                             type="folder"
+                             parent="aspace_9a949e44d788ffb14b3f37be8fab5d8f">142</container>
+               </did>
+            </c>
+            <c id="aspace_1598a22baa2ce56af5a4ba13722d8e09" level="file">
+               <did>
+                  <unittitle>Manuscript volume "Miscellaneous articles relating to the history, character &amp; death of Prof. Fisher"</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_96bbbb0934e0930ae01059ab510a7a04"
+                             type="box">9</container>
+                  <container id="aspace_1e2e569766b5f367d567874c2e0d45de"
+                             type="folder"
+                             parent="aspace_96bbbb0934e0930ae01059ab510a7a04">143</container>
+               </did>
+               <scopecontent id="aspace_c3a471b85ef8315c9e9c5886a1bb0da3">
+                  <head>Scope and Contents</head>
+                  <p>Includes an extract from a sermon by Nathanael Emmons preached on 1822 June 9, songs from Fisher's funerals, tombstone inscriptions, poems, and transcriptions of two letters recounting the shipwreck of the Albion.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_bcdcd36bfb2269b76fee6a612f178f98" level="file">
+               <did>
+                  <unittitle>Minutes of two meetings [of the American Board of Commissioners for Foreign Missions, New Haven Chapter?]</unittitle>
+                  <unitdate type="inclusive">circa 1880-1890</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_7a30f9894ae741849b52570ca61b0f4e"
+                             type="box">9</container>
+                  <container id="aspace_eebc2aa96605a21a2d94bd900c5ed829"
+                             type="folder"
+                             parent="aspace_7a30f9894ae741849b52570ca61b0f4e">144</container>
+               </did>
+            </c>
+            <c id="aspace_4d203453216751ed2972527eb8869855" level="file">
+               <did>
+                  <unittitle>Obituary for Alexander Metcalf Fisher</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_639a571a3ed851ff5009ca812a5d5c66"
+                             type="box">9</container>
+                  <container id="aspace_74ba2d29b89a0eedf1df2b239d39cea2"
+                             type="folder"
+                             parent="aspace_639a571a3ed851ff5009ca812a5d5c66">145</container>
+               </did>
+               <scopecontent id="aspace_365f9bfa49d28b70d188214dc15336b7">
+                  <head>Scope and Contents</head>
+                  <p>Manuscript copy of text published in the <title>
+                        Christian Herald
+                     </title> and <title>
+                        Seaman's Magazine
+                     </title>.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_ca3eaa7954418f0eab26c2e52ecca626" level="file">
+               <did>
+                  <unittitle>Obituary notice for Nancy Fisher Kidder</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1898">1898</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_41a1c5315ce7077ec3702812713e2839"
+                             type="box">9</container>
+                  <container id="aspace_931597d37a796164f329cf87cff29d46"
+                             type="folder"
+                             parent="aspace_41a1c5315ce7077ec3702812713e2839">146</container>
+               </did>
+            </c>
+            <c id="aspace_09e4ebe219c766cfd8dd4c9f5e640896" level="file">
+               <did>
+                  <unittitle>Poems by Catharine Esther Beecher addressed to Sally Fisher, manuscript</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_a99a16325511bb9aa762ccff4c4c7173"
+                             type="box">9</container>
+                  <container id="aspace_ab844f57acd507fe6f6094393a1a5d89"
+                             type="folder"
+                             parent="aspace_a99a16325511bb9aa762ccff4c4c7173">147</container>
+               </did>
+            </c>
+            <c id="aspace_89aa0d20b9c602970ffe194cfb31a7f2" level="file">
+               <did>
+                  <unittitle>Poem by [?] Colton, "To the memory of Prof. Fisher", manuscript
+</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1823">1823</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_33b650283e09585ea416c3ffdbe95ea8"
+                             type="box">9</container>
+                  <container id="aspace_f89aea53bc79ed47552997b11bd92492"
+                             type="folder"
+                             parent="aspace_33b650283e09585ea416c3ffdbe95ea8">148</container>
+               </did>
+            </c>
+            <c id="aspace_be4f792acd4ed4297684d338b927bc97" level="file">
+               <did>
+                  <unittitle>Poem "To the memory of A.M. Fisher", manuscript</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_f02b885c078a3ead2524c5c8d3c3997a"
+                             type="box">9</container>
+                  <container id="aspace_16094d5d64d68d29b0b38f832500d3de"
+                             type="folder"
+                             parent="aspace_f02b885c078a3ead2524c5c8d3c3997a">149</container>
+               </did>
+            </c>
+            <c id="aspace_e488c6e2090c02e8d6d155c34beac696" level="file">
+               <did>
+                  <unittitle>Portrait of Alexander Metcalf Fisher, copper plate engraving</unittitle>
+                  <unitdate type="inclusive">after 1822</unitdate>
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_7a4d5ed5feeae624a7ce49489df86922"
+                             type="box">9</container>
+                  <container id="aspace_54296d3c27c52a326be3079b1448c18b"
+                             type="folder"
+                             parent="aspace_7a4d5ed5feeae624a7ce49489df86922">152</container>
+               </did>
+               <scopecontent id="aspace_1a191c584ea88ea3e4a133ad5663d5d5">
+                  <head>Scope and Contents</head>
+                  <p>Engraving on copper plate by Simeon Smith Jocelyn, based on a painting by Samuel Finley Breese Morse. Caption "Prof. Alex. M. Fisher of Y. Coll. Lost in the Albion April 22nd 1822". 23 x 14 cm.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_63b73d4a66a4fe16b33b2adbd7580e6b" level="file">
+               <did>
+                  <unittitle>Trunk</unittitle>
+                  <unitdate type="inclusive">unknown</unitdate>
+                  <container label="Mixed Materials (39002099415250)"
+                             id="aspace_1ec237931dadea3f648be65c0969f714"
+                             type="box">11 (Art)</container>
+               </did>
+               <processinfo id="aspace_f7c8241ce0d55ee8b3f1d2d71a1b2a35">
+                  <head>Processing Information</head>
+                  <p>Previously contained manuscripts donated as part of the collection in 1921.</p>
+               </processinfo>
+               <scopecontent id="aspace_ae7a9bf5a30215882e8338aa8a9b1f0b">
+                  <head>Scope and Contents</head>
+                  <p>Late 18th-century or 19th-century dome-top wood trunk covered in decorative paper. 23 (height) x 44 (width) x 26 (depth) cm.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_2097575e6769a87870fe43e0a2932a07" level="file">
+               <did>
+                  <unittitle>Wallpaper from the Fisher homestead in Franklin, Massachusetts</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098963540)"
+                             altrender="flat box (16d 1h 20w)"
+                             id="aspace_69374055ff957c905552e8e4efc6f5c0"
+                             type="box">10 (Oversize)</container>
+                  <container id="aspace_10b09ce0ea04075b0dbb670da017e96f"
+                             type="folder"
+                             parent="aspace_69374055ff957c905552e8e4efc6f5c0">153</container>
+               </did>
+            </c>
+            <c id="aspace_07460da53fa4bfea4feb46ec95807174" level="file">
+               <did>
+                  <unittitle>Yale College diploma of Alexander Metcalf Fisher, B.A.</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1813">1813</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_38c05d5ec9a5dd7befaa2d7da56cc513"
+                             type="box">9</container>
+                  <container id="aspace_bbaecaf2256cd18ff04fb622b994cec1"
+                             type="folder"
+                             parent="aspace_38c05d5ec9a5dd7befaa2d7da56cc513">150</container>
+               </did>
+            </c>
+            <c id="aspace_350cca51c3719e597183f7777d382c90" level="file">
+               <did>
+                  <unittitle>Yale College "Scheme of the exercises, at the public commencement", printed handbill</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1813-09-01">1813-09-01</unitdate>
+                  
+                  <container label="Mixed Materials (39002099260623)"
+                             altrender="archive half legal"
+                             id="aspace_ca03500d69e02b405c287e7edf293534"
+                             type="box">9</container>
+                  <container id="aspace_76be1d3b6899b7551ba38c27af2349e3"
+                             type="folder"
+                             parent="aspace_ca03500d69e02b405c287e7edf293534">151</container>
+               </did>
+            </c>
+            <c id="aspace_71cf7b6774d6640a249b5fa5a1626160" level="file">
+               <did>
+                  <unittitle>Yale College student list, printed handbill</unittitle>
+                  <unitdate type="inclusive">circa 1815</unitdate>
+                  <container label="Mixed Materials (39002098963540)"
+                             altrender="flat box (16d 1h 20w)"
+                             id="aspace_280018af639a6f3905a589586c621cc2"
+                             type="box">10 (Oversize)</container>
+                  <container id="aspace_a712c88b5425388c4f31b3af72f314f6"
+                             type="folder"
+                             parent="aspace_280018af639a6f3905a589586c621cc2">154</container>
+               </did>
+               <processinfo id="aspace_589287f6b168876236868c674953f6f9">
+                  <head>Processing Information</head>
+                  <p>Manuscript note in ink on verso: "Papers written during derangement." The handbill may have previously been used as a wrapper for the diary and notes in Series II., Box 2, Folders 25-26.</p>
+               </processinfo>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

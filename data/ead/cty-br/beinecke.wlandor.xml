@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.wlandor">beinecke.wlandor</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Walter Savage Landor Collection
+ </titleproper>
+            <titleproper type="filing">Landor (Walter Savage) Collection</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>June 1997</date>
+            <num>GEN MSS 255</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday January 22, 2019 at 06:03</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Walter Savage Landor collection</unittitle>
+         <unitid>GEN MSS 255</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.4</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(7 boxes) + 1 broadside folder</physdesc>
+         
+            <unitdate type="inclusive" normal="1775/1864">1775-1864</unitdate>
+         
+         <abstract id="aspace_3c09fc5e605a05770e03a131d54d0e13">Correspondence, writings, printed material, and artwork by or relating to Walter Savage Landor. Correspondence includes 12 ALS to William Allingham, an open letter to Ralph Waldo Emerson, and 2 ALS to Frances Milton Trollope. The writings include three sets of proof-sheets for Dry Sticks, a printed copy of Gebir, Count Julian, and other poems, with copious ms. corrections, excisions, etc. Accompanying material includes three pencil portraits of Landor by William Wetmore Story.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n79093401"
+                      rules="aacr"
+                      source="naf">
+               Landor, Walter Savage, 1775-1864
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_362e862adb1023800caf4b8f3bb90422">
+         <head>Immediate Source of Acquisition</head>
+         <p>Ongoing collection of documents acquired by gift and purchase from various sources. Type of accession (gift or purchase) and date of acquisition is noted in the box-and-folder list. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <userestrict id="aspace_3638f2d0bb22966546bd628dffb80984">
+         <head>Conditions Governing Use</head>
+         <p>The Walter Savage Landor Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_bbbc3752d2ae6c4b9c0a23f76394e893">
+         <head>Preferred Citation</head>
+         <p>Walter Savage Landor Collection. General Collection, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_971211ee46e707cd2419879d251ee0c4">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>
+            <title type="simple" render="italic">
+               Restricted Fragile Papers
+            </title> in the broadside folder may only be consulted with permission of the appropriate curator. Preservation photocopies for reference use have been substituted in the main files.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_a11b8ff6b3879d61b74bdf017b723d95">
+         <head>Processing Information</head>
+         <p>This finding aid was produced from previously existing cards in the Manuscripts Catalog, or from another inventory. All pertinent bibliographical information has been retained. If the collection also contains unlisted or unsorted material, it has been noted in the box-and-folder list. This finding aid will be updated periodically to account for new materials that may be added to the collection. The date of the most recent update is noted on the title page. For information on material that may have been added since the last update, please consult the Public Service Desk.</p>  
+      </processinfo>
+      <scopecontent id="aspace_df5e0d8c0ad6d8c04dbbc65b0d73e4cf">
+         <head>Scope and Contents</head>
+         <p>This finding aid encompasses accessions of single manuscripts and small groups of manuscripts and other papers, by or pertaining to Walter Savage Landor, which the library has chosen to group and list as an artificial collection. Materials given by George Arents are organized into the first series. Materials given by Ray L. Murphy are organized into the second series. Additional materials comprise the third series.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009861"
+                  source="lcsh">
+            Authors, English -- Archives
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300033973" source="aat">
+            Drawings (visual works)
+         </genreform>
+         <title source="local">
+            Dry sticks
+         </title>
+         <title source="local">
+            Gebir, Count Julian, and other poems
+         </title>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79144634"
+                   source="naf">
+            Allingham, William, 1824-1889
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78085476"
+                   rules="aacr"
+                   source="naf">
+            Emerson, Ralph Waldo, 1803-1882
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79093401"
+                   rules="aacr"
+                   source="naf">
+            Landor, Walter Savage, 1775-1864
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50048713"
+                   source="naf">
+            Story, William Wetmore, 1819-1895
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50012547"
+                   source="naf">
+            Trollope, Frances Milton, 1780-1863
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Gift of George Arents</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <scopecontent id="aspace_bbab22b691cd00e343b0ba86ff7af631">
+               <head>Scope and Contents</head>
+               <p>Gift of George Arents, 1952</p>
+            </scopecontent>
+            <c id="ref12" level="subseries">
+               <did>
+                  <unittitle>Letters from Walter Savage Landor</unittitle>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Copy (in an unidentified hand) of a letter from Landor to W. J. Birch, no place</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_d44d88a7e08b5a9bc7a6bc272da5e6b7"
+                                type="box">1</container>
+                     <container id="aspace_ceb91ffcda019fe0a771b23f6506d0d8"
+                                type="folder"
+                                parent="aspace_d44d88a7e08b5a9bc7a6bc272da5e6b7">1</container>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>AL to Mr. Colburn, Florence</unittitle>
+                     <unitdate type="inclusive">1825 Oct 18</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_d98f1c813d103d92c30b3e901f773e7b"
+                                type="box">1</container>
+                     <container id="aspace_e9efb3af5586101a59b6168ff24d8b2b"
+                                type="folder"
+                                parent="aspace_d98f1c813d103d92c30b3e901f773e7b">2</container>
+                  </did>
+                  <scopecontent id="aspace_f1d4e2026ac12ea778305130cb21b4b1">
+                     <head>Scope and Contents</head>
+                     <p>Contained on the same leaf is an ALS to [Julius] Hare</p>
+                  </scopecontent>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>ALS to [Julius] Hare</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <relatedmaterial id="aspace_68d29a86dff23ad20157a5b31ae03bf5">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref14">See: Box 1, folder 2</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>ANS to Newby</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <relatedmaterial id="aspace_9ff9582b47d8201c55f043a91b972513">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref25">See: Box 1, folder 4</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>ALS to an unidentified recipient</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_59d78815a4088049f8adcf11c2fa0479"
+                                type="box">1</container>
+                     <container id="aspace_7add4f6e92b0d7ae3fcf7712b7ddb334"
+                                type="folder"
+                                parent="aspace_59d78815a4088049f8adcf11c2fa0479">3</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref21" level="subseries">
+               <did>
+                  <unittitle>Writings by Walter Savage Landor</unittitle>
+               </did>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Imaginary Conversation of King Carlo- Alberto and the Duchess Belgioioso on the Affairs and Prospects of Italy,
+                        </title> autograph manuscript of pages [3]-9 of the printed text</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <scopecontent id="aspace_dec08b8c734ea5c90cab15e3e820ec95">
+                     <head>Scope and Contents</head>
+                     <p>Accompanied by ANS to his publisher, Newby, asking that copies of his last volume be sent to Mr. Forster and Mr. Browning</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_846592d52b7187f34e971819ec7e47f0">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref109">See: Oversize, box 7, folder 44</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>AN concerning the story of "The Rose and Nightingale"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_80c763f21d053eb8bdf5c23217fc0d00"
+                                type="box">1</container>
+                     <container id="aspace_d2598794337d69d58fd873dc1bff8b8e"
+                                type="folder"
+                                parent="aspace_80c763f21d053eb8bdf5c23217fc0d00">4</container>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Original Dedication to the First Edition of Landor's Writings,
+                        </title> printed copy</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_3e5b84a65c1c5b680f1ba7eaec0f42f9"
+                                type="box">1</container>
+                     <container id="aspace_865a7b583203500d48b16a681b54c862"
+                                type="folder"
+                                parent="aspace_3e5b84a65c1c5b680f1ba7eaec0f42f9">5</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref28" level="series">
+            <did>
+               <unittitle>Bequest of Ray L. Murphy</unittitle>
+               <unitid>Series II</unitid>
+            </did>
+            <scopecontent id="aspace_0d2ee1ba6968c1d6c293ba5a6ea957fb">
+               <head>Scope and Contents</head>
+               <p>Bequest of Ray L. Murphy, 1954</p>
+            </scopecontent>
+            <c id="ref29" level="subseries">
+               <did>
+                  <unittitle>Letters by Walter Savage Landor</unittitle>
+               </did>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>12 ALS to William Allingham, Bath</unittitle>
+                     <unitdate type="inclusive">1850-54</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_67bc02520825e3b186955c86a7bf63df"
+                                type="box">1</container>
+                     <container id="aspace_e1fcaf137d10500106705387499d7509"
+                                type="folder"
+                                parent="aspace_67bc02520825e3b186955c86a7bf63df">6</container>
+                  </did>
+                  <scopecontent id="aspace_7181c76b1b8b321500375668f3233ffd">
+                     <head>Scope and Contents</head>
+                     <p>According to a note by Allingham, the first part of the letter of 27 Apr 1853 was destroyed at Landor's request; the letter of 28 July 1853 contains a draft of a letter from Landor to Monckton Milnes</p>
+                  </scopecontent>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>ALS to Mr. Colburn, Florence</unittitle>
+                     <unitdate type="inclusive">1825 Nov 24</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_ecf607174c803f331d20c039d754dbe1"
+                                type="box">1</container>
+                     <container id="aspace_03497328d0b37ee69122f4af90112449"
+                                type="folder"
+                                parent="aspace_ecf607174c803f331d20c039d754dbe1">7</container>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>AL to [Ralph Waldo Emerson], Florence</unittitle>
+                     <unitdate type="inclusive">[1856 Aug 27]</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_83eebacd5c7d0e26c0c0d884816bd707"
+                                type="box">1</container>
+                     <container id="aspace_f759a42c98bc5a345b5419720d0fca7b"
+                                type="folder"
+                                parent="aspace_83eebacd5c7d0e26c0c0d884816bd707">8</container>
+                  </did>
+                  <scopecontent id="aspace_55c06b3b043389a4acafd68cae3d38c3">
+                     <head>Scope and Contents</head>
+                     <p>This open letter was printed in pamphlet form shortly after it was written</p>
+                  </scopecontent>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>2 ALS to G. J. Holyoake, Florence</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_594f745ddb60ee748a332f74e543ce99"
+                                type="box">1</container>
+                     <container id="aspace_84c91c6a3a7419a3435a53e97ce385ad"
+                                type="folder"
+                                parent="aspace_594f745ddb60ee748a332f74e543ce99">9</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Draft of a letter to Monckton Milnes</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                  </did>
+                  <relatedmaterial id="aspace_333b42416c306006817249e8c1957dbd">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref32">See: Box 1, folder 7</ref>
+                     </p>
+                  </relatedmaterial>
+               </c>
+            </c>
+            <c id="ref38" level="subseries">
+               <did>
+                  <unittitle>Writings by Walter Savage Landor</unittitle>
+               </did>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Dry Sticks.
+                        </title> Three sets of proof-sheets, and five additional signatures</unittitle>
+                     <unitdate type="inclusive">1858</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_e605dd2b75156aefff976917369483a3"
+                                type="box">1</container>
+                     <container id="aspace_4224e4135fe4397b117d4196f73c65ce"
+                                type="folder"
+                                parent="aspace_e605dd2b75156aefff976917369483a3">10-13</container>
+                  </did>
+                  <scopecontent id="aspace_da52451d2faecea0f59414da796d55f7">
+                     <head>Scope and Contents</head>
+                     <p>With copious ms. corrections, many in Landor's hand</p>
+                  </scopecontent>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           On the Fast Appointed for K. Charles's Martyrdom,
+                        </title> autograph ms., signed</unittitle>
+                     <unitdate type="inclusive">1854 Jan 15</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_9a9113cd161fc129a8c9d1c60e7d124a"
+                                type="box">1</container>
+                     <container id="aspace_f3a5735a443b34007ab18d62f4dfcf29"
+                                type="folder"
+                                parent="aspace_9a9113cd161fc129a8c9d1c60e7d124a">14</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>"Life of Walter Savage Landor," ms. biography written in an unidentified hand</unittitle>
+                     <unitdate type="inclusive">1888 Apr</unitdate>
+                     <container label="Mixed Materials (39002099281140)"
+                                id="aspace_7ce3dc5d87faf6809aa89b61fcb6ae3e"
+                                type="box">1</container>
+                     <container id="aspace_674c2f65e868ca61ada9f99f94cf1c54"
+                                type="folder"
+                                parent="aspace_7ce3dc5d87faf6809aa89b61fcb6ae3e">15</container>
+                  </did>
+                  <scopecontent id="aspace_2b19025a16011efb103ce96b672acf3b">
+                     <head>Scope and Contents</head>
+                     <p>Bound volume</p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c id="ref45" level="series">
+            <did>
+               <unittitle>Additional Materials</unittitle>
+               <unitid>Series III</unitid>
+            </did>
+            <scopecontent id="aspace_cbeb2eadb249abb3dd886314bb4e17e9">
+               <head>Scope and Contents</head>
+               <p>Other materials received from various sources</p>
+            </scopecontent>
+            <c id="ref47" level="subseries">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>ALS to Marguerite Blessington, Countess of</unittitle>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_a0e534259ce3f6eb8346673f6a784c62"
+                                type="box">2</container>
+                     <container id="aspace_5d1fb6304253ecf3868e298a063ee9f8"
+                                type="folder"
+                                parent="aspace_a0e534259ce3f6eb8346673f6a784c62">16</container>
+                  </did>
+                  <scopecontent id="aspace_f59aad89eae3727e61462acb6c2359f5">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>ALS to Mrs. Borough</unittitle>
+                     <unitdate type="inclusive">n.y. Dec 26</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_2928d1e6002b0b9b24b887737f62ff19"
+                                type="box">2</container>
+                     <container id="aspace_72a7e0a3922696bd2bdc2e1a145d3b24"
+                                type="folder"
+                                parent="aspace_2928d1e6002b0b9b24b887737f62ff19">17</container>
+                  </did>
+                  <scopecontent id="aspace_f5583888748d3d065f0a6c68fcf1b3da">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>ALS (fragment) to "Elizabeth"</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_2fc406728444871aeb137b8b8389a6a8"
+                                type="box">2</container>
+                     <container id="aspace_42acd32f3c2353306e1ab561a35a4c96"
+                                type="folder"
+                                parent="aspace_2fc406728444871aeb137b8b8389a6a8">18</container>
+                  </did>
+                  <scopecontent id="aspace_745578a1f3805ca23190f6aa08a26781">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>3 ALS to J. Garrow</unittitle>
+                     <unitdate type="inclusive">[1838]</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_26b99414d6c9f2396e4e19d91b5548cb"
+                                type="box">2</container>
+                     <container id="aspace_6e427e404a0031e1db68052534a36f8f"
+                                type="folder"
+                                parent="aspace_26b99414d6c9f2396e4e19d91b5548cb">19</container>
+                  </did>
+                  <scopecontent id="aspace_980e179aa08e3051d542a642e68dbca6">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>2 ALS to Miss Garrow</unittitle>
+                     <unitdate type="inclusive">[1840, 1846]</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_04de806fe8d4707bf55d649d599937de"
+                                type="box">2</container>
+                     <container id="aspace_05b795194fa22a76b4c799037e71053a"
+                                type="folder"
+                                parent="aspace_04de806fe8d4707bf55d649d599937de">20</container>
+                  </did>
+                  <scopecontent id="aspace_7ff235aec826675f082f1cc0a7d2035c">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1960</p>
+                  </scopecontent>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>ALS to [James Jackson Jarves], [Florence]</unittitle>
+                     <unitdate type="inclusive">[1859? Nov 14]</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_b142329b844e54e1e2e4df18982f367c"
+                                type="box">2</container>
+                     <container id="aspace_619f574b441fdcd4947c6359451c5aed"
+                                type="folder"
+                                parent="aspace_b142329b844e54e1e2e4df18982f367c">21</container>
+                  </did>
+                  <scopecontent id="aspace_bcf2df810ea03082a4f7fe9ebf344fa4">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1946</p>
+                  </scopecontent>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>ALS to Rosina Bulwer Lytton, Baroness</unittitle>
+                     <unitdate type="inclusive">[1838?]</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_e9edef9ef0a302d5adf446a1cff3a6c1"
+                                type="box">2</container>
+                     <container id="aspace_02850722413c2d419fd55465b1fbc4f3"
+                                type="folder"
+                                parent="aspace_e9edef9ef0a302d5adf446a1cff3a6c1">22</container>
+                  </did>
+                  <scopecontent id="aspace_633a5c7c4bcd41f23d713d4289f4da5b">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>ALS to Henry Stephens, Bath</unittitle>
+                     <unitdate type="inclusive">[1850] Feb 5</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_f580d04237b6f4bc5b73f2dce4713e9f"
+                                type="box">2</container>
+                     <container id="aspace_d227b745f4fcea40891c333f292ea552"
+                                type="folder"
+                                parent="aspace_f580d04237b6f4bc5b73f2dce4713e9f">23</container>
+                  </did>
+                  <scopecontent id="aspace_255d7b730c75d8ba532361724976d5e7">
+                     <head>Scope and Contents</head>
+                     <p>Mounted on sheet of paper are the letter, the envelope, the autograph ms. of and a printed copy of his <title type="simple" render="italic">
+                           Proper Lesson for Charles's Martyrdom
+                        </title>
+                     </p>
+                  </scopecontent>
+               </c>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>ALS to Mrs. Story</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_593c7979b22e3e865ebc7d43cfd79e38"
+                                type="box">2</container>
+                     <container id="aspace_9a711e9db98954bce106d0546a7e49f5"
+                                type="folder"
+                                parent="aspace_593c7979b22e3e865ebc7d43cfd79e38">24</container>
+                  </did>
+                  <scopecontent id="aspace_278c485b483326d4e4e70a943b4fc748">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref66" level="file">
+                  <did>
+                     <unittitle>Copy of ALS to Henry Taylor, Bath</unittitle>
+                     <unitdate type="inclusive">[1843?] May 13</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_8b933d0693b779a7c2c86281dfd81421"
+                                type="box">2</container>
+                     <container id="aspace_c56d071887719a23ec09c387b2676699"
+                                type="folder"
+                                parent="aspace_8b933d0693b779a7c2c86281dfd81421">25</container>
+                  </did>
+                  <scopecontent id="aspace_88b502e4652630f1a4c5bbad65488535">
+                     <head>Scope and Contents</head>
+                     <p>The letter is concerned with a monument to the memory of Robert Southey</p>
+                  </scopecontent>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>ALS to Messrs. Taylor &amp; Co., Florence</unittitle>
+                     <unitdate type="inclusive">1823 May 29</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_14245b7f89b6263d18a09d53352b6b26"
+                                type="box">2</container>
+                     <container id="aspace_219722ba89addde4c761669843bc3127"
+                                type="folder"
+                                parent="aspace_14245b7f89b6263d18a09d53352b6b26">26</container>
+                  </did>
+                  <scopecontent id="aspace_26ecd1ff103c630753219edbd9246629">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1954</p>
+                  </scopecontent>
+               </c>
+               <c id="ref70" level="file">
+                  <did>
+                     <unittitle>2 ALS to [Frances Milton] Trollope</unittitle>
+                     <unitdate type="inclusive">[1849], n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_6d0d90b1466b8a9e2af12dc3457d252c"
+                                type="box">2</container>
+                     <container id="aspace_d78b1d1a26ae861831f9eb184aeead7d"
+                                type="folder"
+                                parent="aspace_6d0d90b1466b8a9e2af12dc3457d252c">27</container>
+                  </did>
+                  <scopecontent id="aspace_fb405afa9ebcba501b21e25af57406f9">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1960</p>
+                  </scopecontent>
+               </c>
+               <c id="ref72" level="file">
+                  <did>
+                     <unittitle>ALS to [John Warter], Bath</unittitle>
+                     <unitdate type="inclusive">n.y. Nov 11</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_d5ab16566475a47e6623b2497c2b78aa"
+                                type="box">2</container>
+                     <container id="aspace_0b2b0d34bc1912a917163d071a061c8e"
+                                type="folder"
+                                parent="aspace_d5ab16566475a47e6623b2497c2b78aa">28</container>
+                  </did>
+                  <scopecontent id="aspace_0a6a97f756269f079b509f4af56abbaa">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1983</p>
+                  </scopecontent>
+               </c>
+               <c id="ref74" level="file">
+                  <did>
+                     <unittitle>2 ALS to unidentified recipients</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_835ee55d40c1169cacbce325706e92da"
+                                type="box">2</container>
+                     <container id="aspace_a40e3168393a0140a9c2c115bcbc3d95"
+                                type="folder"
+                                parent="aspace_835ee55d40c1169cacbce325706e92da">29</container>
+                  </did>
+                  <scopecontent id="aspace_bddb25b5aeab24c7eaeaa90c60841c1f">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1955</p>
+                  </scopecontent>
+               </c>
+               <c id="ref76" level="file">
+                  <did>
+                     <unittitle>6 ALS to unidentified recipients</unittitle>
+                     <unitdate type="inclusive">[1849], n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_843d0098161194e547df3ab32e23f22f"
+                                type="box">2</container>
+                     <container id="aspace_1372d2f92253a4f597de2d99164a152b"
+                                type="folder"
+                                parent="aspace_843d0098161194e547df3ab32e23f22f">30</container>
+                  </did>
+                  <scopecontent id="aspace_882fbe5a7d17b4a31d14e78df0b202f9">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1960</p>
+                  </scopecontent>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>ALS to unidentified recipient</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_a0277dab2e9509c6b32ce038c6d54457"
+                                type="box">2</container>
+                     <container id="aspace_ea401eaef889af54161cfc59c911e779"
+                                type="folder"
+                                parent="aspace_a0277dab2e9509c6b32ce038c6d54457">31</container>
+                  </did>
+                  <scopecontent id="aspace_2d9642b34afb64186f355c9d61b3b286">
+                     <head>Scope and Contents</head>
+                     <p>Miss Mitford encouraged the unidentified recipient to send his verses to Landor for criticism Purchase, 1953</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref80" level="subseries">
+               <did>
+                  <unittitle>Writings by Walter Savage Landor</unittitle>
+               </did>
+               <c id="ref81" level="file">
+                  <did>
+                     <unittitle>"Ad Garibaldum," AMs poem, signed</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_37becf1fd6b7578136ceeae551ca7a25"
+                                type="box">2</container>
+                     <container id="aspace_c3a09c09c62375aa06b805f1069bf1ad"
+                                type="folder"
+                                parent="aspace_37becf1fd6b7578136ceeae551ca7a25">32</container>
+                  </did>
+                  <scopecontent id="aspace_5326271886157c1adc6a21537a496d17">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1962</p>
+                  </scopecontent>
+               </c>
+               <c id="ref83" level="file">
+                  <did>
+                     <unittitle>"Babbo e Figliola," autograph ms. verse dialogue, written in Italian</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_09d1b7bdd4c6c7f07ccc40c4bbcc836d"
+                                type="box">2</container>
+                     <container id="aspace_8a67874fb39391c799ba8e2408496fff"
+                                type="folder"
+                                parent="aspace_09d1b7bdd4c6c7f07ccc40c4bbcc836d">33</container>
+                  </did>
+                  <scopecontent id="aspace_94fc4637be03cef50d16fac0f93d465c">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1952</p>
+                  </scopecontent>
+               </c>
+               <c id="ref85" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Gebir, Count Julian, and other poems
+                        </title>, with copious ms. corrections, excisions, etc. in Landor's hand</unittitle>
+                     <unitdate type="inclusive">1831</unitdate>
+                     <container label="Mixed Materials (39002099281165)"
+                                id="aspace_328712d90f67eb9890d1fef2d36d8bd9"
+                                type="box">3</container>
+                     <container id="aspace_3f24f941ca34fdf4f4002233055d3394"
+                                type="folder"
+                                parent="aspace_328712d90f67eb9890d1fef2d36d8bd9">40</container>
+                  </did>
+                  <scopecontent id="aspace_46af9df16e59cff55f1c0a07f9bfb0b9">
+                     <head>Scope and Contents</head>
+                     <p>In ms. inside front cover: "WS Landor to RB [i.e. Robert Browning]", original boards, printed label on spine wanting</p>
+                  </scopecontent>
+               </c>
+               <c id="ref87" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Imaginary Conversation; Emma and Her Parents,
+                        </title> autograph ms. signed "W. S. Landor"</unittitle>
+                     <unitdate type="inclusive">[1860?]</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_b2c0cedfcd0ef58c43c37e685feef5c9"
+                                type="box">2</container>
+                     <container id="aspace_2f00e2f810ccd6f089f0bb661eb3810b"
+                                type="folder"
+                                parent="aspace_b2c0cedfcd0ef58c43c37e685feef5c9">34</container>
+                  </did>
+                  <scopecontent id="aspace_9767ea1e6119c5421f6c2edae8ace715">
+                     <head>Scope and Contents</head>
+                     <p>Accompanied by an envelope addressed to G. H. Holyoake, Esq. Purchase, 1942</p>
+                  </scopecontent>
+               </c>
+               <c id="ref89" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Imaginary Conversations of Literary Men and Statesmen....
+                        </title> Vol. 1. London: Printed for Taylor and Hessey</unittitle>
+                     <unitdate type="inclusive">1824</unitdate>
+                     <container label="Mixed Materials (39002099281173)"
+                                id="aspace_0143c924bc289299cf45dc4dbd189809"
+                                type="box">4</container>
+                     <container id="aspace_4e87b5ffc85b488ed21aa8f983924148"
+                                type="folder"
+                                parent="aspace_0143c924bc289299cf45dc4dbd189809">41</container>
+                  </did>
+                  <scopecontent id="aspace_b84f78526c6fba78668603b617b2878f">
+                     <head>Scope and Contents</head>
+                     <p>Landor's copy, with his book-plate, and with copious ms. corrections, additions, and excisions, in his hand, imperfect: v.3 and 5 wanting</p>
+                  </scopecontent>
+               </c>
+               <c id="ref91" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Imaginary Conversations of Literary Men and Statesmen....
+                        </title> Vol. 2. London: Printed for Taylor and Hessey</unittitle>
+                     <unitdate type="inclusive">1824</unitdate>
+                     <container label="Mixed Materials (39002099281181)"
+                                id="aspace_39b4644ab5a3aabb6eb8dd571ca0b92d"
+                                type="box">5</container>
+                     <container id="aspace_0d6ddc1e145ca6dd0975130b4c8f6542"
+                                type="folder"
+                                parent="aspace_39b4644ab5a3aabb6eb8dd571ca0b92d">42</container>
+                  </did>
+                  <scopecontent id="aspace_cf46b6da0a2456073867c5d1e207b853">
+                     <head>Scope and Contents</head>
+                     <p>Landor's copy, with his book-plate, and with copious ms. corrections, additions, and excisions, in his hand, imperfect: v.3 and 5 wanting</p>
+                  </scopecontent>
+               </c>
+               <c id="ref93" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Imaginary Conversations of Literary Men and Statesmen...
+                        </title> Second Series. The First Volume. London: Printed for Taylor and Hessey</unittitle>
+                     <unitdate type="inclusive">1829</unitdate>
+                     <container label="Mixed Materials (39002099281199)"
+                                id="aspace_3d36e17704d300b4afcaa59e625e48de"
+                                type="box">6</container>
+                     <container id="aspace_bcfd36e831f43b4e8a016a65c83b174d"
+                                type="folder"
+                                parent="aspace_3d36e17704d300b4afcaa59e625e48de">43</container>
+                  </did>
+                  <scopecontent id="aspace_a29e80c04eb28fb577f18a7e5a828079">
+                     <head>Scope and Contents</head>
+                     <p>Landor's copy, with his book-plate, and with copious ms. corrections, additions, and excisions, in his hand, imperfect: v.3 and 5 wanting</p>
+                  </scopecontent>
+               </c>
+               <c id="ref95" level="file">
+                  <did>
+                     <unittitle>"Lead for Casa Guidi windows," autograph ms., signed</unittitle>
+                     <unitdate type="inclusive">n.y. Jun 29</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_c92b65b25b85f7501aeca50c792ee9b8"
+                                type="box">2</container>
+                     <container id="aspace_5e5af392e440958db61e88e96d1d6f81"
+                                type="folder"
+                                parent="aspace_c92b65b25b85f7501aeca50c792ee9b8">35</container>
+                  </did>
+                  <scopecontent id="aspace_f3e2051f9f6d59fdc50f65e568e713cb">
+                     <head>Scope and Contents</head>
+                     <p>Purchase, 1960</p>
+                  </scopecontent>
+               </c>
+               <c id="ref97" level="file">
+                  <did>
+                     <unittitle>"Proper Lesson for Charles's Martyrdom," autograph ms., signed</unittitle>
+                     <unitdate type="inclusive">1850 Jan 30</unitdate>
+                  </did>
+                  <scopecontent id="aspace_28da5534e65fe0f4013fcdf5e2ed15a0">
+                     <head>Scope and Contents</head>
+                     <p>Mounted on sheet of paper together with an envelope addressed to Henry Stephens, and a printed copy of the "Proper Lesson..."</p>
+                  </scopecontent>
+                  <relatedmaterial id="aspace_ea8a00e94847f0c8c1f41ab0cf3d2214">
+                     <head>Related Archival Materials note</head>
+                     <p>
+                        <ref xlink:actuate="onRequest" xlink:show="replace" target="ref62">See: Box 2, folder 23</ref>
+                     </p>
+                  </relatedmaterial>
+                  <c id="ref98" level="file">
+                     <did>
+                        <unittitle>"To Robert Browning," autograph ms., signed</unittitle>
+                        <unitdate type="inclusive">1845 Nov 22</unitdate>
+                        <container label="Mixed Materials (39002099281157)"
+                                   id="aspace_a27522660348b7eaeae4ec91d1104fca"
+                                   type="box">2</container>
+                        <container id="aspace_10306b13a77a2e4d362724e76032d072"
+                                   type="folder"
+                                   parent="aspace_a27522660348b7eaeae4ec91d1104fca">36</container>
+                     </did>
+                     <scopecontent id="aspace_58e1e7d7384a2254017bc103dd800e71">
+                        <head>Scope and Contents</head>
+                        <p>Accompanied by a letter from Prof. C. B. Tinker to William Lyon Phelps, presenting the manuscript to the latter, dated 1932 Oct 1. Also accompanied by a letter from Andrew Keogh to William Lyon Phelps, concerning the first publication of the sonnet. Letter dated 1934 Jul 23</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref102" level="file">
+                  <did>
+                     <unittitle>Unidentified ms., fragment</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_28064f3e0a1493b4555f11f7409b9eaa"
+                                type="box">2</container>
+                     <container id="aspace_506404b62019d8fa68da3003b43587e3"
+                                type="folder"
+                                parent="aspace_28064f3e0a1493b4555f11f7409b9eaa">37</container>
+                  </did>
+                  <scopecontent id="aspace_a2017d6e00f4f531a95b751e5733ac26">
+                     <head>Scope and Contents</head>
+                     <p>Gift, 1955</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref104" level="subseries">
+               <did>
+                  <unittitle>Artwork</unittitle>
+               </did>
+               <c id="ref105" level="file">
+                  <did>
+                     <unittitle>Three pencil portraits of Walter Savage Landor, signed W. W. S. [William Wetmore Story], Siena</unittitle>
+                     <unitdate type="inclusive">1859 Jul-Oct</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_7670fb2efa89aab7b36907f24246c303"
+                                type="box">2</container>
+                     <container id="aspace_5d7686b88f6ad6d3be37cf87defeca9b"
+                                type="folder"
+                                parent="aspace_7670fb2efa89aab7b36907f24246c303">38</container>
+                  </did>
+                  <scopecontent id="aspace_2e847a4721519d514a616ceb8faa0d3a">
+                     <head>Scope and Contents</head>
+                     <p>For information about the origin of these sketches, see M.F. Ashley- Montagu's "Three unknown portraits of Walter Savage Landor" in "The Colophon", n.s., v.2, no.2, p. 257-62. Accompanied by four TLS from Elmer Adler to Russell G. Pruden Jul 9-Sep 23, 1936, concerning the article in "The Colophon" Gift, 1949</p>
+                  </scopecontent>
+               </c>
+               <c id="ref107" level="file">
+                  <did>
+                     <unittitle>Engraved portrait of Landor</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099281157)"
+                                id="aspace_47367ed92fbd098d24396ac4c7c9aef0"
+                                type="box">2</container>
+                     <container id="aspace_01b3470e946311c3fbcdfe914876bd91"
+                                type="folder"
+                                parent="aspace_47367ed92fbd098d24396ac4c7c9aef0">39</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref108" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref109" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Imaginary Conversation of King Carlo- Alberto and the Duchess Belgioioso on the Affairs and Prospects of Italy,
+                     </title> autograph manuscript of pages [3]-9 of the printed text</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002093768043)"
+                             id="aspace_a539d1e647ce64850721a4ff775c62bd"
+                             type="box">7</container>
+                  <container id="aspace_ccb919163b4fdd53aeb9adf37c12023a"
+                             type="folder"
+                             parent="aspace_a539d1e647ce64850721a4ff775c62bd">44</container>
+               </did>
+               <scopecontent id="aspace_2f2a7dd54f30033da98fc8c6a4d962c7">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by ANS to his publisher, Newby, asking that copies of his last volume be sent to Mr. Forster and Mr. Browning</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref111" level="series">
+            <did>
+               <unittitle>Restricted Fragile Material</unittitle>
+            </did>
+            <c id="ref112" level="file">
+               <did>
+                  <unittitle>Box 1, folder 8</unittitle>
+                  <container label="Mixed Materials (39002099281066)"
+                             id="aspace_46ae5ac892f7d5fdc74688d92a965844"
+                             type="box">bsd, folder 45</container>
+               </did>
+               <accessrestrict id="aspace_cabfc38d9e8d551e96e534ad75cf1435">
+                  <head>Conditions Governing Access</head>
+                  <p>Restricted fragile material.  Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</p>
+               </accessrestrict>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

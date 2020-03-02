@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200521.xml">VHP200521</eadid>
+
+<filedesc>
+            <titlestmt>
+                <titleproper>Frank Esuchenko Papers
+                    <num>VHP2005/21</num>
+                </titleproper>
+                <subtitle>An Inventory of Frank Esuchenko at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Witt Meesangnil</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                </address>
+                <date>6/19/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-20T13:35-0400</date>
+            </creation>
+            <langusage>eng</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Frank Esuchenko Papers</unittitle>
+            <unitid>VHP2005/21</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>164.0 Digital objects</extent>
+                <extent>1 interview DVD</extent>
+            </physdesc>
+            <unitdate normal="1944/1946" type="bulk">Bulk, 1944-1946</unitdate>
+            <unitdate normal="1944/2005" type="inclusive">1944 - 1946, 2005</unitdate>
+            <physloc id="ref82" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <abstract id="ref85" label="Abstract">The collection details experience of Frank Esuchenko during World War II which he served with U.S. Army in the Pacific. Materials in the collection include oral history interview, service records, journal, war time military newspaper, and photographs.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Esuchenko, Frank, 1921 -</persname>
+            </origination>
+        </did>
+        <bioghist id="ref77">
+            <head>Biographical/Historical note</head>
+            <p>Esuchenko was drafted into the U.S. Army from Bridgeport, CT. He would have preferred the Navy, but he was not given the choice. He went to basic trianing at Camp Claiborne (LA), and then was sent to Okinawa Island. However, he was unable to leave with his original unit, due to an illness, and left later on with a different unit. His job on Okinawa was to maintain the feul tanks and pump stations for the planes that were flying out. Esuchenko describes the island as very beautiful, but it had been mostly destroyed by the battle. For fun the soldiers played baseball and cards, and sometimes were able to see a movie. After the war in Japan ended, he was sent home and discharged.</p>
+        </bioghist>
+        <accessrestrict id="ref78">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <userestrict id="ref79">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <custodhist id="ref80">
+            <head>Custodial History note</head>
+            <p>All manuscripts and photographs donated were digitized and digitally preserved. The donor retained all original manuscripts and photographs.</p>
+        </custodhist>
+        <altformavail id="ref81">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=992">project's website</extref></p>
+        </altformavail>
+        <phystech id="ref83">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Technical metadata of digital objects are extracted and encoded in PREMIS preservation metadata format 
+                <lb/>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="PREMIS" ns2:href="preservation/preservation metadata/200521premis.xml">Preservation Metadata</extref></p>
+        </phystech>
+        <prefercite id="ref84">
+            <head>Preferred Citation note</head>
+            <p>"Frank Esuchenko Papers.VHP2005/21." Veterans History Project; Central Connecticut State University, Center for Public Policy and Social Research</p>
+        </prefercite>
+        <controlaccess>
+            <corpname rules="local" source="local">United States. Army. Engineer Petroleum Distribution Company, 3182nd.</corpname>
+            <corpname rules="aacr" source="ingest">United States. Army.</corpname>
+            <geogname source="lcnaf">Fort Dix (N.J.)</geogname>
+            <genreform source="aat">Interviews</genreform>
+            <genreform source="aat">Manuscript</genreform>
+            <geogname source="lcsh">Okinawa-shi (Japan)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">World War, 1939-1945</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Japan -- Okinawa Island</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Pacific Area</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Personal narratives, American</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Series I: Personal Papers</unittitle>
+                    <unitid>VHP2005/21.I</unitid>
+                </did>
+                <c02 id="ref7" level="item">
+                    <did>
+                        <unittitle>Order to Report for Induction</unittitle>
+                        <unitid>VHP2005/21.I.1</unitid>
+                        <unitdate normal="1944/1944">Aug. 23, 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Frank's Journal during his trip back to United States</unittitle>
+                        <unitid>VHP2005/21.I.1I</unitid>
+                        <physdesc>
+                            <extent>45.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">July - October, 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>Request card for POWs, Branch POW camp #4 Ono-yama, Okinawa, Japan</unittitle>
+                        <unitid>VHP2005/21.I.3</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">Between 1944 - 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>Discharge paper</unittitle>
+                        <unitid>VHP2005/21.I.4</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Discharge certificate</unittitle>
+                        <unitid>VHP2005/21.I.5</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Drawing of Frank Esuchenko</unittitle>
+                        <unitid>VHP2005/21.I.6</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Okinawa Christmas card</unittitle>
+                        <unitid>VHP2005/21.I.7</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Seasons Greetings from Okinawa</unittitle>
+                        <unitid>VHP2005/21.I.8</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>A bag from store in Shanghai, China</unittitle>
+                        <unitid>VHP2005/21.I.9</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Separation Document</unittitle>
+                        <unitid>VHP2005/21.I.10</unitid>
+                        <physdesc>
+                            <extent>45.0 </extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Japanese military currency</unittitle>
+                        <unitid>VHP2005/21.I.11</unitid>
+                        <physdesc>
+                            <extent>40.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1946" type="inclusive">1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Interview synopsis</unittitle>
+                        <unitid>VHP2005/21.I.12</unitid>
+                        <physdesc>
+                            <extent>40.0 </extent>
+                        </physdesc>
+                        <unitdate normal="2005/2005">Nov. 5, 2005</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Series II: Publications</unittitle>
+                    <unitid>VHP2005/21.II</unitid>
+                </did>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>The Daily Okinawa, Memorial Edition</unittitle>
+                        <unitid>VHP2005/21.II.1</unitid>
+                        <physdesc>
+                            <extent>4.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1946">Apr. 1, 1946</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Series III: Multi-Media</unittitle>
+                    <unitid>VHP2005/21.III</unitid>
+                </did>
+                <c02 id="ref5" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: Still Images</unittitle>
+                        <unitid>VHP2005/21.III</unitid>
+                    </did>
+                    <c03 id="ref20" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko's military photo</unittitle>
+                            <unitid>VHP2005/21.III.1</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="item">
+                        <did>
+                            <unittitle>Thanksgiving at Camp Claiborne, LA</unittitle>
+                            <unitid>VHP2005/21.III.2</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1944">Nov. 1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko, Anna Esuchenko, unknown, unknown (from L - R) Camp Claiborne, LA</unittitle>
+                            <unitid>VHP2005/21.III.3</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="item">
+                        <did>
+                            <unittitle>Ernie Pyle Monument. Shima island, Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.4</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>A view of Naha harbor and the depot, where the unloaded equipment is kept. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.5</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>A foundation of a house that was taken down by the Marines. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.6</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>A Japanese temple</unittitle>
+                            <unitid>VHP2005/21.III.7</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>An Okinawan hut and farmland</unittitle>
+                            <unitid>VHP2005/21.III.8</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>Village on Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.9</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>Okinawans in their village getting water from a water well</unittitle>
+                            <unitid>VHP2005/21.III.10</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>Okinawan engineers</unittitle>
+                            <unitid>VHP2005/21.III.11</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>View of the end of Okinawa's Pacific side</unittitle>
+                            <unitid>VHP2005/21.III.12</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>Pacific side of Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.13</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>Suicide Cliff (where thousands of Japanese commited suicide), Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.14</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>Horse carts</unittitle>
+                            <unitid>VHP2005/21.III.15</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>Japanese plane landing on Shima to talk to General MacArthur of the surrender of Japan. Okinawa.</unittitle>
+                            <unitid>VHP2005/21.III.16</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>A Japanese hangar being repaired by Americans. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.17</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>A Japanese plane that had been shot down. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.18</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>Pump station. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.19</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>Pump station. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.20</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>Gas station. Naha, Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.21</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>Japanese POWs doing work. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.22</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>Rafters on a petroleum tank. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.23</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>Inside petroleum tank being constructed. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.24</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>Building petroleum tanks. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.25</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko(center) building tanks. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.26</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko gauging the petroleum tank. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.27</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>POWs building petroleum tanks. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.28</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>Petroluem tank being constructed</unittitle>
+                            <unitid>VHP2005/21.III.29</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>Petroleum tank</unittitle>
+                            <unitid>VHP2005/21.III.30</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>Petroleum tank</unittitle>
+                            <unitid>VHP2005/21.III.31</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="item">
+                        <did>
+                            <unittitle>Bottom of petroleum tank</unittitle>
+                            <unitid>VHP2005/21.III.32</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="item">
+                        <did>
+                            <unittitle>POWs building petrileum tank. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.33</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="item">
+                        <did>
+                            <unittitle>Using a jackhammer. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.34</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>Crawford, a crane operator. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.35</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>Crane used to build petroleum tanks. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.36</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>Small bulldozer. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.37</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko with dozer. Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.38</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko in front of shed. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.39</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko, petroleum tank site. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.40</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>Crews, petroleum tank site. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.41</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>Supply Corporal Joe Koubek. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.42</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="item">
+                        <did>
+                            <unittitle>Supply Sgt. A. C. Sonsini. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.43</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">Jan. 20, 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="item">
+                        <did>
+                            <unittitle>Frank Esuchenko mopping a floor. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.44</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="item">
+                        <did>
+                            <unittitle>Destruction on Okinawa, Japan</unittitle>
+                            <unitid>VHP2005/21.III.45</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="item">
+                        <did>
+                            <unittitle>After the typhoon, Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.46</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">October 9, 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="item">
+                        <did>
+                            <unittitle>Marine quonset huts, Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.47</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="item">
+                        <did>
+                            <unittitle>What was left of a hangar after a typhoon, Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.48</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="item">
+                        <did>
+                            <unittitle>After typhoon, Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.49</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="item">
+                        <did>
+                            <unittitle>American ship (Landing craft), Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.50</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="item">
+                        <did>
+                            <unittitle>SS John A. Rawlins (Cargo ship) Wrecked in typhoon off Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.51</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="item">
+                        <did>
+                            <unittitle>Cemetery for Marines who died at Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.52</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="item">
+                        <did>
+                            <unittitle>General Simon Boliver Buckner, Jr.'s grave, he led the attack and was killed during the Battle of Okinawa.</unittitle>
+                            <unitid>VHP2005/21.III.53</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="item">
+                        <did>
+                            <unittitle>Island Command Cemetery, East China Sea in background. Okinawa</unittitle>
+                            <unitid>VHP2005/21.III.54</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1944/1946" type="inclusive">Between 1944 - 1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="item">
+                        <did>
+                            <unittitle>A night picture of V-J night on Okinawa, sky was lit with search lights and bullets</unittitle>
+                            <unitid>VHP2005/21.III.55</unitid>
+                            <physdesc>
+                                <extent>4.0 </extent>
+                            </physdesc>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="item">
+                        <did>
+                            <unittitle>Caves on Okinawa</unittitle>
+                            <unitid>VHP2005/16.III.56</unitid>
+                            <unitdate normal="1953/1953">1953</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref6" level="subseries">
+                    <did>
+                        <unittitle>Subseries B: Moving Images</unittitle>
+                        <unitid>VHP2005/21.IIIb</unitid>
+                    </did>
+                    <c03 id="ref76" level="item">
+                        <did>
+                            <unittitle>Oral history interview</unittitle>
+                            <unitid>VHP2005/16.IIIb.1</unitid>
+                            <container id="cid46095" type="Disk" label="Computer disks / tapes">DVD VHP2005/21</container>
+                            <container parent="cid46095" type="Box">VHP Interview #1</container>
+                            <unitdate normal="2005/2005">Nov. 5, 2005</unitdate>
+                            <origination label="creator">
+                                <persname rules="aacr" source="local" role="Interviewer (ivr)">Laczkoski, Jaime</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

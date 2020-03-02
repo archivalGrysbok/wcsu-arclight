@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.thoreau">beinecke.thoreau</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Henry David Thoreau Collection
+ </titleproper>
+            <titleproper type="filing">Thoreau (Henry David) Collection</titleproper>
+            <author>by Michael L. Forstrom</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>April 2005</date>
+            <num>YCAL MSS 203</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday January 23, 2019 at 04:17</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Henry David Thoreau collection</unittitle>
+         <unitid>YCAL MSS 203</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.13</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(2 boxes) + 2 art, 1 broadside, 1 roll</physdesc>
+         
+            <unitdate type="inclusive" normal="1841/1949">1841-1949</unitdate>
+         
+         <abstract id="aspace_cb5cbab4ea6850648569e508ad06bdaf">The Thoreau collection contains correspondence, writings, photographs, and objects relating to Henry David Thoreau. There are several original manuscripts, including notes on insects, weather, and natural phenomena, and drafts of poems, an untitled essay, the article "The Discovery of America, and Researches in Central Africa," and the concluding paragraphs to Walden. There is also an essay on Thoreau by Francis Sheldon and George Shiras with photographs by Roland Wells Robbins and Edwin Way Teale. There are photographs of Thoreau's residences in Massachusetts, including his childhood home in Concord and the site of his cabin at Walden Pond. Objects include pieces of wood and nails from Thoreau's cabin and pencils manufactured by his father's company, J. Thoreau &amp; Co.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n78095600"
+                      rules="aacr"
+                      source="naf">
+               Thoreau, Henry David, 1817-1862
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname source="local">
+               Sheldon, Francis
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname source="local">
+               Shiras, George
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_804f5ed00cada520fc8c7443961135b2">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Henry David Thoreau Collection was acquired through various gifts and purchases dating from 1911.</p>  
+      </acqinfo>
+      <userestrict id="aspace_9f1034f8414d7080efaa47b0d34f09d8">
+         <head>Conditions Governing Use</head>
+         <p>The Henry David Thoreau Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_25647578190e612a3b9a4afdbe152768">
+         <head>Preferred Citation</head>
+         <p>Henry David Thoreau Collection. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_f576edea407f0b1446103ac1123f549f">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>There are two cut film negatives corresponding to prints in the collection. The negatives are restricted and may only be seen with permission of the appropriate curator. Reference photographs have also been subsituted in the main files for material stored separately.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_f2eb74d0e65a684d9b89064139b64087">
+         <head>Processing Information</head>
+         <p>This material was formerly classed as Uncat Za Thoreau.</p>  
+      </processinfo>
+      <scopecontent id="aspace_30997be148ae6e571d60e40c8f003239">
+         <head>Scope and Contents</head>
+         <p>The Henry David Thoreau Collection consists of letters, manuscripts, photographs, and objects documenting the life and work of Henry David Thoreau. The collection spans the years 1841-1949.</p>
+         <p>The collection is housed in two boxes and organized into three series according to provenance: <title type="simple" render="italic">
+               Owen Franklin Aldis Gift
+            </title>, <title type="simple" render="italic">
+               Henry Seidel Canby Gift
+            </title>, and <title type="simple" render="italic">
+               Material from Other Sources
+            </title>. Box 2 contains <title type="simple" render="italic">
+               Oversize
+            </title> material.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref11">Series I, <title type="simple" render="italic">
+                  Owen Franklin Aldis Gift
+               </title> 
+            </ref>, consists of one letter, a brief ALS from Thoreau to the Harvard College librarian, and several holograph manuscripts. The writings include notes and drafts for poems, an article, and the concluding paragraphs to <title type="simple" render="italic">
+               Walden
+            </title>. There are notes on insects for the years 1851-54 and on weather and other "general" conditions for the months of April, October, and December, with detailed charts for October and December for the years 1852-61 and 1850-61 respectively. The Aldis gift also includes the May 1852 survey Thoreau conducted for the "Noah &amp; Joshua Brooks Farm" in Lincoln, Massachusetts.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref32">Series II, <title type="simple" render="italic">
+                  Henry Seidel Canby Gift
+               </title> 
+            </ref>, consists of one holograph manuscript, photographs, and objects, and is organized into subseries for Writings and Other Material. The gift includes a heavily corrected manuscript for "General Phenomena for November" which, like the manuscripts in Series I, contains notes on weather and natural phenomena. The Other Material subseries includes photographs of a sketch of Thoreau and two sections of a stud(s), as well as two nails, from Thoreau's cabin at Walden Pond. The stud sections and nails are stored separately and reference photographs are provided in the main files.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref42">Series III, <title type="simple" render="italic">
+                  Material from Other Sources
+               </title> 
+            </ref>, is organized into subseries for Writings and Other Material. Writings include a holograph manuscript for an untitled essay by Thoreau, with a typed copy, and an article on Thoreau by Francis D. Sheldon and G. Peter Shiras. The article by Sheldon and Shiras documents the history of Thoreau's "hut" on Walden Pond and includes photographs by Roland Welles Robbins and Edwin Way Teale. The Other Material subseries includes a pencil box and pencils produced by Thoreau's father's firm, J. Thoreau &amp; Co.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref61">
+               <title type="simple" render="italic">
+                  Oversize
+               </title> 
+            </ref> material, housed in box 2, contains material from Series I and Series III.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85004340"
+                  source="lcsh">
+            American literature -- 19th century
+         </subject>
+         <subject source="local">
+            Authors, American -- 19th century -- Archives
+         </subject>
+         <subject source="local">
+            Natural history -- Massachusetts
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n79043933"
+                   source="lcsh">
+            Concord (Mass.)
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh98005861"
+                   source="lcsh">
+            Walden Pond (Middlesex County, Mass.)
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300117127" source="aat">
+            Artifacts (object genre)
+         </genreform>
+         <genreform source="local">
+            Nails (fasteners) -- United States -- 19th century
+         </genreform>
+         <genreform source="local">
+            Pencils (drawing and writing equipment) -- United States -- 19th century
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300127104" source="aat">
+            Photographic prints
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009793"
+                  source="lcsh">
+            Authors
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87815407"
+                   rules="aacr"
+                   source="naf">
+            Robbins, Roland Wells, 1908-1987
+         </persname>
+         <persname source="local">
+            Sheldon, Francis
+         </persname>
+         <persname source="local">
+            Shiras, George
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50008446"
+                   rules="aacr"
+                   source="naf">
+            Teale, Edwin Way, 1899-1980
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78095600"
+                   rules="aacr"
+                   source="naf">
+            Thoreau, Henry David, 1817-1862
+         </persname>
+         <corpname rules="aacr" source="local">
+            J. Thoreau &amp; Co
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Owen Franklin Aldis Gift</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="folders">7</extent>
+               </physdesc>
+               <unitdate type="inclusive">1841-1864</unitdate>
+            </did>
+            <scopecontent id="aspace_43d0388c07011cd3af0e73f7dc3e2b84">
+               <head>Scope and Contents</head>
+               <p>Gift of Owen Franklin Aldis, 1911</p>
+            </scopecontent>
+            <scopecontent id="aspace_e404cf23bf1613c84bfc138e30a38871">
+               <head>Scope and Contents</head>
+               <p>Series I, <title type="simple" render="italic">
+                     Owen Franklin Aldis Gift
+                  </title>, is organized into three subseries: Correspondence, Writings, and Other Papers.</p>
+            </scopecontent>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Harvard College Library</unittitle>
+                     <unitdate type="inclusive">1858 Dec 19</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_3954baa566a8d03ca575519308f7444e"
+                                type="box">1</container>
+                     <container id="aspace_5215649d25e691a153ad71e3e95cd522"
+                                type="folder"
+                                parent="aspace_3954baa566a8d03ca575519308f7444e">1</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref15" level="subseries">
+               <did>
+                  <unittitle>WRITINGS</unittitle>
+               </did>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>"An[nual] Phenomena for December" notes, holograph manuscript</unittitle>
+                     <unitdate type="inclusive">1850-61</unitdate>
+                     <physloc id="aspace_acd88c706d9c0e0abfbabcb1df6b445d">Stored in: Oversize, Box 2, folder 17</physloc>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>["April weather..."], notes, holograph manuscript</unittitle>
+                     <unitdate type="inclusive">[1860?]</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_ae9584709cf1afaf783049aaf16eeb7d"
+                                type="box">1</container>
+                     <container id="aspace_1d4b283bc8339ac555ce7e87b5bc04b9"
+                                type="folder"
+                                parent="aspace_ae9584709cf1afaf783049aaf16eeb7d">2</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>["The discovery of America, and researches in central Africa"], holograph manuscript, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_cdc2c3d13a924dacfd4c0ca4d9d1872f"
+                                type="box">1</container>
+                     <container id="aspace_4fa35f4e7f4ffb3503732f9891327878"
+                                type="folder"
+                                parent="aspace_cdc2c3d13a924dacfd4c0ca4d9d1872f">3</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>"General Phenomena for October," notes, holograph</unittitle>
+                     <unitdate type="inclusive">1852-61</unitdate>
+                     <physloc id="aspace_8fd9b9a7572b5646b3d4dcfd0d777840">Stored in: Oversize, Box 2, folder 18</physloc>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>"Independence," poem, holograph</unittitle>
+                     <unitdate type="inclusive">1841 Jul 30</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_405f779fa426cf0b3f8035a56c3202ba"
+                                type="box">1</container>
+                     <container id="aspace_80f0da1d39153eefd8a9b00b836c9e25"
+                                type="folder"
+                                parent="aspace_405f779fa426cf0b3f8035a56c3202ba">4</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>[On insects], notes, holograph</unittitle>
+                     <unitdate type="inclusive">1851-54</unitdate>
+                     <physloc id="aspace_7b6687aad794fba7b433a705bff9b004">Stored in: Oversize, Box 2, folder 19</physloc>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>"Travelling," poem, holograph, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_5135b68d0ab9081c997f39b4d30968f4"
+                                type="box">1</container>
+                     <container id="aspace_9cb431f81617e514c17aee2653e1b078"
+                                type="folder"
+                                parent="aspace_5135b68d0ab9081c997f39b4d30968f4">5</container>
+                  </did>
+                  <scopecontent id="aspace_54fc206e7d6df3661f505f638b05ae3d">
+                     <head>Scope and Contents</head>
+                     <p>Includes text on verso</p>
+                  </scopecontent>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Walden
+                        </title>, draft of concluding paragraphs, holograph</unittitle>
+                     <unitdate type="inclusive">1864 Jun 17</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_d53f23a7616313d64f47698a87e90a09"
+                                type="box">1</container>
+                     <container id="aspace_5e28a645792ac50efcdd3fa597c05fec"
+                                type="folder"
+                                parent="aspace_d53f23a7616313d64f47698a87e90a09">6</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref28" level="subseries">
+               <did>
+                  <unittitle>OTHER PAPERS</unittitle>
+               </did>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>"Plan of the Noah &amp; Joshua Brooks Farm..." holograph</unittitle>
+                     <unitdate type="inclusive">1852 May</unitdate>
+                     <container label="Mixed Materials (39002099456973)"
+                                id="aspace_b5bac8507a6b7501815ffe50204a6535"
+                                type="box">BSD, folder 7</container>
+                  </did>
+               </c>
+               <c id="ref68" level="file">
+                  <did>
+                     <unittitle>Tube for "Thoreau's Plan of a Farm, 1852"</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002104679510)"
+                                id="aspace_90572793df0a1d3e162ffcc87b349268"
+                                type="box">3 (Art)</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref32" level="series">
+            <did>
+               <unittitle>Henry Seidel Canby Gift</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="folders">3</extent>
+               </physdesc>
+               <unitdate type="inclusive">1845-1846</unitdate>
+            </did>
+            <scopecontent id="aspace_f520e1e4dd6719cade33d90b251bfa46">
+               <head>Scope and Contents</head>
+               <p>Gift of Henry Seidel Canby, 1940</p>
+            </scopecontent>
+            <scopecontent id="aspace_1fdd267e56eb744b1b78ec0dbb0c4284">
+               <head>Scope and Contents</head>
+               <p>Series II, <title type="simple" render="italic">
+                     Henry Seidel Canby Gift
+                  </title>, is organized into two subseries: Writings and Other Material.</p>
+            </scopecontent>
+            <c id="ref34" level="subseries">
+               <did>
+                  <unittitle>WRITINGS</unittitle>
+               </did>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>"General Phenomena for November," notes, holograph, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_86412cbff039bfd436b897b7a8b6c143"
+                                type="box">1</container>
+                     <container id="aspace_6c9d8ea4c00b8020cd2156faafda4958"
+                                type="folder"
+                                parent="aspace_86412cbff039bfd436b897b7a8b6c143">8</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref36" level="subseries">
+               <did>
+                  <unittitle>OTHER MATERIAL</unittitle>
+               </did>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Stud sections and nails from Thoreau's cabin at Walden pond</unittitle>
+                     <unitdate type="inclusive">[ca. 1845-46]</unitdate>
+                     <container label="Mixed Materials (39002098974604)"
+                                id="aspace_871202af4435fb9e773190741986a8c6"
+                                type="box">ART</container>
+                     <container id="aspace_7c5e257bea283826ed678e6b54d45938"
+                                type="folder"
+                                parent="aspace_871202af4435fb9e773190741986a8c6">9</container>
+                  </did>
+                  <scopecontent id="aspace_5535e901a98ed4c83dc652402b03523e">
+                     <head>Scope and Contents</head>
+                     <p>Includes letter, dated April 14, 1932, from Henry Seidel Canby</p>
+                  </scopecontent>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Pencil sketch of Thoreau by D. Ricketson, photographic copy</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_aea8dcb4fe8e88f0c9e66d5f204a6f2c"
+                                type="box">1</container>
+                     <container id="aspace_5a7c0e0731606d6210c2a0ea3001f8d7"
+                                type="folder"
+                                parent="aspace_aea8dcb4fe8e88f0c9e66d5f204a6f2c">10</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref42" level="series">
+            <did>
+               <unittitle>Material from Other Sources</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="folders">6</extent>
+               </physdesc>
+               <unitdate type="inclusive">1850-1949</unitdate>
+            </did>
+            <scopecontent id="aspace_75f623ff1b54768e2d43f19a97913ab7">
+               <head>Scope and Contents</head>
+               <p>Acquired by gift or purchase from various sources. Sources indicated on individual folders.</p>
+            </scopecontent>
+            <scopecontent id="aspace_f317be9eef04e87dfcd329d0618caaaf">
+               <head>Scope and Contents</head>
+               <p>Series III, <title type="simple" render="italic">
+                     Material from Other Sources
+                  </title>, is organized into two subseries: Writings and Other Material.</p>
+            </scopecontent>
+            <c id="ref44" level="subseries">
+               <did>
+                  <unittitle>WRITINGS</unittitle>
+               </did>
+               <c id="ref45" level="subseries">
+                  <did>
+                     <unittitle>Writings of Henry David Thoreau</unittitle>
+                  </did>
+                  <scopecontent id="aspace_7a26a29244e4c1a40865110e61f0fc73">
+                     <head>Scope and Contents</head>
+                     <p>["The great story of the night..."]</p>
+                  </scopecontent>
+                  <c id="ref46" level="file">
+                     <did>
+                        <unittitle>Holograph</unittitle>
+                        <unitdate type="inclusive">[1851 Aug?]</unitdate>
+                        <container label="Mixed Materials (39002099456890)"
+                                   id="aspace_0794961f287622a7a4af9767396f30f4"
+                                   type="box">1</container>
+                        <container id="aspace_b53ba67690237fa2a3419b458e01c6ff"
+                                   type="folder"
+                                   parent="aspace_0794961f287622a7a4af9767396f30f4">11</container>
+                     </did>
+                  </c>
+                  <c id="ref47" level="file">
+                     <did>
+                        <unittitle>Typed version, corrected in unidentified hand</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002099456890)"
+                                   id="aspace_3719ae383c0a24e79ff4e64096122f08"
+                                   type="box">1</container>
+                        <container id="aspace_563c223064758c8e3949b3da6c0c2c69"
+                                   type="folder"
+                                   parent="aspace_3719ae383c0a24e79ff4e64096122f08">12</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref49" level="subseries">
+                  <did>
+                     <unittitle>Writings of Others</unittitle>
+                  </did>
+                  <scopecontent id="aspace_ee4dfd1013973555bfb9f4effd5a2fe0">
+                     <head>Scope and Contents</head>
+                     <p>Sheldon, Francis D. and G. Peter Shiras</p>
+                  </scopecontent>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>"A House Which I Had Myself Built," essay, typescript, corrected</unittitle>
+                        <unitdate type="inclusive">1949</unitdate>
+                        <physloc id="aspace_7add1ee7c0ea81a34863cec9b595812b">Also stored in: Oversize, Box 2, folder 20</physloc>
+                        <container label="Mixed Materials (39002099456890)"
+                                   id="aspace_faed7d460ee09a32d26b7065f430c33c"
+                                   type="box">1</container>
+                        <container id="aspace_9fec0b2223de5baa8c44c695fc5f7fc4"
+                                   type="folder"
+                                   parent="aspace_faed7d460ee09a32d26b7065f430c33c">13</container>
+                     </did>
+                     <scopecontent id="aspace_b1631bdd13c4a34ac0f43c8f3f381a4b">
+                        <head>Scope and Contents</head>
+                        <p>Includes photographs by Roland Wells Robbins and Edwin Way Teale</p>
+                     </scopecontent>
+                  </c>
+               </c>
+            </c>
+            <c id="ref54" level="subseries">
+               <did>
+                  <unittitle>OTHER MATERIAL</unittitle>
+               </did>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Pencils and pencil box from J. Thoreau &amp; Co.</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002098974612)"
+                                id="aspace_d768aa860064ba279591f6b6c55dae1b"
+                                type="box">ART</container>
+                     <container id="aspace_d617fad5e712c0240a9e3ecbe80f8fd6"
+                                type="folder"
+                                parent="aspace_d768aa860064ba279591f6b6c55dae1b">14</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Printed ephemera</unittitle>
+                     <unitdate type="inclusive">1938, n.d.</unitdate>
+                     <physloc id="aspace_fddbb5c8f69ec8f6d54b9fd146d36ef8">Also stored in: Oversize, Box 2, folder 21</physloc>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_d8f8a412fbf668549e9c30da2dffe6a4"
+                                type="box">1</container>
+                     <container id="aspace_fd3de18212489483caf2796ca4fdf75a"
+                                type="folder"
+                                parent="aspace_d8f8a412fbf668549e9c30da2dffe6a4">15</container>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Surveyor's certificate in Thoreau's hand</unittitle>
+                     <unitdate type="inclusive">1850 Aug 15</unitdate>
+                     <container label="Mixed Materials (39002099456890)"
+                                id="aspace_4f9d6d4a14deafd512569bec406cd86d"
+                                type="box">1</container>
+                     <container id="aspace_e9669c96fe3b1750dd53b984be201801"
+                                type="folder"
+                                parent="aspace_4f9d6d4a14deafd512569bec406cd86d">16</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref61" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">0.92</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1850-1949</unitdate>
+            </did>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>Holograph manuscript for "An[nual] Phenomena for December" (In Series I)</unittitle>
+                  <unitdate type="inclusive">1850-61</unitdate>
+                  <container label="Mixed Materials (39002098974380)"
+                             id="aspace_240f2d99035aded4541e69cdd6e729c2"
+                             type="box">2</container>
+                  <container id="aspace_1a81b83e30944228c8a5d8382c3bdef2"
+                             type="folder"
+                             parent="aspace_240f2d99035aded4541e69cdd6e729c2">17</container>
+               </did>
+            </c>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>Holograph manuscript for "General Phenomena for October" (In Series I)</unittitle>
+                  <unitdate type="inclusive">1852-61</unitdate>
+                  <container label="Mixed Materials (39002098974380)"
+                             id="aspace_03ad3eaaeb30c12ae4c640f9a7c744de"
+                             type="box">2</container>
+                  <container id="aspace_e0c640abbc77ea892f464e37334f5dcb"
+                             type="folder"
+                             parent="aspace_03ad3eaaeb30c12ae4c640f9a7c744de">18</container>
+               </did>
+            </c>
+            <c id="ref65" level="file">
+               <did>
+                  <unittitle>Holograph manuscript [On insects] (In Series I)</unittitle>
+                  <unitdate type="inclusive">1851-54</unitdate>
+                  <container label="Mixed Materials (39002098974380)"
+                             id="aspace_b7d005f9dc85db8715f21673f6f4f361"
+                             type="box">2</container>
+                  <container id="aspace_2e6808abf1ca1370bca8b0650b986d01"
+                             type="folder"
+                             parent="aspace_b7d005f9dc85db8715f21673f6f4f361">19</container>
+               </did>
+            </c>
+            <c id="ref66" level="file">
+               <did>
+                  <unittitle>Photographs from "A House From Which I Had Myself Built" (In Series III)</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002098974380)"
+                             id="aspace_69502b687cf03a0be3aa7eba3c5bb644"
+                             type="box">2</container>
+                  <container id="aspace_fcd9ee097514c306941384b85f5f3487"
+                             type="folder"
+                             parent="aspace_69502b687cf03a0be3aa7eba3c5bb644">20</container>
+               </did>
+            </c>
+            <c id="ref67" level="file">
+               <did>
+                  <unittitle>Reproduction of sketch by D. C. Sturges (In Series III)</unittitle>
+                  <unitdate type="inclusive">1938</unitdate>
+                  <container label="Mixed Materials (39002098974380)"
+                             id="aspace_6ffd1b9ea400012b79e92e4e887e4b01"
+                             type="box">2</container>
+                  <container id="aspace_fd8b1d548cfef569c0a7dcdc0efa3deb"
+                             type="folder"
+                             parent="aspace_6ffd1b9ea400012b79e92e4e887e4b01">21</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

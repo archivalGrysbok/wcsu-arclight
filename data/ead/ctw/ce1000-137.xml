@@ -1,0 +1,2797 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+
+<ead>
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+
+<eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-137::Center for Advanced Studies Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ce1000-137.xml">ce1000-137</eadid>
+<filedesc>
+	<titlestmt>
+		<titleproper>Guide to the Center for Advanced Studies Records,
+		<lb/><date normal="1958/1969">1958 - 1969</date>
+		</titleproper>
+		<author>Processed by: University Archives staff; machine-readable finding aid created by: Valerie Gillispie</author>
+
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+	</titlestmt>
+
+	<publicationstmt>&hdrsca;
+
+		
+
+
+
+		<p><date normal="2008" encodinganalog="date">&#x00A9; 2008</date> Wesleyan University. All Rights Reserved.</p>
+	</publicationstmt>
+
+	
+</filedesc>
+
+<profiledesc>
+	<creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: June 2008</date>
+	</creation>
+	<langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage>
+
+	<descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+
+<!-- Location of <revisiondesc> if needed -->
+
+</eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Guide to the Center for Advanced Studies Records, <date type="span">1958 - 1969</date>
+</titleproper>
+
+<publisher>
+<extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher>
+
+
+
+
+
+
+
+
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2007">&#x00A9; 2007</date> Wesleyan University. All Rights Reserved.</p>
+</titlepage>
+</frontmatter>
+
+
+
+
+
+
+
+<archdesc level="collection" relatedencoding="MARC">
+
+<did>
+<head>Descriptive Summary</head>
+
+<repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). Center for Advanced Studies.</corpname>
+</origination>
+
+<unittitle label="Title" encodinganalog="245">Center for Advanced Studies Records, <unitdate normal="1958/1969" type="inclusive">1958 - 1969</unitdate></unittitle>
+
+<unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-137</unitid>
+
+<langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+
+<physdesc label="Linear Feet">
+
+<extent encodinganalog="300">13.25</extent></physdesc>
+<physdesc label="Archival Boxes">
+<extent>25</extent>
+</physdesc>
+
+<physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The Center for Advanced Studies (CAS) was founded at Wesleyan University in 1959 and existed until 1969. The CAS invited fellows to reside at Wesleyan and participate in the intellectual life of the campus. Each year, the fellows were a diverse group of academics, scientists, social scientists, writers, artists, and other intellectuals. Sigmund Neumann served as director of CAS from 1959-1962, Paul Horgan from 1962 until 1967, and Phillip Hallie as acting director from 1967-1969. Victor Butterfield, president of Wesleyan University until 1967, was actively involved in the Center.</abstract>
+
+
+<abstract encodinganalog="520">The Center for Advanced Studies Records include general files, annual reports, publicity, photographs, a scrapbook, lists of fellows and those under consideration as fellows, and recordings. Throughout the collection, documentation from 1967 to 1969 is somewhat sparse.</abstract>
+
+</did>
+
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+
+<accessrestrict encodinganalog="506">
+<head>Access Restrictions</head>
+<p>No restrictions. Recordings are original; listening copies need to be made for use.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Copyright Notice</head>
+<p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+</userestrict>
+
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], Center for Advanced Studies Records, Collection #1000-137, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+</prefercite>
+
+<acqinfo encodinganalog="541">
+<head>Acquisitions Information</head>
+<p>Transferred in 1969 and 1981.</p>
+</acqinfo>
+
+<processinfo>
+<head>Processing Information</head>
+<p>Processed by Valerie Gillispie, June 2008 </p>
+<p>Encoded by Valerie Gillispie, June 2008</p>
+</processinfo>
+
+</descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+<bioghist>
+<head>Historical Note</head>
+<p>The Center for Advanced Studies (CAS) was founded at Wesleyan University in 1959 and existed until 1969. Wesleyan appears to be the first liberal arts college to create such a center. The CAS invited fellows to reside at Wesleyan and participate in the intellectual life of the campus. Each year, the fellows were a diverse group of academics, scientists, social scientists, writers, artists, and other intellectuals.</p>
+
+<p>In a memo to the faculty announcing the creation of the center, President Victor Butterfield wrote: <emph render="doublequote">We feel that institutions of Wesleyan's type, if they can find the resources, should on principle support vigorously the creative work of some of our very ablest people in the liberating disciplines. We feel particularly that such people should be drawn not only from abroad as well as from home, but from the so-called 'active' as well as scholarly professions. One of our concerns and one of the nation's persisting and serious problems is the cultural gap in our society between the intellectual and the man of affairs. We feel that each of these types has much to learn from the other, that they should come together more often in serious discourse, and that the liberal institution should support the study and writing of our ablest journalists, justices, ministers, industrialists and the like, as well as of professional scholars and creative artists.</emph></p>
+
+<p> The Center for Advanced Studies building was housed in Olin library until fall 1960 when it moved into a new building behind the Russell House on Pearl Street (the same building where the Center for the Humanities was later located). Fellows stayed for a full school year, a semester, or a period of weeks, depending on scheduling. During their residence at Wesleyan, fellows were encouraged to research and write but also to work with undergraduate students within Wesleyan departments. They often gave lectures and seminars about their specialties, or even offered courses. The fellows were provided with residences for themselves and their families and given a stipend. Most fellows were men, but several women were also invited, including Hannah Arendt and Jean Stafford.</p>
+
+<p>Sigmund Neumann served as director of CAS from 1959-1962, Paul Horgan from 1962 until 1967, and Phillip Hallie as acting director from 1967-1969. Suggestions for fellows were accepted from all members of the Wesleyan community. Fellows were selected by a panel consisting of the president of the university, the director of CAS, and a trustee. Their decisions were presented to the faculty for approval. Monday evening dinners provided opportunities for fellows and faculty to mingle throughout the year. Wednesday afternoon open houses were sponsored by CAS to bring fellows and students together. Among the fellows to reside at CAS were Hannah Arendt, John Cage, Daniel P. Moynihan, Leslie Munro, and Richard Wilbur.</p>
+
+<p>Beginning in 1968, the fellows were chosen for their similarity of interests in order to allow them to collaborate and to connect with the Wesleyan community in greater depth. At the end of 1968, plans were made to convert the Center for Advanced Studies into a Center for the Humanities. This change was partially the result of the Study for Educational Policies and Programs (SEPP) conducted in early 1968. The major changes included a selection process administered by a board that included faculty, students, and administrators; required teaching responsibilities; and the selection of a broad issue in which the scholars would focus their research. These changes, and the new name, took effect in fall 1969.</p>
+<chronlist>
+<head>Chronology of Fellows</head>
+
+
+<chronitem>
+<date>1959-1960</date>
+<eventgrp>
+<event>Alan Willard Brown</event>
+<event>Reuel N. Denney</event>
+<event>Herbert McLean Evans</event>
+<event>Paul Horgan</event>
+<event>C. I. Lewis</event>
+<event>William Manchester</event>
+<event>Clarence Belden Randall</event>
+<event>Nathan Shapira</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1960-1961</date>
+<eventgrp>
+<event>Edgar Anderson</event>
+<event>Reginald Francis Arragon</event>
+<event>Marston Bates</event>
+<event>Julius Seelye Bixler</event>
+<event>John Cage</event>
+<event>Walter Van Tilburg Clark</event>
+<event>Austin Farrer</event>
+<event>Alvin Harvey Hansen</event>
+<event>Paul Gray Hoffman</event>
+<event>Leonard Bernheim Meyer</event>
+<event>Sir Leslie Knox Munro</event>
+<event>Sir Ronald Syme</event>
+<event>Conrad Hal Waddington</event>
+<event>Lancelot Law Whyte</event>
+<event>Alfred Hector Williams</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1961-1962</date>
+<eventgrp>
+<event>Hannah Arendt</event>
+<event>Julius Seelye Bixler</event>
+<event>Brand Blanshard</event>
+<event>George Boas</event>
+<event>Douglass Cater</event>
+<event>Gilbert Harrison Clee</event>
+<event>Paul Horgan</event>
+<event>Pamela Hansford Johnson</event>
+<event>Walter J. Ong, S. J.</event>
+<event>Tibor Rado</event>
+<event>Sir Charles Percy Snow</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1962-1963</date>
+<eventgrp>
+<event>Hannah Arendt</event>
+<event>Balasaraswati</event>
+<event>Richard Walker Bolling</event>
+<event>Kay Boyle</event>
+<event>John Lackey Brown</event>
+<event>Harry Caplan</event>
+<event>Douglass Cater</event>
+<event>Angna Enters</event>
+<event>Torsten Gardlund</event>
+<event>Philip Paul Hallie</event>
+<event>Erik Holmberg</event>
+<event>Abraham Kaplan</event>
+<event>Paul Patrick Streeten</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1963-1964</date>
+<eventgrp>
+<event>Ernst Bacon</event>
+<event>Harry Caplan</event>
+<event>Christopher Derrick</event>
+<event>Rene Jules Dubos</event>
+<event>William H. Halewood</event>
+<event>Arthur Lennart Kalleberg</event>
+<event>John Frank Kermode</event>
+<event>Hans Kohn</event>
+<event>Terence Martin</event>
+<event>Lewis Mumford</event>
+<event>Aage Peterson</event>
+<event>Sir Herbert Read</event>
+<event>Donald H. Reiman</event>
+<event>Carl E. Schorske</event>
+<event>Ernest J. Simmons</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1964-1965</date>
+<eventgrp>
+<event>Luigi Barzini, Jr.</event>
+<event>Martin J. Buss</event>
+<event>Herbert Butterfield</event>
+<event>John Leonard Clendenning</event>
+<event>Very Rev. Martin Cyril D'Arcy, S.J.</event>
+<event>Wayne Donald Dodd</event>
+<event>Rene Jules Dubos</event>
+<event>Moses Hadas</event>
+<event>Hiram Haydn</event>
+<event>Hans Jones</event>
+<event>John Bartlow Martin</event>
+<event>Willard Van Orman Quine</event>
+<event>Sir Herbert Read</event>
+<event>Jean Stafford</event>
+<event>Edmund Wilson</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1965-1966</date>
+<eventgrp>
+<event>Harold Gomes Cassidy</event>
+<event>Leon Edel</event>
+<event>Mircea Eliade</event>
+<event>Jesse Hill Ford</event>
+<event>Anne Fremantle</event>
+<event>Richard N. Goodwin</event>
+<event>Sergio Gutierrez Olivos</event>
+<event>Daniel P. Moynihan</event>
+<event>Sean O'Faolain</event>
+<event>Michael Polanyi</event>
+<event>Ernest J. Simmons</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1966-1967</date>
+<eventgrp>
+<event>William Arrowsmith</event>
+<event>John Buxton</event>
+<event>Joseph Elder</event>
+<event>Robert Fuller</event>
+<event>Richard N. Goodwin</event>
+<event>Sergio Gutierrez Olivos</event>
+<event>Thomas Messer</event>
+<event>J. A. Richards</event>
+<event>Stephen Spender</event>
+<event>Rev. George Tavard</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+
+<chronitem>
+<date>1967-1968</date>
+<eventgrp>
+<event>Arvid Brodersen</event>
+<event>Hans Magnus Enzensberger</event>
+<event>Paul Horgan</event>
+<event>Gorham Munson</event>
+<event>Lawrence Clark Powell</event>
+<event>Edward Weismiller</event>
+<event>Richard Wilbur</event>
+<event>Huseyn Yilmaz</event>
+<event>Ralph Young</event>
+<event> </event>
+<event> </event>
+</eventgrp>
+</chronitem>
+<chronitem>
+<date>1968-1969</date>
+<eventgrp>
+<event>Lucien Goldmann</event>
+<event>Paul Horgan</event>
+<event>Herbert H. Hyman</event>
+<event>Howard Robinson</event>
+<event>Theodore Sarbin</event>
+<event>Petrus J. Verdoorn</event>
+</eventgrp>
+</chronitem>
+
+</chronlist>
+
+<!-- use "Chronlist Tags" here if there is a chronology -->
+</bioghist>
+
+
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+<scopecontent>
+<head>Collection Overview</head>
+<p>The Center for Advanced Studies Records consists of four series: Administrative Files, Fellows, Persons Under Consideration, and Recordings. Throughout the collection, documentation from 1967 to 1969 is somewhat sparse. In some cases, the original file folders have been retained to preserve documentation on them.</p>
+
+<p>The Administrative Files include annual reports, conference and seminar information, correspondence, publicity documents, photographs, and Monday Evening Papers, which were brief publications based on evening lectures given by the fellows.</p>
+
+<p>The Fellows series is an alphabetical listing of some (but not all) of the fellows of the CAS. Folders typically contain correspondence, lists of accomplishments while in residence, newspaper clippings, and resumes, among other documents. The Persons Under Consideration series is an alphabetical listing of people suggested or self-nominated to the selectors. Folders in this series typically include correspondence and memoranda.</p>
+<p>The Recordings series contains audio tape recordings and transcripts of some of the recordings. These were typically speeches or interviews given by fellows or at CAS events.</p>
+<!--<arrangement>
+<head>Collection Arrangement</head>
+<p>
+</p>
+</arrangement>-->
+</scopecontent>
+
+<controlaccess>
+<head>Online Catalog Headings</head>
+<p>These and related materials may be found under the following headings in online catalogs.</p>
+
+<corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Center for Advanced Studies.</corpname>
+<corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+<persname source="lcnaf" encodinganalog="600">Butterfield, Victor Lloyd, 1904-</persname>
+<persname source="lcnaf" encodinganalog="600">Hallie, Philip Paul.</persname>
+<persname source="lcnaf" encodinganalog="600">Neumann, Sigmund.</persname>
+<persname source="lcnaf" encodinganalog="600">Horgan, Paul, 1903-1995.</persname>
+<subject source="lcsh" encodinganalog="650">Humanities -- Study and teaching. </subject>
+<subject source="lcsh" encodinganalog="650">Research institutes. </subject>
+<subject source="lcsh" encodinganalog="650">Social sciences--Study and teaching.</subject>
+<subject source="aat" encodinganalog="655">Scrapbooks.</subject>
+<subject source="lcsh" encodinganalog="650">Science--Study and teaching.</subject>
+
+<persname source="aat" encodinganalog="600">Photographs.</persname>
+</controlaccess>
+
+<!-- Use separated materials and related materials clips here to enter in information -->
+
+
+<dsc type="combined">
+<head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+<c01 level="series"><did><unittitle>Administrative Files</unittitle></did><scopecontent>
+<p>The Administrative files are arranged alphabetically.</p></scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>American Council of Learned Societies (ACLS) Fellows</unittitle>
+</did>
+<c03>
+<did><container type="Box">1</container><container type="Folder">1</container>
+<unittitle>General Correspondence, 1961-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">2</container>
+<unittitle>General Correspondence, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">3</container>
+<unittitle>Correspondence, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">4</container>
+<unittitle>Martin Buss, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">5</container>
+<unittitle>John Clendenning, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">6</container>
+<unittitle>Wayne Dodd, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">7</container>
+<unittitle>William H. Halewood, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">8</container>
+<unittitle>Arthur L. Kalleberg, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">9</container>
+<unittitle>Terence Martin, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">10</container>
+<unittitle>Donald H. Reiman, 1963-1964</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Annual Reports</unittitle>
+</did>
+<c03>
+<did><container type="Box">1</container><container type="Folder">11</container>
+<unittitle>1958-1959</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">12</container>
+<unittitle>1959-1960</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">13</container>
+<unittitle>1960-1961</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">14</container>
+<unittitle>1961-1962</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">15</container>
+<unittitle>1962-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">16</container>
+<unittitle>1963-1964</unittitle>
+</did><scopecontent>
+<p>Includes Fellows' Reports.</p>
+</scopecontent>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">17</container>
+<unittitle>1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">18-19</container>
+<unittitle>1965-1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">1</container><container type="Folder">20</container>
+<unittitle>1966-1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">1</container>
+<unittitle>Material for annual reports, 1963-1967</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Appointments and general information</unittitle>
+</did>
+<c03>
+<did><container type="Box">2</container><container type="Folder">2</container>
+<unittitle>1959-1960</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">3</container>
+<unittitle>1960-1961</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">4</container>
+<unittitle>1961-1962</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">5</container>
+<unittitle>1962-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">6</container>
+<unittitle>1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">7</container>
+<unittitle>1964-1965</unittitle>
+</did>
+</c03>
+</c02>
+<c02>
+<did><container type="Box">2</container><container type="Folder">8</container>
+<unittitle>Budget/Endowment, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">2</container><container type="Folder">9</container>
+<unittitle>Budget Proposal, 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">2</container><container type="Folder">10</container>
+<unittitle>Chapbooks numbers 1, 2, and 3, correspondence regarding, 1963-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">2</container><container type="Folder">11</container>
+<unittitle>Clippings, fellows and general, 1968-1969</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c03>
+<did><container type="Box">2</container><container type="Folder">12</container>
+<unittitle>Butterfield, Victor, regarding CAS Fellows, 1959-1962</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">13</container>
+<unittitle>Edwin Etherington, 1966-1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">14</container>
+<unittitle>Memorandums from Paul Horgan to Victor Butterfield, 1965-1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">15</container>
+<unittitle>Paul Horgan, 1966-1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">16</container>
+<unittitle>Paul Horgan, 1967-1969</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">2</container><container type="Folder">17</container>
+<unittitle>Memo regarding visiting professors, circa 1958-1959</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Events</unittitle>
+</did>
+<c03>
+<did><container type="Box">3</container><container type="Folder">1</container>
+<unittitle>Conference on Excellence and Leadership in a Democracy, April 28-30, 1961</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">2</container>
+<unittitle>Dr. Sigmund Neumann's Speech at the Free University, Berlin, 1962</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">3</container>
+<unittitle>Symposium: <title render="doublequote">The City,</title> January 1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">4</container>
+<unittitle>Conference on Humanistic Psychology, November 27-29, 1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">5</container>
+<unittitle>Celebration in honor of Paul Horgan, February 12, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">6</container>
+<unittitle>Evening in honor of Michael Polanyi, April 9, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">7</container>
+<unittitle>Evening in honor of Paul Horgan, January 4, 1967</unittitle>
+</did>
+</c03>
+
+<c03>
+<did><container type="Box">3</container><container type="Folder">8</container>
+<unittitle>Kaprow's Happenings, 1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">9</container>
+<unittitle>Movie Conference, February 10-11, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">10</container>
+<unittitle>Visit of Surgeon General, March 18, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">11</container>
+<unittitle>Science Center Conference, April 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">12</container>
+<unittitle>Symposium on Problems of Contemporary Spanish Literature in Exile, April 20, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">13</container>
+<unittitle>Conference: The Urban Crisis in America, May 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">14</container>
+<unittitle>Forum: <title render="doublequote">How Can Our Institutions Deal Effectively with Social Change?</title> September 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">3</container><container type="Folder">15</container>
+<unittitle>Forum: <title render="doublequote">How Can Our Institutions Deal Effectively with Social Change?</title> manuscript: <title render="doublequote">What do we mean? A young approach to institutional changes,</title> Edward Hayes and Richard Gross, September 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">1</container>
+<unittitle>Seminar: The Black Church in America, October 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">2</container>
+<unittitle>Conference on Humanities and Social Sciences, January 1969</unittitle>
+</did>
+</c03>
+</c02>
+
+<c02 level="subseries">
+<did>
+<unittitle>Fellows
+</unittitle>
+</did><c03>
+<did><container type="Box">4</container><container type="Folder">3</container>
+<unittitle>Concerts, 1964-1969</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">4</container>
+<unittitle>Dinners, 1965-1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">5</container>
+<unittitle>Memos to Fellows, 1962-1963</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Honors College</unittitle>
+</did>
+<c03>
+<did><container type="Box">4</container><container type="Folder">6</container>
+<unittitle>Annual Report, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">7</container>
+<unittitle>Honors College/CAS Coordination, 1963-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">8</container>
+<unittitle>Honors College/CAS Coordination drafts, 1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">9</container>
+<unittitle>Lectures, 1963-1965</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Housing</unittitle>
+</did>
+<c03>
+<did><container type="Box">4</container><container type="Folder">10</container>
+<unittitle>Housing and office assignments, 1962-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">11</container>
+<unittitle>Housing and office (including Honors College), 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">12</container>
+<unittitle>Housing and office assignments, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">13</container>
+<unittitle>Housing, 1966-1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">14</container>
+<unittitle>Summer use of, 1962-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">15</container>
+<unittitle>Summer use of by National Science Foundation, 1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">4</container><container type="Folder">16</container>
+<unittitle>Fellows and living conditions, 1963-1966</unittitle>
+</did>
+</c03>
+</c02>
+<c02>
+<did><container type="Box">4</container><container type="Folder">17</container>
+<unittitle>Ideas, 1964</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Inquiries</unittitle>
+</did><c03>
+<did><container type="Box">4</container><container type="Folder">18</container>
+<unittitle>1960-1962</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">5</container><container type="Folder">1</container>
+<unittitle>1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">5</container><container type="Folder">2</container>
+<unittitle>1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">5</container><container type="Folder">3</container>
+<unittitle>1965-1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">5</container><container type="Folder">4</container>
+<unittitle>1966-1968</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">5</container><container type="Folder">5</container>
+<unittitle>1967-1968</unittitle>
+</did>
+</c03>
+
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">6</container>
+<unittitle>Junior Fellows/Collegiate Fellows, 1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">7</container>
+<unittitle>(CAS) Library Accession Record</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">8</container>
+<unittitle>Lists of books written by fellows</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">9</container>
+<unittitle>Monday Evenings, 1967-1968</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did><container type="Volume">1</container>
+<unittitle>Monday Evening Papers</unittitle>
+</did><scopecontent>
+<p>The collection of Monday Evening Papers is gathered in a single enclosure not housed in box 5.</p></scopecontent>
+<c03>
+<did>
+<unittitle>Number 1: <title render="doublequote">The Astronomer's Universe--Reality or Delusion?</title> by Eric Holberg, 1965</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 2: <title render="doublequote">On Shakespeare's Learning</title> by Frank Kermode, 1965</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 3: <title render="doublequote">High Noon and Darkest Night</title> by Herbert Read, 1964</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 4: <title render="doublequote">Style the Repository</title> by Moses Hadas, 1965</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 5: <title render="doublequote">T. S. E.--A Memoir</title> by Herbert Read, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 6: <title render="doublequote">On Some Scientific Concepts in Russian Poetry at the Turn of the Century,</title> by F. D. Reeve, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 7: <title render="doublequote">The Age of the Archive,</title> by Leon Edel, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 8: <title render="doublequote">Cultural Fashions and History of Religions,</title> by Mircea Eliade, 1967</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 9: <title render="doublequote">Montaigne, and Philosophy as Self-Portraiture,</title> by Philip P. Hallie, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 10: <title render="doublequote">Traffic Safety and the Health of the Body Politic,</title> by Daniel P. Moynihan, 1966</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 11: <title render="doublequote">Byron and Shelley: A Friendship Renewed,</title> by John Buxton, 1967</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 12: <title render="doublequote">Animals in Exile: Imagery and Theme in Capote's <emph render="italic">In Cold Blood</emph>,</title> by George R. Creeger, 1967</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 13: <title render="doublequote">Causal and Moral Law: Their Relationship as Examined in Terms of a Model of the Brain,</title> by Robert W. Fuller, 1967</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 14: <title render="doublequote">Post Scriptum: Paul Klee at the Guggenheim Museum,</title> by Thomas M. Messer, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 15: <title render="doublequote">Serpent's Progress: The Writing of a Novel,</title> by Edward Weismiller, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 16: <title render="doublequote">Horror and the Paradox of Cruelty,</title> by Philip P. Hallie, 1969</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 17: <title render="doublequote">Maurice Baring Reconsidered,</title> by Paul Horgan, 1968</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle>Number 18: <title render="doublequote">The Myth of the Criminal Type,</title> by Theodore R. Sarbin, 1969</unittitle>
+</did>
+</c03>
+<c03>
+<did>
+<unittitle><title render="doublequote">The Sense of the Center,</title> 1969</unittitle>
+</did>
+</c03>
+</c02>
+
+<c02>
+<did><container type="Box">5</container><container type="Folder">10</container>
+<unittitle>Monday Evenings, 1968-1969</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">11</container>
+<unittitle>Monday Evening Papers mailing lists</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">12</container>
+<unittitle>Open house invitation, October 8, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">13</container>
+<unittitle>Pamphlets, 1959-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">5</container><container type="Folder">14</container>
+<unittitle>Parties, circa 1964-1967</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Photographs</unittitle>
+</did>
+<c03>
+<did><container type="Box">6</container><container type="Folder">1</container>
+<unittitle>Album, 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">6</container><container type="Folder">2</container>
+<unittitle>Album, 1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">6</container><container type="Folder">3-5</container>
+<unittitle>Photographs</unittitle>
+</did>
+</c03>
+
+
+
+</c02>
+<c02>
+<did><container type="Box">6</container><container type="Folder">6</container>
+<unittitle>Plans: Early building plans, 1959-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">6</container><container type="Folder">7</container>
+<unittitle>Plans: Early plans for program, policy, building, publicity, and nomination for fellowships, 1958-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">6</container><container type="Folder">8</container>
+<unittitle>Policy notes, circa 1961-1962</unittitle>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Public relations</unittitle>
+</did>
+<c03>
+<did><container type="Box">7</container><container type="Folder">1</container>
+<unittitle>Memos on Future <title render="doublequote">Notes,</title> 1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">2</container>
+<unittitle><title render="doublequote">Notes from the Center,</title> number 1, 1959-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">3</container>
+<unittitle><title render="doublequote">Notes from the Center,</title> number 2, 1964</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Publicity</unittitle>
+</did>
+<c03>
+<did><container type="Box">7</container><container type="Folder">4</container>
+<unittitle>1961</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">5</container>
+<unittitle>1962-1963</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">6</container>
+<unittitle>circa 1962-1967</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">7</container>
+<unittitle>1963-1964</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">8</container>
+<unittitle>1964-1965</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">9</container>
+<unittitle>1965-1966</unittitle>
+</did>
+</c03>
+<c03>
+<did><container type="Box">7</container><container type="Folder">10</container>
+<unittitle>1967-1968</unittitle>
+</did>
+</c03>
+</c02>
+<c02>
+<did><container type="Box">7</container><container type="Folder">11</container>
+<unittitle>Roster, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">25</container>
+<unittitle>Scrapbook, 1962-1969</unittitle>
+</did><scopecontent>
+<p>Includes announcements and invitations to lectures, dinners, and concerts given by fellows of the Center for Advanced Studies.</p></scopecontent>
+</c02>
+<c02>
+<did><container type="Box">7</container><container type="Folder">12</container>
+<unittitle>Student teas, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">7</container><container type="Folder">13</container>
+<unittitle>Student teas, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">7</container><container type="Folder">14</container>
+<unittitle>University Relations, 1964-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">7</container><container type="Folder">15</container>
+<unittitle>Visitors to the Center, 1964-1965</unittitle>
+</did>
+</c02>
+
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Fellows</unittitle>
+</did><scopecontent>
+<p>The Fellows series is arranged alphabetically. The dates indicate the years in which the person was a fellow, but materials within the folder may be dated before or after that time.</p></scopecontent>
+<c02>
+<did><container type="Box">8</container><container type="Folder">1</container>
+<unittitle>Anderson, Edgar, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">2</container>
+<unittitle>Arendt, Hannah, 1961-1962, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">3</container>
+<unittitle>Arragon, R. F., 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">4</container>
+<unittitle>Arrowsmith, William, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">5</container>
+<unittitle>Bacon, Ernst, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">6</container>
+<unittitle>Balasaraswati, S. and her family, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">7</container>
+<unittitle>Barzini, Luigi, November 22, 1964- December 5, 1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">8</container>
+<unittitle>Bates, Marston, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">9</container>
+<unittitle>Bixler, J. Seelye, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">10</container>
+<unittitle>Blanshard, Brand, 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">11</container>
+<unittitle>Boas, George, 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">12</container>
+<unittitle>Bolling, Richard, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">8</container><container type="Folder">13</container>
+<unittitle>Boyle, Kay, 1962-1963 (second semester)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">1</container>
+<unittitle>Brodersen, A., 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">2</container>
+<unittitle>Brown, Alan, 1959-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">3</container>
+<unittitle>Brown, John L., 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">4</container>
+<unittitle>Butterfield, Herbert, March 10, 1965-April 22, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">5</container>
+<unittitle>Buxton, John, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">6</container>
+<unittitle>Cage, John, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">7</container>
+<unittitle>Caplan, Harry, 1962-1963</unittitle>
+</did><scopecontent>
+<p>Also a visiting fellow in January 1964.</p>
+</scopecontent>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">8</container>
+<unittitle>Cassidy, Harold, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">9-10</container>
+<unittitle>Cater, Douglass, 1961-1962</unittitle>
+</did><scopecontent>
+<p>Also Associate Director, 1963-1964, 1964-1965</p></scopecontent>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">11</container>
+<unittitle>Clark, Walter Van Tilburg, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">12</container>
+<unittitle>Clee, Gil, 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">9</container><container type="Folder">13</container>
+<unittitle>D'Arcy, Rev. Fr. Martin, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">1</container>
+<unittitle>Denney, Reuel, 1959-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">2</container>
+<unittitle>Derrick, Christopher, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">3</container>
+<unittitle>DuBos, Rene, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">4</container>
+<unittitle>Edel, Leon, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">5</container>
+<unittitle>Elder, Joseph, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">6</container>
+<unittitle>Eliade, Mircea, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">7</container>
+<unittitle>Enters, Angna, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">8</container>
+<unittitle>Enzenberger, H., 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">9</container>
+<unittitle>Evans, Herbert, 1959-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">10</container>
+<unittitle>Farrer, Austin, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">11</container>
+<unittitle>Ford, Jesse Hill, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">10</container><container type="Folder">12</container>
+<unittitle>Freemantle, Anne, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">1</container>
+<unittitle>Fuller, Robert, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">2</container>
+<unittitle>Gardlund, Torsten, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">3-4</container>
+<unittitle>Goodwin, Richard, 1965-1966 (2 folders)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">5-6</container>
+<unittitle>Gutierrez Olivos, Sergio, 1965-1966, 1966-1967 (2 folders)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">7</container>
+<unittitle>Hadas, Moses, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">8</container>
+<unittitle>Hallie, Philip, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">9</container>
+<unittitle>Hansen, Alvin, 1960-1961 (second semester)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">10</container>
+<unittitle>Haydn, Hiram, 1964-1965 (first semester)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">11</container>
+<unittitle>Hoffman, Paul G., 1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">12</container>
+<unittitle>Holmberg, Erik B., 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">13</container>
+<unittitle>Horgan, Paul, 1959-1960 (second semester)</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">14</container>
+<unittitle>Horgan, Paul, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">15</container>
+<unittitle>Horgan publicity</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">11</container><container type="Folder">16</container>
+<unittitle>Jonas, Hans, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">1</container>
+<unittitle>Kaplan, Abe, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">2</container>
+<unittitle>Kermore, Frank, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">3</container>
+<unittitle>Kohn, Hans, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">4</container>
+<unittitle>Lewis, C. I., visiting lecturer, October 1959</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">5</container>
+<unittitle>Manchester, William, 1959-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">6</container>
+<unittitle>Martin, John B., 1963-1964, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">7</container>
+<unittitle>Martin, John B. and the Dominican Republic</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">8</container>
+<unittitle>Messer, Thomas, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">9</container>
+<unittitle>Meyer, Leonard, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">12</container><container type="Folder">10</container>
+<unittitle>Moynihan, Daniel P., 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">1</container>
+<unittitle>Mumford, Lewis, Fall 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">2</container>
+<unittitle>Munro, Sir Leslie, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">3</container>
+<unittitle>Munson, G., 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">4</container>
+<unittitle>O'Faolain, Sean, April 1966-May 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">5</container>
+<unittitle>Ong, Father Walter Jackson, S. J., 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">6</container>
+<unittitle>Peterson, Ange, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">7-8</container>
+<unittitle>Polanyi, Michael, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">9</container>
+<unittitle>Polanyi, Michael, April 9, 1966 party and miscellaneous</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">10</container>
+<unittitle>Powell, L. C., 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">11</container>
+<unittitle>Quine, W. V., 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">12</container>
+<unittitle>Rado, Tibor, 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">13</container><container type="Folder">13</container>
+<unittitle>Randall, C. B., 1959-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">1-2</container>
+<unittitle>Read, Sir Herbert, 1963-1964 and March-June 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">3</container>
+<unittitle>Richards, T. A., 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">4</container>
+<unittitle>Robinson, Howard T., 1968-1969</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">5</container>
+<unittitle>Sarbin, Theodore, 1968-1969</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">6</container>
+<unittitle>Schorske, Carl, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">7</container>
+<unittitle>Shapira, Nathan, 1959-1960
+</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">8-9</container>
+<unittitle>Simmons, Frank T., 1963-1964, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">10</container>
+<unittitle>Snow, C. P., 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">11</container>
+<unittitle>Snow, Lady, 1961-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">12</container>
+<unittitle>Spender, Stephen, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">14</container><container type="Folder">13</container>
+<unittitle>Stafford, Jean (Mrs. A. J. Liebling), 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">1</container>
+<unittitle>Streeten, Paul, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">2</container>
+<unittitle>Syme, Sir Ronald, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">3</container>
+<unittitle>Tavard, Rev. George, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">4</container>
+<unittitle>Waddington, C. H., 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">5</container>
+<unittitle>Weismiller, Edward, 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">6</container>
+<unittitle>Whyte, Lancelot, 1960-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">7</container>
+<unittitle>Wilbur, R., 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">8</container>
+<unittitle>Williams, Alfred H. </unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">9</container>
+<unittitle>Wilson, Edmund, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">10</container>
+<unittitle>Yilmaz, H. 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">15</container><container type="Folder">11</container>
+<unittitle>Young, Ralph, 1967-1968</unittitle>
+</did>
+</c02>
+
+
+</c01>
+
+
+<c01 level="series">
+<did>
+<unittitle>Persons Under Consideration</unittitle>
+</did><scopecontent>
+<p>The Persons Under Consideration series is arranged alphabetically. The dates indicate the years in which the person was a considered for a fellowship.</p></scopecontent>
+<c02>
+<did><container type="Box">16</container><container type="Folder">1</container>
+<unittitle>A: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">2</container>
+<unittitle>Abrams, Meyer (Mike) H., 1959-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">3</container>
+<unittitle>Alekseyev (Alexeiff), M. P., 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">4</container>
+<unittitle>Ashby, Sir Eric, 1960-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">5</container>
+<unittitle>Avon, Lord (The Rt. Hon., the Earl of) (Anthony Eden), 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">6</container>
+<unittitle>Auden, W. H., 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">7-8</container>
+<unittitle>B: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">9</container>
+<unittitle>Barati, George, 1964-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">10</container>
+<unittitle>Barnes, W. H. F., 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">11</container>
+<unittitle>Baron, Hans, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">12</container>
+<unittitle>Barr, Alfred, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">13</container>
+<unittitle>Barthes, Roland, 1963-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">14</container>
+<unittitle>Bergin, Thomas, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">15</container>
+<unittitle>Berlinski, Herman, circa 1960-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">16</container>
+<unittitle>Bernstein, Leonard, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">17</container>
+<unittitle>Biggs, Hon. John, Jr. 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">18</container>
+<unittitle>Bitter, Francis, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">19</container>
+<unittitle>Blackett, P. M. S., 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">20</container>
+<unittitle>Blaisdell, Thomas, circa 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">21</container>
+<unittitle>Blotner, Joseph, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">22</container>
+<unittitle>Bradley, Wilmot H., 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">23</container>
+<unittitle>Bronowski, Jacob, 1958-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">24</container>
+<unittitle>Brown, Sterling, 1963-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">25</container>
+<unittitle>Buchdahl, Gerd, 1960-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">16</container><container type="Folder">26</container>
+<unittitle>Bullen, Keith Edward, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">1</container>
+<unittitle>Bullock, Alan, 1959-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">2</container>
+<unittitle>Bundy, McGeorge (Dean), 1959</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">3</container>
+<unittitle>Bunker, Ellsworth, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">4</container>
+<unittitle>Butler, David, 1960-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">5</container>
+<unittitle>C: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">6</container>
+<unittitle>Calhoun, Robert L., 1962-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">7</container>
+<unittitle>Carter, Gwen, 1960-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">8</container>
+<unittitle>Cecil, Lord David, 1959-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">9</container>
+<unittitle>Chagas, Carlos, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">10</container>
+<unittitle>Chakravarty, Amiya, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">11</container>
+<unittitle>Chance, Michael, R.A., 1959</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">12</container>
+<unittitle>Chang, Chung-yuan, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">13</container>
+<unittitle>Chermayeff, Serge, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">14</container>
+<unittitle>Cherne, Leo, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">15</container>
+<unittitle>Chilver, Guy, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">16</container>
+<unittitle>Chomsky, Noam, 1962-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">17</container>
+<unittitle>Chukovsky, Kornei I., 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">18</container>
+<unittitle>Clive, Geoffrey, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">19</container>
+<unittitle>D: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">20</container>
+<unittitle>Daiches, David, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">21</container>
+<unittitle>D'Alverny, M.-T., 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">22</container>
+<unittitle>de Tolnay, Charles</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">23</container>
+<unittitle>Diendonne, Jean, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">24</container>
+<unittitle>Dillon, Wilton, 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">25</container>
+<unittitle>Dinkler, Erich, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">26</container>
+<unittitle>Doxiadis, C. A., 1966-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">17</container><container type="Folder">27</container>
+<unittitle>Drever, James, 1958-1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">1</container>
+<unittitle>E: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">2</container>
+<unittitle>Eliot, George, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">3</container>
+<unittitle>Ellison, Ralph, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">4</container>
+<unittitle>Elvey, C. T., 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">5</container>
+<unittitle>Erikson, Erik, 1960-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">6</container>
+<unittitle>Everton, John Scott, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">7</container>
+<unittitle>F: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">8</container>
+<unittitle>Fielder, Leslie, 1962-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">9</container>
+<unittitle>Flew, Antony, 1959-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">10</container>
+<unittitle>Fuller, Richard Buckminster, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">11</container>
+<unittitle>G: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">12</container>
+<unittitle>Gagnon, Paul, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">13</container>
+<unittitle>Geren, Paul Francis, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">14</container>
+<unittitle>Gielgud, Sir Arthur, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">15</container>
+<unittitle>Gordimer, Nadine, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">16</container>
+<unittitle>Grass, Gunter, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">17</container>
+<unittitle>Greenewalt, Crawford, Hallock, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">18</container>
+<unittitle>Grunbaum, Adolf, 1963-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">19</container>
+<unittitle>Guggenheim Memorial Foundation, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">20</container>
+<unittitle>Guilbert, Gilles, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">21</container>
+<unittitle>Guitton, Jean, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">22</container>
+<unittitle>H: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">23</container>
+<unittitle>Halsey, A. H., 1959-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">24</container>
+<unittitle>Hamburger, Michael, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">25</container>
+<unittitle>Hanania, Farid S, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">26</container>
+<unittitle>Harris, Abraham L. 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">27</container>
+<unittitle>Harvey, Laurence, 1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">28</container>
+<unittitle>Heller, Erich, 1964-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">29</container>
+<unittitle>Heroys, Helene, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">30</container>
+<unittitle>Hochberg, Julian, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">31</container>
+<unittitle>Hoggart, Richard, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">32</container>
+<unittitle>Holborn, Fred, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">33</container>
+<unittitle>Hopf, Hans, 1961-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">34</container>
+<unittitle>Horn, Walter, 1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">35</container>
+<unittitle>J: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">36</container>
+<unittitle>James, David Gwilym, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">37</container>
+<unittitle>Janney, J. Elliott, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">18</container><container type="Folder">38</container>
+<unittitle>Jepsen, Glenn L., 1962-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">1</container>
+<unittitle>K: general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">2</container>
+<unittitle>Kac, Mark, 1964-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">3</container>
+<unittitle>Keeney, Barnaby C., 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">4</container>
+<unittitle>Kelley, John Leroy, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">5</container>
+<unittitle>Koehler, Wolfgang, 1959-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">6</container>
+<unittitle>Kokoschka, Oskar, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">7</container>
+<unittitle>Kornberg, Hans, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">8</container>
+<unittitle>Kosinski, Jerzy, 1968</unittitle>
+</did>
+</c02>
+
+<c02>
+<did><container type="Box">19</container><container type="Folder">9</container>
+<unittitle>Kron, Gerald, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">10</container>
+<unittitle>Kung, Hans, 1965-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">11</container>
+<unittitle>Kurti, Nicholas, 1960-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">12</container>
+<unittitle>Kusch, Polykarp, 1962-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">13</container>
+<unittitle>L general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">14</container>
+<unittitle>Leyburn, James, 1960-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">15</container>
+<unittitle>Lieberson, Goddard, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">16</container>
+<unittitle>Lundberg, Erik, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">17-18</container>
+<unittitle>M general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">19</container>
+<unittitle>MacDougall, Donald, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">20</container>
+<unittitle>Markert, Werner, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">21</container>
+<unittitle>May, Rollo, 1959-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">22</container>
+<unittitle>Medawar, Sir Peter, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">23</container>
+<unittitle>Miller, William Lee, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">24</container>
+<unittitle>N general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">19</container><container type="Folder">25</container>
+<unittitle>Napier, Davie, 1959-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">1</container>
+<unittitle>NEF Visiting Profs, 1959</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">2</container>
+<unittitle>Neugeboren, Jay, 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">3</container>
+<unittitle>Nevins, Allan, 1964-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">4</container>
+<unittitle>Nicolson, Marjorie, 1959-1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">5</container>
+<unittitle>Novak, Alfred, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">6</container>
+<unittitle>O general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">7</container>
+<unittitle>Oppenheimer, Robert, 1959-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">8</container>
+<unittitle>Ore, Oystein, 1965-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">9</container>
+<unittitle>P general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">10</container>
+<unittitle>Pfeiffer, John, 1959-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">11</container>
+<unittitle>Pinter, Harold, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">12</container>
+<unittitle>Polunin, Nicholas, 1959-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">13</container>
+<unittitle>Portell-Vilia, Herminio, 1961-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">14</container>
+<unittitle>R general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">15</container>
+<unittitle>Randall, Clarence, 1959</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">16</container>
+<unittitle>Rao, Raja, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">17</container>
+<unittitle>Reiser, Oliver Leslie, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">18</container>
+<unittitle>Rojas, Hector, 1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">19</container>
+<unittitle>Rosselli, John, 1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">20</container>
+<unittitle>Ryder, Frank G., 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">21-22</container>
+<unittitle>S general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">23</container>
+<unittitle>Schwarz, Heinrich, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">24</container>
+<unittitle>Sears, Paul, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">25</container>
+<unittitle>Stanton, Frank, 1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">26</container>
+<unittitle>Starke, Werner, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">20</container><container type="Folder">27</container>
+<unittitle>Stone, C. Summer (Chuck), 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">1</container>
+<unittitle>T general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">2</container>
+<unittitle>Thistlewaite, Frank, 1959-1962</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">3</container>
+<unittitle>Tillich, Paul, 1961-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">4</container>
+<unittitle>Tyler, Royal, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">5</container>
+<unittitle>V general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">6</container>
+<unittitle>Van Der Goot, Anne, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">7</container>
+<unittitle>Vorontsov-Velyaminov, B., 1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">8</container>
+<unittitle>Voznesensky, Andrei, 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">9-10</container>
+<unittitle>W general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">11</container>
+<unittitle>Ward, Barbara, 1966</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">12</container>
+<unittitle>Waterman, Alan T., 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">13</container>
+<unittitle>Watts, Alan, 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">14</container>
+<unittitle>Weaver, Robert L., 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">15-16</container>
+<unittitle>Wharton, Clifton R., 1966-1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">17</container>
+<unittitle>Wilkinson, Elizabeth, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">18</container>
+<unittitle>Williams, Carroll Milton, 1962-1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">19</container>
+<unittitle>Wilson, Colin, 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">20</container>
+<unittitle>Wilson, John Tuzo, 1960</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">21</container>
+<unittitle>Winnington-Ingram, R. P., 1963-1964</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">22</container>
+<unittitle>Wormald, Francis, 1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">23</container>
+<unittitle>Wriggins, Howard, 1963</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">24</container>
+<unittitle>Yevtushenko, Yeugeny, 1963-1965</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">25</container>
+<unittitle>Ylvisaker, Paul N., 1967</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">26</container>
+<unittitle>Z general</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">27</container>
+<unittitle>Zassenhaus, Hans, 1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">28</container>
+<unittitle>Persons under consideration, 1959-1961</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">29</container>
+<unittitle>Persons under consideration, 1967-1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">21</container><container type="Folder">30</container>
+<unittitle>Suggestions: general</unittitle>
+</did>
+</c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</c01>
+
+
+
+
+
+
+
+
+<c01 level="series"><did><unittitle>Recordings</unittitle></did><scopecontent>
+<p>The Recordings are arranged chronologically.</p></scopecontent>
+<c02>
+<did><container type="Box">25</container>
+<unittitle>Ernst Bacon, December 20, 1963</unittitle>
+</did><scopecontent>
+<p>Two reels. Piano pieces. As recorded--not edited.</p>
+    <p>Master and listening CDs made, May 2011.</p>
+
+</scopecontent>
+
+
+</c02>
+<c02>
+<did><container type="Box">22</container>
+<unittitle>James Farmer, May 10, 1968</unittitle>
+</did><scopecontent>
+<p>Two tapes. Total length: approximately 1 hour, 20 minutes.</p>
+</scopecontent>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>May 1968 conference</unittitle>
+</did><scopecontent>
+<p>See also transcriptions in Box 24.</p></scopecontent>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>May 13, 1968 conference</unittitle>
+</did><scopecontent>
+<p>Side 1 only. Nature of recording not specified. On same tape as May 13 Dr. Tratliff recording.</p>
+</scopecontent>
+</c03>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Dr. Tratliff, May 13, 1968</unittitle>
+</did><scopecontent>
+<p>Side 2 only. On same tape as May 13, 1968 recording.</p>
+</scopecontent>
+</c03>
+
+
+
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Dr. Plutchik on Emotion, May 14, 1968</unittitle>
+</did><scopecontent>
+<p>Side 1 only. On same tape as Miller/Anderson recording.</p>
+</scopecontent>
+</c03>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Miller/Sam Anderson Theory of Consciousness, etc.</unittitle>
+</did><scopecontent>
+<p>Side 2 only. On same tape as May 14 Dr. Plutchik recording.</p>
+</scopecontent>
+</c03>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Private sessions: Dr. Yilmaz, Dr. Plutchik, Dr. Dahl, et al. presentations and discussions, May 15, 1968</unittitle>
+</did>
+</c03>
+
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Professor Plutchik, May 15, 1968</unittitle>
+</did><scopecontent>
+<p>On same tape as Professor H. Dahl recording. Not transcribed.</p>
+
+</scopecontent>
+
+
+</c03>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>Professor Plutchik, May 16, 1968</unittitle>
+</did><scopecontent>
+<p>On same tape as May 15 Professor Plutchik recording. Missing ten minutes.</p>
+
+</scopecontent>
+
+
+</c03>
+<c03>
+<did><container type="Box">22</container>
+<unittitle>George A. Miller, May 16, 1968</unittitle>
+</did>
+</c03>
+</c02>
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Urban Crisis in America, May 1968</unittitle>
+</did><scopecontent>
+<p>See also transcription in Box 24.</p></scopecontent>
+</c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Reverend James M. Lawson, Jr. lecture, October 3, 1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Reverend James M. Lawson, Jr. seminar, October 4, 1968</unittitle>
+</did>
+</c02>
+
+
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Dr. Joseph R. Washington, Jr. lecture, October 17, 1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Dr. Joseph R. Washington, Jr. seminar, October 18, 1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Father James Groppi lecture, October 24, 1968</unittitle>
+</did>
+</c02>
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Father James Groppi seminar, October 25, 1968</unittitle>
+</did>
+</c02>
+
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Dr. C. Eric Lincoln lecture, November 7, 1968</unittitle>
+</did>
+</c02>
+
+
+
+
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Roger Wilkins, December 18, 1968</unittitle>
+</did>
+</c02>
+
+
+
+<c02>
+<did><container type="Box">23</container>
+<unittitle>Richard Navadoff Goodwin, aide to and speechwriter for Presidents Kennedy and Johnson, speaking about 1964 election, recorded after the 1968 campaign</unittitle>
+</did><scopecontent>
+<p>4 copies.</p>
+
+</scopecontent>
+
+
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Transcriptions</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<unittitle>May 1968 conference</unittitle>
+</did>
+<c04>
+<did><container type="Box">24</container><container type="Folder">1-2</container>
+<unittitle>May 13, 1968</unittitle>
+</did>
+</c04>
+<c04>
+<did><container type="Box">24</container><container type="Folder">3</container>
+<unittitle>May 14, 1968</unittitle>
+</did>
+</c04>
+<c04>
+<did><container type="Box">24</container><container type="Folder">4</container>
+<unittitle>May 15, 1968</unittitle>
+</did>
+</c04>
+<c04>
+<did><container type="Box">24</container><container type="Folder">5-6</container>
+<unittitle>May 16, 1968</unittitle>
+</did>
+</c04>
+<c04>
+<did><container type="Box">24</container><container type="Folder">7</container>
+<unittitle>Correspondence, November-December 1968</unittitle>
+</did>
+</c04>
+</c03>
+<c03>
+<did><container type="Box">24</container><container type="Folder">8</container>
+<unittitle>Brother Antoninus, spring 1968</unittitle>
+</did><scopecontent>
+<p>This transcript appears to be partial. The recording on which it is based is not in the collection.</p></scopecontent>
+</c03>
+<c03>
+<did><container type="Box">24</container><container type="Folder">9</container>
+<unittitle>Urban Crisis in America: panel discussion, May 1968</unittitle>
+</did>
+</c03>
+</c02>
+
+
+</c01>
+
+
+
+
+</dsc>
+
+</archdesc>
+</ead>
+
+
+
+

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-Mus"
+             url="http://hdl.handle.net/10079/fa/music.mss.0150">music.mss.0150</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Hugo Benioff Recordings Collection </titleproper>
+            <titleproper type="filing">Hugo Benioff Recordings Collection</titleproper>
+            <author>Written by Jonathan Manton</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Music Library</publisher>
+            <address>
+               <addressline>120 High Street </addressline>
+               <addressline>PO Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="email">musicspecialcollections@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="https://guides.library.yale.edu/MusicSpecialCollections"
+                          xlink:title="https://guides.library.yale.edu/MusicSpecialCollections"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>January 2019</date>
+            <num>MSS 150</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 23, 2019 at 00:04</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Hugo Benioff Recordings Collection</unittitle>
+         <unitid>MSS 150</unitid>
+         <repository>
+            <corpname>
+               Yale University Music Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.5</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">1 box</physdesc>
+         
+            <unitdate type="inclusive" normal="1955/1962">1955-1962</unitdate>
+         
+         <abstract id="aspace_69a05a6b0dd17835e1aea300b3606a76">Recordings of concerts given at Hugo Benioff's home on electronic instruments he designed, by prominent musicians.
+ </abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85801931"
+                      rules="rda"
+                      source="naf">
+               Benioff, Hugo, 1899-1968
+            </persname>
+         </origination>
+    
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85376820"
+                      role="prf"
+                      source="naf">
+               Iturbi, José, 1895-1980
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no2006021231"
+                      role="prf"
+                      rules="rda"
+                      source="naf">
+               Crown, John, 1912-1972
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85001799"
+                      role="prf"
+                      rules="rda"
+                      source="naf">
+               Knopoff, Leon, 1925-
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_f58f93aa8277887be4e8a0d8e58c28bc">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research.</p>  
+      </accessrestrict>
+      <bioghist id="aspace_e3cb900ef8d0d1cb1571d522ee72610b">
+         <head>Biographical Sketch of Hugo Benioff</head>
+         <p>Victor Hugo Benioff was an American seismologist and a professor at the California Institute of Technology. Along with numerous accomplishments during his career, Benioff also created a number of electric musical instruments; in particular a piano, violin and cello. He was elected a Fellow of the American Academy of Arts and Sciences in 1958.</p>  
+      </bioghist>
+      <acqinfo id="aspace_d0a466a14f37496848bf0e6b6efb3e54">
+         <head>Immediate Source of Acquisition</head>
+         <p>The recordings included in this collection were donated to Yale by Paul Benioff, son of Hugo Benioff. The date these recordings were acquired by Yale is unknown.</p>  
+      </acqinfo>
+      <scopecontent id="aspace_39136fb041def52d95cca06b66568722">
+         <head>Scope and Contents</head>
+         <p>Hugo Benioff had patents on several electric musical instruments, including violin, cello, and piano. The recordings in this collection are of concerts given at Benioff's home on these instruments by prominent musicians such as Jose Iturbi, Leon Knopoff and John Crown.</p>  
+      </scopecontent>
+      <arrangement id="aspace_b2a37ac5b52f87a72fced625e7249b2c">
+         <head>Arrangement</head>
+         <p>The collection is arranged in one series: I. Open reel tapes</p>  
+      </arrangement>
+      <userestrict id="aspace_dcf695ab5451c60ee3c27d691568c5b6">
+         <head>Conditions Governing Use</head>
+         <p>Copyright status for collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>  
+      </userestrict>
+      <prefercite id="aspace_2f3233c440f809cd627828bd7f10fb4f">
+         <head>Preferred Citation</head>
+         <p>MSS 150, Hugo Benioff Recordings Collection, in the Music Library of Yale University.</p>  
+      </prefercite>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85089002"
+                  source="lcsh">
+            Electronic musical instruments
+         </subject>
+         <persname role="fmo" rules="rda" source="local_music">
+            Benioff, Paul
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="aspace_761b826968323d10fac5fb0f3f2fc6e6" level="series">
+            <did>
+               <unittitle>Open reel tape</unittitle>
+            </did>
+            <c id="aspace_e35f90a0499f64b877234556f94d8704" level="item">
+               <did>
+                  <unittitle>Piano performances by John Crown</unittitle>
+                  <origination label="creator">
+                     <persname authfilenumber="http://id.loc.gov/authorities/names/no2006021231"
+                               role="prf"
+                               rules="rda"
+                               source="naf">
+                        Crown, John, 1912-1972
+                     </persname>
+                  </origination>
+                  <physdesc>
+                     <extent unit="Audiotape Reel">1</extent>
+                  </physdesc>
+                  <physdesc altrender="container_summary">1/4 inch tape, 10.5 inch reel, 2500ft. </physdesc>
+                  <unitdate type="inclusive">1955 November 16</unitdate>
+                  <container label="Mixed Materials (39002126528158)"
+                             altrender="phonograph records (12 inch) box (6w)"
+                             id="aspace_79fb2073fc09ef90e41a60781c749cd6"
+                             type="box">1</container>
+                  <container id="aspace_7b2789288697a73b234a0c6f2f8b4d7d"
+                             type="item_barcode"
+                             parent="aspace_79fb2073fc09ef90e41a60781c749cd6">39002126528141</container>
+                  <dao xlink:actuate="onRequest"
+                       xlink:href="http://hdl.handle.net/10079/fa42272f-f89e-4484-9af1-98e1c85c49fd&amp;#10;"
+                       xlink:title="[Access] 39002126528141"
+                       xlink:show="new">
+                     <daodesc>
+                        <p>[Access] 39002126528141</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent id="aspace_2413851d9c88dbd631a315e5755bc6da">
+                  <head>Scope and Contents</head>
+                  <p>Performing Weber, Sonata in A Flat Major. Performed on May 1953 Xtal piano.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_92ae0455de66941536cc3ef7ad786c1e" level="item">
+               <did>
+                  <unittitle>Piano performance by Leon Knopoff</unittitle>
+                  <origination label="creator">
+                     <persname authfilenumber="http://id.loc.gov/authorities/names/n85001799"
+                               role="prf"
+                               rules="rda"
+                               source="naf">
+                        Knopoff, Leon, 1925-
+                     </persname>
+                  </origination>
+                  <physdesc>
+                     <extent unit="Audiotape Reel">1</extent>
+                  </physdesc>
+                  <physdesc altrender="container_summary">1/4 inch tape, 10.5 inch reel, 2500ft. </physdesc>
+                  <unitdate type="inclusive">1962 June 7</unitdate>
+                  <container label="Mixed Materials (39002126528158)"
+                             altrender="phonograph records (12 inch) box (6w)"
+                             id="aspace_d6c55ed0dbb340fe2f341fea06efb0e0"
+                             type="box">1</container>
+                  <container id="aspace_8995a9ea5fa49b602f4848f8cbee22bc"
+                             type="item_barcode"
+                             parent="aspace_d6c55ed0dbb340fe2f341fea06efb0e0">39002126528133</container>
+                  <dao xlink:actuate="onRequest"
+                       xlink:href="http://hdl.handle.net/10079/636911d8-cee6-42f9-98f0-b9a67962c15a"
+                       xlink:title="[Access] 39002126528133"
+                       xlink:show="new">
+                     <daodesc>
+                        <p>[Access] 39002126528133</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent id="aspace_defa1a789bc62bbfc0701084441c717b">
+                  <head>Scope and Contents</head>
+                  <p>Performed on a ceramic electro-piano. Piano number 91491.</p>
+               </scopecontent>
+            </c>
+            <c id="aspace_0b5b9409014857bffcc69a1aa92f5fab" level="item">
+               <did>
+                  <unittitle>Piano performance by Jose Iturbi</unittitle>
+                  <origination label="creator">
+                     <persname authfilenumber="http://id.loc.gov/authorities/names/n85376820"
+                               role="prf"
+                               source="naf">
+                        Iturbi, José, 1895-1980
+                     </persname>
+                  </origination>
+                  <physdesc>
+                     <extent unit="Audiotape Reel">1</extent>
+                  </physdesc>
+                  <physdesc altrender="container_summary">1/4 inch tape, 10.5 inch reel, 2500ft, 15 ips. </physdesc>
+                  <unitdate type="inclusive">1958 April 21</unitdate>
+                  <container label="Mixed Materials (39002126528158)"
+                             altrender="phonograph records (12 inch) box (6w)"
+                             id="aspace_33c206ced18549ea25529db3a9511fa0"
+                             type="box">1</container>
+                  <container id="aspace_dfb223a93489efab97278a34eacceb2c"
+                             type="item_barcode"
+                             parent="aspace_33c206ced18549ea25529db3a9511fa0">39002126528125</container>
+                  <dao xlink:actuate="onRequest"
+                       xlink:href="http://hdl.handle.net/10079/979f8a49-b467-4d05-817f-aee7e8f1bcc1"
+                       xlink:title="[Access] 39002126528125"
+                       xlink:show="new">
+                     <daodesc>
+                        <p>[Access] 39002126528125</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <scopecontent id="aspace_72570c7a9deb51f55e5ed6a42d6109da">
+                  <head>Scope and Contents</head>
+                  <p>Performed on a May 1953 Xtal piano.</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

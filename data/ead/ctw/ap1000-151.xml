@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-151::April 29th Coalition Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ap1000-151.html">ap1000-151</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the April 29th Coalition Records,
+		<lb/><date normal="1982/1982">1982</date>
+		</titleproper>
+        <author>Processed by: Anna Martin; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: July 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the April 29th Coalition Records, <date type="span">1982</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). April 29th Coalition.</corpname></origination><unittitle label="Title" encodinganalog="245">April 29th Coalition Records, <unitdate normal="1982/1982" type="inclusive">1982</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-151</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.25</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">In January 1982, Wesleyan University eliminated their aid-blind admissions policy. In response, students from a group called the April 29th Coalition protested the University's decision. The organization collected 1,284 signatures of students demanding Wesleyan return to an aid-blind system. They also demanded several changes to the financial aid and admissions system. Later in the semester, students held a 150 hour sit-in on the second floor of North College, one hour for each year that the University had existed. Although their primary demand for reestablishing the aid-blind system was not met by the end of the semester, President Colin Campbell wrote a statement that the students' demands would be addressed at the next the Board of Trustees meeting and that reinstituting the former policy would be given the highest priority if and when circumstances permitted.</abstract><abstract encodinganalog="520">This collection includes meeting notes of the April 29th Coalition, a series of Press Releases, correspondence letters written from students involved in the sit-in, and the 1,284 petition signatures. It also includes a letter of solidarity written to the students of Medgar Evers College.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], April 29th Coalition Records, Collection #1000-151, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired between 1982 and 1997.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Anna Martin, July 2008</p>
+        <p>Encoded by Valerie Gillispie, July 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>In the spring of 1981, the University formed the Budget Advisory Committee (BAC) which was made up of 4 students, 4 faculty, and 3 administrators. The BAC studied alternative ways to modify the aid-blind policy. In January 1982, the committee recommended the termination of the aid-blind admissions policy. Aid-blind meant that the admissions decisions were made without regard to the students' ability to pay. Need-blind, Wesleyan University's policy as of 2008, is a system which means that once admitted, a student receives all the financial aid needed to attend Wesleyan. (The third option is budget blind which means that there is no limit to financial aid expenditures.) Wesleyan's former policy was a <emph render="doublequote">pure</emph> aid-blind policy because it was also need-blind and budget blind. In 1981, Wesleyan tuition was $11,450 annually. </p>
+      <p>Students immediately began to protest the change to aid-blind admissions, and the administration blamed the Reagan administration's higher education cuts. Six hundred Wesleyan students attended a rally in Washington D.C. and were recognized as the largest single group in attendance. On April 29, two hundred students rallied in front of the North College building to protest the aid-blind cuts. The April 29th Coalition, a new student group, presented President Colin Campbell with a petition signed by 1,284 students. They also collected signatures from professors, workers at Downey House (the campus center and dining hall at the time), and from Linus Pauling (two time Noble Laureate). Their demands entailed that Wesleyan return to an aid-blind system, that a student/faculty committee be formed whose primary focus was to study fiscally responsible ways of financing aid-blind admissions (with access to all information requested), that student trustees be granted full voting rights, and finally that President Campbell and the Board of Trustees voice the University's opposition to the federal higher education cuts. President Campbell responded that he would urge the reinstatement of the policy if and when it would be economically feasible. The university could not immediately reinstate the old policy because it <emph render="doublequote">would pose a threat to the range and quality of the educational program.</emph></p>
+      <p>The students responded by planning a 150 hour sit-in on the second floor of North College, one hour for each year that the university had existed. On May 12, nineteen students moved into North College. In addition to the sit-in there were 150 second <emph render="doublequote">Die-ins</emph> on the steps of North College. Students would play dead in order to <emph render="doublequote">Resurrect aid-blind.</emph> It was very important to the students that the drama of the protests would not take attention away from their aid-blind message. </p>
+      <p>Although their primary demand for reestablishing the aid-blind system was not met by the end of the semester, President Campbell wrote a statement that the students' demands would be addressed at the next the Board of Trustees meeting and that reinstituting the former policy would be given the highest priority if and when circumstances permitted.</p>
+      <p>It seems that the University transitioned into a need-blind policy after this dispute, in which students would be accepted and would receive financial aid based on their need, but that their need was taken into consideration when accepted to the school. It is unclear when this policy was implemented and how long it lasted. In the 1991-92 school year, the university denied need-blind financial aid to students who were on the waiting list. Again students rallied and held (a shorter) sit-in at North College. Although the definitions of terminology varies, and different publications describe Wesleyan as either need-blind or aid-blind, the university still claims to have had a long history with giving aid-blind support to its students. </p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent><head>Collection Overview</head><p>This collection contains meeting notes from the April 29 Coalition and their arrangements for the May 12, 1982 North College Sit-in to reinstate Wesleyan University's aid-blind admissions policy. Since this occured before the invention of cell phones, there are many letters written by the 19 students who spent 150 hours locked in North College. The coalition had a team of runners that would deliver supplies and messages to those locked in. The sit-in was also during the same time as reading week and the annual Spring Fling concert.</p> 
+
+<p>The sit-in caused some unusual problems. For example, the university locked the students out of the bathroom facilities. If they were to leave to go to the bathroom they would be locked out. In response to this situation, students used a bag in a corner of one of the administrators' offices and periodically lowered the bag of refuse out the window. In response, the administration reported them to Student Judicial Board (SJB) and tried to shut the sit-in down. The SJB decided that the bathrooms should be unlocked, the students should be allowed support runners, and the students should move to more public offices. </p><p>The collection includes meeting notes of the April 29th Coalition and a series of press releases sent out about the status of the negotiations with President Colin Campbell. Separate from the movement, there is a letter of solidarity written to the students of Medgar Evers College. Even though their grievances with their administration were different (such as the lack of a black studies program even though the campus was 90 percent black, and the lack of day-care facilities at a school with 73 percent female enrollment, over half of them with children), they shared in their goal for equal access education and student power in decision making.</p>  
+
+
+
+<arrangement><head>Collection Arrangement</head><p>
+</p></arrangement></scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Campbell, Colin G.</persname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Administration.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Finance.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History--20th century.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <subject source="lcsh" encodinganalog="650">Student aid--Education (Higher)--United States.</subject>
+      <subject source="lcsh" encodinganalog="650">Student aid--Connecticut.</subject>
+      <subject source="lcsh" encodinganalog="650">Student financial aid administration--Connecticut.</subject>
+      <corpname source="lcnaf" encodinganalog="610">City University of New York. Medgar Evers College.</corpname>
+      <subject source="lcsh" encodinganalog="650">Universities and colleges--Admission.</subject>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). April 29th Coalition.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01><did><unittitle/></did><c02><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Briefing Info</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Press Releases</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Notes from inside the North College Sit-in</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">4</container><unittitle>Support Center Committee</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">5-6</container><unittitle>Meeting Notes</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">7</container><unittitle>Statements of Support, Campus Organizations</unittitle></did></c02><c02><did><container type="Box">1</container><container type="Folder">8</container><unittitle>Petition Signatures</unittitle></did></c02>		
+
+</c01>
+    </dsc>
+  </archdesc>
+</ead>

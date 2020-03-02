@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/asc/findaids/ivespierce/MSS19790008.html" mainagencycode="US-CtU" countrycode="US">MSS19790008</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Ives and Pierce Records</titleproper>
+		<subtitle></subtitle>
+		<author>Finding aid prepared by Kristen DeBona.</author>
+	
+</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2010  University of Connecticut</publisher>
+	<date type="publication">March 2010</date>
+
+	<address><addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline><addressline>405 Babbidge Road, Unit 1205</addressline><addressline>Storrs, Connecticut  06269-1205</addressline><addressline>URL http://doddcenter.uconn.edu/</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Kristen DeBona in March 2010.</creation>
+<langusage><language>eng</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="100">Ives and Pierce</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Ives and Pierce Records.</unittitle>
+
+	<unitdate label="Dates:">1895-1929.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">34 linear feet.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Ives and Pierce, a rural business in Canaan, 
+Connecticut, was owned by Henry B. Ives and Robert D. Pierce, and sold grain, chicken feed, poultry, and agricultural 
+supplies to local farmers. The business also sold coal to local residents. The records consist of 36 volumes of financial journals, daybooks, and coal and account books.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-UCW">MSS19790008</unitid>
+	<langmaterial><language>English</language>.
+	</langmaterial>
+</did>
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>History</head>
+
+	<p><corpname>Ives and Pierce</corpname>, a rural business in <geogname>Canaan, Connecticut</geogname>, was owned by <persname>Henry B. Ives</persname> and <persname>Robert D. Pierce</persname>, and sold grain, chicken feed, poultry, and agricultural supplies to local farmers. The business also sold coal to local residents. </p>
+
+</bioghist>
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection contains the financial and business records of Ives and Pierce.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p></p>
+<p><emph render="bold">Series I: Journals and Daybooks </emph> (<date>1895-1929</date>) consists of thirty journals 
+and four daybooks which list daily sales made at the store.  The entries include the transaction date, the customer's name, a description of the item sold, and the purchase price.</p>
+<p><emph render="bold">Series II: Coal and Account Books </emph> (<date>1900-1928</date>) consists of two volumes.  The first 
+volume lists sales of coal for 1922 to 1928. The second volume is an account book, 1900-1925, which records coal and grain 
+purchased.</p>
+</arrangement>
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of Connecticut business records. 
+For detailed information about this collection please contact 
+the <extref href="http://doddcenter.uconn.edu/asc/dodda2z/curatorinfo.cfm?curatorinfo=4">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial> 
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Ives, Henry B.</persname>
+			<persname encodinganalog="700" source="local">Pierce, Robert D.</persname>
+	
+		</controlaccess>
+				
+		<controlaccess>
+			<head>Places:</head>
+			<geogname encodinganalog="651" source="local">Canaan, Conn.</geogname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Merchants -- Connecticut.</subject>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Administrative Records.</genreform>
+<genreform encodinganalog="655" source="local">Financial Records.</genreform>
+		</controlaccess>
+	
+		</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from these Papers must be obtained in writing from both the University of Connecticut Libraries 
+and the owner(s) of the copyright.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#] <corpname>Ives and Pierce</corpname> Records.  <corpname>Archives &#x0026; Special Collections 
+at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The <corpname>Ives and Pierce</corpname> Records were obtained by the <corpname>University of Connecticut</corpname> in the 1950s.</p>
+
+</acqinfo>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>Series I: Journals and Daybooks, </unittitle>
+	<unitdate>1895-1929</unitdate>
+    </did>	
+
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<unittitle>Journals</unittitle>
+	<unitdate></unitdate>
+    </did>	
+
+<c03 level="file">
+   <did>
+	<container type="Box">1</container>
+	<unittitle> </unittitle>
+	<unitdate>1895 August - 1896 December 31</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did>
+	<container type="Box">2</container>
+	<unittitle> </unittitle>
+	<unitdate>1898 August 1 - 1899 October 31</unitdate>
+    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">3</container>
+	<unittitle> </unittitle>
+	<unitdate>1899 November 1 - 1900 December 22</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">4</container>
+	<unittitle> </unittitle>
+	<unitdate>1900 December 24 - 1901 December 15</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">5</container>
+	<unittitle> </unittitle>
+	<unitdate>1902 October 15 - 1903 July 15</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">6</container>
+	<unittitle> </unittitle>
+	<unitdate>1903 July 25 - 1904 May 15</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">7</container>
+	<unittitle> </unittitle>
+	<unitdate>1904 May 16 - 1905 April 1</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">8</container>
+	<unittitle> </unittitle>
+	<unitdate>1905 April 1 - 1906 February 3</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">9</container>
+	<unittitle> </unittitle>
+	<unitdate>1906 February 4 - 1906 November 30</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">10</container>
+	<unittitle> </unittitle>
+	<unitdate>1906 December 1 - 1907 September 23</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">11</container>
+	<unittitle> </unittitle>
+	<unitdate>1907 September 24 - 1908 July 17</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">12</container>
+	<unittitle> </unittitle>
+	<unitdate>1908 July 17 - 1909 June 1</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">13</container>
+	<unittitle> </unittitle>
+	<unitdate>1909 June 1 - 1910 March 1</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">14</container>
+	<unittitle> </unittitle>
+	<unitdate>1910 March 1 - 1910 November 1</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">15</container>
+	<unittitle> </unittitle>
+	<unitdate>1910 November 1 - 1911 June 19</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">16</container>
+	<unittitle> </unittitle>
+	<unitdate>1911 June 20 - 1912 February 5</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">17</container>
+	<unittitle> </unittitle>
+	<unitdate>1912 February 6 - September 20</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">18</container>
+	<unittitle> </unittitle>
+	<unitdate>1912 September 21 - 1913 August 28</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">19</container>
+	<unittitle> </unittitle>
+	<unitdate>1913 August 29 - 1914 April 30</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">20</container>
+	<unittitle> </unittitle>
+	<unitdate>1914 May 1 - November 30</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">21</container>
+	<unittitle> </unittitle>
+	<unitdate>1914 December 1 - 1915 July 28</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">22</container>
+	<unittitle> </unittitle>
+	<unitdate>1915 July 29 - 1916 February 29</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">23</container>
+	<unittitle> </unittitle>
+	<unitdate>1916 March 1 - 1917 May 6</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">24</container>
+	<unittitle> </unittitle>
+	<unitdate>1917 May 7 - November 16</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">25</container>
+	<unittitle> </unittitle>
+	<unitdate>1917 November 16 - 1919 March 13</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">26</container>
+	<unittitle> </unittitle>
+	<unitdate>1919 March 13 - 1920 June 30</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">27</container>
+	<unittitle> </unittitle>
+	<unitdate>1920 July 1 - 1922 January 28</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">28</container>
+	<unittitle> </unittitle>
+	<unitdate>1922 January 30 - 1923 October 25</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">29</container>
+	<unittitle> </unittitle>
+	<unitdate>1923 October 25 -1925 May 14</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">30</container>
+	<unittitle> </unittitle>
+	<unitdate>1925 May 14 - 1927 October 1</unitdate>    </did>	
+</c03>
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box"></container>
+	<unittitle>Daybooks</unittitle>
+	<unitdate></unitdate>
+    </did>	
+
+<c03 level="file">
+   <did><container type="Box">31</container>
+	<unittitle> </unittitle>
+	<unitdate>1926 August 13 - 1927 April 28</unitdate>    </did>	
+</c03>
+
+<c03 level="file">
+   <did><container type="Box">32</container>
+	<unittitle> </unittitle>
+	<unitdate>1927 April 28 - 1928 January 18</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">33</container>
+	<unittitle> </unittitle>
+	<unitdate>1928 January 18 - October 18</unitdate>    </did>	
+</c03>
+<c03 level="file">
+   <did><container type="Box">34</container>
+	<unittitle> </unittitle>
+	<unitdate>1928 October 18 - 1929 July 16</unitdate>    </did>	
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+   <did>
+	<unittitle>Series II: Coal and Account Books, </unittitle>
+	<unitdate>1900-1928</unitdate>
+    </did>	
+<c02 level="file">
+   <did><container type="Box">35</container>
+	<unittitle>Coal book, </unittitle>
+	<unitdate>1922 September - 1928</unitdate>    </did>	
+</c02>
+
+<c02 level="file">
+   <did><container type="Box">36</container>
+	<unittitle>Account book, </unittitle>
+	<unitdate>1900-1925</unitdate>    </did>	
+</c02>
+</c01>
+</dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

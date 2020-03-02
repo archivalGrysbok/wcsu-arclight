@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.marston">beinecke.marston</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Thomas E. Marston Family Papers </titleproper>
+            <titleproper type="filing">Marston (Thomas E.) Family Papers</titleproper>
+            <author>Finding aid prepared by Karen Spicher</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2015</date>
+            <num>GEN MSS 1341</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Thursday January 10, 2019 at 04:07</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Thomas E. Marston family papers</unittitle>
+         <unitid>GEN MSS 1341</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">2.3</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(6 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1711/1981">1711-1981</unitdate>
+         
+         
+            <unitdate type="bulk" normal="1938/1954">1938-1954</unitdate>
+         
+         <abstract id="aspace_dd6d55ff4b39cbb73d8e8591ea58a99b">The Thomas E. Marston Family Papers contain Marston family correspondence and a small amount of material relating to Thomas E. Marston's collecting of medieval and early modern books and manuscripts, and his association with the Yale University Library. Most family correspondence consists of letters to Julia Dale Ewart Marston from Josephine Sands Marston, 1938-1951, concerning family news; accompanying these are letters from Thomas E. Marston and their children, Josephine Ewart Marston and Thomas Marston, and photographs of the children. Other correspondence of Julia Dale Ewart Marston includes additional letters from Thomas E. Marston, 1951-1954, concerning his divorce from Josephine Sands Marston, and letters from other members of the Marston and Sands families, 1923-1964. Papers of Thomas E. Marston include correspondence, 1957-1981 and undated, most with book and manuscript vendors or Yale University colleagues; and writings and research materials, 1945-1976 and undated. Research materials include a copy of The Spectator, number CCVII, 1711 October 27.</abstract>
+         <langmaterial id="aspace_7d84372f71d1dda56939ec44b478fdcb">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n95048844"
+                      rules="aacr"
+                      source="naf">
+               Marston, Thomas E.
+            </persname>
+         </origination>
+      </did>
+      <acqinfo id="ref8">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Minna Reese Marston, 2008.</p>  
+      </acqinfo>
+      <accessrestrict id="ref5">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <userestrict id="ref6">
+         <head>Conditions Governing Use</head>
+         <p>The Thomas E. Marston Family Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="ref7">
+         <head>Preferred Citation</head>
+         <p>Thomas E. Marston Family Papers. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <processinfo id="ref9">
+         <head>Processing Information</head>
+         <p>Former call number: Uncat MSS 1014. In 2015, the collection received a baseline level of processing, including rehousing and minimal organization. The collection was reclassed under a new call number, and containers were renumbered. Most folder titles were based on information provided by the donor, while some were assigned by Library staff. Folder titles were not verified against contents.</p>  
+      </processinfo>
+      <bioghist id="ref4">
+         <head>Thomas E. Marston (1904-1984) (Yale 1927)</head>
+         <p>Thomas E. (Thomas Ewart) Marston, collector of medieval and early modern books and manuscripts, particularly early modern editions of classical literature; donor of medieval and early modern books and manuscripts to the Yale University Library; and Yale University Library Associates trustee, 1933-1984. In 1935 Marston was appointed assistant to the Keeper of Rare Books at Yale, and he later served as curator of medieval and Renaissance literature, retiring in 1973. Marston was the son of Julia Dale Ewart Marston and Thomas B. (Thomas Brunton) Marston, (born 1857; Yale 1879). He married Josephine Sands, daughter of Benjamin J. (Benjamin Jerome) Sands and Josephine W. Sands, in 1938. They had two children, Josephine Ewart Marston Bringe and Thomas Marston (1944-2011). Thomas E. Marston and Josephine W. Sands were divorced in 1938. Marston married Minna Reese in 1963.</p>  
+      </bioghist>
+      <scopecontent id="ref10">
+         <head>Scope and Contents</head>
+         <p>The Thomas E. Marston Family Papers contain Marston family correspondence and a small amount of material relating to Thomas E. Marston's collecting of medieval and early modern books and manuscripts, and his association with the Yale University Library. Most family correspondence consists of letters to Julia Dale Ewart Marston from Josephine Sands Marston, 1938-1951, concerning family news; accompanying these are letters from Thomas E. Marston and their children, Josephine Ewart Marston and Thomas Marston, and photographs of the children. Other correspondence of Julia Dale Ewart Marston includes additional letters from Thomas E. Marston, 1951-1954, concerning his divorce from Josephine Sands Marston, and letters from other members of the Marston and Sands families, 1923-1964. Papers of Thomas E. Marston include correspondence, 1957-1981 and undated, most with book and manuscript vendors or Yale University colleagues; and writings and research materials, 1945-1976 and undated. Research materials include a copy of The Spectator, number CCVII, 1711 October 27.</p>  
+      </scopecontent>
+      <arrangement id="ref3">
+         <head>Arrangement</head>
+         <p>Organized into two series: Julia Dale Ewart Marston Papers, 1923-1964. II. Thomas E. Marston Papers, 1711-1981.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2007102084"
+                  source="lcsh">
+            Book collecting -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99004167"
+                  source="lcsh">
+            Book collectors -- United States
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh86002963"
+                  source="lcsh">
+            Librarians -- United States
+         </subject>
+         <subject source="local">
+            Manuscripts -- Collectors and collecting -- United States
+         </subject>
+         <genreform source="local">
+            Photographs -- United States -- 20th Century
+         </genreform>
+         <occupation source="local">
+            Book collectors -- United States -- 20th Century
+         </occupation>
+         <occupation source="local">
+            Librarians -- United States -- 20th Century
+         </occupation>
+         <persname source="local">
+            Anne-Marie von Schutzbar gennant Milchling, Hereditary Duchess of Oldenburg, 1903-1991
+         </persname>
+         <persname source="local">
+            Bringe, Josephine Ewart Marston
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85081573"
+                  source="lcsh">
+            Marsden family
+         </famname>
+         <persname source="local">
+            Marston, Josephine J. Sands
+         </persname>
+         <persname rules="aacr" source="local">
+            Marston, Julia Dale Ewart
+         </persname>
+         <persname rules="aacr" source="local">
+            Marston, Rose
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88668083"
+                   rules="aacr"
+                   source="naf">
+            Marston, Thomas B. (Thomas Brunton)
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n95048844"
+                   rules="aacr"
+                   source="naf">
+            Marston, Thomas E.
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85117244"
+                  source="lcsh">
+            Sands family
+         </famname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n80008747"
+                   source="naf">
+            Yale University. Library
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Julia Dale Ewart Marston Papers</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">1.88</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(5 boxes)</physdesc>
+               <unitdate calendar="gregorian" era="ce" type="inclusive">1923-1964</unitdate>
+            </did>
+            <c id="ref13" level="subseries">
+               <did>
+                  <unittitle>Letters from Josephine J. Sands Marston and Thomas E. Marston</unittitle>
+               </did>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">[circa 1923]-1927</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_802016c5fd09a46490fc0af64fe91b14"
+                                type="box">1</container>
+                     <container id="aspace_5afb46cb311b6a954500904435d20b4b"
+                                type="folder"
+                                parent="aspace_802016c5fd09a46490fc0af64fe91b14">1</container>
+                  </did>
+               </c>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1938-1939</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_2d8890d4555adaf47e4e5be96630890c"
+                                type="box">1</container>
+                     <container id="aspace_0bd4adf2a9eb9fc3de7f4f52a15460a8"
+                                type="folder"
+                                parent="aspace_2d8890d4555adaf47e4e5be96630890c">2</container>
+                  </did>
+               </c>
+               <c id="ref16" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1940</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_bd1dbcf63fe4913dd4880217165da10a"
+                                type="box">1</container>
+                     <container id="aspace_67f9bf6ec18167eaab024a69adf2e51f"
+                                type="folder"
+                                parent="aspace_bd1dbcf63fe4913dd4880217165da10a">3</container>
+                  </did>
+               </c>
+               <c id="ref17" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1941 January-March</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_3e8b5c17775980498375fa829d4a1d07"
+                                type="box">1</container>
+                     <container id="aspace_46eb922799d12cdd85dc60cdaf866e5a"
+                                type="folder"
+                                parent="aspace_3e8b5c17775980498375fa829d4a1d07">4</container>
+                  </did>
+               </c>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1941 April-July</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_aea54e7033873eee802145ef5a37d7cb"
+                                type="box">1</container>
+                     <container id="aspace_94a6cad9fb62677ae3099f443da80950"
+                                type="folder"
+                                parent="aspace_aea54e7033873eee802145ef5a37d7cb">5</container>
+                  </did>
+               </c>
+               <c id="ref19" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1941 August-October</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_8fbd21c47bf41edcc0c7d9842bfd1318"
+                                type="box">1</container>
+                     <container id="aspace_70200a93dbb2eab2c523d7bf86ce2fdd"
+                                type="folder"
+                                parent="aspace_8fbd21c47bf41edcc0c7d9842bfd1318">6</container>
+                  </did>
+               </c>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1941 November-December</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_4fdd85b57916b02b6aa1c94f427a6d9f"
+                                type="box">1</container>
+                     <container id="aspace_47ca86b32a77bef8f9ca54c023aa0210"
+                                type="folder"
+                                parent="aspace_4fdd85b57916b02b6aa1c94f427a6d9f">7</container>
+                  </did>
+               </c>
+               <c id="ref21" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1942 January-May</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_c07b901eaa99115d1b0ce5a2c3b8493b"
+                                type="box">1</container>
+                     <container id="aspace_4529bcb63cc921967a3e0e72e8adc83a"
+                                type="folder"
+                                parent="aspace_c07b901eaa99115d1b0ce5a2c3b8493b">8</container>
+                  </did>
+               </c>
+               <c id="ref22" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1942 June-September</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_bfba6534090133b9f152768ec3b6962a"
+                                type="box">1</container>
+                     <container id="aspace_922181f55dd352dead19acd3f65550a1"
+                                type="folder"
+                                parent="aspace_bfba6534090133b9f152768ec3b6962a">9</container>
+                  </did>
+               </c>
+               <c id="ref23" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1942 October-December</unitdate>
+                     <container label="Mixed Materials (39002098478804)"
+                                id="aspace_f083263a0a3c1519b2da6a27c6b9608d"
+                                type="box">1</container>
+                     <container id="aspace_2610340578abdc8cace3c6b786e1ad7f"
+                                type="folder"
+                                parent="aspace_f083263a0a3c1519b2da6a27c6b9608d">10</container>
+                  </did>
+               </c>
+               <c id="ref24" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1943 January-April</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_c46ae9f4d611adc96392cf7048a9cf25"
+                                type="box">2</container>
+                     <container id="aspace_2e42f43069b3a65a56371a069125130a"
+                                type="folder"
+                                parent="aspace_c46ae9f4d611adc96392cf7048a9cf25">11</container>
+                  </did>
+               </c>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1943 May-October</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_f6d0c8a4cd6b34142932d41548d16f29"
+                                type="box">2</container>
+                     <container id="aspace_34f45136d34ee015829d052f38d296c8"
+                                type="folder"
+                                parent="aspace_f6d0c8a4cd6b34142932d41548d16f29">12</container>
+                  </did>
+               </c>
+               <c id="ref26" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1943 November-December</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_36998ad17ae034bf79a51fb7df523642"
+                                type="box">2</container>
+                     <container id="aspace_060d66332fcfdc03421ed6f9ae966024"
+                                type="folder"
+                                parent="aspace_36998ad17ae034bf79a51fb7df523642">13</container>
+                  </did>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1944 January-April</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_e4a6a5dcda9aa3311aa0677c8eab9d0a"
+                                type="box">2</container>
+                     <container id="aspace_f18c843d85c948a84c23b3fd2dcdc8af"
+                                type="folder"
+                                parent="aspace_e4a6a5dcda9aa3311aa0677c8eab9d0a">14</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1944 May-August</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_1343e5ef299253f2b3d65ebe17f23f73"
+                                type="box">2</container>
+                     <container id="aspace_a4cabf796af633c11071a3c35c7e8082"
+                                type="folder"
+                                parent="aspace_1343e5ef299253f2b3d65ebe17f23f73">15</container>
+                  </did>
+               </c>
+               <c id="ref29" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1944 September-December</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_541e4967bc6238f18b1a6aa0fa07c403"
+                                type="box">2</container>
+                     <container id="aspace_3e517d32c02f7aa98fd6c4f3fc1fdf29"
+                                type="folder"
+                                parent="aspace_541e4967bc6238f18b1a6aa0fa07c403">16</container>
+                  </did>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1945 January-May</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_dd58878afcf202b30d398dee160f1087"
+                                type="box">2</container>
+                     <container id="aspace_1fa7d6e6984c02e24096bfa5318e064d"
+                                type="folder"
+                                parent="aspace_dd58878afcf202b30d398dee160f1087">17</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1945 June-August</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_ececae955abc6b154c980fa65e6ba376"
+                                type="box">2</container>
+                     <container id="aspace_0c24f626db6b62609f1e692d5f6d6d8c"
+                                type="folder"
+                                parent="aspace_ececae955abc6b154c980fa65e6ba376">18</container>
+                  </did>
+               </c>
+               <c id="ref32" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1945 September-December</unitdate>
+                     <container label="Mixed Materials (39002098478812)"
+                                id="aspace_6ee652a44c95f4172fc9e9a15c946ab6"
+                                type="box">2</container>
+                     <container id="aspace_784ecbbc46ce81b21333c7ee796cd67f"
+                                type="folder"
+                                parent="aspace_6ee652a44c95f4172fc9e9a15c946ab6">19</container>
+                  </did>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1946 January-April</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_c244cdd4c96718407f63a8309f20d83b"
+                                type="box">3</container>
+                     <container id="aspace_b131b41d0ce97b28de19ac228d6059b5"
+                                type="folder"
+                                parent="aspace_c244cdd4c96718407f63a8309f20d83b">20</container>
+                  </did>
+               </c>
+               <c id="ref34" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1946 July-September</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_824460a6075e54bb135c0b2b5fa690ca"
+                                type="box">3</container>
+                     <container id="aspace_56dd0dde667f28a1271891a2ee76ade9"
+                                type="folder"
+                                parent="aspace_824460a6075e54bb135c0b2b5fa690ca">21</container>
+                  </did>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1946 October-December</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_1d999834068ad7d38e20a7ccd2b2488a"
+                                type="box">3</container>
+                     <container id="aspace_ed3129d3b38ca54d2452b9f9c6091e43"
+                                type="folder"
+                                parent="aspace_1d999834068ad7d38e20a7ccd2b2488a">22</container>
+                  </did>
+               </c>
+               <c id="ref36" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1947 January-April</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_935bc2b83f7aa318ea714095b87ec714"
+                                type="box">3</container>
+                     <container id="aspace_42965b86eae094a414315fc1012f9fdb"
+                                type="folder"
+                                parent="aspace_935bc2b83f7aa318ea714095b87ec714">23</container>
+                  </did>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1947 May-December</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_eeee036939239262f7c1d9bbc8236ad9"
+                                type="box">3</container>
+                     <container id="aspace_67331e7f190fdbc9787153345f923e99"
+                                type="folder"
+                                parent="aspace_eeee036939239262f7c1d9bbc8236ad9">24</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1948 January-March</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_93082f063c7e93798355a89e8f31ef18"
+                                type="box">3</container>
+                     <container id="aspace_37e862b2dc735bc6631db9472b45c828"
+                                type="folder"
+                                parent="aspace_93082f063c7e93798355a89e8f31ef18">25</container>
+                  </did>
+               </c>
+               <c id="ref39" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1948 April-June</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_76af130f5c45c465a9251d1abf0158c6"
+                                type="box">3</container>
+                     <container id="aspace_090f14d8f239ff13c45518082a048b7c"
+                                type="folder"
+                                parent="aspace_76af130f5c45c465a9251d1abf0158c6">26</container>
+                  </did>
+               </c>
+               <c id="ref40" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1948 July-August</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_4395dc31f91ba69baae1707d9899c579"
+                                type="box">3</container>
+                     <container id="aspace_9140bdd94a0929bd765a1889ed460494"
+                                type="folder"
+                                parent="aspace_4395dc31f91ba69baae1707d9899c579">27</container>
+                  </did>
+               </c>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1948 September-December</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_1796d499f7e1f159ce1ffba3e9c19606"
+                                type="box">3</container>
+                     <container id="aspace_da6f17f6fc6662a5768d7cdc1975af0c"
+                                type="folder"
+                                parent="aspace_1796d499f7e1f159ce1ffba3e9c19606">28</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1949 January-March</unitdate>
+                     <container label="Mixed Materials (39002098478820)"
+                                id="aspace_e8eef2cbd8eaa9df94bc54f9908086ac"
+                                type="box">3</container>
+                     <container id="aspace_2937e1aca6c2de4bb6a7d4e9fa88716b"
+                                type="folder"
+                                parent="aspace_e8eef2cbd8eaa9df94bc54f9908086ac">29</container>
+                  </did>
+               </c>
+               <c id="ref43" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1949 April-August</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_83c2c7029e0422fa3e69b2e9fa686a0d"
+                                type="box">4</container>
+                     <container id="aspace_3c0f5c7b7c0849db73b9504f419a0fc8"
+                                type="folder"
+                                parent="aspace_83c2c7029e0422fa3e69b2e9fa686a0d">30</container>
+                  </did>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1949 September-December</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_e9a012108496c05c37479feb1acf3de5"
+                                type="box">4</container>
+                     <container id="aspace_c5789064cc8a084ed6f596b1ad5a2568"
+                                type="folder"
+                                parent="aspace_e9a012108496c05c37479feb1acf3de5">31</container>
+                  </did>
+               </c>
+               <c id="ref45" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1950 January-March</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_30495cf56331d69c5e6d6b122df20a43"
+                                type="box">4</container>
+                     <container id="aspace_11aa390cfb5fade03e7ad6e1b178e78b"
+                                type="folder"
+                                parent="aspace_30495cf56331d69c5e6d6b122df20a43">32</container>
+                  </did>
+               </c>
+               <c id="ref46" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1950 April-July</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_060a7f22038d906746d0193d58f10ca2"
+                                type="box">4</container>
+                     <container id="aspace_45c699e7ed10812c18f73b1cc983b747"
+                                type="folder"
+                                parent="aspace_060a7f22038d906746d0193d58f10ca2">33</container>
+                  </did>
+               </c>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1950 August-December</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_985d42c41b95a7fd8d1048fca6d66036"
+                                type="box">4</container>
+                     <container id="aspace_42d7b7a6bf353e12d666c528c226d139"
+                                type="folder"
+                                parent="aspace_985d42c41b95a7fd8d1048fca6d66036">34</container>
+                  </did>
+               </c>
+               <c id="ref48" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1951 January-August</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_9f8fe9ac097f6eca05ae99b532365800"
+                                type="box">4</container>
+                     <container id="aspace_76c132744a4032250395428c7938b8e9"
+                                type="folder"
+                                parent="aspace_9f8fe9ac097f6eca05ae99b532365800">35</container>
+                  </did>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1951 September-December</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_81e0b095317ac4e8156b7ce5322b42d2"
+                                type="box">4</container>
+                     <container id="aspace_89095156f618b7ab95c807565db6132b"
+                                type="folder"
+                                parent="aspace_81e0b095317ac4e8156b7ce5322b42d2">36</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1952</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_f838800fb89d12933520a359bc449312"
+                                type="box">4</container>
+                     <container id="aspace_827e94f1049143ca82381c70d716d5b3"
+                                type="folder"
+                                parent="aspace_f838800fb89d12933520a359bc449312">37</container>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1953-1954</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_7e028822dc6536e63e2fa500856fad21"
+                                type="box">4</container>
+                     <container id="aspace_b6f46055ce7e490a5918791045450ed4"
+                                type="folder"
+                                parent="aspace_7e028822dc6536e63e2fa500856fad21">38</container>
+                  </did>
+               </c>
+               <c id="ref52" level="file">
+                  <did>
+                     <unittitle>Letters</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_bbe3e313c72b32cbd181bf26447de466"
+                                type="box">4</container>
+                     <container id="aspace_de17756e35dc0dbbd0725af8559ad256"
+                                type="folder"
+                                parent="aspace_bbe3e313c72b32cbd181bf26447de466">39</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref53" level="subseries">
+               <did>
+                  <unittitle>Other Correspondence</unittitle>
+               </did>
+               <c id="ref54" level="file">
+                  <did>
+                     <unittitle>Anne-Marie von Schutzbar gennant Milchling, Hereditary Duchess of Oldenburg</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1948-1964, undated</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_b3e15936cfb7ee1aa9f255cae738c3d0"
+                                type="box">4</container>
+                     <container id="aspace_06d07830936fdd6002b5ec81bd65e077"
+                                type="folder"
+                                parent="aspace_b3e15936cfb7ee1aa9f255cae738c3d0">40</container>
+                  </did>
+               </c>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Marston, Rose</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1949, undated</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_3f9d6e5ff010565f6f587d50389c53f6"
+                                type="box">4</container>
+                     <container id="aspace_0ce3c1ee17ec3de72fb5e247a0c0088c"
+                                type="folder"
+                                parent="aspace_3f9d6e5ff010565f6f587d50389c53f6">41</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Marston, Thomas B.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1922 May 13</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_3b7089659e82cbdf2f379f80649a3e42"
+                                type="box">4</container>
+                     <container id="aspace_5f4f70c5a830e996e16878523a9a942e"
+                                type="folder"
+                                parent="aspace_3b7089659e82cbdf2f379f80649a3e42">42</container>
+                  </did>
+               </c>
+               <c id="ref57" level="file">
+                  <did>
+                     <unittitle>Marston, Thomas B. (to Emma Louise Catherwood Marston)</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1920 January 11</unitdate>
+                     <container label="Mixed Materials (39002098478838)"
+                                id="aspace_95a10cbe0e6460a5dcb7b95c5bee151e"
+                                type="box">4</container>
+                     <container id="aspace_088853341d00f7b93b018c0e268f16cb"
+                                type="folder"
+                                parent="aspace_95a10cbe0e6460a5dcb7b95c5bee151e">43</container>
+                  </did>
+               </c>
+               <c id="ref58" level="file">
+                  <did>
+                     <unittitle>Sands, Josephine W.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1940-1946</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_bf11bb23944b8dc75b0170491ca501c6"
+                                type="box">5</container>
+                     <container id="aspace_264e14ce17d113371b8088fdd08e1978"
+                                type="folder"
+                                parent="aspace_bf11bb23944b8dc75b0170491ca501c6">44</container>
+                  </did>
+               </c>
+               <c id="ref59" level="file">
+                  <did>
+                     <unittitle>Sands, Josephine W.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1947-1949</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_9a19318c8b801b5f01c05d623982e35a"
+                                type="box">5</container>
+                     <container id="aspace_5130fc9b72d5f6500e431410f264da8a"
+                                type="folder"
+                                parent="aspace_9a19318c8b801b5f01c05d623982e35a">45</container>
+                  </did>
+               </c>
+               <c id="ref60" level="file">
+                  <did>
+                     <unittitle>Sands, Josephine W.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1950-1951, undated</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_e47162b613a17e33867e6cbf1d5114d8"
+                                type="box">5</container>
+                     <container id="aspace_b979df225c23a64f3db67b9724763f44"
+                                type="folder"
+                                parent="aspace_e47162b613a17e33867e6cbf1d5114d8">46</container>
+                  </did>
+               </c>
+               <c id="ref61" level="file">
+                  <did>
+                     <unittitle>Sands, Josephine W.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_fddaba059d57d3528b6bb30311409f81"
+                                type="box">5</container>
+                     <container id="aspace_6ba6e881b6fbc07f4c712c73ca81ec17"
+                                type="folder"
+                                parent="aspace_fddaba059d57d3528b6bb30311409f81">47</container>
+                  </did>
+               </c>
+               <c id="ref62" level="file">
+                  <did>
+                     <unittitle>Unidentified</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_862f8ac8254531fc6de1df3376bcc6f8"
+                                type="box">5</container>
+                     <container id="aspace_a53c1fd52a5b38adb2e838248705194d"
+                                type="folder"
+                                parent="aspace_862f8ac8254531fc6de1df3376bcc6f8">48</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref63" level="subseries">
+               <did>
+                  <unittitle>Photographs</unittitle>
+               </did>
+               <c id="ref64" level="file">
+                  <did>
+                     <unittitle>Marston, Thomas E.</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1935</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_77974e0a1b8b2ece543e048724335cbd"
+                                type="box">5</container>
+                     <container id="aspace_254decc1c96b8a3f1e53f843d359a111"
+                                type="folder"
+                                parent="aspace_77974e0a1b8b2ece543e048724335cbd">49</container>
+                  </did>
+               </c>
+               <c id="ref65" level="file">
+                  <did>
+                     <unittitle>Bringe, Josephine Ewart Marston; and Marston, Thomas (1944-2011)</unittitle>
+                     <unitdate calendar="gregorian" era="ce" type="inclusive">1942, undated</unitdate>
+                     <container label="Mixed Materials (39002098478846)"
+                                id="aspace_7f5c693187487f01fe93ae7e66302c6c"
+                                type="box">5</container>
+                     <container id="aspace_d681bb652ffc18375e95c88fd0b3e648"
+                                type="folder"
+                                parent="aspace_7f5c693187487f01fe93ae7e66302c6c">50</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref66" level="series">
+            <did>
+               <unittitle>Thomas E. Marston Papers</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate calendar="gregorian" era="ce" type="inclusive">1973 - 1981</unitdate>
+            </did>
+            <c id="ref68" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1957-1973</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_0028c5e8ac14090d7493e12d5c8d62e8"
+                             type="box">6</container>
+                  <container id="aspace_85bdc3f26381105b58b46cf5a34b2092"
+                             type="folder"
+                             parent="aspace_0028c5e8ac14090d7493e12d5c8d62e8">51</container>
+               </did>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1974-1981, undated</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_6738a87c77ef197607f7fe0417a29c05"
+                             type="box">6</container>
+                  <container id="aspace_f41b7d0abefe62ce2004f18f7814d421"
+                             type="folder"
+                             parent="aspace_6738a87c77ef197607f7fe0417a29c05">52</container>
+               </did>
+            </c>
+            <c id="ref70" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1945</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_7dc4293a4013a68e0ed4502793def7c8"
+                             type="box">6</container>
+                  <container id="aspace_c344f6f8a444797b3ced4c103d520514"
+                             type="folder"
+                             parent="aspace_7dc4293a4013a68e0ed4502793def7c8">53</container>
+               </did>
+            </c>
+            <c id="ref71" level="file">
+               <did>
+                  <unittitle>Juvenal. <title type="simple" render="italic">
+                        Satura
+                     </title>. Essay by Joseph Addison in <title type="simple" render="italic">
+                        The Spectator
+                     </title> (number CCVII)</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1711 October 27</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_dec7d6b7de0965c5fdeb7eebf70f8b47"
+                             type="box">6</container>
+                  <container id="aspace_294f830dd2f89ba72c5685e6537063d6"
+                             type="folder"
+                             parent="aspace_dec7d6b7de0965c5fdeb7eebf70f8b47">54</container>
+               </did>
+            </c>
+            <c id="ref73" level="file">
+               <did>
+                  <unittitle>Juvenal. <title type="simple" render="italic">
+                        Satura
+                     </title>. Other research materials</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_b0351b5ca2ef3d986d8312ffad922d87"
+                             type="box">6</container>
+                  <container id="aspace_1f19873ef28cfecf84f62cfb9f169d14"
+                             type="folder"
+                             parent="aspace_b0351b5ca2ef3d986d8312ffad922d87">55</container>
+               </did>
+            </c>
+            <c id="ref74" level="file">
+               <did>
+                  <unittitle>Yale University Library exhibitions</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1947, 1976</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_78eb578845635d7871beb44992d5a0e4"
+                             type="box">6</container>
+                  <container id="aspace_36868643d4e7bd21e287147ef49cf1b1"
+                             type="folder"
+                             parent="aspace_78eb578845635d7871beb44992d5a0e4">56</container>
+               </did>
+            </c>
+            <c id="ref75" level="file">
+               <did>
+                  <unittitle>Yale University Library press releases</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1968-1974</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_beb1ab65b643f9f2a0b01b18b9643168"
+                             type="box">6</container>
+                  <container id="aspace_0ab28c246e2f4fa3362f12ad762a968b"
+                             type="folder"
+                             parent="aspace_beb1ab65b643f9f2a0b01b18b9643168">57</container>
+               </did>
+            </c>
+            <c id="ref76" level="file">
+               <did>
+                  <unittitle>Other research materials</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1966-1972</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_a261aac7d527d062586583ff55f2bee0"
+                             type="box">6</container>
+                  <container id="aspace_bf9abf92f1e737d2fcd9b295d98bc428"
+                             type="folder"
+                             parent="aspace_a261aac7d527d062586583ff55f2bee0">58</container>
+               </did>
+            </c>
+            <c id="ref77" level="file">
+               <did>
+                  <unittitle>Other research materials</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1974</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_272a6c267241ff76e4476d0db46da936"
+                             type="box">6</container>
+                  <container id="aspace_ad40cce0891e93f2b24111143af14466"
+                             type="folder"
+                             parent="aspace_272a6c267241ff76e4476d0db46da936">59</container>
+               </did>
+            </c>
+            <c id="ref78" level="file">
+               <did>
+                  <unittitle>Other research materials</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_8b764398c576e4d3a6eac9f29c4ffaaf"
+                             type="box">6</container>
+                  <container id="aspace_96711febff4c6c88a8cd5cdbfac7e856"
+                             type="folder"
+                             parent="aspace_8b764398c576e4d3a6eac9f29c4ffaaf">60-61</container>
+               </did>
+            </c>
+            <c id="ref79" level="file">
+               <did>
+                  <unittitle>Other papers</unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">1940, 1978</unitdate>
+                  <container label="Mixed Materials (39002098478853)"
+                             id="aspace_9d46a1b34d632e13bd90326a6015e174"
+                             type="box">6</container>
+                  <container id="aspace_3c66f0a2267874e1162f363338f3e9a0"
+                             type="folder"
+                             parent="aspace_9d46a1b34d632e13bd90326a6015e174">62</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

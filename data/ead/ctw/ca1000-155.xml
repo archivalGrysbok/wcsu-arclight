@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-155::Albert Camus Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ca1000-155.html">ca1000-155</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Albert Camus Papers,
+		<lb/><date normal="1946/1959">1936 - 1959</date>
+		</titleproper>
+        <author>Processed by: Valerie Gillispie; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: August 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Albert Camus Papers, <date type="span">1936 - 1959</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Camus, Albert, 1913-1960.</persname></origination><unittitle label="Title" encodinganalog="245">Albert Camus Papers, <unitdate normal="1946/1959" type="inclusive">1936 - 1959</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-155</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="fre">French</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.25</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Albert Camus (1913-1960) was an influential intellectual and writer. He was born and raised in Algeria, but spent most of his life during World War II and afterwards in France. Camus received the Nobel Prize for Literature in 1957.</abstract><abstract encodinganalog="520">The Albert Camus Papers consist of correspondence, manuscript and typescript drafts of Camus writings, photographs, and a questionnaire completed by Camus, which was sent to him by Wesleyan Professor Carl Viggiani. All materials are in French.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Albert Camus Papers, Collection #1000-155, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Questionnaire and correspondence: gift of Professor Carl Viggiani, 1957-1958. Fred B. Millett and Victor Butterfield letters transferred from their respective collections. <title render="doublequote">Hellenisme and Christianisme</title> manuscript and typescript: gift of Camus via Viggiani. Aphorisms and <title render="doublequote">Les Mines de Tipasa</title>: gift of Camus. Photographs: gifts of Camus via Viggiani; Viggiani; and Jean Grenier.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Valerie Gillispie, August 2008</p>
+        <p>Encoded by Valerie Gillispie, August 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>Albert Camus was born in 1913 in Mondovi, Algeria. He attended the University of Algiers and graduated in 1936. Camus worked as a journalist following his graduation, and eventually moved to Paris, where he worked with the French resistance. During World War II and the years afterward, Camus increasingly focused on novels and plays. He is best known for <title render="italic">L'Etranger</title> (<title render="italic">The Stranger</title>), <title render="italic">La Peste</title> (<title render="italic">The Plague</title>), <title render="italic">L'Homme Revolte</title> (<title render="italic">The Rebel</title>), and <title render="italic">La Chute</title> (<title render="italic">The Fall</title>). He was awarded the Nobel Prize for Literature in 1957. Camus died in 1960 as the result of a car accident in France.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Albert Camus Papers consist of correspondence, manuscript and typescript drafts of Camus writings, photographs, and a questionnaire completed by Camus, which was sent to him by Wesleyan Professor Carl Viggiani. All materials are in French.
+</p>
+      <p>The four pieces of correspondence are all from Camus. One is to Wesleyan English professor Fred B. Millett, dated 1946, in which he declines an invitation. A second piece of correspondence, dated 1957, is addressed to Romance Languages and Literatures professor Carl Viggiani, and addresses questions that had been posed by Viggiani. The final two letters are to Wesleyan President Victor Butterfield, dated 1959. In the first, dated Feburary 18, Camus declines an honor that has been offered him by Wesleyan University--possibly an honorary degree. The second letter, dated March 18, thanks Butterfield for his gift of a set of William Faulkner books.</p>
+      <p>The circa 1957 questionnaire is fourteen pages, and inquires about Camus' family, studies, experiences, opinions, and feelings, specifically for the time period 1913 to 1943. Camus has replied to all questions in pencil.</p>
+      <p><title render="doublequote">Hellenisme et Christianisme,</title> written about Plotinus and St. Augustine, was Camus' thesis for the University of Algeria, submitted to the Faculty of Letters. A manuscript and typescript of this work can be found in this collection. A two page manuscript of aphorisms, and a piece of writing entitled <title render="doublequote">Les Mines de Tipasa</title> is present in both manuscript and typescript.</p>
+      <p>The photographs include pictures of Camus, his friends, his mentor Jean Grenier, and his work in directing <title render="doublequote">Caligula</title> and <title render="doublequote">Requium.</title> One photo features his children, Catherine and Jean. There is also a photogrpah of a manuscript page from <title render="italic">The Rebel</title>.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <persname source="lcnaf" encodinganalog="600">Camus, Albert, 1913-1960.</persname>
+      <geogname source="lcnaf" encodinganalog="651">Algeria --Intellectual life --20th century.</geogname>
+      <geogname source="lcnaf" encodinganalog="651">France--Intellectual life--20th century.</geogname>
+      <subject source="lcsh" encodinganalog="650">Nobel Prize winners--Biography.</subject>
+      <persname source="lcnaf" encodinganalog="600">Viggiani, Carl Albert, 1922-</persname>
+      <subject source="tgn" encodinganalog="655">Photographs.</subject>
+      <subject source="aat" encodinganalog="655">Questionnaires.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Questionnaire prepared by Carl Viggiani and answered by Camus, circa 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from Camus to Viggiani, 18 July 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from Camus to Victor Butterfield, 18 February 1959</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from Camus to Butterfield, 18 March 1959</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from Camus to Fred Millett, 26 April 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="doublequote">Hellenisme et Christianisme,</title> 1936</unittitle>
+          </did>
+          <scopecontent>
+            <p>Manuscript by Camus of thesis on Plotinus and St. Augustine. 87 pages.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle><title render="doublequote">Hellenisme et Christianisme,</title> 1936</unittitle>
+          </did>
+          <scopecontent>
+            <p>Uncorrected typescript of thesis presented to the Faculty of Letters, University of Algiers, 1936. 93 pages</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Aphorisms</unittitle>
+          </did>
+          <scopecontent>
+            <p>Manuscript by Camus. 2 pages.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <title render="doublequote">Les Mines de Tipasa</title>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>Manuscript by Camus. 4 pages.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <title render="doublequote">Les Mines de Tipasa</title>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>Typescript by Camus. 2 pages.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Photo of one page of manuscript from L'Homme Revolte (The Rebel)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus and J. L. Barrault at the Theatre Marigny, 1948</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus, about 1941-1942</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus signing copies of <title render="italic">La Peste</title> for charity sale, with writers Jules Roy, Gabriel Audisio, and Jeanne Montupet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>G. Audisio, M. Balloul, Camus, and Jean-Paul Sartre at party for Mouloudji, circa 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus, Gabriel Audisio, and M. Balloul (Algerian mathematician) at party for Mouloudji, circa 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus and Gabriel Andisio at party for Mouloudji, circa 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus directing Michel Auclair in <title render="italic">Caligula,</title> 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus directing <title render="italic">Caligula,</title> 1957</unittitle>
+            </did>
+            <scopecontent>
+              <p>4 different photos.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus directing A. Caus and Bernard Woringer in <title render="italic">Caligula,</title> 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Photo of charcoal sketch of Camus during the war by Marie Viton, circa 1943</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus on balcony of apartment on Rue Madame, 1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jean Grenier, teacher of Albert Camus, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Le grand lycee d'Alger</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus greets friend in front of Mathurius, where his adaptation of <title render="italic">Requiem</title> was playing from 1956 to 1958</unittitle>
+            </did>
+            <scopecontent>
+              <p>Members of the cast also in photograph.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Camus directing play by Aldern in Bois de Boulogne, around 1956</unittitle>
+            </did>
+            <scopecontent>
+              <p>Twin children Catherine and Jean standing next to Camus.</p>
+            </scopecontent>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

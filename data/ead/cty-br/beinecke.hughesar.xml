@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.hughesar">beinecke.hughesar</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Langston Hughes Collection
+ </titleproper>
+            <titleproper type="filing">Hughes (Langston) Collection</titleproper>
+            <author>by Michael Forstrom</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>July 2003</date>
+            <num>JWJ MSS 28</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 16, 2019 at 03:00</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Langston Hughes collection</unittitle>
+         <unitid>JWJ MSS 28</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.75</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(4 boxes) + 1 art storage item</physdesc>
+         
+            <unitdate type="inclusive" normal="1924/1969">1924-1969</unitdate>
+         
+         <abstract id="aspace_d04a92d4571ce0f8ad01a7c078ef1128">The Langston Hughes Collection consists of correspondence, writings, photographs, sound recordings, video recordings, electronic files, and other material documenting the life, work, and remembrance of Langston Hughes.<lb/>Series I, Josephine DeWitt Rhodehamel Gift, is organized into three subseries: Letters from Langston Hughes, Writings of Langston Hughes and Writings of Others. There are letters to Rhodehamel and holograph and typescript versions of poems for Dear Lovely Death.<lb/>Series II, Material from Other Sources, is organized into four subseries: Correspondence, Photographs, Audiovisual Materials, and Electronic Files. There are groups of letters to Arna Bontemps, Harold Jackman, Arthur Spingarn, Nathaniel White and others. Audiovisual material consists of commercial recordings of Langston Hughes's work, as well as video recordings of two sessions from Yale University's "Langston Hughes and His World" conference in February 2002. Electronic files include preliminary and final versions of the Beinecke Rare Book and Manuscript Library's online exhibition, "Langston Hughes at 100."</abstract>
+         <physdesc id="aspace_2bc84dc1468a3a4e9538d01b9e8b2083">Other Storage Formats: Audio Recordings, Video Recordings, Electronic Files, 1 art storage item</physdesc>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n80014956"
+                      rules="aacr"
+                      source="naf">
+               Hughes, Langston, 1902-1967
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_f189968289b0bd91fe55df5b7eab709a">
+         <head>Immediate Source of Acquisition</head>
+         <p>The Langston Hughes Collection was acquired through various gifts and purchases to complement the Langston Hughes Papers (JWJ MSS 26). Audiovisual materials and electronic files were acquired or produced at the time of the Beinecke Rare Book and Manuscipt Library's Hughes centenary exhibition and conference in 2002.</p>  
+      </acqinfo>
+      <userestrict id="aspace_0ddc752216e4bbf1e725cf3564c46d7d">
+         <head>Conditions Governing Use</head>
+         <p>The Langston Hughes Collection is the physical property of the Beinecke Rare Book and Manuscript Libary, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_4d54de99ff07349e9b53ac488219233d">
+         <head>Preferred Citation</head>
+         <p>Langston Hughes Collection. Yale Collection of American Literature, Beineicke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_931d27a9cb982874ec048915ced9b0fe">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>
+         <p>Box 2: Restricted fragile material. Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</p>
+         <p>Box 4: Folders 30 and 34 are unused. Original recordings are in Box 2, folders 38 and 39.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_92048a76e5ab10c50c70a1f83782673f">
+         <head>Processing Information</head>
+         <p>This collection contains small groups of material, some of which were formerly part of the Langston Hughes Papers (JWJ MSS 26). These materials were removed from the Hughes Papers during reprocessing because they derive from sources other than Langston Hughes and his estate. Other groups of material were acquired or produced by the Beinecke Rare Book and Manuscript Library during the Hughes centenary exhibition and conference in 2002. Audiovisual Materials and Electronic Files were added to the Collection in 2006.</p>  
+      </processinfo>
+      <bioghist id="aspace_ed8e8e6770722e16f4203ebffd2a1f96">
+         <head>LANGSTON HUGHES (1902-1967)</head>
+         <p>A biographical timeline is provided in the Langston Hughes Papers (JWJ MSS 26).</p>  
+      </bioghist>
+      <scopecontent id="aspace_5848862a3936f50e60818ac1dce78100">
+         <head>Scope and Contents</head>
+         <p>The Langston Hughes Collection consists of letters, manuscripts, audiovisual recordings and other material documenting the life, work, and remembrance of Langston Hughes. The collection spans the years 1924-2002.</p>
+         <p>The collection is housed in 4 boxes and organized into two series: Josephine DeWitt Rhodehamel Gift and Material from Other Sources. Box 2 contains material that is <title type="simple" render="italic">
+               Restricted Fragile
+            </title>.</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref12">Series I, <title type="simple" render="italic">
+                  Josephine DeWitt Rhodehamel Gift
+               </title> 
+            </ref>, is organized into three subseries: Letters from Langston Hughes, Writings of Langston Hughes and Writings of Others. Letters from Langston Hughes, housed in box 1, consist exclusively of letters from Hughes to Rhodehamel, of Berkeley, California, dating from 1930-40. Letters mention Rhodehamel's efforts to acquire particular pieces of work by Hughes for herself and "the library," his work and travel, and his gratitude for her interest. The Writings of Langston Hughes subseries contains holograph and typescript versions of poems for <title type="simple" render="italic">
+               Dear Lovely Death
+            </title> (1931) laid in decorated boards. There is also a typescript copy of Louise Thompson's article on Hughes' first novel, <title type="simple" render="italic">
+               Not Without Laughter
+            </title> (1930).</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref22">Series II, <title type="simple" render="italic">
+                  Material from Other Sources
+               </title> 
+            </ref>, housed in boxes 1, 3, and 4, is organized into four subseries: Correspondence, Photographs, Audiovisual Material and Electronic Files. The Correspondence subseries consists of correspondence from Hughes to others and is arranged alphabetically by recipient. There are groups of letters to Arna Bontemps, Harold Jackman, Arthur Spingarn, Nathaniel White and others. More than 20 letters to Arna Bontemps, dating from March to September 1948, deal with their anthology <title type="simple" render="italic">
+               The Poetry of the Negro
+            </title> (1949). Most of Hughes' letters to Harold Jackman are brief, but longer letters from 1924 and 1933 respectively touch on the economic hardships of life in Paris and the production of Hughes' plays, "Mulatto" and "The Ways of White Folks," by the Harlem Experimental Theatre. Hughes solicited Arthur Spingarn's help in early December 1935 to obtain royalties from the American Play Company for the Vanderbilt Theatre's production of "Mulatto," and subsequent letters, also dating from December 1935, discuss Spingarn's efforts on his behalf. There are many brief letters and cards to Nathaniel White, one of Hughes' assistants, dating from the late 1940s to early 1950s. Enclosures, third-party correspondence and correspondence to Hughes are noted in the folder description. There are photographs of Hughes dating from 1934 and 1969.</p>
+         <p>The Audiovisual Material subseries consists of audio and video recordings acquired or produced by the Beinecke Rare Book and Manuscript Library for the Library's 2002 exhibition "Langston at 100" and the Yale University conference "Langston Hughes and His World" which was held by the University's Department of African American Studies and the Beinecke Library in February 2002. The material includes both commercial recordings relating to Hughes, and video recordings of "Langston Hughes and His World" conference sessions "An Evening of Jazz and Poetry" and "The Theatre of Langston Hughes." The Electronic Files subseries consists of preliminary and final .html files for the online exhibition "Langston Hughes at 100."</p>
+         <p>
+            <ref xlink:actuate="onRequest" xlink:show="replace" target="ref80">
+               <title type="simple" render="italic">
+                  Restricted Fragile
+               </title> 
+            </ref> materials are housed in box 2.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject source="local">
+            African American authors -- 20th Century -- Archives
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85004341"
+                  source="lcsh">
+            American literature -- 20th Century
+         </subject>
+         <subject source="local">
+            Authors, American -- 20th Century -- Archives
+         </subject>
+         <subject source="local">
+            Harlem Renaissance -- Archives
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300374824" source="aat">
+            Born digital
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300028673" source="aat">
+            Compact discs
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300127104" source="aat">
+            Photographic prints
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300028692" source="aat">
+            Videocassettes
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009793"
+                  source="lcsh">
+            Authors
+         </subject>
+         <occupation source="local">
+            Poets
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79059813"
+                   source="naf">
+            Bontemps, Arna, 1902-1973
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80014956"
+                   rules="aacr"
+                   source="naf">
+            Hughes, Langston, 1902-1967
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n96041337"
+                   source="naf">
+            Jackman, Harold, 1901-1961
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no97048742"
+                   rules="aacr"
+                   source="naf">
+            Rhodehamel, Josephine DeWitt
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n95093703"
+                   source="naf">
+            Spingarn, Arthur B. (Arthur Barnett), 1878-1971
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88067654"
+                   rules="aacr"
+                   source="naf">
+            White, Nathaniel
+         </persname>
+         <corpname rules="aacr" source="local">
+            Yale University. Dept. of African American Studies
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n80097790"
+                   source="naf">
+            Beinecke Rare Book and Manuscript Library
+         </corpname>
+         <corpname source="local">
+            Langston Hughes and His World -- New Haven, Conn. -- 2002
+         </corpname>
+         <corpname rules="aacr" source="local">
+            Langston Hughes at 100  (Exhibition : New Haven, CT) -- 2002
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>Josephine DeWitt Rhodehamel Gift</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.21</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1930-1940</unitdate>
+            </did>
+            <scopecontent id="aspace_e525974c7ea0d3aacb0fb671bb9ae3d9">
+               <head>Scope and Contents</head>
+               <p>Gift of Josephine DeWitt Rhodehamel, 1964</p>
+            </scopecontent>
+            <c id="ref14" level="subseries">
+               <did>
+                  <unittitle>LETTERS FROM LANGSTON HUGHES</unittitle>
+               </did>
+               <c id="ref15" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                     <unitdate type="inclusive">1930-40, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_49bbf9792617dbbfc8d6a3ebb5e1ec63"
+                                type="box">1</container>
+                     <container id="aspace_9d340c8dbc8f4e745dd8e45c45d9d6ae"
+                                type="folder"
+                                parent="aspace_49bbf9792617dbbfc8d6a3ebb5e1ec63">1</container>
+                  </did>
+                  <scopecontent id="aspace_ce771b69f391def19c3d784a91c3709b">
+                     <head>Scope and Contents</head>
+                     <p>Includes clipping of poems in Russian and printed advertisement for the 1936 Curran Theatre production of "Mulatto"</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref17" level="subseries">
+               <did>
+                  <unittitle>WRITINGS OF LANGSTON HUGHES</unittitle>
+               </did>
+               <c id="ref18" level="file">
+                  <did>
+                     <unittitle>"Dear Lovely Death," poems, holograph and typescript, corrected</unittitle>
+                     <unitdate type="inclusive">1931</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_c4a07f49182c6c2cbd27fd20c96bdeec"
+                                type="box">1</container>
+                     <container id="aspace_2cb54aa0d8e0d1b1bfb1bda719470aad"
+                                type="folder"
+                                parent="aspace_c4a07f49182c6c2cbd27fd20c96bdeec">2</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref19" level="subseries">
+               <did>
+                  <unittitle>WRITINGS OF OTHERS</unittitle>
+               </did>
+               <c id="ref20" level="file">
+                  <did>
+                     <unittitle>"Langston Hughes, Novelist," article by Louise Thompson, typescript carbon, corrected</unittitle>
+                     <unitdate type="inclusive">n.d.</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_51f5059aa9df6b4ecfd8f5f49599f07b"
+                                type="box">1</container>
+                     <container id="aspace_9d46f1143b1334c81510cd40bd6678af"
+                                type="folder"
+                                parent="aspace_51f5059aa9df6b4ecfd8f5f49599f07b">3</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref22" level="series">
+            <did>
+               <unittitle>Material from Other Sources</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">1.33</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(2 boxes)</physdesc>
+               <unitdate type="inclusive">1924-2002</unitdate>
+            </did>
+            <scopecontent id="aspace_954010cd1a23194888cb47d0d76f8f62">
+               <head>Scope and Contents</head>
+               <p>Correspondence and Photographs acquired by gift or purchase from various sources. Audiovisual Material and Electronic Files acquired or produced by the Beinecke Library for the Hughes centenary exhibition and conference in 2002.</p>
+            </scopecontent>
+            <c id="ref24" level="subseries">
+               <did>
+                  <unittitle>CORRESPONDENCE</unittitle>
+               </did>
+               <c id="ref25" level="file">
+                  <did>
+                     <unittitle>Bontemps, Arna</unittitle>
+                     <unitdate type="inclusive">1948-64, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_a879df032e23276571e01a33d1e776d2"
+                                type="box">1</container>
+                     <container id="aspace_6c1cd04d1b5d6dfbba9c77fea6e72963"
+                                type="folder"
+                                parent="aspace_a879df032e23276571e01a33d1e776d2">4</container>
+                  </did>
+                  <scopecontent id="aspace_c3f6b9c619a7071f2ddd30736d0eb25a">
+                     <head>Scope and Contents</head>
+                     <p>Includes letter from Bontemps to Hughes</p>
+                  </scopecontent>
+               </c>
+               <c id="ref27" level="file">
+                  <did>
+                     <unittitle>Franklin, "Miss"</unittitle>
+                     <unitdate type="inclusive">1927 Feb 27</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_9cc534887d799a09f428796f4cb22a00"
+                                type="box">1</container>
+                     <container id="aspace_dbe2c81cbc25340126e7259fd1c8804d"
+                                type="folder"
+                                parent="aspace_9cc534887d799a09f428796f4cb22a00">5</container>
+                  </did>
+               </c>
+               <c id="ref28" level="file">
+                  <did>
+                     <unittitle>Friedberg, Leavia</unittitle>
+                     <unitdate type="inclusive">1942, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_046fb43d7cc96a8e3e5421267c71d6a1"
+                                type="box">1</container>
+                     <container id="aspace_f7cc150d279a8cbac98b9309009be3d7"
+                                type="folder"
+                                parent="aspace_046fb43d7cc96a8e3e5421267c71d6a1">6</container>
+                  </did>
+                  <scopecontent id="aspace_85adf6ee10b94bd70c99a2fdea5e382d">
+                     <head>Scope and Contents</head>
+                     <p>Includes printed invitations and letters to Hughes from Josh White and the Negro Actors Guild of America</p>
+                  </scopecontent>
+               </c>
+               <c id="ref30" level="file">
+                  <did>
+                     <unittitle>Gallop, Donald</unittitle>
+                     <unitdate type="inclusive">1950-51</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_9982058d8d6b502e9cc315c1503a1eec"
+                                type="box">1</container>
+                     <container id="aspace_a38e5f3b3ebeb73203402df6ac46cb6a"
+                                type="folder"
+                                parent="aspace_9982058d8d6b502e9cc315c1503a1eec">7</container>
+                  </did>
+               </c>
+               <c id="ref31" level="file">
+                  <did>
+                     <unittitle>Hill, Lawrence</unittitle>
+                     <unitdate type="inclusive">1963 Sep 24</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_48a88e735b00b00fe9d94466cb65746b"
+                                type="box">1</container>
+                     <container id="aspace_999b732599d99b30a36630aab1e6bddf"
+                                type="folder"
+                                parent="aspace_48a88e735b00b00fe9d94466cb65746b">8</container>
+                  </did>
+                  <scopecontent id="aspace_dc95729759e1aaa21404d6ac1d3b0ee7">
+                     <head>Scope and Contents</head>
+                     <p>Contains copy of letter</p>
+                  </scopecontent>
+               </c>
+               <c id="ref33" level="file">
+                  <did>
+                     <unittitle>Jackman, Harold</unittitle>
+                     <unitdate type="inclusive">1924-37</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_376060bc6a672d6e9ad47e5a5fb908fa"
+                                type="box">1</container>
+                     <container id="aspace_1f6dd03481e915dd17fefcea8895a22e"
+                                type="folder"
+                                parent="aspace_376060bc6a672d6e9ad47e5a5fb908fa">9</container>
+                  </did>
+                  <scopecontent id="aspace_31e5360b56c6efa7005d65f285f9fdcb">
+                     <head>Scope and Contents</head>
+                     <p>Includes review of Gilpin Players 1936 production of "Little Ham" at the Karamu Theater</p>
+                  </scopecontent>
+               </c>
+               <c id="ref35" level="file">
+                  <did>
+                     <unittitle>Rutherford, Tom</unittitle>
+                     <unitdate type="inclusive">1942 Sep</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_297492e11aaf6c7f961349da97769528"
+                                type="box">1</container>
+                     <container id="aspace_1c4e2c8650357a3ace16c9f08d498a50"
+                                type="folder"
+                                parent="aspace_297492e11aaf6c7f961349da97769528">10</container>
+                  </did>
+                  <scopecontent id="aspace_80c3caa6857109454495b8b05b228af2">
+                     <head>Scope and Contents</head>
+                     <p>Includes letter from Rutherford to Bernard Knollenberg</p>
+                  </scopecontent>
+               </c>
+               <c id="ref37" level="file">
+                  <did>
+                     <unittitle>Spingarn, Arthur B. (Arthur Barnett)</unittitle>
+                     <unitdate type="inclusive">1935</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_9ff1b3ebd3980c133bc1b69a303ea24a"
+                                type="box">1</container>
+                     <container id="aspace_a7379a4748d3ef1aca3ec6450c95a64a"
+                                type="folder"
+                                parent="aspace_9ff1b3ebd3980c133bc1b69a303ea24a">11</container>
+                  </did>
+               </c>
+               <c id="ref38" level="file">
+                  <did>
+                     <unittitle>White, Nathaniel</unittitle>
+                     <unitdate type="inclusive">1946-51, n.d.</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_743e5a2e73f14fbe203a63682c79c14d"
+                                type="box">1</container>
+                     <container id="aspace_8e8fcb33004f016c63f5a4a875f388d6"
+                                type="folder"
+                                parent="aspace_743e5a2e73f14fbe203a63682c79c14d">12</container>
+                  </did>
+                  <scopecontent id="aspace_6512e27260cbb9fa5f4b01bc9c3856c7">
+                     <head>Scope and Contents</head>
+                     <p>Includes postcard from White to Hughes</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c id="ref40" level="subseries">
+               <did>
+                  <unittitle>PHOTOGRAPHS</unittitle>
+               </did>
+               <c id="ref41" level="file">
+                  <did>
+                     <unittitle>Photograph of Langston Hughes</unittitle>
+                     <unitdate type="inclusive">1969 Jul</unitdate>
+                     <container label="Mixed Materials (39002091452137)"
+                                id="aspace_6182290ca5e66596352cf29d79b61704"
+                                type="box">1</container>
+                     <container id="aspace_eba9e98705967dbbf0405dc3c209ad5e"
+                                type="folder"
+                                parent="aspace_6182290ca5e66596352cf29d79b61704">13</container>
+                  </did>
+               </c>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Photograph of Langston Hughes by Sibyl Anikeeff</unittitle>
+                     <unitdate type="inclusive">[1934 Sep 15?]</unitdate>
+                     <container id="aspace_ad6fc91efc64e5e71c7d7cfabbd6d8ec"
+                                label="Mixed Materials"
+                                type="box">Art</container>
+                     <container id="aspace_51c988c8b96019c5074ca99903559708"
+                                type="folder"
+                                parent="aspace_ad6fc91efc64e5e71c7d7cfabbd6d8ec">14</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref43" level="subseries">
+               <did>
+                  <unittitle>AUDIOVISUAL MATERIALS</unittitle>
+               </did>
+               <c id="ref44" level="subseries">
+                  <did>
+                     <unittitle>Commercial Sound Recordings</unittitle>
+                  </did>
+                  <c id="ref45" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Black nativity - gospel on Broadway
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">2000</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_4d75c31696210e4e77cb61c21e447881"
+                                   type="box">3</container>
+                        <container id="aspace_9ee4b762f6b317e84a8288aaaeab6181"
+                                   type="folder"
+                                   parent="aspace_4d75c31696210e4e77cb61c21e447881">17</container>
+                     </did>
+                     <scopecontent id="aspace_287407dab78ac390b4deb03be4ec5c2f">
+                        <head>Scope and Contents</head>
+                        <p>Re-release of VeeJay 5022 (1962)</p>
+                     </scopecontent>
+                     <scopecontent id="aspace_a5a9553e1927df68e86e0a4ea3da1d9e">
+                        <head>Scope and Contents</head>
+                        <p>Collectables, COL-CD-7161</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref48" level="file">
+                     <did>
+                        <unittitle>Amaize, Odekhiren. <title type="simple" render="italic">
+                              The Negro speaks of rivers, and other art songs by African- American composers
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1999</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_efb60b8d3b51736113ed4e273c0be64e"
+                                   type="box">3</container>
+                        <container id="aspace_97a5b96cdda09e9c4d7f14b966128ba3"
+                                   type="folder"
+                                   parent="aspace_efb60b8d3b51736113ed4e273c0be64e">18</container>
+                     </did>
+                     <scopecontent id="aspace_b5e1257b77cb62e8d2ac58702529ede2">
+                        <head>Scope and Contents</head>
+                        <p>Musician Showcase Recordings, MS1011</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref50" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Jimmie Lunceford and his orchestra, 1941-1945
+                           </title> (French import) [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1996</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_53066d73149648c55359408f6ae33a7b"
+                                   type="box">3</container>
+                        <container id="aspace_223d4329956206f9ae5ebad7924656ef"
+                                   type="folder"
+                                   parent="aspace_53066d73149648c55359408f6ae33a7b">19</container>
+                     </did>
+                     <scopecontent id="aspace_b4863f8ae03e0f62538cead3b127c68d">
+                        <head>Scope and Contents</head>
+                        <p>Classics 862</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref52" level="file">
+                     <did>
+                        <unittitle>Lincoln, Abbey. <title type="simple" render="italic">
+                              Abbey is blue
+                           </title> (Japanese import) [Compact disc]</unittitle>
+                        <unitdate type="inclusive">2000</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_ac8e66e826c95ff3de8a4e030bb5de61"
+                                   type="box">3</container>
+                        <container id="aspace_4866c4b4c1a2ef0c5688e63a50fa6c53"
+                                   type="folder"
+                                   parent="aspace_ac8e66e826c95ff3de8a4e030bb5de61">20</container>
+                     </did>
+                     <scopecontent id="aspace_612620729dd25260ceff1fa3a4459449">
+                        <head>Scope and Contents</head>
+                        <p>VICJ-60490</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref54" level="file">
+                     <did>
+                        <unittitle>Lincoln, Abbey. <title type="simple" render="italic">
+                              Straight ahead
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1989</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_fc4c445852f00c311f93f54f7aabdb8d"
+                                   type="box">3</container>
+                        <container id="aspace_cb01f96a046a2cd2563cbedb45fd8a65"
+                                   type="folder"
+                                   parent="aspace_fc4c445852f00c311f93f54f7aabdb8d">21</container>
+                     </did>
+                     <scopecontent id="aspace_865ba0eb1bfc1b761dafec04ab7c40b2">
+                        <head>Scope and Contents</head>
+                        <p>Candid, CCD 79015</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref56" level="file">
+                     <did>
+                        <unittitle>Lutcher, Nellie. <title type="simple" render="italic">
+                              The Best of Nellie Lutcher
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1995</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_2bbd46dbcb54e5d3fda5cf8bd71bad09"
+                                   type="box">3</container>
+                        <container id="aspace_76fc148ab6d8954a9897bee86704936c"
+                                   type="folder"
+                                   parent="aspace_2bbd46dbcb54e5d3fda5cf8bd71bad09">22</container>
+                     </did>
+                     <scopecontent id="aspace_ff0630c4e040473e436dd60a6b2528fd">
+                        <head>Scope and Contents</head>
+                        <p>Capitol Jazz, CDP 7243 8 35039 2 6</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref58" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Midge Williams and her Jazz Jesters, 1937-1938
+                           </title> (French import) [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1994</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_5820862a1897b5d57839c7c1ba7fd7db"
+                                   type="box">3</container>
+                        <container id="aspace_5d700ec8e37727609b12e8f635c73fcf"
+                                   type="folder"
+                                   parent="aspace_5820862a1897b5d57839c7c1ba7fd7db">23</container>
+                     </did>
+                     <scopecontent id="aspace_122ba142f52d1b1d975878efd0d21436">
+                        <head>Scope and Contents</head>
+                        <p>Classics 745</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref60" level="file">
+                     <did>
+                        <unittitle>Siegmeister, Elie. <title type="simple" render="italic">
+                              Selections
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1999</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_8c7f1dd953fbca9a244ceae625b60949"
+                                   type="box">3</container>
+                        <container id="aspace_8171c2e5cb7496a91159622cf501b62f"
+                                   type="folder"
+                                   parent="aspace_8c7f1dd953fbca9a244ceae625b60949">24</container>
+                     </did>
+                     <scopecontent id="aspace_c33829c80d9442538cede44fa599ddc7">
+                        <head>Scope and Contents</head>
+                        <p>CRI American masters series, CRI 814</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref62" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Weary blues with Langston Hughes, Charles Mingus, and Leonard Feather
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">1990</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_89c20e2618c8c892533d8188cc4f406a"
+                                   type="box">3</container>
+                        <container id="aspace_42d033de08cc73e03ac3b5b5b27cc3dc"
+                                   type="folder"
+                                   parent="aspace_89c20e2618c8c892533d8188cc4f406a">25</container>
+                     </did>
+                     <scopecontent id="aspace_90dbe3294f377f81ae41c0aa2c0cca0f">
+                        <head>Scope and Contents</head>
+                        <p>Verve 841 660-2</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c id="ref64" level="subseries">
+                  <did>
+                     <unittitle>Commercial Videocassettes</unittitle>
+                     <materialspec id="aspace_7b8448e9ba144f86639760fac508c620">These videocassettes are commercial and have not been digitized.</materialspec>
+                  </did>
+                  <c id="ref65" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Black Americans of Achievement Video Collection II, Langston Hughes
+                           </title> (1994) [VHS]</unittitle>
+                        <unitdate type="inclusive">1994</unitdate>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_4161f48ebd6fd429af8b71a9715a995d"
+                                   type="box">4</container>
+                        <container id="aspace_64083a261eb8718707d774dda444f477"
+                                   type="folder"
+                                   parent="aspace_4161f48ebd6fd429af8b71a9715a995d">26</container>
+                     </did>
+                  </c>
+                  <c id="ref66" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Looking for Langston
+                           </title> (1989) [VHS]</unittitle>
+                        <unitdate type="inclusive">1992</unitdate>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_75761528f12b51b4668133261304916b"
+                                   type="box">4</container>
+                        <container id="aspace_4a5eebf8577ef9bf8ee65b9e7b6bd636"
+                                   type="folder"
+                                   parent="aspace_75761528f12b51b4668133261304916b">27</container>
+                     </did>
+                  </c>
+                  <c id="ref67" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Stormy Weather
+                           </title> (1943) [VHS]</unittitle>
+                        <unitdate type="inclusive">1991</unitdate>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_311738f3f3107c3535b94206fce830a4"
+                                   type="box">4</container>
+                        <container id="aspace_e31e9e3c9edd24f89766a748d32f1a37"
+                                   type="folder"
+                                   parent="aspace_311738f3f3107c3535b94206fce830a4">28</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="ref68" level="subseries">
+                  <did>
+                     <unittitle>Media Produced by and for Beinecke Events</unittitle>
+                  </did>
+                  <accessrestrict id="aspace_f9c4663fb1449e6afdb9669186ee51c3">
+                     <head>Conditions Governing Access</head>
+                     <p>Box 2: Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                  </accessrestrict>
+                  <c id="ref69" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Langston Hughes at 100
+                           </title> 
+                        </unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (VHS)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 1</unitdate>
+                        <materialspec id="aspace_ce504bab8768b72866c25a09c9e6ec5c">This is a videocassette copy of the original recording. It has not been digitized. </materialspec>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_c02f0b36d0793c51ac0b2b6141bb6bf1"
+                                   type="box">4</container>
+                        <container id="aspace_37e8117490283bacbbec9b28ed008f0f"
+                                   type="folder"
+                                   parent="aspace_c02f0b36d0793c51ac0b2b6141bb6bf1">29</container>
+                        <container id="aspace_d0274b8f52c46e0b4be4f2bd8470742e"
+                                   type="item_barcode"
+                                   parent="aspace_37e8117490283bacbbec9b28ed008f0f">39002104618237</container>
+                     </did>
+                     <scopecontent id="aspace_678b0e695e95fdb11c1a8b9a559be3ca">
+                        <head>Scope and Contents</head>
+                        <p>Accompanied by program</p>
+                     </scopecontent>
+                  </c>
+                  <c id="ref71" level="file">
+                     <did>
+                        <unittitle>"An Evening of Jazz and Poetry," Langston Hughes and His World: A Centenniel Celebration conference, Yale University (Tape 1 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (Hi8)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 22</unitdate>
+                        <container label="Mixed Materials (39002091452145)"
+                                   id="aspace_b1a4fc3424b2511f1c0664164bfb091c"
+                                   type="box">2</container>
+                        <container id="aspace_cdd659df52f5db7e0de712da31b27ac4"
+                                   type="folder"
+                                   parent="aspace_b1a4fc3424b2511f1c0664164bfb091c">38</container>
+                        <container id="aspace_a5f70d4dcb4432509e87c0df3d374e37"
+                                   type="item_barcode"
+                                   parent="aspace_cdd659df52f5db7e0de712da31b27ac4">39002104618302</container>
+                     </did>
+                     <accessrestrict id="aspace_9da7384301c4ab71fc9f48559e653a92">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material. Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                  </c>
+                  <c id="aspace_0e37fcca9ef94eeaf0bf8a08c0b62fde" level="file">
+                     <did>
+                        <unittitle>"An Evening of Jazz and Poetry," Langston Hughes and His World: A Centenniel Celebration conference, Yale University (Tape 2 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (Hi8)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 22</unitdate>
+                        <container label="Mixed Materials (39002091452145)"
+                                   id="aspace_8d81cc11b00efa51ab992488563481ef"
+                                   type="box">2</container>
+                        <container id="aspace_93340264245fcdbfbf2f1cfd531197ae"
+                                   type="folder"
+                                   parent="aspace_8d81cc11b00efa51ab992488563481ef">38</container>
+                        <container id="aspace_45697b3b531245b691cda95f4abb74e8"
+                                   type="item_barcode"
+                                   parent="aspace_93340264245fcdbfbf2f1cfd531197ae">39002104618310</container>
+                     </did>
+                     <accessrestrict id="aspace_9b69b47f7636d5b5c0ff56b9e6327835">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material. Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                  </c>
+                  <c id="ref72" level="file">
+                     <did>
+                        <unittitle>"An Evening of Jazz and Poetry," Langston Hughes and His World: A Centenniel Celebration conference, Yale University (1 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (VHS)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 22</unitdate>
+                        <materialspec id="aspace_814df9524e827de9522727bd5f0a1870">This is a videocassette copy of the original recording. It has not been digitized. </materialspec>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_d44bc1d620b5b96fd230144b46c0631b"
+                                   type="box">4</container>
+                        <container id="aspace_7c4436022993261e605dff08ca7277cc"
+                                   type="folder"
+                                   parent="aspace_d44bc1d620b5b96fd230144b46c0631b">31</container>
+                        <container id="aspace_f6468eece0bbdc3f0d308468f33f5a11"
+                                   type="item_barcode"
+                                   parent="aspace_7c4436022993261e605dff08ca7277cc">39002104618245</container>
+                     </did>
+                  </c>
+                  <c id="aspace_732603e53ce94af683075b50c3a21f1c" level="file">
+                     <did>
+                        <unittitle>"An Evening of Jazz and Poetry," Langston Hughes and His World: A Centenniel Celebration conference, Yale University (2 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (VHS)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 22</unitdate>
+                        <materialspec id="aspace_637217c6c96fae83ff7a3d4e581940ec">This is a videocassette copy of the original recording. It has not been digitized. </materialspec>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_54bdc8ed9a1b8ee055424d44cedbeeaa"
+                                   type="box">4</container>
+                        <container id="aspace_cc24d86d811c0e71cc4cf84a87cd1653"
+                                   type="folder"
+                                   parent="aspace_54bdc8ed9a1b8ee055424d44cedbeeaa">32</container>
+                        <container id="aspace_3f75018d87148353958835e560f12c8d"
+                                   type="item_barcode"
+                                   parent="aspace_cc24d86d811c0e71cc4cf84a87cd1653">39002104618252</container>
+                     </did>
+                  </c>
+                  <c id="ref73" level="file">
+                     <did>
+                        <unittitle>"The Theatre of Langston Hughes," Langston Hughes and His World: A Centennial Celebration conference, Yale University (Tape 1 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (Hi8)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 23</unitdate>
+                        <container label="Mixed Materials (39002091452145)"
+                                   id="aspace_8d48846bef102dcf8045348f7a65e257"
+                                   type="box">2</container>
+                        <container id="aspace_12d7bb2e10cb13e0e63b4a9ba23a1739"
+                                   type="folder"
+                                   parent="aspace_8d48846bef102dcf8045348f7a65e257">39</container>
+                        <container id="aspace_f018799b03af500dbe49c811731cc51a"
+                                   type="item_barcode"
+                                   parent="aspace_12d7bb2e10cb13e0e63b4a9ba23a1739">39002104618328</container>
+                     </did>
+                     <accessrestrict id="aspace_94747152ccc9579db836c7914a75822e">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material. Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                  </c>
+                  <c id="aspace_8ca1d6871cff9f68a00a77579e08e6db" level="file">
+                     <did>
+                        <unittitle>"The Theatre of Langston Hughes," Langston Hughes and His World: A Centennial Celebration conference, Yale University (Tape 2 of 2)</unittitle>
+                        <physdesc>
+                           <extent unit="Videocassette (Hi8)"> 1</extent>
+                        </physdesc>
+                        <unitdate type="inclusive">2002 Feb 23</unitdate>
+                        <container label="Mixed Materials (39002091452145)"
+                                   id="aspace_29ab98fa185afcb4fcc3301016317bc6"
+                                   type="box">2</container>
+                        <container id="aspace_0e9475d7599734af8bb576e59c5a4da3"
+                                   type="folder"
+                                   parent="aspace_29ab98fa185afcb4fcc3301016317bc6">39</container>
+                        <container id="aspace_2f6b5b0076f600f0502614c3c37e277c"
+                                   type="item_barcode"
+                                   parent="aspace_0e9475d7599734af8bb576e59c5a4da3">39002104618336</container>
+                     </did>
+                     <accessrestrict id="aspace_859db6dc05425f39d9dacac717916257">
+                        <head>Conditions Governing Access</head>
+                        <p>Audiovisual material. Restricted fragile. Reference copies may be requested. Consult Access Services for further information.</p>
+                     </accessrestrict>
+                  </c>
+                  <c id="ref74" level="file">
+                     <did>
+                        <unittitle>"The Theatre of Langston Hughes," Langston Hughes and His World: A Centennial Celebration conference, Yale University [VHS]</unittitle>
+                        <unitdate type="inclusive">2002 Feb 23</unitdate>
+                        <materialspec id="aspace_72e88aa7fb977920112be4c68ba1b130">This is a videocassette copy of the original recording. It has not been digitized. </materialspec>
+                        <container label="Mixed Materials (39002091452160)"
+                                   id="aspace_5e83665e7ad81f768d25c31fd4da6968"
+                                   type="box">4</container>
+                        <container id="aspace_a33c7a94dc053e5f60d255f0b56da576"
+                                   type="folder"
+                                   parent="aspace_5e83665e7ad81f768d25c31fd4da6968">34</container>
+                        <container id="aspace_ccddccfbee90719a968306ba140b4634"
+                                   type="item_barcode"
+                                   parent="aspace_a33c7a94dc053e5f60d255f0b56da576">39002104618294</container>
+                     </did>
+                  </c>
+                  <c id="ref75" level="file">
+                     <did>
+                        <unittitle>
+                           <title type="simple" render="italic">
+                              Langston Hughes Reads - CD format
+                           </title> [Compact disc]</unittitle>
+                        <unitdate type="inclusive">n.d.</unitdate>
+                        <container label="Mixed Materials (39002091452152)"
+                                   id="aspace_8eee64a001075214a544d2ee1803b093"
+                                   type="box">3</container>
+                        <container id="aspace_9c5430bbf343ba27baa17e854f50c398"
+                                   type="folder"
+                                   parent="aspace_8eee64a001075214a544d2ee1803b093">35</container>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c id="ref76" level="subseries">
+               <did>
+                  <unittitle>ELECTRONIC FILES</unittitle>
+               </did>
+               <c id="ref77" level="file">
+                  <did>
+                     <unittitle>"Langston at 100" website, .html files, preliminary version</unittitle>
+                     <unitdate type="inclusive">[2002]</unitdate>
+                     <container label="Mixed Materials (39002091452152)"
+                                id="aspace_838cf7eaf4acf89e316ba7b281fb2c4f"
+                                type="box">3</container>
+                     <container id="aspace_bd28ecbd8d2651b4bcdf9b5d27f6b70e"
+                                type="folder"
+                                parent="aspace_838cf7eaf4acf89e316ba7b281fb2c4f">36</container>
+                  </did>
+               </c>
+               <c id="ref78" level="file">
+                  <did>
+                     <unittitle>"Langston at 100" website, .html files, final version ("Web and library versions")</unittitle>
+                     <unitdate type="inclusive">2002 Jan 30</unitdate>
+                     <container label="Mixed Materials (39002091452152)"
+                                id="aspace_bb78a657a4db823942065b11a3719556"
+                                type="box">3</container>
+                     <container id="aspace_156ea03168fa5d05ac08e85653f5f557"
+                                type="folder"
+                                parent="aspace_bb78a657a4db823942065b11a3719556">37</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref80" level="series">
+            <did>
+               <unittitle>Restricted Fragile</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">0.21</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+            </did>
+            <accessrestrict id="aspace_e2a98ad7fef84a6ca16372b184bddfaf">
+               <head>Conditions Governing Access</head>
+               <p>Box 2: Restricted fragile material. Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</p>
+            </accessrestrict>
+            <c id="ref82" level="file">
+               <did>
+                  <unittitle>Box 1, folder 9</unittitle>
+                  <container label="Mixed Materials (39002091452145)"
+                             id="aspace_003750b53e3e3d6db14283b42e12fb70"
+                             type="box">2</container>
+                  <container id="aspace_5c7d372bbba1491f6e97c3b4d7c251f3"
+                             type="folder"
+                             parent="aspace_003750b53e3e3d6db14283b42e12fb70">15</container>
+               </did>
+            </c>
+            <c id="ref83" level="file">
+               <did>
+                  <unittitle>Box 1, folder 12</unittitle>
+                  <container label="Mixed Materials (39002091452145)"
+                             id="aspace_debfb351c7711340e81ffc1c5ef0381e"
+                             type="box">2</container>
+                  <container id="aspace_00f41c696647fed9f47d229e31ba754b"
+                             type="folder"
+                             parent="aspace_debfb351c7711340e81ffc1c5ef0381e">16</container>
+               </did>
+            </c>
+            <c id="ref85" level="file">
+               <did>
+                  <unittitle>Box 4, folder 33</unittitle>
+                  <container label="Mixed Materials (39002091452145)"
+                             id="aspace_977da2aa81903e1a7c52601e619030b3"
+                             type="box">2</container>
+                  <container id="aspace_97081a0bf7928b8180c9a41ee6abd897"
+                             type="folder"
+                             parent="aspace_977da2aa81903e1a7c52601e619030b3">39</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

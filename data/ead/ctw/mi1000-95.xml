@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-95::Missionary Lyceum Records)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/mi1000-95.html">mi1000-95</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Missionary Lyceum Records,
+		<lb/><date normal="1834/1871">1834 - 1871</date>
+		</titleproper>
+        <author>Processed by: Marjorie A. Biafore (Class of 1979), Patricia Bodak Stark; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: June 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Missionary Lyceum Records, <date type="span">1834 - 1871</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.). Missionary Lyceum.</corpname></origination><unittitle label="Title" encodinganalog="245">Missionary Lyceum Records, <unitdate normal="1834/1871" type="inclusive">1834 - 1871</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-95</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.6</extent></physdesc><physdesc label="Archival Boxes"><extent>2</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">The Missionary Lyceum at Wesleyan University existed from 1834 until approximately 1878. The purpose of the Lyceum was to promote a missionary zeal among its members by way of debates, addresses, collection of artifacts and literature from foreign missions, and the exchange of correspondence with various missionaries around the world</abstract><abstract encodinganalog="520">The Missionary Lyceum Records include correspondence, financial records, minutes, reports, and membership rosters.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Missionary Lyceum Records, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Gift, prior to 1960.</p>
+      </acqinfo>
+      <otherfindaid>
+        <head>Alternate Finding Aids</head>
+        <p>A detailed listing of the correspondence is also available for use in Special Collections &amp; Archives.</p>
+      </otherfindaid>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Marjorie A. Biafore (Class of 1979), Patricia Bodak Stark, 2005</p>
+        <p>Encoded by Valerie Gillispie, June 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist><head>Historical Note</head><p>The Missionary Lyceum at Wesleyan was founded October 22, 1834, after an address to undergraduates by the first president of the university, Rev. Dr. Willbur Fisk, on the importance of forming a society for <emph render="doublequote">the benefit of the missionary cause.</emph>  The purpose of the Lyceum was to promote a missionary zeal among its members by way of debates, addresses, collection of artifacts and literature from foreign missions, and the exchange of correspondence with various missionaries.  A brief discussion of the Lyceum may be found in Carl Price's <title render="italic">Wesleyan's First Century</title>, p.42-43.</p><p>In the first constitution, adopted October 27, 1834, the name of the organization was announced: <emph render="doublequote">This society shall be called the Missionary Lyceum of the Wesleyan University.</emph>  In the minutes which were kept of the meetings, various recording secretaries referred to <emph render="doublequote">Missionary Lyceum,</emph> <emph render="doublequote">Lyceum,</emph> <emph render="doublequote">Society,</emph> or <emph render="doublequote">Missionary Society.</emph>  However, the minutes of the September 6, 1845 meeting begin: <emph render="doublequote">A special meeting of the M &amp; T [Missionary &amp; Theological] Lyceum was convened . . . .</emph> It was referred to as the Theological and Missionary Lyceum in minutes for every meeting thereafter.  A revised constitution and <emph render="doublequote">bye-laws</emph> were discussed also, and while no revised constitution for 1845 is recorded, Article I of the May 1, 1848 revised constitution states: <emph render="doublequote">This society shall be styled the Theological and Missionary Lyceum of the Wesleyan University.</emph></p><p>A previous missionary society, which Price refers to as being <emph render="doublequote">literary in character,</emph> was begun at Wesleyan on November 21, 1831, but folded the following spring.  It appears, however, that the members of the Missionary Lyceum were also conscious of the necessity of a strong background in writings pertaining to theology and missionary work.  Daniel P. Kidder, first corresponding secretary of the Lyceum, wrote to the Rev. R. Spaulding on November 6, 1834, announcing the formation of the Lyceum and explaining its goals:</p><p><emph render="italic">That . . . which at present seems most favorable for awakening Christian sympathy and calling forth benevolent action is the collection and communication of <emph render="underline">facts</emph>, illustrative of those whom we commiserate. This will chiefly be done through the medium of domestic and foreign correspondence and the embodying and condensing of intelligence as may reach us through the press.</emph></p><p>In a letter from Dr. Fisk (June 8, 1837) to the Lyceum, he advocated the enlargement of their museum and the beginnings of a library of missionary literature:</p><p><emph render="italic">[Another] process of exciting the missionary spirit and aiding the missionary cause, through  your society, is that of collecting a library, that shall have a direct relation to the missionary work.  Although your library is still small yet it is a number around which future accumulations will I trust be collected, until the <emph render="underline">Missionary Library of the Wesleyan University</emph> shall contain all that is important to the missionary student . . .you have from the Wesleyan Missionary Society, in London, their Reports and missionary notices, from the Commencement of that very efficient missionary Institution, an  Institution  which for its activity &amp; vigor and the extent of its beneficial results &amp; direct &amp; collateral influences, is second to no other Mis. Society in the Christian Church - you have also from that unrivaled Institution, the <title render="doublequote">British &amp; Foreign Bible Society</title> 124 vols. Embracing the different versions of the bible and parts of the Bible in 81 different Languages and Dialects, all of the first workmanship, literary and mechanical.</emph></p><p>Correspondence was an important function of the Lyceum.  Letters were received from and written to missionaries all over the world;  ministers and members of other missionary  societies also wrote to Wesleyan to acknowledge honorary memberships, and a student at Iowa Wesleyan University asked how to set up a missionary society similar to the Lyceum.</p><p>The corresponce of the Lyceum traces the origins of its missionary museum, later part of the Wesleyan Museum.  Corresponding secretary, Daniel P. Kidder, wrote to the Reverend Mr. Spaulding on November 6, 1834, requesting his <emph render="doublequote">African curiosities</emph> to be housed with the society as the beginning of a museum.  In 1835, Kidder sent a form letter to several missionaries, requesting information about their activities and artifacts for the museum.  In 1840, Joyn Seys wrote from Monrovia (Liberia) that he had sent the Lyceum</p><p><emph render="italic">. . . a box of shells, &amp;c, which I beg the gentlemen of the Lyceum to accept of, and to place, if they consider them of sufficient value, among the other curiosities of their cabinet.</emph></p><p>Dr. Fisk also wrote the Lyceum:</p><p><emph render="italic">This society will aid the [missionary cause] . . . by . .  . its Missionary Cabinet or Museum.  In this you have already a good beginning; but we hope that the members of the society, both the graduates and undergraduates, will exert themselves to enlarge this museum.</emph></p><p>Dr. Fisk was most influential in the dealings of the Lyceum and remained devoted to its objects until his death in l839.</p><p>The Lyceum's correspondence was  varied.  James Fulton of Shelbyville, Kentucky wrote six letters in 1835, one of which described what he had learned about methods of Chinese printing.  Jonas King wrote from Constantinople on March 18, 1836, detailing his duties there and the hardships of life as a missionary.  From his mission post in Rio de Janiero, Brazil, Daniel P. Kidder wrote in February, 1836,  that Roman Catholicism seemed distressingly prevalent there, but that he was optimistic of converting people.  Former Lyceum member, H.A. Wilson wrote from Buenos Aires, Argentina in 1841, conveying some frustration with his teaching duties in the mission there:</p><p><emph render="italic">The school includes both sexes and hitherto have been accomodated in the same room. I had much rather have a school of one hundred in any part of New England than one of 50 in [Buenos Aires].  They are the mostungovernable set of children that I ever saw . . . When they are out of school . . . they run wild and require to be sassed in order to tame them down and ring them under any kind of discipline. School keeping here is truly a work of patience.</emph></p><p>The Lyceum took an innovative step in 1848 by according honorary membership to a woman.  Adelaide Fitzgerald of Middletown wrote on July 22 to acknowledge the honor and to thank the members of the Lyceum.</p><p>Although the Lyceum at times could boast of more than forty active members, its appeal declined somewhat in the 1850s.  The led to an <emph render="doublequote">advertisement</emph> to members in the records book in 1858, proposing a new constitution, new amendments, by-laws and amendments to by-laws, in order to <emph render="doublequote">rejuvinate</emph> the almost inactive society.  The last recorded minutes were for January 1871, and the last students to sign the roster were members of the class of 1873.  The custom of annual commencement sermons delivered before the Lyceum continued until 1878, however.</p> 
+
+
+<!-- use "Chronlist Tags" here if there is a chronology --></bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The records of the Missionary Lyceum survived in five volumes of varying sizes, entitled Account book, Records, Register, Correspondence, and Letter book. In the fall of 1978, in order to preserve them longer, the letters were removed from the letter book, put into folders, and the decaying volume discarded. An alphabetical index of letter-writers was made. The small amount of correspondence in the Correspondence volume was also removed and the volume discarded.</p>
+      <p>The contents of the Correspondence volume are now found in Folder 1. They include 16 letters to and from the Lyceum, copied over by the corresponding secretary. The file also includes <title render="doublequote">Memorandum of the correspondence of the M. Lyceum</title> and lists of corresponding members, honorary members, and honorary members ex officio.  </p>
+      <p>The correspondence that was removed from the letter book is now in folders 2-14. A name index to the correspondence in folders 1-14 is as follows:
+<list type="ordered" numeration="upperalpha"><item>Abeel, D.</item><item>Bangs, Nathan (President 1841-42)</item><item>Bannister, Henry (Class of 1836)</item><item>Burton, Jabez</item><item>Bushnell, Horace (Honorary 1842)</item><item>Cogswell, William</item><item>Curry, Daniel (Class of 1837)</item><item>Dempster, John (Honorary 1848)</item><item>Disoway, Gabriel P.  (Honorary 1833)</item><item>Durbin, J. P.  (Class of 1853)</item><item>Dwight, H.  (Class of l835)</item><item>Fisk, H.F. (Class of  l860)</item><item>Fisk, Willbur (President 1830-1839)</item><item>Fitzgerald, Adelaide</item><item>Fox, Henry G.</item><item>Fulton, James</item><item>Greene, D.</item><item>Hall, Charles</item><item>Hale, J.G.</item><item>Haven, Erastus O. (Class 1842)</item><item>Jacobs, Simon P.</item><item>Kettell, George F.</item><item>Kidder, Daniel P. (Class of 1836)</item><item>King, Jonas</item><item>Kingsbury, Benj. Jr.</item><item>La, Daniel</item><item>Leagen, M., et. al.</item><item>Lovejoy, J.</item><item>Palmer, L.</item><item>Parker, Benj. W.</item><item>Peters, Absalom</item><item>Rich, Charles</item><item>Ripley, H.W.</item><item>Seys, John</item><item>Simpson, M.</item><item>Spaulding, Justin (Honorary 1844)</item><item>Spaulding, R.</item><item>Stevens, A.</item><item>Stone, A.S.</item><item>Suckley, George</item><item>Tefft, Benjamin F. (Class 1835)</item><item>True, Charles K.</item><item>Trumbull, Robert </item><item>Wilson, A.</item><item>Winslow, M.</item></list>
+</p>
+      <p>The Record of Meetings, in folder 15, includes minutes of meetings, rosters of members for every year, and versions of constitutions dated October 1834, 1 May 1848, and summer 1858.</p>
+      <p>The Register, in folder 16, includes an address on the motives for sustaining the Missionary Lyceum and the obligation of Christian students to sustain it (21 September 1834); a report on the Green Bay Mission (4 January 1836); a report on the moral and religious condition of the Ottoman Empire (18 April 1836); and rosters of members, classes of 1859-1873.</p>
+      <p>The Account Book, in folder 17, includes income, expenditures, initiation fees, and receipts. Most expenditures were for wood, oil, locks, and cleaning and repairs. It also records payments by members to the Chique Chaque Eating Club.</p>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Missionary Lyceum.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Religion.</corpname>
+      <subject source="lcsh" encodinganalog="650">College students--Religious life--United States.</subject>
+      <subject source="lcsh" encodinganalog="650">Missions, American.</subject>
+      <subject source="lcsh" encodinganalog="650">Missions--History.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01>
+        <did>
+          <unittitle/>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Correspondence Book, November 1834-December 1868</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>Correspondence, 1834 November-December</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Correspondence, 1835 February-May</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Correspondence, 1835 June-August</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Correspondence, 1835 October</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Correspondence, 1835 November-December</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Correspondence, 1836 March-December</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Correspondence, 1837 March-October</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Correspondence, 1838 January-December</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>Correspondence, 1839 January-October</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Correspondence, December 1841-September 1844</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Correspondence, 1848 June-July</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Correspondence, May 1849-December 1850</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Correspondence, November 1859-February 1860</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">15</container>
+            <unittitle>Record of Meetings, October 1834-January 1871</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Register, 1835-1873</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Account Book of the Theological and Missionary Lyceum, June 1848-December 1868</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

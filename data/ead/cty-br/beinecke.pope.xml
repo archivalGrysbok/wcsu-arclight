@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.pope">beinecke.pope</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Alexander Pope Collection
+ </titleproper>
+            <titleproper type="filing">Pope (Alexander) Collection</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>June 1997</date>
+            <num>GEN MSS 270</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday March 27, 2019 at 03:11</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.beinecke manuscript unit archival processing manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Alexander Pope collection</unittitle>
+         <unitid>GEN MSS 270</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">1.2</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(2 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1713/1855">1713-1855</unitdate>
+         
+         <abstract id="aspace_743814a2d862ff60e77b69abae310d0e">Contains letters from Pope to various people, including John Conduitt, Robert Craggs Nugent, and Jonathan Richardson; a holograph draft of Pope's translation of the first 48 lines of Book 8 of Homer's "Iliad"; a holograph inscription for Jonathan Swift's grandfather's tomb (with holograph notes by Swift); and an album (formerly owned by John Murray) that contains material by and about Pope.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n79084387"
+                      source="naf">
+               Pope, Alexander, 1688-1744
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname source="local">
+               Homer ( Iliad,  Book 8,  English)
+            </persname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_1afb4f13d516474003485880e061b391">
+         <head>Immediate Source of Acquisition</head>
+         <p>Ongoing collection of documents acquired by gift and purchase from various sources. Type of accession (gift or purchase) and date of acquisition is noted in the box-and-folder list. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <userestrict id="aspace_89dd0bd02df5ab1f082e89194f1be6bc">
+         <head>Conditions Governing Use</head>
+         <p>The Alexander Pope Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_9dd999c313a13d53c410c0673ee09c7e">
+         <head>Preferred Citation</head>
+         <p>Alexander Pope Collection. General Collection, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_1d9499c05def191444d39064ee091cac">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <processinfo id="aspace_1b517961d1feff73622db02cda5f3a32">
+         <head>Processing Information</head>
+         <p>This finding aid was produced from previously existing cards in the Manuscripts Catalog, or from another inventory. All pertinent bibliographical information has been retained. If the collection also contains unlisted or unsorted material, it has been noted in the box-and-folder list. This finding aid will be updated periodically to account for new materials that may be added to the collection. The date of the most recent update is noted on the title page. For information on material that may have been added since the last update, please consult the Public Service Desk.</p>  
+      </processinfo>
+      <scopecontent id="aspace_9cffa3aa558f51b87c709a000cc240fb">
+         <head>Scope and Contents</head>
+         <p>This finding aid encompasses accessions of single manuscripts and small groups of manuscripts and other papers, by or pertaining to Alexander Pope, which the library has chosen to group and list as an artificial collection.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85009861"
+                  source="lcsh">
+            Authors, English -- Archives
+         </subject>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr91016983"
+                   source="naf">
+            Conduitt, John, 1688-1737
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr93006989"
+                   rules="aacr"
+                   source="naf">
+            Murray, John, 1808-1892
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n87899666"
+                   rules="aacr"
+                   source="naf">
+            Nugent, Robert Nugent, Earl, 1702-1788
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n79084387"
+                   source="naf">
+            Pope, Alexander, 1688-1744
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50044694"
+                   rules="aacr"
+                   source="naf">
+            Richardson, Jonathan, 1665-1745
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78096912"
+                   source="naf">
+            Swift, Jonathan, 1667-1745
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Letters from Alexander Pope</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">[1736] Feb 12</unitdate>
+            </did>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>ALS to [Allen, First Lord Bathurst?], Twickenham</unittitle>
+                  <unitdate type="inclusive">[1736] Feb 12</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_2c2da77a27ccceb7c931fa1a42ed0cab"
+                             type="box">1</container>
+                  <container id="aspace_e4a0a1150d6c4d0a3fd6e85f0f089638"
+                             type="folder"
+                             parent="aspace_2c2da77a27ccceb7c931fa1a42ed0cab">1</container>
+               </did>
+               <scopecontent id="aspace_c3e24632a2ec893a1d7b0e99c2e6af90">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1983.</p>
+               </scopecontent>
+            </c>
+            <c id="ref14" level="file">
+               <did>
+                  <unittitle>ALS to "My dear Lord" [Bathurst?], Twickenham</unittitle>
+                  <unitdate type="inclusive">[1739?] Aug 9</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_94b57fb5f25b9fda2fe3eec3dfda1e50"
+                             type="box">1</container>
+                  <container id="aspace_d97c6bf140633a8f822f1c4c0856f2ff"
+                             type="folder"
+                             parent="aspace_94b57fb5f25b9fda2fe3eec3dfda1e50">2</container>
+               </did>
+               <scopecontent id="aspace_559ab6e2e9b84db953a3d469dd6bf705">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1956.</p>
+               </scopecontent>
+            </c>
+            <c id="ref16" level="file">
+               <did>
+                  <unittitle>ALS to Hugh Bethel, Twickenham</unittitle>
+                  <unitdate type="inclusive">1737 Feb 11</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_c4b40ee25debb149ee5ddba003dd64b3"
+                             type="box">1</container>
+                  <container id="aspace_650892058cb0e7b5ef3b52f35767b660"
+                             type="folder"
+                             parent="aspace_c4b40ee25debb149ee5ddba003dd64b3">3</container>
+               </did>
+               <scopecontent id="aspace_2359e85b63233c08a4ec878ec24e72f4">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by five portraits of Pope. Purchase, 1944.</p>
+               </scopecontent>
+            </c>
+            <c id="ref18" level="file">
+               <did>
+                  <unittitle>ALS to Mr. Bethel</unittitle>
+                  <unitdate type="inclusive">1744 Mar 26</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_606de0519580ac9d63a6ed80cc150b8e"
+                             type="box">1</container>
+                  <container id="aspace_2ded3262983324232566b649f5c84439"
+                             type="folder"
+                             parent="aspace_606de0519580ac9d63a6ed80cc150b8e">4</container>
+               </did>
+               <scopecontent id="aspace_dc4e937e506ef82e17365686b6529c44">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by an engraving of Pope. Purchase, 1971.</p>
+               </scopecontent>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>ALS to William Borlase, Twickenham</unittitle>
+                  <unitdate type="inclusive">1740 Mar 9</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_2d00789909f250bd905a438d6010fcfb"
+                             type="box">1</container>
+                  <container id="aspace_c680ae376ce722f80686024f5a700ffa"
+                             type="folder"
+                             parent="aspace_2d00789909f250bd905a438d6010fcfb">5</container>
+               </did>
+               <scopecontent id="aspace_57cf4196aa77ccb6006e0d21a786096f">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1944.</p>
+               </scopecontent>
+            </c>
+            <c id="ref22" level="file">
+               <did>
+                  <unittitle>ALS to John Brinsden</unittitle>
+                  <unitdate type="inclusive">[1741] Jun 8</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_64854e6d032e5fe3d3dec5c7286d0377"
+                             type="box">1</container>
+                  <container id="aspace_3bc7a904c56278ade7db24a5f7e59828"
+                             type="folder"
+                             parent="aspace_64854e6d032e5fe3d3dec5c7286d0377">6</container>
+               </did>
+               <scopecontent id="aspace_534cadf1708d664f9adf585df8a69102">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by a copy of a letter from Pope to Brinsden, 1741 Nov 6. Gift, 1957.</p>
+               </scopecontent>
+            </c>
+            <c id="ref24" level="file">
+               <did>
+                  <unittitle>ALS to Samuel Buckley</unittitle>
+                  <unitdate type="inclusive">[1737 Nov 23]</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_3b08a93f53de92b301955aa8d13f74d7"
+                             type="box">1</container>
+                  <container id="aspace_15daa9049eea4c832d70126056c79cc7"
+                             type="folder"
+                             parent="aspace_3b08a93f53de92b301955aa8d13f74d7">7</container>
+               </did>
+               <scopecontent id="aspace_346c06d27022b35e8d48ad9c2238d89d">
+                  <head>Scope and Contents</head>
+                  <p>"From Lord Cornbury's".</p>
+               </scopecontent>
+            </c>
+            <c id="ref26" level="file">
+               <did>
+                  <unittitle>ALS to John Conduitt, Twickenham</unittitle>
+                  <unitdate type="inclusive">1727 Nov 10</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_dd89dfe9aa1cb5c063de17be3555a872"
+                             type="box">1</container>
+                  <container id="aspace_e2e6de30c438b8906051b5f9f5f5f961"
+                             type="folder"
+                             parent="aspace_dd89dfe9aa1cb5c063de17be3555a872">8</container>
+               </did>
+               <scopecontent id="aspace_e210fb8c239e7b2235bf4ecc9974654d">
+                  <head>Scope and Contents</head>
+                  <p>Accompanied by draft of AL to Pope from Conduitt, 1727 Nov 8; two manuscript copies (one in English and signed, the other in French with manuscript corrections) of Conduitt's dedicatory epistle to Queen Caroline that appeared in Sir Isaac Newton's <title type="simple" render="italic">
+                        The Chronology of Ancient Kingdoms Amended...
+                     </title> (London, 1728); proof sheets, with manuscript corrections, of signatures A and a containing the title-page, dedicatory epistle, table of contents, and advertisement. Purchase, 1943.</p>
+               </scopecontent>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>ALS to [Thomas Dancastle?]</unittitle>
+                  <unitdate type="inclusive">1719 Nov 9</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_57c83e679a8647287d7dea880d0c2cc6"
+                             type="box">1</container>
+                  <container id="aspace_9879402f421069c3a5793ae9a4c1ea51"
+                             type="folder"
+                             parent="aspace_57c83e679a8647287d7dea880d0c2cc6">9</container>
+               </did>
+               <scopecontent id="aspace_b92d18f91ae0af03788debdac5f81309">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1944.</p>
+               </scopecontent>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>ALS to [William Fortescue]</unittitle>
+                  <unitdate type="inclusive">[1732/3] Mar 8</unitdate>
+               </did>
+               <scopecontent id="aspace_d6a7980d37399de5a71436b74e4ddd04">
+                  <head>Scope and Contents</head>
+                  <p>Gift, 1952.</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_3f1780a78bd091cc8ffb3adc44abde67">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref33">See: [Robert Craggs Nugent, Lord Nugent], Box 1, folder 10</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+            <c id="ref33" level="file">
+               <did>
+                  <unittitle>5 ALS to [Robert Craggs Nugent, Lord Nugent], Twickenham</unittitle>
+                  <unitdate type="inclusive">1740</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_5d203e484a40205ef2d952fa0a1fcf2c"
+                             type="box">1</container>
+                  <container id="aspace_84203561453c63b0de7ef1b014a16497"
+                             type="folder"
+                             parent="aspace_5d203e484a40205ef2d952fa0a1fcf2c">10</container>
+               </did>
+               <scopecontent id="aspace_af4f12229c94d5b4745abd5f653cb21f">
+                  <head>Scope and Contents</head>
+                  <p>In volume. With printed transcripts, an envelope addressed to Sir George Nugent in an unidentified hand, and an autograph letter from Pope to William Fortescue, with typescript. Gift, 1952.</p>
+               </scopecontent>
+            </c>
+            <c id="ref35" level="file">
+               <did>
+                  <unittitle>ALS to Jonathan Richardson, Twickenham</unittitle>
+                  <unitdate type="inclusive">[1734] Nov 4</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_a19f9c8d98ccd92ae2c45e8ac38e5d50"
+                             type="box">1</container>
+                  <container id="aspace_bbb1582026cd36c1de77e4798b3448b3"
+                             type="folder"
+                             parent="aspace_a19f9c8d98ccd92ae2c45e8ac38e5d50">11</container>
+               </did>
+               <scopecontent id="aspace_3873aa7b1b0a012416d8a0b630586249">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1983.</p>
+               </scopecontent>
+            </c>
+            <c id="ref37" level="file">
+               <did>
+                  <unittitle>ALS to Mr. [Jonathan] Richardson</unittitle>
+                  <unitdate type="inclusive">[ca. 1737]</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_5d68aba779a8283f96887859ec3e7b7a"
+                             type="box">1</container>
+                  <container id="aspace_4df90ab0069d7a77ac055bbd7bee49f9"
+                             type="folder"
+                             parent="aspace_5d68aba779a8283f96887859ec3e7b7a">12</container>
+               </did>
+               <scopecontent id="aspace_9ebc489dd89875935a80c99ba03a00fb">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1946.</p>
+               </scopecontent>
+            </c>
+            <c id="ref39" level="file">
+               <did>
+                  <unittitle>AN and address leaf to Richardson</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_679a3e5b08a86c355fd8235b93a6098d"
+                             type="box">1</container>
+                  <container id="aspace_52006b158f3c54bfb675f2c0932556e0"
+                             type="folder"
+                             parent="aspace_679a3e5b08a86c355fd8235b93a6098d">13</container>
+               </did>
+               <scopecontent id="aspace_2bca2e8a339968b3580e7b5da26e3e27">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1966.</p>
+               </scopecontent>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>ALS to G[eorge Augustus] Selwyn, Twickenham</unittitle>
+                  <unitdate type="inclusive">Sep 27</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_d9d6150a4029c6fc4b7f5c3bf6331d6b"
+                             type="box">1</container>
+                  <container id="aspace_975d0830fb28871164f0f5593cc3f9ff"
+                             type="folder"
+                             parent="aspace_d9d6150a4029c6fc4b7f5c3bf6331d6b">14</container>
+               </did>
+               <scopecontent id="aspace_7c4f09da16fd85344d13fcb9135bb881">
+                  <head>Scope and Contents</head>
+                  <p>Purchase, 1948.</p>
+               </scopecontent>
+            </c>
+            <c id="ref43" level="file">
+               <did>
+                  <unittitle>ALS to Sir William Trumbull</unittitle>
+                  <unitdate type="inclusive">[1713 Jun 6]</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_a6fc39d73d5c6991663d22e9ab7f7cfb"
+                             type="box">1</container>
+                  <container id="aspace_a5c7fbdee2eb781f4b0b3a04cdbfcf0a"
+                             type="folder"
+                             parent="aspace_a6fc39d73d5c6991663d22e9ab7f7cfb">15</container>
+               </did>
+               <scopecontent id="aspace_7fc318c34f96a067d11f57bc727554a4">
+                  <head>Scope and Contents</head>
+                  <p>Page 3 includes an autograph manuscript letter from Charles Jervas to Sir William Trumbull, 1713 Jun 6. Gift, 1964.</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c id="ref45" level="series">
+            <did>
+               <unittitle>Other</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">n.d.</unitdate>
+            </did>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>Homer, <title type="simple" render="italic">
+                        Iliad
+                     </title>, Book 8. English translation by Pope</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_01d150e895a95140456eff4025e61b38"
+                             type="box">1</container>
+                  <container id="aspace_bd8de071060f22a763b91ca24e083d1b"
+                             type="folder"
+                             parent="aspace_01d150e895a95140456eff4025e61b38">16</container>
+               </did>
+               <scopecontent id="aspace_c8899bc8161fbd9e88de60ff86a33bf4">
+                  <head>Scope and Contents</head>
+                  <p>Autograph manuscript of the first 48 lines. Removed from Pope's copy of George Chapman's translation of Homer's Iliad (London, 1611). Gift, 1966.</p>
+               </scopecontent>
+            </c>
+            <c id="ref48" level="file">
+               <did>
+                  <unittitle>"A Proper reply to a lady, occasioned by her verses addressed to the Imitator of the First Satire of the second Book of Horace, by Mr. Pope"</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_835bac2d7e6a6d75ffaa5491f8c2545a"
+                             type="box">1</container>
+                  <container id="aspace_471015ec6234956e11924956084297cb"
+                             type="folder"
+                             parent="aspace_835bac2d7e6a6d75ffaa5491f8c2545a">17</container>
+               </did>
+               <scopecontent id="aspace_b55a1b79682cf682b9a4951e55c119b2">
+                  <head>Scope and Contents</head>
+                  <p>Manuscript copy in an unidentifed hand. Purchase, 1919.</p>
+               </scopecontent>
+            </c>
+            <c id="ref50" level="file">
+               <did>
+                  <unittitle>Inscription for Jonathan Swift's grandfather's tomb</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_5611761ea2203f74ee8186923dda6c7c"
+                             type="box">1</container>
+                  <container id="aspace_93e99951c54181334236f8ad2fc63a84"
+                             type="folder"
+                             parent="aspace_5611761ea2203f74ee8186923dda6c7c">18</container>
+               </did>
+               <scopecontent id="aspace_4a7a8600eced72232c7f1afe42ba5bca">
+                  <head>Scope and Contents</head>
+                  <p>With additional notes in hand of Jonathan Swift. Purchase, 1958.</p>
+               </scopecontent>
+            </c>
+            <c id="ref52" level="file">
+               <did>
+                  <unittitle>Address from letter (clipped)</unittitle>
+                  <unitdate type="inclusive">n.d.</unitdate>
+                  <container label="Mixed Materials (39002099281280)"
+                             id="aspace_4b9cde386355500e4bcb20d6d1773f9a"
+                             type="box">1</container>
+                  <container id="aspace_836379f34e6b504fa8b0fe26a7289d58"
+                             type="folder"
+                             parent="aspace_4b9cde386355500e4bcb20d6d1773f9a">19</container>
+               </did>
+               <scopecontent id="aspace_a80e2dc3aee598351d3e02dd8a8d2d26">
+                  <head>Scope and Contents</head>
+                  <p>Holograph. Gift, 1953.</p>
+               </scopecontent>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>Album, formerly owned by John Murray, containing items either by Pope or related to him</unittitle>
+                  <unitdate type="inclusive">1717-1855</unitdate>
+               </did>
+               <scopecontent id="aspace_b0df76dd6ea200fe000ed4c733db39b4">
+                  <head>Scope and Contents</head>
+                  <p>Contains: mezzotint of Pope after Godfrey Kneller, 1722; ALS to Sir Godfrey Kneller, 1717/18 Feb 18; crayon drawing of Pope by Jonathan Richardson, n.d.; printed receipt to Robert Packer, Esq., for the subscription copy of Homer's <title type="simple" render="italic">
+                        Iliad
+                     </title>, signed: "A. Pope"; ALS to Mrs. Howard, [1729 May]; ALS to Mr. Richardson, Cirencester, [1737] Jun 25; Pope's preface to the <title type="simple" render="italic">
+                        Works
+                     </title>, with many corrections (removed from album and purchased by Professor Tinker before the Library bought album; now Tinker Ms 1668); first copy of manuscript verses by Pope on the Grotto of Twickenham composed entirely of English metals, minerals, marbles, corrected with his own hand, 1740/1 Feb 6; original proof of two pages from Pope's <title type="simple" render="italic">
+                        Epistles
+                     </title>, pages 69 and 70, with the author's corrections; 2 ALS from John Murray to John Wilson Croker, London, 1854 May 19 and Jun 8; ALS from John Wilson Croker to Mr. Cooke, 1855 Aug 1; leaf from the printed catalogue of the collection of H. B. Ray, newpaper clippings, and envelope addressed to John Murray in an unidentified hand. Purchase, 1939.</p>
+               </scopecontent>
+               <relatedmaterial id="aspace_7f1d891b96e62edf0a8437992bff8c08">
+                  <head>Related Archival Materials note</head>
+                  <p>
+                     <ref xlink:actuate="onRequest" xlink:show="replace" target="ref58">See: Oversize, Box 2, folder 20</ref>
+                  </p>
+               </relatedmaterial>
+            </c>
+         </c>
+         <c id="ref57" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <unitdate type="inclusive">1717-1855</unitdate>
+            </did>
+            <c id="ref58" level="file">
+               <did>
+                  <unittitle>Album, formerly owned by John Murray, containing items either by Pope or related to him (in Series II)</unittitle>
+                  <unitdate type="inclusive">1717-1855</unitdate>
+                  <container label="Mixed Materials (39002093768092)"
+                             id="aspace_822ef63a7a5473af2edfdb5eadfbf80b"
+                             type="box">2</container>
+                  <container id="aspace_30ed555e9b53e7a68edd7291976f61a0"
+                             type="folder"
+                             parent="aspace_822ef63a7a5473af2edfdb5eadfbf80b">20</container>
+               </did>
+               <scopecontent id="aspace_0566c1c97dc151780f59fcf175495f71">
+                  <head>Scope and Contents</head>
+                  <p>Contains: mezzotint of Pope after Godfrey Kneller, 1722; ALS to Sir Godfrey Kneller, 1717/18 Feb 18; crayon drawing of Pope by Jonathan Richardson, n.d.; printed receipt to Robert Packer, Esq., for the subscription copy of Homer's <title type="simple" render="italic">
+                        Iliad
+                     </title>, signed: "A. Pope"; ALS to Mrs. Howard, [1729 May]; ALS to Mr. Richardson, Cirencester, [1737] Jun 25; Pope's preface to the <title type="simple" render="italic">
+                        Works
+                     </title>, with many corrections (removed from album and purchased by Professor Tinker before the Library bought album; now Tinker Ms 1668); first copy of manuscript verses by Pope on the Grotto of Twickenham composed entirely of English metals, minerals, marbles, corrected with his own hand, 1740/1 Feb 6; original proof of two pages from Pope's <title type="simple" render="italic">
+                        Epistles
+                     </title>, pages 69 and 70, with the author's corrections; 2 ALS from John Murray to John Wilson Croker, London, 1854 May 19 and Jun 8; ALS from John Wilson Croker to Mr. Cooke, 1855 Aug 1; leaf from the printed catalogue of the collection of H. B. Ray, newpaper clippings, and envelope addressed to John Murray in an unidentified hand. Purchase, 1939.</p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

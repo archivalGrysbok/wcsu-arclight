@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-P"
+             url="http://hdl.handle.net/10079/fa/ypm.ipar.001223">ypm.ipar.001223</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Susan H. Butts Archives </titleproper>
+            <titleproper type="filing">Butts (Susan Harrington) Archives</titleproper>
+            <author>Samantha Murphy</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Peabody Museum of Natural History</publisher>
+            <address>
+               <addressline>170 Whitney Avenue</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">peabody.permissions@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://peabody.yale.edu/"
+                          xlink:title="http://peabody.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2014</date>
+            <num>IPAR.001223</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday March 15, 2019 at 06:31</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.Finding aid created in accordance with Manuscripts and Archives Processing Manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Susan H. Butts Archives</unittitle>
+         <unitid>IPAR.001223</unitid>
+         <repository>
+            <corpname>
+               Yale Peabody Museum of Natural History
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">5</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="2003/2014">2003-2014</unitdate>
+         
+         <abstract id="aspace_0aa0c5417ac5826a926219db553e1a60">The archives of Susan H. Butts encompassing her career at Yale. These include field notebooks and maps.</abstract>
+         <langmaterial id="aspace_d30059ba746cd7739d79fadb9520faa4">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <persname source="local_peabody">
+               Butts, Susan Harrington
+            </persname>
+         </origination>
+      </did>
+      <prefercite id="ref1">
+         <head>Cite As</head>
+         <p>Susan H. Butts Archives, Invertebrate Paleontology, Yale Peabody Museum</p>  
+      </prefercite>
+      <bioghist id="ref2">
+         <head>Biographical Sketch</head>
+         <p>Senior Collections Manager, Division of Invertebrate Paleontology. Yale Peabody Museum. 2003?2004 Postdoctoral Associate, Yale University. 2003 Ph.D., University of Idaho 1995 B.A., Hobart and William Smith Colleges</p>  
+      </bioghist>
+      <scopecontent id="ref4">
+         <head>Description of the Material</head>
+         <p>Includes copies of field notebooks and locality information from West Texas and Idaho.</p>  
+      </scopecontent>
+      <controlaccess>
+         <geogname authfilenumber="http://id.loc.gov/authorities/names/n79074102"
+                   source="lcsh">
+            Connecticut
+         </geogname>
+         <geogname source="local">
+            Idaho
+         </geogname>
+         <geogname authfilenumber="n80129616" source="lcsh">
+            Texas
+         </geogname>
+         <geogname source="local">
+            USA
+         </geogname>
+         <genreform source="local">
+            Locality information
+         </genreform>
+         <genreform source="local">
+            Field notebooks
+         </genreform>
+         <corpname rules="dacs" source="local">
+            Yale Peabody Museum
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref6" level="series">
+            <did>
+               <unittitle>Locality Information</unittitle>
+               <unitid>Series I</unitid>
+            </did>
+            <c id="ref7" level="file">
+               <did>
+                  <unittitle>Idaho.</unittitle>
+                  <unitid>001227</unitid>
+               </did>
+               <c id="ref8" level="file">
+                  <did>
+                     <unittitle>Locality information. Stratigraphic and locality (with maps) info.; Arco Hills Fm, Idaho.</unittitle>
+                     <unitid>000778</unitid>
+                     <unitdate type="inclusive">2003</unitdate>
+                  </did>
+               </c>
+            </c>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Texas.</unittitle>
+                  <unitid>001226</unitid>
+               </did>
+               <c id="ref10" level="file">
+                  <did>
+                     <unittitle>Field notes. Locality information, Permian of West Texas at Guadalupe Mountains National Park</unittitle>
+                     <unitid>000906</unitid>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Field Notebooks</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1999-2001</unitdate>
+            </did>
+            <c id="ref12" level="file">
+               <did>
+                  <unittitle>Copies of Field Notebooks.</unittitle>
+                  <unitid>001228</unitid>
+               </did>
+               <c id="ref13" level="file">
+                  <did>
+                     <unittitle>Field notes. Copy of field notebook with relevant sections (Arco Hills, Wood Canyon, Box Canyon); Arco Hills Fm, Idaho. 1999, 2000, 2001</unittitle>
+                     <unitid>000781</unitid>
+                     <unitdate type="inclusive">1999</unitdate>
+                  </did>
+               </c>
+               <c id="ref14" level="file">
+                  <did>
+                     <unittitle>Field notes. Copy of field notebook with relevant section ("Rabbit Canyon"); Arco Hills Fm, Idaho.</unittitle>
+                     <unitid>000782</unitid>
+                     <unitdate type="inclusive">2001</unitdate>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200608.xml">VHP200608</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>George England Papers
+                    <num>VHP2006/8</num>
+                </titleproper>
+                <subtitle>An Inventory of George England at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Witt Meesangnil</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>207 DiLoreto Hall</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                    <addressline>860-832-2976</addressline>
+                    <addressline>hursteim@ccsu.edu, meesangnilwit@ccsu.edu</addressline>
+                </address>
+                <date>8/19/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-01-04T15:06-0500</date>
+            </creation>
+            <langusage>eng</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George W. England Papers</unittitle>
+            <unitid>VHP2006/8</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>37.0 Digital objects</extent>
+                <extent>1 interview DVD</extent>
+            </physdesc>
+            <unitdate normal="1943/1946" type="bulk">Bulk, 1943-1946</unitdate>
+            <unitdate normal="1943/2006" type="inclusive">1943 - 1946, 2006</unitdate>
+            <abstract id="ref1" label="Abstract">This collection details George England's experience serving with U.S. Navy during World War II. The collection contains video of an oral history interview, personal documents, newspaper clipping, and photographs.</abstract>
+            <physloc id="ref7" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">England, George, 1942 -</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>George W. England joined the U.S. Navy in June of 1943 and attended basic training in Sampson, NY. After basic training he continued on to Memphis, TN to train at the aviation center and naval airport. After this training he volunteered for additional training as an aerial gunner. He was then transferred to Jacksonville, FL to complete an additional 8 weeks of training. It was there that he became part of a crew of 2 pilots, a navigator, an instructor, and 5 students. England then went to Hutchinson, KS where he became a member of the crew on a B-24, which was part of the VPB 111th Patrolled Bombing Squadron. The squadron was known as the "liberator" patrol-bombers. The crew was sent to San Diego, and then Hawaii before flying overseas. When they received their orders to go overseas, the crew of England's B-24 decided that they needed a mascot, so they adopted a German Sheppard that flew alongside them in every mission. They flew missions to Hong Kong, the Philippines, Okinawa, Singapore, and Borneo, in which their main objective was to search for downed aircraft, ships, and submarines. The planes in England's unit faced regular combat, and attempts were often made to shoot them down. England was discharged in April of 1946. He returned home to Connecticut where he returned to school and then later worked at IBM until he retired. He remains active in the Avon post of the VFW.</p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <custodhist id="ref5">
+            <head>Custodial History note</head>
+            <p>All manuscripts and photographs donated were digitized and digitally preserved. The donor retained all original manuscripts and photographs.</p>
+        </custodhist>
+        <altformavail id="ref6">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=991">project's website</extref></p>
+        </altformavail>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">United States. Navy. Patrol Bombing Squadron 111.</corpname>
+            <subject source="lcsh">B-24 bomber</subject>
+            <geogname source="lcsh">Hawaii</geogname>
+            <geogname source="lcsh">Hutchinson (Kan.)</geogname>
+            <geogname source="lcsh">Okinawa-shi (Japan)</geogname>
+            <geogname source="lcsh">Philippines</geogname>
+            <geogname source="lcsh">Sampson Naval Training Station (Sampson, N.Y.)</geogname>
+            <geogname source="lcsh">San Diego (Calif.)</geogname>
+            <subject source="lcsh">United States. Navy -- Aviation</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Campaigns -- Japan -- Okinawa Island</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Personal narratives, American</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Series I: Personal Papers</unittitle>
+                    <unitid>VHP2006/8.I</unitid>
+                </did>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Certificate of completion of the Aviation Machinist Mate course</unittitle>
+                        <unitid>VHP2006/8.I.1</unitid>
+                        <unitdate normal="1944/1944">Feb. 19, 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Letter congratulating George England as he receives Navy award</unittitle>
+                        <unitid>VHP2006/8.I.2</unitid>
+                        <unitdate normal="1946/1946">Dec. 13, 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Graduation Certificate from Aerial Gunnery School Jacksonville, FL</unittitle>
+                        <unitid>VHP2006/8.I.3</unitid>
+                        <unitdate normal="1944/1944">Apr. 24, 1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Certificate of Rabies Vaccination for "Sheba", a mascot dog, upon return to US</unittitle>
+                        <unitid>VHP2006/8.I.4</unitid>
+                        <unitdate normal="1946/1946">Sep. 17, 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Interview synopsis</unittitle>
+                        <unitid>VHP2006/8.I.5</unitid>
+                        <unitdate normal="2006/2006">Apr. 8, 2006</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Series II: Publications</unittitle>
+                    <unitid>VHP2006/8.II</unitid>
+                </did>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Manchester Evening Herald article about George England receiving awards</unittitle>
+                        <unitid>VHP2006/8.II.1</unitid>
+                        <unitdate normal="1946/1946">circa 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Article from CTNOW.com website on six WW II veterans (including George England)</unittitle>
+                        <unitid>VHP2006/8.II.2</unitid>
+                        <physdesc>
+                            <extent>5.0 Digital objects</extent>
+                        </physdesc>
+                        <unitdate normal="2004/2004">May 27, 2004</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series III: Multi-Media</unittitle>
+                    <unitid>VHP2006/8.III</unitid>
+                </did>
+                <c02 id="ref12" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: Still Images</unittitle>
+                        <unitid>VHP2006/8.III</unitid>
+                    </did>
+                    <c03 id="ref22" level="item">
+                        <did>
+                            <unittitle>U.S. Navy Training Station. Sampson, NY</unittitle>
+                            <unitid>VHP2006/8.III.1</unitid>
+                            <unitdate normal="1943/1943">Jul. 29, 1943</unitdate>
+                        </did>
+                        <odd id="ref21">
+                            <head>General note</head>
+                            <p>George England on 4th row - 5th from the right.</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>Naval Air Technical School. Memphis, TN</unittitle>
+                            <unitid>VHP2006/8.III.2</unitid>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                        <odd id="ref23">
+                            <head>General note</head>
+                            <p>George England on 3rd row - 1st on the left.</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>Arrived at Leyte, Philippines</unittitle>
+                            <unitid>VHP2006/8.III.3</unitid>
+                            <unitdate normal="1945/1945">Feb. 1945</unitdate>
+                        </did>
+                        <odd id="ref45">
+                            <head>General note</head>
+                            <p>Louis Smith (Lewiston, Maine) on bed Mel Buholzar standing Cots and tents provided by (Construction Battalion) CB’s Netting on bed was loaded with mosquitoes</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>George England (left) and Bill Weir. Leyte, Philippines.</unittitle>
+                            <unitid>VHP2006/8.III.4</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>George and Sheba next to their tent</unittitle>
+                            <unitid>VHP2006/8.III.5</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>Navy B-24 Liberator Waiting for the co-pilot and navigator to arrive in a Jeep. Leyte, Philippine</unittitle>
+                            <unitid>VHP2006/8.III.6</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>George England on top of B-24's engine</unittitle>
+                            <unitid>VHP2006/8.III.7</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>Mel Buholzar operating B-24's side machine gun, airborne on a mission.</unittitle>
+                            <unitid>VHP2006/8.III.8</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>Sheba and George England in B-24 cockpit, Just checked plane - ready to leave</unittitle>
+                            <unitid>VHP2006/8.III.9</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>George England (left) and Mel Buholzar cleaning the 50 caliber guns from the mission the day before. Mindoro, Philippines</unittitle>
+                            <unitid>VHP2006/8.III.10</unitid>
+                            <unitdate normal="1945/1945">April 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>George England in cockpit testing the engines. Mindoro island, Philippines.</unittitle>
+                            <unitid>VHP2006/8.III.11</unitid>
+                            <unitdate normal="1945/1945">April 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>Control tower at air strip. Palawan, Philippines</unittitle>
+                            <unitid>VHP2006/8.III.12</unitid>
+                            <unitdate normal="1945/1945">May 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>Photos of Landing crafts taken from the air. Palawan, Philippines</unittitle>
+                            <unitid>VHP2006/8.III.13</unitid>
+                            <unitdate normal="1945/1945">June 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>Army Airforce P-38 airplane at a shared airstrip with Navy Squadron. Mindoro, Phillipines</unittitle>
+                            <unitid>VHP2006/8.III.14</unitid>
+                            <unitdate normal="1945/1945">March 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>Ancient Shell Back initiation for Navy Airmen who crossed equator. Palawan, Phillippines</unittitle>
+                            <unitid>VHP2006/8.III.15</unitid>
+                            <unitdate normal="1945/1945">May 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>At Camp Kearny (San Diego, California) before going to Hawaii</unittitle>
+                            <unitid>VHP2006/8.III.16</unitid>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                        <odd id="ref38">
+                            <head>General note</head>
+                            <p>From L -R: Bill Weir, Glenn Light, George England, Mel Buhl Holzer</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>Mel Buhlholzer and George England with Philippine Monkey and Puppy. Palawan, Phillipines</unittitle>
+                            <unitid>VHP2006/8.III.17</unitid>
+                            <unitdate normal="1945/1945"> June 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>Filipino family happy to see Americans. Leyte, Phillipines</unittitle>
+                            <unitid>VHP2006/8.III.18</unitid>
+                            <unitdate normal="1945/1945">February 1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>checking oil level on PB4Y-1 (B-24 variants) Leyte, Phillipines</unittitle>
+                            <unitid>VHP2006/8.III.19</unitid>
+                            <unitdate normal="1945/1945">February 1945</unitdate>
+                        </did>
+                        <odd id="ref42">
+                            <head>General note</head>
+                            <p>From L - R: Zeke Steine, George England, Roy Langford</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>Art work found on most planes done by Airforce techs for a few dollars. Leyte, Phillipines</unittitle>
+                            <unitid>VHP2006/8.III.20</unitid>
+                            <unitdate normal="1945/1945">March 1945</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref13" level="subseries">
+                    <did>
+                        <unittitle>Subseries B: Moving Images</unittitle>
+                        <unitid>VHP2006/8.IIIb</unitid>
+                    </did>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>Oral history interview with George W. England</unittitle>
+                            <unitid>VHP2006/8.IIIb.1</unitid>
+                            <container id="cid60028" type="Disk" label="Computer disks / tapes">DVD VHP2006/8</container>
+                            <container parent="cid60028" type="Box">VHP Interview 2006</container>
+                            <unitdate normal="2006/2006">Apr. 8, 2006</unitdate>
+                            <origination label="creator">
+                                <persname rules="local" source="local" role="Interviewer (ivr)">Pereira,  Lisa</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

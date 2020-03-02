@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.sjsedgwick">beinecke.sjsedgwick</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the S. J. Sedgwick Collection </titleproper>
+            <subtitle>S. J. Sedgwick collection</subtitle>
+            <author>Sarah Lerner</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>March 2019</date>
+            <num>WA MSS S-2360</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 30, 2019 at 03:01</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>S. J. Sedgwick collection</unittitle>
+         <unitid>WA MSS S-2360</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.13</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">3 boxes + 2 broadside + 1 portfolio</physdesc>
+         
+            <unitdate type="inclusive" normal="1868/1895">1868-1895</unitdate>
+         
+         <abstract id="aspace_02bd899c875b09789f3e59fe64485960">The S. J. Sedgwick Collection consists of manuscript notes and drafts for several of S. J. Sedgwick's slide lectures on the West ("Big Trees and Yosemite Valley," "Central Pacific Railroad," "Indians," and "Monterey, California") and one on geology; the manuscript draft and later proofs of the 4th edition of "Announcement of Professor S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery of ... the Rocky and Sierra Mountains...", produced by the Union Pacific Railroad Company; and a scrapbook documenting his work for George A. Crofutt, publisher of a series of western travel guides. There are also printed bills and advertisements for Sedgwick's lectures. Both woodcuts and printed maps are included in the collection.</abstract>
+         <origination label="creator">
+            <persname role="aut" rules="aacr" source="local">
+               Sedgwick, S. J. (Stephen James)
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n87915260"
+                      role="oth"
+                      source="naf">
+               Crofutt, George A.
+            </persname>
+         </origination>
+      </did>
+      <accessrestrict id="aspace_092a310f57e81a04c1447a70b1fd283c">
+         <head>Conditions Governing Access</head>
+         <p>This collection is open for research</p>  
+      </accessrestrict>
+      <acqinfo id="aspace_e3ddd51fdbf7b27ac104c7445d8de542">
+         <head>Immediate Source of Acquisition</head>
+         <p>Materials acquired by gift and purchase from various sources as indicated on individual folders. Source information is recorded in the finding aid or on the folders. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <arrangement id="aspace_91cf0b36dfd7201eda1c63b67f85e95d">
+         <head>Arrangement</head>
+         <p>Organized into six series: I. Correspondence, 1871-1895. II. Scrapbook, 1869-1886. III. Lectures, 1870-1890, undated. IV. Advertisements, 1868-1882, undated. V. Lantern Slide Catalogs, 1876, undated. VI. Other Papers, undated.</p>  
+      </arrangement>
+      <bioghist id="aspace_620f5ad8cf6d55607bed84d1721340d7">
+         <head>S. J. Sedgwick </head>
+         <p>S. J. Sedgwick was born near Geneva, New York, circa 1820. He became a principal in the Buffalo public school system at age 22, and went on to establish his own school, the Metropolitan Academy and Gymnasium, in New York City in 1852. He also edited the "Gymnast," a paper dedicated to physical education. In 1857, he received a Master's Degree from Union College, and taught in New York City public schools from 1858 until the Civil War. Following the war, he joined the photographic corps of the Union Pacific Railroad Company. When he returned to New York, he developed a popular series of lantern slide lectures called "Across the Continent," showing the West from Omaha to the Pacific. In 1873, Sedgwick worked as an agent for "Crofutt's Trans-Continental Tourists' Guide," travelling again throughout the West. Sedgwick also lectured on world religions, geology, astronomy, and art history.</p>  
+      </bioghist>
+      <prefercite id="aspace_8dbc833559a6e99759a564197540fa73">
+         <head>Preferred Citation</head>
+         <p>S. J. Sedgwick Collection. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <processinfo id="aspace_3480ab51a2df53307e1fd01581419744">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected. The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>These materials have been arranged and described according to national and local standards. For more information, please refer to the Beinecke Manuscript Unit Processing Manual.</p>  
+      </processinfo>
+      <scopecontent id="aspace_d73cdd4c7f58ee0236afb33193fd6c57">
+         <head>Scope and Contents</head>
+         <p>The S. J. Sedgwick Collection contains manuscript notes and texts for 4 of S. J. Sedgwick's slide lectures on the West ("Big Trees and Yosemite Valley," "Central Pacific Railroad," "Indians," and "Monterey, California") and one on geology, as well as the manuscript draft and later proofs of the 4th edition of "Announcement of Professor S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery of ... the Rocky and Sierra Mountains...", produced by the Union Pacific Railroad Company. There are also 2 photographs of the State of Washington ferry; a scrapbook documenting Sedgwick's work for George A. Crofutt, and a scrapbook documenting his work for George A. Crofutt, publisher of a series of western travel guides, which includes his contract, diary entries, correspondence with Crofutt, clippings, and 2 printed maps; other business correspondence; printed bills and advertisements for the "Across the Continent" series and other lectures, many with woodcut illustrations after photographs; photographers' lists of lantern slides available for sale; and other papers.</p>  
+      </scopecontent>
+      <userestrict id="aspace_8e3f956214ad292573121d1b98724ba8">
+         <head>Conditions Governing Use</head>
+         <p>The S. J. Sedgwick Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85065184"
+                  source="lcsh">
+            Indians of North America
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85054113"
+                  source="lcsh">
+            Geology, Stratigraphic -- Silurian
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300193993" source="aat">
+            Advertisements
+         </genreform>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85075675"
+                  source="lcsh">
+            Lecturers
+         </subject>
+         <subject source="lcsh">
+            Stereoscopic views -- Catalogs
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/names/n81029000"
+                  source="lcsh">
+            Union Pacific Railroad Company
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh2008117423"
+                   source="lcsh">
+            West (U.S.) -- Pictorial works
+         </geogname>
+         <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026198"
+                    source="lcsh">
+            Trade catalogs
+         </genreform>
+         <occupation source="local">
+            Naturalists
+         </occupation>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85105523"
+                  source="lcsh">
+            Posters
+         </subject>
+         <subject authfilenumber="http://id.loc.gov/authorities/names/n85181590"
+                  source="lcsh">
+            Central Pacific Railroad Company
+         </subject>
+         <geogname source="lcsh">
+            Monterey (Calif.) -- Description and travel
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85149248"
+                   source="lcsh">
+            Yosemite Valley (Calif.) -- Description and travel
+         </geogname>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300041405" source="aat">
+            Woodcuts (prints)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300028094" source="aat">
+            Maps (documents)
+         </genreform>
+      </controlaccess>
+      <dsc>
+         <c id="aspace_3adeaf0797e3eab87fcf1a80eaa694f3" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1871-1895</unitdate>
+            </did>
+            <arrangement id="aspace_e020d036330fb24334b2efa1b6b76c5b">
+               <head>Arrangement</head>
+               <p>Series I is arranged chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_993fe3ed7ea93ea9de7a90852f9f347f">
+               <head>Scope and Contents</head>
+               <p>Series I contains business correspondence pertaining to S. J. Sedgwick's "Across the Continent" lecture series.</p>
+            </scopecontent>
+            <c id="aspace_47d1e8493e6618cdea6edf5a0d50eca9" level="file">
+               <did>
+                  <unittitle>Business correspondence, on pages once part of a scrapbook, arranged chronologically</unittitle>
+                  <unitdate type="inclusive">1871-1895</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_f5be775a6505d7f4faf6b583c3b82d3f"
+                             type="box">1</container>
+                  <container id="aspace_a37769447c440467c1f9a34b52c59375"
+                             type="folder"
+                             parent="aspace_f5be775a6505d7f4faf6b583c3b82d3f">1</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_08eab3d10e9033f6b7c5fd2c89567c67" level="series">
+            <did>
+               <unittitle>Scrapbook</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1869-1886</unitdate>
+            </did>
+            <arrangement id="aspace_df829db1bb5756f154c8818d40782647">
+               <head>Arrangement</head>
+               <p>Series II is arranged alphabetically.</p>
+            </arrangement>
+            <scopecontent id="aspace_219ff157552943b8b30b4aa58c1b5479">
+               <head>Scope and Contents</head>
+               <p>Series II consists of scrapbooks belonging to S. J. Sedgwick. Included are Sedgwick's contract, diary entries, correspondence with George A. Crofutt, and loose clippings.</p>
+            </scopecontent>
+            <c id="aspace_fe0ee3f0ac88d93d7443a5e129a12c43" level="file">
+               <did>
+                  <unittitle>"Crofutt's Trans-Continental Tourists' Guide," scrapbook documenting work as a Crofutt agent</unittitle>
+                  <unitdate type="inclusive">1873</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_64c607c0aa4d799d8072109e01807b8b"
+                             type="box">1</container>
+                  <container id="aspace_565e8e8c6997843f051812679da7dc04"
+                             type="folder"
+                             parent="aspace_64c607c0aa4d799d8072109e01807b8b">2</container>
+               </did>
+            </c>
+            <c id="aspace_4634b1cac401fd6d940a73f9523fc330" level="file">
+               <did>
+                  <unittitle>Loose clippings received from between pages 35-36 of scrapbook (preservation copies)</unittitle>
+                  <unitdate type="inclusive">1869-1886</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_ab12369388cfe4755bc57aa3a3729b73"
+                             type="box">1</container>
+                  <container id="aspace_9debfbd1df68ad95b4f9810b7a3147a6"
+                             type="folder"
+                             parent="aspace_ab12369388cfe4755bc57aa3a3729b73">3</container>
+               </did>
+            </c>
+            <c id="aspace_945b3b339895626dfc94a11542a7b321" level="file">
+               <did>
+                  <unittitle>Loose clippings received from between pages 35-36 of scrapbook (originals)</unittitle>
+                  <unitdate type="inclusive">1869-1886</unitdate>
+                  <container label="Mixed Materials (39002091347261)"
+                             id="aspace_a43b4f186478ce862fad9944ca72ea24"
+                             type="box">4 (Portfolio)</container>
+                  <container id="aspace_daf8e133ca56f09e406cc776d26a0ab7"
+                             type="folder"
+                             parent="aspace_a43b4f186478ce862fad9944ca72ea24">28</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_7a6f60f86a0fb9eb262c81151c5ac6a5" level="series">
+            <did>
+               <unittitle>Lectures</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1870-1890, undated</unitdate>
+            </did>
+            <arrangement id="aspace_458dd7bddfebb07782ec873256f575e2">
+               <head>Arrangement</head>
+               <p>Series III is arranged chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_18ad1e8375769d6b2026c3655997f8ea">
+               <head>Scope and Contents</head>
+               <p>Series III consists of manuscript notes and texts for 4 of S. J. Sedgwick's slide lectures. Included is a manuscript draft--accompanied by later proofs--of the 4th edition of "Announcement of Professor S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery of ... the Rocky and Sierra Mountains...".</p>
+            </scopecontent>
+            <c id="aspace_3fe01194f1d2aa9075acc096653f430e" level="file">
+               <did>
+                  <unittitle>"Central Pacific Rail Road," manuscript text for slide lecture, Newtown [New York]</unittitle>
+                  <unitdate type="inclusive">1870 February</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_351edd77d77cdce9fb4ba80f0a9e9e3e"
+                             type="box">1</container>
+                  <container id="aspace_b199418e7e96ca47aab8206587227b06"
+                             type="folder"
+                             parent="aspace_351edd77d77cdce9fb4ba80f0a9e9e3e">4</container>
+               </did>
+            </c>
+            <c id="aspace_ae593dc1ba3c8d9ca587c2b27206ac30" level="file">
+               <did>
+                  <unittitle>"Indians," manuscript text for slide lecture, Newtown</unittitle>
+                  <unitdate type="inclusive">1871 January</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_402c720dfc88f4d065fb3d3302577adf"
+                             type="box">1</container>
+                  <container id="aspace_b89afe57c0e7d8a0369f0897789e9d53"
+                             type="folder"
+                             parent="aspace_402c720dfc88f4d065fb3d3302577adf">5</container>
+               </did>
+            </c>
+            <c id="aspace_1e23177b897e6a378161523fb718775d" level="file">
+               <did>
+                  <unittitle>Announcement of Prof. S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery in all Parts of the Rocky Mountains, between Omaha and Sacramento</unittitle>
+                  <unitdate type="inclusive">1874</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_621a2ca7cda2b8cc8a7b2e365953f464"
+                             type="box">1</container>
+                  <container id="aspace_b655db97f498bccfd07753ae029358b7"
+                             type="folder"
+                             parent="aspace_621a2ca7cda2b8cc8a7b2e365953f464">6</container>
+               </did>
+            </c>
+            <c id="aspace_02977349b1c7d512d161c14ee439a74e" level="file">
+               <did>
+                  <unittitle>Announcement of Prof. S. J. Sedgwick's illustrated course of lectures and catalogue of stereoscopic views of scenery in all parts of the Rocky and Sierra Nevada Mountains, between Omaha and San Francisco</unittitle>
+                  <unitdate type="inclusive">1876</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_dd68b5f4a6d9df7cfa994b96be72b376"
+                             type="box">1</container>
+                  <container id="aspace_f2e018c580081910c2803a445f5c69fe"
+                             type="folder"
+                             parent="aspace_dd68b5f4a6d9df7cfa994b96be72b376">7</container>
+               </did>
+            </c>
+            <c id="aspace_77fbe8d5d410b6369210d5b85befcde9" level="file">
+               <did>
+                  <unittitle>Announcement of Professor S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery in all Parts of the Rocky and Sierra Nevada Mountains between Omaha and San Francisco</unittitle>
+                  <unitdate type="inclusive">[1879]</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_43ebd763f4b93a04d035f725e7ec1e48"
+                             type="box">1</container>
+                  <container id="aspace_6fabe2580e91c17f0e6ba54407d0adde"
+                             type="folder"
+                             parent="aspace_43ebd763f4b93a04d035f725e7ec1e48">8</container>
+               </did>
+            </c>
+            <c id="aspace_9af8f68886dc53ad4e35b164606b72f6" level="file">
+               <did>
+                  <unittitle>Photographs of the State of Washington ferry showing the ferry going up and downstream for Announcement of Professor S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery in all Parts of the Rocky and Sierra Nevada Mountains between Omaha and San Francisco</unittitle>
+                  <unitdate type="inclusive">circa 1879</unitdate>
+                  <container label="Mixed Materials (39002098925622)"
+                             altrender="flat box  (15d 3h 19w)"
+                             id="aspace_713b3bc7220103a0e83054ef43f3edc5"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_6f65bd1ee9bc4326d7340dde56433e3e"
+                             type="folder"
+                             parent="aspace_713b3bc7220103a0e83054ef43f3edc5">21</container>
+               </did>
+            </c>
+            <c id="aspace_fcc1ac1c34289d2d3f3c87dc972360ea" level="file">
+               <did>
+                  <unittitle>Announcement of Prof. S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery in all Parts of Rocky and Sierra Nevada Mountains between Omaha and San Francisco</unittitle>
+                  <unitdate type="inclusive">1879-1880</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_423984f67e60e4d76beb9a978005ce63"
+                             type="box">2</container>
+                  <container id="aspace_0f454568318f9489385bb9edf66fe9b2"
+                             type="folder"
+                             parent="aspace_423984f67e60e4d76beb9a978005ce63">12</container>
+               </did>
+            </c>
+            <c id="aspace_0ea16051ae06883bc9f0c2536e6179ff" level="file">
+               <did>
+                  <unittitle>Announcement of Prof. S. J. Sedgwick's Illustrated Course of Lectures and Catalogue of Stereoscopic Views of Scenery in all Parts of the Rocky and Sierra Nevada Mountains between Omaha and San Francisco</unittitle>
+                  <unitdate type="inclusive">1879-1880</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_b5cece0880d24f4e4d07699a88f73031"
+                             type="box">2</container>
+                  <container id="aspace_f6fece1ca58e21a5a86bdff1115b2b86"
+                             type="folder"
+                             parent="aspace_b5cece0880d24f4e4d07699a88f73031">13</container>
+               </did>
+            </c>
+            <c id="aspace_abc3edbd1dfb4a05da0dc40b3868bfe0" level="file">
+               <did>
+                  <unittitle>"No. II. Big Trees &amp; Yosemite Valley," manuscript notes and text for slide lecture, Newtown</unittitle>
+                  <unitdate type="inclusive">1890 March</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_da9aae157eef4f17526661ef6090526f"
+                             type="box">1</container>
+                  <container id="aspace_54c5df8ca1564c7cf05df30285d43552"
+                             type="folder"
+                             parent="aspace_da9aae157eef4f17526661ef6090526f">9</container>
+               </did>
+            </c>
+            <c id="aspace_d8fcdaa8e9c64fa869e7a66db11dcf91" level="file">
+               <did>
+                  <unittitle>"Monterey, California," manuscript text for slide lecture, corrected</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_02248a85bc74fe759ffd7e24f06a9ff8"
+                             type="box">1</container>
+                  <container id="aspace_a95dbb9f4b66d608d0e923ea2ec3282a"
+                             type="folder"
+                             parent="aspace_02248a85bc74fe759ffd7e24f06a9ff8">10</container>
+               </did>
+            </c>
+            <c id="aspace_db59ff30208fed86a2da07d30df04aa8" level="file">
+               <did>
+                  <unittitle>"II. Lecture," manuscript text for geology lecture about the formation of the Earth and Silurian life forms</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347691)"
+                             altrender="archive half legal"
+                             id="aspace_cdff3505976c991f4e68ff9064f9698b"
+                             type="box">1</container>
+                  <container id="aspace_33eed2e76bd5c34ab540e4d68a3e2524"
+                             type="folder"
+                             parent="aspace_cdff3505976c991f4e68ff9064f9698b">11</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_b9a9e063f45af420ef77f15f3d746889" level="series">
+            <did>
+               <unittitle>Advertisements</unittitle>
+               <unitid>Series IV</unitid>
+               <unitdate type="inclusive">1868-1882, undated</unitdate>
+            </did>
+            <arrangement id="aspace_5b4afcd773be8f8f0407347fb605ea67">
+               <head>Arrangement</head>
+               <p>Series IV is arranged chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_e4366852482f9c2cc8104fa340d6f18d">
+               <head>Scope and Contents</head>
+               <p>Series IV consists of printed bills and advertisements for S. J. Sedgwick's "Across the Continent" series and other lectures.</p>
+            </scopecontent>
+            <c id="aspace_002977eac9b1ffaa482af3459f647a07" level="file">
+               <did>
+                  <unittitle>Printed advertisements for S. J. Sedgwick's "Across the Continent," religion, and art history lecture series</unittitle>
+                  <unitdate type="inclusive">1868-1882</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_006db2b88240fc5cc702d3bd8e301182"
+                             type="box">2</container>
+                  <container id="aspace_909b0d2b7ddf6663c93c6648f4dfb1ae"
+                             type="folder"
+                             parent="aspace_006db2b88240fc5cc702d3bd8e301182">14</container>
+               </did>
+            </c>
+            <c id="aspace_94859907acae0ae6f76b058de2c5250a" level="file">
+               <did>
+                  <unittitle>"Prof. S. J. Sedgwick, A.M., Respectfully announces [...]," flyer for "Across the Continent," Astoria</unittitle>
+                  <unitdate type="inclusive">1874 January</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_de062d4f67fba6594c43629e584e1c79"
+                             type="box">2</container>
+                  <container id="aspace_78e620c5af9096189962cfe799b61891"
+                             type="folder"
+                             parent="aspace_de062d4f67fba6594c43629e584e1c79">15</container>
+               </did>
+            </c>
+            <c id="aspace_5ae068b7dcee31e2a6d46abc9622c51f" level="file">
+               <did>
+                  <unittitle>"Third Grand Dime Entertainment [...]," flyer for S. J. Sedgwick's lecture series at the Cooper Institute, 2 copies</unittitle>
+                  <unitdate type="inclusive">1877 October 18</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_20313f67e7d8861f245af05054fbd412"
+                             type="box">2</container>
+                  <container id="aspace_c9fe6155cfbcf9cc3779c8fed15daa21"
+                             type="folder"
+                             parent="aspace_20313f67e7d8861f245af05054fbd412">16</container>
+               </did>
+            </c>
+            <c id="aspace_d5b41ca60cfb32160c15809bff4eb405" level="file">
+               <did>
+                  <unittitle>Poster for "Across the Continent" series</unittitle>
+                  <unitdate type="inclusive">1878 March</unitdate>
+                  <container label="Mixed Materials (39002091347592)"
+                             id="aspace_990d09f67bd229905fde3b24c1225c00"
+                             type="box">Broadside, folder 26</container>
+               </did>
+            </c>
+            <c id="aspace_74b00f759d4ac00e1685d3551ba72067" level="file">
+               <did>
+                  <unittitle>Manuscript text advertising S. J. Sedgwick's "Across the Continent" lecture series, Brooklyn</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_b531942715a0db5c583ab33b8336c301"
+                             type="box">2</container>
+                  <container id="aspace_7eb5084f05a7617c00586db9ea5e1c81"
+                             type="folder"
+                             parent="aspace_b531942715a0db5c583ab33b8336c301">17</container>
+               </did>
+            </c>
+            <c id="aspace_023c006c6c0259fbeb88a227fa268060" level="file">
+               <did>
+                  <unittitle>Printed advertisements or window cards for "Across the Continent," with woodcut illustrations</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098925622)"
+                             altrender="flat box  (15d 3h 19w)"
+                             id="aspace_600a8cfafe496e364750a7891a1f285c"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_892d804e6c5f491364b3536e76cf5b75"
+                             type="folder"
+                             parent="aspace_600a8cfafe496e364750a7891a1f285c">22</container>
+               </did>
+            </c>
+            <c id="aspace_339d6ef764e29c559f45775f276f9edd" level="file">
+               <did>
+                  <unittitle>Posters for "Across the Continent" series</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098925622)"
+                             altrender="flat box  (15d 3h 19w)"
+                             id="aspace_554a6e268b8c0bc0de17695aee34620e"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_04671f0104755620ed7cb9d757b3568a"
+                             type="folder"
+                             parent="aspace_554a6e268b8c0bc0de17695aee34620e">23</container>
+               </did>
+            </c>
+            <c id="aspace_0d019146fd09c5e1578e0b3ec9f888d1" level="file">
+               <did>
+                  <unittitle>Poster for "Across the Continent ," printed in red and blue, with manuscript corrections</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347600)"
+                             id="aspace_7c3f5b376dfec4a322c54b7fe019d833"
+                             type="box">Broadside, folder 27</container>
+               </did>
+            </c>
+            <c id="aspace_a08a885dec363e338439ea0780867d0f" level="file">
+               <did>
+                  <unittitle>Printed advertisements for slide lectures by Charles Harvey and E. O. Beaman (annotated)</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_1cfb0b340bfa242b9309c253272b8bf2"
+                             type="box">2</container>
+                  <container id="aspace_3e272fe5f1657edad7816098a100d473"
+                             type="folder"
+                             parent="aspace_1cfb0b340bfa242b9309c253272b8bf2">18</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_be25a9fcc5c0891bc7ca87429672f1d9" level="series">
+            <did>
+               <unittitle>Lantern Slide Catalogs</unittitle>
+               <unitid>Series V</unitid>
+               <unitdate type="inclusive">1876, undated</unitdate>
+            </did>
+            <arrangement id="aspace_fa835739b131886dfbd5389f9d23d1d4">
+               <head>Arrangement</head>
+               <p>Series V is arranged chronologically.</p>
+            </arrangement>
+            <scopecontent id="aspace_a5ab3e046cd75eaeeede897a15937da3">
+               <head>Scope and Contents</head>
+               <p>Series V consists of lantern slide catalogs of William I. Marshall and Wm. Notman &amp; Son.</p>
+            </scopecontent>
+            <c id="aspace_8f7daf8a9f3d0ad64f390043430b70ac" level="file">
+               <did>
+                  <unittitle>William I. Marshall, "Photographs of Wonderland, or Views in the Yellowstone National Park," list</unittitle>
+                  <unitdate type="inclusive">1876</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_df6046658db1fe81dad6dbb09c743af0"
+                             type="box">2</container>
+                  <container id="aspace_3ffa8427602b11df024f1e4241377e30"
+                             type="folder"
+                             parent="aspace_df6046658db1fe81dad6dbb09c743af0">19</container>
+               </did>
+            </c>
+            <c id="aspace_a4ac104a46aff8805b215c973a30ccca" level="file">
+               <did>
+                  <unittitle>Wm. Notman &amp; Son, Montreal, list of slides of Manitoba, North West and Pacific, annotated</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098925622)"
+                             altrender="flat box  (15d 3h 19w)"
+                             id="aspace_2a21018005dd6b31fd38b8322f653d58"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_63f89dac06df4193ce31b5dd0482f3c4"
+                             type="folder"
+                             parent="aspace_2a21018005dd6b31fd38b8322f653d58">24</container>
+               </did>
+            </c>
+         </c>
+         <c id="aspace_52551a644dc38532f4534f0e5017ceac" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series VI</unitid>
+               <unitdate type="inclusive">undated</unitdate>
+            </did>
+            <arrangement id="aspace_26f62dde0865a12da358a61ed22d0eca">
+               <head>Arrangement</head>
+               <p>Series VI arranged alphabetically.</p>
+            </arrangement>
+            <scopecontent id="aspace_9939fdc0263ee27ce27c6063a764213a">
+               <head>Scope and Contents</head>
+               <p>Series VI consists of S. J. Sedgwick's manuscript notes and woodcut illustrations made by J. D. Woodward.</p>
+            </scopecontent>
+            <c id="aspace_aa95d8b8153a5dddd1b398fbd34fc473" level="file">
+               <did>
+                  <unittitle>Manuscript notes and lists of people</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002091347253)"
+                             altrender="archive half legal"
+                             id="aspace_62652dd1815cd1ec90da61a8d486112b"
+                             type="box">2</container>
+                  <container id="aspace_6fa37289ec6823f5383ee570ae63e026"
+                             type="folder"
+                             parent="aspace_62652dd1815cd1ec90da61a8d486112b">20</container>
+               </did>
+            </c>
+            <c id="aspace_19a4d986c350c55338ea5e63130400b5" level="file">
+               <did>
+                  <unittitle>Woodcut illustrations of scenes in Virginia by J. D. Woodward</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002098925622)"
+                             altrender="flat box  (15d 3h 19w)"
+                             id="aspace_0f6649d75379615aeb387e485eafc226"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_ce13f8304587636ce6c6958c079f1dcc"
+                             type="folder"
+                             parent="aspace_0f6649d75379615aeb387e485eafc226">25</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

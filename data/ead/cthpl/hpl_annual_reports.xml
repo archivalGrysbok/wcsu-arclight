@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="eadcbs9.xsl"?>
+<ead relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2" audience="internal" countryencoding="iso3166-1"
+        dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="cthpl"
+            url="http://hhc2.hplct.org/hpl_annual_reports.html">hpl_annual_reports</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Hartford Public Library Annual Reports</titleproper>
+                <subtitle encodinganalog="245$b">A Guide to the collection at the Hartford History
+                    Center</subtitle>
+                <author>Maureen Heher</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Hartford History Center, Hartford Public Library</publisher>
+                <address>
+          <addressline>500 Main Street</addressline>
+          <addressline>Hartford, CT 06103</addressline>
+        </address>                                                                                                                                                                                      
+                <p>Copyright 2018, Hartford Public Library</p>
+                <date>November 2018</date>
+            </publicationstmt>
+        </filedesc> 
+        <profiledesc>
+            <creation>Created by Kathy Foulke, <date>May 2018</date>.</creation>
+            <langusage>Finding aid is in English.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Collection Overview</head>
+            <repository encodinganalog="852$a" label="Repository:">
+                <corpname>Hartford History Center, Hartford Public Library </corpname>
+                <address>
+          <addressline>Hartford, Connecticut</addressline>
+        </address>
+            </repository>
+            <origination encodinganalog="110" label="Creator:">Hartford Public Library</origination>
+            <unittitle encodinganalog="245$a" label="Title:">Hartford Public Library Annual Reports</unittitle>
+            <unitdate encodinganalog="245$f" label="Dates: ">1840-2018</unitdate>
+            <physdesc encodinganalog="300$a" label="Extent:">
+                <extent>6 boxes</extent>
+            </physdesc>
+            <abstract encodinganalog="520$a" label="Abstract:">Collection comprises the published annual reports for what is now the Hartford Public Library, from 1840 to the present (2 copies of each year when possible).</abstract>
+            <physloc label="Location:" altrender="Location:">HHC Closed Stacks, Range 39</physloc>
+            <langmaterial encodinganalog="546">English</langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>The Hartford Public Library can trace its roots back to 1774 when a group of prominent Hartford residents established the Library Company. The name was changed to the Hartford Library Company in 1799 and met in the Grammar School House and its first librarian was Solomon Porter, a Yale graduate and principal of the Grammar School.  In 1838, the Hartford Young Men’s Institute invited the Hartford Library Company subscribers to join them and offered them lifetime membership.  The Hartford Young Men’s Institute moved into the new Wadsworth Atheneum building in 1844 along with the fine arts gallery, the Watkinson Library, the Connecticut Historical Society and the Hartford Art School.  In 1875, the Hartford Young Men’s Institute hired Caroline Hewins as its head librarian. In 1878, The Hartford Young Men’s Institute changed its name to the Hartford Library Association.  By the late 1880’s the need for a free public library was recognized. On September 15, 1892 the city began appropriating tax money for free library service.  On May 3, 1893, by a special act of the General Assembly, the library became the Hartford Public Library.  The Hartford Public Library continues to operate under the original charter granted to the Hartford Young Men’s Institute in 1839.</p>
+        </bioghist>
+       
+        <scopecontent encodinganalog="520$a">
+            <head>Scope and Content</head>
+            
+            <p>This collection contains the annual reports for the organization known originally as the Hartford Young Men’s Institute 1839-1878, then the Hartford Library Association 1878 - 1893 and then the Hartford Public Library 1893 - present.  The Reports begin in 1840 and continue to the present with only the years 1842, 1843, 1845, 1859, 1863, 1867, 1881 missing.</p>
+                              
+        </scopecontent>
+        <accessrestrict>
+            <head>Access Restrictions</head>
+            <p>The records are stored in a restricted area and therefore may not be available on a
+                same-day basis. </p>
+        </accessrestrict>
+        <arrangement><head>Arrangement</head>
+            <p>The Annual Reports are arranged chronologically beginning with 1840.  Where possible, two copies of each report have been processed.</p>
+        </arrangement>
+        
+        <userestrict>
+            <head>Use Restrictions</head>
+            <p>See Hartford History Center’s Collection Use policy. Permission to publish from the collection must be obtained in writing from the Executive Director of the Hartford History Center, and a copy of the published work may be requested by the Hartford History Center. The Hartford History Center reserves the right to refuse permission to publish, etc. to those who have not complied with its policies. Use of the collections will normally not be permitted for the purpose of promotion of commercial products and services or political campaigns. Hartford History Center at Hartford Public Library reserves the right to limit the number of photographic prints/captures and to restrict the use or reproduction of rare, fragile, or valuable objects.
+            </p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>Item, Collection Title. Hartford History Center,
+                Hartford Public Library, Hartford, Connecticut.</p>
+        </prefercite>
+        <processinfo>
+            <head>Processing Details</head>
+            <p>EAD Finding Aid created in 2018.</p>
+        </processinfo>
+        <controlaccess>
+            <head>Subject Headings</head>
+            <controlaccess>
+                <head>Corporate Names</head>
+                <corpname encodinganalog="610">Hartford Young Men’s Institute</corpname>
+                <corpname encodinganalog="610">Hartford Library Association</corpname>
+                <corpname encodinganalog="610">Hartford Public Library</corpname>
+            </controlaccess>
+             <controlaccess>
+                <head>Subjects</head>
+                 <subject encodinganalog="610" >
+                 </subject>
+                 <subject encodinganalog="610" >
+                 </subject>
+                 <subject encodinganalog="610" >
+                 </subject>
+                 <subject encodinganalog="610" > 
+                 </subject>
+                <subject encodinganalog="650" >Private libraries
+                </subject>
+                <subject encodinganalog="650" >Public libraries
+                </subject>
+            </controlaccess>
+            <controlaccess><head>Geographic Terms</head>
+                <geogname>Hartford (Conn.)</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <subject encodinganalog="655">Annual reports</subject>                   
+            </controlaccess>                
+        </controlaccess>
+        <dsc type="combined">
+            <head>Contents:</head>
+            
+            <c01 level="series">
+                <did><unitid>Annual Reports</unitid></did>
+                
+                <c02><did>
+                    <container type="Box">1</container>
+                    <unittitle>Hartford Young Men’s Institute, </unittitle>
+                    <unitdate>1840-1851</unitdate>
+                </did>
+                    <note><p>Executive Committee reports covering the yearly business of the library, lists of members, gifts, lectures, concerts and exhibitions., </p></note></c02>
+                
+           
+            
+            
+                <c02><did>
+                    <container type="Box">1 &amp; 2</container>
+                    <unittitle>Hartford Young Men’s Institute / Henry M. Bailey, Librarian, </unittitle>
+                    <unitdate>1846–1868</unitdate>
+                </did>
+                <note><p>Executive Committee reports covering the yearly business of the library, lists of members, gifts, lectures, concerts and exhibitions.</p></note>
+                </c02>
+          
+            <c02>
+                <did>
+                    <container type="Box">2</container>
+                    <unittitle>Hartford Young Men’s Institute / Caroline Hewins, Librarian, </unittitle>
+                    <unitdate>1875-1877</unitdate>
+                </did>
+                <note><p>Executive Committee reports covering the yearly business of the library.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">2</container>
+                    <unittitle>Hartford Library Association / Caroline Hewins, Librarian, </unittitle>
+                    <unitdate>1878-1893</unitdate>
+                </did>
+                <note><p>Executive Committee reports covering the yearly business of the library, discussions about the need for community outreach and free public library service, early childhood intervention for a more literate population.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">2 &amp; 3</container>
+                    <unittitle>Hartford Public Library / Caroline Hewins, Librarian, </unittitle>
+                    <unitdate>1893-1926</unitdate>
+                </did>
+                <note><p>Branch libraries within city schools and neighborhoods, circulation statistics, waves of immigration and non-English speaking populations, circulation of foreign language materials, discussions of epidemics of diphtheria, scarlet fever, measles, smallpox and influenza and how circulating books could contribute to the spread of these diseases, discussions about effects of World War I on library use, the value and need of the public library as educator of the population in a democratic society.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">3 &amp; 4</container>
+                    <unittitle>Hartford Public Library / Truman R. Temple, Librarian, </unittitle>
+                    <unitdate>1927-1943</unitdate>
+                </did>
+                <note><p>Expanded work with the foreign born establishing a special department highlighting the library’s job of “Americanization” of immigrants. The opening of a Business Branch Library which strived to meet the increasingly specific demands of the booming business community in Hartford, library expanded its branch library system, delivery truck and telephones helped to facilitate circulation between the Main Library and the branch libraries, the effects of the Great Depression and chronic unemployment, discuss the need for a new, modern central library building, dedicated space and services for teenagers, new ideas about the needs of the African American population, the role of the library as life-long educator, a preserver of freedom and democracy in the face of aggressive fascism at the onset and during World War II.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">4 &amp; 5</container>
+                    <unittitle>Hartford Public Library / Magnus K. Kristoffersen, Librarian, </unittitle>
+                    <unitdate>1943-1960</unitdate>
+                </did>
+                <note><p>Plans for post war service needs for returning soldiers, needs of the growing African American population, continued discussion about the real need for a new central library building and the Hartford Collection was formed to collect and preserve the history of the city.  The branch library system continued to expand, The city voted to support the bond issue and by 1954, construction began on the new building designed by Schutz and Goodwin, The building opened to the public on January 2, 1957</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">5</container>
+                    <unittitle>Hartford Public Library / Edwin Jackson, Librarian, </unittitle>
+                    <unitdate>1961-1973</unitdate>
+                </did>
+                <note><p>Reports document the neighborhood population shifts that occurred due to public housing, Students and children became the largest group using the library, 50% of the school population non-white and from non-reading households.  In response, the Library focused on pre-school story hours, library staff visits to schools, summer reading programs, cultural and fine arts performances.  The social unrest of the late1960’s and early 1970’s, saw a drop in evening hour use due to increased street crime, need for alarm systems and guard services. 1970’s the library began hiring Spanish speaking staff to better communicate with library users.  The financial downturns took a toll with nearly 20% of the library’s budget cut resulting in reduction of hours, services and layoffs.  During the same period, the library saw the introduction of computers and increasingly professional library practices.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">5 &amp; 6</container>
+                    <unittitle>Hartford Public Library / Wilbur B. Crimmin, Librarian, </unittitle>
+                    <unitdate>1973-1983</unitdate>
+                </did>
+                <note><p>Reports highlight changing neighborhood demographics, modern language materials needed to serve changing populations, the Library’s emphasis on literacy, the development of Affirmative Action Plans and Collective Bargaining contracts with library staff.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">6</container>
+                    <unittitle>Hartford Public Library / John S. Burgan, Librarian, </unittitle>
+                    <unitdate>1984-1994</unitdate>
+                </did>
+                <note><p>Reports highlight library statistics and financial data.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <container type="Box">6</container>
+                    <unittitle>Hartford Public Library / Louise Blalock, Librarian, </unittitle>
+                    <unitdate>1994-2008</unitdate>
+                </did>
+                <note><p>Reports highlight funding of the Hartford Collection, library going online with a system named INNOPAC, addition to and renovation of the Central Library building, trying to bridge the digital divide with Internet access for all and computer skills training, focus on family literacy, homework help, and late night hours for tech support and reference services.</p></note>
+            </c02>
+            <c02>
+                <did>
+                    <unittitle>Hartford Public Library / Matthew K. Poland, Librarian, </unittitle>
+                    <unitdate>2009-2016</unitdate>
+                </did>
+            </c02>
+            <c02>
+                <did>
+                    <unittitle>Hartford Public Library / Bridget Quinn-Carey, Librarian, </unittitle>
+                    <unitdate>2009-2016</unitdate>
+                </did>
+            </c02>
+            </c01>
+            
+        </dsc>    
+    </archdesc>
+</ead>

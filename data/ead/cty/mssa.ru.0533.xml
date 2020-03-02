@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.0533">mssa.ru.0533</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Yale Club of Boston Records
+ </titleproper>
+            <titleproper type="filing">Yale Club of Boston Records</titleproper>
+            <author>compiled by Staff of Manuscripts and Archives</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University. Department of Manuscripts and Archives</publisher>
+            <address>
+               <addressline>Yale University Library</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">mssa.assist@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://www.library.yale.edu/mssa/"
+                          xlink:title="http://www.library.yale.edu/mssa/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>June 2006</date>
+            <num>RU 533</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Friday January 11, 2019 at 08:48</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Yale Club of Boston records</unittitle>
+         <unitid>RU 533</unitid>
+         <repository>
+            <corpname>
+               Yale University. Department of Manuscripts and Archives
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">0.25</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(1 box)</physdesc>
+         
+            <unitdate type="inclusive" normal="1923/1930">1923-1930</unitdate>
+         
+         <abstract id="aspace_87505e746cf6c547fc482b40d8d66942">The records consist of two guest registers.</abstract>
+         <origination label="creator">
+            <corpname rules="aacr" source="local">
+               Yale Club of Boston
+            </corpname>
+         </origination>
+    
+      </did>
+      <odd id="aspace_72ae4e3f92014d5b9b744537ada5ad02">
+         <head>General note</head>
+         <p>Forms part of Yale Record Group 8-C-2 (YRG 8-C-2), Records of Yale regional alumni organizations.</p>  
+      </odd>
+      <prefercite id="aspace_9e2eb4e7eb8937e783b6aa3dc71ef1c8">
+         <head>Preferred Citation</head>
+         <p>Yale Club of Boston Records (RU 533). Manuscripts and Archives, Yale University Library.</p>  
+      </prefercite>
+      <accessrestrict id="aspace_11697f44f6aa5cd182cb49e379d72f6a">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <arrangement id="aspace_9674930edcbb8639a5f9969fb822bfed">
+         <head>Arrangement</head>
+         <p>The records are arranged chronologically.</p>  
+      </arrangement>
+      <scopecontent id="aspace_b71efa32fd04d4dabfc70f403967e757">
+         <head>Scope and Contents</head>
+         <p>The records consist of two guest registers.</p>  
+      </scopecontent>
+      <controlaccess>
+         <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141093"
+                  source="lcsh">
+            Universities and colleges -- Alumni and alumnae
+         </subject>
+         <corpname rules="aacr" source="local">
+            Yale Club of Boston
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University -- Alumnae and alumnae -- Societies, etc.
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref8" level="series">
+            <did>
+               <unittitle>Records</unittitle>
+               <unitid>Accession 1966-A-003</unitid>
+               <unitdate type="inclusive">1923-1930</unitdate>
+            </did>
+            <c id="ref9" level="file">
+               <did>
+                  <unittitle>Register</unittitle>
+                  <unitdate type="inclusive">1923-1925</unitdate>
+                  <container label="Mixed Materials (39002042743600)"
+                             altrender="legacy black"
+                             id="aspace_8adae55f2559b283a6b9037945ef7d66"
+                             type="box">1</container>
+                  <container id="aspace_15c8387ea3cb9772886fc9c9b4dd870c"
+                             type="folder"
+                             parent="aspace_8adae55f2559b283a6b9037945ef7d66">1</container>
+               </did>
+            </c>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Register</unittitle>
+                  <unitdate type="inclusive">1926-1930</unitdate>
+                  <container label="Mixed Materials (39002042743600)"
+                             altrender="legacy black"
+                             id="aspace_c55649902e12ae6185b37f18774ad398"
+                             type="box">1</container>
+                  <container id="aspace_824daec15c8bf79fd8ce3ef0f63fbf41"
+                             type="folder"
+                             parent="aspace_c55649902e12ae6185b37f18774ad398">2</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

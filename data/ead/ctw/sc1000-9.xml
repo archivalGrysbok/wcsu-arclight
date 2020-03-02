@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-9::Elmer Eric Schattschneider Papers)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/sc1000-9.html">sc1000-9</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Elmer Eric <emph render="doublequote">E. E.</emph> Schattschneider Papers,
+		<lb/><date normal="1901/1971 (bulk 1955-1971)">1901 - 1971 (bulk 1955-1971)</date>
+		</titleproper>
+        <author>Processed by: Jeffrey Makala; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2006" encodinganalog="date">© 2006</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: November 2006</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Elmer Eric "E. E." Schattschneider Papers, <date type="span">1901 - 1971 (bulk 1955-1971)</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2006">© 2006</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository"> 
+<corpname>Special Collections &amp; Archives, Wesleyan University</corpname></repository> 
+
+<origination label="Creator"><persname encodinganalog="100">Schattschneider, E. E. (Elmer Eric), 1892-1971.</persname></origination><unittitle label="Title" encodinganalog="245">Elmer Eric "E. E." Schattschneider Papers, <unitdate normal="1901/1971 (bulk 1955-1971)" type="inclusive">1901 - 1971 (bulk 1955-1971)</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-9</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">13</extent></physdesc><physdesc label="Archival Boxes"><extent>14</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">Schattschneider was the author of numerous books and articles about American government and American political parties. Schattschneider was president of the American Political Science Association (1956-57), and spent the majority of his career (1930-71) teaching at Wesleyan University.</abstract><abstract encodinganalog="520">The E. E. Schattschneider Papers include correspondence, speeches and writings, student projects from Schattschneider's seminars on performing local community surveys, subject files of background material and notes for individual books as well as general subject files, family photographs, a documentary film written and presented by Schattschneider, and a collection of books annotated by Schattschneider.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Elmer Eric "E. E." Schattschneider Papers, Collection #1000-9, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired by Clement E. Vose following Schattschneider's death and kept by Vose as an unprocessed collection within the Collection on Legal Change.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Jeffrey Makala, 2000</p>
+        <p>Encoded by Valerie Gillispie, November 2006</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Biographical Note</head>
+      <p>
+
+</p>
+      <chronlist>
+        <head>Chronology List</head>
+        <chronitem>
+          <date>1892</date>
+          <event>Born, Bethany MN, August 11.</event>
+        </chronitem>
+        <chronitem>
+          <date>1915</date>
+          <event>A.B., University of Wisconsin. Phi Beta Kappa.</event>
+        </chronitem>
+        <chronitem>
+          <date>1916</date>
+          <event>Works for the YMCA for two years.</event>
+        </chronitem>
+        <chronitem>
+          <date>1918</date>
+          <event>Serves in the Navy for one year.</event>
+        </chronitem>
+        <chronitem>
+          <date>1919</date>
+          <event>Teaches at Senior High School, Butler PA, until 1926.</event>
+        </chronitem>
+        <chronitem>
+          <date>1926</date>
+          <event>Wallace Fellow in Political Science, University of Pittsburgh.</event>
+        </chronitem>
+        <chronitem>
+          <date>1927</date>
+          <event>M.A., University of Pittsburgh.</event>
+        </chronitem>
+        <chronitem>
+          <date>1927-1930</date>
+          <event>Instructor in Government, Columbia University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1929-1930</date>
+          <event>Assistant Professor of Political Science, New Jersey College for Women (now Rutgers University)</event>
+        </chronitem>
+        <chronitem>
+          <date>1930-1935</date>
+          <event>Assistant Professor of Government, Wesleyan University</event>
+        </chronitem>
+        <chronitem>
+          <date>1935</date>
+          <event>Ph.D., Columbia University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1935-1939</date>
+          <event>Associate Professor of Government, Wesleyan University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1938-1940</date>
+          <event>Member, City Council, Middletown CT.</event>
+        </chronitem>
+        <chronitem>
+          <date>1939-1960</date>
+          <event>John E. Andrus Professor of Government, Wesleyan University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1940-1946</date>
+          <event>Member, [Connecticut] State Board of Mediation and Arbitration.</event>
+        </chronitem>
+        <chronitem>
+          <date>1944-1952</date>
+          <event>Member, Board of Directors, The Rockfall Corporation, Middletown CT.</event>
+        </chronitem>
+        <chronitem>
+          <date>1946-1951</date>
+          <event>Consultant Editor, Rinehart &amp; Co.</event>
+        </chronitem>
+        <chronitem>
+          <date>August 1949</date>
+          <event>Travels to Germany as a <emph render="doublequote">visiting expert</emph> for the U.S. Army of Occupation.</event>
+        </chronitem>
+        <chronitem>
+          <date>1949-1950</date>
+          <event>Visiting professor at Syracuse University supervising the studies of 20 visiting German students.</event>
+        </chronitem>
+        <chronitem>
+          <date>1949</date>
+          <event>Chair, Committee on Political Parties, American Political Science Association. Report of the committee was published in 1950 as <title render="doublequote">Toward a More Responsible Two-Party System.</title></event>
+        </chronitem>
+        <chronitem>
+          <date>1950-1955</date>
+          <event>Member, Board of Directors, Long Lane School, Middletown CT. President of Board, 1953-1955.</event>
+        </chronitem>
+        <chronitem>
+          <date>1951</date>
+          <event>Chair, Governor's Commission of Community Adjustment Problems.</event>
+        </chronitem>
+        <chronitem>
+          <date>1953-1954</date>
+          <event>Vice-president, American Political Science Association.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955-1961</date>
+          <event>Chair, Public Affairs Center, Wesleyan University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1955</date>
+          <event>Receives Moravian College Annual Alumni Award.</event>
+        </chronitem>
+        <chronitem>
+          <date>1956-1957</date>
+          <event>President, American Political Science Association.</event>
+        </chronitem>
+        <chronitem>
+          <date>1956-1962</date>
+          <event>Member, Board of Trustees, National Center for Education in Politics.</event>
+        </chronitem>
+        <chronitem>
+          <date>1957-1961</date>
+          <event>Chairman, Board of Directors, Citizenship Clearing House, an organization that encourages college students to enter politics.</event>
+        </chronitem>
+        <chronitem>
+          <date>1958</date>
+          <event>Receives Freedom Foundation award for <title render="doublequote">Democracy as a Moral System,</title> a television discussion with Julian Hartt of Yale University.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960-1971</date>
+          <event>Professor Emeritus of Government, Wesleyan University. Taught courses at Wesleyan through 1970.</event>
+        </chronitem>
+        <chronitem>
+          <date>1960</date>
+          <event>Receives L.L.D. degree [honorary], Moravian College.</event>
+        </chronitem>
+        <chronitem>
+          <date>1967-1968</date>
+          <event>Member, Charter Study Commission, Old Saybrook, CT.</event>
+        </chronitem>
+        <chronitem>
+          <date>1969</date>
+          <event>Receives James L. McConaughy Memorial Award, Wesleyan Alumni Council.</event>
+        </chronitem>
+        <chronitem>
+          <date>March 4, 1971</date>
+          <event>Dies.</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>This collection contains the papers of E. E. Schattschneider, a political scientist who spent the majority of his career at Wesleyan University. This collection is organized into seven series and primarily reflects Schattschneider's research interests from the 1950s until his death in 1971. All series are arranged alphabetically by name or subject and chronologically thereunder, with the exception of Series 3, Teaching, Wesleyan Government Department, Student Papers, each section of which is arranged chronologically, and alphabetically thereunder. Schattschneider's original order and nomenclature for folder titles have been retained throughout wherever possible; renaming and further description is present where the original titles have been nonexistant or extremely misleading.</p>
+      <p>Series 1, Correspondence, includes primarily incoming correspondence concerning professional activities, teaching, speeches and publications. Other notable groups include correspondence with Schattschneider's publishers concerning several of his books, organizational correspondence relating to Schattschneider's NBC television series <title render="doublequote">American Government and the Pursuit of Happiness</title> (1957), and correspondence concerning visiting professorships at American universities. Correspondents include many elected officials from Connecticut from the 1940s-60s including Chester Bowles, John Dempsey, and Abraham Ribicoff. Other correspondents include Harold H. Burton, J. William Fulbright, Samuel P. Huntington, Estes Kefauver, Henry Cabot Lodge, Adlai Stevenson, and Arthur T. Vanderbilt. Cross-references have been noted for persons appearing in more than one location if their corporate or university affiliation changes. Correspondence notation lists the amount of incoming correspondence first, followed by outgoing correspondence (e.g. Brown, Joseph R. 3/0, 1967-68).</p>
+      <p>Series 2, Writings and Speeches, contains notes, drafts, corrected typescripts, and author proofs for several of Schattschneider's books including <title render="italic">Party Government</title>, <title render="italic">A Guide to the Study of Public Affairs</title>, <title render="italic">The Semi-Sovereign People</title>, and <title render="italic">Two Hundred Million Americans in Search of a Government</title>. This series also contains documents, including corrected typescripts, for an unpublished volume or volumes titled, at various times, <title render="italic">The Great American Experiment</title> and <title render="italic">The Resolution of Conflict - An Explanation of American Government</title>, the latter of which Schattschneider was completing at the time of his death, and typescripts of several unpublished speeches and lectures.</p>
+      <p>Included in other series are student projects from Schattschneider's seminars on performing local community surveys, subject files of background material and notes for individual books as well as general subject files, family photographs, a documentary film written and presented by Schattschneider, and a collection of books annotated by Schattschneider.</p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Faculty.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.). Government Dept.</corpname>
+      <persname source="lcnaf" encodinganalog="600">Schattschneider, E. E. (Elmer Eric), 1892-1971.</persname>
+      <geogname source="lcnaf" encodinganalog="651"> United States --Politics and government --20th century.</geogname>
+      <subject source="lcsh" encodinganalog="650">Local government --United States.</subject>
+      <subject source="lcsh" encodinganalog="650"> Political science --Study and teaching.</subject>
+      <subject source="lcsh" encodinganalog="650">Political parties --United States.</subject>
+      <corpname source="lcnaf" encodinganalog="610">American Political Science Association.</corpname>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series"><did><unittitle>Series 1. Correspondence</unittitle></did><c02 level="subseries"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>A-Am</unittitle></did><c03><did><unittitle>Abbey, Robert, 1948</unittitle></did></c03><c03><did><unittitle>Adams, Sherman, 1957</unittitle></did></c03><c03><did><unittitle>Addison, Herbert J., 1970</unittitle></did></c03><c03><did><unittitle>Adrian, Charles R., 1953</unittitle></did></c03><c03><did><unittitle>Alexander, Herbert E., 1953</unittitle></did></c03><c03><did><unittitle>Altschuler, Jonathan B., 1967</unittitle></did></c03><c03><did><unittitle><title render="italic">Encyclopedia Americana</title> Annual, 1949-1952</unittitle></did></c03><c03><did><unittitle>American Academy of Arts and Sciences, 1968</unittitle></did></c03><c03><did><unittitle>American Education Press, 1951</unittitle></did></c03><c03><did><unittitle>American Institute of Public Opinion, 1948</unittitle></did></c03><c03><did><unittitle>American Jewish Committee, 1954</unittitle></did></c03></c02><c02><did><unittitle>American Political Science Association, 1944-1961</unittitle></did></c02><c02 level="subseries"><did><unittitle>Am-Ay</unittitle></did><c03><did><unittitle>American Political Science Review, 1944-1952</unittitle></did></c03><c03><did><unittitle>American Society for Public Administration, 1949</unittitle></did></c03><c03><did><unittitle>American University, 1940-1953</unittitle></did></c03><c03><did><unittitle>American Veteran's Committee, Columbia U. Chapter, 1948</unittitle></did></c03><c03><did><unittitle>American Veteran's Committee, Harvard U. Chapter, 1948</unittitle></did></c03><c03><did><unittitle>The Annals of the American Academy of Political and Social Science, 1948-1954</unittitle></did></c03><c03><did><unittitle>Appleby, Paul H., 1947-1954</unittitle></did></c03><c03><did><unittitle>Archon Books, 1966</unittitle></did></c03><c03><did><unittitle>Arnold, Jeff, 1967</unittitle></did></c03><c03><did><unittitle>Audience Surveys, Inc., 1948</unittitle></did></c03><c03><did><unittitle>Automobile Mutual Insurance Co. of America, 1953</unittitle></did></c03><c03><did><unittitle>N.W. Ayer &amp; Son, Inc., 1951</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">4</container><unittitle>B-Ba</unittitle></did><c03><did><unittitle>Babu, V. Vithal, 1952</unittitle></did></c03><c03><did><unittitle>Bahm, Archie J., 1954</unittitle></did></c03><c03><did><unittitle>Baier, Clarence W., 1954</unittitle></did></c03><c03><did><unittitle>Bailey, Stephen K., 1948-1969</unittitle></did></c03><c03><did><unittitle>Baldwin, Raymond E., 1948-1950</unittitle></did></c03><c03><did><unittitle>Baldwin, Robert H., 1952</unittitle></did></c03><c03><did><unittitle>Baldwin, Sidney, 1951-1952</unittitle></did></c03><c03><did><unittitle>Ball, M. Margaret, 1948-1952</unittitle></did></c03><c03><did><unittitle>Baptist Student Foundation, 1954</unittitle></did></c03><c03><did><unittitle>Bard, Erwin W., 1954</unittitle></did></c03><c03><did><unittitle>Barron's Educational Series, Inc., 1970-1971</unittitle></did></c03><c03><did><unittitle>Bateman, Raymond H., 1954</unittitle></did></c03><c03><did><unittitle>Baxter, Caleb G., 1951</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>Be-Bo</unittitle></did><c03><did><unittitle>Beck, James H., 1951</unittitle></did></c03><c03><did><unittitle>Bellush, Jewel, 1948</unittitle></did></c03><c03><did><unittitle>Bennet, Douglas J., Sr., 1949-1950</unittitle></did></c03><c03><did><unittitle>Bennington College, 1953</unittitle></did></c03><c03><did><unittitle>Benton, William, 1952</unittitle></did></c03><c03><did><unittitle>Berdahl, Clarence A., 1953</unittitle></did></c03><c03><did><unittitle>Beszal, Egon E., 1953</unittitle></did></c03><c03><did><unittitle>Binkley, Wilfred E., 1951</unittitle></did></c03><c03><did><unittitle>Bishop, Donald G., 1950-1952</unittitle></did></c03><c03><did><unittitle>Bloch, Heinz, 1953</unittitle></did></c03><c03><did><unittitle>Blodgett, Grace M., 1953</unittitle></did></c03><c03><did><unittitle>Bok, Nellie Lee, 1954</unittitle></did></c03><c03><did><unittitle>Bone, Hugh A., 1952-1953</unittitle></did></c03><c03><did><unittitle>The Cyrenius H. Booth Library, 1953</unittitle></did></c03><c03><did><unittitle>Boston University, 1949-1953</unittitle></did></c03><c03><did><unittitle>Borger, Henry C., Jr., 1953</unittitle></did></c03><c03><did><unittitle>Bowles, Chester, 1949-1952</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>Br-Bu</unittitle></did><c03><did><unittitle>Brandeis University, 1949</unittitle></did></c03><c03><did><unittitle>Bricker, John W., 1930-1934</unittitle></did></c03><c03><did><unittitle>Bridgewater Connecticut Democratic Town Committee, 1950</unittitle></did></c03><c03><did><unittitle>Brodigan, George D., 1953</unittitle></did></c03><c03><did><unittitle>Brown, Joseph R., 1967-1968</unittitle></did></c03><c03><did><unittitle>Brown, MacAlister, 1953</unittitle></did></c03><c03><did><unittitle>Brown, Richard C., 1953</unittitle></did></c03><c03><did><unittitle>Bruce, Harold R., 1949</unittitle></did></c03><c03><did><unittitle>Bureau of Governmental Research, 1951</unittitle></did></c03><c03><did><unittitle>Burns, James M., 1948-1954</unittitle></did></c03><c03><did><unittitle>Burton, Harold H., 1957</unittitle></did></c03><c03><did><unittitle>Butterfield, Victor, 1948-1963</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>C-Ch</unittitle></did><c03><did><unittitle>California Institute of Technology, 1952</unittitle></did></c03><c03><did><unittitle>Carlson, Stephen, 1968</unittitle></did></c03><c03><did><unittitle>Carr, Robert K., 1953</unittitle></did></c03><c03><did><unittitle>Case, Clifford P., 1950</unittitle></did></c03><c03><did><unittitle>Cavan, Ruth S., 1954</unittitle></did></c03><c03><did><unittitle>Celler, Emanuel, 1950</unittitle></did></c03><c03><did><unittitle>Chamberlain, Lawrence H., 1948-1953</unittitle></did></c03><c03><did><unittitle>Charlesworth, James C., 1953</unittitle></did></c03><c03><did><unittitle>Cherington, Charles R., 1954</unittitle></did></c03><c03><did><unittitle>University of Chicago, Committee on Social Thought, 1950</unittitle></did></c03><c03><did><unittitle>University of Chicago Press, 1954-1960</unittitle></did></c03><c03><did><unittitle>University of Chicago, Public Affairs Conference Center, 1961-1962</unittitle></did></c03><c03><did><unittitle>Chiedk, Harwood L., 1949</unittitle></did></c03><c03><did><unittitle><title render="italic">Christian Action</title>, 1952-1953</unittitle></did></c03><c03><did><unittitle>The Christian Democratic World Society, 1951</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">8</container><unittitle>Ci</unittitle></did><c03><did><unittitle>The Citizenship Clearing Houses, 1948-1960</unittitle></did></c03><c03><did><unittitle>Citizenship Educational Project, Columbia University, 1949-1955</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">9</container><unittitle>Cl-Con</unittitle></did><c03><did><unittitle>Clark, Robert A., 1952</unittitle></did></c03><c03><did><unittitle>Colegrove, Kenneth, 1948</unittitle></did></c03><c03><did><unittitle>College of the Holy Cross, 1953</unittitle></did></c03><c03><did><unittitle>Collins, Morris W. H., 1954</unittitle></did></c03><c03><did><unittitle>Columbia University, Teachers College, 1951-1954</unittitle></did></c03><c03><did><unittitle>Committee for Economic Development, 1945</unittitle></did></c03><c03><did><unittitle>Committee on Friendly Relations Among Foreign Students, 1951</unittitle></did></c03><c03><did><unittitle>Community Club of South Glastonbury, 1951</unittitle></did></c03><c03><did><unittitle>Conaway, O. B. Jr., 1953</unittitle></did></c03><c03><did><unittitle>Congress of Industrial Organization, 1953</unittitle></did></c03><c03><did><unittitle><title render="italic">Congressional Quarterly</title>, 1951</unittitle></did></c03><c03><did><unittitle>Connecticut College, 1951-1954</unittitle></did></c03><c03><did><unittitle>Connecticut Council of Churches, 1948</unittitle></did></c03><c03><did><unittitle>Connecticut State Industrial Union Council, 1948</unittitle></did></c03><c03><did><unittitle>Connecticut State Labor Council, AFL-CIO, 1965</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">10</container><unittitle>Connecticut, State of, 1937-1969</unittitle></did></c02><c02 level="subseries"><did><container type="Folder">11</container><unittitle>Con-Cr</unittitle></did><c03><did><unittitle>Connecticut, University of, 1947-1953</unittitle></did></c03><c03><did><unittitle>Cook, Virginia G., 1953</unittitle></did></c03><c03><did><unittitle>Copystat Co., 1945</unittitle></did></c03><c03><did><unittitle>Cornell University, 1953</unittitle></did></c03><c03><did><unittitle>Council Against Communist Aggression, 1951</unittitle></did></c03><c03><did><unittitle>Council for Social Action, 1951-1953</unittitle></did></c03><c03><did><unittitle>Crippen, David R., 1953</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">12</container><unittitle>D-De</unittitle></did><c03><did><unittitle>Dahl, Robert A., 1949</unittitle></did></c03><c03><did><unittitle><title render="italic">The Dallas Morning News</title>, 1945</unittitle></did></c03><c03><did><unittitle>Davenport, Frederick M., 1952</unittitle></did></c03><c03><did><unittitle>David, Paul T., 1954</unittitle></did></c03><c03><did><unittitle>Davie, Harold W., 1950</unittitle></did></c03><c03><did><unittitle>Davis, Harry R., 1953</unittitle></did></c03><c03><did><unittitle>Davis, Jerome, 1951</unittitle></did></c03><c03><did><unittitle>Davison, George W., 1951-1952</unittitle></did></c03><c03><did><unittitle>Dembert, Don Frank, 1954</unittitle></did></c03><c03><did><unittitle>The Democratic National Committee, 1952-1969</unittitle></did></c03><c03><did><unittitle>Dewing, Mrs. Leonard, undated</unittitle></did></c03><c03><did><unittitle>Dexter, Lewis A., 1965</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">13</container><unittitle>Di-Dy</unittitle></did><c03><did><unittitle>Dibble, Carl, 1951</unittitle></did></c03><c03><did><unittitle>Donovan, John C., 1953</unittitle></did></c03><c03><did><unittitle>Downes, Joseph B., 1954</unittitle></did></c03><c03><did><unittitle>The Dryden Press Inc., 1952-1953</unittitle></did></c03><c03><did><unittitle>Duncombe, David C., 1954</unittitle></did></c03><c03><did><unittitle>DuPont Co., 1952</unittitle></did></c03><c03><did><unittitle>Dyke, Peter, 1950</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>E</unittitle></did><c03><did><unittitle>Eibenstein, 1951</unittitle></did></c03><c03><did><unittitle>Emergency Civil Liberties Committee, 1952</unittitle></did></c03><c03><did><unittitle>Emory University, 1953-1954</unittitle></did></c03><c03><did><unittitle>Encyclopaedia Britannica Films, Inc., 1951</unittitle></did></c03><c03><did><unittitle>Englebert, Ernest A., 1948</unittitle></did></c03><c03><did><unittitle>Engler, Robert, 1949-1951</unittitle></did></c03><c03><did><unittitle>Eriangen, Heinrich V., 1953</unittitle></did></c03><c03><did><unittitle>Etherington, Edwin D., 1967</unittitle></did></c03><c03><did><unittitle>Exchange Club of Hartford, 1952</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">15</container><unittitle>F-Fe</unittitle></did><c03><did><unittitle>Fainsod, Merle, 1948</unittitle></did></c03><c03><did><unittitle>Falk, Eugene H., 1952</unittitle></did></c03><c03><did><unittitle>The Maurice and Laura Falk Foundation, 1952-1962</unittitle></did></c03><c03><did><unittitle>Farrar &amp; Rinehart, Inc., 1940-1945</unittitle></did></c03><c03><did><unittitle>Fenno, Richard, 1953</unittitle></did></c03><c03><did><unittitle>Ferguson, LeRoy, 1952</unittitle></did></c03><c03><did><unittitle>Fessler, James W., 1954</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">16</container><unittitle>Fi-Fu</unittitle></did><c03><did><unittitle>Field, G. Lowell, 1950-1953</unittitle></did></c03><c03><did><unittitle>Filley, Walter O., Jr., 1951-1960</unittitle></did></c03><c03><did><unittitle>Fleming, John G., 1953</unittitle></did></c03><c03><did><unittitle>Fletcher, John L., Jr., 1953-1954</unittitle></did></c03><c03><did><unittitle>B. C. Forbes &amp; Sons Publishing Co., Inc., 1953</unittitle></did></c03><c03><did><unittitle>Fretwell, Elbert K., Jr., 1953-1954</unittitle></did></c03><c03><did><unittitle>Frost, Richard, undated</unittitle></did></c03><c03><did><unittitle>Fuchs, Larry, 1953</unittitle></did></c03><c03><did><unittitle>Fulbright, J. William, 1950-1957</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>G-Gr</unittitle></did><c03><did><unittitle>Galloway, George B., 1955</unittitle></did><scopecontent><p>See also: United States Senate, Committee on Expenditure in the Executive Department.</p></scopecontent></c03><c03><did><unittitle>Gamma Phi Club of Delta Kappa Epsilon, 1950</unittitle></did></c03><c03><did><unittitle>Garfinkel, Herbert, 1953</unittitle></did></c03><c03><did><unittitle>Gaus, John M., 1948-1949</unittitle></did></c03><c03><did><unittitle>General Electric Co., 1964</unittitle></did></c03><c03><did><unittitle>George, John J., 1952</unittitle></did></c03><c03><did><unittitle>Gill, Thomas D., 1945
+</unittitle></did></c03><c03><did><unittitle>Goldbloom, A. Allen, 1953</unittitle></did></c03><c03><did><unittitle>Goodwin, George, Jr., 1953</unittitle></did></c03><c03><did><unittitle>Gossett, Ed, 1950-1951</unittitle></did></c03><c03><did><unittitle>Governmental Affairs Institute, 1952</unittitle></did></c03><c03><did><unittitle>Grady, Gerald J., 1953</unittitle></did></c03><c03><did><unittitle>Grattan, William J., 1953</unittitle></did></c03><c03><did><unittitle>Gregg, A. Phyllis, 1952</unittitle></did></c03><c03><did><unittitle>Grossman, Walter, 1951</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">18</container><unittitle>Ha</unittitle></did><c03><did><unittitle>Hall, Chadwick, 1952</unittitle></did></c03><c03><did><unittitle>Hallstein, Walter, 1953</unittitle></did></c03><c03><did><unittitle>Hancher, Virgil M., 1953</unittitle></did></c03><c03><did><unittitle>Hancock, John S., 1969</unittitle></did></c03><c03><did><unittitle>Hancock, Stewart F., 1954</unittitle></did></c03><c03><did><unittitle>Harcourt, Brace and Company, 1950</unittitle></did></c03><c03><did><unittitle>Hardin, Charles M., 1969</unittitle></did></c03><c03><did><unittitle>Harkness, J. Marion, 1951</unittitle></did></c03><c03><did><unittitle>Harris, Joseph P., 1952</unittitle></did></c03><c03><did><unittitle>Harris, Robert J., 1948, 1953</unittitle></did></c03><c03><did><unittitle>Hartford Times, 1950-1951</unittitle></did></c03><c03><did><unittitle>Hartt, Julian, 1957 Enc.</unittitle></did></c03><c03><did><unittitle>Harvard University, 1948-1952</unittitle></did></c03><c03><did><unittitle>Harvard Law Review, 1949</unittitle></did></c03><c03><did><unittitle>Hatt, John H., 1951</unittitle></did></c03><c03><did><unittitle>Haverford College, undated</unittitle></did></c03><c03><did><unittitle>Hawkins, Lester G., 1948-1953</unittitle></did></c03><c03><did><unittitle>Hawley Manor, 1953 Enc.</unittitle></did></c03><c03><did><unittitle>Hawley, William W., 1953</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">19</container><unittitle>He-Ho</unittitle></did><c03><did><unittitle>Heady, Ferrel, 1949</unittitle></did></c03><c03><did><unittitle>Heard, Alexander, 1950</unittitle></did></c03><c03><did><unittitle>Hearst Promotion Enterprises, 1951</unittitle></did></c03><c03><did><unittitle>Hechler, Kenneth W., 1953</unittitle></did></c03><c03><did><unittitle>Heffiou, Paul T., 1953</unittitle></did></c03><c03><did><unittitle>Herzberg, Donald, 1947-1953</unittitle></did></c03><c03><did><unittitle>Hill, G. Albert, 1951</unittitle></did></c03><c03><did><unittitle>Hill, Perry C., 1948</unittitle></did></c03><c03><did><unittitle>Hiscock, William McC., 1952</unittitle></did></c03><c03><did><unittitle>Hobart and William Smith Colleges, 1953, 1967</unittitle></did></c03><c03><did><unittitle>Holcombe, Arthur N., 1937</unittitle></did></c03><c03><did><unittitle>Holcombe, Harold G., 1949</unittitle></did></c03><c03><did><unittitle>Hoefling, Heribert, circa 1950s</unittitle></did></c03><c03><did><unittitle>Hollins College, undated</unittitle></did></c03><c03><did><unittitle>Henry Holt and Company, Inc., 1951-1960</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">20</container><unittitle>Holt, Rinehart and Winston, Inc., 1951, 1961-1971 Enc.
+</unittitle></did><scopecontent><p>Includes correspondence related to editions of <title render="italic">Party Government</title>, <title render="italic">The Semi-Sovereign People</title>, <title render="italic">Local Political Surveys</title>, <title render="italic">[Political Parties or Party Politics]</title>, <title render="italic">Two Hundred Million Americans in Search of a Government</title>, page proofs of <title render="italic">Local Political Surveys</title> and <title render="italic">Two Hundred Million . . .</title>, and cancelled contract for <title render="italic">Pressure Groups in Politics</title> (1963).</p></scopecontent></c02><c02 level="subseries"><did><container type="Folder">21</container><unittitle>Ho-Iw</unittitle></did><c03><did><unittitle>Holtzman, Abraham, 1952</unittitle></did></c03><c03><did><unittitle>Horwitz, Robert, 1953</unittitle></did></c03><c03><did><unittitle>Humphrey, Hubert H., 1960</unittitle></did></c03><c03><did><unittitle>Hunt, J. C., 1952</unittitle></did></c03><c03><did><unittitle>Huntington, Samuel P., 1949-1953</unittitle></did></c03><c03><did><unittitle>Hyneman, Charles S., 1953-1954</unittitle></did></c03><c03><did><unittitle>Illinois College, 1953</unittitle></did></c03><c03><did><unittitle>Illinois, State of, 1952 Enc.</unittitle></did></c03><c03><did><unittitle>Independent Citizens’ Committee of the Arts, Sciences and Professions, 1945</unittitle></did></c03><c03><did><unittitle>Institute of Ethics and Politics, 1954 Enc.</unittitle></did></c03><c03><did><unittitle> Institute of Practical Politics, Inc., 1951</unittitle></did></c03><c03><did><unittitle>International City Managers’ Association, 1951</unittitle></did></c03><c03><did><unittitle>Ives, Irving M., 1950</unittitle></did></c03><c03><did><unittitle>Iwanaga, Kenkichiro, 1962-1969</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>J</unittitle></did><c03><did><unittitle>Jack, Douglas S., 1953</unittitle></did></c03><c03><did><unittitle>James Foundation, 1953</unittitle></did></c03><c03><did><unittitle>Johnson, Earl S., 1952 Enc.</unittitle></did></c03><c03><did><unittitle>Johnson, Edwin C., 1968</unittitle></did></c03><c03><did><unittitle>John Price Jones Company, 1950</unittitle></did></c03><c03><did><unittitle>Jones, Victor, 1949-1953, 1962 Enc.</unittitle></did></c03><c03><did><unittitle>Junior Town Meeting League, 1951 Enc.</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">23</container><unittitle>K</unittitle></did><c03><did><unittitle>Kampelman, Max M., 1950</unittitle></did></c03><c03><did><unittitle>Kansas, University of 1/0, 1950</unittitle></did></c03><c03><did><unittitle>Katz, Melvin, 1954</unittitle></did></c03><c03><did><unittitle>Keena, Thomas E. J., 1953</unittitle></did></c03><c03><did><unittitle>Kefauver, Estes, 1950</unittitle></did></c03><c03><did><unittitle>Kentucky, University of, 1951</unittitle></did></c03><c03><did><unittitle>Kesselman, Louis C., 1949 Enc.</unittitle></did></c03><c03><did><unittitle> Key, V. O., 1947-1955</unittitle></did></c03><c03><did><unittitle>Kiermaier, Jack W., 1957</unittitle></did></c03><c03><did><unittitle>King Features Syndicate, 1951</unittitle></did></c03><c03><did><unittitle> Knopf, Alfred A., Inc., 1944-1953</unittitle></did></c03><c03><did><unittitle>Koblitz, Robert J., 1948-1949</unittitle></did></c03><c03><did><unittitle>Koch, Malcolm, 1953</unittitle></did></c03><c03><did><unittitle>Kohlhase, Norbert, 1952</unittitle></did></c03><c03><did><unittitle>Kotler, Isadore L., 1969</unittitle></did></c03><c03><did><unittitle>Kremm, Walter P., 1952 Enc.</unittitle></did></c03><c03><did><unittitle>Kretzchmar, Heinrich, 1951-1952</unittitle></did></c03></c02><c02 level="subseries"><did><unittitle>L-Lo</unittitle></did><c03><did><unittitle>Lancaster, Lane W., 1952</unittitle></did></c03><c03><did><unittitle>Lane, Robert E., 1953</unittitle></did></c03><c03><did><unittitle>Lange, Hermann, 1952-1953</unittitle></did></c03><c03><did><unittitle>Langton, York, 1953</unittitle></did></c03><c03><did><unittitle>Lapham, Lewis J., 1949</unittitle></did></c03><c03><did><unittitle>Laswell, Harold D., 1949</unittitle></did></c03><c03><did><unittitle>Latham, Earl, 1950-1953</unittitle></did></c03><c03><did><unittitle>League of Women Voters of Greater New Haven, 1952</unittitle></did></c03><c03><did><unittitle/></did></c03><c03><did><unittitle>League of Women Voters of the City of New York, 1952</unittitle></did></c03><c03><did><unittitle> League of Women Voters of the United States, 1950</unittitle></did></c03><c03><did><unittitle>League of Women Voters of Windsor, Connecticut, 1952</unittitle></did></c03><c03><did><unittitle>Lehbert, Ben, 1950</unittitle></did></c03><c03><did><unittitle>LeMaster, Joseph E., 1948</unittitle></did></c03><c03><did><unittitle>Lewis, John D., 1951</unittitle></did></c03><c03><did><unittitle>Life, 1951</unittitle></did></c03><c03><did><unittitle>Lindbloom, Harold, 1953</unittitle></did></c03><c03><did><unittitle>Lindsey, John W., 1947</unittitle></did></c03><c03><did><unittitle>Little, Eleanor H., 1953
+</unittitle></did></c03><c03><did><unittitle>Lloyd, David D., 1957</unittitle></did></c03><c03><did><unittitle>Lockard, Duane 1/0, 1954</unittitle></did></c03><c03><did><unittitle>Lodge, Henry Cabot, 1950 Enc.</unittitle></did></c03><c03><did><unittitle>Long Lane School, 1950-1955 Enc.</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">25</container><unittitle>Lo-Ma</unittitle></did><c03><did><unittitle>Loomis School, 1952</unittitle></did></c03><c03><did><unittitle>Lorish, Robert E., 1953 Enc.</unittitle></did></c03><c03><did><unittitle>Louise, Pierre, 1951</unittitle></did></c03><c03><did><unittitle>Luess, Heinz, 1950-1952</unittitle></did></c03><c03><did><unittitle>Lyford, Joseph P., 1957 Enc.</unittitle></did></c03><c03><did><unittitle>Macalester College, 1953</unittitle></did></c03><c03><did><unittitle>MacCann, Richard Dyer, 1950 Enc.</unittitle></did></c03><c03><did><unittitle>McConaughy, James L. 2/0, 1953</unittitle></did></c03><c03><did><unittitle>McCulloch, Frank W., 1957</unittitle></did></c03><c03><did><unittitle>McKay, Hazel, 1969
+</unittitle></did></c03><c03><did><unittitle>McKinsey and Company, 1955</unittitle></did></c03><c03><did><unittitle>McMahon, Brien, 1944-1949</unittitle></did></c03><c03><did><unittitle>McManus, Robert H., 1953</unittitle></did></c03><c03><did><unittitle>MacMillan Company, 1954</unittitle></did></c03><c03><did><unittitle>Macomber, William B., 1948</unittitle></did></c03><c03><did><unittitle>Macy, John, 1957</unittitle></did></c03><c03><did><unittitle>Mangone, Gerard J., 1950-1955, 1968 Enc.</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">26</container><unittitle>Ma</unittitle></did><c03><did><unittitle>Manzullo, Donald A., 1965</unittitle></did></c03><c03><did><unittitle>Martin, Richard, 1951-52</unittitle></did></c03><c03><did><unittitle>Martin, Roscoe C., 1948-1954
+</unittitle></did></c03><c03><did><unittitle>Maryland, University of, 1947-1953 Enc.</unittitle></did></c03><c03><did><unittitle> Mason, Alpheus Thomas, 1950</unittitle></did></c03><c03><did><unittitle>Massachusetts Institute of Technology, 1950, 1965
+</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">27</container><unittitle>Me-Mi</unittitle></did><c03><did><unittitle>Mead, Benjamin H., 1953</unittitle></did></c03><c03><did><unittitle>Meeker, Thomas G., 1952-1953</unittitle></did></c03><c03><did><unittitle> Menand, Louis III, 1949, 1951 Enc.</unittitle></did></c03><c03><did><unittitle>Menken, S. Stanwood, 1947-1949 Enc.</unittitle></did></c03><c03><did><unittitle>Mesmer, Gerald J., 1950</unittitle></did></c03><c03><did><unittitle>Michigan, University of, 1948-1952 Enc.</unittitle></did></c03><c03><did><unittitle>Middle States Council for the Social Studies, 1953</unittitle></did></c03><c03><did><unittitle>Middletown, City of, 1951
+</unittitle></did></c03><c03><did><unittitle>Middletown Democratic Town Committee, 1954</unittitle></did></c03><c03><did><unittitle>Middletown Community Chest, 1951</unittitle></did></c03><c03><did><unittitle>Miller, Howard, 1951</unittitle></did></c03><c03><did><unittitle>Miller, James W., 1953-1954</unittitle></did></c03><c03><did><unittitle>Minneapolis [City of], 1948</unittitle></did></c03><c03><did><unittitle>Minnesota, University of, 1948, 1953</unittitle></did></c03><c03><did><unittitle>Mitchell, Matthew C., 1948-1949 Enc.</unittitle></did><scopecontent><p>Includes correspondence and documents concerning the founding of the New England Political Science Association.</p></scopecontent></c03></c02><c02 level="subseries"><did><container type="Folder">28</container><unittitle>Mo-Na</unittitle></did><c03><did><unittitle>Moravian College, 1955</unittitle></did></c03><c03><did><unittitle>Mosher, Frederick L., 1951, 1957</unittitle></did></c03><c03><did><unittitle>Mott, Rodney L., 1948, 1952</unittitle></did></c03><c03><did><unittitle>Mount Holyoke College, 1953</unittitle></did></c03><c03><did><unittitle>Mueller, Bernhard, 1951-1953</unittitle></did></c03><c03><did><unittitle>Muirhead, George R., 1953</unittitle></did></c03><c03><did><unittitle>Nadronski, Peter, 1951</unittitle></did></c03><c03><did><unittitle>Naftalin, Arthur, 1953-1954</unittitle></did></c03><c03><did><unittitle>Nati, Arturo, 1952</unittitle></did></c03><c03><did><unittitle>National Association of Manufacturers, 1953</unittitle></did></c03><c03><did><unittitle>National Broadcasting Company, 1957, 1960 Enc.</unittitle></did><scopecontent><p>Includes copy of contract for "American Government" interview series (1957).</p></scopecontent></c03><c03><did><unittitle>National Center for Education in Politics, 1962</unittitle></did></c03><c03><did><unittitle>National Commission on Law Observance and Enforcement, 1931</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">29</container><unittitle>Na-Ne</unittitle></did><c03><did><unittitle>National Council of the Churches of Christ in the United States, 1953-1954
+</unittitle></did></c03><c03><did><unittitle>National Education Association, 1951</unittitle></did></c03><c03><did><unittitle>National Federation for Constitutional Liberties, 1945 Enc.</unittitle></did></c03><c03><did><unittitle>National Municipal League, 1947-1953
+</unittitle></did></c03><c03><did><unittitle>Nealon, Rita W., 1952-1953 Enc.</unittitle></did></c03><c03><did><unittitle>Neumann, Franz L., 1948</unittitle></did></c03><c03><did><unittitle>Neumann, Sigmund, 1949-1951</unittitle></did></c03><c03><did><unittitle>Neustadt, Richard, 1957 Enc.</unittitle></did></c03><c03><did><unittitle>New Britain, Connecticut, Public Schools, 1961</unittitle></did></c03><c03><did><unittitle>New Century, 1949-1950 Enc.
+</unittitle></did></c03><c03><did><unittitle>New Republic, 1950-1954
+</unittitle></did></c03><c03><did><unittitle>New York Democratic State Committee, 1952</unittitle></did></c03><c03><did><unittitle>New York Herald Tribune, 1951</unittitle></did></c03><c03><did><unittitle>New York Journal-American, 1951</unittitle></did></c03><c03><did><unittitle>New York Times, 1951</unittitle></did></c03><c03><did><unittitle>New York University, 1955</unittitle></did></c03><c03><did><unittitle>New York World Telegram, 1951</unittitle></did></c03><c03><did><unittitle>Newhall, Parker, 1949</unittitle></did></c03></c02>
+    
+<c02 level="subseries"><did><container type="Folder">30</container><unittitle>No-Pf</unittitle></did><c03><did><unittitle>Northwestern University, 1954</unittitle></did></c03><c03><did><unittitle>Norwich University, 1953</unittitle></did></c03><c03><did><unittitle>Oberlin College, 1951</unittitle></did></c03><c03><did><unittitle>Odegard, Peter H., 1951</unittitle></did></c03><c03><did><unittitle>O’Dwyer, William, 1946</unittitle></did><scopecontent><p>Includes telegram from Mayor of New York to delegates of the American Political Science Association conference.</p></scopecontent></c03><c03><did><unittitle>Ohio State University, 1951</unittitle></did></c03><c03><did><unittitle>Ohio Wesleyan University, 1953</unittitle></did></c03><c03><did><unittitle>Orvis, Kenneth G., 1953</unittitle></did></c03><c03><did><unittitle>Oxford University, 1953</unittitle></did></c03><c03><did><unittitle>Oxford University Press, 1951</unittitle></did></c03><c03><did><unittitle>Owens, John R., 1953</unittitle></did></c03><c03><did><unittitle>Parmelee, Richard C., 1954</unittitle></did></c03><c03><did><unittitle>Parr, F. Van Siclen, 1950</unittitle></did></c03><c03><did><unittitle>Parratt, Spencer D., 1950</unittitle></did></c03><c03><did><unittitle>Peardon, Thomas P., 1953</unittitle></did></c03><c03><did><unittitle>Peek, George A., 1953</unittitle></did></c03><c03><did><unittitle>Pelletier, Lawrence L., 1953, 1960</unittitle></did></c03><c03><did><unittitle>Peltason, Jack, 1949</unittitle></did></c03><c03><did><unittitle>Pennsylvania State College, 1953 Enc.</unittitle></did></c03><c03><did><unittitle>Pennsylvania, University of, 1954 Enc.</unittitle></did></c03><c03><did><unittitle>Pfeifer, Wilhelm, 1951-1953</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">31</container><unittitle>Pi-Q</unittitle></did><c03><did><unittitle>Pinkerton, Sam-Pearce, 1954 Enc.</unittitle></did></c03><c03><did><unittitle>Planned Parenthood Federation of America, 1961</unittitle></did></c03><c03><did><unittitle>Political Science Quarterly, 1949</unittitle></did></c03><c03><did><unittitle>Polter, Allen, 1948-1954</unittitle></did></c03><c03><did><unittitle>Prentice-Hall Inc., 1936, 1940, 1967</unittitle></did><scopecontent><p>Includes correspondence concerning Politics, Pressure and the Tariff.</p></scopecontent></c03><c03><did><unittitle>Princeton University, 1958</unittitle></did></c03><c03><did><unittitle>Public Administration Clearing House, 1953</unittitle></did></c03><c03><did><unittitle>Public Affairs Information Service, 1951</unittitle></did></c03><c03><did><unittitle>Public Affairs Pamphlets, 1953</unittitle></did></c03><c03><did><unittitle>Purdue University, 1953</unittitle></did></c03><c03><did><unittitle>Purtell, William A., 1954</unittitle></did></c03><c03><did><unittitle>Quayle, Edward, 1968-1970</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">32</container><unittitle>R-Ri</unittitle></did><c03><did><unittitle>Rackow, Felix, 1953</unittitle></did></c03><c03><did><unittitle>Ranney, Austin, 1947-1954 Enc.</unittitle></did></c03><c03><did><unittitle>Ransom, Harry H., 1953 Enc.</unittitle></did></c03><c03><did><unittitle>Rayburn, Sam, 1950, 1952 Enc.</unittitle></did></c03><c03><did><unittitle>Reed, Solon, 1954</unittitle></did></c03><c03><did><unittitle>Rees, Herb, 1949</unittitle></did></c03><c03><did><unittitle>Reid, Ira De A., 1953-1955</unittitle></did></c03><c03><did><unittitle>Rejai, M., 1967</unittitle></did></c03><c03><did><unittitle>Republic Steel Corporation, 1959</unittitle></did></c03><c03><did><unittitle>Reynolds, Harry W., 1949-1951 Enc.</unittitle></did></c03><c03><did><unittitle>Ribicoff, Abraham A., 1950</unittitle></did></c03><c03><did><unittitle>Ridaut, Frank, 1950-1951 </unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">33</container><unittitle>Rinehart &amp; Company, 1947-1951
+</unittitle></did><scopecontent><p>Includes correspondence related to Schattschneider’s work as a consultant editor in Political Science.</p></scopecontent></c02><c02 level="subseries"><did><container type="Folder">34</container><unittitle>Ro-Sl</unittitle></did><c03><did><unittitle>Rockfall Corporation, 1944, 1950</unittitle></did></c03><c03><did><unittitle>Rodriguez, Luis A., 1949</unittitle></did></c03><c03><did><unittitle>Rosenberg, Herbert H., 1950</unittitle></did></c03><c03><did><unittitle>Rosenbloom, Marc, 1945</unittitle></did></c03><c03><did><unittitle>Rowe, Peterson &amp; Co., 1960</unittitle></did></c03><c03><did><unittitle>Rubinow, Raymond S., 1953</unittitle></did></c03><c03><did><unittitle>Rustow, Dankwart A., 1951</unittitle></did></c03><c03><did><unittitle>Sanphy, Elizabeth A., 1964</unittitle></did></c03><c03><did><unittitle>Sarah Lawrence College, 1950-1954</unittitle></did></c03><c03><did><unittitle>Saybrook Rotary Club, 1951</unittitle></did></c03><c03><did><unittitle>Schriftgiesser, Karl, 1948</unittitle></did></c03><c03><did><unittitle>Schuck, Victoria, 1953-1954</unittitle></did></c03><c03><did><unittitle>Schwebel, Devora D., 1953</unittitle></did></c03><c03><did><unittitle>Scott, Andrew, 1954</unittitle></did></c03><c03><did><unittitle>Scott, Foresman and Company, 1953</unittitle></did></c03><c03><did><unittitle>See, Edgar T., 1968</unittitle></did></c03><c03><did><unittitle>Sharkansky, Ira, 1968</unittitle></did></c03><c03><did><unittitle>Simmons, Ernest J., 1967</unittitle></did></c03><c03><did><unittitle>Sirotkin, Phillip, 1953</unittitle></did></c03><c03><did><unittitle>Sivak, Paul D., 1950</unittitle></did></c03><c03><did><unittitle>Skelley, Joseph F., undated</unittitle></did></c03><c03><did><unittitle>Slate, W. L., 1951</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">35</container><unittitle>William Sloane Associates, Inc., 1948-1952</unittitle></did><scopecontent><p>Includes correspondence relating to Schattschneider’s position as consulting editor and to <title render="italic">A Guide to the Study of Public Affairs</title> (1950-1951).</p></scopecontent></c02><c02 level="subseries"><did><container type="Folder">36</container><unittitle>Sm-Sy</unittitle></did><c03><did><unittitle>Smith, Christopher A., circa 1950s</unittitle></did></c03><c03><did><unittitle>Smith College, 1955</unittitle></did></c03><c03><did><unittitle>Smith, Harry, Jr., 1953</unittitle></did></c03><c03><did><unittitle>Smith, Howard R., 1951
+</unittitle></did></c03><c03><did><unittitle>Smith, Richard P., 1953</unittitle></did></c03><c03><did><unittitle>Snow, Wilbert, 1951</unittitle></did></c03><c03><did><unittitle>Social Science Research Council, 1944-1945</unittitle></did></c03><c03><did><unittitle>Soloman, Samuel R., 1951</unittitle></did></c03><c03><did><unittitle>Somers, H. M., 1952</unittitle></did></c03><c03><did><unittitle>Southbury Training School, 1952 Enc.</unittitle></did></c03><c03><did><unittitle>Sprague, David G., 1953</unittitle></did></c03><c03><did><unittitle>Stamps, Norman L., 1949</unittitle></did></c03><c03><did><unittitle>Stark, Roger, 1954</unittitle></did></c03><c03><did><unittitle>Stedman, Murray S., Jr., 1948-1949</unittitle></did></c03><c03><did><unittitle>Steiger, Mathias, 1950-1951</unittitle></did></c03><c03><did><unittitle>Steinel, Agnes T., 1945</unittitle></did></c03><c03><did><unittitle>Stevenson, Adlai E., 1952</unittitle></did></c03><c03><did><unittitle>Stewart, Robert B., 1954 Enc.</unittitle></did></c03><c03><did><unittitle>Stivly, John O., circa 1950s</unittitle></did></c03><c03><did><unittitle>Straetz, Ralph A., 1948</unittitle></did></c03><c03><did><unittitle>Stringfellow, William, 1953</unittitle></did></c03><c03><did><unittitle>Sutherland, Arthur E., 1951</unittitle></did></c03><c03><did><unittitle>Swanson, Thor, 1951</unittitle></did></c03><c03><did><unittitle>Swarthmore College, 1950-1951</unittitle></did></c03><c03><did><unittitle>Syracuse University, 1950-53</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">37</container><unittitle>T-Un</unittitle></did><c03><did><unittitle>Tang, Peter Sheng-Hao, 1953-1954 Enc.</unittitle></did></c03><c03><did><unittitle>Taylor, George R., 1952</unittitle></did></c03><c03><did><unittitle>Teachers Insurance and Annuity Association of America, 1936</unittitle></did></c03><c03><did><unittitle>Thompson, Kenneth W., 1953-1954</unittitle></did></c03><c03><did><unittitle>Thomson, John S., 1949</unittitle></did></c03><c03><did><unittitle>Tierney, James F., 1953</unittitle></did></c03><c03><did><unittitle>Tillett, Paul, 1950-1954</unittitle></did></c03><c03><did><unittitle>Trager, Bernard H., 1969</unittitle></did></c03><c03><did><unittitle>Travelers Broadcasting Service Corporation, 1953</unittitle></did></c03><c03><did><unittitle>Truman, David B., 1947-1950</unittitle></did></c03><c03><did><unittitle>Truman, Harry S., 1957</unittitle></did></c03><c03><did><unittitle>Harry S. Truman Library, 1957</unittitle></did></c03><c03><did><unittitle>Truman, Tom, 1968</unittitle></did></c03><c03><did><unittitle>Tufts College, 1953</unittitle></did></c03><c03><did><unittitle>Turner, Henry A., 1952-1954</unittitle></did></c03><c03><did><unittitle>Tyler, Gus, 1953</unittitle></did></c03><c03><did><unittitle>Underwood, Kenneth, 1950-1954 Enc.</unittitle></did><scopecontent><p>Includes correspondence regarding the publication of the American Political Science Association Statement on party government published in <title render="italic">Social Action</title>.</p></scopecontent></c03><c03><did><unittitle>United Automobile Workers, 1945</unittitle></did></c03><c03><did><unittitle>United Nations, 1954, 1964 Enc.</unittitle></did></c03><c03><did><unittitle>United States, Attorney General, 1949</unittitle></did></c03><c03><did><unittitle>United States, Civil Service Commission, 1965</unittitle></did></c03><c03><did><unittitle>United States, Council of Economic Advisors, 1949</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">38</container><unittitle>Un</unittitle></did><c03><did><unittitle>United States, Department of Defense, U. S. Army Strategic Intelligence School, 1961-1962 Enc.</unittitle></did></c03><c03><did><unittitle>United States, Department of Defense, Industrial College of the Armed Forces, 1960-1961 Enc.</unittitle></did></c03><c03><did><unittitle>United States, Department of Defense, National War College, 1958-1961</unittitle></did><scopecontent><p>Includes typescript of Schattschneider's lecture, <title render="doublequote">The U. S. Party System and National Security Policy</title> (1961).</p></scopecontent></c03></c02><c02 level="subseries"><did><container type="Folder">39</container><unittitle>Un-Up</unittitle></did><c03><did><unittitle>United States, Department of the Interior, 1952
+</unittitle></did></c03><c03><did><unittitle>United States, Department of State, 1950-1952</unittitle></did></c03><c03><did><unittitle>United States Information Agency, 1965</unittitle></did></c03><c03><did><unittitle>United States, Library of Congress, 1945</unittitle></did></c03><c03><did><unittitle>United States, Office of the U. S. High Commissioner for Germany, 1951</unittitle></did></c03><c03><did><unittitle>United States, Selective Service System, 1944</unittitle></did></c03><c03><did><unittitle>United States Senate, Committee on Expenditures in the Executive Departments, 1951</unittitle></did></c03><c03><did><unittitle>United States Senate, Committee on Rules and Administration, 1951</unittitle></did></c03><c03><did><unittitle>University Center in Georgia, 1954 Enc.</unittitle></did></c03><c03><did><unittitle>Upholsterers’ International Union, 1948-1951 Enc.</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">40</container><unittitle>Vanderbilt, Arthur T., 1948-1953</unittitle></did><scopecontent><p>Includes correspondence relating to the construction of the Public Affairs Center at Wesleyan.</p></scopecontent></c02><c02 level="subseries"><did><container type="Folder">41</container><unittitle>Va-We</unittitle></did><c03><did><unittitle>Van Derhoof, Jack, 1953</unittitle></did></c03><c03><did><unittitle>Van Metre, Horace, 1931</unittitle></did></c03><c03><did><unittitle>Van Toor, James, circa late 1940s</unittitle></did></c03><c03><did><unittitle>University of Vermont, 1952-1953</unittitle></did></c03><c03><did><unittitle>Vines, Kenneth N., 1949 Enc.</unittitle></did></c03><c03><did><unittitle>Vose, Clement E., 1969</unittitle></did></c03><c03><did><unittitle>Wabash College, 1953</unittitle></did></c03><c03><did><unittitle>Wahlke, John, 1953</unittitle></did></c03><c03><did><unittitle>Wait, Robert, 1953</unittitle></did></c03><c03><did><unittitle>Wallace, Robert A., 1957</unittitle></did></c03><c03><did><unittitle>Wallace, Schuyler C., 1937-1955</unittitle></did></c03><c03><did><unittitle>Warbury, Coleman, 1953</unittitle></did></c03><c03><did><unittitle>Washington Post, 1963</unittitle></did></c03><c03><did><unittitle>Washington University, 1953</unittitle></did></c03><c03><did><unittitle>University of Washington, 1951</unittitle></did></c03><c03><did><unittitle>Wayne University, 1948-1954 Enc.</unittitle></did></c03><c03><did><unittitle>Webb, Harold, 1954</unittitle></did></c03><c03><did><unittitle>Weber, Wolfgang Hirsch, 1968-1969</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">42</container><unittitle>We</unittitle></did><c03><did><unittitle>Wellesley College, 1952-1953</unittitle></did></c03><c03><did><unittitle>Wesleyan University, 1936-1967
+</unittitle></did></c03><c03><did><unittitle>Wesleyan University, Alumni Association of Washington, D. C., 1953</unittitle></did></c03><c03><did><unittitle>Wesleyan University, Alumni Council, 1969</unittitle></did></c03><c03><did><unittitle>Wesleyan University, Alpha Chi Rho, 1950</unittitle></did></c03><c03><did><unittitle>Wesleyan University, Philadelphia Alumni Association, 1950</unittitle></did></c03><c03><did><unittitle>West, W. Reed, 1944</unittitle></did></c03><c03><did><unittitle>Western Electric Company, 1961-1962 Enc.</unittitle></did></c03><c03><did><unittitle>Western Political Quarterly, 1951</unittitle></did></c03><c03><did><unittitle>Western Political Science Association, 1948</unittitle></did></c03><c03><did><unittitle>Westmeyer, Troy R., 1953</unittitle></did></c03></c02><c02 level="subseries"><did><container type="Folder">43</container><unittitle>Wh-Z</unittitle></did><c03><did><unittitle>Wheeler, John P., 1953</unittitle></did></c03><c03><did><unittitle>Wherry, Kenneth S., 1950</unittitle></did></c03><c03><did><unittitle>White, Compton I., 1950</unittitle></did></c03><c03><did><unittitle>White, William C., 1951</unittitle></did></c03><c03><did><unittitle>Who’s Who in America, 1945</unittitle></did></c03><c03><did><unittitle>Wilfong, R. G., 1953</unittitle></did></c03><c03><did><unittitle>William Jewell College, 1951</unittitle></did></c03><c03><did><unittitle>Williams, J. D., 1950, 1952</unittitle></did></c03><c03><did><unittitle>Wilson, Hugh, 1948</unittitle></did></c03><c03><did><unittitle>H. W. Wilson Company, 1949</unittitle></did></c03><c03><did><unittitle>University of Wisconsin Press, 1971</unittitle></did></c03><c03><did><unittitle>Wisdom Hall of Fame, 1970 Enc.</unittitle></did></c03><c03><did><unittitle>Wood, Harold S., 1949-1953</unittitle></did></c03><c03><did><unittitle>World Council of Churches, 1952-1953</unittitle></did></c03><c03><did><unittitle>Wormuth, Francis D., 1953</unittitle></did></c03><c03><did><unittitle>Yale Law Journal, 1949</unittitle></did></c03><c03><did><unittitle>Yale Review, 1951</unittitle></did></c03><c03><did><unittitle>Yale University, 1945-1953 Enc.</unittitle></did></c03><c03><did><unittitle>Ylvisaker, Paul N., 1953</unittitle></did></c03><c03><did><unittitle>Young Adult Study, 1953 Enc.</unittitle></did></c03><c03><did><unittitle>Zasloff, Joseph, 1953</unittitle></did></c03><c03><did><unittitle>Zucker, Eugene, 1954</unittitle></did></c03><c03><did><unittitle>Unidentified Correspondence, 1948, 1951</unittitle></did></c03><c03><did><unittitle>Condolence letter to Mrs. Florence Schattschneider from Philip B. Brown, chairman of the Board of Trustees, Wesleyan University, 1971.</unittitle></did></c03></c02></c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 2. Writings and Speeches</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle><title render="doublequote">After a Lifetime of Teaching My Greatest Regret is...,</title> notes and corrected speech typescript, circa early 1960s
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle><title render="doublequote">American Government and the Pursuit of Happiness,</title> NBC Television Series Program Schedule and Transcripts, 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>Interview Questions and Schattschneider's opening and closing remarks, typescripts, 1957</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Interview script cards</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Sherman Adams, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Stephen K. Bailey, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Julian Hartt, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Frederick C. Mosher, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Richard Newstadt, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Richard Nixon, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Ray Sherer, 1957</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>The American Party System, typescript (16 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle><title render="doublequote">The American Party System and National Security Policy,</title> Address at the National War College, October 31, 1958, typescripts, 1958</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle><title render="doublequote">Break Down the Departmental Walls,</title> speech typescript (4 p.) and notes, circa 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle><title render="doublequote">Competing Theories of Party Organization...,</title> corrected typescript (43 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Address to the Conference on Preparing College Men and Women for Politics, March 14, 1953, typescript (8 p.)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16</container>
+            <unittitle><title render="doublequote">Constitutional History of Connecticut,</title> Connecticut League of Women Voters States Convention Presentation, typescript (3 p.), May 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Mim Daddario, tribute typescript (2 p.), 1971</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>Democracy, corrected manuscript (7 p.), circa 1960s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">19</container>
+            <unittitle>Democracy is the Managing of Conflicts, typescript (2 p.), undated
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">20</container>
+            <unittitle>Domestic Politics and the Cold War, typescript (9 p.) and notes, ca. 1950s
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">21</container>
+            <unittitle>Equilibrium and Change in American Politics, typescript (11 p.), circa 1957-1958</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle><title render="italic">The Great American Experiment</title> [unpublished book]</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Book outline, typescripts and notes, circa 1940s-50s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Chapters, typescripts, circa 1940s-50s</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <title render="italic">A Guide to the Study of Public Affairs</title>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Chapter 3 - <title render="doublequote">How to Study a Pressure Group,</title> corrected typescript, 1951-1952</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Photos and Illustrations, 1951-1952</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Illustration negatives, 1951-1952</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27</container>
+            <unittitle>Intensity, Visibility, Direction and Scope, typescript (9 p.), 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">28</container>
+            <unittitle>Local Community Surveys as Cooperative Projects for Medium Sized Cities, typescript (4 p.), circa 1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">29</container>
+            <unittitle>Local Government Survey - Description of a Laboratory Practice, corrected typescript (33 p.), circa 1950s
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">30</container>
+            <unittitle>My First Course in Political Science - 1911, draft (12 p.) and notes, undated
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">31</container>
+            <unittitle>The Nationalization of American Politics, corrected typescript (24 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">32</container>
+            <unittitle>Party Conflict, corrected typescripts (8 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Party Government</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">33-34</container>
+              <unittitle>Printer's Proof, corrected (2 folders), 1941-1942</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">35</container>
+              <unittitle>Corrected page proofs, 1940-1941</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">36</container>
+              <unittitle>Page Proofs, 1940-1941</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">37</container>
+            <unittitle>Political Action Committees and Party Organization, notes and drafts, circa 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">38</container>
+            <unittitle>Political Organization in the United States, typescript (4 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">39-40</container>
+            <unittitle>Political Parties and Democracy, corrected typescripts (2 folders), 1964</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">41</container>
+            <unittitle>Political Parties Versus Pressure Groups, corrected typescript (7 p.) and drafts, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">42</container>
+            <unittitle>Political Strategy, corrected typescripts, notes and drafts (34 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">43</container>
+            <unittitle><title render="doublequote">Politicians and Bankers,</title> article in Motive supplement, October 1962</unittitle>
+          </did>
+          <scopecontent>
+            <p>See also same article in <title render="italic">Christianity and Society </title>17, ii, Spring 1953.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">44</container>
+            <unittitle>Politicians and Power, corrected typescripts (16 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">45</container>
+            <unittitle>Politics as a Test of Strength, typescript (1 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">46</container>
+            <unittitle>Pressure Groups and Party Government, corrected typescript (204 p.)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">47</container>
+            <unittitle>Pressure Groups Versus Political Parties, typescript (14 p.), undated
+</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">48</container>
+            <unittitle><title render="doublequote">The Self Educating Student,</title> address to the New England Conference of the United States National Student Association, April 18, 1958, typescript (6 p.), 1958</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <title render="italic">The Semi-Sovereign People</title>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>See also Oversized, Box 12</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Folder">49</container>
+              <unittitle>Early draft portions, corrected typescript, circa 1960</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">50</container>
+              <unittitle>Chapter 2: Scope and Bias of the Political System, <title render="doublequote">Pressure Politics,</title> notes, drafts and corrected typescripts, circa 1960</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">51</container>
+              <unittitle>Chapter 2: Scope and Bias of the Political System, <title render="doublequote">Pressure Politics - Interests, Theory of,</title> notes, circa 1960</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">52</container>
+              <unittitle>Notes and early drafts of political parties and election results, circa 1960</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">53</container>
+              <unittitle>Review in the New Republic, 1961</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">54</container>
+            <unittitle>The Study of Government in the Liberal Arts College, typescript (16 p.), circa 1945-1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">55</container>
+            <unittitle>The Surrender of Congressional Power to the President as Found in Tariff and Treaty Legislation, term paper typescript (12 p.), 1926
+</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>
+              <title render="italic">Two Hundred Million Americans in Search of a Government</title>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>See also Oversized, Box 12.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Folder">56</container>
+              <unittitle>Uncorrected typescript, 1968-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">57</container>
+              <unittitle>Corrected typescript, 1969-70</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">58</container>
+              <unittitle>Author's Duplicate Pages, corrected typescript, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">1-3</container>
+              <unittitle>Early notes and drafts (3 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Table of Contents and Introduction, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5-9</container>
+              <unittitle>Chapter 1: What are We Looking For?, notes, drafts, and corrected typescripts (5 folders), 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10-11</container>
+              <unittitle>Chapter 2: Why do People Make Miscalculations about Government?, notes, drafts and corrected typescripts (2 folders), 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Chapter 3: Democracy as a Moral System, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13-15</container>
+              <unittitle>Chapter 4: Democracy as a Form of Government, notes, drafts and corrected typescripts (3 folders), 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16-17</container>
+              <unittitle>Chapter 5: Why is a Generation the Proper Period of Time for the Study of Politics?, notes, drafts and corrected typescripts (2 folders), 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18-19</container>
+              <unittitle>Chapter 6: Some Political Words, notes, drafts and corrected typescripts (2 folders), 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Chapter 7: Some Nongovernmental Thoughts About the Future of Government, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Appendix, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">22</container>
+            <unittitle><title render="doublequote">What is Good Teaching?,</title> Address to the Conference on Preparing College Men and Women for Politics, corrected typescript (43 p.), 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23</container>
+            <unittitle>What is Politics About?, notes and drafts, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">24</container>
+            <unittitle>Connecticut Democratic Party, untitled corrected typescripts (3 p.), circa 1944-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">25</container>
+            <unittitle>"Four basic considerations provide the setting for a discussion of the meaning of the "responsible society" for political life in America," untitled typescript (11 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">26</container>
+            <unittitle>Interview transcript. <title render="doublequote">Yale Interprets the News,</title> November 1, 1953 (4 p.), 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27</container>
+            <unittitle>The Meaning of Party Conflict, untitled corrected typescript (7 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">28-29</container>
+            <unittitle>Textbook on Political Parties, notes and drafts (2 folders), undated</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes Government 8 Final Exam, June 1947 (Wesleyan) on verso of note leaf.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">30</container>
+            <unittitle>Two-Party System, untitled speech typescript (16 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">31</container>
+            <unittitle>Warfare and Democracy, untitled corrected speech typescript and notes (9 p.), ca. 1941- 45</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">32</container>
+            <unittitle>What is the Meaning of Political Strategy?, untitled typescript (16 p.), undated</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Unpublished Book on <title render="doublequote">American government and its place in the world political system.</title> At one time titled <title render="italic">The Resolution of Conflict - An Explanation of American Government</title></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">33</container>
+              <unittitle><title render="doublequote">A New Kind of Book in American Government,</title> preliminary outline, drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">34-35</container>
+              <unittitle>Chapter outlines, drafts (2 folders), undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">36-37</container>
+              <unittitle>Early drafts (2 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">38-41</container>
+              <unittitle>American Government, notes, drafts and corrected typescripts (4 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">1-3</container>
+              <unittitle>Corrected typescripts (3 folders), ca. 1970-1971</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Titles, notes and clippings, circa 1969</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 3. Teaching, Wesleyan Government Department, Student Papers.</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Teaching</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>American Government, draft list of class books and assignments, circa 1930s-1940s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Government 8, Syllabi, assignments and exams, 1939-1946</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Government I 1948-49, Syllabus and handouts, 1948</unittitle>
+            </did>
+            <scopecontent>
+              <p> Includes <title render="doublequote">Political Planning and Party Reconstruction,</title> typescript, 28 p.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Government 58, Interviewing guidelines, circa 1950s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Federal Loyalty Program, Wesleyan class projects, typescripts, drafts and correspondence, 1952-1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Notebooks [2] containing lecture and class notes, 1952-1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Government 2 syllabus, 1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Political Science 531 - <title render="doublequote">American Politics,</title> bibliography and gradebook, after 1954</unittitle>
+            </did>
+            <scopecontent>
+              <p>Possibly from course at Michigan State University; not a Wesleyan class.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Government 374 class list, Fall 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Government 374 Fall 1968, syllabus, notes, class list and grades, 1968-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Govs 203, Fall 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Govs 204 and 300, Spring 1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Lecture notes to introductory government class, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Why Do We Study Government?, lecture notes, undated</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Wesleyan Government Department</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Application For a Grant to Finance a Special Course in Practical Politics to be Given at Wesleyan Beginning February 1954, Falk Foundation, typescript, 1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Government department and faculty memos, 1946, 1965, 1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Study Committee memo containing outline of Wesleyan/Yale book on <title render="doublequote">Christian Ethics and Public Policy,</title> 1955</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Eagleton Foundation Inter-University Casebook Committee, minutes and correspondence, 1956</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Student Papers</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Hogan, Matthew J., <title render="doublequote">Analysis of 1946 city election in Hartford, CT,</title> Government 7 paper, 1947</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Lifset, Edward W., <title render="doublequote">A Study of the Second Congressional District in Connecticut, 1951,</title> circa 1951-1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Epstein, David W., Government 58s Summer Work Program weekly report, June 21, 1957</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Sharkansky, Ira S., <title render="doublequote">A Straining Giant,</title> 1960</unittitle>
+            </did>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Individual Community Analyses, January 1956 - May 1963</unittitle>
+            </did>
+            <scopecontent>
+              <p>Bound student papers from Government Department Seminar in Practical Politics (Gov. 57, 58, 58s, 59).</p>
+            </scopecontent>
+            <c04>
+              <did>
+                <container type="Folder">27</container>
+                <unittitle>Brubaker, George, class of 1964. Lancaster PA. Undated. Includes photos. </unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">28</container>
+                <unittitle>Camp, Herbert, class of 1957. New Britain CT, 1956.
+</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">29</container>
+                <unittitle>Carr, Louis, class of 1962. Weston and Falmouth MA, November 1961.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">30</container>
+                <unittitle>Corrodi, John Theron Jr., class of 1957. Columbus OH, undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">31</container>
+                <unittitle>Craig, Barry G., class of 1963. East and West Hartford CT, May 1963.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">32-33</container>
+                <unittitle>Ellis, Harry A., class of 1959. Rome GA, (2 folders), 1958. Includes photos.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">34</container>
+                <unittitle>Emmett, Jack S., class of 1963. Uxbridge and Blackstone, MA, January 1963. Includes photos..</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">35</container>
+                <unittitle>Frost, Fredric W., class of 1956. New Castle, NY. Inc. photos. undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">36</container>
+                <unittitle>Gay, Phineas Ellis Jr., class of 1956. Branford, CT, January 1956. Includes photos.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">37</container>
+                <unittitle>Halgren, Jack, class of 1962. Newport Beach and Costa Mesa CA. n.d.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">38</container>
+                <unittitle>Hazlehurst, John, class of 1962. Colorado Springs Co. and Broadmoor, January 1962.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Box">5</container>
+                <unittitle>King, Dennis B., class of 1956. Redwood City, CA, January 1956. 1 volume and 1 folder. Includes photos.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>La Brie, Lawrence James, class of 1956. Rye, NY, 1955-1956. Includes photos.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Lacava, Anthony, class of 1958. Waterbury, CT. undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Lockwood, Timothy, class of 1957. Utica, NY. undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>McCann, Walter J. Jr., class of 1959. Plymouth, MA. Includes photos. Undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>McCarron, John R., class of 1962. Philadelphia, PA, January 1962.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>McClellan, B. Edward, class of 1961. Huntington, WV and Memphis, TN. Includes photos. Undated
+</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Parkin, John F., class of 1957. Suffolk County, NY, January 1957.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Pisetsky, Marvin S., class of 1956. Hartford, CT. undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Teaford, H. Joel, class of 1962. Union City IN-OH and Reynoldsburg OH, January 1962.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Thomas, Allen C., class of 1961. Troy, NY. Includes photos, undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Tompkins, Richard B., class of 1958. Norristown PA, January 1958. Includes photos. Undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Toner, Roger, class of 1957. Montclair, NJ. Undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Townsend, Robert I. Jr., class of 1962. White Plains and New Rochelle NY, January 1962.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Vermilya, Clifford R., class of 1959. Stratford, CT, February 1958.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Walker, George, class of 1962. Los Alamos and Santa Fe, NM, January 1962.</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <unittitle>Willig, Richard L., class of 1962. Beverly Hills and Culver City, CA, January 1962.</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 4. Subject Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>Subject files for <title render="italic">Two Hundred Million Americans in Search of a Government.</title></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">1</container>
+              <unittitle>Bias (in Government), notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Change, notes and clippings, circa 1960-1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Conflict, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Criticisms of Government, notes, circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5-6</container>
+              <unittitle>Democracy, notes and drafts (2 folders), circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Elections and Party Organization, notes and clippings, circa 1962</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>The Future of Government, notes and clippings, circa 1957-1964</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Government, notes and clippings, circa 1967-1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Government and Business, notes and drafts, circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Highways, notes and clippings, circa 1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Involvement (Our Involvement in Government), notes and drafts, circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Money, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Presidency, notes and clippings, 1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Public Interest, notes, circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Scope and Space, notes and clippings, ca. 1952-65</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Time, notes and clippings, circa 1962</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Time, Change, notes, clippings and drafts, circa 1962-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Where Do You Have a Right to Be?, notes and clippings, 1957-64</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Subject files for unpublished book on <emph render="doublequote">American government and its place in the world political system.</emph>
+</unittitle>
+          </did>
+          <scopecontent>
+            <p>See also written drafts in Writings and Speeches series.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Acts not Encouraged; Words Avoided, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21-23</container>
+              <unittitle>American Government as a Contentious Proceeding, notes, drafts and clippings (3 folders), circa 1967-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Attacks on the Government, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Basic Assumptions, notes and clippings, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26-27</container>
+              <unittitle>British Origins [of U.S. government], notes and drafts (2 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Change, notes and clippings, 1957-circa 1963</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Congress, notes and clippings, circa 1961</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">30</container>
+              <unittitle>Congress: Series of Statutes; Congress Continues the Conflicts-Subject to Review, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">31-32</container>
+              <unittitle>The Complex, notes, drafts and clippings (2 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">33</container>
+              <unittitle>Consensus - Unanimity, notes, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">34</container>
+              <unittitle>Courts and Questions, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">35</container>
+              <unittitle>Delay vs. Obstruction, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">36-37</container>
+              <unittitle>Democracy, notes, drafts and clippings (2 folders of 4), 1968-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Democracy, notes, drafts and clippings (2 folders of 4), 1968-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>The Endless Discussion, notes and clippings, circa 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>The Endless Discussion, notes, drafts and clippings, 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Equality, Consistency, Precedent, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Expansion of the American Community, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Foolish Projects, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>The Function of the Upper Classes, notes, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>The Game of Politics, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10-11</container>
+              <unittitle>General Consent, notes and clippings (2 folders), circa 1966-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Government and Business, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Government by Consent of the Losers/Majority Rule and Consent, notes and clippings, 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>A Government of Moderation, notes, drafts and clippings, circa 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Government-making Words, drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>The High Court of Congress, notes and clippings, ca. 1969
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>The History of Government, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>How to Make a Nation, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19-20</container>
+              <unittitle>Indirection/How Power is Exercised, notes, drafts and clippings (2 folders), circa 1968-69</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Jefferson on Democracy and Public Policy, notes and drafts, ca. 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Judicial Review, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Laud - Successful Policies - What is Success?, note and drafts, 1968-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Legislation, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Mobility, notes, drafts and clippings, 1968-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Note Cards, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>The Plebiscitary Presidency, notes, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Political Parties, notes and clippings, circa 1967</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes untitled typescript, 8p.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">29-30</container>
+              <unittitle>Politics, Democracy, Consent, Resolution of Conflict, notes, drafts and clippings (2 folders), circa 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">31</container>
+              <unittitle>Popular Interpretations of the Constitution, notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">32</container>
+              <unittitle>Precedent and Confidence, notes, drafts and clippings, circa 1967-70</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">33-36</container>
+              <unittitle>Presidency, notes, drafts, typescripts and clippings (4 folders), circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">37</container>
+              <unittitle>The Raft and the River, notes and clippings, n.d.
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">38</container>
+              <unittitle>The Raft and the River, notes and drafts, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">39</container>
+              <unittitle>The Raft and the River- Democracy - Liberty and the Private Sector, notes, drafts and clippings, circa 1969-70</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">40</container>
+              <unittitle>A Revolution?, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">41</container>
+              <unittitle>The Right to Complain, notes, drafts and clippings, 1965-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">8</container>
+              <container type="Folder">1</container>
+              <unittitle>The Scrambled Test; Test Your Sense of History, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>The Tentativeness of Public Policy, notes and clippings, circa 1969-1970
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Transitions [in power], notes, drafts and clippings, 1968-1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>What Does the Budget Tell Us?, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Why an Extremist Has Never Been Elected President, notes, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>X-Factor, notes, circa 1969</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Subject files, general</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">7-9</container>
+              <unittitle>American Government, clippings (3 folders), 1960-1962</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>American Political Science Association, Committee on Political Parties, drafts, 1947</unittitle>
+            </did>
+            <scopecontent>
+              <p> Includes draft memos by Clarence Berdahl, interim reports, preliminary draft titled <title render="doublequote">Outline for a Proposed Program for Party Responsibility,</title> and typescripts by Schattschneider: <title render="doublequote">Wartime Political Behavior,</title> <title render="doublequote">Some Suggestions for Regional Political Research,</title> and <title render="doublequote">Objectives in Research Concerning the Present Status of Political Parties in the United States.</title></p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Biographies, notes and drafts, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Book Citations (45), index cards, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Book titles, note cards, circa 1950s-60s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Campaign Funds, clippings, 1930-1931</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Campaign Funds (1930), Nye Committee, clippings, 1930</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16-18</container>
+              <unittitle>Campaigns - Conduct of, clippings (3 folders), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19-21</container>
+              <unittitle>Campaigns - Conduct of, Red Scare, clippings (3 folders), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Citizenship Clearing House History, typescript, circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Citizenship Clearing House and Citizenship Education Project, newsletters and programs, 1950-1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Conference on Preparing College Men and Women for Politics 1953, programs, documents and typescript, 1953</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes Schattschneider's draft concerning political parties, 2 p.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Congress, clippings, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26-27</container>
+              <unittitle>Congressional Record Quotes 1950-51, notecards (2 folders), circa 1950s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Consent in the Private Sector, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">29</container>
+              <unittitle><title render="doublequote">Cracks in Southern Solidarity,</title> William Buchanan, typescript of Fall 1956 Antioch Review article, circa 1956</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">30</container>
+              <unittitle>Democracy, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">31</container>
+              <unittitle>Democracy, notes and clippings, circa 1965-1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">32-33</container>
+              <unittitle>Dewey/Bricker, clippings (1-2 of 3), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">1</container>
+              <unittitle>Dewey/Bricker, clippings (3 of 3), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2-3</container>
+              <unittitle>Election 1937, clippings (2 folders), 1937</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Election Results Data, Pennsylvania, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5-8</container>
+              <unittitle>Elections and the Electorate - Politics, notes and clippings (4 folders), circa 1960s</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes 2 untitled corrected typescripts, 4 p. each, and "The Overwhelming Public," typescript, 1 p., in folder 4.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Electoral College, notes and clippings, circa 1969-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Equality, clippings, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>The Future of Government, notes and clippings, 1964-1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>General Theory of Politics, notes, drafts and clippings, circa 1950s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Mr. Gerard's 64 Rulers, clippings, 1930</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14-15</container>
+              <unittitle>Government, clippings (2 folders), 1968-1970</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Government and Democracy, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Government vs. Business, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Higher Education in the United States, Wesleyan History, notes, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>House of Representatives, clippings, 1940-1941</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>How Power is Exercised - Negros, clippings, 1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>How Power is Used, notes, clippings and drafts, circa 1960s</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes "The Ungovernable World," typescript, 8 p.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle><title render="doublequote">How to Prevent Organizational 'Dry Rot,'</title> John Gardner, Harpers, October, 1965</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23-24</container>
+              <unittitle>How We Invented the Presidency, notes and clippings (2 folders), circa 1960s-70</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25-30</container>
+              <unittitle>Labor/Political Action Committees, clippings (1-6 of 7), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">1</container>
+              <unittitle>Labor/Political Action Committees, clippings (7 of 7), 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Local Government in Connecticut - Reprints and ephemera, 1960-1967</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Report on Long Lane School [Middletown] Fiscal Years ended June 30, 1951 and 1952</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">4</container>
+              <unittitle> Old Saybrook [CT] Charter Commission, minutes and drafts, 1966-1968</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Mississippi Election 1944, notes, clippings and ephemera, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6-7</container>
+              <unittitle>National Conventions, clippings (2 folders), 1930-1932</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Notebook, pocket-sized, undated</unittitle>
+            </did>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Notes on Books</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Abernathy, <title render="italic">From Frontier to Plantation in Tennessee, </title>undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>Billington, <title render="italic">The Protestant Crusade 1800-1860,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>Burns, <title render="italic">Challenge to Democracy,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">12</container>
+                <unittitle>Carroll, E. M., <title render="italic">Origins of the Whig Party,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>Clark, J. P. <title render="italic">The Rise of a New Federalism,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">14-15</container>
+                <unittitle>Doob, V. L. <title render="italic">Propaganda</title> (2 folders), undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">16</container>
+                <unittitle>Geary, <title render="italic">A History of Third Parties in Pennsylvania 1840-1860,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">17</container>
+                <unittitle>Greeley, Horace. Recollections of a Busy Life, undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">18</container>
+                <unittitle>Krabbe, <title render="italic">The Modern Idea of the State,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">19</container>
+                <unittitle>Lasswell, <title render="italic">Politics,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">20</container>
+                <unittitle>Luetscher, G. D. <title render="italic">Early Political Machines in the United States,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">21</container>
+                <unittitle>Mosher and Ringsley, <title render="italic">Public Personnel Administration,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">22</container>
+                <unittitle>Myres, <title render="italic">Party Bolting,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">23</container>
+                <unittitle>Pierce, <title render="italic">Public Opinion and the Teaching of History,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">24-25</container>
+                <unittitle>Reynolds, <title render="italic">Machine Politics in New Orleans</title> (2 folders), undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">26</container>
+                <unittitle>Weed, Thurlow. <title render="italic">Autobiography,</title> undated</unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="Folder">27</container>
+                <unittitle> Zink, <title render="italic">City Bosses,</title> undated</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Party History Since 1860, notes and collected data, undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Party Responsibility, notes and clippings, circa 1953</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">30</container>
+              <unittitle>Party Responsibility, What is Politics About?, Dualism, notes, circa 1960s
+</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">31-32</container>
+              <unittitle>Plebiscitary Presidency and Political Parties, notes and drafts (2 folders), undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">1</container>
+              <unittitle>Political parties: clippings, 1930-1931</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Political parties: clippings, 1930-1939</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">3-5</container>
+              <unittitle>Political Personalities, clippings (3 folders), 1932-1939</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Population, notes, drafts and clippings, 1965-1967</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes <title render="doublequote">Population Explosions,</title> typescript, 6 p.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">7-8</container>
+              <unittitle>Presidency, General, notes, drafts and clippings (2 folders), circa 1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Presidential Patronage, notes and clippings, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Primary Elections, clippings, 1930</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">11-12</container>
+              <unittitle>Private Sector, notes and drafts (2 folders), undated</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Supreme Court, clippings, 1940-1941</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Teaching and Education, notes, circa 1950s-1960s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Teaching Democracy, notes and clippings, circa 1968</unittitle>
+            </did>
+            <scopecontent>
+              <p>Includes <emph render="doublequote">Check list of things to do when making a local political survey,</emph> typescript.</p>
+            </scopecontent>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">16-18</container>
+              <unittitle>Two-Party System, notes, drafts and clippings (3 folders), circa 1950s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Votes, Elections, Registration, clippings, 1930</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20-21</container>
+              <unittitle>What is Government: notes and clippings, 1960-1967, undated</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 5. Citations, Photographs, Miscellany.</unittitle>
+        </did>
+        <scopecontent>
+          <p>See also Box 13 for oversized photographs.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Folder">22</container>
+            <unittitle>Citations [2], 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">23</container>
+            <unittitle>Photographs of E. E. Schattschneider as a young man [2], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">24</container>
+            <unittitle>Schattschneider family photographs [11], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">25</container>
+            <unittitle>Group photographs including E. E. Schattschneider [2], circa 1950s-1960s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">26</container>
+            <unittitle>Other photographs [2], 1945 and undated</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes inscribed portrait, <emph render="doublequote">For 'Schatt' with the high regards of Brien McMahon, January 1945.</emph></p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">27</container>
+            <unittitle>Souvenir of Camp Sherman, Chillicothe, Ohio, illustrated booklet, 1917</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">28</container>
+            <unittitle>Postcards. 39 black-and-white blank, unsent photo postcards of German cities, circa 1920s-1960s.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 6. Oversized Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Box">12</container>
+            <container type="Folder">1</container>
+            <unittitle>The American Chief Executive, Joseph Kallenbach, peer review notes and corrected typescript, circa 1965-1966</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle>American Government, notes, drafts and clippings, circa 1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">3</container>
+            <unittitle>American Government, notes, drafts and corrected typescripts, circa 1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>British Origins [of U.S. Government], notes and drafts, circa 1969</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Criticisms of Government, notes, circa 1960s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Democracy, notes, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Democracy, notes, drafts and clippings, 1968-1970</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Election Results Data, Pennsylvania, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Functional Theory of Party Organization/The Agenda of American Government, notes and typescripts, after 1951</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">10</container>
+            <unittitle>General Theory of Politics, notes, drafts and clippings, circa 1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Glorious Revolution, notes and typescript, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Government by Consent of the Losers/Majority Rule and Consent, notes and clippings, 1969-1970</unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes copy of Middletown Strike News #5, May 8, 1970.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Illinois, quotes from Illinois newspapers concerning the 1944 election, 1944</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">14</container>
+            <unittitle>Local Government in Connecticut, Old Saybrook Charter Commission, minutes and drafts, 1966-1968</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">15</container>
+            <unittitle>Notes on Pierce, Public Opinion and the Teaching of History, undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">16-17</container>
+            <unittitle>Republican Party in the South, notes, clippings and correspondence (2 folders), 1944-1945</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">18</container>
+            <unittitle>The Semi-Sovereign People, Chapter 2: Scope and Bias of the Political System, <title render="doublequote">Pressure Politics,</title> notes, drafts and corrected typescripts, circa 1960
+</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>South Carolina, 1944 Election</unittitle>
+          </did>
+          <scopecontent>
+            <p>Most notes are handwritten transcriptions of newspaper editorials with glosses by Schattschneider.</p>
+          </scopecontent>
+          <c03>
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Ballot, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>The Campaign, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Election Returns, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Negro Voters, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Party Rules/White Primary, notes, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Poll Tax, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Primary and State Conventions, notes, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Republican Party, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>Soldier Ballot, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Solid South, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Southern Democrats, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">30</container>
+              <unittitle>Special Congressional Election, notes and clippings, 1944</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">31</container>
+              <unittitle>State Senators, notes and clippings, 1944-1945</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">32</container>
+              <unittitle>White Supremacy, notes, 1944</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <title render="italic">Two Hundred Million Americans in Search of a Government</title>
+            </unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Folder">33</container>
+              <unittitle>Early notes and drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">34</container>
+              <unittitle>Chapter 1: What Are We Looking For?, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">35</container>
+              <unittitle>Chapter 2: Why do People Make Miscalculations About Government?, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">36</container>
+              <unittitle>Chapter 5: Why is a Generation a Proper Period of Time for the Study of Politics?, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">37</container>
+              <unittitle>Chapter 6: Some Political Words, notes, drafts and corrected typescripts, 1969</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Folder">38</container>
+              <unittitle>Appendix, drafts, circa 1969</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">39</container>
+            <unittitle>Two-Party System, notes, drafts and clippings, circa 1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Folder">40-43</container>
+            <unittitle>Wisconsin, quotes from Wisconsin newspapers concerning the 1944 election (4 folders), 1944</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">1</container>
+              <unittitle>Family photograph [including Schattschneider in his late teens/early 20s], circa 1910s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Unidentified group photograph of young men, circa 1920s</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Group composite photo labeled <emph render="doublequote">W.H.S. '01</emph> [high school class photo?]</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Series 7. Film and Books.</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="Folder">2</container>
+            <unittitle><title render="doublequote">The Meaning of Democracy,</title> E. E. Schattschneider - Republic Steel Corporation - Building Political Leadership, 16mm, sound, 20 minutes, 1960.</unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Books with annotations by Schattschneider</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Chapin, F. Stuart. <title render="italic">An Introduction to the Study of Social Evolution - The Prehistoric Period.</title> New York: The Century Co., 1913.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Garner, James Wilford. <title render="italic">Introduction to Political Science.</title> New York: American Book Company, 1910.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hennessy, Bernard C. <title render="italic">Political Education and Political Science: The National Center for Education in Politics 1947-1966.</title> Typescript, 1966.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Jones, Chester Lloyd. <title render="italic">Statute Law Making in the United States. </title>Boston: Boston Book Company, 1912.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Lindsey, A. D. <title render="italic">The Essentials of Democracy.</title> Philadelphia: University of Pennsylvania Press, 1929.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="Box">14</container>
+              <unittitle>McMahon, Arthur W. <title render="italic">Congressional Oversight of Administration: The Power of the Purse.</title> New York: Academy of Political Science, 1943.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>McBain, Howard Lee. <title render="italic">Prohibition Legal and Illegal. </title>New York: Macmillan, 1928.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Shields, Currin V. <title render="italic">A Note on Party Organization: The Democrats in California. </title>Reprinted from The Western Political Quarterly, December 1954.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Stedman, Murray S. and Herbert Sontoff. <title render="italic">Party Responsibility-A Critical Inquiry. </title>Reprinted from The Western Political Quarterly, September 1951.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Stone, Irving. <title render="italic">Clarence Darrow for the Defense.</title> New York: Bantam Books, 1958.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Trevelyan, George Macaulay. <title render="italic">England Under the Stuarts.</title> New York: G. P. Putnam's Sons, 1925.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Young, Roland. <title render="italic">The American Congress.</title> New York: Harper Brothers, 1958.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Zinn, Charles J. <title render="italic">How Our Laws Are Made. </title>Washington, D.C.: United States Government Printing Office, 1956.</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

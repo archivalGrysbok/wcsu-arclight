@@ -1,0 +1,403 @@
+BODY	{ 
+    background: #FFFFFF; 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    font-family:  tahoma, arial, sans-serif;
+} 
+
+a      { 
+     border: none; text-decoration: none; color: #000000; 
+}
+
+
+a:link { 
+    border: none; text-decoration: none;
+}
+
+a:active { 
+    border: none; text-decoration: none;
+}
+
+a:visited { 
+    border: none; text-decoration: none;  color: #333366; 
+}
+
+a:hover {
+    text-decoration: blink; background-color: #C5C69B; 
+}
+
+h2.trigger {
+    font-size: 13pt;
+    font-weight: bold;
+    font-family: tahoma, arial, sans-serif;
+    float: left;
+    padding: 0 0 0 50px;
+    margin: 0 0 5px 0;
+    background: url(h2_trigger_a.gif) no-repeat;
+    height: 46px;
+    line-height: 46px;
+    width: 450px;
+}
+
+h2.trigger a {
+	color: #fff;
+	text-decoration: none;
+	display: block;
+}
+
+h2.trigger a:hover  {
+    color: #fff; 
+}
+
+h2.active {background-position: left bottom;} /*--When toggle is triggered, it will shift the image to the bottom to show its "opened" state--*/
+.toggle_container {
+	margin: 0 0 5px;
+	padding: 0;
+	border-top: 1px solid #d6d6d6;
+	background: #f0f0f0 url(toggle_block_stretch.gif) repeat-y left top;
+	overflow: hidden;
+	font-size: 1.2em;
+	width: 500px;
+	clear: both;
+}
+
+
+.toggle_container .block {
+	padding: 20px; /*--Padding of Container--*/
+	background: url(toggle_block_btm.gif) no-repeat left bottom; /*--Bottom rounded corners--*/
+}
+
+
+
+.clear          { 
+/* generic container (i.e. div) for floating buttons */
+    overflow: hidden;
+    width: 100%;
+} 
+
+td.td1 {
+    padding: 4px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #006699;
+    vertical-align: top;
+    background-color: #CDC9B0;
+}
+
+td.td2 {
+    padding: 4px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #006699;
+    vertical-align: middle;
+    background-color: #EFEBD3;
+    font-size: 9pt;
+}
+
+table.table1 {
+    width: 100%;
+	max-width: 850px;
+	border:2px solid #a1a1a1;
+	padding:7px 7px; 
+	border-radius:25px;
+}
+
+table.noteSection {
+    width: 100%;
+	max-width: 850px;
+}
+
+table.tableLayout {
+    width: 100%;
+	max-width: 670px;
+	word-wrap: break-word;
+}
+
+table.footer {
+    background-color: #CDC9B0;
+	width: 100%;
+	max-width: 880px;
+	border:2px solid #a1a1a1;
+	padding:7px 7px; 
+	border-radius:25px;
+}
+
+td.toc {
+    width: 21%;
+	max-width: 180px;
+    vertical-align: top;
+    background-color: #EFEBD3;
+	border:1px solid #a1a1a1;
+	padding:10px 10px; 
+	border-radius:25px;
+	word-wrap: break-word;
+}
+
+td.inventory {
+    margin-left: 3em;
+	text-wrap:normal;
+	word-wrap:break-word;
+	width: 100%;
+	max-width: 670px;
+}
+
+div.count {
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 6pt;
+    color: #000000;
+    text-align: center;
+}
+
+div.small {
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 8pt;
+    color: #000000;
+    text-align: left;
+}
+
+div.header {
+   font-family:  tahoma, arial, sans-serif;
+    background-color: #CDC9B0;
+    font-size: 13pt;
+    color: #000000;
+    text-align: left;
+    line-height: 100%
+}
+
+
+
+div.headerTitle {
+    background-color: #CDC9B0;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 15pt;
+    color: #000000;
+    text-align: left;
+    line-height: 100%
+}
+
+div.headerSummary {
+    background-color: #CDC9B0;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 13pt;
+    color: #000000;
+    text-align: left;
+    line-height: 100%
+}
+
+div.headerCreator {
+    background-color: #CDC9B0;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 13pt;
+    color: #000000;
+    text-align: left;
+    line-height: 100%
+}
+div.unittitleInventory { 
+    margin-left: 3em;
+    font-size: 9pt;
+}
+
+div.containers { 
+    margin-left: 3em;
+    font-size: 9pt;
+}
+
+div.dsc-notes { 
+    margin-left: 6em;
+    margin-right: 10em;    
+    margin-bottom: 0em;
+    font-size: 10pt;
+    background-color: #EDEEEE;
+	-moz-border-radius: 15px;
+    border-radius: 15px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:7px;
+    padding-bottom:7px;
+}
+
+
+div.dsc-daoLink { 
+    margin-left: 8em;
+    margin-bottom: 1em;
+    font-size: 10pt;
+}
+
+div.inventory { 
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+
+div.footer {
+	color: #EDEEEE;
+	font-family:  tahoma, arial, sans-serif;
+	text-align: center
+}
+
+div.series {
+    color: #666666;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 13pt;
+}
+
+div.subseries {
+    color: #6666CC;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 10pt;
+    margin-left: 2em;
+    font-weight: bold;
+}
+
+div.hierarchyTitles {
+    color: #6666CC;
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 9pt;
+    margin-left: 3em;
+    font-weight: bold;
+}
+
+div.didNotes {
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 9pt;
+    margin-left: 4em;
+    background-color: #EDEEEE;
+}
+
+div.dsc-controlaccess {
+   font-family:  tahoma, arial, sans-serif;
+    font-size: 9pt;
+    margin-left: 6em;
+}
+
+hr.inventory  {
+    border: 0;
+    height: 1px;
+    color: #CCCCCC;
+    background-color: #CCCCCC;
+	max-width: 670px;
+	text-align: left;
+}
+
+div.nonDidNotes {
+    font-size: 9pt;
+   font-family:  tahoma, arial, sans-serif;
+    margin-left: 4em;
+    background-color: #EDEEEE;
+}
+
+div.archdesc-nonDidNotes {
+    font-size: 9pt;
+   font-family:  tahoma, arial, sans-serif;
+    margin-left: 1em;
+    text-align: left;
+}
+
+span.dsc-heads {
+    font-size: 8pt;
+    font-weight: bold;
+   font-family:  tahoma, arial, sans-serif;
+    margin-left: 6em;
+    color: #CC9966;
+}
+
+div.heads {
+    font-size: 13pt;
+    font-weight: bold;
+   font-family:  tahoma, arial, sans-serif;
+}
+
+.heads a:after { 
+		content: ";";
+}
+
+div.subHeads {
+    font-size: 10pt;
+    font-weight: bold;
+   font-family:  tahoma, arial, sans-serif;
+    clear: both;
+    text-align: left;
+
+}
+
+div.indexEntry {
+    font-size: 10pt;
+   font-family:  tahoma, arial, sans-serif;
+    text-align: left;
+    clear: both;
+}
+
+span.date {
+    color: #333333;
+   font-family:  tahoma, arial, sans-serif;
+}
+
+
+
+
+blockquote   { 
+        margin-top: 0;  
+        margin-bottom: 1px;
+}
+
+p.toc {
+	font-weight: bold;
+	font-size: 0.800em;
+        color: #CCCC99;
+}
+
+div.tocSeries {
+	font-weight: bold;
+	font-size: 0.750em;
+	color: #000000;
+        margin-left: 1em;
+
+
+}
+
+div.tocSubseries {
+	font-size: 0.700em;
+	color: #000000;
+        margin-left: 2em;
+}
+
+div.chronlist { 
+    margin-left: 6em;
+    font-size: 8pt;
+    background-color: #EDEEEE;
+}
+
+hr	{ 
+	font-size: 1em;
+	width: 850px;
+	text-align: left;
+	margin-left:0
+}
+
+
+
+  @media print {
+    .toc { display:none }
+  }
+  @media print {
+    .body { line-height: 1 }
+  }
+  @media print {
+    .body { font-size: 10pt }
+}
+		
+		.hidden{
+			display:none;
+		}
+		.shown{
+			display:block;
+		}
+		.trigger{
+			background:#ccf;
+		}
+		.open{
+			background:#66f;
+		}
+		.hover{
+			background:#99c;
+		}

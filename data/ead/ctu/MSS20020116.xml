@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/findaids/Bankwitz/MSS20020116.html" mainagencycode="US-CtU" countrycode="US">MSS20020116</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Philip Bankwitz Research Collection</titleproper>
+		<subtitle></subtitle>
+		<author>Finding aid prepared by Betsy Pittman.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2008  University of Connecticut</publisher>
+	<date type="publication">July 2004</date>
+
+	<address><addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline><addressline>405 Babbidge Road, Unit 1205</addressline><addressline>Storrs, Connecticut  06269-1205</addressline><addressline>URL http://doddcenter.uconn.edu/</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Betsy Pittman in July 2004.</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Bankwitz, Philip Charles Farwell. (Collector)</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Philip Bankwitz Research Collection.</unittitle>
+
+	<unitdate label="Dates:">undated, 1928-1994, 2004.</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">3 linear feet.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The collection contains primarily photocopies of correspondence, reports and official documentation of the French government from the 1930s through the end of World War II in 1945.  Dr. Bankwitz was a scholr of modern French history at Trinity College (Hartford, CT).</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="UCW">MSS20020116</unitid>
+
+	<langmaterial><language>French</language>.
+	</langmaterial>
+<langmaterial><language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biography</head>
+	<p><persname>Philip C. F. Bankwitz</persname> was born <date>24 February 1924</date>, the son of <persname>Charles Edward Bankwitz</persname> and <persname>Elizabeth Farwell Bankwitz</persname>.  He was raised in <geogname>Turners Falls, Massachusetts</geogname>.  He received his education at <corpname>Harvard University</corpname> (B.A., 1947; M.A., 1948; Ph.D., 1952).  In 1954, he joined the History Department at <corpname>Trinity College</corpname> where he spent his career until his retirement in 1969.  A scholar of modern <geogname>France</geogname>, Dr. Bankwitz' fluency in French made possible his assignment to the French 2nd Armored Division, one of only thirty Americans to serve with this elite unit of the Free French Forces during World War II.  For his service to <geogname>France</geogname>, he was awarded the French Croix de Guerre.</p>
+<p>A long-time resident of <geogname>Farmington, CT</geogname>, Dr. Bankwitz died on 21 December 2003.</p>
+<note><p>      <emph render="bold">Published Works:</emph></p>
+<list type="simple">
+<item><bibref><title render="italic">Maxime Weygand and Civil-Military Relations in Modern France</title>, <imprint><publisher>Harvard University Press</publisher>, <date type="publication">1967</date>.</imprint></bibref></item>
+<item><bibref><title render="italic">Alsatian Autonomist Leaders</title>, <imprint><publisher>Regents Press of Kansas</publisher>, <date type="publication">1978</date>.</imprint></bibref></item></list></note>
+<p></p>
+</bioghist>
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection contains primarily photocopies of correspondence, reports and official documentation of the French government from the 1930s through the end of World War II in 1945.  A significant quantity of the photocopies are stamped "Foundation Nationale des Sciences Politiques" and are presumed to have been copied from the papers of <persname>Edouard Daladier</persname> located in this repository.  Most of the materials are in French.  In 2008, a 2004 personal tribute of Dr. Bankwitz by Dr. <persname>Martin S. Alexander</persname> was added to the collection.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+	<p>The collection is arranged alphabetically by subject.  Subject categories were determined as much as possible by the donor's notations (in both French and English).</p>
+<p><emph render="bold">Series I: Research Collection and Correspondence</emph> (<date>undated, 1928-1994</date>)</p>
+<p><emph render="bold">Series II: Personal Papers</emph> (<date>1928-2004</date>)</p>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to World War II.  See especially, the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Dodd_Thomas/MSS19940065.html">Thomas Dodd Papers</extref> and <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/findaids/Ctsoldcl/collectiondesc.htm">Connecticut Soldier's Collection</extref>.  For detailed information on these collections please contact the <extref href="http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=3">curator</extref> or ask at the reference desk.</p>
+</relatedmaterial>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local"></persname>
+	
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Trinity College (Hartford, Conn.) Faculty.</subject>
+		<subject encodinganalog="650" source="local">France Politics and government 1940-1945.</subject>
+		<subject encodinganalog="650" source="local">France Politics and government 1914-1940.</subject>
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Photocopies.</genreform>
+<genreform encodinganalog="655" source="local">Newspapers.</genreform>
+<genreform encodinganalog="655" source="local">Photographs.</genreform>
+
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Occupations:</head>
+			<occupation encodinganalog="656" source="local">Historian.</occupation>
+			
+		</controlaccess>
+		</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>The majority of this collection consists of photocopies of materials from <corpname>Foundation Nationale des Sciences Politiques</corpname>.  All references and citations should refer to the original materials at the Foundation in the Archives <persname>Edouard Daladier</persname>.  Permission to publish from this collection must be obtained in writing from the <extref href="http://www.sciences-po.fr/">Foundation</extref>, University of Connecticut Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+<altformavail id="a17" encodinganalog="530">
+	<head>Alternative Form Available</head>
+	<p>Originals of the majority of materials represented in this collection can be found in the <persname>Edouard Daladier</persname> Papers located at the <corpname>Foundation Nationale des Sciences Politiques</corpname>.</p>
+</altformavail>
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#], <persname>Philip Bankwitz</persname> Research Collection.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>The materials were donated by Dr. Bankwitz in October 2002.  Dr. Bankwitz' monograph collection accompanied the donation.  The majority of the titles have been reviewed for inclusion in the University of Connecticut Libraries monograph collection in the Homer Babbidge Library.  Dr. Alexander donated his tribute to Dr. Bankwitz in 2008.</p>
+
+</acqinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+<dsc type="combined" id="a23">
+<head>Detailed Description</head>
+<c01 level="series">
+   <did>
+	<unittitle>Series I:  Research Collection and Correspondence, </unittitle>
+	<unitdate>undated, 1928-1994</unitdate>
+    </did>	
+
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">1</container>
+	<unittitle>"6 F&#x00E9;vrier 1934", </unittitle>
+	<unitdate>undated, 1933</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">3</container>
+	<unittitle>Allemagne - Russie sabotage, </unittitle>
+	<unitdate>1939, 1946</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">4</container>
+	<unittitle>Anglo-French meetings, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">5-6</container>
+	<unittitle>Archives <persname>Edouard Daladier</persname> Inventaire, </unittitle>
+	<unitdate>1972</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">7</container>
+	<unittitle>Armements, </unittitle>
+	<unitdate>1936</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">8</container>
+	<unittitle>Armements--Riom, </unittitle>
+	<unitdate>1939-1941</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">9</container>
+	<unittitle>Armements, </unittitle>
+	<unitdate>1939-1941</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">10</container>
+	<unittitle>Aviation, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">11</container>
+	<unittitle>Boheme, Pologne, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">12</container>
+	<unittitle>Cagoule Suites, </unittitle>
+	<unitdate>1938-1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">13</container>
+	<unittitle>Campagne, </unittitle>
+	<unitdate>1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">14</container>
+	<unittitle>Chars, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">15</container>
+	<unittitle>Chars-Riom, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">16</container>
+	<unittitle>COCOS, </unittitle>
+	<unitdate>1939-1941</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">17</container>
+	<unittitle>COCOS and Armements, </unittitle>
+	<unitdate>1938</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">18</container>
+	<unittitle>Commentary on new books on 1930-1944 period, </unittitle>
+	<unitdate>1960-1961, 1966</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">19</container>
+	<unittitle>Correspondence, </unittitle>
+	<unitdate>1987-1990</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">20</container>
+	<unittitle>Diplomatie--Italie - Finlande, </unittitle>
+	<unitdate>1939-1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">21</container>
+	<unittitle>Dr&#x00F4;le de guerre, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">22</container>
+	<unittitle>Espagne - P&#x00E9;tain, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">23</container>
+	<unittitle>Espionnage, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">24</container>
+	<unittitle>Government-High Command--Daquier, </unittitle>
+	<unitdate>1978</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">25</container>
+	<unittitle>Haut-Commandement and Gouvernement, </unittitle>
+	<unitdate>1936, 1939</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">26</container>
+	<unittitle>History 320 Syllabus (<corpname>Trinity College</corpname>), </unittitle>
+	<unitdate>1987</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">27</container>
+	<unittitle>Honneurs R&#x00F4;le politique, </unittitle>
+	<unitdate>Post 1945</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">28</container>
+	<unittitle>Letters, </unittitle>
+	<unitdate>1944, 1963, 1966</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">29</container>
+	<unittitle>Lettres diverses du grand publique, </unittitle>
+	<unitdate>1940-1942</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">30</container>
+	<unittitle>[loose, unidentified copies], </unittitle>
+	<unitdate>1938-1940</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">31</container>
+	<unittitle>[loose, unidentified copies], </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">32</container>
+	<unittitle>[loose, unidentified copies], </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02>
+<c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">33</container>
+	<unittitle>[loose, unidentified copies], </unittitle>
+	<unitdate>1948-1984</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">34</container>
+	<unittitle>Mobilisation, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">35</container>
+	<unittitle>Munich, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">36</container>
+	<unittitle>Munich--Daladier, </unittitle>
+	<unitdate>1938</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">37</container>
+	<unittitle>Munich--<persname>Henri du Kerillis</persname>, </unittitle>
+	<unitdate>1938</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">38</container>
+	<unittitle>Negotiations, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">39</container>
+	<unittitle>North Africa, </unittitle>
+	<unitdate>1937</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">40</container>
+	<unittitle>Pacte Allemagne - Russie, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">41</container>
+	<unittitle>Plans de mobilisation, </unittitle>
+	<unitdate>1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">42</container>
+	<unittitle>Poland and decl. war, </unittitle>
+	<unitdate>1939-1941, 1964</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">43</container>
+	<unittitle>Proc&#x00E8;s Flandin (Flandin Trial), </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">44</container>
+	<unittitle>Proc&#x00E8;s instruction (Flandin), </unittitle>
+	<unitdate>1940-1945</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">45</container>
+	<unittitle>Protocole Franco-Polonais, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">46</container>
+	<unittitle>Purcie [?], </unittitle>
+	<unitdate>1940, 1960</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">47</container>
+	<unittitle>Rapport de Chautemps, </unittitle>
+	<unitdate>1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">48</container>
+	<unittitle>Results Daladier's National defense career, </unittitle>
+	<unitdate>1930-1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">49</container>
+	<unittitle>Riom, </unittitle>
+	<unitdate>1941</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">50</container>
+	<unittitle>Riom--Air, </unittitle>
+	<unitdate>undated</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">51</container>
+	<unittitle>Riom--Depositions, </unittitle>
+	<unitdate>1936-1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">52</container>
+	<unittitle>Riom--Depositions, </unittitle>
+	<unitdate>1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">53</container>
+	<unittitle>Russie and Armements Fran&#x00E7;ais, </unittitle>
+	<unitdate>1936-1937</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">54</container>
+	<unittitle>Sabotage communiste, </unittitle>
+	<unitdate>1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">55</container>
+	<unittitle>Senat comit&#x00E9; secret, </unittitle>
+	<unitdate>1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">56</container>
+	<unittitle>Supreme War Council, </unittitle>
+	<unitdate>1939-1940</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">57</container>
+	<unittitle><persname>Touvier, Paul</persname>--War Criminal, </unittitle>
+	<unitdate>1994</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">58</container>
+	<unittitle>USSR and Decl. Guerre, </unittitle>
+	<unitdate>1937-1939</unitdate>
+    </did>	
+</c02><c02>
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">59</container>
+	<unittitle>USSR Pacte, </unittitle>
+	<unitdate>1937</unitdate>
+    </did>	
+</c02></c01>
+
+<c01 level="series">
+   <did>
+	<unittitle>Series II: Personal Papers, </unittitle>
+	<unitdate>1928-2004</unitdate>
+    </did>	
+<c02>
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">2</container>
+	<unittitle>Air personal photographs and certificates, </unittitle>
+	<unitdate>1928, 1936, 1938, 1984</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">60</container>
+	<unittitle><persname>Bankwitz, Philip Charles Farwell</persname> -- a personal tribute by <persname>Martin S. Alexander</persname>, </unittitle>
+	<unitdate>2004</unitdate>
+    </did>	
+</c02>
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">61-62</container>
+	<unittitle>"Adjustment of a Professional Army to a Democratic Society: France as a test case, 1885-1896," </unittitle>
+	<unitdate>1948 January</unitdate>
+    </did>	
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">63</container>
+	<unittitle>"Evolution of an Anti-Patriot," </unittitle>
+	<unitdate>1948 May</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">64</container>
+	<unittitle>"Ruhr-Lorraine: A Study in Industrial Complexes," </unittitle>
+	<unitdate>1949 May</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">3:</container>
+	<container type="Folder">65</container>
+	<unittitle>"Towards a Manuel Historique in Medieval War," </unittitle>
+	<unitdate>1949 January</unitdate>
+    </did>	
+</c02>
+
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

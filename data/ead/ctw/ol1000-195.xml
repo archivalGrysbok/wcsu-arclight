@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-195::Stephen Henry Olin Regimental Scrapbook)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/ol1000-195.html">ol1000-195</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Stephen Henry Olin Regimental Scrapbook, <lb/><date normal="1860/1860">1860</date>
+                </titleproper>
+        <author>Processed by: Charlotte Cottier; machine-readable finding aid created by:
+                    Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+                    <sponsor></sponsor>
+                -->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2010" encodinganalog="date">©
+                        2010</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: May 2010</date>
+            </creation>
+      <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+      <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+    </profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Wesleyan Centennial Records, <date type="span">1931</date>
+            </titleproper>
+      <publisher><extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+<!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+      <p><date normal="2010">© 2010</date> Wesleyan University. All Rights
+                Reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did>
+      <head>Descriptive Summary</head>
+      <repository label="Repository">
+        <corpname>Special Collections &amp; Archives, Wesleyan University</corpname>
+      </repository>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname>
+      </origination>
+      <unittitle label="Title" encodinganalog="245">Stephen Henry Olin Regimental Scrapbook,
+                    <unitdate normal="1860" type="inclusive">1860</unitdate></unittitle>
+      <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-195</unitid>
+      <langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial>
+      <physdesc label="Linear Feet">
+        <extent encodinganalog="300">0.1</extent>
+      </physdesc>
+      <physdesc label="Volumes">
+        <extent>1</extent>
+      </physdesc>
+      <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+      <abstract label="Abstract" encodinganalog="545">Stephen Henry Olin, Wesleyan class of 1866, was a lawyer and longtime trustee of Wesleyan University.</abstract>
+      <abstract encodinganalog="520">The Stephen Henry Olin Regimental Scrapbook consists of two sections. The first
+                begins with a hand-painted title page and dedication page, and then continues with
+                about 15 pages of newspaper clippings detailing the travels of the 7th Regiment of the New York Militia in
+                1860. The second section begins after a number of blank pages and consists of
+                humorous newspaper clippings including puns and moral stories. In the middle of the
+                second section are two more hand-painted pages, these dedicated to the New York Fire
+                Department.</abstract>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law. </p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Stephen Henry Olin Regimental Scrapbook, Collection
+                    #1000-195, Special Collections &amp; Archives, Wesleyan University,
+                    Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Given to the library circa 1930 (accession number 177917).</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Charlotte Cottier, May 2010</p>
+        <p>Encoded by Valerie Gillispie, May 2010</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>Stephen Henry Olinwas born in 1847 on the Wesleyan University campus
+                while his father, Stephen Olin, served as its second president. Olin compiled this scrapbook
+                when he was 13 years old, presumably as an admirer of the <emph render="doublequote">Gallant Seventh.</emph></p>
+      <p>After graduating from Wesleyan University in 1866, Olin graduated from the Law School
+                of the University of Albany and began practicing as a lawyer in 1869. His law
+                practice centered on issues of copyright and trademark, particularly in literary
+                publications. Olin was a trustee of Wesleyan University from 1880 to 1925, and
+                in 1922 he also served as acting president of the university.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The Stephen Henry Olin Regimental Scrapbook consists of two sections. The first
+                begins with a hand-painted title page and dedication page, and then continues with
+                about 15 pages of newspaper clippings detailing the travels of the 7th Regiment of the New York Militia in
+                1860. The second section begins after a number of blank pages and consists of
+                humorous newspaper clippings including puns and moral stories. In the middle of the
+                second section are two more hand-painted pages, these dedicated to the New York Fire
+                Department.</p>
+      <p>This scrapbook predates the start of the war, and instead details much lighter
+                subject matter. The first portion of the book consists entirely of newspaper and
+                magazine clippings (many from <title render="italic">Vanity Fair</title>) detailing
+                a trip that the 7th Regiment made to Washington D.C. in February 1860. Specifically,
+                the trip was made to attend the inauguration of a new statue of George Washington.
+                The Regiment was apparently extended the invitation by the Honorable John Cochrane,
+                who made promises of great hospitality. Many of the clippings in this scrapbook are
+                of a cartoonish nature, and show the 7th Regiment facing misfortunes and snubs--
+                first being stood up at the station after a long train ride, then wading through
+                feet of mud in the streets, and finally finding that their host had left the city.
+                There are also articles about the inauguration ceremony itself, as well as a copy of
+                an order sent to the 7th Regiment by Colonel Marshall Lefferts before the trip, but
+                mostly the material laments the <emph render="doublequote">hardships</emph> of the
+                regiment in a rather tongue-in-cheek manner. </p>
+    </scopecontent>
+    <controlaccess><head>Online Catalog Headings</head><p>These and related materials may be found under the following headings in online
+                catalogs.</p><persname source="lcnaf" encodinganalog="600">Olin, Stephen Henry, 1847-1925.</persname>  
+            <corpname source="lcnaf" encodinganalog="610">United States. Army. New York Infantry Regiment, 7th (Militia) (1806-1922)</corpname>  
+            <corpname source="lcnaf" encodinganalog="610">New York (N.Y.). Fire Dept.</corpname>  
+            <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Alumni and alumnae.</corpname>  
+            <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform></controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01><did><unittitle/></did><c02><did><container type="Volume">1</container><unittitle>Scrapbook of Stephen Henry Olin</unittitle></did></c02>
+                
+            </c01>
+    </dsc>
+  </archdesc>
+</ead>

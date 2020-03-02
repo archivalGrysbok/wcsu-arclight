@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+
+<ead>
+    <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+        langencoding="iso639-2" repositoryencoding="iso15511">
+
+        <eadid countrycode="us" mainagencycode="CtW"
+            publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-85::Osmon C. Baker Collection)//EN"
+            url="http://www.wesleyan.edu/libr/schome/FAs/ba1000-85.xml">ba1000-85</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Inventory of the Osmon C. Baker Collection, <lb/><date
+                        normal="1827/1934">1827 - 1869, 1934</date>
+                </titleproper>
+                <author>Processed by: Patricia Bodak Stark, Valerie Gillispie; machine-readable
+                    finding aid created by: Valerie Gillispie</author>
+
+                <!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+            </titlestmt>
+
+            <publicationstmt>&hdrsca; <p><date normal="2011" encodinganalog="date">&#x00A9;
+                        2011</date> Wesleyan University. All Rights Reserved.</p>
+            </publicationstmt>
+
+
+        </filedesc>
+
+        <profiledesc>
+            <creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+                <date>Date of source: April 2011</date>
+            </creation>
+            <langusage>Description is in <language langcode="eng">English</language>
+            </langusage>
+
+            <descrules>Finding aid was prepared using <title>DACS</title></descrules>
+
+        </profiledesc>
+
+        <!-- Location of <revisiondesc> if needed -->
+
+    </eadheader>
+
+
+    <frontmatter>
+        <titlepage>
+            <titleproper>Inventory of the Osmon C. Baker Collection, <date type="span">1827 - 1869,
+                    1934</date>
+            </titleproper>
+
+            <publisher>
+                <extptr show="embed" entityref="weseal"/> Special Collections &amp;
+                Archives<lb/>Wesleyan University<lb/> Middletown, CT, USA </publisher>
+
+
+
+
+
+
+
+
+            <!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. -->
+
+            <p><date normal="2011">&#x00A9; 2011</date> Wesleyan University. All Rights
+                Reserved.</p>
+        </titlepage>
+    </frontmatter>
+
+
+
+
+
+
+
+    <archdesc level="class" relatedencoding="MARC">
+
+        <did>
+            <head>Descriptive Summary</head>
+
+            <repository label="Repository">Special Collections &amp; Archives, Wesleyan
+                University</repository>
+
+            <origination label="Creator">
+                <persname encodinganalog="100">Baker, Osmon C. (Osmon Cleander),
+                    1812-1871.</persname>
+            </origination>
+
+            <unittitle label="Title" encodinganalog="245">Osmon C. Baker Collection, <unitdate
+                    normal="1827/1934" type="inclusive">1827 - 1869, 1934</unitdate></unittitle>
+
+            <unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099"
+                >1000-85</unitid>
+
+            <langmaterial label="Language of Material" encodinganalog="546">Material in <language
+                    langcode="eng">English</language></langmaterial>
+
+            <physdesc label="Linear Feet">
+
+                <extent encodinganalog="300">1.25</extent>
+            </physdesc>
+            <physdesc label="Archival Boxes">
+                <extent>3</extent>
+            </physdesc>
+
+            <physloc label="Location">For current information on the location of these materials,
+                please consult Special Collections &amp; Archives staff.</physloc>
+
+            <abstract label="Abstract" encodinganalog="545">Osmon Cleander Baker attended the Wesleyan Academy (now Wilbraham
+                Academy) and Wesleyan University. Active in the Methodist Episcopal church, he taught
+                and administered at the Newbury Seminary in Vermont and
+                the Methodist General Biblical Institute, in Concord, New Hampshire. In 1852, he was elected a bishop of
+                the Methodist Episcopal Church.</abstract>
+
+
+            <abstract encodinganalog="520">The Osmon C. Baker Collection is arranged into two main series. The first, Accession
+                #1000-85, contains materials from Baker's education at Wesleyan University,
+                including notes, essays, and an autograph album. The second series, Accession
+                #1000-208, is mostly comprised of correspondence to and from Baker. The
+                correspondence begins during Baker's time at the Wesleyan Academy and continues to his
+                service as a bishop in the Methodist Episcopal Church. The series also includes
+                family materials and a small number of writings by Baker.</abstract>
+
+        </did>
+
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+
+            <accessrestrict encodinganalog="506">
+                <head>Access Restrictions</head>
+                <p>No restrictions.</p>
+            </accessrestrict>
+
+            <userestrict encodinganalog="540">
+                <head>Copyright Notice</head>
+                <p>Copyright for Official University records is held by Wesleyan University; all
+                    other copyright is retained by the authors of items in these papers, or their
+                    descendants, as stipulated by United States copyright law.</p>
+            </userestrict>
+
+            <prefercite>
+                <head>Preferred Citation</head>
+                <p>[Identification of item], Osmon C. Baker Collection, Collection #1000-85, Special
+                    Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+            </prefercite>
+
+            <acqinfo encodinganalog="541">
+                <head>Acquisitions Information</head>
+                <p>Series 1 (Accession #1000-85) given by Ohio Northern University Library in
+                    October 1977. Series 2 (Accession #1000-208) given by William A. Morrill, Class
+                    of 1952, around 2007.</p>
+            </acqinfo>
+
+            <processinfo>
+                <head>Processing Information</head>
+                <p>Processed by Patricia Bodak Stark, Valerie Gillispie, April 2011</p>
+                <p>Encoded by Valerie Gillispie, April 2011</p>
+            </processinfo>
+
+        </descgrp>
+        <!-- Enter each paragraph of the bioghist in separate p elements. -->
+        <bioghist>
+            <head>Biographical Note</head>
+            <p>Osmon Cleander Baker, born July 30, 1812 in Marlow, New Hampshire, attended the Wesleyan
+                Academy (now Wilbraham Academy) in Wilbraham, Massachusetts, from 1827 to 1830. He was a member of the
+                Wesleyan University class of 1834, and worked as a preacher while he was a student.
+                However, he did not graduate with his class, as he left college during his senior
+                year, possibly due to illness. Baker taught in the Newbury Seminary in Vermont from
+                1834 to 1839, and was principal of the institution from 1839 to 1843. </p>
+            <p>Active in the Methodist Episcopal church, he was a member of the New Hampshire
+                Conference from 1844 to 1847. Baker served as a professor at the Methodist General
+                Biblical Institute, in Concord, New Hampshire from 1847 to 1849, then as President
+                from 1850 to 1852. He was elected a bishop of the Methodist Episcopal Church in
+                1852. In 1858, Baker University in Kansas was named in Baker's honor.</p>
+            <p>Baker died in Concord, New Hampshire, December 20, 1871. </p>
+
+            <!-- use "Chronlist Tags" here if there is a chronology -->
+        </bioghist>
+
+
+        <!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+        <scopecontent>
+            <head>Collection Overview</head>
+            <p>The Osmon C. Baker Collection is arranged into two main series. The first, Accession
+                #1000-85, contains materials from Baker's education at Wesleyan University,
+                including notes, essays, and an autograph album. The second series, Accession
+                #1000-208, is mostly comprised of correspondence to and from Baker. The
+                correspondence begins during Baker's time at the Wesleyan Academy and continues to his
+                service as a bishop in the Methodist Episcopal Church. The series also includes
+                family materials and a small number of writings by Baker.</p>
+
+        </scopecontent>
+
+        <controlaccess>
+            <head>Online Catalog Headings</head>
+            <p>These and related materials may be found under the following headings in online
+                catalogs.</p>
+
+            <!-- use "Item Level Tags" here for controlaccess terms -->
+
+            <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+                Conn.)--Alumni and alumnae.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+                Conn.)--History.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown,
+                Conn.)--Students.</corpname>
+            <persname source="lcnaf" encodinganalog="600">Baker, Osmon C. (Osmon Cleander),
+                1812-1871.</persname>
+
+            <corpname source="lcnaf" encodinganalog="610">Wesleyan Academy (Wilbraham, Mass.)--Students.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church--Clergy.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">Newbury Seminary (Newbury, Vt.)--Faculty.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">Methodist General Biblical Institute (Concord, N.H.)--Faculty.</corpname>
+            <famname source="lcnaf" encodinganalog="600">Baker family.</famname>
+        </controlaccess>
+
+        <separatedmaterial>
+            <head>Separated Material</head>
+            <p>The following two items have been cataloged separately in Special Collections
+                &amp; Archives.</p>
+            <p>Baker, Osmon C. <title render="italic">Manly elements in the ministry: a discourse delivered to the
+                    graduating class of the Methodist General Biblical Institute in June
+                    1867</title> (Boston: J.P. Magee, 1867).</p>
+            <p>Worcester, Joseph E. <title render="italic">An historical atlas, containing the
+                    following charts : I. Chart of general history, II. Chart of sacred history,
+                    III. Chart of ancient chronology, IV. Chart of sovereigns of Europe, V. Chart of
+                    modern chronology, VI. Historical chart of England, VII. Historical chart of
+                    France, VIII. Chart of American history, IX. Chart of biography, X. Chart of
+                    mythology</title> (Boston: Hilliard, Gray, Little, and Wilkins, 1828). 3rd
+                edition.</p>
+        </separatedmaterial>
+
+
+        <dsc type="combined">
+            <head>Detailed Description of the Collection</head>
+            <!-- use component levels clips to enter in the description of subordinate components -->
+            <c01 level="series">
+                <did>
+                    <unittitle>Series 1. Accession #1000-85</unittitle>
+                </did>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">1</container>
+                        <unittitle>Notes</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Subjects include Acids, Experiments, Botany, Legislation, Moral
+                            Reasoning, Light, Government, Politics, Art, and Chemistry</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>
+                            <title render="doublequote">Outlines of Dr. Fisk’s Moral and Religious
+                                Lectures begun March 13th, 1833</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>
+                            <title render="doublequote">The Lord’s Prayer, Illustrated</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Notes on religion</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>
+                            <title render="doublequote">Notes on Natural Philosophy</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>
+                            <title render="doublequote">The System of Epicurus</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle><title render="doublequote">The Claims of Society,</title>
+                            Wesleyan University, October 18, 1831</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Chemistry notes</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Government notes</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle><title render="doublequote">Sincerity,</title> Wesleyan
+                            University, December 27, 1830</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Fragment of a <emph render="doublequote">scheme</emph> (essay),
+                            May 30, 1833</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">4</container>
+                        <unittitle>A letter to <emph render="doublequote">Mr. Editor,</emph> on
+                            baptism, November 18, 1830</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">4</container>
+                        <unittitle>Portions of essays</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unittitle><title render="doublequote">Lines Written on the Departure of
+                                Salmon C. Perry,</title> Wilbraham, October 16, 1828</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unittitle>
+                            <title render="doublequote">Scripture for Gospel Perfection,
+                                Sanctification, Holiness of Heart, and Leasing from Sin</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unittitle>
+                            <title render="doublequote">Notes on Natural Philosophy</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unittitle><title render="doublequote">The Exercises of my mind relation to
+                                Preaching,</title> 1829</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unittitle><title render="doublequote">Reflection,</title> [poem],
+                            Wilbraham, May 5, 1829</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unittitle><title render="doublequote">A Good Disposition,</title>
+                            Middletown, Conn., December 24, 1830</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unittitle>
+                            <title render="doublequote">Lines composed by [?] Wilson previous to his
+                                death July 10, 1831, member of the college</title>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">1</container>
+                        <container type="Folder">7</container>
+                        <unittitle>Autograph album</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Contains entries (poems, inscriptions, and drawings) dated from Baker’s
+                            time at Wilbraham Academy and Wesleyan University, 1828-1833. Title page
+                            has imprint of E. Hunt &amp; Co., Middletown, Conn.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle>Series 2. Accession #1000-208</unittitle>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Letters to Baker</unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">1</container>
+                            <unittitle>1827-1828</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">2</container>
+                            <unittitle>1829</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">3</container>
+                            <unittitle>1830</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">4</container>
+                            <unittitle>1831</unittitle>
+                        </did>
+                    </c03>
+
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">5</container>
+                            <unittitle>1832</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">6</container>
+                            <unittitle>1833-1839</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">7</container>
+                            <unittitle>1840-1843</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">8</container>
+                            <unittitle>1845</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">9</container>
+                            <unittitle>1846</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">10</container>
+                            <unittitle>1847-1848</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">2</container>
+                            <container type="Folder">11</container>
+                            <unittitle>1849-1852</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">1</container>
+                            <unittitle>1853-1854</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">2</container>
+                            <unittitle>1855-1857</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">3</container>
+                            <unittitle>1862</unittitle>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">4</container>
+                            <unittitle>Undated</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Letters from Baker</unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">5</container>
+                            <unittitle>To Isaac Baker (father), 1838-1845</unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>11 letters.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">6</container>
+                            <unittitle>To Mehitable Baker (wife), 1835-1855</unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>5 letters.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03>
+                        <did>
+                            <container type="Box">3</container>
+                            <container type="Folder">7</container>
+                            <unittitle>To others, 1828-1833</unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>6 letters.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">8</container>
+                        <unittitle>Letters of other individuals, 1828, 1845-1855, 1869, 1934, and
+                            undated</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">9</container>
+                        <unittitle>Family items</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Family history, legal documents, materials belonging to family
+                            members.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">10</container>
+                        <unittitle>Items related to Methodism or the church</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">11</container>
+                        <unittitle>Wesleyan items</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>An appeal from the Alumni Library Fund (1863) and a Commencement/Alumni
+                            activities program (1856).</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">12</container>
+                        <unittitle>Writings</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Many date from Baker's time at the Wilbraham Academy and Wesleyan
+                            University.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">13</container>
+                        <unittitle>Receipts, 1836, 1839</unittitle>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">14</container>
+                        <unittitle><title render="doublequote">Robinson's Map of Western Railways and Connections,</title>
+                            undated</unittitle>
+                    </did>
+                </c02>
+            </c01>
+
+        </dsc>
+
+    </archdesc>
+</ead>

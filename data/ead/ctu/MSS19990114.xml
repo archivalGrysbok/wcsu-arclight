@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid url="http://doddcenter.uconn.edu/findaids/chesson/MSS.html"  mainagencycode="US-CtU" countrycode="US">MSS19990114</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Frederick W. Chesson Connecticut Iron Industry Collection</titleproper>
+		<subtitle></subtitle>
+		<author>Finding aid prepared by Laura Katz Smith.</author>
+
+</titlestmt>
+<publicationstmt>
+	<publisher> &#x00A9; 2010  University of Connecticut</publisher>
+	<date type="publication">August 2010</date>
+
+	<address><addressline>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</addressline><addressline>405 Babbidge Road, Unit 1205</addressline><addressline>Storrs, Connecticut  06269-1205</addressline><addressline>URL http://doddcenter.uconn.edu</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Laura Katz Smith in August 2010.</creation>
+<langusage><language>english</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a"><corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>.
+		</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Chesson, Frederick W. </persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Frederick W. Chesson Connecticut Iron Industry Collection.</unittitle>
+
+	<unitdate label="Dates:">undated, 1920-1949. </unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.0 linear foot.</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Resident of Waterbury, Connecticut, 
+and historian of Connecticut business and industry. Collection includes collected literature about the early iron industry 
+in the United States, particularly Massachusetts, Connecticut, New Jersey, New York, and Pennsylvania. </abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="US-UCW">MSS19990114</unitid>
+
+	<langmaterial><language>eng</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biography</head>
+	<p><persname>Frederick W. Chesson</persname> is a resident of <geogname>Waterbury, Connecticut</geogname>, 
+a collector of documents about <geogname>Connecticut</geogname>'s business and industrial history, and the author of three books about the <geogname>Connecticut</geogname> cities of New Haven, Waterbury and Woodbury.</p>
+<note><p>      <emph render="bold">Published Works:</emph></p></note>
+<list type="simple">
+<item><bibref><title render="italic">New Haven: from the collection of Charles Rufus Harte</title>,
+ <imprint><publisher>Dover, N.H. : Arcadia</publisher>, <date type="publication">1995</date>.
+</imprint></bibref></item>
+
+<item><bibref><title render="italic">Waterbury</title>, <imprint><publisher>Dover, N.H. : Arcadia</publisher>, 
+<date type="publication">1996</date>.</imprint></bibref></item>
+
+
+<item><bibref><title render="italic">Around Woodbury</title>, <imprint><publisher>Charleston, S.C. : Arcadia</publisher>, 
+<date type="publication">2000</date>.</imprint></bibref></item></list>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Content</head>
+	<p>The collection consists of notes, writings, correspondence, photographs, and newspaper clippings created or gathered 
+by <persname>Charles Rufus Harte</persname> and <persname>Herbert Cary Keith</persname>, presumably in preparation for their writing of the book <title render="italic">The Early Iron Industry in Connecticut</title>, written in 1935.  While the main focus of the materials in the collection are on the early iron industry in <geogname>Connecticut</geogname>, there is also information about the iron industry in <geogname>Massachusetts</geogname>, <geogname>New Jersey</geogname>, <geogname>New York</geogname>, and <geogname>Pennsylvania</geogname>, particularly the Hopewell Furnace.</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Archives &#x0026; Special Collections has a substantial collection of materials pertaining to Connecticut business 
+history. For detailed information on these collections please contact the 
+<extref href=" http://www.lib.uconn.edu/online/research/speclib/ASC/collections/curatorinfo.cfm?curatorid=4">curator</extref> or 
+ask at the reference desk.</p>
+</relatedmaterial> 
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.
+</p>
+		<controlaccess>
+			<head>Persons:</head>
+			<persname encodinganalog="700" source="local">Harte, Charles Rufus</persname>
+		<persname encodinganalog="700" source="local">Keith, Herbert Cary</persname>
+		<persname encodinganalog="700" source="local">Murdock, William Bartlett</persname>
+
+		</controlaccess>
+		
+		
+		<controlaccess>
+			<head>Places:</head>
+			<geogname encodinganalog="651" source="local">Hopewell Furnace National Historic Site (Pa.)</geogname>
+				<geogname encodinganalog="651" source="local">Oxford Furnace (Oxford, N.J.)</geogname>
+
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="local">Iron industry and trade -- Connecticut.</subject>
+			<subject encodinganalog="650" source="local">Iron industry and trade -- New York.</subject>
+			<subject encodinganalog="650" source="local">Iron industry and trade -- New Jersey.</subject>
+			<subject encodinganalog="650" source="local">Iron industry and trade -- Massachusetts.</subject>
+			<subject encodinganalog="650" source="local">Iron industry and trade -- Pennsylvania.</subject>
+			<subject encodinganalog="650" source="local">Blast furnaces.</subject>
+			<subject encodinganalog="650" source="local">Saugus Iron Works.</subject>
+
+
+		</controlaccess>
+		
+		<controlaccess>
+			<head>Document Types:</head>
+<genreform encodinganalog="655" source="local">Correspondence.</genreform>
+<genreform encodinganalog="655" source="local">Notebooks.</genreform>
+<genreform encodinganalog="655" source="local">Publications.</genreform>
+<genreform encodinganalog="655" source="local">Photographs.</genreform>
+<genreform encodinganalog="655" source="local">Maps.</genreform>
+<genreform encodinganalog="655" source="local">Manuscripts.</genreform>
+<genreform encodinganalog="655" source="local">Typescripts.</genreform>
+<genreform encodinganalog="655" source="local">Notes.</genreform>
+
+
+		</controlaccess>
+				
+		
+		</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>There are no access restrictions on this collection.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>Permission to publish from this Collection must be obtained in writing from both the University of Connecticut 
+Libraries and the owner(s) of the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>[Item description, #:#],  <persname>Frederick Chesson</persname> Connecticut Iron Industry Collection.  <corpname>Archives &#x0026; Special Collections at the Thomas J. Dodd Research Center</corpname>, <corpname>University of Connecticut Libraries</corpname>.</p>
+</prefercite>
+
+
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>This collection was donated by Mr. <persname>Frederick W. Chesson</persname> in 1999.</p>
+
+</acqinfo>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>Collection, </unittitle>
+	<unitdate>undated, 1920-1949</unitdate>
+    </did>
+
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">1-2</container>
+	<unittitle>General notes about the early iron industry in the <geogname>United States</geogname>, </unittitle>
+	<unitdate>undated, 1920, 1949</unitdate>
+    </did>	
+</c02>
+	
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">3</container>
+	<unittitle>Correspondence to <persname>Charles Rufus Harte</persname> about the history of the iron industry in the 
+<geogname>United States</geogname>, </unittitle>
+	<unitdate>1934-1935</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">4</container>
+	<unittitle>Newspaper clippings about the early iron industry of the <geogname>United States</geogname>, </unittitle>
+	<unitdate>1937</unitdate>
+    </did>	
+</c02>
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">1:</container>
+	<container type="Folder">5-6</container>
+	<unittitle>Extensive notes written by <persname>Herbert Cary Keith</persname>, for his book <title render="italic">The Early Iron Industry in Connecticut</title>, about the iron industry in the <geogname>United States</geogname>, particularly 
+<geogname>New England</geogname>, </unittitle>
+	<unitdate>circa 1930s</unitdate>
+    </did>	
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">7</container>
+	<unittitle>Notes and writings about the early iron industry in <geogname>Connecticut</geogname>, particularly blast furnaces, some of which are authored by <persname>William Bartlett Murdock</persname>, </unittitle>
+	<unitdate>undated, 1935-1937, 1949</unitdate>
+    </did>	
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">8</container>
+	<unittitle>Notes and drafts used in preparation of <title render="italic">The Early Iron Industry in Connecticut</title> by Keith and Harte, </unittitle>
+	<unitdate>circa 1932</unitdate>
+    </did>	
+</c02>
+
+
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">9-10</container>
+	<unittitle>Writings and notes about the early iron industry and blast furnaces in <geogname>Massachusetts</geogname>, with particular emphasis on the <corpname>Saugus Iron Works</corpname> Furnace in <geogname>Saugus, Massachusetts</geogname>, </unittitle>
+	<unitdate>undated, 1937, 1948-1949</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">11</container>
+	<unittitle>Writings about the Oxford Furnace of <geogname>Oxford, New Jersey</geogname>, </unittitle>
+	<unitdate>1946</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">12</container>
+	<unittitle>Writing about mining in <geogname>Orange County, New York</geogname>, </unittitle>
+	<unitdate>1938</unitdate>
+    </did>	
+</c02>
+
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">13</container>
+	<unittitle>Notes about the iron industry in <geogname>Reading, Pennsylvania</geogname>, </unittitle>
+	<unitdate>undated, 1936</unitdate>
+    </did>	
+</c02>
+<c02 level="file">
+   <did>
+	<container type="Box">2:</container>
+	<container type="Folder">14</container>
+	<unittitle>Writing about Hopewell Blast Furnace in <geogname>Pennsylvania</geogname>, </unittitle>
+	<unitdate>1930</unitdate>
+    </did>	
+</c02>
+
+</c01>
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

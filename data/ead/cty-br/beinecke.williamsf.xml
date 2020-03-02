@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.williamsf">beinecke.williamsf</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Williams Family Papers </titleproper>
+            <titleproper type="filing">Williams Family papers</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2014</date>
+            <num>GEN MSS 1180</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Saturday December  8, 2018 at 06:16</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Williams family papers</unittitle>
+         <unitid>GEN MSS 1180</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">0.96</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(3 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1711/1930">1711-1930</unitdate>
+         
+         
+            <unitdate type="bulk" normal="1724/1800">1724-1800</unitdate>
+         
+         <abstract id="aspace_0c7f196fb1193e8e2c2439e2136dd1c0">The Williams Family Papers consists of correspondence, writings, documents, and financial records kept by descendants of William Williams who lived in and near Wethersfield, Connecticut, in the eighteenth and early nineteenth centuries. The papers are those of Elisha Williams, his second wife Elizabeth Scott Williams Smith, and his nephew Ezekiel Williams, merchant and sheriff of Hartford County. The correspondence is with family members and associates; the writings consist of sermons and essays by family members; documents are primarily related to the settlement of Elizabeth Smith's estate in the United States and England. Other papers include an engraved circular letter from London publisher James Rivington advertising a new edition of a work by Philip Doddridge.</abstract>
+         <langmaterial id="aspace_09961946cfc7ec06ebd78eacae5a1cf2">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85146792"
+                     source="lcsh">
+               Williams family
+            </famname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no00050575"
+                      rules="aacr"
+                      source="naf">
+               Parsons, Francis, 1871-1937
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname rules="aacr" source="local">
+               Smith, Elizabeth Scott Williams, 1708-1776
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85247726"
+                      rules="aacr"
+                      source="naf">
+               Williams, Elisha, 1694-1755
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n2008160171"
+                      rules="aacr"
+                      source="naf">
+               Williams, Ezekiel, 1729-1818
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n85247736"
+                      rules="aacr"
+                      source="naf">
+               Williams, Solomon, 1700-1776
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n90652119"
+                      rules="aacr"
+                      source="naf">
+               Williams, Thomas Scott, 1777-1861
+            </persname>
+         </origination>
+      </did>
+      <acqinfo id="aspace_acq">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Francis Parsons (Yale BA 1893, LLB 1897, MA (Hon) 1925), 1937. Other additions are noted at the folder level.</p>  
+      </acqinfo>
+      <accessrestrict id="aspace_arest">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_urest">
+         <head>Conditions Governing Use</head>
+         <p>The Williams Family Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_cite">
+         <head>Preferred Citation</head>
+         <p>Williams Family Papers. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</p>  
+      </prefercite>
+      <processinfo id="aspace_pi">
+         <head>Processing Information</head>
+         <p>Collections are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected. The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>This collection includes materials previously identified by the following call number: Uncat MS Vault 12:1</p>  
+      </processinfo>
+      <bioghist id="aspace_bh1">
+         <head>Williams Family of Connecticut and Massachusetts</head>
+         <p>The papers in this collection were largely donated by Francis Parsons of Hartford, Connecticut, and document his ancestors from five generations above him, all descendants of Robert Williams (1608-1693) and his wife Elizabeth Stalham (1595-1674), who emigrated from England to Roxbury, Massachusetts, in the seventeenth century. Their son Isaac Williams (1638-1709) had a son William Williams (1665-1741), and it is the two sons of William Williams, Elisha (1694-1755) and Solomon (1701-1776), and their descendants, whose papers are present here. These families were prominent citizens and religious leaders in and around Wethersfield, a town south of Hartford. Much of the information about the family was taken from <title type="simple" render="italic">
+               The Ancestors and Descendants of Ezekiel Williams of Wethersfield, 1608-1907
+            </title>, by Mary Dyer Williams McLean (Privately printed, 1907). The principals in the papers are the following family members:</p>
+         <p>Elisha Williams (1694-1755), fourth child born to William Williams and his first wife Elizabeth Cotton Williams (1665–1698), was a Congregational minister, legislator, militia soldier, jurist, and the fourth rector of Yale College (1726-1739). He married twice, first in 1714 to Eunice Chester (died 1750), with whom he had six children, and second to Elizabeth Scott in 1751.</p>
+         <p>Elizabeth Scott Williams Smith (1708-1776) was the daughter of Thomas Scott (1680-1746), independent minister at Norwich, England. A poet and hymnist, she married Elisha Williams in 1751 and moved with him to Connecticut. In 1761 she married a prominent New York jurist, William Smith (1697-1769) and lived in New York City. After his death she returned to Wethersfield to reside at the home of Ezekiel Williams, the nephew of her first husband, until her death there on June 13, 1776.</p>
+         <p>Ezekiel Williams (1729-1818), son of Reverend Solomon Williams (1701-1776) and Mary Porter Williams (1703-1787), was a merchant in Wethersfield and sheriff of Hartford County from 1767 to 1789. He was married to Prudence Stoddard (1734-1822), with whom he had eleven children.</p>
+         <p>Francis Parsons (1871-1937), the donor of the papers, was the son of John Caldwell Parsons (1832-1898) and Mary McClellan (1844-1871). He was a banker, lawyer, and author in Hartford. and the great-great-grandson of Ezekiel Williams (1729-1818).</p>  
+      </bioghist>
+      <bioghist id="aspace_bh2">
+         <head>Williams Family Tree</head>
+         <p>Family members appearing in the papers are underlined.</p>
+         <p>Robert Williams (1608-1693) m Elizabeth Stalham (1595-1674); 7 children, including</p>
+         <p>--2 Isaac Williams (1638-1709) m1 1660 Martha Park (1641-1674), m2 Judith Cooper; 12 children including</p>
+         <p>----3 <emph render="underline"> 
+               <emph render="bold">WILLIAM WILLIAMS (1665-1741)</emph> 
+            </emph> m1 1686 Elizabeth Cotton (1665–1698); m2 1699 Christian Stoddard (1676-1764)</p>
+         <p>------4 William Williams (1687-1687)</p>
+         <p>------4 William Williams (1688-1760)</p>
+         <p>------4 Martha Williams (1690-1766) m Edward Partridge</p>
+         <p>------4 <emph render="bold"> 
+               <emph render="underline">ELISHA WILLIAMS (1694-1755)</emph> 
+            </emph> m1 1714 Eunice Chester (died 1750), m2 1751 <emph render="bold"> 
+               <emph render="underline">ELIZABETH SCOTT (1708-1776)</emph> 
+            </emph>
+         </p>
+         <p>--------5 Eunice Williams (1716-1741)</p>
+         <p>--------5 <emph render="underline">Elisha Williams</emph> (1717-1784) m1 1742 Prudence Robbins, m2 1749 Mehitable Burnham; 7 children</p>
+         <p>--------5 Samuel Williams (1720-1740)</p>
+         <p>--------5 William Williams (1722-1741)</p>
+         <p>--------5 Anne Williams (1731-1750)</p>
+         <p>--------5 Mary Williams (1735-1776) m Eliphalet Williams (1726-1803); 5 children</p>
+         <p>------4 John Williams (1697-1697)</p>
+         <p>------4 <emph render="underline"> 
+               <emph render="bold">SOLOMON WILLIAMS (1701-1776)</emph> 
+            </emph> m 1723 Mary Porter (1703-1787)</p>
+         <p>--------5 Solomon Williams (1723-1723)</p>
+         <p>--------5 <emph render="underline">Solomon Williams</emph> (1725-1743)</p>
+         <p>--------5 <emph render="underline">Eliphalet Williams</emph> (1726-1803) m Mary Williams (1735-1776); 5 children</p>
+         <p>--------5 <emph render="underline"> 
+               <emph render="bold">EZEKIEL WILLIAMS (1729-1818)</emph> 
+            </emph> m 1760 Prudence Stoddard (1734-1822)</p>
+         <p>----------6 Emily Williams (1761-1850) m 1785 Samuel William Williams (died 1812); 11 children</p>
+         <p>----------6 John Williams (1762-1840) m1 Sophia Worthington (1765-1813), m2 Mary Dyer Silliman; 9 children</p>
+         <p>----------6 <emph render="bold">HARRIET WILLIAMS (1764-1850)</emph> m David Parsons (1748-1823); 11 children including</p>
+         <p>------------7 Francis Parsons (1795-1861) m Clarissa Brown; 4 children including</p>
+         <p>--------------8 John Caldwell Parsons (1832-1898) m 1870 Mary McClellan (1844-1871)</p>
+         <p>----------------9 <emph render="bold"> 
+               <emph render="underline">FRANCIS PARSONS (1871-1937)</emph> 
+            </emph> m 1897 Elizabeth Alden Hutchins (1872-)</p>
+         <p>----------6 Ezekiel Williams (1765-1843) m Abigail Ellsworth (1774-1860); 1 child</p>
+         <p>----------6 Prudence Williams (1767-1853) m <emph render="underline">Bezaleel Howard (1753-1837)</emph>; 4 children</p>
+         <p>----------6 Mary Williams (1769-1850) m John Salter (1769-1831); 12 children</p>
+         <p>----------6 Esther Williams (1771-1820); unmarried</p>
+         <p>----------6 Solomon Stoddard Williams (1773-1840); unmarried</p>
+         <p>----------6 Christian Williams (1775-1803); unmarried</p>
+         <p>----------6 <emph render="underline">Thomas Scott Williams (1777-1861)</emph> m1 1812 Delia Ellsworth (1789-1840), m2 Martha Coit (d. 1867); no children</p>
+         <p>----------6 Samuel Porter Williams (1779-1826); m1 Mary H. Webb (d. 1815), m2 Sarah P. Tyler; 13 children</p>
+         <p>--------5 <emph render="underline">William Williams (1731-1811)</emph> m Mary Trumbull (1745-1831)</p>
+         <p>--------5 Mary Williams (1733-1794) m <emph render="underline">Richard Salter</emph>
+         </p>
+         <p>--------5 Thomas Williams (1735-1819) m Rebecca Welles</p>
+         <p>--------5 Christiana Williams (1738-) m John Salter</p>
+         <p>--------5 Moses Williams (1740-1750)</p>
+         <p>--------5 Samuel Williams (1741-1742)</p>
+         <p>--------5 Eunice Williams (1745-1836) m Timothy Stone</p>
+         <p>------4 Elizabeth Williams (1707-1753) m <emph render="underline">Samuel Barnard</emph>
+         </p>
+         <p>------4 <emph render="underline">Israel Williams (1709-1788)</emph>
+         </p>
+         <p>--------5 <emph render="underline">William Williams (1734-1808)</emph>
+         </p>
+         <p>------4 Dorothy Williams (1713-1808) m Jonathan Ashley</p>  
+      </bioghist>
+      <scopecontent id="aspace_sc">
+         <head>Scope and Contents</head>
+         <p>The Williams Family Papers consists of correspondence, documents, and financial records kept by descendants of William Williams who lived in and near Wethersfield, Connecticut, in the eighteenth and nineteenth centuries. The papers include those of Elisha Williams, his second wife Elizabeth Scott Williams Smith, and his nephew Ezekiel Williams, merchant and sheriff of Hartford County.</p>  
+      </scopecontent>
+      <arrangement id="aspace_arr1">
+         <head>Arrangement</head>
+         <p>Organized into four series: I. Elisha Williams Papers, 1711-1759. II. Elizabeth Scott Williams Smith Papers, 1735-1775. III. Ezekiel Williams Papers, 1751-1812. IV. Other Papers, 1724-1930.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Clergy -- Connecticut
+         </subject>
+         <subject source="local">
+            Women -- Connecticut
+         </subject>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85031165"
+                   source="lcsh">
+            Connecticut -- History -- 1775-1865
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85031164"
+                   source="lcsh">
+            Connecticut -- History -- Revolution, 1775-1783
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85031171"
+                   source="lcsh">
+            Connecticut -- Politics and government -- 1775-1865
+         </geogname>
+         <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85140131"
+                   source="lcsh">
+            United States -- History -- Colonial period, ca. 1600-1775
+         </geogname>
+         <genreform source="local">
+            Almanacs -- United States -- 18th century
+         </genreform>
+         <genreform source="local">
+            Circular letters -- England -- London -- 18th century
+         </genreform>
+         <genreform source="local">
+            Estate records -- United States -- 18th century
+         </genreform>
+         <genreform source="local">
+            Sermons -- United States -- 18th century
+         </genreform>
+         <genreform source="local">
+            Wills -- United States -- 18th century
+         </genreform>
+         <occupation source="local">
+            Clergy -- Connecticut -- 18th century
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n77019696"
+                   rules="aacr"
+                   source="naf">
+            Bronson, Isaac, 1760-1838
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n84136035"
+                   rules="aacr"
+                   source="naf">
+            Clap, Thomas, 1703-1767
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85089972"
+                   source="naf">
+            Doddridge, Philip, 1702-1751
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85387447"
+                   rules="aacr"
+                   source="naf">
+            Keteltas, Abraham, 1732-1798
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85198544"
+                   source="naf">
+            Lockwood, James, 1714-1772
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/no00050575"
+                   rules="aacr"
+                   source="naf">
+            Parsons, Francis, 1871-1937
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n83045987"
+                   source="naf">
+            Rivington, James, 1724-1802
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/nr93035128"
+                   rules="aacr"
+                   source="naf">
+            Scott, Thomas, 1680-1746
+         </persname>
+         <persname rules="aacr" source="local">
+            Smith, Elizabeth Scott Williams, 1708-1776
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85247726"
+                   rules="aacr"
+                   source="naf">
+            Williams, Elisha, 1694-1755
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n2008160171"
+                   rules="aacr"
+                   source="naf">
+            Williams, Ezekiel, 1729-1818
+         </persname>
+         <famname authfilenumber="http://id.loc.gov/authorities/subjects/sh85146792"
+                  source="lcsh">
+            Williams family
+         </famname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85247736"
+                   rules="aacr"
+                   source="naf">
+            Williams, Solomon, 1700-1776
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85247734"
+                   rules="aacr"
+                   source="naf">
+            Williams, Stephen, 1693-1782
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n90652119"
+                   rules="aacr"
+                   source="naf">
+            Williams, Thomas Scott, 1777-1861
+         </persname>
+      </controlaccess>
+      <dsc>
+         <c id="aspace_s1" level="series">
+            <did>
+               <unittitle>Elisha Williams Papers</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="folders">18</extent>
+               </physdesc>
+               <unitdate type="inclusive">1711-1759</unitdate>
+            </did>
+            <arrangement id="aspace_ba4e7741e79be3f1e87e821f2282d150">
+               <head>Arrangement</head>
+               <p>Series I is organized into four subseries: Incoming Letters, Outgoing Letters, Other Letters, Other Papers.</p>
+            </arrangement>
+            <scopecontent id="aspace_be58fe0e15a30a55bc4b28b8338e7ccb">
+               <head>Scope and Contents</head>
+               <p>The series contains letters to and from Elisha Williams, notably twenty-six letters from Williams to his cousin Stephen Williams (1693-1782), while the latter was a student at Harvard College and afterward a resident at Hadley, Massachusetts; Stephen was the son of Reverend John Williams of Deerfield, Massachusetts, and was held captive by the Abenakis Indians in Canada for more than a year as a child. Also present are several sermons written by Elisha Williams.</p>
+            </scopecontent>
+            <c id="aspace_d0e324" level="subseries">
+               <did>
+                  <unittitle>Incoming letters</unittitle>
+               </did>
+               <c id="aspace_s1d0e342" level="file">
+                  <did>
+                     <unittitle>Doddridge, Philip</unittitle>
+                     <unitdate type="inclusive">1751 Apr 4</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_e03138cce8a5ba156c1a457ab95c057b"
+                                type="box">1</container>
+                     <container id="aspace_634d005ab0522439f389140526a888c3"
+                                type="folder"
+                                parent="aspace_e03138cce8a5ba156c1a457ab95c057b">1</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e366" level="file">
+                  <did>
+                     <unittitle>Dwight, Joseph</unittitle>
+                     <unitdate type="inclusive">1752 Jun 10</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_2480c8b115a129579afbafa39415babe"
+                                type="box">1</container>
+                     <container id="aspace_7d22e14dbdc23a2018835c23b8e8cd58"
+                                type="folder"
+                                parent="aspace_2480c8b115a129579afbafa39415babe">2</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e390" level="file">
+                  <did>
+                     <unittitle>Smith, Elizabeth Scott Williams</unittitle>
+                     <unitdate type="inclusive">1754, undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_55341838e1f017daef951d89830440bc"
+                                type="box">1</container>
+                     <container id="aspace_7413d9b9a63ef8a18289a024b32cba10"
+                                type="folder"
+                                parent="aspace_55341838e1f017daef951d89830440bc">3</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e414" level="file">
+                  <did>
+                     <unittitle>Williams, Israel</unittitle>
+                     <unitdate type="inclusive">1752 May 4</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_938e1039d643a472979aa4ecc09ac4e1"
+                                type="box">1</container>
+                     <container id="aspace_82eafb231398145c9ecbdd5430d94d38"
+                                type="folder"
+                                parent="aspace_938e1039d643a472979aa4ecc09ac4e1">4</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e438" level="file">
+                  <did>
+                     <unittitle>Williams, Solomon</unittitle>
+                     <unitdate type="inclusive">1740-1750</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_4e1ed99b7a35cc3e89b6360a7098d4d3"
+                                type="box">1</container>
+                     <container id="aspace_36f8359ed8b24809bf345a6d7f4b9741"
+                                type="folder"
+                                parent="aspace_4e1ed99b7a35cc3e89b6360a7098d4d3">5</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e462" level="subseries">
+               <did>
+                  <unittitle>Outgoing letters</unittitle>
+               </did>
+               <c id="aspace_s1d0e480" level="file">
+                  <did>
+                     <unittitle>Ingersoll, Jared</unittitle>
+                     <unitdate type="inclusive">1753 Feb 23</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_1a7e2a205315d0a269241b720ff448e2"
+                                type="box">1</container>
+                     <container id="aspace_6177adbba1ed1cf636f79d2fc2220088"
+                                type="folder"
+                                parent="aspace_1a7e2a205315d0a269241b720ff448e2">6</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e504" level="file">
+                  <did>
+                     <unittitle>Williams, Solomon</unittitle>
+                     <unitdate type="inclusive">1735 Dec 30</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_c092ec21c6f54b30da1c8d4dd4f7e519"
+                                type="box">1</container>
+                     <container id="aspace_83c9178a2d6703edf33e6b928136a0d4"
+                                type="folder"
+                                parent="aspace_c092ec21c6f54b30da1c8d4dd4f7e519">7</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e528" level="file">
+                  <did>
+                     <unittitle>Williams, Stephen</unittitle>
+                     <unitdate type="inclusive">1711-1714, 1724</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_6bdd7162d99c0fc2cb52304681196f5d"
+                                type="box">1</container>
+                     <container id="aspace_85d76d233a88879d4bfdbf2e673677e9"
+                                type="folder"
+                                parent="aspace_6bdd7162d99c0fc2cb52304681196f5d">8</container>
+                  </did>
+                  <custodhist id="aspace_93ad3c679ea9519ccceb8bf4096e8f43">
+                     <head>Custodial History</head>
+                     <p>Letters of 1711-1714 gift of Lemuel Welles, 1939; letter of 1724 gift of Anson P. Stokes, 1937.</p>
+                  </custodhist>
+               </c>
+            </c>
+            <c id="aspace_d0e555" level="subseries">
+               <did>
+                  <unittitle>Other letters</unittitle>
+               </did>
+               <c id="aspace_s1d0e573" level="file">
+                  <did>
+                     <unittitle>William Williams (1665-1741) to his grandsons Elisha, Solomon, and Eliphalet Williams</unittitle>
+                     <unitdate type="inclusive">1739, 1741</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_ccc4656e5929683daaa69aa39370d697"
+                                type="box">1</container>
+                     <container id="aspace_4649e34511da1854c811b76a69b7acd6"
+                                type="folder"
+                                parent="aspace_ccc4656e5929683daaa69aa39370d697">9</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e597" level="subseries">
+               <did>
+                  <unittitle>Other papers</unittitle>
+               </did>
+               <c id="aspace_s1d0e615" level="file">
+                  <did>
+                     <unittitle>Deed for sale of land in Wethersfield from Nathaniel Burnham to Elisha Williams (1717-1784)</unittitle>
+                     <unitdate type="inclusive">1759 Apr 30</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_01e753bbe96c113f1da531ddd6d56211"
+                                type="box">1</container>
+                     <container id="aspace_0f75ac8fd30cacf7fd80c930870ed948"
+                                type="folder"
+                                parent="aspace_01e753bbe96c113f1da531ddd6d56211">10</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e639" level="file">
+                  <did>
+                     <unittitle>Drafts of letters, notes about army problems, draft of codicil to will (4 pages)</unittitle>
+                     <unitdate type="inclusive">1749, undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_0f3f4ec53b0a9f93998c48212cd528b1"
+                                type="box">1</container>
+                     <container id="aspace_2c4f27f143e5a9509554fb7df2129d0a"
+                                type="folder"
+                                parent="aspace_0f3f4ec53b0a9f93998c48212cd528b1">11</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e663" level="file">
+                  <did>
+                     <unittitle>Essay, "The Doctrine of the Publick Covenant between God and his People"</unittitle>
+                     <unitdate type="inclusive">1713</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_822ddb994edb57d4331c754bd84621b8"
+                                type="box">1</container>
+                     <container id="aspace_4a5e5fabedb42e158f0d7b9f8e4508ca"
+                                type="folder"
+                                parent="aspace_822ddb994edb57d4331c754bd84621b8">12</container>
+                  </did>
+                  <custodhist id="aspace_5653f7f14e833720af4cd219e93c85b4">
+                     <head>Custodial History</head>
+                     <p>Gift of Lemuel A. Welles, 1939.</p>
+                  </custodhist>
+               </c>
+               <c id="aspace_d0e690" level="file">
+                  <did>
+                     <unittitle>Last will and testament</unittitle>
+                     <unitdate type="inclusive">1755</unitdate>
+                     <physloc id="aspace_36e7fbfcb0c005fc5e8079a33cbf495f">Stored in: Oversize, Box 3, folder 81</physloc>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e712" level="file">
+                  <did>
+                     <unittitle>Letter of recommendation</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_d4dd62aae43e8815ab3414f6aae68593"
+                                type="box">1</container>
+                     <container id="aspace_15ad30c6d300a649a554e2c4f76884e1"
+                                type="folder"
+                                parent="aspace_d4dd62aae43e8815ab3414f6aae68593">13</container>
+                  </did>
+               </c>
+               <c id="aspace_s1d0e736" level="file">
+                  <did>
+                     <unittitle>Report of sermons preached in New Haven, 1729-1730</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_5b74389a9c516fcb62f01116e94c2d00"
+                                type="box">1</container>
+                     <container id="aspace_53ebfc79183a79baa9a167732f7142c2"
+                                type="folder"
+                                parent="aspace_5b74389a9c516fcb62f01116e94c2d00">14</container>
+                  </did>
+                  <custodhist id="aspace_d7e6ffbc84582283722222dc3e0a6398">
+                     <head>Custodial History</head>
+                     <p>Anonymous gift.</p>
+                  </custodhist>
+               </c>
+               <c id="aspace_s1d0e763" level="file">
+                  <did>
+                     <unittitle>Sermons and fragments (14)</unittitle>
+                     <unitdate type="inclusive">circa 1721-1725</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_a2a2458d03a0ec4651d1518516511d1d"
+                                type="box">1</container>
+                     <container id="aspace_6b3ab12ae10090cebfa78f48147c1e0c"
+                                type="folder"
+                                parent="aspace_a2a2458d03a0ec4651d1518516511d1d">15</container>
+                  </did>
+                  <custodhist id="aspace_c2d19454334e36222263692e43763a80">
+                     <head>Custodial History</head>
+                     <p>Gift of Grace Treadwell, 1930</p>
+                  </custodhist>
+               </c>
+               <c id="aspace_s1d0e790" level="file">
+                  <did>
+                     <unittitle>Sermons (7)</unittitle>
+                     <unitdate type="inclusive">1722-1743, undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_03793b9aa88908766faa15d6916f8455"
+                                type="box">1</container>
+                     <container id="aspace_33a13896a3a2cffcf334d196d3ea70cb"
+                                type="folder"
+                                parent="aspace_03793b9aa88908766faa15d6916f8455">16</container>
+                  </did>
+                  <custodhist id="aspace_ef44503dbaec0ef6e4d92fcab4839c75">
+                     <head>Custodial History</head>
+                     <p>Gift of Lemuel A. Welles, 1939.</p>
+                  </custodhist>
+               </c>
+               <c id="aspace_s1d0e817" level="file">
+                  <did>
+                     <unittitle>Sermon</unittitle>
+                     <unitdate type="inclusive">1724 Sep 27</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_bf72f7e87940cee4aa08b2f3d2ceb2bc"
+                                type="box">1</container>
+                     <container id="aspace_4ae2ab3ffdd3e13cf1908497f0e9a46b"
+                                type="folder"
+                                parent="aspace_bf72f7e87940cee4aa08b2f3d2ceb2bc">17</container>
+                  </did>
+                  <custodhist id="aspace_64a7046e0c6515104491bf6fbe4e5485">
+                     <head>Custodial History</head>
+                     <p>Given to Alexander Joseph Sessions (Yale BA 1831, MA 1845) by John Stoddard Williams (Yale 1827) and then to Benjamin Osgood Peirce; gift of Isabella Landreth Peirce, 1922.</p>
+                  </custodhist>
+               </c>
+               <c id="aspace_s1d0e844" level="file">
+                  <did>
+                     <unittitle>Sermon</unittitle>
+                     <unitdate type="inclusive">1745</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_a95aba0fd867390d02025acaf9793c18"
+                                type="box">1</container>
+                     <container id="aspace_b40eb95d63e21521bc7f54a01463225f"
+                                type="folder"
+                                parent="aspace_a95aba0fd867390d02025acaf9793c18">18</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_s2" level="series">
+            <did>
+               <unittitle>Elizabeth Scott Williams Smith Papers</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="folders">20</extent>
+               </physdesc>
+               <unitdate type="inclusive">1735-1775</unitdate>
+            </did>
+            <arrangement id="aspace_aa72f72eac1bdb822345108382650cd8">
+               <head>Arrangement</head>
+               <p>Series II is organized into four subseries: Incoming Letters, Outgoing Letters, Third-party Letters, and Other Papers.</p>
+            </arrangement>
+            <scopecontent id="aspace_ade3ded6e1dcd3dbfaee1fffecc78c76">
+               <head>Scope and Contents</head>
+               <p>The series contains correspondence and other papers of Elizabeth Scott Williams Smith. The correspondence is primarily incoming from both the Scotts, her family in England, and the Williams family in Connecticut, the brothers and other relations of her first husband Elisha Williams. Notable are fourteen letters from her brother-in-law Rev. Solomon Williams, and four from her brother Thomas Scott, poet, hymnist, and minister at Ipswich; third-party correspondence includes a letter from Smith's father Thomas Scott to another Nonconformist preacher, Rev. Philip Doddridge (1702-1751) of Northampton, England. Also present are three of Smith's autograph manuscript poems.</p>
+               <p>Papers related to the settlement of Elizabeth Smith's estates in England and the United States are filed in Series III.</p>
+            </scopecontent>
+            <c id="aspace_d0e901" level="subseries">
+               <did>
+                  <unittitle>Incoming letters</unittitle>
+               </did>
+               <c id="aspace_s2d0e919" level="file">
+                  <did>
+                     <unittitle>Baker, Rebeckah</unittitle>
+                     <unitdate type="inclusive">1753 Feb 22</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_633d5d82655da642d616f476867e5dd5"
+                                type="box">1</container>
+                     <container id="aspace_7b43e65ed603b50cba7cc771514002e6"
+                                type="folder"
+                                parent="aspace_633d5d82655da642d616f476867e5dd5">19</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e943" level="file">
+                  <did>
+                     <unittitle>Dwight, Joseph</unittitle>
+                     <unitdate type="inclusive">1755 Aug 2</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_9f72e5952e95898db4665db75253e76a"
+                                type="box">1</container>
+                     <container id="aspace_236a89318aba54350bacf4ccdd65885b"
+                                type="folder"
+                                parent="aspace_9f72e5952e95898db4665db75253e76a">20</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e967" level="file">
+                  <did>
+                     <unittitle>Hague, Elizabeth Scott</unittitle>
+                     <unitdate type="inclusive">1769-1774</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_624d90406db6cbdb83a0226aca54cd65"
+                                type="box">1</container>
+                     <container id="aspace_3d49307cc4515eb5a4c6a5200b8446a9"
+                                type="folder"
+                                parent="aspace_624d90406db6cbdb83a0226aca54cd65">21</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e991" level="file">
+                  <did>
+                     <unittitle>Scott, Daniel (1694-1759, uncle)</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_cf1094aac0e1d8cbee19c4eb414b7e7c"
+                                type="box">1</container>
+                     <container id="aspace_aca6d8102c447cda699a87acbdf6bbce"
+                                type="folder"
+                                parent="aspace_cf1094aac0e1d8cbee19c4eb414b7e7c">22</container>
+                  </did>
+                  <odd id="aspace_eaaa737723480f11d4ea7c68bdda3eef">
+                     <head>General</head>
+                     <p>19th-century manuscript copy of two letters dated 1750 and 1755.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s2d0e1018" level="file">
+                  <did>
+                     <unittitle>Scott, John (brother)</unittitle>
+                     <unitdate type="inclusive">1752-1767</unitdate>
+                     <physloc id="aspace_04a78316a6f0b0c2b1d95694c04f5469">Also stored in: Oversize, Box 3, folder 82</physloc>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_ec0fbb1d791d0850a6081a60adcfe345"
+                                type="box">1</container>
+                     <container id="aspace_e9304b6ebbdbf3421cd7c7b26914bceb"
+                                type="folder"
+                                parent="aspace_ec0fbb1d791d0850a6081a60adcfe345">23</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1044" level="file">
+                  <did>
+                     <unittitle>Scott, Mary (step-grandmother, second wife of Daniel Scott Sr.)</unittitle>
+                     <unitdate type="inclusive">1743-1747</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_b20d95160f78dc40d25e5174500cad41"
+                                type="box">1</container>
+                     <container id="aspace_766bdc61ec70e9f9475143a08c621a93"
+                                type="folder"
+                                parent="aspace_b20d95160f78dc40d25e5174500cad41">24</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1068" level="file">
+                  <did>
+                     <unittitle>Scott, Thomas (1680-1746, father)</unittitle>
+                     <unitdate type="inclusive">1735, undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_51082c77bbfaf6ea4b9c487757a965f5"
+                                type="box">1</container>
+                     <container id="aspace_759da28a6bb21201fdcc24152c15a85f"
+                                type="folder"
+                                parent="aspace_51082c77bbfaf6ea4b9c487757a965f5">25</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1092" level="file">
+                  <did>
+                     <unittitle>Scott, Thomas (1705-1775, brother)</unittitle>
+                     <unitdate type="inclusive">1750-1771</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_3b45be259a46a29dfdd4d93abb17f630"
+                                type="box">1</container>
+                     <container id="aspace_b8a347c60f83aafa95ec5b22f416d82c"
+                                type="folder"
+                                parent="aspace_3b45be259a46a29dfdd4d93abb17f630">26</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1116" level="file">
+                  <did>
+                     <unittitle>Williams, Elisha</unittitle>
+                     <unitdate type="inclusive">1753-1754</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_aa5c47a20a637c91567fee35f5eb0a12"
+                                type="box">1</container>
+                     <container id="aspace_f0bdbd843a3ead395d95481cb4115a77"
+                                type="folder"
+                                parent="aspace_aa5c47a20a637c91567fee35f5eb0a12">27</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1140" level="file">
+                  <did>
+                     <unittitle>Williams, Ezekiel</unittitle>
+                     <unitdate type="inclusive">1761, 1768</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_ec51b5fb3135e64b4a5472dc43a56ed5"
+                                type="box">1</container>
+                     <container id="aspace_b50d064a609d5dd58a598626f288f5d1"
+                                type="folder"
+                                parent="aspace_ec51b5fb3135e64b4a5472dc43a56ed5">28</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1164" level="file">
+                  <did>
+                     <unittitle>Williams, Israel</unittitle>
+                     <unitdate type="inclusive">1755 Jul 26</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_acb431493dc6feb93673f0f591947951"
+                                type="box">1</container>
+                     <container id="aspace_564684ee68b407f0770f504df048ebfb"
+                                type="folder"
+                                parent="aspace_acb431493dc6feb93673f0f591947951">29</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1188" level="file">
+                  <did>
+                     <unittitle>Williams, Solomon</unittitle>
+                     <unitdate type="inclusive">1757-1774</unitdate>
+                     <physloc id="aspace_c8a17b89d06d6997b98c786c7d9183aa">Also stored in: Oversize, Box 3, folder 83</physloc>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_9754aac3612c73fbb82731314f4744ea"
+                                type="box">1</container>
+                     <container id="aspace_3593389da5f69b3c8eb716d2d9a70786"
+                                type="folder"
+                                parent="aspace_9754aac3612c73fbb82731314f4744ea">30</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e1214" level="subseries">
+               <did>
+                  <unittitle>Outgoing letters</unittitle>
+               </did>
+               <c id="aspace_s2d0e1232" level="file">
+                  <did>
+                     <unittitle>Harper, Mrs.</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_c5a3401089eef7019625f437fa90c052"
+                                type="box">1</container>
+                     <container id="aspace_3e4bc322cf251bcbcc735457535e4fd4"
+                                type="folder"
+                                parent="aspace_c5a3401089eef7019625f437fa90c052">31</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1256" level="file">
+                  <did>
+                     <unittitle>Scott, Thomas (1680-1746, father)</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_727ab51e31cbf8d1b39796fcfede7a0c"
+                                type="box">1</container>
+                     <container id="aspace_3c2811279bdfaf82ea55ddf2dbdada05"
+                                type="folder"
+                                parent="aspace_727ab51e31cbf8d1b39796fcfede7a0c">32</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e1280" level="subseries">
+               <did>
+                  <unittitle>Third-party letters</unittitle>
+               </did>
+               <c id="aspace_s2d0e1298" level="file">
+                  <did>
+                     <unittitle>Church of Christ, Norwich, England, to James Lockwood, Church of Christ, Wethersfield</unittitle>
+                     <unitdate type="inclusive">1751 May 31</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_eb9a948957e8595e9b42488634d77743"
+                                type="box">1</container>
+                     <container id="aspace_25dcdab470fa9d0ed4760625aea908d6"
+                                type="folder"
+                                parent="aspace_eb9a948957e8595e9b42488634d77743">33</container>
+                  </did>
+                  <odd id="aspace_913396f6a716907ab699e4ebf8af38cd">
+                     <head>General</head>
+                     <p>Regarding Elizabeth Scott Williams's move from one congregation to the other.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s2d0e1325" level="file">
+                  <did>
+                     <unittitle>Daniel Scott to Thomas Scott</unittitle>
+                     <unitdate type="inclusive">1740 Apr 22</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_91bddf65f2680d1dea716d5b01faf555"
+                                type="box">1</container>
+                     <container id="aspace_ac65dd3e27febd32c3119db8689a20b0"
+                                type="folder"
+                                parent="aspace_91bddf65f2680d1dea716d5b01faf555">34</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1349" level="file">
+                  <did>
+                     <unittitle>Philip Doddridge to Thomas Scott</unittitle>
+                     <unitdate type="inclusive">1740 May 26</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_01fc694d2e4cdd9ecb3899150399a925"
+                                type="box">1</container>
+                     <container id="aspace_91fe25d7346949100998a1672bfb2f7e"
+                                type="folder"
+                                parent="aspace_01fc694d2e4cdd9ecb3899150399a925">35</container>
+                  </did>
+               </c>
+               <c id="aspace_s2d0e1373" level="file">
+                  <did>
+                     <unittitle>Thomas Scott to Philip Doddridge</unittitle>
+                     <unitdate type="inclusive">1745 Apr 17</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_632a64807207a68bb71e137b53c25d5f"
+                                type="box">1</container>
+                     <container id="aspace_3e85409fa3010db243a02dadc207e7d5"
+                                type="folder"
+                                parent="aspace_632a64807207a68bb71e137b53c25d5f">36</container>
+                  </did>
+                  <custodhist id="aspace_99fa76d2d4bdb8b0c2e4da474b2aae75">
+                     <head>Custodial History</head>
+                     <p>Purchased on the Azariah Eldridge Memorial Fund, 1916.</p>
+                  </custodhist>
+               </c>
+            </c>
+            <c id="aspace_d0e1400" level="subseries">
+               <did>
+                  <unittitle>Other papers</unittitle>
+               </did>
+               <c id="aspace_s2d0e1418" level="file">
+                  <did>
+                     <unittitle>Poems</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_42d1dc052ab53dd620ea64086e940f77"
+                                type="box">1</container>
+                     <container id="aspace_5a3df8af5a84557564a7a245468ac216"
+                                type="folder"
+                                parent="aspace_42d1dc052ab53dd620ea64086e940f77">37</container>
+                  </did>
+                  <odd id="aspace_4675007b054daa19d54b1577f1cf97c2">
+                     <head>General</head>
+                     <p>Contains: "The Christian Hero," "Family Religion," and "Seeking a New Habitation."</p>
+                  </odd>
+               </c>
+               <c id="aspace_s2d0e1445" level="file">
+                  <did>
+                     <unittitle>Business papers, including notes, bills, agreements</unittitle>
+                     <unitdate type="inclusive">1760-1775</unitdate>
+                     <container label="Mixed Materials (39002092862789)"
+                                id="aspace_032699aaa1bafb1422d1902701bcbc4c"
+                                type="box">1</container>
+                     <container id="aspace_4289d3e2fdf536fcfb17381e04f9ed75"
+                                type="folder"
+                                parent="aspace_032699aaa1bafb1422d1902701bcbc4c">38</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_s3" level="series">
+            <did>
+               <unittitle>Ezekiel Williams Papers</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="folders">26</extent>
+               </physdesc>
+               <unitdate type="inclusive">1751-1812</unitdate>
+            </did>
+            <arrangement id="aspace_20d4b2fdc1f9c0af12e1e7e57d519598">
+               <head>Arrangement</head>
+               <p>Series III is organized into four subseries: Incoming Letters, Outgoing Letters, Third-party Letters, and Other Papers.</p>
+            </arrangement>
+            <scopecontent id="aspace_03d018e323733691661fc93086a73280">
+               <head>Scope and Contents</head>
+               <p>The series contains correspondence and other material related to Ezekiel Williams's family and his career as sheriff of Hartford County. Also present are some papers of his son Thomas Scott Williams (1777-1861), including letters from Williams to Thomas when he was a student at Yale College, and two of his school essays.</p>
+               <p>Notable in this series are three files documenting the estate of William's uncle's second wife, Elizabeth Scott Williams Smith (see Series II), which include her wills, correspondence related to bequests, and financial records for settling the estate in England and the United States.</p>
+            </scopecontent>
+            <c id="aspace_d0e1502" level="subseries">
+               <did>
+                  <unittitle>Incoming letters</unittitle>
+               </did>
+               <c id="aspace_s3d0e1520" level="file">
+                  <did>
+                     <unittitle>Barnard, Samuel</unittitle>
+                     <unitdate type="inclusive">1755 Sep 3</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_425667dce88cd3654d6452f9d3c4841b"
+                                type="box">2</container>
+                     <container id="aspace_1fe599e00d88c92bede5536360a8d000"
+                                type="folder"
+                                parent="aspace_425667dce88cd3654d6452f9d3c4841b">39</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1544" level="file">
+                  <did>
+                     <unittitle>Bronson, Isaac</unittitle>
+                     <unitdate type="inclusive">1791 Sep 7</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_2a0dcb6dfec7d537c7e8d4768e56f64f"
+                                type="box">2</container>
+                     <container id="aspace_6c9f6f218e41068f6586698995975052"
+                                type="folder"
+                                parent="aspace_2a0dcb6dfec7d537c7e8d4768e56f64f">40</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1568" level="file">
+                  <did>
+                     <unittitle>Chauncey, Charles</unittitle>
+                     <unitdate type="inclusive">1789 May 9</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_3e6ebe2742b94b6f2f08ec71ad7b306c"
+                                type="box">2</container>
+                     <container id="aspace_17f4bc21108cc269c40b6afefc942742"
+                                type="folder"
+                                parent="aspace_3e6ebe2742b94b6f2f08ec71ad7b306c">41</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1592" level="file">
+                  <did>
+                     <unittitle>Goodrich, Chauncey</unittitle>
+                     <unitdate type="inclusive">1812 Nov 19</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_b25b14c06e370ea6322cfe11d149468a"
+                                type="box">2</container>
+                     <container id="aspace_d0a518fbbba00c4adfe5d6e40c6fdb7c"
+                                type="folder"
+                                parent="aspace_b25b14c06e370ea6322cfe11d149468a">42</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1616" level="file">
+                  <did>
+                     <unittitle>Hancock, Margaret</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_abce43624263c9d44e743fd4eb4b355c"
+                                type="box">2</container>
+                     <container id="aspace_09fc1af95a77ac91ceadaa080ded8ba0"
+                                type="folder"
+                                parent="aspace_abce43624263c9d44e743fd4eb4b355c">43</container>
+                  </did>
+                  <odd id="aspace_3a35d4815eef33b9c1f6dd7c5b93e88b">
+                     <head>General</head>
+                     <p>Governess for Ezekiel Williams's children; includes three proposed epitaphs for her tombstone, one in the hand of Ezekiel Williams.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e1643" level="file">
+                  <did>
+                     <unittitle>Howard, Bezaleel</unittitle>
+                     <unitdate type="inclusive">1795, 1805</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_ddf5bb62b2077e6fae1d317d3ac06121"
+                                type="box">2</container>
+                     <container id="aspace_1dced4cd0d9975d67acf8e3dd3b98a64"
+                                type="folder"
+                                parent="aspace_ddf5bb62b2077e6fae1d317d3ac06121">44</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1667" level="file">
+                  <did>
+                     <unittitle>Lake, Mary</unittitle>
+                     <unitdate type="inclusive">1789 Sep 15</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_dbb22a8b3b91afea486ce3d509fb8d63"
+                                type="box">2</container>
+                     <container id="aspace_8ac7de614af97566d8895e651954fd73"
+                                type="folder"
+                                parent="aspace_dbb22a8b3b91afea486ce3d509fb8d63">45</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1691" level="file">
+                  <did>
+                     <unittitle>Salter, Richard</unittitle>
+                     <unitdate type="inclusive">1786 Sep 20</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_162ba7c576a032cd78df502d38b6152c"
+                                type="box">2</container>
+                     <container id="aspace_d2984509f395448da211e44e609b1de3"
+                                type="folder"
+                                parent="aspace_162ba7c576a032cd78df502d38b6152c">46</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1715" level="file">
+                  <did>
+                     <unittitle>Tuthill, Jane Hancock</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_d888e7cae8e036df153d64c3be26e576"
+                                type="box">2</container>
+                     <container id="aspace_ececf39879d355cdae565b1889d45ec6"
+                                type="folder"
+                                parent="aspace_d888e7cae8e036df153d64c3be26e576">47</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1739" level="file">
+                  <did>
+                     <unittitle>Williams, Elisha</unittitle>
+                     <unitdate type="inclusive">1755 Apr 4</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_208017cfe13ca8c7f8cb24efd54a51ed"
+                                type="box">2</container>
+                     <container id="aspace_5336ededb0edf6c61e576352f97e29bd"
+                                type="folder"
+                                parent="aspace_208017cfe13ca8c7f8cb24efd54a51ed">48</container>
+                  </did>
+                  <odd id="aspace_b6b93c3d0e92f6e1ee195f74af869e48">
+                     <head>General</head>
+                     <p>With undated autograph note at bottom by Mary D. McLean.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e1766" level="file">
+                  <did>
+                     <unittitle>Williams, William (1731-1811, brother)</unittitle>
+                     <unitdate type="inclusive">1776 Feb 12</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_4113fc9c1555813ca14367e2d8df631a"
+                                type="box">2</container>
+                     <container id="aspace_4674a65a4847b2037728dd75fc9b334b"
+                                type="folder"
+                                parent="aspace_4113fc9c1555813ca14367e2d8df631a">49</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1790" level="file">
+                  <did>
+                     <unittitle>Williams, William (1734-1808, cousin)</unittitle>
+                     <unitdate type="inclusive">1759, 1791</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_2a6bad90d5b33be059d64bd547cd9218"
+                                type="box">2</container>
+                     <container id="aspace_f8d1a8a24daee34feb55d9096caf7065"
+                                type="folder"
+                                parent="aspace_2a6bad90d5b33be059d64bd547cd9218">50</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e1814" level="subseries">
+               <did>
+                  <unittitle>Outgoing letters</unittitle>
+               </did>
+               <c id="aspace_s3d0e1832" level="file">
+                  <did>
+                     <unittitle>Dwight, Elijah</unittitle>
+                     <unitdate type="inclusive">1774 Jan 4</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_39d80fd010581e34f0f5ae15e1408817"
+                                type="box">2</container>
+                     <container id="aspace_c5dc946e8652fd3c6afa3a30144957cb"
+                                type="folder"
+                                parent="aspace_39d80fd010581e34f0f5ae15e1408817">51</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1856" level="file">
+                  <did>
+                     <unittitle>Williams, Thomas Scott</unittitle>
+                     <unitdate type="inclusive">1791-1794</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_53d96279b1eb7c316ebf8464ad573b26"
+                                type="box">2</container>
+                     <container id="aspace_43fea2daab3817238cb7bc951c51f90b"
+                                type="folder"
+                                parent="aspace_53d96279b1eb7c316ebf8464ad573b26">52</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1880" level="file">
+                  <did>
+                     <unittitle>Wolcott, Oliver</unittitle>
+                     <unitdate type="inclusive">1788 Aug 6</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_4dcd915ae4dfdd1d88a984b06b5a51f9"
+                                type="box">2</container>
+                     <container id="aspace_d21b50d8557669a69b4a21ff1420f460"
+                                type="folder"
+                                parent="aspace_4dcd915ae4dfdd1d88a984b06b5a51f9">53</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e1904" level="subseries">
+               <did>
+                  <unittitle>Third-party correspondence</unittitle>
+               </did>
+               <c id="aspace_s3d0e1922" level="file">
+                  <did>
+                     <unittitle>Samuel M. Hopkins to Thomas Scott Williams</unittitle>
+                     <unitdate type="inclusive">1800 Jan 2</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_69f36f30901bc9147e5b1b1ca25f9c6f"
+                                type="box">2</container>
+                     <container id="aspace_d75e40060af1b917d7705a921f06cb91"
+                                type="folder"
+                                parent="aspace_69f36f30901bc9147e5b1b1ca25f9c6f">54</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e1946" level="file">
+                  <did>
+                     <unittitle>Harriet Williams Parsons to Thomas Scott Williams</unittitle>
+                     <unitdate type="inclusive">1797 Sep</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_ea69b998e5959bbf853a4e3e91552b6e"
+                                type="box">2</container>
+                     <container id="aspace_d187fd13b6f690193976b1be1dee323f"
+                                type="folder"
+                                parent="aspace_ea69b998e5959bbf853a4e3e91552b6e">55</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e1970" level="subseries">
+               <did>
+                  <unittitle>Other papers</unittitle>
+               </did>
+               <c id="aspace_s3d0e1988" level="file">
+                  <did>
+                     <unittitle>
+                        <title type="simple" render="italic">
+                           Astronomical Diary and Almanack
+                        </title> (Boston: J. Draper, 1751)</unittitle>
+                     <unitdate type="inclusive">1751</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_ab6d8b8ba4b92ad7f5a9f6f8215fe748"
+                                type="box">2</container>
+                     <container id="aspace_8f3f6fc04e97f75e88fc0dfbc87976ba"
+                                type="folder"
+                                parent="aspace_ab6d8b8ba4b92ad7f5a9f6f8215fe748">56</container>
+                  </did>
+                  <odd id="aspace_d46f2880f307a1cdeb3244089627447c">
+                     <head>General</head>
+                     <p>Includes Williams' autograph manuscript diary annotations.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e2017" level="file">
+                  <did>
+                     <unittitle>Elizabeth Scott Williams Smith estate papers</unittitle>
+                     <unitdate type="inclusive">1773-1796</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_15f368389402f1eec3683218b182e7a1"
+                                type="box">2</container>
+                     <container id="aspace_9f0f690c17620908bae2750f485ec9f8"
+                                type="folder"
+                                parent="aspace_15f368389402f1eec3683218b182e7a1">57-59</container>
+                  </did>
+                  <odd id="aspace_de8d4b8d9762992a86438691c799ba50">
+                     <head>General</head>
+                     <p>Ezekiel Williams served as executor for his aunt's estate; the files contain her autograph will, manuscript copies of and a codicil to the will, an excerpt from William Smith's will, correspondence, invoices, and receipts.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e2044" level="file">
+                  <did>
+                     <unittitle>Gravestone inscription for Solomon Williams</unittitle>
+                     <unitdate type="inclusive">circa 1776</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_eae40890e454fcbade05e76236da4b83"
+                                type="box">2</container>
+                     <container id="aspace_25425f520d340d9d2e6a7a9500761b56"
+                                type="folder"
+                                parent="aspace_eae40890e454fcbade05e76236da4b83">60</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e2068" level="file">
+                  <did>
+                     <unittitle>Legal and other documents related to personal and professional business</unittitle>
+                     <unitdate type="inclusive">1753-1805</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_3ff9bf11bf1aceef7b5d1a094a9c725e"
+                                type="box">2</container>
+                     <container id="aspace_7a0b4d783c1546eec4ad9bab68e27e6a"
+                                type="folder"
+                                parent="aspace_3ff9bf11bf1aceef7b5d1a094a9c725e">61</container>
+                  </did>
+               </c>
+               <c id="aspace_s3d0e2092" level="file">
+                  <did>
+                     <unittitle>Mary Hooker estate papers</unittitle>
+                     <unitdate type="inclusive">1783</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_47790af9569bfa1eb108b97bb4575b69"
+                                type="box">2</container>
+                     <container id="aspace_440e3e8e6d6c24166761378124300ab2"
+                                type="folder"
+                                parent="aspace_47790af9569bfa1eb108b97bb4575b69">62</container>
+                  </did>
+                  <odd id="aspace_f71a0c7a0e7f38732cc6b8d5b8dc96c3">
+                     <head>General</head>
+                     <p>Related to sale of land to Ezekiel Williams.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e2119" level="file">
+                  <did>
+                     <unittitle>Release note from John Chester to Van Horne  Lott</unittitle>
+                     <unitdate type="inclusive">1785 Jul 12</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_54bf587c5beea777f729f341894c150c"
+                                type="box">2</container>
+                     <container id="aspace_46b15ff08031dfbe99c222d607655c18"
+                                type="folder"
+                                parent="aspace_54bf587c5beea777f729f341894c150c">63</container>
+                  </did>
+                  <odd id="aspace_31d0262cc68ef5225be4928823a6dc39">
+                     <head>General</head>
+                     <p>Requesting that Chester's decanters and wine glasses be delivered to Ezekiel Williams.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s3d0e2146" level="file">
+                  <did>
+                     <unittitle>Thomas Scott Williams essays on Homer and Milton</unittitle>
+                     <unitdate type="inclusive">1796</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_b61dd4bf357a50e16336b981fef967fb"
+                                type="box">2</container>
+                     <container id="aspace_48302060632f308faaa235e160279ce2"
+                                type="folder"
+                                parent="aspace_b61dd4bf357a50e16336b981fef967fb">64</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_s4" level="series">
+            <did>
+               <unittitle>Other Papers</unittitle>
+               <unitid>Series IV</unitid>
+               <physdesc>
+                  <extent unit="folders">14</extent>
+               </physdesc>
+               <unitdate type="inclusive">1724-1930</unitdate>
+            </did>
+            <arrangement id="aspace_68cb9caa94bf9439fa1081e205e59bc0">
+               <head>Arrangement</head>
+               <p>Series IV is organized into four subseries: Documents, Letters by Others, Writings by Others, Francis Parsons Papers.</p>
+            </arrangement>
+            <scopecontent id="aspace_22a1ece2c6c3f063d942a296db410c67">
+               <head>Scope and Contents</head>
+               <p>The series contains papers that could not be directly attached to the people in Series I-III, but were found with the collection, including an engraved circular letter from James Rivington &amp; Co. dated 1759. The fourth subseries, Francis Parsons Papers, contains letters to the donor of the collection regarding the family and their papers.</p>
+            </scopecontent>
+            <c id="aspace_d0e2201" level="subseries">
+               <did>
+                  <unittitle>Documents</unittitle>
+               </did>
+               <c id="aspace_s4d0e2219" level="file">
+                  <did>
+                     <unittitle>Contract for the sale of sloop <emph render="italic">Olive</emph> to Thomas by William Laight and Frederick Rhinelander</unittitle>
+                     <unitdate type="inclusive">1773</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_e0eaab794f1f2224db5034f6d125ea7e"
+                                type="box">2</container>
+                     <container id="aspace_8b0e648ff833005737fcde18364b3b7b"
+                                type="folder"
+                                parent="aspace_e0eaab794f1f2224db5034f6d125ea7e">65</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2246" level="file">
+                  <did>
+                     <unittitle>Circular letter from James Rivington  Co. regarding a new edition of Philip Doddridge's <title type="simple" render="italic">
+                           Family Expositor
+                        </title>
+                     </unittitle>
+                     <unitdate type="inclusive">1759 Oct 13</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_f2f52bb1d7437023deb5a3e3df3c208d"
+                                type="box">2</container>
+                     <container id="aspace_b91b2ed918363dc526ebb4488650d10f"
+                                type="folder"
+                                parent="aspace_f2f52bb1d7437023deb5a3e3df3c208d">66</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2272" level="file">
+                  <did>
+                     <unittitle>Letter of recommendation for James Lockwood for license to preach the gospel</unittitle>
+                     <unitdate type="inclusive">1736 Dec 22</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_f198194eebf7ae53203dd9c9a9724803"
+                                type="box">2</container>
+                     <container id="aspace_2ac6fbdf1e7de1e62780c38d7db1cf24"
+                                type="folder"
+                                parent="aspace_f198194eebf7ae53203dd9c9a9724803">67</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2296" level="file">
+                  <did>
+                     <unittitle>William Williams (1731-1811) clipped autographs (2)</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_8496b43df1e2d09fac8021fe950cf9be"
+                                type="box">2</container>
+                     <container id="aspace_9b58003b937bb5401a8662b7e7e884fe"
+                                type="folder"
+                                parent="aspace_8496b43df1e2d09fac8021fe950cf9be">68</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e2320" level="subseries">
+               <did>
+                  <unittitle>Letters by others</unittitle>
+               </did>
+               <c id="aspace_s4d0e2338" level="file">
+                  <did>
+                     <unittitle>Andrew Adams to Stephen Mitchell</unittitle>
+                     <unitdate type="inclusive">1789 Jul 22</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_348113d8bba11811f006ba2d599e9809"
+                                type="box">2</container>
+                     <container id="aspace_0a9a4be878deda7b09923e80f44d6501"
+                                type="folder"
+                                parent="aspace_348113d8bba11811f006ba2d599e9809">69</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2362" level="file">
+                  <did>
+                     <unittitle>Samuel Davies to Joseph Forfitt, August 26, 1758; manuscript copy</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_c72bfa21a406963836c53c3456388a15"
+                                type="box">2</container>
+                     <container id="aspace_86e7934da61dbe5e507dff9770d68440"
+                                type="folder"
+                                parent="aspace_c72bfa21a406963836c53c3456388a15">70</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2386" level="file">
+                  <did>
+                     <unittitle>Samuel Johnson to John Beach</unittitle>
+                     <unitdate type="inclusive">1724 Apr 3</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_824cd623badcde35ddfe99ee4c1e4b83"
+                                type="box">2</container>
+                     <container id="aspace_e7be44bc1b9986389dae2aaa02855dea"
+                                type="folder"
+                                parent="aspace_824cd623badcde35ddfe99ee4c1e4b83">71</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2410" level="file">
+                  <did>
+                     <unittitle>Solomon Williams to Thomas Clap</unittitle>
+                     <unitdate type="inclusive">1752 Feb 13</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_02ae686d8db7ea50c93e89a6071ab21e"
+                                type="box">2</container>
+                     <container id="aspace_0ff4952613bb7e95e3092230ce0967fa"
+                                type="folder"
+                                parent="aspace_02ae686d8db7ea50c93e89a6071ab21e">72</container>
+                  </did>
+                  <custodhist id="aspace_02c3df96b20f79719d908d9438580d71">
+                     <head>Custodial History</head>
+                     <p>Gift of Elizabeth Cutler Woodward, 1951.</p>
+                  </custodhist>
+               </c>
+            </c>
+            <c id="aspace_d0e2437" level="subseries">
+               <did>
+                  <unittitle>Writings by others</unittitle>
+               </did>
+               <c id="aspace_s4d0e2455" level="file">
+                  <did>
+                     <unittitle>"An Essay on Original Sin" by John Arthur</unittitle>
+                     <unitdate type="inclusive">1766 Feb</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_950bb08ca6c371c2adf5784410cca84e"
+                                type="box">2</container>
+                     <container id="aspace_02c3d4cb0e2911154d1b55d9cc9a0d0a"
+                                type="folder"
+                                parent="aspace_950bb08ca6c371c2adf5784410cca84e">73</container>
+                  </did>
+               </c>
+               <c id="aspace_s4d0e2479" level="file">
+                  <did>
+                     <unittitle>Minutes of the General Meeting of the Society for the Propagation of the Gospel in Foreign Parts</unittitle>
+                     <unitdate type="inclusive">1735 May 16</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_354c131d2caed0b2314793a72aa3e6fa"
+                                type="box">2</container>
+                     <container id="aspace_a21de1b437f38e3ae39d26b0d1d48652"
+                                type="folder"
+                                parent="aspace_354c131d2caed0b2314793a72aa3e6fa">74</container>
+                  </did>
+                  <odd id="aspace_10f1b7cca0b23ec6a358e0f5fb87e162">
+                     <head>General</head>
+                     <p>Manuscript copy by David Humphreys; minutes refer to William Williams.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s4d0e2506" level="file">
+                  <did>
+                     <unittitle>Two sermons, author unidentified, England</unittitle>
+                     <unitdate type="inclusive">1734-1735</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_627f61379b569ddeb28dde5025973c7f"
+                                type="box">2</container>
+                     <container id="aspace_9376f7e0818f34ad906569d758435119"
+                                type="folder"
+                                parent="aspace_627f61379b569ddeb28dde5025973c7f">75</container>
+                  </did>
+                  <odd id="aspace_da9424ec37d483b68aab585612f2a9b7">
+                     <head>General</head>
+                     <p>Dated Aylsham, 1734, and Lowestoft, June 1735; likely related to Thomas Scott or his son.</p>
+                  </odd>
+               </c>
+               <c id="aspace_s4d0e2533" level="file">
+                  <did>
+                     <unittitle>Three sermons by Solomon Williams</unittitle>
+                     <unitdate type="inclusive">1764, 1772</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_f3f5b0000be2161ed838200ba5d35114"
+                                type="box">2</container>
+                     <container id="aspace_525082e548bd35a9d67b2fa8a2f8cdc2"
+                                type="folder"
+                                parent="aspace_f3f5b0000be2161ed838200ba5d35114">76</container>
+                  </did>
+               </c>
+            </c>
+            <c id="aspace_d0e2557" level="subseries">
+               <did>
+                  <unittitle>Francis Parsons papers</unittitle>
+               </did>
+               <c id="aspace_d0e2575" level="file">
+                  <did>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+                  <c id="aspace_s4d0e2593" level="file">
+                     <did>
+                        <unittitle>Giffard, Hardinge F.</unittitle>
+                        <unitdate type="inclusive">1890</unitdate>
+                        <container label="Mixed Materials (39002092862797)"
+                                   id="aspace_1b949ac0996f7fdb3803564e7df2e738"
+                                   type="box">2</container>
+                        <container id="aspace_8003b785e46d5f0a0684253a8ebfd6d3"
+                                   type="folder"
+                                   parent="aspace_1b949ac0996f7fdb3803564e7df2e738">77</container>
+                     </did>
+                  </c>
+                  <c id="aspace_s4d0e2617" level="file">
+                     <did>
+                        <unittitle>McLean, Mary Dyer Williams, to Francis and John Caldwell Parsons</unittitle>
+                        <unitdate type="inclusive">1890-1903</unitdate>
+                        <container label="Mixed Materials (39002092862797)"
+                                   id="aspace_b0255aa03db59cd6d74c0ccf1941e303"
+                                   type="box">2</container>
+                        <container id="aspace_92033e53f23ee0ac0703502a6a28da50"
+                                   type="folder"
+                                   parent="aspace_b0255aa03db59cd6d74c0ccf1941e303">78</container>
+                     </did>
+                     <odd id="aspace_f9500f9392103a8774d488c498b32a34">
+                        <head>General</head>
+                        <p>Contains a transcript of a letter from Philip Doddridge to Elizabeth Scott Williams Smith, March 21, 1745.</p>
+                     </odd>
+                  </c>
+                  <c id="aspace_s4d0e2644" level="file">
+                     <did>
+                        <unittitle>Williams, Edward H.</unittitle>
+                        <unitdate type="inclusive">1903 Jan 27</unitdate>
+                        <container label="Mixed Materials (39002092862797)"
+                                   id="aspace_339970fef01244127d2b4d226415b51b"
+                                   type="box">2</container>
+                        <container id="aspace_2a8238f1bbbdaa0afd03a9eeaeadeabb"
+                                   type="folder"
+                                   parent="aspace_339970fef01244127d2b4d226415b51b">79</container>
+                     </did>
+                  </c>
+               </c>
+               <c id="aspace_s4d0e2668" level="file">
+                  <did>
+                     <unittitle>Elizabeth Scott Williams Smith material</unittitle>
+                     <unitdate type="inclusive">circa 1930</unitdate>
+                     <container label="Mixed Materials (39002092862797)"
+                                id="aspace_f60441920558e85ce44700ca88feff7b"
+                                type="box">2</container>
+                     <container id="aspace_c08a0b55f4a836d9c7590454804b0971"
+                                type="folder"
+                                parent="aspace_f60441920558e85ce44700ca88feff7b">80</container>
+                  </did>
+                  <odd id="aspace_3aac5a5a41c0924cd8bf56ebfc9df967">
+                     <head>General</head>
+                     <p>Includes typed transcripts of her published obituary (1776), a letter from her to Eliphalet Williams (1765), and photographs of a mirror and portrait she owned.</p>
+                  </odd>
+               </c>
+            </c>
+         </c>
+         <c id="aspace_s5" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <physdesc>
+                  <extent unit="folders">3</extent>
+               </physdesc>
+            </did>
+            <c id="aspace_s5d0e2716" level="file">
+               <did>
+                  <unittitle>In Series I: Last will and testament</unittitle>
+                  <unitdate type="inclusive">1755</unitdate>
+                  <container label="Mixed Materials (39002104854774)"
+                             id="aspace_3757c534e3ad7ad21a71c31a85fab84a"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_f961e36efa9157cfdc926a00c8c55f0c"
+                             type="folder"
+                             parent="aspace_3757c534e3ad7ad21a71c31a85fab84a">81</container>
+               </did>
+            </c>
+            <c id="aspace_s5d0e2740" level="file">
+               <did>
+                  <unittitle>In Series II: John Scott to Elizabeth Scott Williams Smith</unittitle>
+                  <unitdate type="inclusive">1752</unitdate>
+                  <container label="Mixed Materials (39002104854774)"
+                             id="aspace_ff62774403aacdb36cb2811f2884e99b"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_169f4ed1c2128ffe62ebf413cb3de91c"
+                             type="folder"
+                             parent="aspace_ff62774403aacdb36cb2811f2884e99b">82</container>
+               </did>
+            </c>
+            <c id="aspace_s5d0e2764" level="file">
+               <did>
+                  <unittitle>In Series II:. Solomon Williams to Elizabeth Scott Williams Smith</unittitle>
+                  <unitdate type="inclusive">1762</unitdate>
+                  <container label="Mixed Materials (39002104854774)"
+                             id="aspace_a49a8e842c2753331cc1010ee4f7db59"
+                             type="box">3 (Oversize)</container>
+                  <container id="aspace_691af322a0daceff74432b58bc43f704"
+                             type="folder"
+                             parent="aspace_a49a8e842c2753331cc1010ee4f7db59">83</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

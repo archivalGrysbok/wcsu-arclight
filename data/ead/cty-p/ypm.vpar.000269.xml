@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-P"
+             url="http://hdl.handle.net/10079/fa/ypm.vpar.000269">ypm.vpar.000269</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Arthur Lakes Archives </titleproper>
+            <titleproper type="filing">Lakes (Arthur) Archives</titleproper>
+            <author>Daniel Jonathan Drew</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale Peabody Museum of Natural History</publisher>
+            <address>
+               <addressline>170 Whitney Avenue</addressline>
+               <addressline>New Haven, CT 06511</addressline>
+               <addressline altrender="email">peabody.permissions@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://peabody.yale.edu/"
+                          xlink:title="http://peabody.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2015</date>
+            <num>VPAR.000269</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Tuesday April 30, 2019 at 06:31</creation>
+         <langusage>Finding aid written in English</langusage>
+         <descrules>translation missing: en.enumerations.resource_finding_aid_description_rules.Finding aid created in accordance with Manuscripts and Archives Processing Manual</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Arthur Lakes Archives</unittitle>
+         <unitid>VPAR.000269</unitid>
+         <repository>
+            <corpname>
+               Yale Peabody Museum of Natural History
+            </corpname>
+         </repository>
+    
+         <physdesc>
+            <extent unit="Linear Feet">100</extent>
+         </physdesc>
+         
+            <unitdate type="inclusive" normal="1877/1879">1877-1879</unitdate>
+         
+         <abstract id="aspace_c85990edd50073876c7ca78173e15222">A Collection of Arthur Lakes artwork from his time serving as a collecter for O.C.Marsh.</abstract>
+         <langmaterial id="aspace_c71f88e46e92df606914f54b40dc61eb">
+            <language>In English.</language>
+         </langmaterial>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/no92030641"
+                      rules="aacr"
+                      source="naf">
+               Lakes, Arthur, 1844-1917
+            </persname>
+         </origination>
+      </did>
+      <prefercite id="ref1">
+         <head>Cite As</head>
+         <p>Arthur Lakes Archives, Vertebrate Paleontology, Yale Peabody Museum</p>  
+      </prefercite>
+      <bioghist id="ref2">
+         <head>Biographical Sketch</head>
+         <p>Arthur Lakes (21 December 1844 ? 21 November 1917) was a notable geologist, artist, writer, teacher and minister. He captured much of his geological and palaeontological field work in sketches and watercolours. He was a part-time professor at what later became the Colorado School of Mines when he sent a fossilized vertebra specimen (from the Morrison Formation of Dakota, U.S.) to Othniel Charles Marsh at the Yale Peabody Museum of Natural History in 1877. He was then employed by Marsh as a field worker to seek other fossils. These fossils and sites are recorded in his artwork. He worked for O.C Marsh from 1877-1880. During this time, he also worked as a teacher at what is now the Colorado School of Mines and as a clergyman. When he retired from fossil hunting, he went on to work for the U.S. Geological Survey.</p>  
+      </bioghist>
+      <scopecontent id="ref4">
+         <head>Description of the Material</head>
+         <p>The Arthur Lakes Archives most notably include water colors and sketches of localities and specimens from his collecting trips. As well as a small amount of correspondence and field notes.</p>  
+      </scopecontent>
+      <controlaccess>
+         <genreform source="local">
+            Drawings
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300026877" source="aat">
+            Correspondence 
+         </genreform>
+         <genreform source="local">
+            Field notebooks
+         </genreform>
+         <corpname rules="dacs" source="local">
+            Yale Peabody Museum
+         </corpname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/n79043367"
+                   source="naf">
+            Yale University
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref6" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <unitdate type="inclusive">1877-1879</unitdate>
+            </did>
+            <c id="ref7" level="file">
+               <did>
+                  <unittitle>O.C. Marsh Correspondence.</unittitle>
+                  <unitid>000273</unitid>
+                  <unitdate type="inclusive">1877-1879</unitdate>
+               </did>
+               <c id="ref8" level="file">
+                  <did>
+                     <unittitle>Postcard from Arthur Lakes to O. C. Marsh dated 22 March 1878. Postcard from Arthur Lakes to O. C. Marsh dated 22 March 1878</unittitle>
+                     <unitid>002788</unitid>
+                     <unitdate type="inclusive">1878</unitdate>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref9" level="series">
+            <did>
+               <unittitle>Drawings</unittitle>
+               <unitid>Series II</unitid>
+               <unitdate type="inclusive">1877-1879</unitdate>
+            </did>
+            <c id="ref10" level="file">
+               <did>
+                  <unittitle>Locality Drawings, etc.</unittitle>
+                  <unitid>000275</unitid>
+                  <unitdate type="inclusive">1877-1879</unitdate>
+               </did>
+            </c>
+            <c id="ref11" level="file">
+               <did>
+                  <unittitle>Specimen Drawings, etc.</unittitle>
+                  <unitid>000276</unitid>
+                  <unitdate type="inclusive">1877-1879</unitdate>
+               </did>
+            </c>
+         </c>
+         <c id="ref12" level="series">
+            <did>
+               <unittitle>Field Notes</unittitle>
+               <unitid>Series III</unitid>
+               <unitdate type="inclusive">1877-1879</unitdate>
+            </did>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Field Notes.</unittitle>
+                  <unitid>002755</unitid>
+               </did>
+            </c>
+         </c>
+         <c id="ref14" level="series">
+            <did>
+               <unittitle>Miscellaneous</unittitle>
+               <unitid>Series IV</unitid>
+               <unitdate type="inclusive">1877-1879</unitdate>
+            </did>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Miscellaneous.</unittitle>
+                  <unitid>002756</unitid>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <?xml-stylesheet type="text/xsl" href="ccsuvhp.xsl"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-ctnbt-2" url="http://library.ccsu.edu/cpaaead/vhp/VHP200508.xml">VHP200508</eadid>
+
+<filedesc>
+            <titlestmt>
+                <titleproper>Dorothy Krampitz Evarts Papers
+                    <num>VHP2005/8</num>
+                </titleproper>
+                <subtitle>An Inventory of Dorothy Krampitz Evarts at the Veterans History Project</subtitle>
+                <author>Finding aid prepared by Evelyn B. Green</author>
+                <sponsor>CCSU Veterans History Project is an official partner with The Veterans History Project of the American Folklife Center, Library of Congress</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ccsu.edu/uploaded/websites/Veterans_History_Project/Site_Images/vets-partner-large.gif"/>
+                </p>
+                <publisher>CCSU Veterans History Project</publisher>
+                <address>
+                    <addressline>1615 Stanley Street</addressline>
+                    <addressline>New Britain, CT, 06050</addressline>
+                </address>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-20T12:51-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>6/19/2010</date>
+                <item>EAD encoded</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dorothy Krampitz Evarts Papers</unittitle>
+            <unitid>VHP2005/8</unitid>
+            <repository>
+                <corpname>CCSU Veterans History Project</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Digital objects</extent>
+                <extent>1 interview DVD</extent>
+            </physdesc>
+            <unitdate normal="2005/2005">November 11, 2005</unitdate>
+            <abstract id="ref2" label="Abstract">The Collection offers a first hand account of Dorothy Krampitz Evarts experiences in Hawaii as a civil service worker during World War II. The Collection is made up of Mrs. Evarts’ interview and the subsequent video log.</abstract>
+            <physloc id="ref8" label="Location">Center for Public Policy and Social Research (CPPSR) 207 DiLoreto Hall, Central Connecticut State University (CCSU) 1615 Stanley St. New Britain, CT 06050</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Evarts, Dorothy K.,  (Dorothy Krampitz), 1926 -</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Dorothy Krampitz Evarts served as a civil service worker during World War II in Oahu, Hawaii. Dorothy Evarts joined her husband, a reservist, in Hawaii some time after the December 7, 1941 bombing of Pearl Harbor. While in Hawaii the couple worked for the government, and lived in Navy housing. Mr. Evarts drove supply trucks, and Dorothy worked posting supplies for ships arriving and departing Pearl Harbor’s Naval Shipyard. She continued working until her departure soon after VJ Day.</p>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>Open for Research</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>For permission to publish please contact Central Connecticut State University’s Center for Public Policy and Social Research at (860) 832-2976.</p>
+        </userestrict>
+        <altformavail id="ref7">
+            <head>Online Access</head>
+            <p>An online exhibition of this veteran's papers can be accessed at 
+                <extref ns2:actuate="onRequest" ns2:href="http://www.ccsu.edu/page.cfm?p=993">project's website</extref></p>
+        </altformavail>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>"Dorothy Krampitz Evarts Papers.VHP2005/8." Veterans History Project; Central Connecticut State University, Center for Public Policy and Social Research</p>
+        </prefercite>
+        <phystech id="ref10">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Technical metadata of digital objects are extracted and encoded in PREMIS preservation metadata format 
+                <lb/>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="PREMIS" ns2:href="preservation/preservation metadata/200508premis.xml">Preservation Metadata</extref></p>
+        </phystech>
+        <controlaccess>
+            <corpname source="ingest">United States. Navy.</corpname>
+            <genreform source="aat">Interviews</genreform>
+            <subject source="lcsh">United States. Navy -- Civilian employees</subject>
+            <subject source="lcsh">World War, 1939-1945</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Personal narratives, American</subject>
+            <subject source="lcsh">World War, 1939-1945 -- Women</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Interview synopsis</unittitle>
+                    <unitid>VHP2005-08.1</unitid>
+                    <unitdate normal="2005/2005">November 21, 2005</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Oral history interview</unittitle>
+                    <unitid>VHP2005-08.2</unitid>
+                    <container id="cid40075" type="Disk" label="Computer disks / tapes">DVD VHP2005/8</container>
+                    <container parent="cid40075" type="Box">VHP Interview#1</container>
+                    <unitdate normal="2005/2005">November 21, 2005</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local" role="Interviewer (ivr)">Zigmunds, Pamela J.</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

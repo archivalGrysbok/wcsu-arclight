@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              relatedencoding="marc"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-CtY-BR"
+             url="http://hdl.handle.net/10079/fa/beinecke.cabell">beinecke.cabell</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the James Branch Cabell Collection
+ </titleproper>
+            <titleproper type="filing">Cabell (James Branch) Collection</titleproper>
+            <author>by Beinecke Staff</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <address>
+               <addressline>P. O. Box 208330</addressline>
+               <addressline>New Haven, CT 06520-8330</addressline>
+               <addressline altrender="email">beinecke.library@yale.edu</addressline>
+               <addressline>
+                  <extptr xlink:href="http://beinecke.library.yale.edu/"
+                          xlink:title="http://beinecke.library.yale.edu/"
+                          xlink:show="new"/>
+               </addressline>
+            </address>
+            <date>2012</date>
+            <num>YCAL MSS 566</num>
+         </publicationstmt>
+      </filedesc>
+      
+      
+      
+      
+      <!--CC0 1.0 Universal (CC0 1.0)-->
+      
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on Wednesday January 23, 2019 at 04:48</creation>
+         <langusage>Finding aid written in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>James Branch Cabell collection</unittitle>
+         <unitid>YCAL MSS 566</unitid>
+         <repository>
+            <corpname>
+               Beinecke Rare Book and Manuscript Library
+            </corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc>
+            <extent unit="Linear Feet">2.1</extent>
+         </physdesc>
+         <physdesc altrender="container_summary">(6 boxes)</physdesc>
+         
+            <unitdate type="inclusive" normal="1912/1971">1912-1971</unitdate>
+         
+         
+            <unitdate type="bulk" normal="1927/1954">1927-1954</unitdate>
+         
+         <abstract id="aspace_4b66147d86033fbcd17dac0d438ab2f3">The collection contains letters, manuscripts, and printed material related to the life and work of James Branch Cabell. The letters in Series I were written by Cabell to his publishers, literary collaborator, and colleagues; in most cases the folders include carbon copies of responses sent back to Cabell. Writings in Series II are typescripts and proofs of several works, and include correspondence related to their publication, as well as designs by John O'Hara Cosgrave for the cover and end papers of Cabell's work There Were Two Pirates. Series III holds published material about Cabell, including reviews of his work, in the form of clippings, pamphlets, and other ephemera, and portrait photographs by Carl Van Vechten and Foster Studio, Richmond.</abstract>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n80039689"
+                      source="naf">
+               Cabell, James Branch, 1879-1958
+            </persname>
+         </origination>
+         <origination label="creator">
+            <persname authfilenumber="http://id.loc.gov/authorities/names/n78095475"
+                      source="naf">
+               Van Vechten, Carl, 1880-1964
+            </persname>
+         </origination>
+         <origination label="creator">
+            <corpname source="local">
+               Foster Studio
+            </corpname>
+         </origination>
+    
+      </did>
+      <acqinfo id="aspace_7449717dab4d908a6ee4906bc702dcaa">
+         <head>Immediate Source of Acquisition</head>
+         <p>The collection was assembled by library staff and was acquired by gift and purchase from various sources. Source information is recorded at the folder level in the contents list. For further information, consult the appropriate curator.</p>  
+      </acqinfo>
+      <accessrestrict id="aspace_ea5f4e6e5ea7c8af6f792df1fb21b8d3">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research.</p>  
+      </accessrestrict>
+      <userestrict id="aspace_d37181fa21e8028aa0ef41c4d775dbb0">
+         <head>Conditions Governing Use</head>
+         <p>The James Branch Cabell Collection is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</p>  
+      </userestrict>
+      <prefercite id="aspace_0f85f6123c55fdf884c6d7b50372c33b">
+         <head>Preferred Citation</head>
+         <p>James Branch Cabell Collection. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</p>  
+      </prefercite>
+      <processinfo id="aspace_ab0707da25df5a5f0df961b7607c95a7">
+         <head>Processing Information</head>
+         <p>Collection are processed to a variety of levels, depending on the work necessary to make them usable, their perceived research value, the availability of staff, competing priorities, and whether or not further accruals are expected. The library attempts to provide a basic level of preservation and access for all collections, and does more extensive processing of higher priority collections as time and resources permit.</p>
+         <p>This collection received a basic level of processing, including rehousing and minimal organization, in 2012.</p>
+         <p>This finding aid was produced from previously existing cards in the Manuscripts Catalog. All pertinent bibliographical information has been retained.</p>
+         <p>This collection includes materials previously identified by the following call numbers: Za Cabell, Za C109 +1, Za C109 +S1, Za C109 +G1, and Za Obj Art.</p>  
+      </processinfo>
+      <bioghist id="aspace_8527c845fa32eedf32d0a6226bb5c9bc">
+         <head>James Branch Cabell (1879-1958)</head>
+         <p>James Branch Cabell, American author of works of fiction and non-fiction, including novels, comedies, short stories, essays, poetry, and writings on genealogy. He was a native of Richmond, Virginia, and a graduate of the College of William and Mary.</p>
+         <p>For a full biography and bibliography of his work, see Cabell's entry in the online Encyclopedia of Virginia at http://www.encyclopediavirginia.org/Cabell_James_Branch_1879-1958 (accessed November 12, 2012).</p>  
+      </bioghist>
+      <scopecontent id="aspace_01df44b9acf28ac0b0f1f08966ee12bb">
+         <head>Scope and Contents</head>
+         <p>The collection contains letters, manuscripts, and printed material related to the life and work of James Branch Cabell. The letters in Series I were written by Cabell to his publishers, literary collaborator, and colleagues; in most cases the folders include carbon copies of responses sent back to Cabell. Writings in Series II are typescripts and proofs of several works, and include correspondence related to their publication, as well as designs by John O'Hara Cosgrave for Cabell's work There Were Two Pirates. Series III holds biographical material and published reviews of Cabell's work in the form of clippings, pamphlets, and other ephemera, along with portrait photographs of Cabell by Carl Van Vechten and by the Foster Studio, Richmond.</p>  
+      </scopecontent>
+      <arrangement id="aspace_01cf2d575d7bde14d36a5d711a401407">
+         <head>Arrangement</head>
+         <p>Organized into three series: I. Correspondence, 1918-1958. II. Writings, 1928-1949. III. Printed Material and Photographs, 1912-1971.</p>  
+      </arrangement>
+      <controlaccess>
+         <subject source="local">
+            Authors, American -- Virginia -- 20th Century -- Archives
+         </subject>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300172465" source="aat">
+            Galley proofs
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300193997" source="aat">
+            Layouts (printer matter)
+         </genreform>
+         <genreform authfilenumber="http://vocab.getty.edu/aat/300200438" source="aat">
+            Page proofs
+         </genreform>
+         <genreform source="local">
+            Photographs -- United States -- 20th Century
+         </genreform>
+         <genreform source="local">
+            Studio portraits -- United States -- 20th Century
+         </genreform>
+         <occupation source="local">
+            Authors -- Virginia -- 20th Century
+         </occupation>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n88218745"
+                   rules="aacr"
+                   source="naf">
+            Babb, James T. (James Tinkham), 1899-1968
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n80039689"
+                   source="naf">
+            Cabell, James Branch, 1879-1958
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50051945"
+                   source="naf">
+            Canby, Henry Seidel, 1878-1961
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85359803"
+                   source="naf">
+            Cosgrave, John O'Hara, II, 1908-1968
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50011929"
+                   source="naf">
+            Farrar, John Chipman, 1896-1974
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50024276"
+                   rules="aacr"
+                   source="naf">
+            Hanna, Alfred Jackson, 1893-
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n50042012"
+                   rules="aacr"
+                   source="naf">
+            Machen, Arthur, 1863-1947
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n85289907"
+                   rules="aacr"
+                   source="naf">
+            Swan, Bradford F. (Bradford Fuller)
+         </persname>
+         <persname authfilenumber="http://id.loc.gov/authorities/names/n78095475"
+                   source="naf">
+            Van Vechten, Carl, 1880-1964
+         </persname>
+         <corpname authfilenumber="http://id.loc.gov/authorities/names/nr00003470"
+                   rules="aacr"
+                   source="naf">
+            Farrar &amp; Rinehart
+         </corpname>
+         <corpname source="local">
+            Foster Studio
+         </corpname>
+      </controlaccess>
+      <dsc>
+         <c id="ref11" level="series">
+            <did>
+               <unittitle>Correspondence</unittitle>
+               <unitid>Series I</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1918-1951</unitdate>
+            </did>
+            <arrangement id="aspace_9804a2cdd38bac6141ac0efee4ede233">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by correspondent. Additional correspondence related to Cabell's publications is filed in Series II.</p>
+            </arrangement>
+            <c id="ref13" level="file">
+               <did>
+                  <unittitle>Babb, James T. (James Tinkham)</unittitle>
+                  <unitdate type="inclusive">1926-1951</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_d7d270f64c1f4a52910daaa4aa9f5668"
+                             type="box">1</container>
+                  <container id="aspace_b16bca7887d6457c89adb4e035142d76"
+                             type="folder"
+                             parent="aspace_d7d270f64c1f4a52910daaa4aa9f5668">1</container>
+               </did>
+               <acqinfo id="aspace_d31a58823f4342f4fa61a99d15392718">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of James T. Babb, 1959 and 1961.</p>
+               </acqinfo>
+            </c>
+            <c id="ref15" level="file">
+               <did>
+                  <unittitle>Canby, Henry Seidel</unittitle>
+                  <unitdate type="inclusive">1922 Oct 21</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_568ba0edda85cb7ba45ffc85b78a7a36"
+                             type="box">1</container>
+                  <container id="aspace_0f1baeeb09a2e26d5c6cb36da79db95e"
+                             type="folder"
+                             parent="aspace_568ba0edda85cb7ba45ffc85b78a7a36">2</container>
+               </did>
+               <acqinfo id="aspace_36873631e24a7ed7a0b128e501543aa8">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Henry S. Canby, 1953.</p>
+               </acqinfo>
+            </c>
+            <c id="ref17" level="file">
+               <did>
+                  <unittitle>Farrar, John Chipman</unittitle>
+                  <unitdate type="inclusive">1927-1958</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_0d988a1b611d1f58e9f47d74df14a616"
+                             type="box">1</container>
+                  <container id="aspace_7b641d911527a93d70a85db92bf69e82"
+                             type="folder"
+                             parent="aspace_0d988a1b611d1f58e9f47d74df14a616">3</container>
+               </did>
+               <acqinfo id="aspace_26c4e70423ea25bb106c2d51d71667ee">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of John Chipman Farrar, 1949, 1950, 1955, 1956, and 1958.</p>
+               </acqinfo>
+               <scopecontent id="aspace_4b30a9992d6e541bd66de27c4dad3b0a">
+                  <head>Scope and Contents</head>
+                  <p>65 letters to Farrar and 1 letter to Margaret Petherbridge Farrar; 3 letters to M. B. Sheffield; 1 letter to J. Kempner; 2 letters from Margaret Freeman Cabell to Farrar; 1 telegram and 3 carbon letters from Farrar to Cabell</p>
+                  <p>Also in the folder is Farrar's correspondence with David L. Barnett, William Lawton Maner, and Josephine Pinkney regarding Cabell.</p>
+               </scopecontent>
+            </c>
+            <c id="ref20" level="file">
+               <did>
+                  <unittitle>Farrar &amp; Rinehart, and Rinehart &amp; Company, Inc.</unittitle>
+                  <unitdate type="inclusive">1938-1949</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_6a8ef7406876d19cd4365c5a475239ad"
+                             type="box">1</container>
+                  <container id="aspace_8f517ab29160b242f5ec7db72613bfaa"
+                             type="folder"
+                             parent="aspace_6a8ef7406876d19cd4365c5a475239ad">4-14</container>
+               </did>
+               <acqinfo id="aspace_01b375e45939f066b0beffa8e72dfb38">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Rinehart &amp; Company, Inc., 1949.</p>
+               </acqinfo>
+               <scopecontent id="aspace_0ab35afefc4cf56db081b445b0a5cd7a">
+                  <head>Scope and Contents</head>
+                  <p>112 letters to Farrar &amp; Rinehart (correspondents include: John Chipman Farrar, Stanley M. Rinehart, Philip Wylie, Adelaide A. Sherer, Marguerite J. Reese and William Raney) with carbon copies of the publishers' replies and letters to and from other publishers and agents</p>
+               </scopecontent>
+            </c>
+            <c id="ref23" level="file">
+               <did>
+                  <unittitle>Gruener, Gustav</unittitle>
+                  <unitdate type="inclusive">1922 Apr 26</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_5dc00e4d6a5f0ad6ca4861292eb5da73"
+                             type="box">1</container>
+                  <container id="aspace_4597b6bb37f1572cfe0faa030d58368f"
+                             type="folder"
+                             parent="aspace_5dc00e4d6a5f0ad6ca4861292eb5da73">15</container>
+               </did>
+               <acqinfo id="aspace_9007454cb4014b4ec562a6f84fb54e06">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Acquired on exchange from the German Literature Collection, 1967.</p>
+               </acqinfo>
+            </c>
+            <c id="ref25" level="file">
+               <did>
+                  <unittitle>Hanna, Alfred Jackson</unittitle>
+                  <unitdate type="inclusive">1938-1954</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_05ea5448b4b271731daa8b3dd55cd137"
+                             type="box">1</container>
+                  <container id="aspace_fff0c94329b5e5a11c4e398e6b01d83c"
+                             type="folder"
+                             parent="aspace_05ea5448b4b271731daa8b3dd55cd137">16-22</container>
+               </did>
+               <acqinfo id="aspace_7508fdfcc8f8288d8b5925462a9e367b">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Purchased on the George B. Alvord Fund and American Studies' funds, 1965.</p>
+               </acqinfo>
+               <scopecontent id="aspace_70a25e94d87befce0b91e28335c6f29b">
+                  <head>Scope and Contents</head>
+                  <p>154 letters and 4 telegrams to Hanna, with whom Cabell collaborated on <title type="simple" render="italic">
+                        The St. Johns
+                     </title> for the "Rivers of America" series; 34 letters and 2 telegrams from Hanna to Cabell; and 1 letter to Mrs. Price</p>
+               </scopecontent>
+            </c>
+            <c id="ref28" level="file">
+               <did>
+                  <unittitle>Kane, Lawrence J.</unittitle>
+                  <unitdate type="inclusive">1922 Oct 9</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_33c9b90b5f4d643cf906ec20a8d5ecf0"
+                             type="box">1</container>
+                  <container id="aspace_a5ee1159c880ba6a78e92b0aa5f8fd3a"
+                             type="folder"
+                             parent="aspace_33c9b90b5f4d643cf906ec20a8d5ecf0">23</container>
+               </did>
+               <acqinfo id="aspace_bc67b9893f0a26e315cfb7fa202c40c7">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Mrs. Arthur Head, 1948.</p>
+               </acqinfo>
+            </c>
+            <c id="ref30" level="file">
+               <did>
+                  <unittitle>Machen, Arthur</unittitle>
+                  <unitdate type="inclusive">1918 Mar 8</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_2b4ce7aeda4644e6f652a8033c7b06de"
+                             type="box">1</container>
+                  <container id="aspace_a6a9ac5edbc79626e4cf0f44a5a7d2a2"
+                             type="folder"
+                             parent="aspace_2b4ce7aeda4644e6f652a8033c7b06de">24</container>
+               </did>
+            </c>
+            <c id="ref31" level="file">
+               <did>
+                  <unittitle>Swan, Bradford F. (Bradford Fuller)</unittitle>
+                  <unitdate type="inclusive">1946 May 10</unitdate>
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_9c5bbda21f85b90f0930381b294b5517"
+                             type="box">1</container>
+                  <container id="aspace_e234d0615c6e18b78d2e31e3703c84cc"
+                             type="folder"
+                             parent="aspace_9c5bbda21f85b90f0930381b294b5517">25</container>
+               </did>
+               <acqinfo id="aspace_c91a0575040b9a9b22c1d418bce15714">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Bradford F. Swan, 1949.</p>
+               </acqinfo>
+            </c>
+            <c id="aspace_5181e314f30bb2d43cab5642fd11571b" level="file">
+               <did>
+                  <unittitle>Van Vechten, Carl</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1919/1949">1919-1949</unitdate>
+                  
+                  <container label="Mixed Materials (39002104725636)"
+                             id="aspace_3dbba932d65af85fdf459a24accc13af"
+                             type="box">1</container>
+                  <container id="aspace_f325f7560209c95b8da619051484b149"
+                             type="folder"
+                             parent="aspace_3dbba932d65af85fdf459a24accc13af">25a</container>
+               </did>
+               <acqinfo id="aspace_6096a5a1fa19a247bda05177b3ef3186">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Mrs. Margaret Waller Freeman Cabell, 1962.</p>
+               </acqinfo>
+            </c>
+         </c>
+         <c id="ref34" level="series">
+            <did>
+               <unittitle>Writings</unittitle>
+               <unitid>Series II</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">1.25</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(3 boxes)</physdesc>
+               <unitdate type="inclusive">1928-1949</unitdate>
+            </did>
+            <arrangement id="aspace_8645537b103ef452025f01c6df12732b">
+               <head>Arrangement</head>
+               <p>Arranged alphabetically by title. Writings by Cabell that were published in newspapers appear in folders 45 and 46 in Series III.</p>
+            </arrangement>
+            <c id="ref36" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Devil's Own Dear Son
+                     </title>, typescript, corrected</unittitle>
+                  <unitdate type="inclusive">1949</unitdate>
+                  <container label="Mixed Materials (39002104725644)"
+                             id="aspace_3df8fd9761cc45ae72b63e78d93023b6"
+                             type="box">2</container>
+                  <container id="aspace_2d50145324e17d70b7674c311de2cdc1"
+                             type="folder"
+                             parent="aspace_3df8fd9761cc45ae72b63e78d93023b6">26-27</container>
+               </did>
+               <acqinfo id="aspace_1c07e2df4ed2f0b717cddd121a916986">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of John Chipman Farrar, 1949.</p>
+               </acqinfo>
+            </c>
+            <c id="ref38" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Jewel Merchants
+                     </title>, preface, typescript, corrected; signed by Cabell on May 21, 1948</unittitle>
+                  <unitdate type="inclusive">1921</unitdate>
+                  <container label="Mixed Materials (39002104725644)"
+                             id="aspace_b5e37363ff74ee0e8ff23f4bdd08be81"
+                             type="box">2</container>
+                  <container id="aspace_72a0803c74a478589a32f7672daf37d5"
+                             type="folder"
+                             parent="aspace_b5e37363ff74ee0e8ff23f4bdd08be81">28</container>
+               </did>
+               <acqinfo id="aspace_7bbc7e310b2c199bcd2d10b73d2f5738">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of James Branch Cabell, 1948.</p>
+               </acqinfo>
+            </c>
+            <c id="ref40" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Let Me Lie
+                     </title>, typescript, page proofs, and galleys, corrected</unittitle>
+                  <unitdate type="inclusive">1946-1947</unitdate>
+                  <container label="Mixed Materials (39002104725644)"
+                             id="aspace_5c0482bc46dbe2bfe6635f38f1852ae1"
+                             type="box">2</container>
+                  <container id="aspace_4dc731146f956940b82978bb9a94b974"
+                             type="folder"
+                             parent="aspace_5c0482bc46dbe2bfe6635f38f1852ae1">29-32</container>
+               </did>
+            </c>
+            <c id="ref41" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        Sonnets From Antan
+                     </title>
+                  </unittitle>
+               </did>
+               <acqinfo id="aspace_1ad65349324ad78f6351ae53cefa5827">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of Louis M. Rabinowitz, 1944.</p>
+               </acqinfo>
+               <c id="ref42" level="file">
+                  <did>
+                     <unittitle>Typescripts, corrected and page proofs, corrected</unittitle>
+                     <unitdate type="inclusive">1928-1929</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_02603e93e9c99c04b611b1c155fd47b6"
+                                type="box">3</container>
+                     <container id="aspace_1c4c9135949ec342fb8fd93eb05bd557"
+                                type="folder"
+                                parent="aspace_02603e93e9c99c04b611b1c155fd47b6">33</container>
+                  </did>
+                  <scopecontent id="aspace_4b3c761bd96428aca6522723d9046ce2">
+                     <head>Scope and Contents</head>
+                     <p>Includes 5 typescript letters to James R. Wells.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref44" level="file">
+                  <did>
+                     <unittitle>Printed version, signed by Cabell</unittitle>
+                     <unitdate type="inclusive">1929</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_90d25b25683f749572ef4b333d8117cd"
+                                type="box">3</container>
+                     <container id="aspace_705639037030a6afa53d7ef4b3ac8050"
+                                type="folder"
+                                parent="aspace_90d25b25683f749572ef4b333d8117cd">34</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref46" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        There Were Two Pirates
+                     </title>
+                  </unittitle>
+               </did>
+               <c id="ref47" level="file">
+                  <did>
+                     <unittitle>Correspondence regarding publishing</unittitle>
+                     <unitdate type="inclusive">1946</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_da5bee8c927830854374880047b3dcd1"
+                                type="box">3</container>
+                     <container id="aspace_17417fbedee70d42a7270a6969fb61f0"
+                                type="folder"
+                                parent="aspace_da5bee8c927830854374880047b3dcd1">35</container>
+                  </did>
+                  <scopecontent id="aspace_c49489aaa7f567ddeea0a9d2eb92988a">
+                     <head>Scope and Contents</head>
+                     <p>Correspondents include Roger W. Straus, John Chipman Farrar, and Julius Fleischmann.</p>
+                  </scopecontent>
+               </c>
+               <c id="ref49" level="file">
+                  <did>
+                     <unittitle>Postcards, some with notes by Cabell regarding various places and objects in Florida and their use as the setting for the story</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_0a4fc0a76589622445a23a0a01dfa890"
+                                type="box">3</container>
+                     <container id="aspace_b15ce32e589cd4e8da6504bcd190d72f"
+                                type="folder"
+                                parent="aspace_0a4fc0a76589622445a23a0a01dfa890">36</container>
+                  </did>
+               </c>
+               <c id="ref50" level="file">
+                  <did>
+                     <unittitle>Typescript and carbon copy</unittitle>
+                     <unitdate type="inclusive">1946</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_100e9c7277b5ebeced962bd01847a3a5"
+                                type="box">3</container>
+                     <container id="aspace_1dbfc3adcf4a5830b22fc3bc91a0e34d"
+                                type="folder"
+                                parent="aspace_100e9c7277b5ebeced962bd01847a3a5">37-38</container>
+                  </did>
+               </c>
+               <c id="ref51" level="file">
+                  <did>
+                     <unittitle>Sample book pages and designs for cover, end papers, illustrations, etc., by John O'Hara Cosgrave</unittitle>
+                     <unitdate type="inclusive">1946</unitdate>
+                     <physloc id="aspace_df566ad52ce3942a06fb850636ab9775">Also stored in: Oversize, Box 6, folder 52</physloc>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_2f2f33a7ae33dddb8797fdca0897eff6"
+                                type="box">3</container>
+                     <container id="aspace_db8168de27122f0c8d0db5edfab56e0f"
+                                type="folder"
+                                parent="aspace_2f2f33a7ae33dddb8797fdca0897eff6">39-40</container>
+                  </did>
+               </c>
+               <c id="ref53" level="file">
+                  <did>
+                     <unittitle>Galley and page proofs</unittitle>
+                     <unitdate type="inclusive">1946</unitdate>
+                     <container label="Mixed Materials (39002104725651)"
+                                id="aspace_255f879cd6b75ba15641b51ae3033c00"
+                                type="box">3</container>
+                     <container id="aspace_5f300f0a845db56d1f522bf2b0f97a3a"
+                                type="folder"
+                                parent="aspace_255f879cd6b75ba15641b51ae3033c00">41</container>
+                  </did>
+               </c>
+            </c>
+            <c id="ref54" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Witch Woman
+                     </title>
+                  </unittitle>
+               </did>
+               <c id="ref55" level="file">
+                  <did>
+                     <unittitle>Typescript and page proofs, corrected</unittitle>
+                     <unitdate type="inclusive">undated</unitdate>
+                     <container label="Mixed Materials (39002104725669)"
+                                id="aspace_10f116e27ed89cfe4ce836c2fc319a39"
+                                type="box">4</container>
+                     <container id="aspace_ba57725bdc6473f5cc905772ae7aab11"
+                                type="folder"
+                                parent="aspace_10f116e27ed89cfe4ce836c2fc319a39">42</container>
+                  </did>
+               </c>
+               <c id="ref56" level="file">
+                  <did>
+                     <unittitle>Galleys, corrected</unittitle>
+                     <unitdate type="inclusive">1947-1948</unitdate>
+                     <container label="Mixed Materials (39002104725669)"
+                                id="aspace_5de2d6c8a5353dde3b09ebb7790cee1e"
+                                type="box">4</container>
+                     <container id="aspace_dc834159ed7c8d8fbc647bc97e27dd5e"
+                                type="folder"
+                                parent="aspace_5de2d6c8a5353dde3b09ebb7790cee1e">43-44</container>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c id="ref58" level="series">
+            <did>
+               <unittitle>Printed Material and Photographs</unittitle>
+               <unitid>Series III</unitid>
+               <physdesc>
+                  <extent unit="Linear Feet">0.42</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+               <unitdate type="inclusive">1912-1971</unitdate>
+            </did>
+            <arrangement id="aspace_d590700bc1e1c5f839389993a74ed602">
+               <head>Arrangement</head>
+               <p>Printed material arranged chronologically, with photographs at the end.</p>
+            </arrangement>
+            <c id="ref60" level="file">
+               <did>
+                  <unittitle>Clippings and pamphlets by and about Cabell</unittitle>
+                  <unitdate type="inclusive">1912-1979</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_ae2d3023d467854c70ded7f6e1a9d541"
+                             type="box">5</container>
+                  <container id="aspace_a26f206b94cf421ff5ae657cdba96816"
+                             type="folder"
+                             parent="aspace_ae2d3023d467854c70ded7f6e1a9d541">45-46</container>
+               </did>
+            </c>
+            <c id="ref61" level="file">
+               <did>
+                  <unittitle>Reviews of Cabell's writings</unittitle>
+                  <unitdate type="inclusive">1921-1961</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_a5b18c7885e22c260fe2f3761dedbfd6"
+                             type="box">5</container>
+                  <container id="aspace_c187f341bbf4dc916aeaf3a66331a5c7"
+                             type="folder"
+                             parent="aspace_a5b18c7885e22c260fe2f3761dedbfd6">47</container>
+               </did>
+            </c>
+            <c id="ref62" level="file">
+               <did>
+                  <unittitle>"Figures of Allegory" by Leon Howard; study of James Branch Cabell reprinted from the <title type="simple" render="italic">
+                        Sewanee Review
+                     </title>
+                  </unittitle>
+                  <unitdate type="inclusive">1934</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_35a4140b589ae022b7f025bbcd86418f"
+                             type="box">5</container>
+                  <container id="aspace_5a7fc26956fdca1366cbad05f0a2a035"
+                             type="folder"
+                             parent="aspace_35a4140b589ae022b7f025bbcd86418f">48</container>
+               </did>
+            </c>
+            <c id="ref63" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Virginia Author 1819-1969
+                     </title>; University of Virginia Library exhibition checklist</unittitle>
+                  <unitdate type="inclusive">1969</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_0323f5e837cc89dc59df1a99e316c811"
+                             type="box">5</container>
+                  <container id="aspace_6fb9577eae51f7f1b5e12ff23fa6d46b"
+                             type="folder"
+                             parent="aspace_0323f5e837cc89dc59df1a99e316c811">49</container>
+               </did>
+            </c>
+            <c id="ref64" level="file">
+               <did>
+                  <unittitle>
+                     <title type="simple" render="italic">
+                        The Cabellian: A Journal of the Second American Renaissance
+                     </title>; vol. 4, no. 1</unittitle>
+                  <unitdate type="inclusive">1971</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_7dc7a485257325ced6192f8242bc2fe6"
+                             type="box">5</container>
+                  <container id="aspace_469aba539a81840dfbdae1098c3d0225"
+                             type="folder"
+                             parent="aspace_7dc7a485257325ced6192f8242bc2fe6">50</container>
+               </did>
+            </c>
+            <c id="ref65" level="file">
+               <did>
+                  <unittitle>"The Map of Philip Borsdale, circa 1679," by Frank Cheney Papé</unittitle>
+                  <unitdate type="inclusive">circa 1928</unitdate>
+                  <physloc id="aspace_5ad7139801eb0ab64696d4d81223933e">Stored in: Oversize, Box 6, folder 53</physloc>
+               </did>
+               <odd id="aspace_54b4be3a83c75336c4894a6934812161">
+                  <head>General note</head>
+                  <p>Title within map image: Poictesme; shows the places mentioned in the novels <title type="simple" render="italic">
+                        Figures of Earth
+                     </title>, <title type="simple" render="italic">
+                        Domeni
+                     </title>, <title type="simple" render="italic">
+                        Jurgen
+                     </title>, <title type="simple" render="italic">
+                        The High Place
+                     </title>, and <title type="simple" render="italic">
+                        The Silver Stallion
+                     </title>.</p>
+               </odd>
+               <acqinfo id="aspace_24b8e8d9440a914f00acf5345da4e8ce">
+                  <head>Immediate Source of Acquisition</head>
+                  <p>Gift of James T. Babb, 1939.</p>
+               </acqinfo>
+            </c>
+            <c id="aspace_fb982c8f1f7cb638aaee41631d97c6ea" level="file">
+               <did>
+                  <unittitle>"James Branch Cabell," by Frank Cheney Papé; portrait etching of James Brand Cabell, signed</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1930">1930</unitdate>
+                  
+                  <physloc id="aspace_8ebd80083f88fc50454b7d8570fc39fc">Stored in: Oversize, Box 6, folder 54</physloc>
+               </did>
+               <odd id="aspace_c3bec7d1d11692e416ba734b56561b3d">
+                  <head>General note</head>
+                  <p>Typscript notation on verso: This is one of the 210 Impressions, of which 200 are for sale, and plate has been destroyed.</p>
+               </odd>
+            </c>
+            <c id="ref69" level="file">
+               <did>
+                  <unittitle>Portrait photographs by Carl Van Vechten (2) and Foster Studio, Richmond</unittitle>
+                  <unitdate type="inclusive">undated</unitdate>
+                  <container label="Mixed Materials (39002104725677)"
+                             id="aspace_c574948c34658527a1fe79015a45e77c"
+                             type="box">5</container>
+                  <container id="aspace_bac590c2f47a7bfcb06a1d6be2d2d8aa"
+                             type="folder"
+                             parent="aspace_c574948c34658527a1fe79015a45e77c">51</container>
+               </did>
+            </c>
+         </c>
+         <c id="ref71" level="file">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <physdesc>
+                  <extent unit="Linear Feet">0.13</extent>
+               </physdesc>
+               <physdesc altrender="container_summary">(1 box)</physdesc>
+            </did>
+            <c id="ref73" level="file">
+               <did>
+                  <unittitle>In Series II: <title type="simple" render="italic">
+                        There Were Two Pirates
+                     </title>, designs for cover, end papers, illustrations, etc., by John O'Hara Cosgrave</unittitle>
+                  <unitdate type="inclusive">1946</unitdate>
+                  <container label="Mixed Materials (39002104725701)"
+                             id="aspace_23465fb1e9e4ffad63b8a2a8c4cb30f9"
+                             type="box">6 (Oversize)</container>
+                  <container id="aspace_bee475d06008c607f3c9da49718f6f79"
+                             type="folder"
+                             parent="aspace_23465fb1e9e4ffad63b8a2a8c4cb30f9">52</container>
+               </did>
+            </c>
+            <c id="ref74" level="file">
+               <did>
+                  <unittitle>In Series III: "The Map of Philip Borsdale, circa 1679," by Frank Cheney Papé</unittitle>
+                  <unitdate type="inclusive">circa 1928</unitdate>
+                  <container label="Mixed Materials (39002104725701)"
+                             id="aspace_65b5896e99d344cf242017181e6cafed"
+                             type="box">6 (Oversize)</container>
+                  <container id="aspace_c6acfec30d5e616b6b8ff27300b01419"
+                             type="folder"
+                             parent="aspace_65b5896e99d344cf242017181e6cafed">53</container>
+               </did>
+            </c>
+            <c id="aspace_33e4415e7b8016644104b07f9bc91dd7" level="file">
+               <did>
+                  <unittitle>In Series III: "James Branch Cabell," by Frank Cheney Papé; portrait etching of James Brand Cabell, signed</unittitle>
+                  
+                     <unitdate type="inclusive" normal="1930">1930</unitdate>
+                  
+                  <container label="Mixed Materials (39002104725701)"
+                             id="aspace_b3b91e02613719e59edf054fa83f580a"
+                             type="box">6 (Oversize)</container>
+                  <container id="aspace_285ffe165ada73cc80c35574284ee597"
+                             type="folder"
+                             parent="aspace_b3b91e02613719e59edf054fa83f580a">54</container>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

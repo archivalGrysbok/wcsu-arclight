@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./styles/wesstyletop.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd" [
+<!ENTITY weseal PUBLIC "-//Wesleyan University::Special Collections and Archives//NONSGML (weseal)//EN" "./seals/weseal.gif" NDATA gif>
+<!ENTITY hdrsca PUBLIC "-//Wesleyan University::Special Collections and Archives//TEXT (hdrsca)//EN" "./addresses/hdrsca.xml">
+]>
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+    <eadid countrycode="us" mainagencycode="CtW" publicid="-//Wesleyan University::Special Collections and Archives//TEXT (US::CtW::1000-157::Anti-Nuclear Protests Collection)//EN" url="http://www.wesleyan.edu/libr/schome/FAs/an1000-157.html">an1000-157</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Anti-Nuclear Protests Collection,
+		<lb/><date normal="1972/1984">1972 - 1984</date>
+		</titleproper>
+        <author>Processed by: Maddie Sage-EL; machine-readable finding aid created by: Valerie Gillispie</author>
+<!-- OPTIONAL: Sponsor Statement
+<sponsor></sponsor>
+-->
+      </titlestmt>
+      <publicationstmt>&hdrsca;<p><date normal="2008" encodinganalog="date">© 2008</date> Wesleyan University. All Rights Reserved.</p></publicationstmt>
+    </filedesc>
+    <profiledesc><creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: September 2008</date>
+	</creation><langusage>Description is in
+		<language langcode="eng">English</language>
+	</langusage><descrules>Finding aid was prepared using <title>DACS</title></descrules>  
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+  </eadheader>
+  <frontmatter>
+    <titlepage><titleproper>Guide to the Anti-Nuclear Protests Collection, <date type="span">1972 - 1984</date>
+</titleproper><publisher><extptr show="embed" entityref="weseal"/>
+Special Collections &amp; Archives<lb/>Wesleyan University<lb/>
+		Middletown, CT, USA		
+
+
+
+		
+</publisher><!-- Delete paragraph below and this comment line if your institution does not copyright its findingaids. --> 
+
+<p><date normal="2008">© 2008</date> Wesleyan University. All Rights Reserved.</p></titlepage>
+  </frontmatter>
+  <archdesc level="collection" relatedencoding="MARC">
+    <did><head>Descriptive Summary</head><repository label="Repository">Special Collections &amp; Archives, Wesleyan University</repository> 
+
+<origination label="Creator"><corpname encodinganalog="110">Wesleyan University (Middletown, Conn.)</corpname></origination><unittitle label="Title" encodinganalog="245">Anti-Nuclear Protests Collection, <unitdate normal="1972/1984" type="inclusive">1972 - 1984</unitdate></unittitle><unitid countrycode="us" repositorycode="CtW" label="Call Number" encodinganalog="099">1000-157</unitid><langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng">English</language></langmaterial><physdesc label="Linear Feet"><extent encodinganalog="300">0.5</extent></physdesc><physdesc label="Archival Boxes"><extent>1</extent></physdesc><physloc label="Location">For current information on the location of
+these materials, please consult Special Collections &amp; Archives staff.</physloc> 
+
+<abstract label="Abstract" encodinganalog="545">In the 1970s, Wesleyan University students became active against national nuclear arms polices and practices, especially those in New England. The groups of Wesleyan University students involved were the Committee on Environmental Awareness, Connecticut Citizens Conference, Nuclear Resistance Group and Students Opposed to Nuclear Arms Race. These groups organized campus wide informational meetings, showed films and actively participated in walking onto a nuclear arms site in Seabrook, New Hampshire, on April 30, 1977. Around forty Wesleyan Students, along with other activists, were arrested, and some were convicted of criminal trespass due to the April 30 protest.</abstract><abstract encodinganalog="520">The collection includes statements from the Committee on Environmental Awareness, Connecticut Citizens Conference, Nuclear Resistance Group and Students Opposed to Nuclear Arms Race. Materials include meeting minutes, flyers, notes and Wesleyan and Connecticut press on their activism and other notes and news from the groups. Campus news articles and memos provide accounts of participation in national protests and correspondence with students who were arrested for various protests.</abstract></did>
+    <descgrp type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>No restrictions.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Copyright Notice</head>
+        <p>Copyright for Official University records is held by Wesleyan University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Anti-Nuclear Protests Collection, Collection #1000-157, Special Collections &amp; Archives, Wesleyan University, Middletown, CT, USA.</p>
+      </prefercite>
+      <acqinfo encodinganalog="541">
+        <head>Acquisitions Information</head>
+        <p>Acquired between 1984 and 1997.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing Information</head>
+        <p>Processed by Maddie Sage-EL, September 2008</p>
+        <p>Encoded by Valerie Gillispie, September 2008</p>
+      </processinfo>
+    </descgrp>
+<!-- Enter each paragraph of the bioghist in separate p elements. -->
+    <bioghist>
+      <head>Historical Note</head>
+      <p>In 1976, a construction permit was issued for nuclear reactors on the marshes of Seabrook, New Hampshire, near a heavily populated beach community. On April 30, 1977, the Clamshell Alliance organized a protest on the grounds of these marshes calling for the state of New Hampshire and New England as a whole to be a nuclear-free zone. The 1977 Nuclear Resistance Group on Wesleyan's campus was involved in the April 30 protest. On that day, nearly 2,000 people walked onto the construction site to protest having a nuclear presence in New England. Of those 2,000 people, over 1,400 were arrested and 39 Wesleyan students were among them. In June 1977, the Clamshell Alliance held another on-site rally consisting of 20,000 participants of which several hundred also marched to Washington D.C. to protest in front of the Nuclear Regulatory Commission.</p>
+      <p>Students at Wesleyan who were arrested on April 30 were charged with criminal trespass in the Portsmouth Court and called for <emph render="doublequote">bail solidarity,</emph> therefore refusing to post bail until they were all released on personal recognizance. They were held for ten or eleven days, during which Wesleyan's Legal Defense and Bail Fund Board organized a fundraising drive for their release. As of May 11, thirty-two Wesleyan students were still held in state armories apparently under severe conditions; some of those arrested spent 14 hours on a cramped bus before any official arrest and some were held in a room with 691 other people.</p>
+      <p>Although Wesleyan organized a fundraiser for bail, the imprisoned students felt that it would be counterproductive. One student dictated a letter via telephone asking that the Wesleyan community help in writing letters, making phone calls and protesting the Connecticut governor if he were to accept any of the Seabrook prisoners into Connecticut jails. Some of the arrested students posted bail, and on May 13, the remaining prisoners accepted guilty pleas and were released on their own recognizance.</p>
+      <p>The Nuclear Resistance Group on Wesleyan's campus continued to stay active in the anti-nuclear front. In 1979, the group participated in another nationally recognized anti-nuclear rally in Buchanan, New York. Over two hundred protesters were arrested, Wesleyan students among them. In the early 1980s, protests were held on campus calling for a nuclear freeze.  </p>
+      <p>The anti-nuclear arms groups also proposed and got approved Wesleyan as a nuclear-free zone. This was achieved in 1984 and consisted of an agreement with Wesleyan students and Wesleyan administration that the school would not participate in the production, testing, deployment, storage, or transportation of nuclear weapons. The school also agreed not to participate in research or investment associated with the development of nuclear weapons. Although this referendum was well-received by the Wesleyan community, the Board of Trustees had the final vote on the implementation of this agreement. Many believed this to be a symbolic gesture of the Wesleyan community during the Cold War, although the agreement was practical in the sense of Wesleyan refraining from investments and research related to nuclear arms. Although Wesleyan still had investments in companies that had some varied involvement in nuclear arms production or research, the campus decided to become a nuclear-free zone like many zoned areas in Europe.</p>
+<!-- use "Chronlist Tags" here if there is a chronology -->
+    </bioghist>
+<!-- Enter each paragraph of the scopecontent and arrangement in separate p elements. -->
+    <scopecontent>
+      <head>Collection Overview</head>
+      <p>The collection contains folders for each of the groups represented on campus that were active in anti-nuclear arms protests. These folders contain an array of information on the groups. Memos to and from the student groups and faculty as well as documents with their budgets, meeting minutes and membership lists are all included. Many groups also have a group statement with their goals as a group along with information on the greater anti-nuclear movement.</p>
+      <p>The first folder contains information on the Committee on Environmental Awareness. It includes memos about funding, budget write-ups and allocations. It also contains the goals of the group, a letter to the College Body Committee along with flyers from the group, information on film showings and newspaper clippings and papers on their activities.</p>
+      <p>The second folder documents from the Connecticut Citizen's conference, which holds pamphlets on their conference in 1983 and pictures of students lobbying.</p>
+      <p>Folders three through eleven contain information on the Nuclear Resistance Group. Each folder is divided by document type-correspondence, articles and news on the group, notes, films, agendas etc. Folder three and four contain reports and minutes on the Nuclear Power Forum, copies of the Radioactivist Flash, and events bulletin and announcements. Folder five contains proposals, a press announcement and informational flyers on Seabrook and the Reactor Pressure Vessel. The sixth folder contains information pertaining to the Clamshell Alliance and their activities and relationship with Wesleyan. Folder seven contains information on films shown, including receipts from where the films were obtained. Folder eight consists of member information; mailing lists, directories, phone lists and meeting minutes. Folder nine includes notes about the group, letters with other coalitions and dates of correspondence and demonstrations and films. Folder ten consists of press on the group and their demonstrations while folder eleven contains group history, editorials, press release and publications and film lists.</p>
+      <p>Folder twelve is documents on the group Students Opposed to the Nuclear Arms Race. This folder has the contents of their Alternative Education Forum, flyers, letters to student activists and editors from 1984 as well as information of Nuclear Free Zone and nuclear weapons. </p>
+      <arrangement>
+        <head>Collection Arrangement</head>
+        <p>Organized alphabetically by group name.
+</p>
+      </arrangement>
+    </scopecontent>
+    <controlaccess>
+      <head>Online Catalog Headings</head>
+      <p>These and related materials may be found under the following headings in online catalogs.</p>
+<!-- use "Item Level Tags" here for controlaccess terms -->
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--History.</corpname>
+      <corpname source="lcnaf" encodinganalog="610">Wesleyan University (Middletown, Conn.)--Students.</corpname>
+      <subject source="lcsh" encodinganalog="650">Antinuclear movement--United States.</subject>
+      <corpname source="lcnaf" encodinganalog="610">Seabrook Nuclear Power Plant (N.H.)</corpname>
+      <subject source="lcsh" encodinganalog="650">Student movements--United States.</subject>
+    </controlaccess>
+<!-- Use separated materials and related materials clips here to enter in information -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+<!-- use component levels clips to enter in the description of subordinate components -->
+      <c01 level="series">
+        <did>
+          <unittitle>Committee on Environmental Awareness</unittitle>
+        </did>
+        <scopecontent>
+          <p>Contains documents regarding the Committee on Environmental Awareness at Wesleyan in the 1970's including flyers, memos, budgetary information, and correspondence.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Wesleyan Events Calendar, 1978</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Memo: second semester funding</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter to the College Body Committee: request for funds</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Budget, spring 1973</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter to the College Body Committee: handwritten</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>First Semester Allocations</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Alternative Energy Fair, 1978</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Goals: handwritten</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>$25 gift from Sierra Club</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>BLURP: CEA Newsletter, February and March 1975</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Environmental Film Series, winter-spring 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Newspaper clipping: <title render="doublequote">Amory to Speak on Struggle of Wildlife</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Statement: CEA Who We Are, 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Wesleyan University News Bureau, 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Symposium: Limits to Growth</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Unlimited Growth: Growing, Growing, Gone? - F.H. Bormann</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Newspaper clipping: Dubos States Energy Shortage Has Benefits, 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Senator George McGovern 1972</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Dr. Charles Remington</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Meeting and election</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Sierra Club Films- <title render="doublequote">An Island in Time</title> and <title render="doublequote">Wilderness Alps of Stehekin</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: The Galapagos Islands</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Sierra Club Wilderness Films</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Audubon Films</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: David Lavine, Director of the Inland Wetland Project</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Conference on the Environment of Lower Connecticut River Region</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: Films <title render="doublequote">Death Be Not Loud</title> and <title render="doublequote">A Question of Values</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Business Card: Artisan Tree Care</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: René Dubos</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: <title render="doublequote">The U.S. - Soviet Environmental Cooperation Effort</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Folder: leaflets, articles about and by CEA</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Alternative Energy Fair</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyer: film <title render="doublequote">Dawn of the Solar Age,</title> 1977</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Mr. McHarg from Wesleyan CEA, 1975</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Justice Douglas, 1975</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Dr. Meadows from S. Marc Zemke, 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Joe Broder from S. Marc Zemke, 1973</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Dr. Ronald Ridker from S. Marc Zemke, 1974</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: draft to Justice Douglas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter: to Steve from Barry Lenk (handwritten)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Paper: <title render="doublequote">Energy for the Post-Fossil Fuel Era,</title> by Beth Penney, 1975</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Connecticut Citizen's Conference</unittitle>
+        </did>
+        <scopecontent>
+          <p>Folder contains photos and a pamphlet from 1983.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>2 pictures of student lobbying, 1983</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Pamphlet: Connecticut Citizen's Conference, 1983</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Nuclear Resistance Group</unittitle>
+        </did>
+        <scopecontent>
+          <p>Folders three through eleven contain information on the Nuclear Resistance Group. Each folder is divided by document type, such as correspondence, articles and news on the group, notes, films, and agendas.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Letters, Memos, and Meeting Notes</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Letter: to advertisers from Miles Ehrlich, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Nuclear Power Forum, group reports/minutes and attendance</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Memo: to Wesleyan Employees from Wesleyan Workplace Committee, February, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Announcements and notes (handwritten)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Newsletters</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">The Radioactivist Flash,</title> 1977, February 1978-August 1978</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Nuclear Resistance Group Bulletin</title>- upcoming events</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Facts on the Vermont Yankee Nuclear Power Plant/Malfunctions,</title> 1979</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Anti-Nuclear Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Group structure proposal, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>War Resisters League- Bill, 1978</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Correspondence: The Task Force against Nuclear Pollution</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Flyer: <title render="doublequote">So what was Seabrook anyway?</title></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Blockade Scenario</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>
+                <title render="doublequote">What is the Reactor Pressure Vessel?</title>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle/>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Flyer: Rally</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Flyer: Seabrook!</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Stop the Neutron Bomb</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Press announcement</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Clamshell Alliance</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Clamshell Alliance: Capitol Letters</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Correspondence: Hartford Clamshell Alliance</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>State of Connecticut Department of Utility Control: Brief of Wesleyan NRG, 1980</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Report from Connecticut Clamshell meeting</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clamshell coalition minutes, 1978, 1979</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clamshell News: New London County, 1980</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Hartford Clam New Years News</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clam Bits</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Transportation of Nuclear Waste</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Flyer: Public Hearing</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Flyer: Bus to Seabrook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Phone Numbers, handwritten</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Films</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Film Bills</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notice for Wesleyan Events Calendar</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Film notes, handwritten</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from National Association for Foreign Student Affairs, 1974</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>U.S. Atomic Energy Commission Technical Info. Center, Film Request, 1974</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter to WRC-TV, handwritten, 1974</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Letter from Earthkeeping</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Member Contacts</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Mailing lists</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Directories</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Phone lists</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Meeting Minutes</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Group notes</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Correspondence with Coalition for a New Foreign and Military Policy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Note to NRG, handwritten</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Clamshell agenda (backside notes on nuclear films, handwritten)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>April schedule</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes on dates of phone calls, handwritten, 1979</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Notes on slideshow, demonstration and films</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>To-Do list</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Press on N. R. G.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Argus</title>: Anti-Nukers Rally for Reform, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Middletown Press</title>: 40 from Wes Join N-Plant Protest, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Hartford Courant</title>: Wesleyan Group in Van of Anti-Nuclear Protests, 1979</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Hermes</title>: Students to Join Protest against Seabrook Nuke, 1977</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="italic">Hermes</title>: Nuclear Foes Battle over Seabrook Site, 1976</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Documents, 1978-1981</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Letter from Wesleyan Secretaries</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Press Release, 1978</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle><title render="doublequote">Miliston III is a Bad Investment,</title> 1981</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Editorial: A Day of Mourning</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>NRG History File- member list?</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Press Release: Northeast Utilities Annual Meeting of Shareholders, 1981</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Publications and Film Lists</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Students Opposed to the Nuclear Arms Race</unittitle>
+        </did>
+        <scopecontent>
+          <p>This folder has the contents of their Alternative Education Forum, flyers, letters to student activists and editors from 1984 as well as information about the Nuclear Free Zone and nuclear weapons.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Wesleyan Alternative Education form</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Flyers: <title render="doublequote">The Draft: Information and Options</title></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter from SONAR to Student Activists, 1984</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter to Editors, 1984</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Information on Nuclear Free Zone and Nuclear Weapons</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
