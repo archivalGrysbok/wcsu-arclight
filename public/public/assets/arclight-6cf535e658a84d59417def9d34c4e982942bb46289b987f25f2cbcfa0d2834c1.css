@@ -1,0 +1,1717 @@
+@charset "UTF-8";
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.nav.nav-pills {
+  margin-bottom: 1rem;
+}
+
+/* line 5, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.nav.nav-tabs {
+  margin-bottom: 0;
+  flex-wrap: nowrap;
+}
+
+/* line 8, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.nav.nav-tabs .nav-item .nav-link:not(.active) {
+  background: #f8f9fa;
+  border-color: #dee2e6;
+}
+
+/* line 12, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.nav.nav-tabs .nav-item .nav-link {
+  height: 100%;
+}
+
+/* line 15, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.nav.nav-tabs .nav-item {
+  overflow-wrap: break-word;
+}
+
+/* line 20, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/bootstrap_overrides.scss */
+.tab-pane {
+  border-style: solid;
+  border-width: 0 1px 1px 1px;
+  border-color: #dee2e6;
+  border-radius: 0px 0px 0.25rem 0.25rem;
+  padding: 2rem;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/responsive.scss */
+.my-w-25 {
+  width: 25% !important;
+}
+
+/* line 5, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/responsive.scss */
+.my-w-75 {
+  width: 75% !important;
+}
+
+@media (max-width: 767px) {
+  /* line 9, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/responsive.scss */
+  .w-md-100 {
+    width: 100% !important;
+  }
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/collection_search.scss */
+.al-collection-count {
+  padding-top: 20px;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/highlights.scss */
+.al-document-highlight {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 0.875rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+/* line 7, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/highlights.scss */
+.al-document-highlight em {
+  background-color: #ffffaa;
+  font-weight: bold;
+}
+
+/* line 2, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .document-title-heading {
+  font-size: 1.25rem;
+}
+
+/* line 7, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .document-title-containers:after {
+  padding-right: 3px;
+}
+
+/* line 12, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .al-hierarchy-children-status {
+  font-size: 1rem;
+  margin-top: 6px;
+  text-align: left;
+}
+
+/* line 18, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .bookmark-toggle,
+.documents-online_contents .al-request-form {
+  font-size: 0.875rem;
+}
+
+/* line 24, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .al-document-abstract-or-scope {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  max-width: 45em;
+}
+
+/* line 30, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .al-hierarchy-sub-heading {
+  color: #6c757d;
+  font-size: 0.875rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+/* line 38, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .document-title-heading,
+.documents-online_contents .blacklight-subseries .document-title-heading,
+.documents-online_contents .blacklight-file .document-title-heading,
+.documents-online_contents .blacklight-binder .document-title-heading,
+.documents-online_contents .blacklight-other .document-title-heading {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+}
+
+/* line 51, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .blacklight-subseries .document-title-heading,
+.documents-online_contents .blacklight-series .blacklight-file .document-title-heading,
+.documents-online_contents .blacklight-series .blacklight-binder .document-title-heading,
+.documents-online_contents .blacklight-series .blacklight-other .document-title-heading,
+.documents-online_contents .blacklight-file .blacklight-subseries .document-title-heading,
+.documents-online_contents .blacklight-file .blacklight-file .document-title-heading,
+.documents-online_contents .blacklight-file .blacklight-binder .document-title-heading,
+.documents-online_contents .blacklight-file .blacklight-other .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 57, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .blacklight-subseries .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-series .blacklight-file .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-series .blacklight-binder .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-series .blacklight-other .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-file .blacklight-subseries .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-file .blacklight-file .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-file .blacklight-binder .document-title-heading .documentHeader,
+.documents-online_contents .blacklight-file .blacklight-other .document-title-heading .documentHeader {
+  margin-top: 1rem;
+}
+
+/* line 63, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .blacklight-subseries .document-title-heading,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-file .document-title-heading,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-binder .document-title-heading,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-other .document-title-heading,
+.documents-online_contents .blacklight-file .blacklight-subseries .document-title-heading,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-file .document-title-heading,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-binder .document-title-heading,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-other .document-title-heading {
+  padding-left: 10px;
+}
+
+/* line 69, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .blacklight-subseries .document-title-heading:before,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-file .document-title-heading:before,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-binder .document-title-heading:before,
+.documents-online_contents .blacklight-series .al-hierarchy-level-1 .blacklight-other .document-title-heading:before,
+.documents-online_contents .blacklight-file .blacklight-subseries .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-file .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-binder .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-1 .blacklight-other .document-title-heading:before {
+  color: #6c757d;
+  content: "\027E9";
+  padding-right: 3px;
+}
+
+/* line 78, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .al-hierarchy-level-2 .document-title-heading:before,
+.documents-online_contents .blacklight-series .al-hierarchy-level-2 .blacklight-file .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-2 .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-2 .blacklight-file .document-title-heading:before {
+  content: "\027E9 \027E9";
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.documents-online_contents .blacklight-series .al-hierarchy-level-3 .document-title-heading:before,
+.documents-online_contents .blacklight-series .al-hierarchy-level-3 .blacklight-file .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-3 .document-title-heading:before,
+.documents-online_contents .blacklight-file .al-hierarchy-level-3 .blacklight-file .document-title-heading:before {
+  content: "\027E9 \027E9 \027E9";
+}
+
+/* line 92, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-highlight > .documentHeader {
+  background: #fcf8e3;
+}
+
+/* line 97, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-placeholder {
+  margin-top: 1rem;
+}
+
+/* line 100, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-placeholder h3 {
+  background-color: #e9ecef;
+  border-radius: 5px;
+  height: 1.75rem;
+}
+
+/* line 106, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-placeholder p {
+  background-color: #e9ecef;
+  border-radius: 5px;
+  height: 1rem;
+}
+
+/* line 114, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-document-abstract-or-scope {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  max-width: 45em;
+  margin-bottom: 1rem;
+}
+
+/* line 123, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context h1 {
+  font-size: 1.25rem;
+}
+
+/* line 127, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context ul {
+  list-style: none;
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+}
+
+/* line 133, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .documents-online_contents .documentHeader {
+  margin-top: 1.5rem;
+}
+
+/* line 139, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-0 .document-title-heading {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-1 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-2 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-3 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-4 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-5 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-6 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-7 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-8 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-9 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-10 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-11 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 146, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .al-hierarchy-level-12 .document-title-heading {
+  font-size: 1rem;
+}
+
+/* line 151, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .prev-siblings li, #collection-context li.al-collection-context {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: visibility 0s, height 0.5s, opacity 0.5s linear;
+  transition: visibility 0s, height 0.5s, opacity 0.5s linear;
+}
+
+/* line 156, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+#collection-context .prev-siblings li.collapsed, #collection-context li.al-collection-context.collapsed {
+  visibility: hidden;
+  height: 0;
+  opacity: 0;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-1 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-1.extra-indent {
+  margin-left: 20px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-2 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-2.extra-indent {
+  margin-left: 40px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-3 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-3.extra-indent {
+  margin-left: 60px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-4 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-4.extra-indent {
+  margin-left: 80px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-5 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-5.extra-indent {
+  margin-left: 100px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-6 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-6.extra-indent {
+  margin-left: 120px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-7 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-7.extra-indent {
+  margin-left: 140px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-8 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-8.extra-indent {
+  margin-left: 160px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-9 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-9.extra-indent {
+  margin-left: 180px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-10 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-10.extra-indent {
+  margin-left: 200px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-11 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-11.extra-indent {
+  margin-left: 220px;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-12 {
+  margin-left: 20px;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/hierarchy_and_online_contents.scss */
+.al-hierarchy-level-12.extra-indent {
+  margin-left: 240px;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-search-breadcrumb,
+.al-show-breadcrumb {
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+/* line 7, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-breadcrumb .breadcrumb {
+  background-color: transparent;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+/* line 12, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-breadcrumb .breadcrumb .breadcrumb-item + .breadcrumb-item {
+  padding-top: 2px;
+}
+
+/* line 15, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-breadcrumb .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+  content: '';
+}
+
+/* line 21, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-home-link {
+  margin-bottom: 0.25rem;
+}
+
+/* line 24, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box {
+  border: 1px solid #dee2e6;
+  background-color: #e9ecef;
+  font-size: 0.875rem;
+  height: 100%;
+  margin-bottom: 2rem;
+  padding: 0.5rem 1rem 0.75rem;
+}
+
+@media (max-width: 767px) {
+  /* line 24, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-show-actions-box {
+    margin-top: 1rem;
+  }
+}
+
+/* line 36, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box .al-collection-id {
+  margin-bottom: 0.75rem;
+}
+
+/* line 40, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box-options {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+/* line 45, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box-downloads {
+  padding-top: 0.25rem;
+  white-space: nowrap;
+}
+
+/* line 49, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box-downloads-container {
+  margin-top: 0.5rem;
+}
+
+/* line 54, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box-downloads-file.blacklight-icons {
+  margin-right: 0.5rem;
+}
+
+/* line 57, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-actions-box-downloads-file.blacklight-icons svg {
+  fill: #6c757d;
+}
+
+/* line 65, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-breadcrumb h1 {
+  font-size: 1.5rem;
+}
+
+/* line 68, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-show-breadcrumb h1.media .col {
+  padding-top: 0.25rem;
+}
+
+/* line 73, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item {
+  -webkit-box-flex: 1;
+          flex: 1 0 100%;
+}
+
+/* line 77, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.al-bc-item::before {
+  content: '»' !important;
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-1.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-1.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-1.media {
+    padding-left: 0px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-2.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-2.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-2.media {
+    padding-left: 10px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-3.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-3.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-3.media {
+    padding-left: 20px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-4.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-4.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-4.media {
+    padding-left: 30px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-5.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-5.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-5.media {
+    padding-left: 40px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-6.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-6.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-6.media {
+    padding-left: 50px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-7.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-7.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-7.media {
+    padding-left: 60px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-8.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-8.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-8.media {
+    padding-left: 70px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-9.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-9.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-9.media {
+    padding-left: 80px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-10.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-10.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-10.media {
+    padding-left: 90px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-11.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-11.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-11.media {
+    padding-left: 100px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-12.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-12.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-12.media {
+    padding-left: 110px;
+  }
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.breadcrumb-item.breadcrumb-item-13.media {
+  padding-left: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-13.media::before {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .breadcrumb-item.breadcrumb-item-13.media {
+    padding-left: 120px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-1 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-1 {
+    padding-left: 20px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-2 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-2 {
+    padding-left: 30px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-3 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-3 {
+    padding-left: 40px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-4 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-4 {
+    padding-left: 50px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-5 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-5 {
+    padding-left: 60px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-6 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-6 {
+    padding-left: 70px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-7 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-7 {
+    padding-left: 80px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-8 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-8 {
+    padding-left: 90px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-9 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-9 {
+    padding-left: 100px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-10 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-10 {
+    padding-left: 110px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-11 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-11 {
+    padding-left: 120px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-12 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-12 {
+    padding-left: 130px;
+  }
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-metadata-section.breadcrumb-item-13 {
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-metadata-section.breadcrumb-item-13 {
+    padding-left: 140px;
+  }
+}
+
+/* line 113, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-toggle-view-children {
+  content: url(/assets/blacklight/plus-cf891879da78ceba1a652f8c915a7569c29e46ee57896fae8a681397aaf8e23a.svg);
+}
+
+/* line 115, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-toggle-view-children:not(.collapsed) {
+  content: url(/assets/blacklight/minus-485a2820aae461df0d72e7fa0f756e07fd7e0cd541fbad6592ca6e3042af8241.svg);
+}
+
+/* line 123, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-toggle-children-container {
+  margin-left: -1.5rem;
+}
+
+/* line 127, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.bookmark-toggle .toggle-bookmark {
+  display: inline;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+
+/* line 133, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.bookmark-toggle {
+  display: inline;
+}
+
+/* line 138, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-hierarchy-side-content .al-request-form {
+  display: inline;
+  float: right;
+}
+
+/* line 145, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-request-button.btn-link {
+  font-weight: 600;
+  line-height: 1;
+}
+
+@media (min-width: 1200px) {
+  /* line 144, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+  .al-request-button {
+    margin-right: 0.5rem;
+  }
+}
+
+/* line 153, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.al-request-button:before {
+  content: "\0229F";
+}
+
+/* line 159, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+dl dd {
+  overflow-wrap: break-word;
+}
+
+/* line 163, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+dl.deflist dt {
+  text-align: left;
+}
+
+/* line 167, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.chronlist-head, .list-head {
+  caption-side: top;
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+/* line 174, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.chronlist th,
+.chronlist-item-date {
+  font-weight: 500;
+}
+
+/* line 179, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.chronlist-item-date {
+  width: 15ch;
+}
+
+/* line 184, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.chronlist-item-event div:not(:last-child) {
+  margin-bottom: 0.75rem;
+}
+
+/* line 189, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/layout.scss */
+.text-underline {
+  text-decoration: underline;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron {
+  border-bottom: 1px solid #dee2e6;
+  padding: 2rem 1rem 1rem;
+}
+
+/* line 5, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron .navbar-nav {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* line 11, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron h1 {
+  font-size: 2.25rem;
+  margin-bottom: 2rem;
+}
+
+/* line 16, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron .search-query-form {
+  margin-bottom: 1rem;
+  max-width: 100%;
+}
+
+/* line 21, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron .navbar {
+  padding-bottom: 0;
+}
+
+/* line 24, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-homepage-masthead.jumbotron .navbar a {
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  /* line 30, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .al-homepage-masthead.jumbotron .masthead-center {
+    text-align: center;
+  }
+  /* line 33, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .al-homepage-masthead.jumbotron h2 {
+    display: inline-block;
+  }
+  /* line 36, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .al-homepage-masthead.jumbotron .nav-links {
+    -webkit-box-pack: center !important;
+            justify-content: center !important;
+  }
+}
+
+/* line 45, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.navbar-search .search-query-form {
+  flex-basis: auto !important;
+  max-width: 100% !important;
+}
+
+/* line 51, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.within-collection-dropdown {
+  min-width: 0;
+}
+
+@media (min-width: 576px) {
+  /* line 51, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .within-collection-dropdown {
+    width: 50% !important;
+  }
+}
+
+@media (min-width: 992px) {
+  /* line 51, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .within-collection-dropdown {
+    min-width: 0;
+  }
+}
+
+/* line 64, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead h1, .al-masthead .h1 {
+  display: block;
+  font-size: 2rem;
+  margin: 0;
+  padding: 1.5rem 0.5rem;
+}
+
+/* line 71, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead .navbar-nav {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  font-weight: 700;
+}
+
+/* line 75, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead .navbar-nav .active a {
+  color: #495057;
+}
+
+/* line 80, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead + .navbar-search {
+  border-bottom: 1px solid #dee2e6;
+  border-top: 1px solid #dee2e6;
+  margin-bottom: 0.5rem;
+}
+
+/* line 85, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead + .navbar-search a {
+  font-weight: 700;
+}
+
+/* line 89, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead + .navbar-search .active a {
+  color: #495057;
+}
+
+/* line 93, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead + .navbar-search .navbar-toggler {
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+/* line 98, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+.al-masthead + .navbar-search .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+}
+
+@media (max-width: 767px) {
+  /* line 104, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .al-masthead .nav-links {
+    -webkit-box-pack: center !important;
+            justify-content: center !important;
+  }
+}
+
+@media (max-width: 992px) {
+  /* line 110, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/mastheads.scss */
+  .al-masthead h1,
+  .al-masthead + .navbar-search {
+    text-align: center;
+  }
+}
+
+/* line 2, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repositories.scss */
+.blacklight-repositories-show .al-repository-show-header {
+  margin-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+/* line 7, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repositories.scss */
+.blacklight-repositories-show .al-repository-collections {
+  font-size: 0.875rem;
+}
+
+/* line 10, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repositories.scss */
+.blacklight-repositories-show .al-repository-collections::after {
+  content: '\bb';
+}
+
+/* line 15, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repositories.scss */
+.blacklight-repositories-show .al-document-title-bar {
+  border-top: 1px solid #dee2e6;
+  margin-bottom: 1rem;
+  padding-top: 0.5rem;
+}
+
+/* line 20, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repositories.scss */
+.blacklight-repositories-show .al-document-title-bar .al-document-abstract-or-scope,
+.blacklight-repositories-show .al-document-title-bar .al-collection-id {
+  font-size: 0.875rem;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository {
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+  margin-bottom: 1rem;
+}
+
+/* line 6, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information {
+  font-size: 0.875rem;
+  padding: 1rem;
+}
+
+@media (min-width: 992px) {
+  /* line 6, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+  .al-repository .al-repository-information {
+    padding-left: 0;
+  }
+}
+
+/* line 14, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information address {
+  margin-bottom: 0;
+}
+
+/* line 18, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .repo-name {
+  margin-bottom: 1rem;
+}
+
+/* line 22, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-contact,
+.al-repository .al-repository-information .al-repository-extra-collection-count {
+  font-weight: 300;
+}
+
+/* line 27, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-street-address {
+  margin-bottom: 0.5rem;
+}
+
+/* line 31, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-description {
+  margin-right: 1rem;
+  padding-left: 2rem;
+}
+
+@media (min-width: 992px) {
+  /* line 31, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+  .al-repository .al-repository-information .al-repository-description {
+    border-left: 1px solid #dee2e6;
+  }
+}
+
+/* line 40, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-extra {
+  text-align: center;
+}
+
+/* line 43, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-extra .al-repository-extra-collection-count {
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+/* line 48, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/repository_card.scss */
+.al-repository .al-repository-information .al-repository-extra .al-repository-collection-count {
+  font-weight: 700;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list,
+.documents-online_contents {
+  margin-bottom: 1rem;
+}
+
+/* line 6, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list .al-document-title-bar,
+.documents-online_contents .al-document-title-bar {
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+  font-size: 0.875rem;
+  margin: 0 -13px 0.5rem;
+  padding: 3px 12px;
+}
+
+/* line 15, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document,
+.documents-online_contents article.document {
+  border-bottom: 1px solid #dee2e6;
+  margin-top: 0;
+  padding: 1rem 0;
+}
+
+/* line 20, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document:first-child,
+.documents-online_contents article.document:first-child {
+  padding-top: 0;
+}
+
+/* line 24, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document .document-title-heading,
+.documents-online_contents article.document .document-title-heading {
+  font-size: 1.25rem;
+}
+
+/* line 26, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document .document-title-heading .al-document-extent,
+.documents-online_contents article.document .document-title-heading .al-document-extent {
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+  border-radius: 0.3rem;
+  color: #343a40;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  text-align: left;
+  white-space: normal;
+}
+
+/* line 31, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document form.bookmark-toggle.col-auto,
+.documents-online_contents article.document form.bookmark-toggle.col-auto {
+  padding-right: 0;
+}
+
+/* line 35, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document .breadcrumb-links,
+.documents-list article.document .al-document-creator,
+.documents-list article.document .al-document-extent,
+.documents-list article.document .al-document-abstract-or-scope,
+.documents-online_contents article.document .breadcrumb-links,
+.documents-online_contents article.document .al-document-creator,
+.documents-online_contents article.document .al-document-extent,
+.documents-online_contents article.document .al-document-abstract-or-scope {
+  font-size: 0.875rem;
+}
+
+/* line 42, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-list article.document .al-document-abstract-or-scope,
+.documents-online_contents article.document .al-document-abstract-or-scope {
+  margin-bottom: 0.5rem;
+  max-width: 45em;
+}
+
+/* line 50, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+article.document .blacklight-icons svg {
+  fill: #6c757d;
+}
+
+/* line 53, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+article.document .blacklight-icons.al-online-content-icon svg {
+  fill: #28a745;
+}
+
+/* line 56, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+article.document div.breadcrumb-links,
+article.document div.al-document-abstract-or-scope,
+article.document div.al-document-creator {
+  margin-top: 0.5rem;
+}
+
+/* line 64, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-compact h3 {
+  font-size: 1.25rem;
+}
+
+/* line 70, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .breadcrumb-links {
+  font-size: 0.875rem;
+}
+
+/* line 74, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .al-document-abstract-or-scope {
+  margin-bottom: 0;
+  margin-top: 0.75rem;
+  max-width: 45em;
+}
+
+/* line 79, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .al-grouped-repository {
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+/* line 83, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .al-grouped-title-bar {
+  background-color: #e9ecef;
+  padding: 12px;
+}
+
+/* line 87, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .al-grouped-title-bar h3 {
+  display: inline;
+  font-size: 1.5rem;
+}
+
+/* line 92, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .grouped-documents {
+  margin: 12px 0;
+}
+
+/* line 94, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .grouped-documents h4 {
+  font-size: 1.25rem;
+}
+
+/* line 98, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .grouped-documents .al-grouped-more {
+  border-bottom: 1px solid #dee2e6;
+  padding: 0.5rem 0;
+}
+
+/* line 103, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .grouped-documents .document {
+  border-bottom: 1px solid #dee2e6;
+  margin-top: 0;
+  padding: 1rem 0;
+}
+
+/* line 108, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .grouped-documents .document:last-child {
+  border-bottom: 0;
+}
+
+/* line 114, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-grouped-results .al-document-extent {
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+  border-radius: 0.3rem;
+  color: #343a40;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  text-align: left;
+  white-space: normal;
+  background-color: #f8f9fa;
+  border-color: #ced4da;
+  color: #495057;
+}
+
+/* line 124, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-compact .document .breadcrumb-links,
+.documents-compact .document .al-repository-footer {
+  font-size: 0.875rem;
+}
+
+/* line 131, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-data-range-histogram {
+  margin-bottom: 1rem;
+}
+
+/* line 135, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.blacklight-catalog-index #appliedParams {
+  margin-bottom: 3rem !important;
+}
+
+/* line 141, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-compact {
+  margin-bottom: 1rem;
+}
+
+/* line 144, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-compact .document {
+  border-bottom: 1px solid #dee2e6;
+  padding: 1rem 0;
+}
+
+/* line 148, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.documents-compact .document:first-child {
+  padding-top: 0;
+}
+
+/* line 154, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.index-document-functions {
+  display: -webkit-box;
+  display: flex;
+}
+
+/* line 158, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.al-document-container.text-muted {
+  color: #6c757d !important;
+}
+
+/* line 162, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.col-no-left-padding {
+  padding-left: 0 !important;
+}
+
+/* line 166, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.col-no-right-padding {
+  padding-right: 0 !important;
+}
+
+/* line 170, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.breadcrumb .media .col, h1.media .col {
+  flex-basis: auto;
+}
+
+/* line 174, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.breadcrumb .media svg, h1.media svg {
+  fill: #6c757d;
+}
+
+/* line 178, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.breadcrumb-links a {
+  border-bottom: 1px dashed #6c757d;
+  color: #212529;
+}
+
+/* line 182, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.breadcrumb-links a:hover, .breadcrumb-links a:active {
+  border-color: inherit;
+  border-bottom-style: solid;
+  text-decoration: none;
+}
+
+/* line 190, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.breadcrumb-links .col {
+  flex-basis: auto;
+}
+
+/* line 194, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.btn-outline-secondary svg {
+  fill: #6c757d;
+}
+
+/* line 198, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/search_results.scss */
+.btn-outline-secondary:not(:disabled):not(.disabled).active svg, .btn-outline-secondary:hover svg {
+  fill: #fff;
+}
+
+/* line 2, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-sticky-sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+/* line 7, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-show-sub-heading {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+/* line 11, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-show-sub-heading + dl > dt {
+  font-size: 0.875rem;
+  margin-top: 4px;
+  text-transform: uppercase;
+}
+
+/* line 18, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-collection-actions-menu {
+  float: right;
+}
+
+/* line 22, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-online-content-icon .blacklight-icons svg {
+  fill: #28a745;
+}
+
+/* line 26, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+p.media .col {
+  -webkit-box-flex: 1;
+          flex: auto;
+}
+
+/* line 31, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+#access dl dt {
+  font-size: 0.875rem;
+}
+
+/* line 35, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+#access dl dd {
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+
+/* line 40, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+#access img {
+  margin-bottom: 0.5rem;
+  margin-right: 1rem;
+  max-height: 150px;
+  max-width: 150px;
+}
+
+/* line 47, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+#access .al-in-person-repository-name,
+#access .al-in-person-repository-location,
+#access .al-in-person-repository-contact {
+  font-size: 0.875rem;
+  line-height: 1.25;
+}
+
+/* line 54, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+#access .al-repository-contact-city_state_zip_country {
+  margin-bottom: 0.5rem;
+}
+
+/* line 59, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+.al-digital-object.breadcrumb-item {
+  margin-bottom: 0.5rem;
+}
+
+/* line 63, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/show_collection.scss */
+p.media.breadcrumb-item {
+  margin-bottom: 0.5rem;
+}
+
+/* line 1, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+#contents > .context-navigator,
+#collection-context > .context-navigator {
+  padding-left: 1rem;
+}
+
+/* line 6, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+ul.al-context-nav-parent {
+  padding-left: 0px;
+}
+
+/* line 10, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context {
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 15px;
+  max-width: 100%;
+}
+
+/* line 17, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .al-collection-context-collapsible {
+  width: 100%;
+}
+
+/* line 21, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .blacklight-icons {
+  padding-top: 0.25rem;
+}
+
+/* line 25, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .al-number-of-children-badge {
+  font-size: 12px;
+  vertical-align: middle;
+}
+
+/* line 30, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .documentHeader {
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+/* line 36, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .document-title-heading {
+  font-size: 1.25rem;
+}
+
+/* line 40, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .col.col-no-left-padding.d-flex.flex-wrap {
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+}
+
+/* line 43, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .order-2 .row {
+  margin-left: 0;
+}
+
+/* line 47, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .al-document-abstract-or-scope {
+  max-width: 45em;
+}
+
+/* line 51, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .blacklight-icons svg {
+  fill: #6c757d;
+}
+
+/* line 55, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+li.al-collection-context .al-online-content-icon svg {
+  fill: #28a745;
+}
+
+@media (max-width: 767px) {
+  /* line 10, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+  li.al-collection-context {
+    padding-left: 0;
+  }
+  /* line 60, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+  li.al-collection-context .al-document-abstract-or-scope {
+    max-width: 25em;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 68, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+  .blacklight-catalog.blacklight-catalog-show #context {
+    padding: 10px;
+  }
+  /* line 72, ../.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/arclight-9f1c90c87c8a/app/assets/stylesheets/arclight/modules/context_navigation.scss */
+  ul.al-context-nav-parent {
+    padding-left: 40px;
+  }
+}
+/*
+
+*/

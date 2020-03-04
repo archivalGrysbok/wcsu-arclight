@@ -1,8 +1,10 @@
 Rails.application.routes.draw do
 
+scope 'arc' do
+
 concern :range_searchable, BlacklightRangeLimit::Routes::RangeSearchable.new
-  mount Blacklight::Engine => '/a/'
-    mount Arclight::Engine => '/a/'
+  mount Blacklight::Engine => '/'
+    mount Arclight::Engine => '/'
 
   root to: "catalog#index"
   concern :searchable, Blacklight::Routes::Searchable.new
@@ -17,7 +19,7 @@ concern :range_searchable, BlacklightRangeLimit::Routes::RangeSearchable.new
   devise_for :users
   concern :exportable, Blacklight::Routes::Exportable.new
 
-  resources :solr_documents, only: [:show], path: '/arclight/catalog', controller: 'catalog' do
+  resources :solr_documents, only: [:show], path: 'catalog', controller: 'catalog' do
     concerns :exportable
   end
 
@@ -28,9 +30,14 @@ concern :range_searchable, BlacklightRangeLimit::Routes::RangeSearchable.new
       delete 'clear'
     end
 
-  end
+end
 
 
+
+#resource :repositories, path: 'arclight/repo'
+
+
+end
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
