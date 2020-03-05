@@ -44,18 +44,18 @@ comment out locale picker from ~/app/controllers/application_controller.rb
 To make the application happily run in a subdirectory (example: http://archives.library.wcsu.edu/arclight/)
 	Edit these files:
 		./config/initializers/assets.rb , add line 
-			Rails.application.config.assets.prefix = "/arclight/asset"
+			Rails.application.config.assets.prefix = "/public/assets/"
 			
 		./config/application.rb , add line (in the middle, after the line with the version)
 			config.relative_url_root = "/arclight/"
 
-		./config/routes.rb , edit the 'mounts' lines:
-			mount Blacklight::Engine => '/a/'
-			mount Arclight::Engine => '/a/'
-			
-		./config.ru , comment everything out with # and add		
-			require ::File.expand_path('../config/environment',  __FILE__)
-				map '/arclight' do
-					run Rails.application
-				end
+		./config/routes.rb , put everything in a "scope" block
+			line 2: scope 'caoSearch' doedit the 'mounts' lines:
+			last line: end
+		
+		/etc/httpd/conf/httpd.conf 
+			ProxyPass /arclight http://clio.wcsu.edu:3000
+			ProxyPassReverse /arclight http://clio.wcsu.edu:3000
+			Redirect "/caoSearch" "/arclight/caoSearch"
+
 
