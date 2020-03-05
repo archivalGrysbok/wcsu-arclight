@@ -1,24 +1,61 @@
-# README
+Change into arclight user, go to arclight home directory.
+>   su arclight
+>   cd ~
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Install Ruby/Rails/Rbenv following this tutorials, using ruby 2.6.5:
+  https://www.hugeserver.com/kb/install-ruby-on-rails-centos/
+  
+>  (a lot of steps from that link above, be sure to use ruby 2.6.5)
 
-Things you may want to cover:
+Install rails version 5.0
+>  gem install rails -v 5.0
 
-* Ruby version
+>  gem install rails -v 5.2
+  
+Install arclight from template
+>  rails new arclight -m https://raw.githubusercontent.com/projectblacklight/arclight/master/template.rb
 
-* System dependencies
+you'll get a complaint about a mismatch between rails versions. Go in to ~/arclight/Gemfile
+>  nano ~/arclight/Gemfile
 
-* Configuration
+Edit the line that begins "gem 'rails'"
+It should be 
+   gem 'rails', '~> 5.2'
 
-* Database creation
+Save using ctrl+O (O for Output)
 
-* Database initialization
+Update the bundles using the new rails version
+>  cd arclight
+>  bundle update
+>  bundle upate
 
-* How to run the test suite
+nano ~/config/application.rb
+edit the rails version from 6.0 to 5.2
 
-* Services (job queues, cache servers, search engines, etc.)
+open ~/arclight/Gemfile and remove 
 
-* Deployment instructions
+rerun below, and hit 'n' a lot
+>  rails new arclight -m https://raw.githubusercontent.com/projectblacklight/arclight/master/template.rb
 
-* ...
+
+comment out locale picker from ~/app/controllers/application_controller.rb
+
+
+To make the application happily run in a subdirectory (example: http://archives.library.wcsu.edu/arclight/)
+	Edit these files:
+		./config/initializers/assets.rb , add line 
+			Rails.application.config.assets.prefix = "/public/assets/"
+			
+		./config/application.rb , add line (in the middle, after the line with the version)
+			config.relative_url_root = "/arclight/"
+
+		./config/routes.rb , put everything in a "scope" block
+			line 2: scope 'caoSearch' doedit the 'mounts' lines:
+			last line: end
+		
+		/etc/httpd/conf/httpd.conf 
+			ProxyPass /arclight http://clio.wcsu.edu:3000
+			ProxyPassReverse /arclight http://clio.wcsu.edu:3000
+			Redirect "/caoSearch" "/arclight/caoSearch"
+
+
