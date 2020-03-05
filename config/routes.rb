@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-scope 'arc' do
+scope 'caoSearch' do
 
 concern :range_searchable, BlacklightRangeLimit::Routes::RangeSearchable.new
   mount Blacklight::Engine => '/'
