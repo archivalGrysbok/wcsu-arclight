@@ -4,4 +4,13 @@ class ApplicationController < ActionController::Base
 #  include Blacklight::LocalePicker::Concern
   layout :determine_layout if respond_to? :layout
 
+
+
+
+
+
+
+
+skip_before_action :verify_authenticity_token
+
 end
