@@ -18,3 +18,23 @@
  *= require  'blacklight_range_limit'
  *
 */
+
+svg {
+height: 20px;
+}
+
+
+
+img.custom-logo{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+
+}
+.al-show-actions-box-downloads {
+    padding-top: $spacer * .25;
+    white-space: nowrap;
+    display: none;
+}
+ 
