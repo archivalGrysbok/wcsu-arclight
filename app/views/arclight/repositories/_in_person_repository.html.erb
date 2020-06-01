@@ -1,0 +1,26 @@
+
+<div class='al-in-person-repository-name'>
+  <% if repository.thumbnail_url %>
+    <%= image_tag repository.thumbnail_url, alt: '', class: 'img-fluid float-left' %>
+  <% end %>
+  <div>
+    <%= link_to(repository.name, arclight_engine.repository_path(repository.slug)) %>
+  </div>
+</div>
+<div class='al-in-person-repository-location'>
+  <address>
+    <% %i[building address1 address2 city_state_zip_country].each do |f| %>
+      <% if repository.send(f).present? %>
+        <div class='al-repository-contact-<%= f %>'>
+          <%= repository.send(f) %>
+        </div>
+      <% end %>
+    <% end %>
+        <% if repository.url.present? %>
+          <div class='al-repository-contact-info-url'>
+            <%= link_to("Link to repository site", repository.url) %>
+          </div>
+        <% end %>
+  </address>
+</div>
+
