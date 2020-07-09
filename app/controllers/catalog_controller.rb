@@ -311,6 +311,10 @@ class CatalogController < ApplicationController
     }, if: lambda { |_context, _field_config, document|
       document.containers.present?
     }
+
+    config.add_component_field 'url_ssm', label: 'URL'
+
+    # add notes here
     config.add_component_field 'abstract_ssm', label: 'Abstract', helper_method: :render_html_tags
     config.add_component_field 'extent_ssm', label: 'Extent'
     config.add_component_field 'scopecontent_ssm', label: 'Scope and Content', helper_method: :render_html_tags
@@ -322,6 +326,20 @@ class CatalogController < ApplicationController
     config.add_component_field 'accruals_ssm', label: 'Accruals', helper_method: :render_html_tags
     config.add_component_field 'phystech_ssm', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_component_field 'physloc_ssm', label: 'Physical location', helper_method: :render_html_tags
+    config.add_component_field 'odd_ssm', label: 'Notes', helper_method: :render_html_tags
+    config.add_component_field 'accessrestrict_ssm', label: 'Access Restrictions', helper_method: :render_html_tags
+    config.add_component_field 'altformavail_ssm', label: 'Alternate Form Available', helper_method: :render_html_tags
+    config.add_component_field 'bioghist_ssm', label: 'Biographical History', helper_method: :render_html_tags
+    config.add_component_field 'fileplan_ssm', label: 'Fileplan', helper_method: :render_html_tags
+    config.add_component_field 'note_ssm', label: 'Notes', helper_method: :render_html_tags
+    config.add_component_field 'originalsloc_ssm', label: 'Original Location', helper_method: :render_html_tags
+    config.add_component_field 'prefercite_ssm', label: 'Prefered Citation', helper_method: :render_html_tags
+    config.add_component_field 'relatedmaterial_ssm', label: 'Related Material', helper_method: :render_html_tags
+    config.add_component_field 'separatedmaterial_ssm', label: 'Separated Materials', helper_method: :render_html_tags
+    config.add_component_field 'bibliography_ssm', label: 'Bibliography', helper_method: :render_html_tags
+    config.add_component_field 'userestrict_ssm', label: 'User Restrictions', helper_method: :render_html_tags
+
+
 
     # Component Show Page - Indexed Terms Section
     config.add_component_indexed_terms_field 'access_subjects_ssim', label: 'Subjects', link_to_facet: true, separator_options: {
