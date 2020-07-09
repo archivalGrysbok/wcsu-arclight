@@ -17,17 +17,14 @@ sample_unitid:
     href: 'http://example.com/sample.xml'
     size: 123456
     # size_accessor: 'level'
-
 art:
   disabled: false
   ead:
     href: 'http://archives.library.wcsu.edu/findingaids/art.xml'
-
-
 default:
-  disabled: false
-  pdf:
-    template: 'http://exampddle.com/%{unitid}.pdf'
-  ead:
-    template: 'http://exampledd.com/%{unitid}.xml'
+  disabled: true
+#  pdf:
+#    template: 'http://exampddle.com/%{unitid}.pdf'
+#  ead:
+#    template: 'http://exampledd.com/%{unitid}.xml'
 
