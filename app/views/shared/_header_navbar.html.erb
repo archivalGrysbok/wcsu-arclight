@@ -1,30 +1,26 @@
-<header>
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark topbar" aria-label="utilities" role="navigation">
-    <div class="<%= container_classes %>">
-      <%= link_to application_name, root_path, class: "navbar-brand" %>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#user-util-collapse" aria-controls="user-util-collapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
 
-      <div class="collapse navbar-collapse justify-content-md-end" id="user-util-collapse">
-        <%= render 'shared/user_util_links' %>
-      </div>
-    </div>
-  </nav>
+<script type="text/javascript" src="https://archives-library.wcsu.edu/cao/wp-content/themes/basic/js/functions.js?ver=1" id="basic-scripts-js"></script>
+
+
+<header>
+
   <% if controller_name == 'catalog' && !has_search_parameters? && action_name == 'index' %>
     <div class='al-homepage-masthead jumbotron'>
       <div class="container">
-        <div class="row align-items-center">
+<!--        <div class="row align-items-center"> -->
+        <div class="wrapper clearfix">
+        <%= render 'shared/wordpress_nav_test' %>
+
+
 <div class="col-md-8">
+
+
+
 <span class="h1">
-<!-- <img style="margin-bottom: 20px;" width="300" hspace="20" src="https://archives-library.wcsu.edu/cao/wp-content/uploads/sites/2/2020/01/cao2019.png" class="custom-l$
- srcset="
-https://archives-library.wcsu.edu/cao/wp-content/uploads/sites/2/2020/01/cao2019-300x172.png 300w,
-https://archives-library.wcsu.edu/cao/wp-content/uploads/sites/2/2020/01/cao2019-1024x586.png 1024w,
-https://archives-library.wcsu.edu/cao/wp-content/uploads/sites/2/2020/01/cao2019-768x440.png 768w, "
-sizes="(max-width: 768px) 100vw, 768px"
-alt="<%= t('arclight.masthead_heading') %>"> -->
+
+<!--
 <%= link_to image_tag(t('arclight.masthead_logo_html'), height: "187", width: "300"), root_path, class: "navbar-brand" %>
+-->
 <!-- 
 <a href="<%= t('root_path') %>
 <img style="margin-bottom: 20px;" width="300" hspace="20" src="<%=t('arclight.masthead_logo_html') %>" 
@@ -33,12 +29,14 @@ alt="<%= t('masthead_heading') %>">
 
 </span></div>
 
-
+<!--
           <div class="col-md-4 nav-links d-flex justify-content-end" >
             <ul class="navbar-nav" aria-label="browse" role="navigation">
               <%= render 'shared/main_menu_links' %>
+
+
             </ul>
-          </div>
+          </div>-->
         </div>
 
         <div class='row justify-content-md-center'>
@@ -53,21 +51,23 @@ alt="<%= t('masthead_heading') %>">
   <% else %>
     <div class='bg-faded al-masthead'>
       <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-8" >
+        <div class="wrapper clearfix">
+<!--        <div class="row align-items-center">-->
+        <%= render 'shared/wordpress_nav_test' %>
+<!--
+     <div class="col-md-8" >
            <span class="h1">
           
 
 <%= link_to image_tag(t('arclight.masthead_logo_html'), height: "93", width: "150"), root_path, class: "navbar-brand" %>
-
 </span>
 </div>
-
-          <div class="col-md-4 nav-links d-flex justify-content-end" >
+-->
+    <!--      <div class="col-md-4 nav-links d-flex justify-content-end" >
             <ul class="navbar-nav" aria-label="browse" role="navigation">
               <%= render 'shared/main_menu_links' %>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
