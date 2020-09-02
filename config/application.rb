@@ -16,7 +16,6 @@ module Arclight
 
      config.relative_url_root = "/arclight"  #used for assets
 
-
 #Rails.application.routes.default_scope = 'arclight'
 
     # Settings in config/environments/* take precedence over those specified here.
