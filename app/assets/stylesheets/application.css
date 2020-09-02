@@ -20,6 +20,8 @@
 */
 
 @import url("https://archives-library.wcsu.edu/cao/wp-content/themes/basic/style.css?ver=1");
+
+
 svg {
 height: 20px;
 }
@@ -367,32 +369,3 @@ h1,h2,h3,h4 {font-family:inherit}
 
 
 
-
-a:hover,#logo,.bx-controls a:hover .fa{color:#2e64e6}a:hover{color:#2e64e6}blockquote,q,input:focus,textarea:focus,select:focus{border-color:#2e64e6}input[type=submit],input[type=button],button,.submit,.button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,#mobile-menu,.top-menu,.top-menu .sub-menu,.top-menu .children,.more-link,.nav-links a:hover,.nav-links .current,#footer{background-color:#2e64e6}@media screen and (max-width:1023px){.topnav{background-color:#2e64e6}}
-
-
-
-            .sitetitle.right .custom-logo-right, .sitetitle.left .custom-logo-right {
-                margin-left: 20px;
-                margin-right: 0;
-                margin-bottom: 0;
-                max-width: 250px;
-                float: right;
-            }
-
-
-            #logo {
-                display: block;
-                font-size: 20pt;
-                margin: 0;
-                padding: 0;
-                text-decoration: none;
-                letter-spacing: -0.02em;}
-
-            #footer {
-                color: #fff;
-                font-size: 14px;
-                line-height: 1.25;
-                visibility: hidden;
-                text-decoration: none;
-            }
