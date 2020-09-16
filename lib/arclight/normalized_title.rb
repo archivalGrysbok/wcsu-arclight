@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+ 
 module Arclight
   ##
   # A utility class to normalize titles, typically by joining
