@@ -255,10 +255,17 @@ class CatalogController < ApplicationController
 
     # Collection Show Page - Summary Section
     config.add_summary_field 'creators_ssim', label: 'Creator', link_to_facet: true
+    config.add_summary_field 'abstract_tesim', label: 'Abstract', helper_method: :render_html_tags
+    config.add_summary_field 'extent_tesim', label: 'Extent'
+    config.add_summary_field 'language_tesim', label: 'Language'
+    config.add_summary_field 'prefercite_ssm', label: 'Preferred citation', helper_method: :render_html_tags
+    config.add_summary_field 'normalized_date_ssm', label: 'Date'
     config.add_summary_field 'abstract_ssm', label: 'Abstract', helper_method: :render_html_tags
     config.add_summary_field 'extent_ssm', label: 'Extent'
     config.add_summary_field 'language_ssm', label: 'Language'
-    config.add_summary_field 'prefercite_ssm', label: 'Preferred citation', helper_method: :render_html_tags
+
+
+
 
     # Collection Show Page - Background Section
     config.add_background_field 'scopecontent_ssm', label: 'Scope and Content', helper_method: :render_html_tags
@@ -272,6 +279,21 @@ class CatalogController < ApplicationController
     config.add_background_field 'phystech_ssm', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_background_field 'physloc_ssm', label: 'Physical location', helper_method: :render_html_tags
     config.add_background_field 'descrules_ssm', label: 'Rules or conventions', helper_method: :render_html_tags
+
+    config.add_background_field 'scopecontent_tesim', label: 'Scope and Content', helper_method: :render_html_tags
+    config.add_background_field 'bioghist_tesim', label: 'Biographical / Historical', helper_method: :render_html_tags
+    config.add_background_field 'appraisal_tesim', label: 'Appraisal information', helper_method: :render_html_tags
+    config.add_background_field 'custodhist_tesim', label: 'Custodial history', helper_method: :render_html_tags
+    config.add_background_field 'processinfo_tesim', label: 'Processing information', helper_method: :render_html_tags
+    config.add_background_field 'arrangement_tesim', label: 'Arrangement', helper_method: :render_html_tags
+    config.add_background_field 'accruals_tesim', label: 'Accruals', helper_method: :render_html_tags
+    config.add_background_field 'phystech_tesim', label: 'Physical / technical requirements', helper_method: :render_html_tags
+    config.add_background_field 'physloc_tesim', label: 'Physical location', helper_method: :render_html_tags
+    config.add_background_field 'descrules_tesim', label: 'Rules or conventions', helper_method: :render_html_tags
+
+
+
+
 
     # Collection Show Page - Related Section
     config.add_related_field 'relatedmaterial_ssm', label: 'Related material', helper_method: :render_html_tags
@@ -315,10 +337,33 @@ class CatalogController < ApplicationController
     config.add_component_field 'url_ssm', label: 'URL'
 
     # add notes here
+    config.add_component_field 'abstract_tesim', label: 'Abstract', helper_method: :render_html_tags
+    config.add_component_field 'extent_tesim', label: 'Extent'
+    config.add_component_field 'scopecontent_tesim', label: 'Scope and Content', helper_method: :render_html_tags
+    config.add_component_field 'acqinfo_ssim', label: 'Acquisition information', helper_method: :render_html_tags
+    config.add_component_field 'appraisal_tesim', label: 'Appraisal information', helper_method: :render_html_tags
+    config.add_component_field 'custodhist_tesim', label: 'Custodial history', helper_method: :render_html_tags
+    config.add_component_field 'processinfo_tesim', label: 'Processing information', helper_method: :render_html_tags
+    config.add_component_field 'arrangement_tesim', label: 'Arrangement', helper_method: :render_html_tags
+    config.add_component_field 'accruals_tesim', label: 'Accruals', helper_method: :render_html_tags
+    config.add_component_field 'phystech_tesim', label: 'Physical / technical requirements', helper_method: :render_html_tags
+    config.add_component_field 'physloc_tesim', label: 'Physical location', helper_method: :render_html_tags
+    config.add_component_field 'odd_tesim', label: 'Notes3', helper_method: :render_html_tags
+    config.add_component_field 'accessrestrict_tesim', label: 'Access Restrictions', helper_method: :render_html_tags
+    config.add_component_field 'altformavail_tesim', label: 'Alternate Form Available', helper_method: :render_html_tags
+    config.add_component_field 'bioghist_tesim', label: 'Biographical History', helper_method: :render_html_tags
+    config.add_component_field 'fileplan_tesim', label: 'Fileplan', helper_method: :render_html_tags
+    config.add_component_field 'note_tesim', label: 'Notes2', helper_method: :render_html_tags
+    config.add_component_field 'originalsloc_tesim', label: 'Original Location', helper_method: :render_html_tags
+    config.add_component_field 'prefercite_tesim', label: 'Prefered Citation', helper_method: :render_html_tags
+    config.add_component_field 'relatedmaterial_tesim', label: 'Related Material', helper_method: :render_html_tags
+    config.add_component_field 'separatedmaterial_tesim', label: 'Separated Materials', helper_method: :render_html_tags
+    config.add_component_field 'bibliography_tesim', label: 'Bibliography', helper_method: :render_html_tags
+    config.add_component_field 'userestrict_tesim', label: 'User Restrictions', helper_method: :render_html_tags
+
     config.add_component_field 'abstract_ssm', label: 'Abstract', helper_method: :render_html_tags
     config.add_component_field 'extent_ssm', label: 'Extent'
     config.add_component_field 'scopecontent_ssm', label: 'Scope and Content', helper_method: :render_html_tags
-    config.add_component_field 'acqinfo_ssim', label: 'Acquisition information', helper_method: :render_html_tags
     config.add_component_field 'appraisal_ssm', label: 'Appraisal information', helper_method: :render_html_tags
     config.add_component_field 'custodhist_ssm', label: 'Custodial history', helper_method: :render_html_tags
     config.add_component_field 'processinfo_ssm', label: 'Processing information', helper_method: :render_html_tags
@@ -326,19 +371,18 @@ class CatalogController < ApplicationController
     config.add_component_field 'accruals_ssm', label: 'Accruals', helper_method: :render_html_tags
     config.add_component_field 'phystech_ssm', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_component_field 'physloc_ssm', label: 'Physical location', helper_method: :render_html_tags
-    config.add_component_field 'odd_ssm', label: 'Notes', helper_method: :render_html_tags
+    config.add_component_field 'odd_ssm', label: 'Notes4', helper_method: :render_html_tags
     config.add_component_field 'accessrestrict_ssm', label: 'Access Restrictions', helper_method: :render_html_tags
     config.add_component_field 'altformavail_ssm', label: 'Alternate Form Available', helper_method: :render_html_tags
     config.add_component_field 'bioghist_ssm', label: 'Biographical History', helper_method: :render_html_tags
     config.add_component_field 'fileplan_ssm', label: 'Fileplan', helper_method: :render_html_tags
-    config.add_component_field 'note_ssm', label: 'Notes', helper_method: :render_html_tags
+    config.add_component_field 'note_ssm', label: 'Notes1', helper_method: :render_html_tags
     config.add_component_field 'originalsloc_ssm', label: 'Original Location', helper_method: :render_html_tags
     config.add_component_field 'prefercite_ssm', label: 'Prefered Citation', helper_method: :render_html_tags
     config.add_component_field 'relatedmaterial_ssm', label: 'Related Material', helper_method: :render_html_tags
     config.add_component_field 'separatedmaterial_ssm', label: 'Separated Materials', helper_method: :render_html_tags
     config.add_component_field 'bibliography_ssm', label: 'Bibliography', helper_method: :render_html_tags
     config.add_component_field 'userestrict_ssm', label: 'User Restrictions', helper_method: :render_html_tags
-
 
 
     # Component Show Page - Indexed Terms Section
