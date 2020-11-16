@@ -70,12 +70,31 @@ end
 # Top level document
 # ==================
 
-to_field 'id', extract_xpath('/ead/eadheader/eadid'), strip, gsub('.', '-')
+to_field 'eadid_clean_ssi', extract_xpath('/ead/eadheader/eadid'), strip, gsub('.', '-')
 #to_field 'url', extract_xpath('/ead/eadheader/eadid').attribute('url')&.value
 to_field 'title_filing_si', extract_xpath('/ead/eadheader/filedesc/titlestmt/titleproper[@type="filing"]')
 to_field 'title_ssm', extract_xpath('/ead/archdesc/did/unittitle')
 to_field 'title_teim', extract_xpath('/ead/archdesc/did/unittitle')
 to_field 'ead_ssi', extract_xpath('/ead/eadheader/eadid')
+
+to_field 'id' do |_record, accumulator, context|
+  value = [
+        context.clipboard[:repository],
+        context.output_hash['eadid_clean_ssi']
+      ].join('_')
+    accumulator << value
+end
+
+
+#    to_field "id" do |record, accumulator|
+#       # take the record's 001, prefix it with "bib_",
+#       # and then add it to the 'accumulator' argument,
+#       # to send it to the specified output field
+#       value = record['001']
+#       value = "bib_#{value}"
+#       accumulator << value
+#    end
+
 
 to_field 'unitdate_ssm', extract_xpath('/ead/archdesc/did/unitdate')
 to_field 'unitdate_bulk_ssim', extract_xpath('/ead/archdesc/did/unitdate[@type="bulk"]')
@@ -107,7 +126,8 @@ to_field 'normalized_title_ssm' do |_record, accumulator, context|
     context.output_hash['unitdate_other_ssim']
   ).to_s
   title = context.output_hash['title_ssm'].first
-  accumulator << Arclight::NormalizedTitle.new(title, dates).to_s
+  id = context.output_hash['unitid_ssm']
+  accumulator << Arclight::NormalizedTitle.new(title, dates, id).to_s
 end
 
 to_field 'normalized_date_ssm' do |_record, accumulator, context|
@@ -146,7 +166,8 @@ to_field 'creator_ssm', extract_xpath('/ead/archdesc/did/origination')
 to_field 'creator_sim', extract_xpath('/ead/archdesc/did/origination')
 to_field 'creator_ssim', extract_xpath('/ead/archdesc/did/origination')
 to_field 'creator_sort' do |record, accumulator|
-  accumulator << record.xpath('/ead/archdesc/did/origination').map { |c| c.text.strip }.join(', ')
+  accumulator << record.xpath('/ead/archdesc/did/origination').map { |c| c.text.strip }.
+join(', ')
 end
 
 to_field 'creator_persname_ssm', extract_xpath('/ead/archdesc/did/origination/persname')
@@ -202,6 +223,11 @@ to_field 'digital_objects_ssm', extract_xpath('/ead/archdesc/did/dao|/ead/archde
   end
 end
 
+#to_field 'digital_objects_human_readable_ssm' do |record, accumulator, context|
+#    accumulator << "FIXED LITERAL"
+#end
+
+
 to_field 'extent_ssm', extract_xpath('/ead/archdesc/did/physdesc/extent')
 to_field 'extent_teim', extract_xpath('/ead/archdesc/did/physdesc/extent')
 to_field 'genreform_sim', extract_xpath('/ead/archdesc/controlaccess/genreform')
@@ -217,13 +243,13 @@ to_field 'date_range_sim', extract_xpath('/ead/archdesc/did/unitdate/@normal', t
 end
 
 SEARCHABLE_NOTES_FIELDS.map do |selector|
-  to_field "#{selector}_ssm", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']")
+  to_field "#{selector}_tesim", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']")
   to_field "#{selector}_heading_ssm", extract_xpath("/ead/archdesc/#{selector}/head") unless selector == 'prefercite'
   to_field "#{selector}_teim", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']")
 end
 
 DID_SEARCHABLE_NOTES_FIELDS.map do |selector|
-  to_field "#{selector}_ssm", extract_xpath("/ead/archdesc/did/#{selector}")
+  to_field "#{selector}_tesim", extract_xpath("/ead/archdesc/did/#{selector}")
 end
 
 NAME_ELEMENTS.map do |selector|
@@ -285,6 +311,8 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
   to_field 'unitdate_inclusive_ssm', extract_xpath('./did/unitdate[@type="inclusive"]')
   to_field 'unitdate_other_ssim', extract_xpath('./did/unitdate[not(@type)]')
 
+  to_field 'unitid_ssm', extract_xpath('./did/unitid')
+
   to_field 'normalized_title_ssm' do |_record, accumulator, context|
     dates = Arclight::NormalizedDate.new(
       context.output_hash['unitdate_inclusive_ssm'],
@@ -292,7 +320,8 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
       context.output_hash['unitdate_other_ssim']
     ).to_s
     title = context.output_hash['title_ssm']&.first
-    accumulator << Arclight::NormalizedTitle.new(title, dates).to_s
+    id = context.output_hash['unitid_ssm']&.first
+    accumulator << Arclight::NormalizedTitle.new(title, dates, id).to_s
   end
 
   to_field 'normalized_date_ssm' do |_record, accumulator, context|
@@ -344,7 +373,6 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
     end
   end
 
-  to_field 'unitid_ssm', extract_xpath('./did/unitid')
   to_field 'collection_unitid_ssm' do |_record, accumulator, context|
     accumulator.concat Array.wrap(context.clipboard[:parent].output_hash['unitid_ssm'])
   end
@@ -404,14 +432,14 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
   end
 
   # Get the <accessrestrict> from the closest ancestor that has one (includes top-level)
-  to_field 'parent_access_restrict_ssm' do |record, accumulator|
+  to_field 'parent_access_restrict_tesim' do |record, accumulator|
     accumulator.concat Array
       .wrap(record.xpath('(./ancestor::*/accessrestrict)[last()]/*[local-name()!="head"]')
       .map(&:text))
   end
 
   # Get the <userestrict> from self OR the closest ancestor that has one (includes top-level)
-  to_field 'parent_access_terms_ssm' do |record, accumulator|
+  to_field 'parent_access_terms_tesim' do |record, accumulator|
     accumulator.concat Array
       .wrap(record.xpath('(./ancestor-or-self::*/userestrict)[last()]/*[local-name()!="head"]')
       .map(&:text))
@@ -425,6 +453,14 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
       Arclight::DigitalObject.new(label: label, href: href).to_json
     end
   end
+
+
+
+
+#  to_field 'digital_objects_human_readable_ssm' do |record, accumulator, context|
+#    accumulator << "FIXED LITERAL"
+#  end
+
 
   to_field 'date_range_sim', extract_xpath('./did/unitdate/@normal', to_text: false) do |_record, accumulator|
     range = Arclight::YearRange.new
@@ -472,12 +508,12 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
   end
 
   SEARCHABLE_NOTES_FIELDS.map do |selector|
-    to_field "#{selector}_ssm", extract_xpath("./#{selector}/*[local-name()!='head']")
+    to_field "#{selector}_tesim", extract_xpath("./#{selector}/*[local-name()!='head']")
     to_field "#{selector}_heading_ssm", extract_xpath("./#{selector}/head")
     to_field "#{selector}_teim", extract_xpath("./#{selector}/*[local-name()!='head']")
   end
   DID_SEARCHABLE_NOTES_FIELDS.map do |selector|
-    to_field "#{selector}_ssm", extract_xpath("./did/#{selector}")
+    to_field "#{selector}_tesim", extract_xpath("./did/#{selector}")
   end
   to_field 'did_note_ssm', extract_xpath('./did/note')
 end
