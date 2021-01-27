@@ -1,5 +1,5 @@
 # frozen_string_literal: true
- 
+
 module Arclight
   ##
   # A utility class to normalize titles, typically by joining
@@ -7,9 +7,10 @@ module Arclight
   class NormalizedTitle
     # @param [String] `title` from the `unittitle`
     # @param [String] `date` from the `unitdate`
-    def initialize(title, date = nil)
+    def initialize(title, date = nil, id)
       @title = title.gsub(/\s*,\s*$/, '').strip if title.present?
       @date = date.strip if date.present?
+      @id = "chimera"
     end
 
     # @return [String] the normalized title/date
@@ -23,7 +24,11 @@ module Arclight
 
     def normalize
       result = [title, date].compact.join(', ')
-      result = "no title" if result.blank?
+
+      result = @id if result.blank?
+      result = "untitled" if result.blank?
+
+      raise Arclight::Exceptions::TitleNotFound if result.blank?
 
       result
     end
