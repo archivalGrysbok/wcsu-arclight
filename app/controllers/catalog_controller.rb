@@ -98,10 +98,14 @@ class CatalogController < ApplicationController
     config.add_facet_field 'places_ssim', label: 'Places', show: false
     config.add_facet_field 'access_subjects_ssim', label: 'Subject', limit: 10
 
+    config.add_facet_field 'component_level_isim', show: false
+    config.add_facet_field 'parent_ssim', show: false
+
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
     # handler defaults, or have no facets.
     config.add_facet_fields_to_solr_request!
+
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display
@@ -291,7 +295,10 @@ class CatalogController < ApplicationController
     config.add_background_field 'physloc_tesim', label: 'Physical location', helper_method: :render_html_tags
     config.add_background_field 'descrules_tesim', label: 'Rules or conventions', helper_method: :render_html_tags
 
-
+    config.add_background_field 'odd_ssm', label: 'Notes', helper_method: :render_html_tags
+    config.add_background_field 'odd_teim', label: 'Notes', helper_method: :render_html_tags
+    config.add_background_field 'odd_tesim', label: 'Notes', helper_method: :render_html_tags
+    config.add_background_field 'odd_ssim', label: 'Notes', helper_method: :render_html_tags
 
 
 
@@ -348,12 +355,12 @@ class CatalogController < ApplicationController
     config.add_component_field 'accruals_tesim', label: 'Accruals', helper_method: :render_html_tags
     config.add_component_field 'phystech_tesim', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_component_field 'physloc_tesim', label: 'Physical location', helper_method: :render_html_tags
-    config.add_component_field 'odd_tesim', label: 'Notes3', helper_method: :render_html_tags
+    config.add_component_field 'odd_tesim', label: 'Notes', helper_method: :render_html_tags
     config.add_component_field 'accessrestrict_tesim', label: 'Access Restrictions', helper_method: :render_html_tags
     config.add_component_field 'altformavail_tesim', label: 'Alternate Form Available', helper_method: :render_html_tags
     config.add_component_field 'bioghist_tesim', label: 'Biographical History', helper_method: :render_html_tags
     config.add_component_field 'fileplan_tesim', label: 'Fileplan', helper_method: :render_html_tags
-    config.add_component_field 'note_tesim', label: 'Notes2', helper_method: :render_html_tags
+    config.add_component_field 'note_tesim', label: 'Notes', helper_method: :render_html_tags
     config.add_component_field 'originalsloc_tesim', label: 'Original Location', helper_method: :render_html_tags
     config.add_component_field 'prefercite_tesim', label: 'Prefered Citation', helper_method: :render_html_tags
     config.add_component_field 'relatedmaterial_tesim', label: 'Related Material', helper_method: :render_html_tags
@@ -371,12 +378,12 @@ class CatalogController < ApplicationController
     config.add_component_field 'accruals_ssm', label: 'Accruals', helper_method: :render_html_tags
     config.add_component_field 'phystech_ssm', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_component_field 'physloc_ssm', label: 'Physical location', helper_method: :render_html_tags
-    config.add_component_field 'odd_ssm', label: 'Notes4', helper_method: :render_html_tags
+    config.add_component_field 'odd_ssm', label: 'Notes', helper_method: :render_html_tags
     config.add_component_field 'accessrestrict_ssm', label: 'Access Restrictions', helper_method: :render_html_tags
     config.add_component_field 'altformavail_ssm', label: 'Alternate Form Available', helper_method: :render_html_tags
     config.add_component_field 'bioghist_ssm', label: 'Biographical History', helper_method: :render_html_tags
     config.add_component_field 'fileplan_ssm', label: 'Fileplan', helper_method: :render_html_tags
-    config.add_component_field 'note_ssm', label: 'Notes1', helper_method: :render_html_tags
+    config.add_component_field 'note_ssm', label: 'Notes', helper_method: :render_html_tags
     config.add_component_field 'originalsloc_ssm', label: 'Original Location', helper_method: :render_html_tags
     config.add_component_field 'prefercite_ssm', label: 'Prefered Citation', helper_method: :render_html_tags
     config.add_component_field 'relatedmaterial_ssm', label: 'Related Material', helper_method: :render_html_tags
