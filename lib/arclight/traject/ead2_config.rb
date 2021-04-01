@@ -44,6 +44,7 @@ SEARCHABLE_NOTES_FIELDS = %w[
   scopecontent
   separatedmaterial
   userestrict
+  acqinfo
 ].freeze
 
 DID_SEARCHABLE_NOTES_FIELDS = %w[
@@ -248,7 +249,7 @@ SEARCHABLE_NOTES_FIELDS.map do |selector|
 end
 
 DID_SEARCHABLE_NOTES_FIELDS.map do |selector|
-  to_field "#{selector}_tesim", extract_xpath("/ead/archdesc/did/#{selector}", to_text: false)
+  to_field "#{selector}_ssm", extract_xpath("/ead/archdesc/did/#{selector}", to_text: false)
 end
 
 NAME_ELEMENTS.map do |selector|
