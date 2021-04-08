@@ -62,7 +62,10 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'arclight', github: 'projectblacklight/arclight', tag: 'v0.4.0'
-#gem 'arclight', github: 'archivalGrysbok/arclight'
+#gem 'arclight', github: 'archivalGrysbok/arclight', :branch => 'master'
+
+gem 'blacklight', '=7.10.0'
+
 gem 'blacklight_range_limit', '=7.9.0'
 group :development, :test do
   gem 'solr_wrapper', '>= 0.3'
@@ -75,3 +78,5 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'devise-guests', '~> 0.6'
 gem 'blacklight-locale_picker'
+
+gem 'sprockets', '=3.7.2'

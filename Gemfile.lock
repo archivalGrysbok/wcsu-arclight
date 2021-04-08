@@ -1,12 +1,12 @@
 GIT
-  remote: https://github.com/archivalGrysbok/arclight.git
-  revision: 131ec49c890024e97077ccdcf3ed4075ae344485
-  branch: master
+  remote: https://github.com/projectblacklight/arclight.git
+  revision: 70d8b42a75308a283017fb790807b50ec2ea79f7
+  tag: v0.4.0
   specs:
-    arclight (0.3.2)
+    arclight (0.4.0)
       blacklight (~> 7.2)
       blacklight_range_limit (~> 7.1)
-      rails (~> 5.0)
+      rails (>= 5.2.3, < 6.2)
       sprockets-bumble_d
       traject (~> 3.0)
       traject_plus (~> 1.2)
@@ -102,7 +102,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.1.8)
     crass (1.0.6)
     deprecation (1.0.0)
       activesupport
@@ -337,6 +337,7 @@ PLATFORMS
 
 DEPENDENCIES
   arclight!
+  blacklight (= 7.10.0)
   blacklight-locale_picker
   blacklight_range_limit (= 7.9.0)
   bootsnap (>= 1.1.0)
@@ -358,6 +359,7 @@ DEPENDENCIES
   solr_wrapper (>= 0.3)
   spring
   spring-watcher-listen (~> 2.0.0)
+  sprockets (= 3.7.2)
   sqlite3
   turbolinks (~> 5)
   twitter-typeahead-rails (= 0.11.1.pre.corejavascript)

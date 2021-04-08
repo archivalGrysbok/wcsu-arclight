@@ -18,5 +18,4 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 
 #Rails.application.config.assets.precompile += ["*.js", "*.css", "jquery-migrate-rails.js"]
 
-
 Rails.application.config.assets.prefix = "/public/assets/"
