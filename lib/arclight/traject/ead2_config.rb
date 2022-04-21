@@ -55,7 +55,7 @@ DID_SEARCHABLE_NOTES_FIELDS = %w[
 
 settings do
   provide 'reader_class_name', 'Arclight::Traject::NokogiriNamespacelessReader'
-  provide 'solr_writer.commit_on_close', 'true'
+  provide 'solr_writer.commit_on_close', 'false'
   provide 'repository', ENV['REPOSITORY_ID']
   provide 'logger', Logger.new($stderr)
 end
