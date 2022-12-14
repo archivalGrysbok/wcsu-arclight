@@ -27,11 +27,12 @@ Rails.application.configure do
 config.serve_static_files = true
 
   # Compress JavaScripts and CSS.
-  config.assets.js_compressor = :uglifier
+#  config.assets.js_compressor = :uglifier
+  config.assets.js_compressor = Uglifier.new(harmony: true)
   # config.assets.css_compressor = :sass
 
-  # Do not fallback to assets pipeline if a precompiled asset is missed.
-  config.assets.compile = false
+  # Do fallback to assets pipeline if a precompiled asset is missed.
+  config.assets.compile = true
 
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
 
@@ -51,11 +52,12 @@ config.serve_static_files = true
   # config.action_cable.allowed_request_origins = [ 'http://example.com', /http:\/\/example.*/ ]
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
-  config.force_ssl = true
+#  config.force_ssl = true
+  config.force_ssl = false
 
   # Use the lowest log level to ensure availability of diagnostic information
   # when problems arise.
-  config.log_level = :error
+  config.log_level = :debug
 
   # Prepend all log lines with the following tags.
   config.log_tags = [ :request_id ]
@@ -95,4 +97,8 @@ config.serve_static_files = true
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+
+  config.active_record.yaml_column_permitted_classes = [ActiveSupport::HashWithIndifferentAccess] #added in update to arcligh .5
+
 end
+

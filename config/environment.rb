@@ -4,5 +4,5 @@ require_relative 'application'
 Rails.application.initialize!
 
 
-ENV['REPOSITORY_FILE'] = "/home/arclight/arclight/config/repositories.yml"
+ENV['REPOSITORY_FILE'] = "/home/arclight/wcsu-arclight/config/repositories.yml"
 

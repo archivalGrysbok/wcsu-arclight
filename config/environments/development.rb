@@ -61,7 +61,7 @@ Rails.application.configure do
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
 
-  config.log_level = :warn
+  config.log_level = :error
 
 config.public_file_server.enabled = true
 
