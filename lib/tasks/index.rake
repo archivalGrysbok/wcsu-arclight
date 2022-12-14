@@ -28,7 +28,7 @@ namespace :caoArclight do
                  ENV['SOLR_URL'] || 'http://127.0.0.1:8983/solr/blacklight-core'
                end
     elapsed_time = Benchmark.realtime {
-      `bundle exec traject -u #{solr_url} -i xml -c ~/arclight/lib/arclight/traject/ead2_config.rb #{ENV['FILE']}`
+      `bundle exec traject -u #{solr_url} -i xml -c ~/wcsu-arclight/lib/arclight/traject/ead2_config.rb #{ENV['FILE']}`
     }
     print "Indexed #{ENV['FILE']} (in #{elapsed_time.round(3)} secs).\n"
   end
