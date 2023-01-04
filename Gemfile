@@ -61,7 +61,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'arclight', github: 'projectblacklight/arclight', tag: 'v0.4.0'
+gem 'arclight', github: 'projectblacklight/arclight', tag: 'v0.5.0'
 #gem 'arclight', github: 'archivalGrysbok/arclight', :branch => 'master'
 
 gem 'blacklight', '=7.10.0'
